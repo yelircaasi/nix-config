@@ -2,89 +2,53 @@
 
 ## Browsers
 
-### SORT - Browsers
+## Legend
 
-* {browser  luakit} [duane-r/luakit-styles](https://github.com/duane-r/luakit-styles)
-* {browser} [chawan](https://sr.ht/~bptato/chawan/) (written in Nim!)
-* {browser} [cromite](https://github.com/uazo/cromite)
-* {browser} [neosurf?tab=readme-ov-file](https://github.com/CobaltBSD/neosurf?tab%3Dreadme-ov-file) neosurf
-* {browser} [prism](https://github.com/PROxZIMA/prism) A beautiful, minimalist, static startpage
-* {browser} [thorium](https://thorium.rocks/)
-browser * mozzarella firefox extensions
-* {browser bookmarks} [jonschoning/espial: Espial is an open-source, web-based bookmarking server.](https://github.com/jonschoning/espial)
-* {browser cli} [Code search results](https://github.com/search?q%3Dpkgs.lynx%2Blanguage%253Anix%26type%3Dcode)
-* {browser extension} [gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.](https://github.com/gorhill/uBlock)
-* {browser extension} [keyx](https://github.com/susumuota/nostr-keyx)
-* {browser extension} [no-venv/modded-darkreader](https://github.com/no-venv/modded-darkreader)
-* {browser extension meta} [mozzarella](https://gnuzilla.gnu.org/mozzarella/)
-* {browser gemini} [gemini-rust](https://github.com/redpenguinyt/gemini-rust)
-* {browser luakit} [luakit/commits/develop](https://github.com/luakit/luakit/commits/develop/)
-* {browser rice} [colors - Change Firefox new tab background - Super User](https://superuser.com/questions/1235975/change-firefox-new-tab-background)
-* {browser rice} [How to Customize Firefox Reader View for Better Readability - Hongkiat](https://www.hongkiat.com/blog/customize-reader-view-theme-firefox/)
-* {browser rice} [openstyles/stylus: Stylus - Userstyles Manager](https://github.com/openstyles/stylus/tree/master)
-* {browser rice} [shina-fox](https://github.com/Shina-SG/Shina-Fox)
-* {browser rice} [tampermonkey](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)
-* {browser rice} [tampermonkey](https://www.tampermonkey.net/)
-* {browser ricing} [cascade](https://github.com/andreasgrafen/cascade)
-* {browser ricing} [Tile Tabs :: Add-ons for Firefox](https://web.archive.org/web/20170821155241/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs/?src%3Duserprofile)
-* [InBrowser.App](https://inbrowser.app/)
-* [Michasze/surf-wayland: Suckless surf browser that runs on Wayland compositors](https://github.com/Michasze/surf-wayland)
-* [Luakit Web Browser](https://luakit.github.io/)
-* [...](https://github.com/quickstrom/quickstrom/tree/main)
-* [Browserling – Online cross-browser testing](https://www.browserling.com/)
-* [Luakit Web Browser](https://luakit.github.io/#sec-download)
-* [luakit/luakit: Fast, small, webkit based browser framework extensible by Lua.](https://github.com/luakit/luakit)
-* [Vimb - A Minimal Browser with Vim like Bindings - YouTube](https://www.youtube.com/watch?v=26xWK35pinA)
-* [dillo-browser.github.io/](https://dillo-browser.github.io/)
-* [epicbrowser.com/privacy-policy](https://epicbrowser.com/privacy-policy)
-* [textbrowser/dooble](https://github.com/textbrowser/dooble)
-* [icecatbrowser.org/](https://icecatbrowser.org/)
-* [securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/](https://securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/)
-* [serverracket.com/](https://serverracket.com/)
-* [netsurf-browser.org/](https://www.netsurf-browser.org/)
-* [ii.com: Getting Started With qutebrowser](http://www.ii.com/qutebrowser-getting-started/)
-* [visurf: Minimal web browser based on netsurf](https://sr.ht/~sircmpwn/visurf/)
-* [wyeb | a vim-like webkit2gtk web browser](https://wyeb.org/)
-sw browser [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser)
-sw browser [greasyfork.org/](https://greasyfork.org/)
-sw browser [greasyfork.org/en/scripts/470753-mastodon-birdui-style-override](https://greasyfork.org/en/scripts/470753-mastodon-birdui-style-override)
-sw browser [greasyfork.org/en](https://greasyfork.org/en)
-sw browser extension [bug: chromium.extensions don't work for brave or ungoogled-chromium · Issue #2216 · nix-community/home-manager](https://github.com/nix-community/home-manager/issues/2216%23issuecomment-917507881)
+(0) - already installed and configured in nix-config
+(1) - already added to nix-config, but some work is needed
+(2) - to be added next
+(2.5 / 3.5) - to be added, but first decide between alternatives
+(3) - also to be added, but lower priority
+(4) - not decided yet / maybe later
+(5) - some rewriting or packaging necessary (but to be added)
 
-#### nyxt
+## Top
 
-* [video](https://www.youtube.com/@nyxt-browser)
-* [How to take notes in the Nyxt browser?](https://www.youtube.com/watch?v=8fmWWgU_gk4)
-* [video](https://www.youtube.com/@nyxtacademy5956)
-* [Vieb: More Than Jus](https://www.youtube.com/watch?v=6DPDExXs77Q)t A Vim Inspired Browser
-* [I'm leaving Firefox, and this is](https://www.youtube.com/watch?v=DgFS1Do_1As) the browser I picked...
+### nyxt
+
+* ( ) [video](https://www.youtube.com/@nyxt-browser)
+* ( ) [How to take notes in the Nyxt browser?](https://www.youtube.com/watch?v=8fmWWgU_gk4)
+* ( ) [video](https://www.youtube.com/@nyxtacademy5956)
+* ( ) [Vieb: More Than Jus](https://www.youtube.com/watch?v=6DPDExXs77Q)t A Vim Inspired Browser
+* ( ) [I'm leaving Firefox, and this is](https://www.youtube.com/watch?v=DgFS1Do_1As) the browser I picked...
 * Nyxt Intro Video [video](https://www.youtube.com/watch?v=8yBjfjFE0fk&t=193s)
-* [Crafting the Nyxt Browser](https://www.youtube.com/watch?v=Hvlkca98tyw)
-* [Nyxt Is The Most Custo](https://www.youtube.com/watch?v=SVteSEjKytw&t=175s)mizable Web Browser EVER
-* [Nyxt Web Browser - Keyboard driven, Lisp](https://www.youtube.com/watch?v=1TydtiWwZgQ&t=116s) Powered, And Does What I
-* [Nyxt: The Internet on your terms / Pierre](https://www.youtube.com/watch?v=wCHnb8pvneE) Neidhardt / GambiConf EU
-* [EmacsConf 2021: Emacs with Nyxt: extend your](https://www.youtube.com/watch?v=XarwuynpWkA) editor with the power of
-nyxt [How-to Theme Nyxt (the easy way) - YouTube](https://m.youtube.com/watch?v%3DtaNNvTWL3zo)
-nyxt [aartaka/nyxt-config](https://github.com/aartaka/nyxt-config)
-nyxt [search?q=nyxt&type=repositories&s=updated&o=desc](https://github.com/search?q%3Dnyxt%26type%3Drepositories%26s%3Dupdated%26o%3Ddesc)
-nyxt [search?q=nyxt+config&type=repositories&s=updated&o=desc](https://github.com/search?q%3Dnyxt%2Bconfig%26type%3Drepositories%26s%3Dupdated%26o%3Ddesc)
-nyxt [aartaka.me.eu.org/nyxt-to-surf](https://www.aartaka.me.eu.org/nyxt-to-surf)
-nyxt [r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/](https://www.reddit.com/r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/)
-nyxt [r/Nyxt/s/qMGTPsBpek](https://www.reddit.com/r/Nyxt/s/qMGTPsBpek) Nyxt dark
-* [anomalocaridid](https://github.com/Anomalocaridid/dotfiles/blob/main/home/nyxt.nix)
+* ( ) [Crafting the Nyxt Browser](https://www.youtube.com/watch?v=Hvlkca98tyw)
+* ( ) [Nyxt Is The Most Custo](https://www.youtube.com/watch?v=SVteSEjKytw&t=175s)mizable Web Browser EVER
+* ( ) [Nyxt Web Browser - Keyboard driven, Lisp](https://www.youtube.com/watch?v=1TydtiWwZgQ&t=116s) Powered, And Does What I
+* ( ) [Nyxt: The Internet on your terms / Pierre](https://www.youtube.com/watch?v=wCHnb8pvneE) Neidhardt / GambiConf EU
+* ( ) [EmacsConf 2021: Emacs with Nyxt: extend your](https://www.youtube.com/watch?v=XarwuynpWkA) editor with the power of
+* ( ) [How-to Theme Nyxt (the easy way) - YouTube](https://m.youtube.com/watch?v%3DtaNNvTWL3zo)
+* ( ) [aartaka/nyxt-config](https://github.com/aartaka/nyxt-config)
+* ( ) [search?q=nyxt&type=repositories&s=updated&o=desc](https://github.com/search?q%3Dnyxt%26type%3Drepositories%26s%3Dupdated%26o%3Ddesc)
+* ( ) [search?q=nyxt+config&type=repositories&s=updated&o=desc](https://github.com/search?q%3Dnyxt%2Bconfig%26type%3Drepositories%26s%3Dupdated%26o%3Ddesc)
+* ( ) [aartaka.me.eu.org/nyxt-to-surf](https://www.aartaka.me.eu.org/nyxt-to-surf)
+* ( ) [r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/](https://www.reddit.com/r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/)
+* ( ) [r/Nyxt/s/qMGTPsBpek](https://www.reddit.com/r/Nyxt/s/qMGTPsBpek) Nyxt dark
+* ( ) [anomalocaridid](https://github.com/Anomalocaridid/dotfiles/blob/main/home/nyxt.nix)
 
-#### qutebrowser
+### qutebrowser
 
-* [hallonfras/qutewal](https://github.com/hallonfras/qutewal)
-* [qutebrowser/qutebrowser at maint/flaky_js_tests](https://github.com/qutebrowser/qutebrowser/tree/maint/flaky_js_tests)
-* [qutebrowser/qutebrowser at maint/flaky_js_tests](https://github.com/qutebrowser/qutebrowser/tree/maint/flaky_js_tests)
-* [Support URL patterns for more settings (per-domain settings) · Issue #3636 · qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/issues/3636) [davidinspace/qutebrowser_dark_solarized: Dark solarized css stylesheet for qutebrowser. Make the web like your terminal ! :)](https://github.com/davidinspace/qutebrowser_dark_solarized)
-* [qutebrowser-themes/onedark.py at master · leosolid/qutebrowser-themes](https://github.com/leosolid/qutebrowser-themes/blob/master/themes/onedark.py)
-* [My qutebrowser config](https://gist.github.com/Ape/d0c48b3f7ec9c8efaecf48eaa1e75d0d)
-* [List type settings errors · Issue #3104 · qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/issues/3104) [change qutebrowser config editor - Google Search](https://www.google.com/search?client=firefox-b-d&q=change+qutebrowser+config+editor)
-* [cheatsheet-big.png (PNG Image, 3342 × 2060 pixels) — Scaled (46%)](https://qutebrowser.org/img/cheatsheet-big.png)
-* [Why I use qutebrowser and how I configure it - adblocking, note taking, and colors](https://youtu.be/Av8Sfaprcb4) [ii.com: qutebrowser Tips and Fragments](https://www.ii.com/qutebrowser-tips-fragments/)
-* [ii.com: qutebrowser’s Template config.py](https://www.ii.com/qutebrowser-configpy/)
+* ( ) [ii.com: Getting Started With qutebrowser](http://www.ii.com/qutebrowser-getting-started/)
+* ( ) [hallonfras/qutewal](https://github.com/hallonfras/qutewal)
+* ( ) [qutebrowser/qutebrowser at maint/flaky_js_tests](https://github.com/qutebrowser/qutebrowser/tree/maint/flaky_js_tests)
+* ( ) [qutebrowser/qutebrowser at maint/flaky_js_tests](https://github.com/qutebrowser/qutebrowser/tree/maint/flaky_js_tests)
+* ( ) [Support URL patterns for more settings (per-domain settings) · Issue #3636 · qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/issues/3636) [davidinspace/qutebrowser_dark_solarized: Dark solarized css stylesheet for qutebrowser. Make the web like your terminal ! :)](https://github.com/davidinspace/qutebrowser_dark_solarized)
+* ( ) [qutebrowser-themes/onedark.py at master · leosolid/qutebrowser-themes](https://github.com/leosolid/qutebrowser-themes/blob/master/themes/onedark.py)
+* ( ) [My qutebrowser config](https://gist.github.com/Ape/d0c48b3f7ec9c8efaecf48eaa1e75d0d)
+* ( ) [List type settings errors · Issue #3104 · qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/issues/3104) [change qutebrowser config editor - Google Search](https://www.google.com/search?client=firefox-b-d&q=change+qutebrowser+config+editor)
+* ( ) [cheatsheet-big.png (PNG Image, 3342 × 2060 pixels) — Scaled (46%)](https://qutebrowser.org/img/cheatsheet-big.png)
+* ( ) [Why I use qutebrowser and how I configure it - adblocking, note taking, and colors](https://youtu.be/Av8Sfaprcb4) [ii.com: qutebrowser Tips and Fragments](https://www.ii.com/qutebrowser-tips-fragments/)
+* ( ) [ii.com: qutebrowser’s Template config.py](https://www.ii.com/qutebrowser-configpy/)
 sw qute [Configuring qutebrowser | qutebrowser](https://qutebrowser.org/doc/help/configuring.html)
 sw qute [HS 2018 2019-SA-EP-Bruhin-Qutebrowser Made Extendible.pdf](https://eprints.ost.ch/id/eprint/743/1/HS%25202018%25202019-SA-EP-Bruhin-Qutebrowser%2520Made%2520Extendible.pdf)
 sw qute [How to use the qutebrowser.commands.cmdutils.register function in qutebrowser | Snyk](https://snyk.io/advisor/python/qutebrowser/functions/qutebrowser.commands.cmdutils.register)
@@ -105,9 +69,10 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 * (1) [nyxt](...)
 * (1) [qutebrowser](https://github.com/qutebrowser/qutebrowser)
-* (2) [luakit](...)
-* (4,5) [vimb](...)
-   | (5) [wyeb](...)
+* (2) [luakit](...) + [duane-r/luakit-styles](https://github.com/duane-r/luakit-styles) * [luakit/commits/develop](https://github.com/luakit/luakit/commits/develop/)
+      ( ) [Luakit Web Browser](https://luakit.github.io/#sec-download) [Luakit Web Browser](https://luakit.github.io/) [luakit/luakit: Fast, small, webkit based browser framework extensible by Lua.](https://github.com/luakit/luakit)
+* (4,5) [Vimb - A Minimal Browser with Vim like Bindings - YouTube](https://www.youtube.com/watch?v=26xWK35pinA)
+   | (5) [wyeb | a vim-like webkit2gtk web browser](https://wyeb.org/)
 * (4) [vieb](...)
 
 #### Mainstream-Style Browser
@@ -115,16 +80,36 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * (4) [librewolf](...)
    | (1) [firefox](...)
    | (2) [floorp](...)
+   | (3) [firedragon $$$](https://github.com/dr460nf1r3/firedragon-browser) - custom branding for Garuda Linux, but looks amazing
    | (4) [waterfox](...)
 * (1) [ungoogled-chromium](...)
    | (6) [chromium](...)
-   | (6) [thorium](...)
+   | (6) [thorium](https://thorium.rocks/)
    | (4) [brave](...)
    | (6) [vivaldi](...)
    | (4) [iridium](https://github.com/iridium-browser/iridium-browser)
 
+#### Mobile Browser
+
+* ( ) [epicbrowser.com/privacy-policy](https://epicbrowser.com/privacy-policy)
+* (1) Firefox Focus
+* (1) Adblock Browser
+* ( ) [cromite](https://github.com/uazo/cromite)
+* [bromite](...)
+* -> [securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/](https://securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/)
+
 #### Esoteric Browser
 
+##### Vim
+
+* ( ) [Michasze/surf-wayland: Suckless surf browser that runs on Wayland compositors](https://github.com/Michasze/surf-wayland)
+* ( ) [netsurf](https://www.netsurf-browser.org/) + [visurf](https://sr.ht/~sircmpwn/visurf/)
+* ( ) [neosurf](https://github.com/CobaltBSD/neosurf?tab%3Dreadme-ov-file) + [visurf](https://sr.ht/~sircmpwn/visurf/)
+
+##### Non-Vim
+
+* ( ) [textbrowser/dooble](https://github.com/textbrowser/dooble)
+* ( ) [dillo-browser.github.io/](https://dillo-browser.github.io/) Extensible with plugins written in any language (see the list of plugins).
 * (4) [ladybird](...)
 * (5) [min](...)
 * (6) [midori](https://github.com/goastian/midori-desktop)
@@ -145,23 +130,32 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 #### Maximal-Privacy Browser
 
 * (2) [tor](...)
-* (5) [icecat](...)
+* (5) [icecatbrowser.org/](https://icecatbrowser.org/)
 
-### Browser Ricing
+### SORT - Browser Ricing
 
-* [...](https://github.com/soulhotel/FF-ULTIMA)
-* [...](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
-* [...](https://superuser.com/questions/1337469/grasemonkey-change-design-css)
+* [prism](https://github.com/PROxZIMA/prism) A beautiful, minimalist, static startpage
+* ( ) [colors - Change Firefox new tab background - Super User](https://superuser.com/questions/1235975/change-firefox-new-tab-background)
+* ( ) [How to Customize Firefox Reader View for Better Readability - Hongkiat](https://www.hongkiat.com/blog/customize-reader-view-theme-firefox/)
+* ( ) [openstyles/stylus: Stylus - Userstyles Manager](https://github.com/openstyles/stylus/tree/master)
+* ( ) [shina-fox](https://github.com/Shina-SG/Shina-Fox)
+* ( ) [tampermonkey](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)
+* ( ) [tampermonkey](https://www.tampermonkey.net/)
+* ( ) [cascade](https://github.com/andreasgrafen/cascade)
+* ( ) [Tile Tabs :: Add-ons for Firefox](https://web.archive.org/web/20170821155241/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs/?src%3Duserprofile)
+* ( ) [ff-ultima](https://github.com/soulhotel/FF-ULTIMA)
+* ( ) [perfection-firefox-css-theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
+* ( ) [greasemonkey CSS](https://superuser.com/questions/1337469/grasemonkey-change-design-css)
 *      [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page)
 *      [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
-* [ ]  try Selenium on:            * [ ]  chrome-extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
-* [ ]  chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.htm
-* [ ]  moz-extension://fcb928ab-a898-4c47-9f85-2ff701b6e9dc/manage.htm
-* [ ]  moz-extension://ae95df29-277d-4ee3-aeb6-e4e84dfebada/manage.htm
-* [ ]  edge:  extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.htm
-* [ ]  edge: extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
-* [ ]  [selenium-python.readthedocs.io/installation.html](https://selenium-python.readthedocs.io/installation.html)
-* [ ]  [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
+* ( ) [ ]  try Selenium on:            * ( ) [ ]  chrome-extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
+* ( ) [ ]  chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.htm
+* ( ) [ ]  moz-extension://fcb928ab-a898-4c47-9f85-2ff701b6e9dc/manage.htm
+* ( ) [ ]  moz-extension://ae95df29-277d-4ee3-aeb6-e4e84dfebada/manage.htm
+* ( ) [ ]  edge:  extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.htm
+* ( ) [ ]  edge: extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
+* ( ) [ ]  [selenium-python.readthedocs.io/installation.html](https://selenium-python.readthedocs.io/installation.html)
+* ( ) [ ]  [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
 *      [M4cs/foxify-cli](https://github.com/M4cs/foxify-cli)
 *      [r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/](https://www.reddit.com/r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/)
 *      [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - work with old version of Firefox? fork old version? [flyingfox.netlify.app/](https://flyingfox.netlify.app/) [reddit](https://www.reddit.com/r/unixporn/comments/glbl4v/oc_its_not_normal_to_want_my_firefox_to_sit_on_my/)
@@ -171,7 +165,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 *      [stylish-userstyles/stylish](https://github.com/stylish-userstyles/stylish)
 *      [openstyles/stylus/wiki/UserCSS](https://github.com/openstyles/stylus/wiki/UserCSS)
 *      [FirefoxBar/xStyle](https://github.com/FirefoxBar/xStyle)
-* [Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors)
+* ( ) [Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors)
 * Sites to make custom CSS for:
   * Notion
   * GitHub
@@ -216,66 +210,70 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 *      [p3nguin-kun/penguinFox-Librewolf](https://github.com/p3nguin-kun/penguinFox-Librewolf)
 *      [gitlab.com/GasparVardanyan/solarized](https://gitlab.com/GasparVardanyan/solarized)
 *      [soup-bowl/Modoki-Firefox](https://github.com/soup-bowl/Modoki-Firefox) [[XFCE4] Chicago95 + Vaporvave = Awesome : unixporn](https://www.reddit.com/r/unixporn/comments/112oexs/xfce4_chicago95_vaporvave_awesome/)
-* [Where are installed Google Chrome extensions stored locally? - Stack Overflow](https://stackoverflow.com/questions/21475866/where-are-installed-google-chrome-extensions-stored-locally)
+* ( ) [Where are installed Google Chrome extensions stored locally? - Stack Overflow](https://stackoverflow.com/questions/21475866/where-are-installed-google-chrome-extensions-stored-locally)
 * sw  [yokoffing/Betterfox: Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.](https://github.com/yokoffing/Betterfox)
 
 #### Rice FF
 
-* [gitlab.com/domsch1988/domfox](https://gitlab.com/domsch1988/domfox)
+* ( ) [greasyfork.org/](https://greasyfork.org/)
+* ( ) [greasyfork.org/en/scripts/470753-mastodon-birdui-style-override](https://greasyfork.org/en/scripts/470753-mastodon-birdui-style-override)
+* ( ) [greasyfork.org/en](https://greasyfork.org/en)
+* ( ) [gitlab.com/domsch1988/domfox](https://gitlab.com/domsch1988/domfox)
 * rice ff  [Neikon/Fox11](https://github.com/Neikon/Fox11) HGKeeper
 * rice ff & chrome startpage
-* [reddit](https://www.reddit.com/r/unixporn/s/mvA6EhXF0t)
+* ( ) [reddit](https://www.reddit.com/r/unixporn/s/mvA6EhXF0t)
 * rice ff : config hack shitpost
-* [...](https://www.reddit.com/r/NixOS/s/bytkKR3Tvq)
-* [EliverLara/firefox-nordic-theme: :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.](https://github.com/EliverLara/firefox-nordic-theme)
-* [Make Firefox great again](https://www.youtube.com/watch?v%3DdwZpjKH8nbo)
-* [Tile Tabs WE :: Add-ons for Firefox](https://web.archive.org/web/20170821233327/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs-we/)
-* [arkenfox/user.js: Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening](https://github.com/arkenfox/user.js)
-* [firefox-userchrome · GitHub Topics](https://github.com/topics/firefox-userchrome)
-* [firefoxcss-store.github.io/](https://firefoxcss-store.github.io/)
-* [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx)
-* [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx)
-* [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one)
-* [HelgiMagic/FirefoxCSS](https://github.com/HelgiMagic/FirefoxCSS)
-* [Jamir-boop/minimalisticfox](https://github.com/Jamir-boop/minimalisticfox)
-* [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF)
-* [Naezr/ShyFox](https://github.com/Naezr/ShyFox)
-* [PENWINthePIRATE/firefox-one-pixelated](https://github.com/PENWINthePIRATE/firefox-one-pixelated)
-* [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
-* [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox)
-* [RoyalHeart/config/tree/main/chrome](https://github.com/RoyalHeart/config/tree/main/chrome)
-* [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox)
-* [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox)
-* [ShmakovVladimir/DolphinFox](https://github.com/ShmakovVladimir/DolphinFox)
-* [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox)
-* [alan-ar1/greenyfox](https://github.com/alan-ar1/greenyfox)
-* [artsyfriedchicken/EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr)
-* [davidbecker808/Edge-FFxArc](https://github.com/davidbecker808/Edge-FFxArc)
-* [iansinnott/full-text-tabs-forever](https://github.com/iansinnott/full-text-tabs-forever)
-* [lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
-* [lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
-* [safak45xx/Blurfox-MacOS-](https://github.com/safak45xx/Blurfox-MacOS-)
-* [soulhotel/Perfection-Firefox-CSS-Theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
-* [soulhotel/v2-Tabs-alpha-/tree/main](https://github.com/soulhotel/v2-Tabs-alpha-/tree/main)
-* [vipintom/stealthFox](https://github.com/vipintom/stealthFox)
-* [zDyanTB/ADHD-Floorp](https://github.com/zDyanTB/ADHD-Floorp)
-* [news.itsfoss.com/floorp-firefox/](https://news.itsfoss.com/floorp-firefox/)
-* [r/browsers/s/L0sHFRb1RU](https://www.reddit.com/r/browsers/s/L0sHFRb1RU) floorp
-* [lucaspar/firefox-vertical-tabs: Stylesheets for collapsible vertical tabs for Firefox.](https://github.com/lucaspar/firefox-vertical-tabs)
-* [user.js/desktop at main - user.js - Codeberg.org](https://codeberg.org/Narsil/user.js/src/branch/main/desktop)
+* ( ) [...](https://www.reddit.com/r/NixOS/s/bytkKR3Tvq)
+* ( ) [EliverLara/firefox-nordic-theme: :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.](https://github.com/EliverLara/firefox-nordic-theme)
+* ( ) [Make Firefox great again](https://www.youtube.com/watch?v%3DdwZpjKH8nbo)
+* ( ) [Tile Tabs WE :: Add-ons for Firefox](https://web.archive.org/web/20170821233327/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs-we/)
+* ( ) [arkenfox/user.js: Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening](https://github.com/arkenfox/user.js)
+* ( ) [firefox-userchrome · GitHub Topics](https://github.com/topics/firefox-userchrome)
+* ( ) [firefoxcss-store.github.io/](https://firefoxcss-store.github.io/)
+* ( ) [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx)
+* ( ) [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx)
+* ( ) [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one)
+* ( ) [HelgiMagic/FirefoxCSS](https://github.com/HelgiMagic/FirefoxCSS)
+* ( ) [Jamir-boop/minimalisticfox](https://github.com/Jamir-boop/minimalisticfox)
+* ( ) [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF)
+* ( ) [Naezr/ShyFox](https://github.com/Naezr/ShyFox)
+* ( ) [PENWINthePIRATE/firefox-one-pixelated](https://github.com/PENWINthePIRATE/firefox-one-pixelated)
+* ( ) [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
+* ( ) [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox)
+* ( ) [RoyalHeart/config/tree/main/chrome](https://github.com/RoyalHeart/config/tree/main/chrome)
+* ( ) [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox)
+* ( ) [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox)
+* ( ) [ShmakovVladimir/DolphinFox](https://github.com/ShmakovVladimir/DolphinFox)
+* ( ) [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox)
+* ( ) [alan-ar1/greenyfox](https://github.com/alan-ar1/greenyfox)
+* ( ) [artsyfriedchicken/EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr)
+* ( ) [davidbecker808/Edge-FFxArc](https://github.com/davidbecker808/Edge-FFxArc)
+* ( ) [iansinnott/full-text-tabs-forever](https://github.com/iansinnott/full-text-tabs-forever)
+* ( ) [lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
+* ( ) [lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
+* ( ) [safak45xx/Blurfox-MacOS-](https://github.com/safak45xx/Blurfox-MacOS-)
+* ( ) [soulhotel/Perfection-Firefox-CSS-Theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
+* ( ) [soulhotel/v2-Tabs-alpha-/tree/main](https://github.com/soulhotel/v2-Tabs-alpha-/tree/main)
+* ( ) [vipintom/stealthFox](https://github.com/vipintom/stealthFox)
+* ( ) [zDyanTB/ADHD-Floorp](https://github.com/zDyanTB/ADHD-Floorp)
+* ( ) [news.itsfoss.com/floorp-firefox/](https://news.itsfoss.com/floorp-firefox/)
+* ( ) [r/browsers/s/L0sHFRb1RU](https://www.reddit.com/r/browsers/s/L0sHFRb1RU) floorp
+* ( ) [lucaspar/firefox-vertical-tabs: Stylesheets for collapsible vertical tabs for Firefox.](https://github.com/lucaspar/firefox-vertical-tabs)
+* ( ) [user.js/desktop at main - user.js - Codeberg.org](https://codeberg.org/Narsil/user.js/src/branch/main/desktop)
 
 #### Other CSS
 
-* [gingeh](https://github.com/Gingeh/lastfm)
+* ( ) [gingeh](https://github.com/Gingeh/lastfm)
 
 ### TUI Browser
 
 * (2.5) [elinks](https://github.com/rkd77/elinks)
-   | (2.5) [lynx](...)
+   | (2.5) [lynx](...) - [Code search results](https://github.com/search?q%3Dpkgs.lynx%2Blanguage%253Anix%26type%3Dcode)
    | (2.5) [w3m](...)
    | (2.5) [links2](...)
 * (5) [w3m-mee](http://pub.ks-and-ks.ne.jp/prog/w3mmee/)
 * (2) [edbrowse](...)
+* ( ) [chawan](https://sr.ht/~bptato/chawan/) (written in Nim! handles CSS and JS)
 
 ### CLI Browser (truly minimalist)
 
@@ -290,7 +288,8 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ### Gemini and Other Non-Web Protocols -> see [ths guide](https://geminiquickst.art/)
 
-* (4) [Bombadillo ](https://tildegit.org/sloum/Bombadillo)- A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher.
+* ( ) [gemini-rust](https://github.com/redpenguinyt/gemini-rust)
+* (4) [Bombadillo](https://tildegit.org/sloum/Bombadillo)- A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher.
 * (4) [min](https://github.com/a-h/min) - A Gemini browser with Vim style keyboard navigation, client certificate support and history and bookmarks saved in TSV files.
 * (4) [asuka](https://git.sr.ht/~julienxx/asuka) - A Gemini Project client written in Rust with NCurses.
 * (4) [gplaces](https://github.com/dimkr/gplaces) - Simple but powerful terminal Gemini client.
@@ -298,6 +297,12 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * (4) [Amfora](https://github.com/makeworld-the-better-one/amfora) - Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.
 * (4) [Romulus](https://github.com/LukeEmmet/Romulus) - A cross platform Gemini console client in C# with a simple user interface, interactive menus and mouse support.
 * (4) [Telescope](https://github.com/omar-polo/telescope) - Gemini client with UI that is strongly inspired from Emacs and W3M.
+
+### Browser-Related Tools
+
+* [jonschoning/espial: Espial is an open-source, web-based bookmarking server.](https://github.com/jonschoning/espial)
+* ( ) [Browserling – Online cross-browser testing](https://www.browserling.com/)
+* ( ) [quickstrom](https://github.com/quickstrom/quickstrom/tree/main)
 
 ## SORT Search
 
@@ -320,11 +325,16 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ## SORT - Browser Extensions
 
+* [gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.](https://github.com/gorhill/uBlock)
+* [keyx](https://github.com/susumuota/nostr-keyx)
+* [no-venv/modded-darkreader](https://github.com/no-venv/modded-darkreader)
+* [mozzarella](https://gnuzilla.gnu.org/mozzarella/)
+* ( ) [bug: chromium.extensions don't work for brave or ungoogled-chromium · Issue #2216 · nix-community/home-manager](https://github.com/nix-community/home-manager/issues/2216%23issuecomment-917507881)
 * → GNU List: [gnuzilla.gnu.org/mozzarella/](https://gnuzilla.gnu.org/mozzarella/)
-* [adnauseam.io/](https://adnauseam.io/)
-* [kas-elvirov/gloc: :calendar: Browser extension: counts lines of code on GitHub](https://github.com/kas-elvirov/gloc)
+* ( ) [adnauseam.io/](https://adnauseam.io/)
+* ( ) [kas-elvirov/gloc: :calendar: Browser extension: counts lines of code on GitHub](https://github.com/kas-elvirov/gloc)
 
-### Google Docs etc.
+### Google Docs etc
 
 -> [r/vim/comments/tfeyue/update_google_docs_integration_for_vim_using](https://www.reddit.com/r/vim/comments/tfeyue/update_google_docs_integration_for_vim_using) *
 
@@ -404,10 +414,11 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ## SORT Webapps and Websites
 
+* meta ( ) [InBrowser.App](https://inbrowser.app/)
 * {dev website} [devhints.io/](https://devhints.io/)
-* [strangeloopcanon.com/](https://www.strangeloopcanon.com/)
-* [directory.fsf.org/wiki/Main_Page](https://directory.fsf.org/wiki/Main_Page)
-* [tweag.io/blog/](https://www.tweag.io/blog/)
+* ( ) [strangeloopcanon.com/](https://www.strangeloopcanon.com/)
+* ( ) [directory.fsf.org/wiki/Main_Page](https://directory.fsf.org/wiki/Main_Page)
+* ( ) [tweag.io/blog/](https://www.tweag.io/blog/)
 * {website} [git.wtf](https://git.wtf/)
 * {website} [Welcome to Dan’s Cheat Sheets’s documentation! — Dan's Cheat Sheets 1 documentation](https://cheat.readthedocs.io/en/latest/index.html)
 * {webapp} [Atlas: wikipedia-20231101-en](https://atlas.nomic.ai/map/475c26d7-b142-4795-9887-02b6eeb18dc0/0d312be6-a3bb-4586-b6b7-53dcd0cbefa5)
@@ -426,7 +437,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * {webapp} [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * {webapp} [imgupscaler.com/](https://imgupscaler.com/)
 * {webapp} [google.com/search?client=firefox-b-d&q=free+ai+upscale+image+resolution](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dfree%2Bai%2Bupscale%2Bimage%2Bresolution)
-* {webapp} [upscale.media/](https://www.upscale.media/) →* [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
+* {webapp} [upscale.media/](https://www.upscale.media/) →* ( ) [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
 * {webapp} [...](https://developers.google.com/drive/api/guides/search-files%23java) → list all drive files
 * {webapp} [...](https://www.canva.com/free/)
 * {webapp} [...](https://www.profanity.dev/)
@@ -437,24 +448,24 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * {webapp} [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 * {webapp} [webshell](https://github.com/nasan016/webshell)
 * {webapp} [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
-* webapp $$$ * [wbo](https://wbo.ophir.dev/)
-* webapp $$$ * [Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension)
-* webapp language-learning* [openwords](https://github.com/Openwords)
-* webapp language-learning* [otakar-smrz/elixir-fm: ElixirFM Functional Arabic Morphology](https://github.com/otakar-smrz/elixir-fm)
+* webapp $$$ * ( ) [wbo](https://wbo.ophir.dev/)
+* webapp $$$ * ( ) [Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension)
+* webapp language-learning* ( ) [openwords](https://github.com/Openwords)
+* webapp language-learning* ( ) [otakar-smrz/elixir-fm: ElixirFM Functional Arabic Morphology](https://github.com/otakar-smrz/elixir-fm)
 * {webapp security} [digital-defense](https://digital-defense.io/)
 * {webapp storage} [Nextcloud](...)
-* [mathcha.io/](https://www.mathcha.io/)
+* ( ) [mathcha.io/](https://www.mathcha.io/)
 * How does mirroring between git servers work?
-* [puter.com/app/terminal](https://puter.com/app/terminal)
-* [yacy.de/](https://yacy.de/)
-* [Openwords (Openwords)](https://github.com/Openwords)
-* [browserling.com/](https://www.browserling.com/)
-* [Open-Source Application Development :: add0n.com](https://add0n.com/index.html)
-* [webextension.org/](https://webextension.org/)
-* [farside](https://farside.link/)
-* [strato.de](ghttp://strato.de) V-Server Linux
-* [1337x.to/](https://1337x.to/) torrent search
-* [puter](https://github.com/HeyPuter)
+* ( ) [puter.com/app/terminal](https://puter.com/app/terminal)
+* ( ) [yacy.de/](https://yacy.de/)
+* ( ) [Openwords (Openwords)](https://github.com/Openwords)
+* ( ) [browserling.com/](https://www.browserling.com/)
+* ( ) [Open-Source Application Development :: add0n.com](https://add0n.com/index.html)
+* ( ) [webextension.org/](https://webextension.org/)
+* ( ) [farside](https://farside.link/)
+* ( ) [strato.de](ghttp://strato.de) V-Server Linux
+* ( ) [1337x.to/](https://1337x.to/) torrent search
+* ( ) [puter](https://github.com/HeyPuter)
 
 ### Misc Web
 
@@ -512,8 +523,8 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 ### Media
 
 * ( ) [Invidious](https://invidious.io/)
-* [artemislena](https://yt.artemislena.eu/)
-* [tube.cadence.mode](https://tube.cadence.moe/)
+* ( ) [artemislena](https://yt.artemislena.eu/)
+* ( ) [tube.cadence.mode](https://tube.cadence.moe/)
 * ( ) [PeerTube](https://framagit.org/chocobozzz/PeerTube)
 * ( ) [Mediagoblin](http://mediagoblin.org/)
 * ( ) [tubo](https://migalmoreno.com/projects/tubo.html)
@@ -524,7 +535,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * ( ) [rumble.com](https://rumble.com/)
 * ( ) [Odysee](https://odysee.com/)
 * ( ) [redlib instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)
-* [status site](https://stats.uptimerobot.com/mpmqAs1G2Q)
+* ( ) [status site](https://stats.uptimerobot.com/mpmqAs1G2Q)
 * ( ) [nitter instances](https://github.com/zedeus/nitter/wiki/Instances)
 * ( ) [imginn](https://imginn.com/)
 
@@ -555,16 +566,16 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * ( ) [web3os](https://web3os.sh/): A decentralized operating system for the next web
 * ( ) [mockitt](https://mockitt.wondershare.com/home.html)
 * ( ) [archive](https://archive.is/) ([alt](https://archive.ph/)
-* [alt](https://archive.ph/)
-* [alt](https://archive.today/))
+* ( ) [alt](https://archive.ph/)
+* ( ) [alt](https://archive.today/))
 * ( ) [overtime-cli](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 * ( ) [typelit](https://www.typelit.io/)
 * ( ) [LibreTranslate - Free and Open Source Machine Translation API](https://libretranslate.com/)
 * ( ) [owasp](https://owasp.org/)
 * ( ) [clcalc](https://github.com/ovk/clcalc)
-* [site](https://clcalc.net/)
+* ( ) [site](https://clcalc.net/)
 * ( ) [learn-anything](https://github.com/learn-anything/learn-anything.xyz)
-* [site](https://learn-anything.xyz/)
+* ( ) [site](https://learn-anything.xyz/)
 
 ### Document Editing, Wiki Software (Web)
 
@@ -574,6 +585,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ## Web Development
 
+* (2) [serverracket.com/](https://serverracket.com/)
 * {web} [...](https://codeberg.org/kitten/app)
 * {web} [...](https://federicoterzi.com/raji/) [github](https://github.com/federico-terzi/raji)
 * {web} [...](https://www.shuttle.rs/blog/2023/12/20/loco-rust-rails)
@@ -600,8 +612,8 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * {web perso} [...](https://mastodon.social/@matthiasott/111447516296786143)
 * {web rust} [🦀 RUST y HTMX | Creamos una web con Rust | Parte 1](https://www.youtube.com/watch?v%3Dfcc5KRmHZgI)
 * ( ) [slimerjs](https://slimerjs.org/)
-* [html-first.com/](https://html-first.com/)
-* [caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Search [caniuse.com](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/caniuse.com) about browser support of features.
+* ( ) [html-first.com/](https://html-first.com/)
+* ( ) [caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Search [caniuse.com](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/caniuse.com) about browser support of features.
 
 ## Web and Networking Tools
 
@@ -668,7 +680,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * (4) [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
 * (4) [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive HTTPS proxy.
 
-##### Adblocking
+##### Adblocking2
 
 * (2) [hblock](https://github.com/hectorm/hblock) - Hosts-file based adblocker
 * (2) [maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
@@ -683,20 +695,20 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 ##### Security etc
 
 * (->)
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* ( ) [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * (4) [TRASA](https://trasa.io/)**: Zero trust access to Web, SSH, RDP, and Database services.
 * (2) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 
 ##### Firewalls
 
 * (PG)
-* [FireHOL](https://firehol.org/) - Linux firewall (`iptables`) manager for humans.
+* ( ) [FireHOL](https://firehol.org/) - Linux firewall (`iptables`) manager for humans.
 * (PG)[firewalld -](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
 * (PG)
-* [GuFW](https://gufw.org/) - One of the easiest firewalls in the world of Linux.
+* ( ) [GuFW](https://gufw.org/) - One of the easiest firewalls in the world of Linux.
 * (PG)[opensnitch -](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 * (PG)
-* [Portmaster](https://safing.io/) - Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer’s network activity.
+* ( ) [Portmaster](https://safing.io/) - Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer’s network activity.
 
 #### Networking, SSH
 
@@ -780,7 +792,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * ( ) [aria2](https://aria2.github.io/)
 * ( ) [scrapeghost/](https://github.com/jamesturk/scrapeghost/) - extend with other LLMs
 *[aria2 -](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
-* [httrack.com/](https://www.httrack.com/)
+* ( ) [httrack.com/](https://www.httrack.com/)
 * ( ) [clauneck](https://github.com/serpapi/clauneck)
 * ( ) [cli](https://github.com/httpie/cli) - [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
 * ( ) [...](https://rg3.github.io/youtube-dl/)
@@ -797,7 +809,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ## Communication and Social Applications
 
-* [Dimillian/IceCubesApp: A SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
+* ( ) [Dimillian/IceCubesApp: A SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
 * ( ) [Castopod^
 * ( ) [ForgeFed](...)
 * ( ) [Kazarma](...)
@@ -818,8 +830,8 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * ( ) [feddit](https://browse.feddit.de/)
 * ( ) [threadreaderapp](https://threadreaderapp.com/)
 * ( ) [weechat](https://weechat.org/)
-* [scripts](https://weechat.org/scripts/)
-* [weechatbot](https://github.com/sndrsmnk/weechatbot)
+* ( ) [scripts](https://weechat.org/scripts/)
+* ( ) [weechatbot](https://github.com/sndrsmnk/weechatbot)
 * ( ) [irssi](https://irssi.org/ )
 * ( ) [msmtp](https://marlam.de/msmtp/ )
 * ( ) [offlineimap](https://www.offlineimap.org/)
@@ -827,6 +839,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ### Email
 
+* ( ) [pop](https://github.com/charmbracelet/pop)
 * → [20 most secure email providers to use in 2023 - PrivacySavvy](https://privacysavvy.com/email/best/secure-email-providers/#h-1-protonmail)
 * → [seniormars.github.io/posts/neomutt/](https://seniormars.github.io/posts/neomutt/)
 * (2) [proton](https://proton.me/pricing)
@@ -856,7 +869,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * ( ) [meli](https://git.meli.delivery/meli/meli) - BSD/Linux terminal email client with support for multiple accounts and Maildir / mbox / notmuch / IMAP / JMAP.
 * ( ) [nmail](https://github.com/d99kris/nmail) - nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.
 * ( ) [pymailgen](https://github.com/toolleeo/pymailgen) - Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client.
-* ( ) [skiff](https://skiff.com/ -  discussed [here](<find video>) (along with Proton)
+* ( ) [skiff](https://skiff.com/) -  discussed [here](<find video>) (along with Proton)
 * ( ) [sup](https://github.com/sup-heliotrope/sup) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
 * ( ) [tmpmail](https://github.com/sdushantha/tmpmail) - A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
 
@@ -949,6 +962,10 @@ Fedilab
 
 ### Other
 
+* -> pigeon, finch, libpurple
+
+### SORT
+
 * (2) [Discourse](https://discourse.org/) - Community forum
 * (4) [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH
 * (4) [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
@@ -960,13 +977,13 @@ Fedilab
 * (4) [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service. ([GNU GPLv3](https://ring.cx/en/about/practical))
 * (4) [nostr](https://nostr.com/)
 * (4) [mumble](https://github.com/mumble-voip/mumble)- voice chat
-* [botamusique](https://github.com/azlux/botamusique)- music bot for mumble
+* ( ) [botamusique](https://github.com/azlux/botamusique)- music bot for mumble
 * (4) [utopia](https://u.is/en)
 * (4) [Gajim](https://gajim.org/) - XMPP/Jabber client for desktop. ([GNU GPLv3](https://dev.gajim.org/gajim/gajim/blob/master/COPYING))
 * (4) [Conversations](https://conversations.im/) - XMPP/Jabber client for Android. ([GNU GPLv3](https://github.com/siacs/Conversations/blob/master/LICENSE))
 * (4) [finch](https://linux.die.net/man/1/finch)
 * (4) [Jami](https://jami.net/) - Chat. Talk. Share. Jami is a free and universal communication platform which preserves the users’ privacy and freedoms. Formerly Ring.
-* messaging * [Coccinella: Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/coccinella/about/)
+* messaging * ( ) [Coccinella: Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/coccinella/about/)
 * {messaging} [jitsi meet](...)
 * {messaging} [kbin](https://kbin.social/)
 * {messaging} [matrix-org/matrix-hookshot: A bridge between Matrix and multiple project management services, such as GitHub, GitLab and JIRA.](https://github.com/matrix-org/matrix-hookshot)
@@ -976,3 +993,4 @@ Fedilab
 * {messaging} [toot](https://github.com/ihabunek/toot) - Mastodon CLI & TUI
 * {messaging email} [...](https://jonathanh.co.uk/blog/mutt-setup/)
 * {messaging matrix} [8go/matrix-commander: simple but convenient CLI-based Matrix client app for sending and receiving](https://github.com/8go/matrix-commander)
+* {cli web} [suckit](https://github.com/skallwar/suckit)

@@ -2,6 +2,16 @@
 
 ## BEST GUI Editors
 
+## Legend
+
+(0) - already installed and configured in nix-config
+(1) - already added to nix-config, but some work is needed
+(2) - to be added next
+(2.5 / 3.5) - to be added, but first decide between alternatives
+(3) - also to be added, but lower priority
+(4) - not decided yet / maybe later
+(5) - some rewriting or packaging necessary (but to be added)
+
 * (2) [emacs](https://www.gnu.org/software/emacs/)
 * (3) [qtconsole](https://github.com/jupyter/qtconsole)
 * (4) [zettlr](...)

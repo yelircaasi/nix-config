@@ -15,7 +15,7 @@
 
 ## .gitignore Utilities
 
-* [add-gitignore -](https://github.com/TejasQ/add-gitignore) - An interactive CLI that generates a .gitignore for your project based on your needs. → [nectar.js.org/,](https://nectar.js.org/)[pkg,](https://github.com/vercel/pkg,)[link](https://stackoverflow.com/questions/70662886/how-to-compile-node-js-to-binary-release-with-native-modules)
+* ( ) [add-gitignore -](https://github.com/TejasQ/add-gitignore) - An interactive CLI that generates a .gitignore for your project based on your needs. → [nectar.js.org/,](https://nectar.js.org/)[pkg,](https://github.com/vercel/pkg,)[link](https://stackoverflow.com/questions/70662886/how-to-compile-node-js-to-binary-release-with-native-modules)
 * ( ) [shihanng/gig](https://github.com/shihanng/gig)
 
 ## Diff
@@ -46,9 +46,10 @@
 
 ## Git Hooks → [Git hooks, practical uses (yes, even on Windows) - YouTube](https://www.youtube.com/watch?v=fMYv6-SZsSo)
 
-* [→](https://githooks.com/)
-* [→](https://www.atlassian.com/git/tutorials/git-hooks)
-* [→](https://verdantfox.com/blog/view/how-to-use-git-pre-commit-hooks-the-hard-way-and-the-easy-way)
+* ( ) [git-vogue: A framework for pre-commit checks.](https://hackage.haskell.org/package/git-vogue)
+* ( ) [→](https://githooks.com/)
+* ( ) [→](https://www.atlassian.com/git/tutorials/git-hooks)
+* ( ) [→](https://verdantfox.com/blog/view/how-to-use-git-pre-commit-hooks-the-hard-way-and-the-easy-way)
 * ( ) [Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks), [git-scm.com/docs/githooks](https://git-scm.com/docs/githooks)
 * ( ) [lefthook](https://github.com/evilmartians/lefthook)- looks really really good
 * ( )  [pre-commit](https://pre-commit.com/) - A framework for managing and maintaining multi-language pre-commit hooks - already using; just need to compare with lefthook
@@ -68,7 +69,7 @@
 * ( ) [Gitnuro](https://github.com/JetpackDuba/Gitnuro)- FOSS, written in Kotlin
 * ( ) [GitCola](https://git-cola.github.io/) - Git Cola is a sleek and powerful graphical Git client. Written in Python and GPL-licensed. (Python)
 * ( ) [rabbitvcs](https://github.com/rabbitvcs/rabbitvcs)[Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use.
-* ( ) [...](https://gitbreeze.dev/ - Vershd is the free for personal use effortless Git GUI for Windows, Mac, & Linux. - not FOSS, but interesting (Python)
+* ( ) [gitbreeze](https://gitbreeze.dev/) - Vershd is the free for personal use effortless Git GUI for Windows, Mac, & Linux. - not FOSS, but interesting (Python)
 * ( ) [Gitg](https://wiki.gnome.org/Apps/Gitg) - Gitg is the GNOME GUI client to view git repositories.
 * ( ) [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client for Windows, Mac & Linux. - will try for the experience, but too proprietary for me
 * ( ) [scgit](https://git.sr.ht/~misterio/scgit)
@@ -90,12 +91,12 @@
 
 * ( ) [git-cliff](https://github.com/orhun/git-cliff)
 * ( ) [commitlint.js.org](https://commitlint.js.org/#/reference-rules)
-* [→ [commitlint.js.org/#/reference-rules](https://commitlint.js.org/#/reference-rules)*](https://commitlint.js.org/#/reference-rules](https://commitlint.js.org/#/reference-rules)*
-* [freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/)*](https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/)*
-* [conventionalcommits.org/en/v1.0.0/)](https://www.conventionalcommits.org/en/v1.0.0/))
-* ( ) [cz-cli](https://github.com/commitizen/cz-cli)http://commitizen.github.io/cz-cli/
+* ( ) [commitlint.js.org/#/reference-rules](https://commitlint.js.org/#/reference-rules)
+* ( ) [freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/)*](https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/)*
+* ( ) [conventionalcommits.org/en/v1.0.0/)](https://www.conventionalcommits.org/en/v1.0.0/))
+* ( ) [cz-cli](https://github.com/commitizen/cz-cli)
 * ( ) [...](https://github.com/jorisroovers/gitlint)
-* ( ) [cz-git -](https://github.com/Zhengqbbb/cz-git) - https://cz-git.qbb.sh/  * Interactively generate standardized commit messages.
+* ( ) [cz-git -](https://github.com/Zhengqbbb/cz-git) - [site](https://cz-git.qbb.sh/)  * Interactively generate standardized commit messages.
 * ( ) [node-semantic-git-commit-cli -](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages. With emoji support. - supports per-project rules
 * ( ) [git-cz -](https://github.com/streamich/git-cz) - Semantic Git commits.
 * ( ) [rcz -](https://github.com/Cassin01/rcz) - A tool to write a commit message based on “Conventional Commits”.
@@ -117,7 +118,7 @@
 * ( ) [git-stats -](https://github.com/IonicaBizau/git-stats) - Local git statistics including GitHub-like contributions calendars. → make pie chart into square (fibonacci-style tiling!) - need to fork and improve → shows contribution calendar!!! use for work, too
 * ( ) [gitsummary -](https://github.com/glenreesor/gitsummary) - A better git status that lists stashes, file statuses, branch list, all nicely formatted with color.
 * ( ) [...](https://git.causal.agency/cgit-pink/about/)
-* [git.zx2c4.com/cgit/](https://git.zx2c4.com/cgit/) - A hyperfast web frontend for git repositories written in C.
+* ( ) [git.zx2c4.com/cgit/](https://git.zx2c4.com/cgit/) - A hyperfast web frontend for git repositories written in C.
 * ( ) [ghcal](https://github.com/IonicaBizau/ghcal)- nice GH calendar → hack and inmprove; good JS exercise for me
 
 ## Git Extensions
@@ -138,7 +139,7 @@
 * ( ) [git-standup](https://github.com/kamranahmedse/git-standup)- Recall what you did on the last working day. - looks good, great idea, just make compatible with semantic commits and write in a lighter language
 * ( ) [scm_breeze](https://github.com/ndbroadbent/scm_breeze) - Streamline your git workflow
 * ( ) [gee](https://github.com/human37/gee) - CLI repository manager and automation tool written in rust.
-* vc * [...](https://bugwarrior.readthedocs.io/en/latest/index.html)
+* vc * ( ) [...](https://bugwarrior.readthedocs.io/en/latest/index.html)
 * {vc} [...](https://v5.chriskrycho.com/essays/jj-init/)
 * {vc} [...](https://www.reddit.com/r/neovim/s/ABJNQ1S1ux) lazygit vs neogit
 * {vc} [bugwarrior](https://github.com/ralphbean/bugwarrior) Compare sourcehut, codeberg, gitlab to github -> which have something analogous to an organization? (Important for mirroring my organizations -> otherwise separate account? Stay on Github? All in same account? Nah, there MUST be a way)Steve Oualline - Wicked Cool Perl Scripts : Useful Perl Scripts That Solve Difficult Problems
@@ -146,3 +147,11 @@
 * {vc} [Gitless](https://gitless.com/)
 vc * Check out jj (name? new and improved git)
 * {vc tui} [Introduction · Tig - Text-mode interface for Git](https://jonas.github.io/tig/)
+
+## SORT
+
+* ( ) [git log alias](https://www.reddit.com/r/git/s/bu6LppB573) git log alias
+* ( ) [gitoxide](https://github.com/Byron/gitoxide)
+* ( ) [mkgit](https://github.com/cosmicwanderer7/mkgit) - automates the process of creating a new GitHub repository, initializing it with a README file, and pushing the initial commit to the remote repository
+* ( ) [qw3rtman/git-fire: :fire: Save Your Code in an Emergency](https://github.com/qw3rtman/git-fire)
+* ( ) [So You Think You Know Git?](https://youtu.be/aolI_Rz0ZqY?si%3DDQSGDv-KVeKOvJkM)

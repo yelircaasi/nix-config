@@ -1,14 +1,13 @@
 # misc
 
-? ( )
-* [utf8.nvim](https://github.com/uga-rosa/utf8.nvim)
+* ( ) [utf8.nvim](https://github.com/uga-rosa/utf8.nvim)
 * ( ) [TreePin](https://github.com/KaitlynEthylia/TreePin) - A lightweight neovim plugin for pinning fragments of code to the screen.
 
-### Scheduling
+## Scheduling
 
 * [sche.nvim](https://github.com/Cassin01/sche.nvim)
 
-### Dates
+## Dates
 
 * ( ) [nvim-relative-date](https://github.com/Gelio/nvim-relative-date)
 * ( ) [vim-speeddating](https://github.com/tpope/vim-speeddating)
@@ -23,7 +22,7 @@
 * ( ) [nvim-workbench](https://github.com/weizheheng/nvim-workbench)
 * ( ) [context.vim](https://github.com/wellle/context.vim) ### Vim plugin that shows the context of the currently visible buffer contents
 * ( ) [vim-bundle-abbreviate](https://github.com/Traap/vim-bundle-abbreviate)
-* ( ) [NeoComposer.nvim)
+* ( ) [NeoComposer.nvim]
 * [nvim NeoComposer thread](https://www.reddit.com/r/neovim/comments/12uou0i/introducing_neocomposer_the_missing_symphony_in/)
 * ( ) [silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 * ( ) [nvim-remote-containers) or [nvim-dev-container](https://github.com/esensar/nvim-dev-container)
@@ -43,29 +42,29 @@
 * ( ) [GhostText: 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).](https://github.com/fregante/GhostText)
 * ( ) [vim-rzip](https://github.com/lbrayner/vim-rzip)
 
-### Human-readable
+## Human-readable
 
 * ( ) [purl.nvim](https://github.com/chuck-flowers/purl.nvim)
 * ( ) [readable-number.nvim](https://github.com/asrul10/readable-number.nvim)
 
-#### bionic reading
+### bionic reading
 
 * ( ) [easyread.nvim](https://github.com/JellyApple102/easyread.nvim)
 * ( ) [bionic-reading.nvim](https://github.com/FluxxField/bionic-reading.nvim)
 * ( ) [bionic.nvim](https://github.com/HampusHauffman/bionic.nvim)
 
-#### Scratchpad
+### Scratchpad
 
 * ( ) [ScratchPad](https://github.com/FraserLee/ScratchPad)
 * ( ) [scratchpad.nvim](https://github.com/sindrets/scratchpad.nvim)
  [part-edit.nvim](https://github.com/niuiic/part-edit.nvim)
 * ( ) [scratch.nvim](https://github.com/musaubrian/scratch.nvim)
 
-#### Performance Test
+### Performance Test
 
 * ( ) [nvim-apm](https://github.com/pseudocc/nvim-apm)   
 
-#### Security
+### Security
 
 * ( ) [ccryptor.nvim](https://github.com/kurotych/ccryptor.nvim)
 * ( ) [keep-it-secret.nvim](https://github.com/roberte777/keep-it-secret.nvim)
@@ -77,38 +76,38 @@
 * ( ) [readonly.nvim](https://github.com/bgaillard/readonly.nvim)
 * ( ) [DevSecInspect.nvim](https://github.com/GeekMasher/DevSecInspect.nvim)
 
-### Privacy
+## Privacy
 
 * ( ) [whiteout.nvim](https://github.com/mimisheesharp/whiteout.nvim)
 
-#### [Hex Editor
+### Hex Editor
 
 * ( ) [paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim)
 * ( ) [hex.nvim](https://github.com/RaafatTurki/hex.nvim)
 * ( ) [hexamine.nvim](https://github.com/vetsE/hexamine.nvim)
 
-#### Mail
+### Mail
 
 * ( ) [nvim-mail-merge](https://github.com/martineausimon/nvim-mail-merge)
 * ( ) [mountaineer.nvim](https://github.com/elmarsto/mountaineer.nvim)
 
-#### Calendar
+### Calendar
 
 * ( ) [cal.nvim](https://github.com/gaoDean/cal.nvim)
 * ( ) [Calendar.nvim](https://github.com/ds1sqe/Calendar.nvim)
 * ( ) [apc.nvim](https://github.com/aPeoplesCalendar/apc.nvim)
 * ( ) [calendar-vim](https://github.com/mattn/calendar-vim) - [calendar-vim](https://git.sr.ht/~renerocksai/calendar-vim)
 
-#### Notes, Studying
+### Notes, Studying
 
 * ( ) [telekasten.nvim](https://github.com/renerocksai/telekasten.nvim)
 
-#### Presentation
+### Presentation
 
 * ( ) [present.nvim](https://github.com/Chaitanyabsprip/present.nvim)
 * ( ) [vimdeck](https://github.com/tybenz/vimdeck) ### present inside your Vim
 
-#### Update check
+### Update check
 
 󰰰 [checkupdate.nvim](https://github.com/diegoroccia/checkupdate.nvim)
 
@@ -207,6 +206,7 @@ x [bepo.nvim](https://github.com/vetsE/bepo.nvim)
 
 ### Typing
 
+* ( ) [smassh](https://github.com/kraanzu/smassh) Smassh your Keyboard, TUI Edition
 * ( ) [typebreak.nvim](https://github.com/nagy135/typebreak.nvim)
 * ( ) [duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim)
 * ( ) [keylab.nvim](https://github.com/BooleanCube/keylab.nvim)
@@ -365,6 +365,8 @@ x [bepo.nvim](https://github.com/vetsE/bepo.nvim)
 
 ### Command
 
+* ( ) [alias.nvim](https://github.com/FredeEB/alias.nvim)
+yank / paste / clipboard
 * ( ) [nvim-conv](https://github.com/simonefranza/nvim-conv)
 * ( ) [nvim-eswpoch](https://github.com/hlucco/nvim-eswpoch)
 * ( ) [live-command.nvim](https://github.com/smjonas/live-command.nvim)
@@ -580,11 +582,6 @@ search / cd-style filesystem navigation
 ### Global variables
 
 * ( ) [hlglobals.nvim](https://github.com/vhminh/hlglobals.nvim)
-
-### Command
-
-* ( ) [alias.nvim](https://github.com/FredeEB/alias.nvim)
-yank / paste / clipboard
 
 ### Jira
 

@@ -88,3 +88,25 @@ r reddit s unixporn                                <|> [r/unixporn/s/tdjNY4PC4Z]
 youtube                                            <|> [video](https://www.youtube.com/@Serokell/playlists)
 youtube watch                                      <|> [...](https://m.youtube.com/watch?v=72y2EC5fkcE)
 youtube watch new                                  <|> [...](https://m.youtube.com/watch?v=GVlPQjkb8SE)
+
+
+# Notes to Sort
+
+[llandy3d.github.io/sway-on-ubuntu/](https://llandy3d.github.io/sway-on-ubuntu/)
+
+[wiki.hyprland.org/Nvidia/](https://wiki.hyprland.org/Nvidia/)
+
+[gist.github.com/Vertecedoc4545/3b077301299c20c5b9b4db00f4ca6000](https://gist.github.com/Vertecedoc4545/3b077301299c20c5b9b4db00f4ca6000)
+
+[wiki.hyprland.org/Getting-Started/Installation/](https://wiki.hyprland.org/Getting-Started/Installation/)
+
+## Sort
+
+-> * [IMSLP: Free Sheet Music PDF Download](https://imslp.org/wiki/Main_Page)
+
+
+https://meyerweb.com/eric/tools/color-blend
+https://gitlab.gnome.org/GNOME/gtk/-/blob/gtk-3-24/gtk/theme/Adwaita/_colors-public.scss
+https://www.rgbtohex.net/
+https://news.ycombinator.com/item?id=40200343
+https://itsfoss.com/thunar-tweaks/

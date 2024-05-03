@@ -1,6 +1,14 @@
 # System Software
 
-## System
+## Legend
+
+(0) - already installed and configured in nix-config
+(1) - already added to nix-config, but some work is needed
+(2) - to be added next
+(2.5 / 3.5) - to be added, but first decide between alternatives
+(3) - also to be added, but lower priority
+(4) - not decided yet / maybe later
+(5) - some rewriting or packaging necessary (but to be added)
 
 ### SORT
 
@@ -41,6 +49,7 @@
 * (4) [cpu-x](https://thetumultuousunicornofdarkness.github.io/CPU-X/)
 * (2) [systeroid](https://github.com/orhun/systeroid)
 * (2) [tlp](https://linrunner.de/tlp/)
+* ( ) [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 * (2) [htop](https://github.com/htop-dev/htop)
    |  [glances](https://github.com/nicolargo/glances)
    |  [bottom](https://clementtsang.github.io/bottom/nightly/)
@@ -170,5 +179,5 @@
 * (2) [zenith-nvidia](https://github.com/bvaisvil/zenith) (for devices with Nvidia)
 * (2.5)
 * ( ) [nvitop](https://github.com/XuehaiPan/nvitop)
-   |  [nvtop](https://github.com/Syllo/nvtop)
+   |  [nvtop](https://github.com/Syllo/nvtop) [NixOS Search - Packages - nvtop](https://search.nixos.org/packages?channel%3D23.11%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dnvtop)
 * (2) [gpustat](...)

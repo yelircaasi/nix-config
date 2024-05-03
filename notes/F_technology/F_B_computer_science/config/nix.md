@@ -847,7 +847,7 @@ nvim * name ideas: vixnim, (moshavim, VitaeVim)
 * {nvim config} [zachcoyle/vim-plugins-overlay](https://github.com/zachcoyle/vim-plugins-overlay)
 * {nvim config} [zmre/pwnvim](https://github.com/zmre/pwnvim)
 
-## SORT ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## SORT
 
 ## Conf Checklist
 

@@ -16,6 +16,7 @@ jira [npmjs.com/package/@rushdigital/confluence-cli](https://www.npmjs.com/packa
 jira [jira-cli](https://github.com/ankitpokhrel/jira-cli)
 * jira [jira-tools](https://github.com/ralphbean/jira-tools)
 * jira [jira](https://www.npmjs.com/package/@rushdigital/confluence-cli)
+* {cli clockodo} [nyantec/clockodo.py: Python API for clocko:do](https://github.com/nyantec/clockodo.py)
 * clockodo  [Basics of the Clockodo REST API](https://www.clockodo.com/en/api/)
 * clockodo  [Control the stop clock with /api/v2/clock (REST-API)](https://www.clockodo.com/en/api/clock/)
 

@@ -899,8 +899,6 @@ Scheduler
 
 ### Tier 9 - Maybe Someday
 
-### Sort
-
 #### food
 
 * [kitchenowl](https://github.com/TomBursch/kitchenowl)
@@ -1451,6 +1449,7 @@ Scheduler
 [traggo/](https://github.com/traggo/)
 
 #### SORT
+* ( ) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
 
 #### Matrix Tools
 
@@ -1735,17 +1734,6 @@ Scheduler
 * [jsonresume.org/](https://jsonresume.org/)
 * [ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display.
 
-#### Misc
-
-* [arttime](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
-* [buku](https://github.com/jarun/buku) - A powerful bookmark manager written in Python3 and SQLite3.
-* [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
-* [Workrave](http://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
-* [Ambient Noise](https://github.com/costales/anoise) - An ambient noise generator for Linux.
-* [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Improve focus and increase your productivity by listening to different sounds.
-* [f.lux](https://justgetflux.com/linux.html) - A program that reddens your display to help you sleep better.
-* [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-
 #### Note taking
 
 * [jrnl](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
@@ -1946,11 +1934,21 @@ Scheduler
 * [Cubified/tuibox](https://github.com/Cubified/tuibox)
 * [mrossinek.gitlab.io/programming/testing-tui-applications-in-python/](https://mrossinek.gitlab.io/programming/testing-tui-applications-in-python/)
 
-# Productivity and Lifestyle (FROM SOFTWARE LISTS)
+## Productivity and Lifestyle (FROM SOFTWARE LISTS)
 
-## Miscellaneous
+## SORT
 
-* [creativecreature/pulse](https://github.com/creativecreature/pulse)
+* [arttime](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
+* [buku](https://github.com/jarun/buku) - A powerful bookmark manager written in Python3 and SQLite3.
+* [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
+* [Workrave](http://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
+* [Ambient Noise](https://github.com/costales/anoise) - An ambient noise generator for Linux.
+* [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Improve focus and increase your productivity by listening to different sounds.
+* [f.lux](https://justgetflux.com/linux.html) - A program that reddens your display to help you sleep better.
+* [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+
+* ( ) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
+* ( ) [creativecreature/pulse](https://github.com/creativecreature/pulse)
 * (2) [khard](https://github.com/lucc/khard) - console vcard client
 * (2) [nebokrai](...)
 * (2) ❤ [👉](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal)  [🏁](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal)https://github.com/AppFlowy-IO/AppFlowy - [Appflowy](https://appflowy.io/) - just needs cloud setup, vim keybindings, and customizable colors → on the way? [shortcuts](https://docs.appflowy.io/docs/appflowy/community/appflowy-mentorship-program/mentorship-2022/mentee-projects/shortcuts-and-customized-hotkeys-for-appflowy) and [color themes](https://docs.appflowy.io/docs/appflowy/community/appflowy-mentorship-program/mentorship-2022/mentee-projects/custom-themes) - shortcuts may require further hacking, or maybe just a kanata/other layer on top
@@ -1980,33 +1978,6 @@ Scheduler
 * (5) [kuskus](https://github.com/kuskusapp/kuskus) [kuskus.app/](https://kuskus.app/)
 * (5) [chef](...) - application to plan meals using a database of recipes and an inventory list
 
-## 2nd Brain
-
-* (2.5)
-* [jrnl](https://github.com/jrnl-org/jrnl)→ integrate with planager
-   | [xwmx.github.io/nb/](https://xwmx.github.io/nb/)
-   | [dnote/dnote](https://github.com/dnote/dnote)
-* ( ) [wiki.dendron.so/](https://wiki.dendron.so/) → [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron)
-* ( ) [mickael-menu/zk](https://github.com/mickael-menu/zk)
-* ( )[Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten)- [zettelkasten.danielluedecke.de/](http://zettelkasten.danielluedecke.de/)  (GUI)
-* ( )[TreeTag](https://github.com/doug-101/TreeTag)https://github.com/doug-101/TreeLine_mobile
-        [doug-101/TreeLine](https://github.com/doug-101/TreeLine) (GUI)
-* ( ) [Freemind](https://freemind.sourceforge.io/wiki/index.php/Main_Page)
-* ( ) [joplinapp.org/](https://joplinapp.org/) - [johnfactotum.github.io/foliate/](https://johnfactotum.github.io/foliate/)
-* ( ) [tiddlywiki.com/](https://tiddlywiki.com/)
-* ( ) [gitjournal.io/pricing/](https://gitjournal.io/pricing/) [gitjournal.io/](https://gitjournal.io/)
-* ( ) [qownnotes.org/](https://www.qownnotes.org/)
-* →  [Video on 2nd Brain Selection](https://www.youtube.com/watch?v=XRpHIa-2XCE)
-
-## Convenience, Media, Learning Tools (GUI)
-
-* (2) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
-* (2)[fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)-  [open-spaced-repetition/fsrs4anki/wiki](https://github.com/open-spaced-repetition/fsrs4anki/wiki)
-
-## Bookmarks
-
-* (2)[Buku -](https://github.com/jarun/Buku) - Powerful command-line bookmark manager → fork [peterjschroeder/bukut](https://github.com/peterjschroeder/bukut)
-* (5)[linksnatch](https://github.com/amitmerchant1990/linksnatch)[amitmerchant1990/linksnatch/blob/main/README.md →](https://github.com/amitmerchant1990/linksnatch/blob/main/README.md)[docker-linksnatch](https://github.com/varunsridharan/docker-linksnatch)(bookmark saving tool)
 * (5)[foxy -](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers. → make for qb?
 * prod * [...](https://blog.appflowy.io/appflowy-2nd-anniversary-and-2023-roundup/)
 * {prod} [...](https://github.com/jgm/djot)
@@ -2039,6 +2010,34 @@ prod $$$$ * [Super Productivity – a to do list to get your head free | Super P
 * {prod org} [...](https://www.reddit.com/r/emacs/s/HJemdxK4sd) reorg
 prod proj * rewrite tw in go
 * {prod web} [...](https://gethomepage.dev/latest/) A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery.
+
+## 2nd Brain
+
+* (2.5)
+* [jrnl](https://github.com/jrnl-org/jrnl)→ integrate with planager
+   | [xwmx.github.io/nb/](https://xwmx.github.io/nb/)
+   | [dnote/dnote](https://github.com/dnote/dnote)
+* ( ) [wiki.dendron.so/](https://wiki.dendron.so/) → [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron)
+* ( ) [mickael-menu/zk](https://github.com/mickael-menu/zk)
+* ( )[Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten)- [zettelkasten.danielluedecke.de/](http://zettelkasten.danielluedecke.de/)  (GUI)
+* ( )[TreeTag](https://github.com/doug-101/TreeTag)https://github.com/doug-101/TreeLine_mobile
+        [doug-101/TreeLine](https://github.com/doug-101/TreeLine) (GUI)
+* ( ) [Freemind](https://freemind.sourceforge.io/wiki/index.php/Main_Page)
+* ( ) [joplinapp.org/](https://joplinapp.org/) - [johnfactotum.github.io/foliate/](https://johnfactotum.github.io/foliate/)
+* ( ) [tiddlywiki.com/](https://tiddlywiki.com/)
+* ( ) [gitjournal.io/pricing/](https://gitjournal.io/pricing/) [gitjournal.io/](https://gitjournal.io/)
+* ( ) [qownnotes.org/](https://www.qownnotes.org/)
+* →  [Video on 2nd Brain Selection](https://www.youtube.com/watch?v=XRpHIa-2XCE)
+
+## Convenience, Media, Learning Tools (GUI)
+
+* (2) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
+* (2)[fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)-  [open-spaced-repetition/fsrs4anki/wiki](https://github.com/open-spaced-repetition/fsrs4anki/wiki)
+
+## Bookmarks
+
+* (2)[Buku -](https://github.com/jarun/Buku) - Powerful command-line bookmark manager → fork [peterjschroeder/bukut](https://github.com/peterjschroeder/bukut)
+* (5)[linksnatch](https://github.com/amitmerchant1990/linksnatch)[amitmerchant1990/linksnatch/blob/main/README.md →](https://github.com/amitmerchant1990/linksnatch/blob/main/README.md)[docker-linksnatch](https://github.com/varunsridharan/docker-linksnatch)(bookmark saving tool)
 
 # For Roadmaps
 

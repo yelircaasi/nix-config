@@ -2,12 +2,15 @@
 
 ## Miscellaneous
 
-* [inpaint-web](https://github.com/lxfater/inpaint-web)
+## Legend
 
-* mopidy
-* ( ) [navidrome](https://www.navidrome.org/)
-* ( ) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
-* ( ) [volumeicon](https://github.com/Maato/volumeicon)
+(0) - already installed and configured in nix-config
+(1) - already added to nix-config, but some work is needed
+(2) - to be added next
+(2.5 / 3.5) - to be added, but first decide between alternatives
+(3) - also to be added, but lower priority
+(4) - not decided yet / maybe later
+(5) - some rewriting or packaging necessary (but to be added)
 
 ## Gif Creation
 
@@ -25,9 +28,9 @@
 
 ## Screenshot and Screen Recording / Screencasting / Streaming / etc
 
-* [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+* ( ) [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
 * (2) [to-html](https://github.com/Aloso/to-html)
-* [(2) Render a terminal as HTML with `to-html` : rust](https://www.reddit.com/r/rust/comments/juhbo3/render_a_terminal_as_html_with_tohtml/) -> do I need to hack this for WezTerm etc.?
+* ( ) [(2) Render a terminal as HTML with `to-html` : rust](https://www.reddit.com/r/rust/comments/juhbo3/render_a_terminal_as_html_with_tohtml/) -> do I need to hack this for WezTerm etc.?
 * (2) [screenkey](https://gitlab.com/screenkey/screenkey)
 * (5) [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 * (2) [shot-scraper](https://github.com/simonw/shot-scraper)
@@ -41,13 +44,15 @@
 
 ## Terminal Image/Video Viewing
 
+* ( ) [imgcatr](https://github.com/SilinMeng0510/imgcatr)
+* ( ) [libsixel](https://saitoha.github.io/libsixel/)
 * (6) [feh](https://git.finalrewind.org/feh) - "X11 image viewer aimed mostly at console users" (cit.); with no fancy GUI, it is controlled via commandline arguments and configurable key/mouse actions.
 * ( ) [viu](https://github.com/atanunq/viu)
 * ( ) [viuer](https://github.com/atanunq/viuer)
 * ( ) [libsixel](https://github.com/saitoha/libsixel)
 * ( ) [catimg](https://github.com/posva/catimg)
 * ( ) [tiv](https://github.com/radare/tiv)
-* [terminal image viewer](https://github.com/radare/tiv)
+* ( ) [terminal image viewer](https://github.com/radare/tiv)
 * ( ) [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Text mode terminal image viewer.
 * ( ) [chafa](https://github.com/hpjansson/chafa) - Terminal graphics for the 21st century.
 * ( ) [imgcat](https://github.com/trashhalo/imgcat) - Tool to output images in the terminal. Built with bubbletea.
@@ -55,6 +60,7 @@
 
 ## YouTube
 
+* ( ) [pipe-viewer](https://github.com/trizen/pipe-viewer) - yt client
 * ( ) [invidtui](https://github.com/darkhz/invidtui) - Invidious TUI client, which fetches data from invidious instances and displays a user interface in the terminal, and allows for selecting and playing Youtube audio and video.
 * ( ) [youtube-tui](https://github.com/Siriusmart/youtube-tui)
 * ( ) [youtube-viewer](https://github.com/trizen/youtube-viewer)
@@ -71,8 +77,9 @@
 * ( ) [yt-splitter](https://github.com/redsolver/yt-splitter) - Downloads and splits audio tracks from a YouTube video according to the chapters/tracks. Useful for compilations or full album uploads.
 * ( ) [yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 * ( ) [invidtui](https://github.com/darkhz/invidtui)
-* [ytmdesktop](https://ytmdesktop.app/)
+* ( ) [ytmdesktop](https://ytmdesktop.app/)
 * ( ) [muCLIar](https://github.com/aayush1205/muCLIar) - YouTube automator bringing you your music right on your CLI. - YouTube in CLI via Selenium and Chromedriver
+* ( ) [youtubedownloader](https://github.com/Tyrrrz/YoutubeDownloader)
 
 ### YouTube GUI Frontend
 
@@ -116,8 +123,9 @@
 
 ## Image & Graphics - GUI
 
-### Editing
+### Image Editing
 
+* ( ) [inpaint-web](https://github.com/lxfater/inpaint-web)
 * ( ) [Vidcutter](https://github.com/ozmartian/vidcutter) - Cross-platform Qt5 based app for quick and easy video trimming/splitting and merging/joining for simple quick edits.
 * ( ) [Kdenlive](https://kdenlive.org/) - Kdenlive is a Non-Linear Video Editor, which is much more powerful than beginners’ (linear) editors.
 * ( ) [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source, cross-platform video editor with support for hundreds of audio and video formats and codecs and a sleek, intuitive interface.
@@ -134,12 +142,16 @@
 * ( ) [Blender](https://www.blender.org/) - A free and open source complete 3D creation pipeline for artists and small teams.
 * ( ) [ImageMagick -](https://imagemagick.org/) [imagemagick.org/index.php](https://imagemagick.org/index.php) - Gold standard for anything images.
 * ( ) [gimp](https://www.gimp.org/)
-* [GIMP - Your GIMP Profile and You](https://www.gimp.org/tutorials/GIMPProfile/)
-* [GIMP - Documentation](https://www.gimp.org/docs/)
+* ( ) [GIMP - Your GIMP Profile and You](https://www.gimp.org/tutorials/GIMPProfile/)
+* ( ) [GIMP - Documentation](https://www.gimp.org/docs/)
 * ( ) [darktable](https://www.darktable.org/)
 * ( ) [digikam](https://www.digikam.org/)
 * ( ) [REAPER | Audio Production Without Limits](https://www.reaper.fm/)
 * ( ) [PixelFx](https://github.com/keshavbhatt/PixelFx)
+
+#### Special
+
+* ( ) [Hugin - Panorama photo stitcher](https://hugin.sourceforge.io/)
 
 ### Recording / Broadcasting / Streaming
 
@@ -209,64 +221,84 @@
 
 ### Players
 
-* ( ) [quark-player](https://github.com/Alex313031/quark-player)
-* ( ) [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer)
-* ( ) [olivia](https://github.com/keshavbhatt/olivia) - music player
-* ( ) [smplayer](https://github.com/smplayer-dev/smplayer)
-* ( ) [sonata](https://github.com/multani/sonata) - A Music player that is designed to be an elegant and intuitive interface for your music collection via the Music Player Daemon (MPD).
-* ( ) [swingmusic](https://github.com/swing-opensource/swingmusic)
-* ( ) [celluloid](https://github.com/celluloid-player/celluloid)
-* ( ) [Spotube](https://spotube.netlify.app/) - Spotube is a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube’s public API & creates a hazardless, performant & resource friendly User Experience.
+* ( ) [amberol](https://gitlab.gnome.org/World/amberol) A small and simple sound and music player that is well integrated with GNOME.
+* ( ) [Watch YouTube videos using MPV player - An Easy Guide - LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/watch-youtube-videos-on-mpv-player)
+* ( ) [lyssa](https://github.com/cococry/lyssa)
+* ( ) [?](https://www.reddit.com/r/unixporn/s/CUbkAsCxR2) music player in C
 * ( ) [Amberol](https://apps.gnome.org/app/io.bassi.Amberol/) - A small and simple sound and music player that is well integrated with GNOME.
 * ( ) [Audacious](https://audacious-media-player.org/) - An open source audio player that plays your music how you want it, without stealing away your computer’s resources from other tasks.
-* ( ) [mpv](https://mpv.io/) - Lets you play most audio and video formats (using ASCII characters) in the shell as well as in a GUI.
-* ( ) [Nuclear](https://nuclear.js.org/) - An Electron-based, multiplatform music player app that streams from multiple sources.
 * ( ) [Bomi Player](https://bomi-player.github.io/) - A powerful and easy-to-use multimedia player.
 * ( ) [cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS.
 * ( ) [Celluloid](https://celluloid-player.github.io/) - Simple GTK+ frontend for mpv.
+* ( ) [celluloid](https://github.com/celluloid-player/celluloid)
 * ( ) [Cheese](https://wiki.gnome.org/Apps/Cheese) - Cheese uses your webcam to take photos and videos, applies fancy special effects and lets you share the fun with others.
 * ( ) [Clapper](https://rafostar.github.io/clapper/) - A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
 * ( ) [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats.
 * ( ) [DeaDBeeF](https://deadbeef.sourceforge.io/) - DeaDBeeF is a modular audio player for GNU/Linux, BSD, OpenSolaris, macOS, and other UNIX-like systems.
 * ( ) [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - An application, developed by Deepin Technology Team, which focused on local music playing.
+* ( ) [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer)
 * ( ) [Elisa](https://elisa.kde.org/) - Elisa is a music player developed by the KDE community that strives to be simple and nice to use.
 * ( ) [Emby Theater](https://emby.media/emby-theater-linux.html) - Emby Server’s official media player.
 * ( ) [FFmpeg](https://www.ffmpeg.org/) - FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+* ( ) [G4Music](https://gitlab.gnome.org/neithern/g4music) - A fast, fluent, light weight music player written in GTK4.
+* ( ) [Harmonoid](https://harmonoid.com/) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 * ( ) [Haruna](https://haruna.kde.org/) - Open source video player built with Qt/QML and libmpv.
 * ( ) [Jellyfin Media Player](https://jellyfin.org/) - Jellyfin Desktop Client based on Plex Media Player.
 * ( ) [Kamoso](https://apps.kde.org/kamoso/) - Kamoso is a simple and friendly program to use your camera. Use it to take pictures and make videos to share.
 * ( ) [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.
+* ( ) [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - A GNOME music playing application.
 * ( ) [Mellow Player](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Cloud music integration for your desktop.
 * ( ) [Miro](https://www.getmiro.com/) - Free, and open video, music and internet TV application; it brings video channels from thousands of sources and has more free HD than any other platform.
 * ( ) [Movie Monad](https://lettier.github.io/movie-monad) - A free and simple to use video player made with Haskell.
 * ( ) [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer is a movie player which runs on many systems, play any kind of videos.
-* ( ) [MPV](https://www.mpv.io/) - A free, open source, and cross-platform media player.
+* ( ) [mpv](https://mpv.io/) - Lets you play most audio and video formats (using ASCII characters) in the shell as well as in a GUI.
+* ( ) [mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd
+* ( ) [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player.
+* ( ) [ncspot](https://github.com/hrkfdn/ncspot)
 * ( ) [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds music from free sources automatically. ([GNU AGPLv3](https://github.com/nukeop/nuclear/blob/master/LICENSE))
+* ( ) [olivia](https://github.com/keshavbhatt/olivia) - music player
 * ( ) [Plex](https://www.plex.tv/) - Plex is a media server and streaming platform that organizes, streams, and shares your digital media content.
-* ( ) [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs. Play all audio and video formats.
+* ( ) [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) - Watch torrent movies instantly.
+* ( ) [quark-player](https://github.com/Alex313031/quark-player)
+* ( ) [Quod Libet](https://quodlibet.readthedocs.io/) - GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio.
+* ( ) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME.
+* ( ) [Sayonara Player](https://sayonara-player.com/downloads.php) - A small, clear and fast audio player for Linux written in C++, supported by the Qt framework.
+* ( ) [smplayer](https://github.com/smplayer-dev/smplayer) [site](https://www.smplayer.info/) - Free Media Player with built-in codecs. Play all audio and video formats.
+* ( ) [sonata](https://github.com/multani/sonata) - A Music player that is designed to be an elegant and intuitive interface for your music collection via the Music Player Daemon (MPD).
+* ( ) [Spotube](https://spotube.netlify.app/) - Spotube is a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube’s public API & creates a hazardless, performant & resource friendly User Experience.
+* ( ) [Strawberry](https://www.strawberrymusicplayer.org/) - Strawberry is a fork of Clementine aimed at music collectors and audiophiles. It’s written in C++ using the Qt toolkit.
 * ( ) [Stremio](https://www.stremio.com/) - Stremio is a modern media center that’s a one-stop solution for your video entertainment.
 * ( ) [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP allows you to watch any video on your desktop computer using frame interpolation as it is available on high-end TVs and projectors.
-* ( ) [VLC](https://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
-* ( ) [Harmonoid](https://harmonoid.com/) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
-* ( ) [Quod Libet](https://quodlibet.readthedocs.io/) - GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio.
-* ( ) [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - A GNOME music playing application.
-* ( ) [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player.
-* ( ) [G4Music](https://gitlab.gnome.org/neithern/g4music) - A fast, fluent, light weight music player written in GTK4.
-* ( ) [Sayonara Player](https://sayonara-player.com/downloads.php) - A small, clear and fast audio player for Linux written in C++, supported by the Qt framework.
-* ( ) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME.
-* ( ) [Strawberry](https://www.strawberrymusicplayer.org/) - Strawberry is a fork of Clementine aimed at music collectors and audiophiles. It’s written in C++ using the Qt toolkit.
-* ( ) [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) - Watch torrent movies instantly.
-* ( ) [Tauon Music Box](...)
+* ( ) [swingmusic](https://github.com/swing-opensource/swingmusic)
+* ( ) [tauon](https://tauonmusicbox.rocks/)
 * ( ) [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
+* ( ) [VLC](https://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+
+#### Library / List Management
+
+* ( ) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
+
+#### Streaming Service
+
+* ( ) [navidrome](https://www.navidrome.org/)
 
 #### Radio
 
+* ( ) [radion](https://gitlab.com/christosangel/radion) Radion, internet radio client in Bash [radion](https://www.reddit.com/r/commandline/s/q7nN51fBVY) Radion, an internet radio TUI client, written in Bash.
 * ( ) [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal. - old, but SomaFM is interesting
 * ( ) [pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player. - looks pretty good
 * ( ) [Tera](https://github.com/shinokada/tera) - Terminal Radio: an easy-to-use CLI music player to play favorite music, radio stations and explore various radio stations from the terminal only.
 * ( ) [cTune](https://github.com/An7ar35/ctune) - A ncurses based internet radio player written in C for Linux.
-* [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
-* [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Shortwave is an internet radio player that provides access to a station database with over 25,000 stations.
+* ( ) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
+* ( ) [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Shortwave is an internet radio player that provides access to a station database with over 25,000 stations.
+
+#### Volume Stuff
+
+* ( ) [volumeicon](https://github.com/Maato/volumeicon)
+
+#### Song ID
+
+* ( ) [mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 
 ### Editing, conversion, etc
 
@@ -283,6 +315,7 @@
 
 ### Podcast
 
+* ( ) [castget](https://castget.johndal.com/) cli podcast downloader
 * ( ) [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client.
 * ( ) [Vocal](https://vocalproject.net/) - Podcast client for the modern desktop.
 * ( ) [Kasts](https://apps.kde.org/kasts/) - Feature-rich, convergent podcast client for Linux Desktop and Mobile.
@@ -299,18 +332,18 @@
 * ( ) [lotc](https://github.com/ranelpadon/lord-of-the-clips/) - (Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips. - excellent interface, written in Python
 *[cava](https://github.com/karlstav/cava)- Cava is a Cross-platform Audio Visualizer.
 * (U)[kunst](https://github.com/sdushantha/kunst)- rewrite for wayland (wayland stack dependencies)
-* [glava](https://github.com/jarcode-foss/glava) - OpenGL audio spectrum visualizer - also X11
+* ( ) [glava](https://github.com/jarcode-foss/glava) - OpenGL audio spectrum visualizer - also X11
 * (U ← X11) [nikp123/xava](https://github.com/nikp123/xava)
 
 ## Spotify
 
 * ( ) [zspotify](https://github.com/jsavargas/zspotify)
 * ( ) [spotxtract-t](https://github.com/lnn0q/spotxtract-t)
-* [spotxtract](https://github.com/lnn0q/spotxtract)
+* ( ) [spotxtract](https://github.com/lnn0q/spotxtract)
 * ( ) [SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
 * ( ) [spotifyd](https://github.com/Spotifyd/spotifyd)
 * ( ) [Spicetify](https://spicetify.app/) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
-* [spicetify-cli](https://github.com/spicetify/spicetify-cli)
+* ( ) [spicetify-cli](https://github.com/spicetify/spicetify-cli)
 * ( ) [spotify-cli](https://github.com/brianstrauch/spotify-cli)
 * ( ) [spotify-tui](https://github.com/Rigellute/spotify-tui) - A Spotify client for the terminal written in Rust. - [Rigellute/spotify-tui/blob/master/README.md](https://github.com/Rigellute/spotify-tui/blob/master/README.md)
 * ( ) [spotify-player](https://github.com/aome510/spotify-player) - spotify-player is a fast, easy to use, and configurable terminal music player having feature parity with the official Spotify application.
@@ -363,23 +396,3 @@
 * ( ) [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.´
 * ( ) [gstreamer](https://github.com/GStreamer/gstreamer)
 * ( ) [obs-studio](https://github.com/obsproject/obs-studio) [obsproject.com/welcome](https://obsproject.com/welcome)
-
-## SORT
-
-* {media} * [?](https://www.reddit.com/r/unixporn/s/CUbkAsCxR2) music player in C
-* {media} [...](https://github.com/SilinMeng0510/imgcatr)
-* {media} [...](https://saitoha.github.io/libsixel/)
-* {media} [castget](https://castget.johndal.com/) cli podcast downloader
-* {media} [lyssa](https://github.com/cococry/lyssa)
-* {media} [mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
-* media * [radion](https://gitlab.com/christosangel/radion) Radion, internet radio client in Bash
-* {media} [tauon](https://tauonmusicbox.rocks/)
-* {media} [Watch YouTube videos using MPV player - An Easy Guide - LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/watch-youtube-videos-on-mpv-player)
-* {media} [youtubedownloader](https://github.com/Tyrrrz/YoutubeDownloader)
-* {media} [amberol](https://gitlab.gnome.org/World/amberol) A small and simple sound and music player that is well integrated with GNOME.
-* {media} [pipe-viewer](https://github.com/trizen/pipe-viewer) - yt client
-* {media cli music} [ncspot](https://github.com/hrkfdn/ncspot)
-* {media image} [Hugin - Panorama photo stitcher](https://hugin.sourceforge.io/)
-* {media image gui photo stitching} [hugin](https://hugin.sourceforge.io/) panorama photo stitcher
-* {media music} [mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd
-* {media radio} [radion](https://www.reddit.com/r/commandline/s/q7nN51fBVY) Radion, an internet radio TUI client, written in Bash.

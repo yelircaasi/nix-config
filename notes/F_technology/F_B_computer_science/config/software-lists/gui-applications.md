@@ -120,11 +120,11 @@
 * ( ) [Karbon](https://www.calligra.org/karbon/) - An open source vector drawing program.
 * (2) [Ipe](http://ipe.otfried.org/) - Ipe is a LaTeX powered drawing editor for creating figures and presentations in PDF format. - [ipe.otfried.org/](https://ipe.otfried.org/)
 * (2) [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
-* ( ) [knotter](https://gitlab.com/mattbas/Knotter [Knotter](https://knotter.mattbas.org/Knotter) - A Program designed solely to help design and create Celtic Knots.
+* ( ) [knotter](https://gitlab.com/mattbas/Knotter) - A Program designed solely to help design and create Celtic Knots.
 * (2) [rnote](https://github.com/flxzt/rnote) -> even better if I get a USB stylus pad such as [this](https://www.amazon.de/-/en/Deco-Fun-Graphics-Learning-Distance/dp/B093TC1XCZ)
 * ( ) [vym](https://github.com/insilmaril/vym)
 * ( ) [heimer](https://github.com/juzzlin/Heimer)
-* ( ) [freeplane](https://github.com/freeplane/freeplane - [docs.freeplane.org/](https://docs.freeplane.org/)
+* ( ) [freeplane](https://github.com/freeplane/freeplane) - [docs.freeplane.org/](https://docs.freeplane.org/)
 * ( ) [draw](https://github.com/maaslalani/draw) - draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!
 * ( ) [swappy](https://github.com/jtheoof/swappy)
 * ( ) [...](https://google.github.io/typograms/)

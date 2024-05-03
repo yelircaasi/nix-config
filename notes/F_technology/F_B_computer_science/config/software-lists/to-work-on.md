@@ -32,3 +32,4 @@
 * (5) [mdt](https://github.com/robolab-pavia/mdt) - see if this is worth updating and modifying
 * (5) [ramda-cli](https://github.com/raine/ramda-cli) - update?
 * (5) [vim-notion](https://github.com/lukeingalls/vim-notion) ([see also](https://www.notion.so/help/keyboard-shortcuts))
+* (5) [laurikari/tre: The approximate regex matching library and agrep command line tool.](https://github.com/laurikari/tre/)

@@ -66,16 +66,13 @@
 * ( ) [guix.gnu.org/manual/fr/html_node/index.html#Top](https://guix.gnu.org/manual/fr/html_node/index.html%23Top)
 * ( ) [guix-science](https://github.com/guix-science/guix-science-nonfree)
 * ( ) [nonguix](https://gitlab.com/nonguix/nonguix)
+* ( ) [Packages — GNU Guix](https://packages.guix.gnu.org/)
 
-## Articles, Guides
+## Articles, Guides, Media
 
 * ( ) [daviwil](https://systemcrafters.net/craft-your-system-with-guix/)
 * ( ) [fishinthecalculator.me/blog/secrets-management-with-sops-guix.html](https://fishinthecalculator.me/blog/secrets-management-with-sops-guix.html)
 * ( ) [Guix Sway](https://www.youtube.com/watch?v=OYbenLOm3Js)
-
-# SORT
-
-* [Guix Playlist](https://www.youtube.com/playlist?app=desktop&list=PLEoMzSkcN8oNxnj7jm5V2ZcGc52002pQU)
-* [guix podcast](https://hackerpublicradio.org/eps.php?id=2198)
-* [guix.gnu.org](https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
-* [Packages — GNU Guix](https://packages.guix.gnu.org/)
+* ( ) [Guix Playlist](https://www.youtube.com/playlist?app=desktop&list=PLEoMzSkcN8oNxnj7jm5V2ZcGc52002pQU)
+* ( ) [guix podcast](https://hackerpublicradio.org/eps.php?id=2198)
+* ( ) [guix.gnu.org](https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)

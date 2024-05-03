@@ -1,21 +1,33 @@
 # Development Software
 
+## Legend
+
+(0) - already installed and configured in nix-config
+(1) - already added to nix-config, but some work is needed
+(2) - to be added next
+(2.5 / 3.5) - to be added, but first decide between alternatives
+(3) - also to be added, but lower priority
+(4) - not decided yet / maybe later
+(5) - some rewriting or packaging necessary (but to be added)
+
+## SORT
+
 * -> [...](https://blog.logrocket.com/exploring-best-syntax-highlighting-libraries/)
-* [facebook/hermes: A JavaScript engine optimized for running React Native.](https://github.com/facebook/hermes)
-* [gRPC - Wikipedia](https://en.wikipedia.org/wiki/GRPC)
-* [gRPC vs. REST: Key Similarities and Differences - DreamFactory Software- Blog](https://blog.dreamfactory.com/grpc-vs-rest-how-does-grpc-compare-with-traditional-rest-apis/)
-* [gRPC](https://grpc.io/)
-* [luarocks-build-rust-binary](https://github.com/vhyrro/luarocks-build-rust-binary)
-* [lust](https://github.com/Gingeh/lust) A parser, compiler, and virtual machine evaluator for a minimal subset of Lua; written from scratch in Rust.
-* [Reproducible Data Pipelines Using Controlled Effects](https://tweag.github.io/kernmantle/scale-by-the-bay-slides.html)
-* [SunGodRamen/task-driven-development: Project template that enforces documentation and project lifecycle across tools; nvim, taskwarrior, drawio, using githooks to enforce and automate tracking.](https://github.com/SunGodRamen/task-driven-development)
-* [tbox](https://github.com/tboox/tbox)
-* [tech stack file](https://stackshare.io/tech-stack-file)
-* [vstakhov/libucl: Universal configuration library parser](https://github.com/vstakhov/libucl)
+* ( ) [facebook/hermes: A JavaScript engine optimized for running React Native.](https://github.com/facebook/hermes)
+* ( ) [gRPC - Wikipedia](https://en.wikipedia.org/wiki/GRPC)
+* ( ) [gRPC vs. REST: Key Similarities and Differences - DreamFactory Software- Blog](https://blog.dreamfactory.com/grpc-vs-rest-how-does-grpc-compare-with-traditional-rest-apis/)
+* ( ) [gRPC](https://grpc.io/)
+* ( ) [luarocks-build-rust-binary](https://github.com/vhyrro/luarocks-build-rust-binary)
+* ( ) [lust](https://github.com/Gingeh/lust) A parser, compiler, and virtual machine evaluator for a minimal subset of Lua; written from scratch in Rust.
+* ( ) [Reproducible Data Pipelines Using Controlled Effects](https://tweag.github.io/kernmantle/scale-by-the-bay-slides.html)
+* ( ) [SunGodRamen/task-driven-development: Project template that enforces documentation and project lifecycle across tools; nvim, taskwarrior, drawio, using githooks to enforce and automate tracking.](https://github.com/SunGodRamen/task-driven-development)
+* ( ) [tbox](https://github.com/tboox/tbox)
+* ( ) [tech stack file](https://stackshare.io/tech-stack-file)
+* ( ) [vstakhov/libucl: Universal configuration library parser](https://github.com/vstakhov/libucl)
 * {build} [gradle](https://gradle.org/)
 * {build} [pantsbuild](https://www.pantsbuild.org/)
 * {build} [pantsbuild](https://www.pantsbuild.org/)
-ci/cd * [Dagger.io](https://dagger.io/)
+ci/cd * ( ) [Dagger.io](https://dagger.io/)
 * {cli} [chalk-animation](https://github.com/bokub/chalk-animation)
 * {cli} [charm](https://charm.sh/)
 * {cli} [huh](https://github.com/charmbracelet/huh)
@@ -41,7 +53,7 @@ ci/cd * [Dagger.io](https://dagger.io/)
 * {lua} [fengari](https://github.com/fengari-lua/fengari) φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 * {lua} [Introduction — Lua Functional 0.1.3 documentation](https://luafun.github.io/intro.html)
 * {lua} [luafun/luafun: Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.](https://github.com/luafun/luafun)
-lua-related  * [luvit](https://luvit.io/docs.html)
+lua-related  * ( ) [luvit](https://luvit.io/docs.html)
 * {pi} [gokrazy](https://gokrazy.org/)
 * {proglang} [~sircmpwn/hare - The Hare programming language - sourcehut git](https://git.sr.ht/~sircmpwn/hare)
 * {proglang} [BQN: finally, an APL for your flying saucer](https://mlochbaum.github.io/BQN/)
@@ -63,8 +75,8 @@ lua-related  * [luvit](https://luvit.io/docs.html)
 * {proglang config} [tweag/nickel: Better configuration for less](https://github.com/tweag/nickel)
 * {proglang fp} [beluga](https://complogic.cs.mcgill.ca/beluga/)
 * {proglang misc} [...](https://bytedream.github.io/litbwraw/)
-proglang-related * [...](https://pygments.org/docs/cmdline/)
-proglang-related * [...](https://pygments.org/languages/)
+* {proglang-related} [...](https://pygments.org/docs/cmdline/)
+* {proglang-related} [...](https://pygments.org/languages/)
 * {purescript meta} [Recommended tooling for PureScript in 2020 - Chat - PureScript Language Forum](https://discourse.purescript.org/t/recommended-tooling-for-purescript-in-2020/1615)
 * {purescript meta} [Recommended Tooling for PureScript in 2021 - Chat - PureScript Language Forum](https://discourse.purescript.org/t/recommended-tooling-for-purescript-in-2021/2725)
 * {python} [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) Software Bill of Materials (SBOM) generator for Python projects and environments
@@ -73,7 +85,7 @@ proglang-related * [...](https://pygments.org/languages/)
 * {python} [pipx](https://github.com/pypa/pipx) try Debian? Gentoo?
 * {python} [pyx-project/pyx](https://github.com/pyx-project/pyx)
 * {python cli} [humanfriendly: Human friendly input/output in Python — humanfriendly 10.0 documentation](https://humanfriendly.readthedocs.io/en/latest/)
-python cli * idea: package pipx natively, without python and pip dependencies
+* {python cli} idea: package pipx natively, without python and pip dependencies
 * {python term} [pyte](https://pyte.readthedocs.io/en/latest/tutorial.html)
 * {R} [...](https://datalorax.github.io/equatiomatic/articles/intro-equatiomatic.html)
 * {rust} [...](https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library)
@@ -84,25 +96,25 @@ python cli * idea: package pipx natively, without python and pip dependencies
 * {rust gui} [slint](https://slint.dev/)
 * {syntax highlighting} [synoptic](https://lib.rs/crates/synoptic)
 * {term} [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm)
-tui c/python/cpp * [notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses
+tui c/python/cpp * ( ) [notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses
 * {ui} [toast](https://ui.toast.com/)
 * {viz} [bprusinowski/plotteus: 🦋 Plotteus is a JavaScript data visualization library designed to help you tell better stories.](https://github.com/bprusinowski/plotteus)
 * {web} [cheerpj-3](https://labs.leaningtech.com/blog/cheerpj-3.0) A WebAssembly JVM to run real-world applications in the browser
 * {webapp notebook} [docs.runme](https://docs.runme.dev/)
 db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed in-memory data store with an emphasis on speed and reliability.
-* [(Towards) stable C bindings for libutil, libexpr by yorickvP · Pull Request #8699 · NixOS/nix](https://github.com/NixOS/nix/pull/8699)
-* [...](https://github.com/evilmartians/lefthook)
-* [...](https://github.com/samuela/crunkurrent)
-* [...](https://ratatui.rs/)
-* [...](https://sembr.org/)
-* [...](https://www.mkdb.sh/)
-* [abathur/resholve: a shell resolver? :) (find and resolve shell script dependencies)](https://github.com/abathur/resholve)
-* [Dhall/Parser.hs](https://hackage.haskell.org/package/dhall-1.6.0/docs/src/Dhall-Parser.html)
-* [r/rust/s/QqfsULxF1c](https://www.reddit.com/r/rust/s/QqfsULxF1c) rust dev env
-* [inshellisense](https://github.com/microsoft/inshellisense)
-* [matplotlib-backend-wezterm](https://pypi.org/project/matplotlib-backend-wezterm/)
-* [ndortega/Oxygen.jl: A breath of fresh air for programming web apps in Julia](https://github.com/ndortega/Oxygen.jl)
-* [vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice)
+* ( ) [(Towards) stable C bindings for libutil, libexpr by yorickvP · Pull Request #8699 · NixOS/nix](https://github.com/NixOS/nix/pull/8699)
+* ( ) [...](https://github.com/evilmartians/lefthook)
+* ( ) [...](https://github.com/samuela/crunkurrent)
+* ( ) [...](https://ratatui.rs/)
+* ( ) [...](https://sembr.org/)
+* ( ) [...](https://www.mkdb.sh/)
+* ( ) [abathur/resholve: a shell resolver? :) (find and resolve shell script dependencies)](https://github.com/abathur/resholve)
+* ( ) [Dhall/Parser.hs](https://hackage.haskell.org/package/dhall-1.6.0/docs/src/Dhall-Parser.html)
+* ( ) [r/rust/s/QqfsULxF1c](https://www.reddit.com/r/rust/s/QqfsULxF1c) rust dev env
+* ( ) [inshellisense](https://github.com/microsoft/inshellisense)
+* ( ) [matplotlib-backend-wezterm](https://pypi.org/project/matplotlib-backend-wezterm/)
+* ( ) [ndortega/Oxygen.jl: A breath of fresh air for programming web apps in Julia](https://github.com/ndortega/Oxygen.jl)
+* ( ) [vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice)
 * crud tech stack
 * {cli} [slim: Functional reactive user interface programming](https://hackage.haskell.org/package/slim)
 * {cont} [atoms (brombin)](...)
@@ -123,7 +135,6 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
 
 ### Programming Language Specific
 
-* (2) [poetry](https://python-poetry.org/nodejs)
 * ( ) [nodejs_21](https://nodejs.org/en)
 * ( ) [bun](https://bun.sh/)
 * (2) [android-studio](https://search.nixos.org/packages?channel=unstable&show=android-studio&from=0&size=50&sort=relevance&type=packages&query=android+studio)
@@ -132,6 +143,15 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
 * ( ) [cattrs](https://catt.rs/en/stable/index.html)
 * ( ) [nodemon](https://www.npmjs.com/package/nodemon)
 * (4) [marked-terminal](https://github.com/mikaelbr/marked-terminal)
+
+#### Python
+
+* (2) [poetry](https://python-poetry.org/)
+* ( ) [pypi-command-line](https://wasi-master.github.io/pypi-command-line/)
+
+#### Typing
+
+* ( ) [quicktype](https://github.com/glideapps/quicktype)
 
 #### Containers, Orchestration, CI
 
@@ -161,6 +181,10 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
 * ( ) [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
 * (2) [ops](https://ops.city)
 
+## Formatting
+
+* ( ) [topiary](https://topiary.tweag.io/) [blog post](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/) - univeral code formatting
+
 ## Web and App Development → [What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM) - YouTube
 
 * ( ) [mint-lang](https://mint-lang.com/)
@@ -173,27 +197,27 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
 ### Hosting, Connectivity, Net App Programming
 
 * Azure
-* [untitledgoosetool](https://github.com/cisagov/untitledgoosetool)
+* ( ) [untitledgoosetool](https://github.com/cisagov/untitledgoosetool)
 * ( ) [Disroot](https://disroot.org/) - Hosted versions of many of the services on this list. (Multiple licenses)
 * ( ) [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient, and extensible web server. ([Apache License 2.0](http://www.apache.org/licenses/))
-* [uberspace.de/en/](https://uberspace.de/en/) (hosting)
+* ( ) [uberspace.de/en/](https://uberspace.de/en/) (hosting)
 * ( ) [⚛️ Uberlab — UberLab 7 documentation](https://lab.uberspace.de/)
 * ( ) [linode](https://www.linode.com/), [linode/linode-cli](https://github.com/linode/linode-cli)
 * → nextcloud
-* [adnanh/webhook](https://github.com/adnanh/webhook)
+* ( ) [adnanh/webhook](https://github.com/adnanh/webhook)
 * ( ) [proton drive](https://proton.me/drive/download)
 * ( ) [lighttpd](http://www.lighttpd.net/) - Optimized for speed-critical environments while remaining standards-compliant, secure and flexible. ([Revised BSD license](http://www.lighttpd.net/assets/COPYING)) → try on Inspiron with Alpine
 * ( ) [nginx](https://nginx.org/) - HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. ([2-clause BSD-like license](https://nginx.org/LICENSE))
 * ( ) [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control. → try for planager?
 * ( ) [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE Connect implementation for GNOME.
-* [kdeconnect.kde.org/](https://kdeconnect.kde.org/)
+* ( ) [kdeconnect.kde.org/](https://kdeconnect.kde.org/)
 * ( ) [BlueZ](http://www.bluez.org/) - Official Linux Bluetooth protocol stack.
 * ( ) [Zerotier](https://my.zerotier.com/) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encryption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
-* [hocus.dev/](https://hocus.dev/) - cloud dev environments, pre-built, free for individual use
+* ( ) [hocus.dev/](https://hocus.dev/) - cloud dev environments, pre-built, free for individual use
 * ( ) [SparkleShare -](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool [sparkleshare.org/](https://www.sparkleshare.org/) [Nix](https://search.nixos.org/packages?channel=23.05&from=0&size=50&sort=relevance&type=packages&query=sparkleshare)
 * ( ) [heroku](https://www.heroku.com/)
-* [hocus-dev/hocus](https://github.com/hocus-dev/hocus)
-* [pushbullet.com/](https://www.pushbullet.com/)   [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API - requires Facebook or Google
+* ( ) [hocus-dev/hocus](https://github.com/hocus-dev/hocus)
+* ( ) [pushbullet.com/](https://www.pushbullet.com/)   [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API - requires Facebook or Google
 * ( ) [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 
 ### Static Site
@@ -231,11 +255,11 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
 
 ### Server, Deployment
 
-* ( ) [dog](https://github.com/ogham/dog) - DNS lookup client *(better `dig`)](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#do)
+* ( ) [dog](https://github.com/ogham/dog) - DNS lookup client; [better `dig`](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#do)
         httpsgithubcomoghamdog-dns-lookup-client-_better-dig_)
 * ( ) [dog](https://github.com/vschwaberow/dog)- looks good
 * ( ) [cowyo -](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists. - planager?
-* [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)
+* ( ) [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)
 * ( ) [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests - like Httpie, but faster
 * ( ) [fenix](https://github.com/coreybutler/fenix)[Fenix Web Server](https://fenixwebserver.com/) - A multi-host local static web server with push-button sharing (desktop app).
 * ( ) [vesper - Vesper](https://github.com/chris-rock/vesper - Vesper)is a HTTP framework for Bash/Unix Shell
@@ -245,14 +269,14 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
 
 ### Frameworks
 
-* [hypermedia.systems/](https://hypermedia.systems/)
-* [cordova.apache.org/](https://cordova.apache.org/)
+* ( ) [hypermedia.systems/](https://hypermedia.systems/)
+* ( ) [cordova.apache.org/](https://cordova.apache.org/)
 * ( ) [taipy](https://github.com/Avaiga/taipy)- Turns Data and AI algorithms into full web applications in no time.
-* [trunkrs.dev/](https://trunkrs.dev/)
-* [falconry/falcon](https://github.com/falconry/falcon)
+* ( ) [trunkrs.dev/](https://trunkrs.dev/)
+* ( ) [falconry/falcon](https://github.com/falconry/falcon)
 * ( ) [Devilbox](https://github.com/cytopia/devilbox) - The devilbox is a modern and highly customisable dockerized PHP stack supporting full LAMP and MEAN and running on all major platforms. The main goal is to easily switch and combine any version required for local development.
 * ( ) [PonyORM - Python ORM with beautiful query syntax](https://ponyorm.org/)
-* [nuxt.com/blog/introducing-nuxt-devtools](https://nuxt.com/blog/introducing-nuxt-devtools)
+* ( ) [nuxt.com/blog/introducing-nuxt-devtools](https://nuxt.com/blog/introducing-nuxt-devtools)
 * ( ) [typo3](https://github.com/TYPO3/typo3)- [The TYPO3 Project and Community – Open Source CMS](https://typo3.org/)
 
 ### Testing / Mocking
@@ -266,29 +290,29 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
 * ( ) [apachebench (ab)
 * ( ) [siege](http://www.joedog.org/siege-home/)
 * ( ) [phantomas -](https://github.com/macbre/phantomas) - website perf evaluation tool
-* [rakyll/hey](https://github.com/rakyll/hey)
-* [httperf/httperf](https://github.com/httperf/httperf)
+* ( ) [rakyll/hey](https://github.com/rakyll/hey)
+* ( ) [httperf/httperf](https://github.com/httperf/httperf)
 * ( ) [vegeta](https://github.com/tsenart/vegeta)
 * ( ) [wrk](https://github.com/wg/wrk)
 
 ### Misc
 
 * ( ) [nativefier -](https://github.com/jiahaog/nativefier) - Make any web page a desktop application.
-* [sass-lang.com/](https://sass-lang.com/)
+* ( ) [sass-lang.com/](https://sass-lang.com/)
 * ( ) [xpe -](https://github.com/charmparticle/xpe) - A commandline xpath tool that is easy to use.
 * ( ) [snallygaster -](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
 * ( ) [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli)- Strip comments from CSS.
-* [fractarchy/fractarchy-cms](https://github.com/fractarchy/fractarchy-cms)
+* ( ) [fractarchy/fractarchy-cms](https://github.com/fractarchy/fractarchy-cms)
 * ( ) [urlhunter -](https://github.com/utkusen/urlhunter) - Recon tool that allows searching on URLs that are exposed via shortener services.
-* [todomvc.com/](https://todomvc.com/)
+* ( ) [todomvc.com/](https://todomvc.com/)
 * ( ) [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
-* [vercel.com/pricing](https://vercel.com/pricing)
+* ( ) [vercel.com/pricing](https://vercel.com/pricing)
 * ( ) [localtunnel](https://github.com/localtunnel/localtunnel)- Expose your localhost to the world for easy testing and sharing.
 * ( ) [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
 * ( ) [ngrok.com/ -](https://ngrok.com/) [ngrok](https://github.com/ngrok) - Secure introspectable tunnels to localhost.
 * ( ) [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client. (paid service)
-* [vitepress.dev/](https://vitepress.dev/) (from  [wiki.nikiv.dev/,](https://wiki.nikiv.dev/,) [wiki.nikiv.dev/free[knowledge](https://github.com/nikitavoloboev/knowledge))
-* [jaspervdj.be/hakyll/](https://jaspervdj.be/hakyll/) - Haskell static site generator
+* ( ) [vitepress.dev/](https://vitepress.dev/) (from  [wiki.nikiv.dev/,](https://wiki.nikiv.dev/,) [wiki.nikiv.dev/free[knowledge](https://github.com/nikitavoloboev/knowledge))
+* ( ) [jaspervdj.be/hakyll/](https://jaspervdj.be/hakyll/) - Haskell static site generator
 
 ## Language-Specific Libraries
 
@@ -308,14 +332,15 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
 * → [ml-tooling](https://github.com/ml-tooling)
 * → [Datalust](https://github.com/datalust) (mostly logging-related)
 * ( ) [llm](https://github.com/simonw/llm)
-* [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin)
+* ( ) [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin)
 * ( ) [katib](https://github.com/kubeflow/katib)(hyperparameter tuning)
-* [IllDepence/unarXive](https://github.com/IllDepence/unarXive)
-* ( ) [einops](https://github.com/arogozhnikov/einops)https://arogozhnikov.github.io/2023/07/13/retrospective-thoughts-on-einops.html
-* [dmlc/xgboost](https://github.com/dmlc/xgboost)
+* ( ) [IllDepence/unarXive](https://github.com/IllDepence/unarXive)
+* ( ) [einops](https://github.com/arogozhnikov/einops) [thoughts on einops](https://arogozhnikov.github.io/2023/07/13/retrospective-thoughts-on-einops.html)
+* ( ) [dmlc/xgboost](https://github.com/dmlc/xgboost)
 * ( ) [lmql](https://github.com/eth-sri/lmql) language for constraint-guided and efficient LLM programming
 * ( ) [nlp-service](https://github.com/recap-utr/nlp-service)
 * ( ) [quivr](https://github.com/StanGirard/quivr)  - Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
 * ( ) [speechify](https://www.speechify.com/mobile/)
 * ( ) [surya](https://github.com/VikParuchuri/surya) - OCR
-* {code} ( ) [Stevenic/codepilot: Codepilot is a programming buddy that is an expert on your codebase.](https://github.com/Stevenic/codepilot)
+* ( ) [Stevenic/codepilot: Codepilot is a programming buddy that is an expert on your codebase.](https://github.com/Stevenic/codepilot)
+* ( ) [micr0-dev/lexido](https://github.com/micr0-dev/lexido) - A terminal assistant, powered by Generative AI

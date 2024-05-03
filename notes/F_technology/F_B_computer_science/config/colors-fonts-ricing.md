@@ -276,7 +276,7 @@
 * ( ) [Base16 Harmonic Dark](https://base16.netlify.app/previews/base16-harmonic-dark.html) -too colorful, but some nice colors
 * ( ) [Anarchist Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Anarchist) - blue, white, red
 * ( ) [...](https://github.com/hoshiya4522/tmux-simple-nord)
-* [TMUX] [Minimal Nord theme for tmux](https://www.reddit.com/r/unixporn/comments/129b7vn/tmux_minimal_nord_theme_for_tmux/)
+* ( ) [TMUX] [Minimal Nord theme for tmux](https://www.reddit.com/r/unixporn/comments/129b7vn/tmux_minimal_nord_theme_for_tmux/)
 * ( ) [...](https://github.com/clyde80/dotfiles) clyde80 blue and red
 
 ### Light
@@ -687,7 +687,7 @@ A_{[3 \times 5]} M_{[5 \times 5]} = A^\prime_{[3 \times 5]}
 or Mc = c^\prime
 * Map between different formats
 * Map one colorscheme to another (closed-form mapping matrix vs FFNN vs attention-based NN / transformer)
-* [paletton.com/](https://paletton.com/)
+* ( ) [paletton.com/](https://paletton.com/)
 
 ### pictrix: Tools for Color and Theme Management
 
@@ -747,24 +747,24 @@ First test linear and nonlinear regression
 
 write code to visualize effect of mapping on a large swatch board: [stackoverflow.com/questions/43971138/python-plotting-colored-grid-based-on-values](https://stackoverflow.com/questions/43971138/python-plotting-colored-grid-based-on-values)
 
-* [stackoverflow.com/questions/64075569/how-to-plot-a-grid-of-colors-and-text](https://stackoverflow.com/questions/64075569/how-to-plot-a-grid-of-colors-and-text)
-* [media.istockphoto.com/vectors/color-palette-popular-colors-color-chart-patterns-and-names-rgb-hex-vector-id1329565383](https://media.istockphoto.com/vectors/color-palette-popular-colors-color-chart-patterns-and-names-rgb-hex-vector-id1329565383)
-* [visibone.com/color/chart_847.gif](https://www.visibone.com/color/chart_847.gif)
-* [kkfscs.weebly.com/uploads/1/4/1/8/14186235/352372045_orig.png](http://kkfscs.weebly.com/uploads/1/4/1/8/14186235/352372045_orig.png)
-* [m2.material.io/design/color/the-color-system.html#tools-for-picking-colors](https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors)
-* [i.pinimg.com/originals/b7/a5/9f/b7a59fad2f489054608a52122aef0da4.png](https://i.pinimg.com/originals/b7/a5/9f/b7a59fad2f489054608a52122aef0da4.png)
+* ( ) [stackoverflow.com/questions/64075569/how-to-plot-a-grid-of-colors-and-text](https://stackoverflow.com/questions/64075569/how-to-plot-a-grid-of-colors-and-text)
+* ( ) [media.istockphoto.com/vectors/color-palette-popular-colors-color-chart-patterns-and-names-rgb-hex-vector-id1329565383](https://media.istockphoto.com/vectors/color-palette-popular-colors-color-chart-patterns-and-names-rgb-hex-vector-id1329565383)
+* ( ) [visibone.com/color/chart_847.gif](https://www.visibone.com/color/chart_847.gif)
+* ( ) [kkfscs.weebly.com/uploads/1/4/1/8/14186235/352372045_orig.png](http://kkfscs.weebly.com/uploads/1/4/1/8/14186235/352372045_orig.png)
+* ( ) [m2.material.io/design/color/the-color-system.html#tools-for-picking-colors](https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors)
+* ( ) [i.pinimg.com/originals/b7/a5/9f/b7a59fad2f489054608a52122aef0da4.png](https://i.pinimg.com/originals/b7/a5/9f/b7a59fad2f489054608a52122aef0da4.png)
 
 and a color wheel: [pythonfordesigners.com/tutorials/hsl-color-wheel/](https://pythonfordesigners.com/tutorials/hsl-color-wheel/)
 
-* [codeease.net/programming/python/color-wheel](https://www.codeease.net/programming/python/color-wheel)
-* [stackoverflow.com/questions/39386272/creating-a-colorwheel-with-javascript](https://stackoverflow.com/questions/39386272/creating-a-colorwheel-with-javascript)
-* [i.pinimg.com/originals/8f/28/6d/8f286d8aeb62b7c75b7c365257da68a4.jpg](https://i.pinimg.com/originals/8f/28/6d/8f286d8aeb62b7c75b7c365257da68a4.jpg) → like this with white ring around the edge and black circle in the middle
+* ( ) [codeease.net/programming/python/color-wheel](https://www.codeease.net/programming/python/color-wheel)
+* ( ) [stackoverflow.com/questions/39386272/creating-a-colorwheel-with-javascript](https://stackoverflow.com/questions/39386272/creating-a-colorwheel-with-javascript)
+* ( ) [i.pinimg.com/originals/8f/28/6d/8f286d8aeb62b7c75b7c365257da68a4.jpg](https://i.pinimg.com/originals/8f/28/6d/8f286d8aeb62b7c75b7c365257da68a4.jpg) → like this with white ring around the edge and black circle in the middle
 
 use color wheel to observe the effect of mappings such as [[1,0,0.5],[0,1,0],[0.5,0.5,1]]
 
 Look seriously into tensor  multiplications in NumPy and PyTorch
 
-* [numpy.org/doc/stable/reference/generated/numpy.tensordot.html](https://numpy.org/doc/stable/reference/generated/numpy.tensordot.html)
+* ( ) [numpy.org/doc/stable/reference/generated/numpy.tensordot.html](https://numpy.org/doc/stable/reference/generated/numpy.tensordot.html)
 
 Example: given:
 
@@ -826,7 +826,7 @@ Example: given:
 ```
 
 * another possibility: [stackoverflow.com/questions/58823918/how-to-parallelize-model-prediction-from-a-pytorch-model](https://stackoverflow.com/questions/58823918/how-to-parallelize-model-prediction-from-a-pytorch-model)
-* [stackoverflow.com/questions/26571199/vectorize-multiplying-rgb-array-by-color-transform-matrix-for-image-processing](https://stackoverflow.com/questions/26571199/vectorize-multiplying-rgb-array-by-color-transform-matrix-for-image-processing)
+* ( ) [stackoverflow.com/questions/26571199/vectorize-multiplying-rgb-array-by-color-transform-matrix-for-image-processing](https://stackoverflow.com/questions/26571199/vectorize-multiplying-rgb-array-by-color-transform-matrix-for-image-processing)
 
 ```python
 * X = np.arange(120).reshape(5,8,3)
@@ -841,7 +841,7 @@ W = np.array(
 print(transformed.shape)
 ```
 
-* [ImageGoNord - RGB image to Nordtheme](https://ign.schrodinger-hat.it/)
+* ( ) [ImageGoNord - RGB image to Nordtheme](https://ign.schrodinger-hat.it/)
 
 ## Roadmap
 
@@ -874,92 +874,92 @@ print(transformed.shape)
 * also: categories for element types in CLI, TUI, GUI, and webpages: statistical and NLP-based inference for CSS → good logging so that process is transparent and easily improved or manually corrected
 * include comment in config template to show which options are possible
 * Nix, Home Manager→ create “pre-home-manager” that takes a master color file and populates the home manager settings (use Nix or some other language + templates? → Go, Zig, Rust, Haskell, OCaml, Cython, Lua?)
-* [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) 
-* [SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) [Stylix](https://danth.github.io/stylix/)
+* ( ) [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) 
+* ( ) [SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) [Stylix](https://danth.github.io/stylix/)
 * CSS & related
-* [sass-lang.com/dart-sass/](https://sass-lang.com/dart-sass/)
-* [sass/sassc](https://github.com/sass/sassc)
+* ( ) [sass-lang.com/dart-sass/](https://sass-lang.com/dart-sass/)
+* ( ) [sass/sassc](https://github.com/sass/sassc)
 * → browser
 * Vanilla Linux
-* [SingularisArt/Chameleon](https://github.com/SingularisArt/Chameleon) , → other projects by
-* [GideonWolfe](https://github.com/GideonWolfe)
-* [reorr/warnai](https://github.com/reorr/warnai)
-* [cherrynoize/dash-dotfiles](https://github.com/cherrynoize/dash-dotfiles) dark-light color switcher
-* [gradience.readthedocs.io/en/latest/](https://gradience.readthedocs.io/en/latest/)
+* ( ) [SingularisArt/Chameleon](https://github.com/SingularisArt/Chameleon) , → other projects by
+* ( ) [GideonWolfe](https://github.com/GideonWolfe)
+* ( ) [reorr/warnai](https://github.com/reorr/warnai)
+* ( ) [cherrynoize/dash-dotfiles](https://github.com/cherrynoize/dash-dotfiles) dark-light color switcher
+* ( ) [gradience.readthedocs.io/en/latest/](https://gradience.readthedocs.io/en/latest/)
 * terminal
 * (neo)vim
-* [ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua)
-* [chadcat7/prism](https://github.com/chadcat7/prism)
-* [zaldih/themery.nvim](https://github.com/zaldih/themery.nvim)
+* ( ) [ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua)
+* ( ) [chadcat7/prism](https://github.com/chadcat7/prism)
+* ( ) [zaldih/themery.nvim](https://github.com/zaldih/themery.nvim)
 * other apps / operating systemsGuake (Gnome app) theming$ chmod +x set_colors.sh$ ./set_colors.shAlternatively copy lines below directly into your shell.gconftool-2 -s -t string /apps/guake/style/background/color '#01010e0e0505'gconftool-2 -s -t string /apps/guake/style/font/color '#9393a1a1a1a1'gconftool-2 -s -t string /apps/guake/style/font/palette '#000021210606:#2a2aa1a19898:#2e2e99990000:#bfbfa0a00000:#26268b8bd2d2:#6c6c7171c4c4:#4040a6a62f2f:#9393a1a1a1a1:#65657b7b8383:#dcdc32322f2f:#858599990000:#b5b589890000:#26268b8bd2d2:#6c6c7171c4c4:#2a2aa1a19898:#fdfdf6f6e3e3'**
-* [JollyRogerTrader/Regowal](https://github.com/JollyRogerTrader/Regowal)
-* [lra/mackup/](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux) → get ideas for colorflip and kbgeneral
+* ( ) [JollyRogerTrader/Regowal](https://github.com/JollyRogerTrader/Regowal)
+* ( ) [lra/mackup/](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux) → get ideas for colorflip and kbgeneral
 * inspirations / potential dependencies[pywal](https://github.com/dylanaraps/pywal) - pywal is a script that takes an image (or a directory of images), generates a colorscheme (using imagemagick) and then changes all of your open terminal’s colors to the new colorscheme on the fly, allowing you to have your terminal colors change with your wallpaper, or other criteria.
 * tools to use
-* [http://mustache.github.io/](http://mustache.github.io/) - templatingRoadmap Create Github Organization: AestheticFreedom / Basmati → ended up going with Oryzotropheo→ Create analog for keyboard shortcutsDevelop feature that maps one picture with a given color scheme to the same picture with a different color scheme. → background, or other theme-specific art → use clustering to find color centers, then interpolation → what can pywal and other libraries already do? —> also, how to map all colors to colorscheme-compatible colors? esp. relevant for theming websites and changing images, svg, rendered TeX, etc.create tools for working with dconf, gconfconfigure startup files for Python -> colors for iPython, bpython, ptpython -> sync→ Make (partially) transparent backgrounds/borders that change the colors of the background: intensify, invert (especially for outline), mellow/dim, color shift, etc. →
-* [r/unixporn/comments/12t1958/questions_on_advanced_window_transparency_settings/](https://www.reddit.com/r/unixporn/comments/12t1958/questions_on_advanced_window_transparency_settings/)rewrite in Rust (portability) or CL (for easiest extensibility? → look at how qtile handles config; learn more about plugins best practices in general)→ make Nix- and homewarrior-compatible!Look at how github, vscode, nvim, pygment, etc. handle color themes across languages → generalized token classesname polychrome?just make extensions for firefox and chromium? → support Nix/Home Manager installation better (?), less hacky
-* [yelircaasi/swytchswatch](https://github.com/yelircaasi/swytchswatch)Someday: for phone, with whichever OS, desktop environment, and apps are best suitedIs it possible to map colors to others in the browser? Should be categorical, independent of site details. Like red #FF0000 always being shifted to green #00FF00
-* [codeberg.org/anhsirk0/theme-builder](https://codeberg.org/anhsirk0/theme-builder)
-* [ign.schrodinger-hat.it/](https://ign.schrodinger-hat.it/) → browser
-* [stylebot.dev/](https://stylebot.dev/)
-* [nyxt.atlas.engineer/article/theming-nyxt-3.org](https://nyxt.atlas.engineer/article/theming-nyxt-3.org)
-* [nyxt.atlas.engineer/article/dark-theme.org](https://nyxt.atlas.engineer/article/dark-theme.org)
-* [dracula/nyxt/blob/master/stylesheet.lisp](https://github.com/dracula/nyxt/blob/master/stylesheet.lisp)
-* [nyxt.atlas.engineer/documentation#appearance](https://nyxt.atlas.engineer/documentation#appearance) →
-* [nyxt.atlas.engineer/documentation](https://nyxt.atlas.engineer/documentation) for firefox: got to about:config and view modified only, search color (first use color option in preferences menu)
-* [qutebrowser.org/doc/help/settings.html](https://qutebrowser.org/doc/help/settings.html)
-* [r/qutebrowser/comments/glo28l/how_do_you_use_a_css_stylesheet/](https://www.reddit.com/r/qutebrowser/comments/glo28l/how_do_you_use_a_css_stylesheet/)
-* [search?q=home-manager+firefox+colors&type=code](https://github.com/search?q=home-manager+firefox+colors&type=code)
+* ( ) [http://mustache.github.io/](http://mustache.github.io/) - templatingRoadmap Create Github Organization: AestheticFreedom / Basmati → ended up going with Oryzotropheo→ Create analog for keyboard shortcutsDevelop feature that maps one picture with a given color scheme to the same picture with a different color scheme. → background, or other theme-specific art → use clustering to find color centers, then interpolation → what can pywal and other libraries already do? —> also, how to map all colors to colorscheme-compatible colors? esp. relevant for theming websites and changing images, svg, rendered TeX, etc.create tools for working with dconf, gconfconfigure startup files for Python -> colors for iPython, bpython, ptpython -> sync→ Make (partially) transparent backgrounds/borders that change the colors of the background: intensify, invert (especially for outline), mellow/dim, color shift, etc. →
+* ( ) [r/unixporn/comments/12t1958/questions_on_advanced_window_transparency_settings/](https://www.reddit.com/r/unixporn/comments/12t1958/questions_on_advanced_window_transparency_settings/)rewrite in Rust (portability) or CL (for easiest extensibility? → look at how qtile handles config; learn more about plugins best practices in general)→ make Nix- and homewarrior-compatible!Look at how github, vscode, nvim, pygment, etc. handle color themes across languages → generalized token classesname polychrome?just make extensions for firefox and chromium? → support Nix/Home Manager installation better (?), less hacky
+* ( ) [yelircaasi/swytchswatch](https://github.com/yelircaasi/swytchswatch)Someday: for phone, with whichever OS, desktop environment, and apps are best suitedIs it possible to map colors to others in the browser? Should be categorical, independent of site details. Like red #FF0000 always being shifted to green #00FF00
+* ( ) [codeberg.org/anhsirk0/theme-builder](https://codeberg.org/anhsirk0/theme-builder)
+* ( ) [ign.schrodinger-hat.it/](https://ign.schrodinger-hat.it/) → browser
+* ( ) [stylebot.dev/](https://stylebot.dev/)
+* ( ) [nyxt.atlas.engineer/article/theming-nyxt-3.org](https://nyxt.atlas.engineer/article/theming-nyxt-3.org)
+* ( ) [nyxt.atlas.engineer/article/dark-theme.org](https://nyxt.atlas.engineer/article/dark-theme.org)
+* ( ) [dracula/nyxt/blob/master/stylesheet.lisp](https://github.com/dracula/nyxt/blob/master/stylesheet.lisp)
+* ( ) [nyxt.atlas.engineer/documentation#appearance](https://nyxt.atlas.engineer/documentation#appearance) →
+* ( ) [nyxt.atlas.engineer/documentation](https://nyxt.atlas.engineer/documentation) for firefox: got to about:config and view modified only, search color (first use color option in preferences menu)
+* ( ) [qutebrowser.org/doc/help/settings.html](https://qutebrowser.org/doc/help/settings.html)
+* ( ) [r/qutebrowser/comments/glo28l/how_do_you_use_a_css_stylesheet/](https://www.reddit.com/r/qutebrowser/comments/glo28l/how_do_you_use_a_css_stylesheet/)
+* ( ) [search?q=home-manager+firefox+colors&type=code](https://github.com/search?q=home-manager+firefox+colors&type=code)
 
 ## SORT ---------------------------------------------------------------------------------------------------------------------------------
 
 ## Rice Font
 
-* [* Code search results](https://github.com/search?q%3Dfont-patcher%2Blanguage%253ANix%26type%3Dcode)
+* ( ) [* Code search results](https://github.com/search?q%3Dfont-patcher%2Blanguage%253ANix%26type%3Dcode)
 * rice font Patched font name: $name Coterminous
-* [Fontforge drops me into python? - Help - NixOS Discourse](https://discourse.nixos.org/t/fontforge-drops-me-into-python/5592)
-* [Fonts - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/config/fonts.html)
-* [Glyphr Studio - font design, online](https://www.glyphrstudio.com/)
-* [Glyphr Studio v2](https://www.glyphrstudio.com/app/)
-* [How to get full unicode support on Chrome? : r/Unicode](https://www.reddit.com/r/Unicode/comments/4rhbjh/how_to_get_full_unicode_support_on_chrome/)
-* [Installing fonts - NixOS4Noobs](https://jorel.dev/NixOS4Noobs/fonts.html)
-* [Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher](https://www.nerdfonts.com/cheat-sheet)
-* [NixOS Search - Packages - font-patcher](https://search.nixos.org/packages?channel%3D23.11%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dfont-patcher)
-* [Programmable fonts with Rust by Valdemar Erk - YouTube](https://www.youtube.com/watch?v%3DMs1Drb9Vw9M)
-* [Symbols for Legacy Computing - Wikipedia](https://en.wikipedia.org/wiki/Symbols_for_Legacy_Computing)
-* [Symbols for Legacy Computing](https://www.unicode.org/charts/nameslist/c_1FB00.html)
-* [Unicode Characters: 02500 to 025FF](https://www.w3.org/TR/xml-entity-names/025.html)
-* [Unicode Characters: 02500 to 025FF](https://www.w3.org/TR/xml-entity-names/025.html)
-* [Unicode – The World Standard for Text and Emoji](https://home.unicode.org/)
-* [Unicode/List of useful symbols - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Unicode/List_of_useful_symbols)
-* [cfonts - npm](https://www.npmjs.com/package/cfonts)
-* [http://designwithfontforge.com/fr-FR/index.html](http://designwithfontforge.com/fr-FR/index.html)
-* [dee.underscore.world/blog/home-manager-fonts/](https://dee.underscore.world/blog/home-manager-fonts/)
-* [discourse.nixos.org/t/home-manager-nerdfonts/11226](https://discourse.nixos.org/t/home-manager-nerdfonts/11226)
-* [es.wikipedia.org/wiki/Curva_de_Bézier](https://es.wikipedia.org/wiki/Curva_de_B%25C3%25A9zier)
-* [es.wikipedia.org/wiki/Curva_de_Bézier](https://es.wikipedia.org/wiki/Curva_de_B%25C3%25A9zier)
-* [NixOS/nixpkgs/issues/230895](https://github.com/NixOS/nixpkgs/issues/230895)
-* [nix-community/home-manager/issues/605](https://github.com/nix-community/home-manager/issues/605)
-* [nixos.wiki/wiki/Fonts](https://nixos.wiki/wiki/Fonts)
-* [linux.com/topic/desktop/how-manage-fonts-linux/](https://www.linux.com/topic/desktop/how-manage-fonts-linux/)
-* [r/NixOS/comments/16i7bc0/how_to_install_powerline_and_fontawesome/](https://www.reddit.com/r/NixOS/comments/16i7bc0/how_to_install_powerline_and_fontawesome/)
-* [r/NixOS/comments/18heuqb/how_to_use_installed_fonts_in_alacritty_etc/](https://www.reddit.com/r/NixOS/comments/18heuqb/how_to_use_installed_fonts_in_alacritty_etc/)
-* [unicode.org/charts/PDF/U1FB00.pdf](https://www.unicode.org/charts/PDF/U1FB00.pdf)
-* [libc/nix-nerd-fonts-patcher: Nix flake to use nerd-fonts font-patcher](https://github.com/libc/nix-nerd-fonts-patcher)
-* [nerdfonts cheatsheet at DuckDuckGo](https://duckduckgo.com/?q%3Dnerdfonts%2Bcheatsheet%26ia%3Dweb)
-* [script - Get list of all fonts containing a specific character - Ask Different](https://apple.stackexchange.com/questions/287707/get-list-of-all-fonts-containing-a-specific-character)
-* [seijinriashenko/sf-mono-liga: A Flake for installing Apple's SF Mono nerd-font, patched and ligaturized](https://github.com/seijinriashenko/sf-mono-liga)
-* [viperML/iosevka: My iosevka build, patched with nerd fonts](https://github.com/viperML/iosevka)
+* ( ) [Fontforge drops me into python? - Help - NixOS Discourse](https://discourse.nixos.org/t/fontforge-drops-me-into-python/5592)
+* ( ) [Fonts - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/config/fonts.html)
+* ( ) [Glyphr Studio - font design, online](https://www.glyphrstudio.com/)
+* ( ) [Glyphr Studio v2](https://www.glyphrstudio.com/app/)
+* ( ) [How to get full unicode support on Chrome? : r/Unicode](https://www.reddit.com/r/Unicode/comments/4rhbjh/how_to_get_full_unicode_support_on_chrome/)
+* ( ) [Installing fonts - NixOS4Noobs](https://jorel.dev/NixOS4Noobs/fonts.html)
+* ( ) [Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher](https://www.nerdfonts.com/cheat-sheet)
+* ( ) [NixOS Search - Packages - font-patcher](https://search.nixos.org/packages?channel%3D23.11%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dfont-patcher)
+* ( ) [Programmable fonts with Rust by Valdemar Erk - YouTube](https://www.youtube.com/watch?v%3DMs1Drb9Vw9M)
+* ( ) [Symbols for Legacy Computing - Wikipedia](https://en.wikipedia.org/wiki/Symbols_for_Legacy_Computing)
+* ( ) [Symbols for Legacy Computing](https://www.unicode.org/charts/nameslist/c_1FB00.html)
+* ( ) [Unicode Characters: 02500 to 025FF](https://www.w3.org/TR/xml-entity-names/025.html)
+* ( ) [Unicode Characters: 02500 to 025FF](https://www.w3.org/TR/xml-entity-names/025.html)
+* ( ) [Unicode – The World Standard for Text and Emoji](https://home.unicode.org/)
+* ( ) [Unicode/List of useful symbols - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Unicode/List_of_useful_symbols)
+* ( ) [cfonts - npm](https://www.npmjs.com/package/cfonts)
+* ( ) [http://designwithfontforge.com/fr-FR/index.html](http://designwithfontforge.com/fr-FR/index.html)
+* ( ) [dee.underscore.world/blog/home-manager-fonts/](https://dee.underscore.world/blog/home-manager-fonts/)
+* ( ) [discourse.nixos.org/t/home-manager-nerdfonts/11226](https://discourse.nixos.org/t/home-manager-nerdfonts/11226)
+* ( ) [es.wikipedia.org/wiki/Curva_de_Bézier](https://es.wikipedia.org/wiki/Curva_de_B%25C3%25A9zier)
+* ( ) [es.wikipedia.org/wiki/Curva_de_Bézier](https://es.wikipedia.org/wiki/Curva_de_B%25C3%25A9zier)
+* ( ) [NixOS/nixpkgs/issues/230895](https://github.com/NixOS/nixpkgs/issues/230895)
+* ( ) [nix-community/home-manager/issues/605](https://github.com/nix-community/home-manager/issues/605)
+* ( ) [nixos.wiki/wiki/Fonts](https://nixos.wiki/wiki/Fonts)
+* ( ) [linux.com/topic/desktop/how-manage-fonts-linux/](https://www.linux.com/topic/desktop/how-manage-fonts-linux/)
+* ( ) [r/NixOS/comments/16i7bc0/how_to_install_powerline_and_fontawesome/](https://www.reddit.com/r/NixOS/comments/16i7bc0/how_to_install_powerline_and_fontawesome/)
+* ( ) [r/NixOS/comments/18heuqb/how_to_use_installed_fonts_in_alacritty_etc/](https://www.reddit.com/r/NixOS/comments/18heuqb/how_to_use_installed_fonts_in_alacritty_etc/)
+* ( ) [unicode.org/charts/PDF/U1FB00.pdf](https://www.unicode.org/charts/PDF/U1FB00.pdf)
+* ( ) [libc/nix-nerd-fonts-patcher: Nix flake to use nerd-fonts font-patcher](https://github.com/libc/nix-nerd-fonts-patcher)
+* ( ) [nerdfonts cheatsheet at DuckDuckGo](https://duckduckgo.com/?q%3Dnerdfonts%2Bcheatsheet%26ia%3Dweb)
+* ( ) [script - Get list of all fonts containing a specific character - Ask Different](https://apple.stackexchange.com/questions/287707/get-list-of-all-fonts-containing-a-specific-character)
+* ( ) [seijinriashenko/sf-mono-liga: A Flake for installing Apple's SF Mono nerd-font, patched and ligaturized](https://github.com/seijinriashenko/sf-mono-liga)
+* ( ) [viperML/iosevka: My iosevka build, patched with nerd fonts](https://github.com/viperML/iosevka)
 * rice font e.g. Fira Coterminous - even width border on the edge (1/8th? 1 pixel? 2 pixel? dynamic max(1/8th, 2 pixel)?
 
 ## Ricing Links
 
 ## Pictrix and Clavix Shared Notes
 
-* [oxalica/nil](https://github.com/oxalica/nil) - nix language server in rust
-* [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP language server for Nix (in Rust)
-* [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server (in C++)
-* [nerdypepper/statix](https://github.com/nerdypepper/statix) - static linter (in Rust)
+* ( ) [oxalica/nil](https://github.com/oxalica/nil) - nix language server in rust
+* ( ) [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP language server for Nix (in Rust)
+* ( ) [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server (in C++)
+* ( ) [nerdypepper/statix](https://github.com/nerdypepper/statix) - static linter (in Rust)
 * good list of apps: [lra/mackup/,](https://github.com/lra/mackup/,) starship, etc
 * Use templating for unsupported apps (mustache templating? Use structured template parsing for all supported configs
 * Use explicit write paths (for generated configs) and optionally explicit read paths (template / pre-existing config) with default locations provided in the pictrix config folder if destination folder does not exist - which one to give precedence?
@@ -968,20 +968,20 @@ print(transformed.shape)
 
 ## Sort -------------------------------------------------------------------------------------------------------------
 
-* [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme)
-* [niri](https://github.com/YaLTeR/niri)
-* [freepik.com/free-vector/gradient-hexagonal-background_13900571.htm](https://www.freepik.com/free-vector/gradient-hexagonal-background_13900571.htm)
-* [wallpaperflare.com/landscape-photography-of-mountains-surrounded-by-body-of-water-wallpaper-hcoir](https://www.wallpaperflare.com/landscape-photography-of-mountains-surrounded-by-body-of-water-wallpaper-hcoir)
-* [hyprwm/hyprland-plugins/tree/main/hyprexpo](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprexpo)
-* [xsghetti/HyprCrux](https://github.com/xsghetti/HyprCrux)
-* [uncut.wtf/](https://uncut.wtf/) - font collection
+* ( ) [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme)
+* ( ) [niri](https://github.com/YaLTeR/niri)
+* ( ) [freepik.com/free-vector/gradient-hexagonal-background_13900571.htm](https://www.freepik.com/free-vector/gradient-hexagonal-background_13900571.htm)
+* ( ) [wallpaperflare.com/landscape-photography-of-mountains-surrounded-by-body-of-water-wallpaper-hcoir](https://www.wallpaperflare.com/landscape-photography-of-mountains-surrounded-by-body-of-water-wallpaper-hcoir)
+* ( ) [hyprwm/hyprland-plugins/tree/main/hyprexpo](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprexpo)
+* ( ) [xsghetti/HyprCrux](https://github.com/xsghetti/HyprCrux)
+* ( ) [uncut.wtf/](https://uncut.wtf/) - font collection
 * flag [video](https://www.youtube.com/@Sephyrulz)
 
 ## Colors
 
-* [jcarlosroldan.com/about](https://jcarlosroldan.com/about)
-* [media.discordapp.net/attachments/635625917623828520/1228755940887629885/screenshot.png?ex=66366da5&is=6623f8a5&hm=29a1c8817cc7f7c52456f5081152a7777e05df4a37d296320651f04a2ce1ba75&](https://media.discordapp.net/attachments/635625917623828520/1228755940887629885/screenshot.png?ex=66366da5&is=6623f8a5&hm=29a1c8817cc7f7c52456f5081152a7777e05df4a37d296320651f04a2ce1ba75&)
-* [olivercederborg/poimandres.nvim](https://github.com/olivercederborg/poimandres.nvim)
+* ( ) [jcarlosroldan.com/about](https://jcarlosroldan.com/about)
+* ( ) [media.discordapp.net/attachments/635625917623828520/1228755940887629885/screenshot.png?ex=66366da5&is=6623f8a5&hm=29a1c8817cc7f7c52456f5081152a7777e05df4a37d296320651f04a2ce1ba75&](https://media.discordapp.net/attachments/635625917623828520/1228755940887629885/screenshot.png?ex=66366da5&is=6623f8a5&hm=29a1c8817cc7f7c52456f5081152a7777e05df4a37d296320651f04a2ce1ba75&)
+* ( ) [olivercederborg/poimandres.nvim](https://github.com/olivercederborg/poimandres.nvim)
 
 ## Ideal Setup
 
@@ -994,108 +994,108 @@ print(transformed.shape)
 * Maximized efficiency and productivity: work at the speed of thought, minimizing clutter & drag
 * Reliable, solid system - no breakage
 * browser bookmarks [r/NixOS/s/eq3YVMGevM](https://www.reddit.com/r/NixOS/s/eq3YVMGevM)
-* [alphacoders](https://wall.alphacoders.com/) - wallpapers
-* [Aylur's GTK Shell | AGS Wiki](https://aylur.github.io/ags-docs/)
-* [Buffer splitting/tiling · Issue #55 · atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt/issues/55)
-* [Capturing a screenshot of the GDM login screen | en gnome | ao2.it](https://ao2.it/en/blog/2016/10/01/capturing-screenshot-gdm-login-screen)
-* [Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.8.3 documentation](https://matplotlib.org/stable/users/explain/customizing.html)
-* [Fonts - NixOS Wiki](https://nixos.wiki/wiki/Fonts)
-* [GDM3 Theme Blur - Gnome-look.org](https://www.gnome-look.org/p/1275369)
-* [Gtk – 3.0: CSS Properties](https://docs.gtk.org/gtk3/css-properties.html)
-* [Gtk – 4.0: GTK CSS Properties](https://docs.gtk.org/gtk4/css-properties.html)
-* [How tags work · riverwm/river Wiki](https://github.com/riverwm/river/wiki/How-tags-work)
-* [How to fix qt themes in nixos? - Help - NixOS Discourse](https://discourse.nixos.org/t/how-to-fix-qt-themes-in-nixos/14495/7)
-* [NixOS Hyprland - request some insight pls on how to ran codium and discord to in xwayland mode? : r/NixOS](https://www.reddit.com/r/NixOS/comments/17kg8rb/nixos_hyprland_request_some_insight_pls_on_how_to/)
-* [Tint and Shade Generator](https://maketintsandshades.com/)
-* [Wrong background with gtk2 theme Gnome OSX-IV-1.3 · Issue #32 · doublecmd/doublecmd](https://github.com/doublecmd/doublecmd/issues/32)
-* [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes)
-* [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins)
-* [r/hyprland/comments/15f97ue/how_i_do_find_my_keybinds_for_hyprland/?rdt=42389](https://www.reddit.com/r/hyprland/comments/15f97ue/how_i_do_find_my_keybinds_for_hyprland/?rdt%3D42389)
-* [nyxt-config/hsplit.lisp at master · aartaka/nyxt-config](https://github.com/aartaka/nyxt-config/blob/master/hsplit.lisp)
-* [nyxt/source/renderer/gtk.lisp at 0a288c573e40b8b7ac12264782e095ca08d9f507 · atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt/blob/0a288c573e40b8b7ac12264782e095ca08d9f507/source/renderer/gtk.lisp%23L68)
-* [sandesh236/sleek--themes](https://github.com/sandesh236/sleek--themes)
+* ( ) [alphacoders](https://wall.alphacoders.com/) - wallpapers
+* ( ) [Aylur's GTK Shell | AGS Wiki](https://aylur.github.io/ags-docs/)
+* ( ) [Buffer splitting/tiling · Issue #55 · atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt/issues/55)
+* ( ) [Capturing a screenshot of the GDM login screen | en gnome | ao2.it](https://ao2.it/en/blog/2016/10/01/capturing-screenshot-gdm-login-screen)
+* ( ) [Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.8.3 documentation](https://matplotlib.org/stable/users/explain/customizing.html)
+* ( ) [Fonts - NixOS Wiki](https://nixos.wiki/wiki/Fonts)
+* ( ) [GDM3 Theme Blur - Gnome-look.org](https://www.gnome-look.org/p/1275369)
+* ( ) [Gtk – 3.0: CSS Properties](https://docs.gtk.org/gtk3/css-properties.html)
+* ( ) [Gtk – 4.0: GTK CSS Properties](https://docs.gtk.org/gtk4/css-properties.html)
+* ( ) [How tags work · riverwm/river Wiki](https://github.com/riverwm/river/wiki/How-tags-work)
+* ( ) [How to fix qt themes in nixos? - Help - NixOS Discourse](https://discourse.nixos.org/t/how-to-fix-qt-themes-in-nixos/14495/7)
+* ( ) [NixOS Hyprland - request some insight pls on how to ran codium and discord to in xwayland mode? : r/NixOS](https://www.reddit.com/r/NixOS/comments/17kg8rb/nixos_hyprland_request_some_insight_pls_on_how_to/)
+* ( ) [Tint and Shade Generator](https://maketintsandshades.com/)
+* ( ) [Wrong background with gtk2 theme Gnome OSX-IV-1.3 · Issue #32 · doublecmd/doublecmd](https://github.com/doublecmd/doublecmd/issues/32)
+* ( ) [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes)
+* ( ) [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins)
+* ( ) [r/hyprland/comments/15f97ue/how_i_do_find_my_keybinds_for_hyprland/?rdt=42389](https://www.reddit.com/r/hyprland/comments/15f97ue/how_i_do_find_my_keybinds_for_hyprland/?rdt%3D42389)
+* ( ) [nyxt-config/hsplit.lisp at master · aartaka/nyxt-config](https://github.com/aartaka/nyxt-config/blob/master/hsplit.lisp)
+* ( ) [nyxt/source/renderer/gtk.lisp at 0a288c573e40b8b7ac12264782e095ca08d9f507 · atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt/blob/0a288c573e40b8b7ac12264782e095ca08d9f507/source/renderer/gtk.lisp%23L68)
+* ( ) [sandesh236/sleek--themes](https://github.com/sandesh236/sleek--themes)
 
 ## Rice Browser
 
-* [Home | Stylebot](https://stylebot.dev/)
+* ( ) [Home | Stylebot](https://stylebot.dev/)
 
 ## Rice Color
 
-* [Forest Green and Brown Color Palette](https://www.color-hex.com/color-palette/101985)
-* [Names of colors in English. Shades of green and brown | Colors name in english, Color, Color names](https://www.pinterest.com/pin/132856257736067260/)
-* [http://wiki.gis.com/wiki/index.php/Saturation_(Color_Theory)
-* [bottosson.github.io/posts/oklab/](https://bottosson.github.io/posts/oklab/)
-* [chromatone.center/theory/color/models/perceptual/](https://chromatone.center/theory/color/models/perceptual/)
-* [en.wikipedia.org/wiki/Color_model](https://en.wikipedia.org/wiki/Color_model)
-* [en.wikipedia.org/wiki/Color_scheme](https://en.wikipedia.org/wiki/Color_scheme)
-* [en.wikipedia.org/wiki/Color_space](https://en.wikipedia.org/wiki/Color_space)
-* [en.wikipedia.org/wiki/Color_theory](https://en.wikipedia.org/wiki/Color_theory)
-* [en.wikipedia.org/wiki/List_of_color_spaces_and_their_uses](https://en.wikipedia.org/wiki/List_of_color_spaces_and_their_uses)
-* [mattlockyer.github.io/iat455/documents/rgb-hsv.pdf](https://mattlockyer.github.io/iat455/documents/rgb-hsv.pdf)
-* [news.ycombinator.com/item?id=25830327](https://news.ycombinator.com/item?id%3D25830327)
-* [opg.optica.org/oe/fulltext.cfm?uri=oe-25-13-15131&id=368272](https://opg.optica.org/oe/fulltext.cfm?uri%3Doe-25-13-15131%26id%3D368272)
-* [programmingdesignsystems.com/color/perceptually-uniform-color-spaces/](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/)
-* [uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa](https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa)
-* [colorfetch.com/](https://www.colorfetch.com/)
-* [google.com/search?q=conversion%20between%20rgb%20and%20hsv&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q%3Dconversion%2520between%2520rgb%2520and%2520hsv%26ie%3Dutf-8%26oe%3Dutf-8%26client%3Dfirefox-b-m)  implement color converter / modifier in Nix and look at 2 sister projects for reference (are there more?)   conversion between rgb and hsv
-* [interaction-design.org/literature/topics/color-theory](https://www.interaction-design.org/literature/topics/color-theory)
-* [pnas.org/doi/full/10.1073/pnas.2119753119](https://www.pnas.org/doi/full/10.1073/pnas.2119753119)
-* [r/neovim/comments/199c6zd/seamless_jupyter_notebook_editing_in_neovim_demo/](https://www.reddit.com/r/neovim/comments/199c6zd/seamless_jupyter_notebook_editing_in_neovim_demo/)
-* [sciencedirect.com/topics/engineering/perceptual-color-space](https://www.sciencedirect.com/topics/engineering/perceptual-color-space)
-* [toptal.com/designers/ux/color-in-ux](https://www.toptal.com/designers/ux/color-in-ux)
-* [www2.konicaminolta.eu/eu/Measuring/pcc/en/index.html](https://www2.konicaminolta.eu/eu/Measuring/pcc/en/index.html)
-* [16colo.rs - Sixteen Colors is an online ANSI and ASCII Art Gallery collecting all of the art packs released since the early 1990s](https://forum.16colo.rs/)
-* [Color Psychology: A Guide for Designers, Marketers & Students](https://www.colorpsychology.org/)
-* [HSL and HSV - Wikipedia](https://en.wikipedia.org/wiki/HSL_and_HSV)
-* [Switching from solarized to gruvbox](https://blog.jeaye.com/2018/02/01/gruvbox/)
-* [bottosson.github.io/misc/colorpicker/#f0f0f0](https://bottosson.github.io/misc/colorpicker/%23f0f0f0)
-* [thvardhan/Gradianto](https://github.com/thvardhan/Gradianto)
-* [quickfix.es/2023/11/off-theme-presents-shades-of-purple/](https://quickfix.es/2023/11/off-theme-presents-shades-of-purple/)
-* [iTerm2-Color-Schemes/dynamic-colors/AlienBlood.sh at master · mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/dynamic-colors/AlienBlood.sh)
+* ( ) [Forest Green and Brown Color Palette](https://www.color-hex.com/color-palette/101985)
+* ( ) [Names of colors in English. Shades of green and brown | Colors name in english, Color, Color names](https://www.pinterest.com/pin/132856257736067260/)
+* ( ) [http://wiki.gis.com/wiki/index.php/Saturation_(Color_Theory)
+* ( ) [bottosson.github.io/posts/oklab/](https://bottosson.github.io/posts/oklab/)
+* ( ) [chromatone.center/theory/color/models/perceptual/](https://chromatone.center/theory/color/models/perceptual/)
+* ( ) [en.wikipedia.org/wiki/Color_model](https://en.wikipedia.org/wiki/Color_model)
+* ( ) [en.wikipedia.org/wiki/Color_scheme](https://en.wikipedia.org/wiki/Color_scheme)
+* ( ) [en.wikipedia.org/wiki/Color_space](https://en.wikipedia.org/wiki/Color_space)
+* ( ) [en.wikipedia.org/wiki/Color_theory](https://en.wikipedia.org/wiki/Color_theory)
+* ( ) [en.wikipedia.org/wiki/List_of_color_spaces_and_their_uses](https://en.wikipedia.org/wiki/List_of_color_spaces_and_their_uses)
+* ( ) [mattlockyer.github.io/iat455/documents/rgb-hsv.pdf](https://mattlockyer.github.io/iat455/documents/rgb-hsv.pdf)
+* ( ) [news.ycombinator.com/item?id=25830327](https://news.ycombinator.com/item?id%3D25830327)
+* ( ) [opg.optica.org/oe/fulltext.cfm?uri=oe-25-13-15131&id=368272](https://opg.optica.org/oe/fulltext.cfm?uri%3Doe-25-13-15131%26id%3D368272)
+* ( ) [programmingdesignsystems.com/color/perceptually-uniform-color-spaces/](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/)
+* ( ) [uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa](https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa)
+* ( ) [colorfetch.com/](https://www.colorfetch.com/)
+* ( ) [google.com/search?q=conversion%20between%20rgb%20and%20hsv&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q%3Dconversion%2520between%2520rgb%2520and%2520hsv%26ie%3Dutf-8%26oe%3Dutf-8%26client%3Dfirefox-b-m)  implement color converter / modifier in Nix and look at 2 sister projects for reference (are there more?)   conversion between rgb and hsv
+* ( ) [interaction-design.org/literature/topics/color-theory](https://www.interaction-design.org/literature/topics/color-theory)
+* ( ) [pnas.org/doi/full/10.1073/pnas.2119753119](https://www.pnas.org/doi/full/10.1073/pnas.2119753119)
+* ( ) [r/neovim/comments/199c6zd/seamless_jupyter_notebook_editing_in_neovim_demo/](https://www.reddit.com/r/neovim/comments/199c6zd/seamless_jupyter_notebook_editing_in_neovim_demo/)
+* ( ) [sciencedirect.com/topics/engineering/perceptual-color-space](https://www.sciencedirect.com/topics/engineering/perceptual-color-space)
+* ( ) [toptal.com/designers/ux/color-in-ux](https://www.toptal.com/designers/ux/color-in-ux)
+* ( ) [www2.konicaminolta.eu/eu/Measuring/pcc/en/index.html](https://www2.konicaminolta.eu/eu/Measuring/pcc/en/index.html)
+* ( ) [16colo.rs - Sixteen Colors is an online ANSI and ASCII Art Gallery collecting all of the art packs released since the early 1990s](https://forum.16colo.rs/)
+* ( ) [Color Psychology: A Guide for Designers, Marketers & Students](https://www.colorpsychology.org/)
+* ( ) [HSL and HSV - Wikipedia](https://en.wikipedia.org/wiki/HSL_and_HSV)
+* ( ) [Switching from solarized to gruvbox](https://blog.jeaye.com/2018/02/01/gruvbox/)
+* ( ) [bottosson.github.io/misc/colorpicker/#f0f0f0](https://bottosson.github.io/misc/colorpicker/%23f0f0f0)
+* ( ) [thvardhan/Gradianto](https://github.com/thvardhan/Gradianto)
+* ( ) [quickfix.es/2023/11/off-theme-presents-shades-of-purple/](https://quickfix.es/2023/11/off-theme-presents-shades-of-purple/)
+* ( ) [iTerm2-Color-Schemes/dynamic-colors/AlienBlood.sh at master · mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/dynamic-colors/AlienBlood.sh)
 
 ## Rice Image
 
-* [peakpx.com/en/search?q=dark+green+forest](https://www.peakpx.com/en/search?q%3Ddark%2Bgreen%2Bforest)
+* ( ) [peakpx.com/en/search?q=dark+green+forest](https://www.peakpx.com/en/search?q%3Ddark%2Bgreen%2Bforest)
 
 ## Rice Teams
 
 ```txt
 * rice teams 'is-ipad': app.layoutService.isIPad,
 * rice teams 'notification-banner-visible': app.appStateAdapter.mainNotificationBannerStore.currentBanner,
-* [0])!=-1){return"rtl"}return"ltr"}function getStylesheetUrl(e){for(var t=0;t<themedStyleSheets.length;t++){var s=themedStyleSheets
-* [t];if(s.indexOf(".theme-"+e+".")!==-1){return s}}return themedStyleSheets
-* [0]}function getStylesheetUrl2(e){let t=setCssLanguageDirection();let s=t==="rtl"?e+"-"+t:e;for(var h=0;h<themedStyleSheets.length;h++){if(themedStyleSheets
-* [h].indexOf(".theme-"+s+".")!=-1){return themedStyleSheets
-* [h]}}return themedStyleSheets
-* [themedStyleSheets.length-1]}function getStoredTheme(){const e="ts.upgradeV2Themes";const t="ts.appliedActiveTheme";const s=readCookie("storedTheme");let h;if(s&&s!=="undefined"){h=s}else{var a=window.serverFlags.appEnvironment||"";h=a.indexOf("life")>=0||location.hostname.indexOf("live")>=0?"tfl-default":"default"}if(window.localStorage){var n=window.localStorage.getItem(e);if(n==="true"){switch(h){case"default":h="defaultV2";break;case"dark":h="darkV2";break;default:break}}window.localStorage.setItem(t,h)}return h}function setStylesheetFromCookie(e,t){var s=document.head||document.getElementsByTagName("head")
-* [0];var h=document.createElement("style");h.innerHTML="* { transition-property: background-color; transition-duration: .22s; transition-timing-function: ease-out; }";if(!t){s.appendChild(h)}var a=document.querySelectorAll("#themed-stylesheet");var n=getStoredTheme();var d=getStylesheetUrl2(n);var l=document.createElement("link");http://l.id/);var o=function(){if(e){e()}var t=document.getElementById("loading-stylesheet");if(t){s.removeChild(t)}if(h.parentElement==s){s.removeChild(h)}s=null;h=null;a=null};l.onload=function(){console.log("
-* [Index] Loaded stylesheet: "+d);var e=a&&a.length;if(e){var t;for(t=0;t<e;t++){var s=a
-* [t];if(s&&s.parentElement){s.parentElement.removeChild(s)}}}o()};l.onerror=function(e){console.log("
-* [Index] Failed to load stylesheet: "+d+" >>> "+JSON.stringify(e));appStartFailed(errorMessage.cssLoadError,d);o()};s.appendChild(l);l=null}window.setStylesheetFromCookie=setStylesheetFromCookie;setStylesheetFromCookie((function(){_.defer((function(){$("body").addClass("initialized")}))}),true);$(window).on("load",(function e(){angular.bootstrap(document.documentElement,
+* ( ) [0])!=-1){return"rtl"}return"ltr"}function getStylesheetUrl(e){for(var t=0;t<themedStyleSheets.length;t++){var s=themedStyleSheets
+* ( ) [t];if(s.indexOf(".theme-"+e+".")!==-1){return s}}return themedStyleSheets
+* ( ) [0]}function getStylesheetUrl2(e){let t=setCssLanguageDirection();let s=t==="rtl"?e+"-"+t:e;for(var h=0;h<themedStyleSheets.length;h++){if(themedStyleSheets
+* ( ) [h].indexOf(".theme-"+s+".")!=-1){return themedStyleSheets
+* ( ) [h]}}return themedStyleSheets
+* ( ) [themedStyleSheets.length-1]}function getStoredTheme(){const e="ts.upgradeV2Themes";const t="ts.appliedActiveTheme";const s=readCookie("storedTheme");let h;if(s&&s!=="undefined"){h=s}else{var a=window.serverFlags.appEnvironment||"";h=a.indexOf("life")>=0||location.hostname.indexOf("live")>=0?"tfl-default":"default"}if(window.localStorage){var n=window.localStorage.getItem(e);if(n==="true"){switch(h){case"default":h="defaultV2";break;case"dark":h="darkV2";break;default:break}}window.localStorage.setItem(t,h)}return h}function setStylesheetFromCookie(e,t){var s=document.head||document.getElementsByTagName("head")
+* ( ) [0];var h=document.createElement("style");h.innerHTML="* { transition-property: background-color; transition-duration: .22s; transition-timing-function: ease-out; }";if(!t){s.appendChild(h)}var a=document.querySelectorAll("#themed-stylesheet");var n=getStoredTheme();var d=getStylesheetUrl2(n);var l=document.createElement("link");http://l.id/);var o=function(){if(e){e()}var t=document.getElementById("loading-stylesheet");if(t){s.removeChild(t)}if(h.parentElement==s){s.removeChild(h)}s=null;h=null;a=null};l.onload=function(){console.log("
+* ( ) [Index] Loaded stylesheet: "+d);var e=a&&a.length;if(e){var t;for(t=0;t<e;t++){var s=a
+* ( ) [t];if(s&&s.parentElement){s.parentElement.removeChild(s)}}}o()};l.onerror=function(e){console.log("
+* ( ) [Index] Failed to load stylesheet: "+d+" >>> "+JSON.stringify(e));appStartFailed(errorMessage.cssLoadError,d);o()};s.appendChild(l);l=null}window.setStylesheetFromCookie=setStylesheetFromCookie;setStylesheetFromCookie((function(){_.defer((function(){$("body").addClass("initialized")}))}),true);$(window).on("load",(function e(){angular.bootstrap(document.documentElement,
 ```
 
 ```html
 ["teamspace"]);if(window.electronSafeIpc&&window.desktop&&window.desktop.perf&&window.desktop.perf.getProcessMemoryInfo){window.electronSafeIpc.send("telemetryEvent",{name:"memoryIndexAppBootstrap",Perf_WorkingSetSizeKB:window.desktop.perf.getProcessMemoryInfo().workingSetSize})}}));sendAppStateChanged("IndexJsLoaded");</script><div ng-if=!app.layoutService.isLoaded id=app-loading-elem class="app-loading animated" analytics-panel={{::app.panelRegions.main}}><app-header-bar ng-if="!app.layoutService.isRigel && (!(app.layoutService.surfaceHubEnabled || app.layoutService.smartDeviceEnabled || app.layoutService.hidePowerBarElements) || app.layoutService.isElectron)"></app-header-bar><loading-application layout-service=app.layoutService environment=app.settingsService.appConfig.environment.type></loading-application></div><div ng-if="app.layoutService.isLoaded && !app.skipFirstRun" class=first-run analytics-panel={{::app.panelRegions.firstRun}}><app-header-bar ng-if="!app.layoutService.isRigel && (!(app.layoutService.surfaceHubEnabled || app.layoutService.smartDeviceEnabled || app.layoutService.hidePowerBarElements) || app.layoutService.isElectron)"></app-header-bar><div class="ts-first-run ts-add-members-common" ui-view={{::app.panelRegions.firstRun}} noanimation=true></div></div><div ng-if="app.layoutService.isInitialized && app.skipFirstRun" ng-class="{ 'invisible': !app.layoutService.isLoaded, |  |
-* [http://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast-rtl.min-99a2c48.css](http://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast-rtl.min-99a2c48.css)
-* [grwlf/mobile-nixos-cfg](https://github.com/grwlf/mobile-nixos-cfg)
-* [statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast-rtl.min-99a2c48.css](https://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast-rtl.min-99a2c48.css)
-* [statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast.min-c13716d.css](https://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast.min-c13716d.css)
-* [teams.microsoft.com/_](https://teams.microsoft.com/_)
+* ( ) [http://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast-rtl.min-99a2c48.css](http://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast-rtl.min-99a2c48.css)
+* ( ) [grwlf/mobile-nixos-cfg](https://github.com/grwlf/mobile-nixos-cfg)
+* ( ) [statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast-rtl.min-99a2c48.css](https://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast-rtl.min-99a2c48.css)
+* ( ) [statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast.min-c13716d.css](https://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast.min-c13716d.css)
+* ( ) [teams.microsoft.com/_](https://teams.microsoft.com/_)
 * rice teams view-source
 * rice teams | themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast-rtl.min-99a2c48.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast.min-c13716d.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-dark-rtl.min-f34329e.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-dark.min-40ddca9.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-darkV2-rtl.min-3b6961e.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-darkV2.min-ea15c0d.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-default-rtl.min-af690f7.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-default.min-0efad32.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-defaultV2-rtl.min-9cda25c.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-defaultV2.min-88ff9d4.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-tfl-dark-rtl.min-2da3d8b.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-tfl-dark.min-61565ac.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-tfl-default-rtl.min-7e0ad38.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-tfl-default.min-1cdcd8d.css);function setCssLanguageDirection(){let e=
-* ["ar","he","fl"];if(window.TS_PREFERRED_LOCALES&&window.TS_PREFERRED_LOCALES
-* [0]&&typeof window.TS_PREFERRED_LOCALES
-* [0]=="string"&&e.indexOf(window.TS_PREFERRED_LOCALES
-* [0].split("-")
+* ( ) ["ar","he","fl"];if(window.TS_PREFERRED_LOCALES&&window.TS_PREFERRED_LOCALES
+* ( ) [0]&&typeof window.TS_PREFERRED_LOCALES
+* ( ) [0]=="string"&&e.indexOf(window.TS_PREFERRED_LOCALES
+* ( ) [0].split("-")
 ```
 
 ## Dual Monitor
 
-* [fedoramagazine.org/how-to-setup-multiple-monitors-in-sway/](https://fedoramagazine.org/how-to-setup-multiple-monitors-in-sway/)
-* [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays)
-* [search?q=repo%3Aswaywm%2Fsway](https://github.com/search?q%3Drepo%253Aswaywm%252Fsway) monitor&type=code
-* [wiki.hyprland.org/Configuring/Monitors/](https://wiki.hyprland.org/Configuring/Monitors/)
-* [r/swaywm/comments/jqj1ww/sway_on_ultrawide_monitor_tips_or_recommended/](https://www.reddit.com/r/swaywm/comments/jqj1ww/sway_on_ultrawide_monitor_tips_or_recommended/)
+* ( ) [fedoramagazine.org/how-to-setup-multiple-monitors-in-sway/](https://fedoramagazine.org/how-to-setup-multiple-monitors-in-sway/)
+* ( ) [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays)
+* ( ) [search?q=repo%3Aswaywm%2Fsway](https://github.com/search?q%3Drepo%253Aswaywm%252Fsway) monitor&type=code
+* ( ) [wiki.hyprland.org/Configuring/Monitors/](https://wiki.hyprland.org/Configuring/Monitors/)
+* ( ) [r/swaywm/comments/jqj1ww/sway_on_ultrawide_monitor_tips_or_recommended/](https://www.reddit.com/r/swaywm/comments/jqj1ww/sway_on_ultrawide_monitor_tips_or_recommended/)
 
 ## Colortheme Development
 
@@ -1130,15 +1130,15 @@ print(transformed.shape)
 ### Color Theme Development
 
 * my own projectsto fork! [pensils](https://github.com/orsinium-labs/pencils) - interesting for exploring color themes via Python → fork and hack around on, maybe extend and turn into CLI*
-* [🎨Recolor.jl, repictor (name?)](...)*
-* [Reddit Code Review - Python class for working with and converting between RGB color codes](https://www.reddit.com/r/codereview/comments/10zy2j5/python_class_for_working_with_and_converting/)
+* ( ) [🎨Recolor.jl, repictor (name?)](...)*
+* ( ) [Reddit Code Review - Python class for working with and converting between RGB color codes](https://www.reddit.com/r/codereview/comments/10zy2j5/python_class_for_working_with_and_converting/)
 * meta / other
-* [nice idea for two-color theme](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F2k9xfo87648z.png) [...](https://bottosson.github.io/posts/colorwrong/) [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) → see list of software and use themes in developing colorlip / switchswatch
+* ( ) [nice idea for two-color theme](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F2k9xfo87648z.png) [...](https://bottosson.github.io/posts/colorwrong/) [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) → see list of software and use themes in developing colorlip / switchswatch
 * color theory, readings→ see Rickrack in ‘interactive’ [colorhexa.com/](https://www.colorhexa.com/) - very thorough, very good
-* [Podlodka Color Space Podcast](https://open.spotify.com/episode/7nymXLWGAhTnRdNxEvontC?si=ICCMnVZHTLCBy00jiiSRYQ)
-* [...](http://www.brucelindbloom.com/https://www.dioptricdesign.com/)
-* [michael-m.medium.com/true-color-interpolation-a1a17352ebf0](https://michael-m.medium.com/true-color-interpolation-a1a17352ebf0)
-* [...](https://github.com/kdrag0n) [...]
+* ( ) [Podlodka Color Space Podcast](https://open.spotify.com/episode/7nymXLWGAhTnRdNxEvontC?si=ICCMnVZHTLCBy00jiiSRYQ)
+* ( ) [...](http://www.brucelindbloom.com/https://www.dioptricdesign.com/)
+* ( ) [michael-m.medium.com/true-color-interpolation-a1a17352ebf0](https://michael-m.medium.com/true-color-interpolation-a1a17352ebf0)
+* ( ) [...](https://github.com/kdrag0n) [...]
         [...](https://michael-m.medium.com/true-color-interpolation-a1a17352ebf0) [kdrag0n)](https://github.com/kdrag0n)
 * Color management & programming
         [meodai/color-names](https://github.com/meodai/color-names)
@@ -1154,25 +1154,25 @@ print(transformed.shape)
         [Axenide/ColorFuse](https://github.com/Axenide/ColorFuse)
         [...](https://github.com/JuliaGraphics/ColorSchemeTools.jl)
         [Axenide/ColorFuse)](https://github.com/Axenide/ColorFuse)) - a type of color interpolation, also has some templating
-* interactive toolsvscode via json** [terminal.sexy/https://paletton.com/https://bottosson.github.io/misc/colorpicker](https://terminal.sexy/https://paletton.com/https://bottosson.github.io/misc/colorpicker)
-* [realtimecolors.com](https://realtimecolors.com/?colors=000000-ffffff-4685ff-f2f2f2-ffb084)
-* [Color Picker | Color from Image, HEX, RGB, HTML | RedKetchup](https://redketchup.io/color-picker)
-* [pickr](https://github.com/Simonwep/pickr)
-* [gitlab.gnome.org/World/gcolor3](https://gitlab.gnome.org/World/gcolor3) [kryogenix.org/code/pick/](https://www.kryogenix.org/code/pick/) [thezbyg/gpick**](https://github.com/thezbyg/gpick**) [coolors.co/?home](https://coolors.co/?home) - easy interactive generation*
-* [brianreilly.me/Base16Designer/](http://brianreilly.me/Base16Designer/)
-* [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), GNOME-Colors and Archdroid icons. → [themix-project](https://github.com/themix-project)
-* [keshavbhatt/ColorPicker**](https://github.com/keshavbhatt/ColorPicker**)
-* [eigenmiao/Rickrack](https://github.com/eigenmiao/Rickrack) - [eigenmiao.com/rickrack/](https://eigenmiao.com/rickrack/) - phenomenl, guided by color theory**
-* [plainas/cubecolors](https://github.com/plainas/cubecolors)
-* [plainas.github.io/cubecolors/](http://plainas.github.io/cubecolors/) → maybe change isometry from continuous to perceptual scale?
-* [...](https://github.com/yrwq/ccc) - 🎨 Show off your color palette - good for quick interactive development in the terminal
-* [adobe/leonardo](https://github.com/adobe/leonardo) - generation based on desired contrast
+* interactive toolsvscode via json** ( ) [terminal.sexy/https://paletton.com/https://bottosson.github.io/misc/colorpicker](https://terminal.sexy/https://paletton.com/https://bottosson.github.io/misc/colorpicker)
+* ( ) [realtimecolors.com](https://realtimecolors.com/?colors=000000-ffffff-4685ff-f2f2f2-ffb084)
+* ( ) [Color Picker | Color from Image, HEX, RGB, HTML | RedKetchup](https://redketchup.io/color-picker)
+* ( ) [pickr](https://github.com/Simonwep/pickr)
+* ( ) [gitlab.gnome.org/World/gcolor3](https://gitlab.gnome.org/World/gcolor3) [kryogenix.org/code/pick/](https://www.kryogenix.org/code/pick/) [thezbyg/gpick**](https://github.com/thezbyg/gpick**) [coolors.co/?home](https://coolors.co/?home) - easy interactive generation*
+* ( ) [brianreilly.me/Base16Designer/](http://brianreilly.me/Base16Designer/)
+* ( ) [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), GNOME-Colors and Archdroid icons. → [themix-project](https://github.com/themix-project)
+* ( ) [keshavbhatt/ColorPicker**](https://github.com/keshavbhatt/ColorPicker**)
+* ( ) [eigenmiao/Rickrack](https://github.com/eigenmiao/Rickrack) - [eigenmiao.com/rickrack/](https://eigenmiao.com/rickrack/) - phenomenl, guided by color theory**
+* ( ) [plainas/cubecolors](https://github.com/plainas/cubecolors)
+* ( ) [plainas.github.io/cubecolors/](http://plainas.github.io/cubecolors/) → maybe change isometry from continuous to perceptual scale?
+* ( ) [...](https://github.com/yrwq/ccc) - 🎨 Show off your color palette - good for quick interactive development in the terminal
+* ( ) [adobe/leonardo](https://github.com/adobe/leonardo) - generation based on desired contrast
 * small-set generation
-* [luizdemoraes/mono](https://github.com/luizdemoraes/mono) - monochromatic theme generator in react; website down → try to get up and running myself
-* [simurai/duotone-dark-syntax](https://github.com/simurai/duotone-dark-syntax) -
-* [logic](https://github.com/simurai/duotone-dark-syntax/blob/master/lib/duotone.coffee) - see also [simurai/vscode-tritone](https://github.com/simurai/vscode-tritone) [metaory/mxcolr-lite,](https://github.com/metaory/mxcolr-lite) [metaory/mxcolr-v2](https://github.com/metaory/mxcolr-v2) - pseudo-random color generation
+* ( ) [luizdemoraes/mono](https://github.com/luizdemoraes/mono) - monochromatic theme generator in react; website down → try to get up and running myself
+* ( ) [simurai/duotone-dark-syntax](https://github.com/simurai/duotone-dark-syntax) -
+* ( ) [logic](https://github.com/simurai/duotone-dark-syntax/blob/master/lib/duotone.coffee) - see also [simurai/vscode-tritone](https://github.com/simurai/vscode-tritone) [metaory/mxcolr-lite,](https://github.com/metaory/mxcolr-lite) [metaory/mxcolr-v2](https://github.com/metaory/mxcolr-v2) - pseudo-random color generation
 * exploration, collections
-* [Explore Color Palettes - Coolors](https://coolors.co/palettes/popular/forest)
+* ( ) [Explore Color Palettes - Coolors](https://coolors.co/palettes/popular/forest)
 * from picturepywal
         [robwaz/pywal](https://github.com/robwaz/pywal) - current fork
         [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
@@ -1188,52 +1188,52 @@ print(transformed.shape)
         [JuliaGraphics/ColorSchemeTools.jl)](https://github.com/JuliaGraphics/ColorSchemeTools.jl)
         [dylanaraps/wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
         [...](https://github.com/TesterTech/rice-i3-from-scratch-pywal)
-* [reddit](https://www.reddit.com/r/unixporn/comments/12ug679/i3wm_image_browser_for_pywal_to_test_out_color/)
-* [auto-base16-theme](https://github.com/makuto/auto-base16-theme)
-* [misterio77/flavours/](https://github.com/misterio77/flavours/)
-* [Flavours, a simple and unixy way to use base16 schemes : unixporn](https://www.reddit.com/r/unixporn/comments/jhbyoy/oc_flavours_a_simple_and_unixy_way_to_use_base16/)
-* [Make a terminal theme with Base16 and Flavours - Part 2 - YouTube](https://www.youtube.com/watch?v=Hjq15PVY0Tk) → see parts I and III |
-* [flavours/Cargo.toml at master · Misterio77/flavours](https://github.com/Misterio77/flavours/blob/master/Cargo.toml)
-* [github.com/entscheidungsproblem/K-means](...)
-* [f0x48/ricemood](https://github.com/f0x48/ricemood)
-* [Reddit - [OC] I create a tool to magically match your color scheme based on the wallpaper](https://www.reddit.com/r/unixporn/comments/dzgu7i/oc_i_create_a_tool_to_magically_match_your_color/)
+* ( ) [reddit](https://www.reddit.com/r/unixporn/comments/12ug679/i3wm_image_browser_for_pywal_to_test_out_color/)
+* ( ) [auto-base16-theme](https://github.com/makuto/auto-base16-theme)
+* ( ) [misterio77/flavours/](https://github.com/misterio77/flavours/)
+* ( ) [Flavours, a simple and unixy way to use base16 schemes : unixporn](https://www.reddit.com/r/unixporn/comments/jhbyoy/oc_flavours_a_simple_and_unixy_way_to_use_base16/)
+* ( ) [Make a terminal theme with Base16 and Flavours - Part 2 - YouTube](https://www.youtube.com/watch?v=Hjq15PVY0Tk) → see parts I and III |
+* ( ) [flavours/Cargo.toml at master · Misterio77/flavours](https://github.com/Misterio77/flavours/blob/master/Cargo.toml)
+* ( ) [github.com/entscheidungsproblem/K-means](...)
+* ( ) [f0x48/ricemood](https://github.com/f0x48/ricemood)
+* ( ) [Reddit - [OC] I create a tool to magically match your color scheme based on the wallpaper](https://www.reddit.com/r/unixporn/comments/dzgu7i/oc_i_create_a_tool_to_magically_match_your_color/)
 * AI colorscheme generation
-* [khroma.co/](https://www.khroma.co/)
+* ( ) [khroma.co/](https://www.khroma.co/)
 * format, conversion, etc.
-* [ansifilter](http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php)
-* [no-color.org](https://no-color.org/)
+* ( ) [ansifilter](http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php)
+* ( ) [no-color.org](https://no-color.org/)
 * calibration, device, control, other
-* [DisplayCAL](https://displaycal.net/) - Open Source Display Calibration and Characterization powered by ArgyllCMS.
-* [OpenRGB](https://openrgb.org/) - Open source RGB lighting control that doesn’t depend on manufacturer software. For Windows, Linux, MacOS.
+* ( ) [DisplayCAL](https://displaycal.net/) - Open Source Display Calibration and Characterization powered by ArgyllCMS.
+* ( ) [OpenRGB](https://openrgb.org/) - Open source RGB lighting control that doesn’t depend on manufacturer software. For Windows, Linux, MacOS.
 * with specific softwarevim / nvim
-* [nokobear/vim-colorscheme-edit](https://github.com/nokobear/vim-colorscheme-edit)
-* [utubo/vim-6colors](https://github.com/utubo/vim-6colors)
-* [strrts/swatch.vim](https://github.com/strrts/swatch.vim)
-* [glowfish](https://github.com/daylerees/colour-schemes/blob/master/vim/colors/glowfish.vim)
-* [GideonWolfe/vim.reaper](https://github.com/GideonWolfe/vim.reaper)
-* [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - colorscheme creation
-* [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate)
-* [chadcat7/prismvscode→](https://github.com/chadcat7/prismvscode→) see vscode-wal
-* [yelircaasi/schwarzwald-vscode-theme](https://github.com/yelircaasi/schwarzwald-vscode-theme) [code.visualstudio.com/api/references/theme-color](https://code.visualstudio.com/api/references/theme-color)
-* [code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme)
-* [css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/) 
-* [VSCode Theme Creator](https://themes.vscode.one/) [...](https://code.visualstudio.com/docs/getstarted/themes) [code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme](https://code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme)
+* ( ) [nokobear/vim-colorscheme-edit](https://github.com/nokobear/vim-colorscheme-edit)
+* ( ) [utubo/vim-6colors](https://github.com/utubo/vim-6colors)
+* ( ) [strrts/swatch.vim](https://github.com/strrts/swatch.vim)
+* ( ) [glowfish](https://github.com/daylerees/colour-schemes/blob/master/vim/colors/glowfish.vim)
+* ( ) [GideonWolfe/vim.reaper](https://github.com/GideonWolfe/vim.reaper)
+* ( ) [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - colorscheme creation
+* ( ) [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate)
+* ( ) [chadcat7/prismvscode→](https://github.com/chadcat7/prismvscode→) see vscode-wal
+* ( ) [yelircaasi/schwarzwald-vscode-theme](https://github.com/yelircaasi/schwarzwald-vscode-theme) [code.visualstudio.com/api/references/theme-color](https://code.visualstudio.com/api/references/theme-color)
+* ( ) [code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme)
+* ( ) [css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/) 
+* ( ) [VSCode Theme Creator](https://themes.vscode.one/) [...](https://code.visualstudio.com/docs/getstarted/themes) [code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme](https://code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme)
 * UBUNTU STACK [sommaa/dots](https://github.com/sommaa/dots)  → get working in VanillaOS in a VM
-* [en.wikipedia.org/wiki/Xrdb](https://en.wikipedia.org/wiki/Xrdb)
-* [Changing the colors - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#automatic-light-dark-mode)
-* [...](https://github.com/hyprwm/hyprpicker)
-* [Soft/xcolor](https://github.com/Soft/xcolor)
-* [solarized/xresources](https://github.com/solarized/xresources)
-* [sphinx-design.readthedocs.io/en/latest/index.html](https://sphinx-design.readthedocs.io/en/latest/index.html)
-* [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
-* [DioptricDesign/qtile-chameleon](https://github.com/DioptricDesign/qtile-chameleon)
-* [dconf - How to save GNOME settings in a file? - Ask Ubuntu](https://askubuntu.com/questions/984205/how-to-save-gnome-settings-in-a-file)
+* ( ) [en.wikipedia.org/wiki/Xrdb](https://en.wikipedia.org/wiki/Xrdb)
+* ( ) [Changing the colors - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#automatic-light-dark-mode)
+* ( ) [...](https://github.com/hyprwm/hyprpicker)
+* ( ) [Soft/xcolor](https://github.com/Soft/xcolor)
+* ( ) [solarized/xresources](https://github.com/solarized/xresources)
+* ( ) [sphinx-design.readthedocs.io/en/latest/index.html](https://sphinx-design.readthedocs.io/en/latest/index.html)
+* ( ) [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
+* ( ) [DioptricDesign/qtile-chameleon](https://github.com/DioptricDesign/qtile-chameleon)
+* ( ) [dconf - How to save GNOME settings in a file? - Ask Ubuntu](https://askubuntu.com/questions/984205/how-to-save-gnome-settings-in-a-file)
 * 1S
-* [command line - Changing colour of text and background of terminal? - Ask Ubuntu](https://askubuntu.com/questions/558280/changing-colour-of-text-and-background-of-terminal)
+* ( ) [command line - Changing colour of text and background of terminal? - Ask Ubuntu](https://askubuntu.com/questions/558280/changing-colour-of-text-and-background-of-terminal)
 * templating, instantiation, switching, etc.
-* [flavours](https://github.com/misterio77/flavours/)
-* [Flavours, a simple and unixy way to use base16 schemes : unixporn](https://www.reddit.com/r/unixporn/comments/jhbyoy/oc_flavours_a_simple_and_unixy_way_to_use_base16/)
-* [...](https://draculatheme.com/) - great collection of templates
+* ( ) [flavours](https://github.com/misterio77/flavours/)
+* ( ) [Flavours, a simple and unixy way to use base16 schemes : unixporn](https://www.reddit.com/r/unixporn/comments/jhbyoy/oc_flavours_a_simple_and_unixy_way_to_use_base16/)
+* ( ) [...](https://draculatheme.com/) - great collection of templates
         [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it’s core for colorscheme generation.
         [estilo](https://github.com/jacoborus/estilo)
         [Saecki/alco](https://github.com/Saecki/alco) -rust, Update terminal colorschemes on the fly
@@ -1245,258 +1245,258 @@ print(transformed.shape)
         [Kumux/kumux-colorscheme-engine)](https://github.com/Kumux/kumux-colorscheme-engine) (good source of templates! - also in pictrix page)
         [just-colors](https://github.com/andreyvpng/just-colors)
         [magnickolas/alacritty-scheme-switcher](https://github.com/magnickolas/alacritty-scheme-switcher)
-* [→ ideas for colorflip](https://github.com/gh0stzk/dotfiles)
-* [dash-dotfiles](https://github.com/cherrynoize/dash-dotfiles)
-* [bspwm dark light mode switcher](https://www.reddit.com/r/unixporn/comments/13hpfdv/bspwmpolybar_dark_mode_switcher/) [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm
+* ( ) [→ ideas for colorflip](https://github.com/gh0stzk/dotfiles)
+* ( ) [dash-dotfiles](https://github.com/cherrynoize/dash-dotfiles)
+* ( ) [bspwm dark light mode switcher](https://www.reddit.com/r/unixporn/comments/13hpfdv/bspwmpolybar_dark_mode_switcher/) [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm
 
 ## color switching
 
-* [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer)
-* [shvedes/dotfiles](https://github.com/shvedes/dotfiles) (hyprland) - theme switching script**
-* [Kumux/kumux-colorscheme-engine](https://github.com/Kumux/kumux-colorscheme-engine) → advanced circadian cycle adaptive colorscheme feature → good list of software → add this functionality to a sister app of pictrix? make compatible?
+* ( ) [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer)
+* ( ) [shvedes/dotfiles](https://github.com/shvedes/dotfiles) (hyprland) - theme switching script**
+* ( ) [Kumux/kumux-colorscheme-engine](https://github.com/Kumux/kumux-colorscheme-engine) → advanced circadian cycle adaptive colorscheme feature → good list of software → add this functionality to a sister app of pictrix? make compatible?
 * → look at design and implementation - [colorscheme.kumux.io/](https://colorscheme.kumux.io/) → somewhat different and worth adding eventually; not top prio
 * other, maybe someday, etc
         [imgly/rembrandt](https://github.com/imgly/rembrandt) - image comparison
 * Browser, websitestylus
-* [live_stylus](https://pypi.org/project/live_stylus/)
-* [stylus-ui](https://pypi.org/project/py-stylus-ui/)
-* [stilus](https://github.com/jw/stilus)
-* [stilus](https://pypi.org/project/stilus/) for colorflip [jw/styrus](https://github.com/jw/styrus) → resurrect? for colorflip [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) → is this even needed?bkad/python-stylus: python bridge for the stylus css compilerStylus | PyCharm Documentation
-* [jw/stilus](https://github.com/jw/stilus) -
-* [stilus · PyPI](https://pypi.org/project/stilus/)
-* [bkad/python-stylus](https://github.com/bkad/python-stylus)
+* ( ) [live_stylus](https://pypi.org/project/live_stylus/)
+* ( ) [stylus-ui](https://pypi.org/project/py-stylus-ui/)
+* ( ) [stilus](https://github.com/jw/stilus)
+* ( ) [stilus](https://pypi.org/project/stilus/) for colorflip [jw/styrus](https://github.com/jw/styrus) → resurrect? for colorflip [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) → is this even needed?bkad/python-stylus: python bridge for the stylus css compilerStylus | PyCharm Documentation
+* ( ) [jw/stilus](https://github.com/jw/stilus) -
+* ( ) [stilus · PyPI](https://pypi.org/project/stilus/)
+* ( ) [bkad/python-stylus](https://github.com/bkad/python-stylus)
 * stylesheetsall
-* [knecon.com](http://knecon.com/) sitesstackoverflowpython docsadd to Documenter.jlPython, Julia, etc docsRedditTeams
-* [local storage - Where does chrome store LocalStorage on my computer? - Super User](https://superuser.com/questions/1703794/where-does-chrome-store-localstorage-on-my-computer)
-* [Chrome Extensions: Give users options - Chrome Developers](https://developer.chrome.com/docs/extensions/mv3/options/#view_page)
-* [In which file are stored an add-on settings/options? - Add-ons / Add-on Support - Mozilla Discourse](https://discourse.mozilla.org/t/in-which-file-are-stored-an-add-on-settings-options/26064/2)
-* [Profiles - Where Firefox stores your bookmarks, passwords and other user data | Firefox Help](https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data)
-* [Profiles - Where Firefox stores your bookmarks, passwords and other user data | Firefox Help](https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data#w_how-do-i-find-my-profile)
-* [Reddit - Web Scraping with Rust (A Beginner Friendly Tutorial)](https://www.reddit.com/r/rust/comments/10gtqn0/web_scraping_with_rust_a_beginner_friendly/)Find a way to change info programmatically in extensionsfind /home/isaac/.mozilla/ -name "*sqlite" | grep -v "https\?\+\+\+”ls ~/.config/google-chrome/Default/Extensions/ponfpcnoihfmfllpaingbgckeeldkhle/2.0.117.10_0
-* [developer.chrome.com/docs/extensions/reference/storage/](https://developer.chrome.com/docs/extensions/reference/storage/)
-* [(2) How do I find the file location of an extension? : firefox](https://www.reddit.com/r/firefox/comments/a1enek/how_do_i_find_the_file_location_of_an_extension/)Debugging - Runtime / this-firefoxIndex of file:///home/isaac/.mozilla/firefox/uxoqb3lu.default-release/extensions/
-* [(2) Where are extensions data stored ? : firefox](https://www.reddit.com/r/firefox/comments/ei70ii/where_are_extensions_data_stored/)
-* [(2) Firefox retaining private data from uninstalled extensions : firefox](https://www.reddit.com/r/firefox/comments/g4m306/firefox_retaining_private_data_from_uninstalled/)10407e4f-a5b2-4f9f-84dc-b3934502b25e/manifest.jsonLocal StorageSession StorageCache StorageCookiesIndexed DBabout:support
-* [Gpick](http://www.gpick.org/) - Gpick allows you to sample any color from anywhere on your desktop, and it also provides some other advanced features!
+* ( ) [knecon.com](http://knecon.com/) sitesstackoverflowpython docsadd to Documenter.jlPython, Julia, etc docsRedditTeams
+* ( ) [local storage - Where does chrome store LocalStorage on my computer? - Super User](https://superuser.com/questions/1703794/where-does-chrome-store-localstorage-on-my-computer)
+* ( ) [Chrome Extensions: Give users options - Chrome Developers](https://developer.chrome.com/docs/extensions/mv3/options/#view_page)
+* ( ) [In which file are stored an add-on settings/options? - Add-ons / Add-on Support - Mozilla Discourse](https://discourse.mozilla.org/t/in-which-file-are-stored-an-add-on-settings-options/26064/2)
+* ( ) [Profiles - Where Firefox stores your bookmarks, passwords and other user data | Firefox Help](https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data)
+* ( ) [Profiles - Where Firefox stores your bookmarks, passwords and other user data | Firefox Help](https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data#w_how-do-i-find-my-profile)
+* ( ) [Reddit - Web Scraping with Rust (A Beginner Friendly Tutorial)](https://www.reddit.com/r/rust/comments/10gtqn0/web_scraping_with_rust_a_beginner_friendly/)Find a way to change info programmatically in extensionsfind /home/isaac/.mozilla/ -name "*sqlite" | grep -v "https\?\+\+\+”ls ~/.config/google-chrome/Default/Extensions/ponfpcnoihfmfllpaingbgckeeldkhle/2.0.117.10_0
+* ( ) [developer.chrome.com/docs/extensions/reference/storage/](https://developer.chrome.com/docs/extensions/reference/storage/)
+* ( ) [(2) How do I find the file location of an extension? : firefox](https://www.reddit.com/r/firefox/comments/a1enek/how_do_i_find_the_file_location_of_an_extension/)Debugging - Runtime / this-firefoxIndex of file:///home/isaac/.mozilla/firefox/uxoqb3lu.default-release/extensions/
+* ( ) [(2) Where are extensions data stored ? : firefox](https://www.reddit.com/r/firefox/comments/ei70ii/where_are_extensions_data_stored/)
+* ( ) [(2) Firefox retaining private data from uninstalled extensions : firefox](https://www.reddit.com/r/firefox/comments/g4m306/firefox_retaining_private_data_from_uninstalled/)10407e4f-a5b2-4f9f-84dc-b3934502b25e/manifest.jsonLocal StorageSession StorageCache StorageCookiesIndexed DBabout:support
+* ( ) [Gpick](http://www.gpick.org/) - Gpick allows you to sample any color from anywhere on your desktop, and it also provides some other advanced features!
 
 ## Dotfiles & Configs, Colors, Ricing, WMs, Colorflip
 
-* [video](https://www.youtube.com/watch?v=avhEMANmfIk)
+* ( ) [video](https://www.youtube.com/watch?v=avhEMANmfIk)
 * Custom Linux Kernels
-* [nixos.wiki/wiki/Linux_kernel](https://nixos.wiki/wiki/Linux_kernel) *
-* [GNU Linux-libre](https://www.fsfla.org/ikiwiki/selibre/linux-libre/) - GNU Linux-libre is a project to maintain and publish 100% Free distributions of Linux, suitable for use in Free System Distributions.
-* [Linux-Hardened](https://github.com/anthraxx/linux-hardened) - A security-focused Linux kernel applying a set of hardening patches to mitigate kernel and userspace exploits. It also enables more upstream kernel hardening features than linux.
-* [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Scripts to automatically download, patch and compile the Linux Kernel from the official Linux git repository, with a selection of patches aiming for better desktop/gaming experience.
-* [Liquorix](https://liquorix.net/) - Liquorix is a distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
-* [XanMod](https://xanmod.org/) - XanMod is a general-purpose Linux kernel distribution with custom settings and new features. Built to provide a stable, responsive and smooth desktop experience.
-* [Zen](https://github.com/zen-kernel/zen-kernel) - Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems.
+* ( ) [nixos.wiki/wiki/Linux_kernel](https://nixos.wiki/wiki/Linux_kernel) *
+* ( ) [GNU Linux-libre](https://www.fsfla.org/ikiwiki/selibre/linux-libre/) - GNU Linux-libre is a project to maintain and publish 100% Free distributions of Linux, suitable for use in Free System Distributions.
+* ( ) [Linux-Hardened](https://github.com/anthraxx/linux-hardened) - A security-focused Linux kernel applying a set of hardening patches to mitigate kernel and userspace exploits. It also enables more upstream kernel hardening features than linux.
+* ( ) [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Scripts to automatically download, patch and compile the Linux Kernel from the official Linux git repository, with a selection of patches aiming for better desktop/gaming experience.
+* ( ) [Liquorix](https://liquorix.net/) - Liquorix is a distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
+* ( ) [XanMod](https://xanmod.org/) - XanMod is a general-purpose Linux kernel distribution with custom settings and new features. Built to provide a stable, responsive and smooth desktop experience.
+* ( ) [Zen](https://github.com/zen-kernel/zen-kernel) - Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems.
 * Init System & Related
-* [fedoramagazine.org/what-is-an-init-system/](https://fedoramagazine.org/what-is-an-init-system/)
-* [Why Systemd is the Devil but I Love It](https://www.youtube.com/watch?v=hc7J-zWEty8)
-* [Linux Init Systems Compared! (SystemD, OpenRC, Runit)](https://www.youtube.com/watch?v=k1Wh8sWR8v0)
-* [Systemd Is Hated By Many, But Does It Deserve It?](https://www.youtube.com/watch?v=y3NYrC5RiRo)
-* [systemd, initsystem... que es eso?](https://www.youtube.com/watch?v=oKvyTGWsZEM)
-* [Linux processes, init, fork/exec, ps, kill, fg, bg, jobs](https://www.youtube.com/watch?v=TJzltwv7jJs)
-* [🤓 Aprende a usar Systemctl | Comandos Básicos de Linux 🐧](https://www.youtube.com/watch?v=4xIsPJWf9l0)
-* [r/initFreedom/](https://www.reddit.com/r/initFreedom/)
+* ( ) [fedoramagazine.org/what-is-an-init-system/](https://fedoramagazine.org/what-is-an-init-system/)
+* ( ) [Why Systemd is the Devil but I Love It](https://www.youtube.com/watch?v=hc7J-zWEty8)
+* ( ) [Linux Init Systems Compared! (SystemD, OpenRC, Runit)](https://www.youtube.com/watch?v=k1Wh8sWR8v0)
+* ( ) [Systemd Is Hated By Many, But Does It Deserve It?](https://www.youtube.com/watch?v=y3NYrC5RiRo)
+* ( ) [systemd, initsystem... que es eso?](https://www.youtube.com/watch?v=oKvyTGWsZEM)
+* ( ) [Linux processes, init, fork/exec, ps, kill, fg, bg, jobs](https://www.youtube.com/watch?v=TJzltwv7jJs)
+* ( ) [🤓 Aprende a usar Systemctl | Comandos Básicos de Linux 🐧](https://www.youtube.com/watch?v=4xIsPJWf9l0)
+* ( ) [r/initFreedom/](https://www.reddit.com/r/initFreedom/)
 * systemd, runit, dinit, logind, elogind, openrc -> search login and init systems *
 * Wallpaper
-* [Horus645/swww](https://github.com/Horus645/swww)
-* [leaves](https://github.com/Aylur/dotfiles/blob/main/wallpapers/leaves.jpg)
-* [splash-cli](https://github.com/splash-cli/splash-cli)) - Beautiful wallpapers from Unsplash.
-* [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli)) - Get or set the desktop wallpaper.
-* [JackPaper](https://github.com/jackel27/jackpaper)) - Set images from Unsplash as wallpaper.
-* [QuickWall](https://github.com/deepjyoti30/QuickWall)) - Directly set wallpapers from Unsplash.
-* [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper manager with multi monitor support.
-* [Variety](https://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use.
-* [Tohrusky/Final2x: 2^x Image Super-Resolution](https://github.com/Tohrusky/Final2x)
-* [r/wallpaper/comments/12yenwu/night_landscape_3840x2160/](https://www.reddit.com/r/wallpaper/comments/12yenwu/night_landscape_3840x2160/)
-* [leaf_veins-wallpaper-1440x900 | Green nature wallpaper, Dark green wallpaper, Green nature](https://www.pinterest.de/pin/305611524685708869/)
-* [Nahaufnahme Naturansicht Der Grünen Blatt Textur Dunkle Tapete Konzept Stockfoto und mehr Bilder von Abstrakt - iStock](https://www.istockphoto.com/de/foto/nahaufnahme-naturansicht-der-gr%C3%BCnen-blatt-textur-dunkle-tapete-konzept-gm1220144391-357159752)
-* [DARK GREEN - Oceans & Nature Background Wallpapers on Desktop Nexus (Image 389775)](https://nature.desktopnexus.com/wallpaper/389775/)
-* [wallpaper for desktop, laptop | nj32-landscape-green-nature-country-dark](https://papers.co/desktop/nj32-landscape-green-nature-country-dark/)
-* [forest, Trees, Green, Moss, Old Wallpapers HD / Desktop and Mobile Backgrounds](https://wallup.net/forest-trees-green-moss-old/)
-* [HD wallpaper: forest, nature, path, woodland, green, ecosystem, tree, road | Wallpaper Flare](https://www.wallpaperflare.com/forest-nature-path-woodland-green-ecosystem-tree-road-wallpaper-trhlc)
-* [[74+] Windows Landscape Wallpaper - WallpaperSafari](https://wallpapersafari.com/windows-landscape-wallpaper/)
-* [[50+] Bing Wallpaper Collection Landscape Pack - WallpaperSafari](https://wallpapersafari.com/bing-wallpaper-collection-landscape-pack/)
-* [[41+] Landscape Images for PC Wallpaper - WallpaperSafari](https://wallpapersafari.com/landscape-images-for-pc-wallpaper/)
-* [Free download Summer Landscape Nature 13 Wallpaper 1920x1080 Summer Landscape [1920x1080] for your Desktop, Mobile & Tablet | Explore 37+ Summer Landscape Wallpaper |wallpaper dl](https://wallpapersafari.com/w/ptOmj8)
-* [wallpaper dl](https://wallpapersafari.com/w/GE2osA)
-* [wallpaper dl](https://wallpapersafari.com/w/twTgG8)
-* [wallpaper dl](https://wallpapersafari.com/w/uMxnKT)
-* [wallpaper dl](https://wallpapersafari.com/w/8U7zWk)
-* [wallpaper dl](https://wallpapersafari.com/w/wegCSh)
-* [wallpaper dl](https://wallpapersafari.com/w/sM6wiy)
-* [wallpaper img](https://wallpapersafari.com/w/h7orMx)
-* [Free download beautiful landscape nature hd wallpapers best background nature [1920x1080] for your Desktop, Mobile & Tablet | Explore 43+ Beautiful Landscape Backgrounds Landscape Wallpapers | Landscape Background Images, Landscape Background, Beautiful Landscape Backgrounds](https://wallpapersafari.com/w/JKwvL6)
-* [Foto zum Thema Nahaufnahmefotografie der grünen Sukkulente – Kostenloses Bild zu Schwarz auf Unsplash](https://unsplash.com/de/fotos/CIyDU5WLxxw)
-* [Black and Green Wallpapers - Top Free Black and Green Backgrounds - WallpaperAccess](https://wallpaperaccess.com/black-and-green)
-* [blackish-green wallpaper - Google Search](https://www.google.com/imgres?imgurl=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F368%2F606%2FHD-wallpaper-texture-leaves-green-dark-background-flowers-black-abstract.jpg&imgrefurl=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-fpsgp&tbnid=7jKV4u1O2nhN5M&vet=10CBAQxiAoCWoXChMIwNvC98CL_QIVAAAAAB0AAAAAEBE..i&docid=-GyEeayEbGS99M&w=800&h=566&itg=1&q=blackish-green%20wallpaper&client=firefox-b-d&ved=0CBAQxiAoCWoXChMIwNvC98CL_QIVAAAAAB0AAAAAEBE)
-* [Dark Green Forest Wallpaper Images - Free Download on Freepik](https://www.freepik.com/free-photos-vectors/dark-green-forest-wallpaper)
-* [dark green forest wallpaper - Google Search](https://www.google.com/search?client=firefox-b-d&q=dark+green+forest+wallpaper#imgrc=sSPmfN5UCCiAIM)
-* [green nature, green forest, dark forest, deep forest, thick forest HD wallpaper in 2023 | Green nature wallpaper, Nature desktop wallpaper, Dark green aesthetic](https://www.pinterest.de/pin/green-nature-green-forest-dark-forest-deep-forest-thick-forest-hd-wallpaper--1007539747861143396/)
-* [Thick forest 1080P, 2K, 4K, 5K HD wallpapers free download | Wallpaper Flare](https://www.wallpaperflare.com/search?wallpaper=thick+forest)
-* [1920x1080px | free download | HD wallpaper: green leafed trees, landscape photography of forest, path, fall | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-trees-landscape-photography-of-forest-path-fall-wallpaper-hzh/download/1920x1080)
-* [HD wallpaper: forest, dark forest, deep forest, thick forest, tree, land | Wallpaper Flare](https://www.wallpaperflare.com/forest-dark-forest-deep-forest-thick-forest-tree-land-wallpaper-mrzvx)
-* [1920x1080px | free download | HD wallpaper: united kingdom, coleford, puzzle wood, forest floor, moss, leaves | Wallpaper Flare](https://www.wallpaperflare.com/united-kingdom-coleford-puzzle-wood-forest-floor-moss-leaves-wallpaper-egufg/download/1920x1080)
-* [HD wallpaper: green leafed trees, dirt road in between trees during daytime | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-trees-dirt-road-in-between-trees-during-daytime-wallpaper-msb)
-* [HD wallpaper: Thick forest-High Quality HD Wallpaper, tree, plant, land, beauty in nature | Wallpaper Flare](https://www.wallpaperflare.com/thick-forest-high-quality-hd-wallpaper-tree-plant-land-beauty-in-nature-wallpaper-pzmsb)
-* [1920x1080px | free download | HD wallpaper: green leafed plant, green leaf tree, ovate, shrubs, foliage, leaves | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-plant-green-leaf-tree-ovate-shrubs-foliage-leaves-wallpaper-wjqzz/download/1920x1080)
-* [HD wallpaper: green leafed trees, nature, landscape, morning, forest, path | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-trees-nature-landscape-morning-forest-path-wallpaper-hpzye)
-* [HD wallpaper: green leafed trees, forest, road, grass, mist, path, rain, sunlight | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-trees-forest-road-grass-mist-path-rain-sunlight-wallpaper-pznum)
-* [HD wallpaper: green leafed trees, green rain forest, nature, landscape, mist | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-trees-green-rain-forest-nature-landscape-mist-wallpaper-pkn)
-* [1920x1080px | free download | HD wallpaper: green leafed tree, nature, landscape, trees, hills, leaves, mist | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-tree-nature-landscape-trees-hills-leaves-mist-wallpaper-qwdf/download/1920x1080)
-* [1920x1080px | free download | HD wallpaper: green leafed tree wallpaper, nature, landscape, moss, forest | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-tree-wallpaper-nature-landscape-moss-forest-wallpaper-bvo/download/1920x1080)
-* [beautiful forest](https://imgur.com/a/kNRbuGm)
-* [Oman395/kde-sunset-wallpaper](https://github.com/Oman395/kde-sunset-wallpaper)
-* [leafy wallpaper](https://www.wallpaperflare.com/green-leafed-plant-nature-closeup-plants-leaves-dark-depth-of-field-wallpaper-agk)
-* [Free download best desktop wallpapers of all time best desktop wallpaper size best [1600x1066] for your Desktop, Mobile & Tablet | Explore 46+ Greatest Wallpapers of All Time | Best Wallpapers Of All Time, Best Desktop Wallpapers of All Time, Greatest Wallpaper](https://wallpapersafari.com/w/nGAUM9)
-* [Popular nature Wallpapers on WallpaperSafari](https://wallpapersafari.com/collection/nature/)
-* [Free download nature 4K Ultra HD HD Background 3 HD Wallpapers Ultra HD [3840x2160] for your Desktop, Mobile & Tablet | Explore 40+ 4K Ultra HD Nature Wallpaper | 4K Ultra Wallpaper, 8K Ultra HD Nature Wallpaper, 4K Ultra HD Wallpaper](https://wallpapersafari.com/w/MlVPOF)
-* [Reddit - [OC] text2wallpaper - CLI script to generate images using AI and set it as wallpaper.](https://www.reddit.com/r/unixporn/comments/124v406/oc_text2wallpaper_cli_script_to_generate_images/)
-* [commons.m.wikimedia.org/wiki/File:Kraichgau-Landschaft_im_Mai_-_170521_(34826402275).jpg](https://commons.m.wikimedia.org/wiki/File:Kraichgau-Landschaft_im_Mai_-_170521_(34826402275).jpg)
-* [213480149-6ba92b81-1ada-46a4-89bd-4e2bb25d19c3.png (PNG Image, 2600 × 1480 pixels) — Scaled (57%)](https://user-images.githubusercontent.com/56817415/213480149-6ba92b81-1ada-46a4-89bd-4e2bb25d19c3.png)
-* [[49+] Beautiful Landscape Wallpapers for Desktop - WallpaperSafari](https://wallpapersafari.com/beautiful-landscape-wallpapers-for-desktop/)
-* [[45+] Free Landscape Wallpaper - WallpaperSafari](https://wallpapersafari.com/free-landscape-wallpaper/)
-* [Derek Taylor / Wallpapers · GitLab](https://gitlab.com/dwt1/wallpapers)
-* [good for picker - Free download Nature HD Background [2560x1600] for your Desktop, Mobile & Tablet | Explore 47+ HD Nature Wallpapers for Desktop | Nature Wallpaper Hd, Wallpaper Hd For Nature, Hd Wallpaper Nature](https://wallpapersafari.com/w/y9XN2W)
-* [bzz4hxovkxg11.png (WEBP Image, 1919 × 1079 pixels) — Scaled (22%) - isaac.r.riley@gmail.com - Gmail](https://mail.google.com/mail/u/0/#inbox/QgrcJHrnzvwsgqpZBznSmgcqVJlRCTjVDlB)
-* [bzz4hxovkxg11.png (WEBP Image, 1919 × 1079 pixels) — Scaled (70%)](https://preview.redd.it/bzz4hxovkxg11.png?auto=webp&s=2a25a01a48d141f130692a3a873f11fd00016fb2)
-* [drive.google.com/drive/folders/19O9qHXYdETtf-l67Gnrl_FZVswLn23ER?usp=sharing](https://drive.google.com/drive/folders/19O9qHXYdETtf-l67Gnrl_FZVswLn23ER?usp=sharing)
-* [nice wallpaper](https://wallhaven.cc/w/vqm813)
+* ( ) [Horus645/swww](https://github.com/Horus645/swww)
+* ( ) [leaves](https://github.com/Aylur/dotfiles/blob/main/wallpapers/leaves.jpg)
+* ( ) [splash-cli](https://github.com/splash-cli/splash-cli)) - Beautiful wallpapers from Unsplash.
+* ( ) [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli)) - Get or set the desktop wallpaper.
+* ( ) [JackPaper](https://github.com/jackel27/jackpaper)) - Set images from Unsplash as wallpaper.
+* ( ) [QuickWall](https://github.com/deepjyoti30/QuickWall)) - Directly set wallpapers from Unsplash.
+* ( ) [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper manager with multi monitor support.
+* ( ) [Variety](https://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use.
+* ( ) [Tohrusky/Final2x: 2^x Image Super-Resolution](https://github.com/Tohrusky/Final2x)
+* ( ) [r/wallpaper/comments/12yenwu/night_landscape_3840x2160/](https://www.reddit.com/r/wallpaper/comments/12yenwu/night_landscape_3840x2160/)
+* ( ) [leaf_veins-wallpaper-1440x900 | Green nature wallpaper, Dark green wallpaper, Green nature](https://www.pinterest.de/pin/305611524685708869/)
+* ( ) [Nahaufnahme Naturansicht Der Grünen Blatt Textur Dunkle Tapete Konzept Stockfoto und mehr Bilder von Abstrakt - iStock](https://www.istockphoto.com/de/foto/nahaufnahme-naturansicht-der-gr%C3%BCnen-blatt-textur-dunkle-tapete-konzept-gm1220144391-357159752)
+* ( ) [DARK GREEN - Oceans & Nature Background Wallpapers on Desktop Nexus (Image 389775)](https://nature.desktopnexus.com/wallpaper/389775/)
+* ( ) [wallpaper for desktop, laptop | nj32-landscape-green-nature-country-dark](https://papers.co/desktop/nj32-landscape-green-nature-country-dark/)
+* ( ) [forest, Trees, Green, Moss, Old Wallpapers HD / Desktop and Mobile Backgrounds](https://wallup.net/forest-trees-green-moss-old/)
+* ( ) [HD wallpaper: forest, nature, path, woodland, green, ecosystem, tree, road | Wallpaper Flare](https://www.wallpaperflare.com/forest-nature-path-woodland-green-ecosystem-tree-road-wallpaper-trhlc)
+* ( ) [[74+] Windows Landscape Wallpaper - WallpaperSafari](https://wallpapersafari.com/windows-landscape-wallpaper/)
+* ( ) [[50+] Bing Wallpaper Collection Landscape Pack - WallpaperSafari](https://wallpapersafari.com/bing-wallpaper-collection-landscape-pack/)
+* ( ) [[41+] Landscape Images for PC Wallpaper - WallpaperSafari](https://wallpapersafari.com/landscape-images-for-pc-wallpaper/)
+* ( ) [Free download Summer Landscape Nature 13 Wallpaper 1920x1080 Summer Landscape [1920x1080] for your Desktop, Mobile & Tablet | Explore 37+ Summer Landscape Wallpaper |wallpaper dl](https://wallpapersafari.com/w/ptOmj8)
+* ( ) [wallpaper dl](https://wallpapersafari.com/w/GE2osA)
+* ( ) [wallpaper dl](https://wallpapersafari.com/w/twTgG8)
+* ( ) [wallpaper dl](https://wallpapersafari.com/w/uMxnKT)
+* ( ) [wallpaper dl](https://wallpapersafari.com/w/8U7zWk)
+* ( ) [wallpaper dl](https://wallpapersafari.com/w/wegCSh)
+* ( ) [wallpaper dl](https://wallpapersafari.com/w/sM6wiy)
+* ( ) [wallpaper img](https://wallpapersafari.com/w/h7orMx)
+* ( ) [Free download beautiful landscape nature hd wallpapers best background nature [1920x1080] for your Desktop, Mobile & Tablet | Explore 43+ Beautiful Landscape Backgrounds Landscape Wallpapers | Landscape Background Images, Landscape Background, Beautiful Landscape Backgrounds](https://wallpapersafari.com/w/JKwvL6)
+* ( ) [Foto zum Thema Nahaufnahmefotografie der grünen Sukkulente – Kostenloses Bild zu Schwarz auf Unsplash](https://unsplash.com/de/fotos/CIyDU5WLxxw)
+* ( ) [Black and Green Wallpapers - Top Free Black and Green Backgrounds - WallpaperAccess](https://wallpaperaccess.com/black-and-green)
+* ( ) [blackish-green wallpaper - Google Search](https://www.google.com/imgres?imgurl=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F368%2F606%2FHD-wallpaper-texture-leaves-green-dark-background-flowers-black-abstract.jpg&imgrefurl=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-fpsgp&tbnid=7jKV4u1O2nhN5M&vet=10CBAQxiAoCWoXChMIwNvC98CL_QIVAAAAAB0AAAAAEBE..i&docid=-GyEeayEbGS99M&w=800&h=566&itg=1&q=blackish-green%20wallpaper&client=firefox-b-d&ved=0CBAQxiAoCWoXChMIwNvC98CL_QIVAAAAAB0AAAAAEBE)
+* ( ) [Dark Green Forest Wallpaper Images - Free Download on Freepik](https://www.freepik.com/free-photos-vectors/dark-green-forest-wallpaper)
+* ( ) [dark green forest wallpaper - Google Search](https://www.google.com/search?client=firefox-b-d&q=dark+green+forest+wallpaper#imgrc=sSPmfN5UCCiAIM)
+* ( ) [green nature, green forest, dark forest, deep forest, thick forest HD wallpaper in 2023 | Green nature wallpaper, Nature desktop wallpaper, Dark green aesthetic](https://www.pinterest.de/pin/green-nature-green-forest-dark-forest-deep-forest-thick-forest-hd-wallpaper--1007539747861143396/)
+* ( ) [Thick forest 1080P, 2K, 4K, 5K HD wallpapers free download | Wallpaper Flare](https://www.wallpaperflare.com/search?wallpaper=thick+forest)
+* ( ) [1920x1080px | free download | HD wallpaper: green leafed trees, landscape photography of forest, path, fall | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-trees-landscape-photography-of-forest-path-fall-wallpaper-hzh/download/1920x1080)
+* ( ) [HD wallpaper: forest, dark forest, deep forest, thick forest, tree, land | Wallpaper Flare](https://www.wallpaperflare.com/forest-dark-forest-deep-forest-thick-forest-tree-land-wallpaper-mrzvx)
+* ( ) [1920x1080px | free download | HD wallpaper: united kingdom, coleford, puzzle wood, forest floor, moss, leaves | Wallpaper Flare](https://www.wallpaperflare.com/united-kingdom-coleford-puzzle-wood-forest-floor-moss-leaves-wallpaper-egufg/download/1920x1080)
+* ( ) [HD wallpaper: green leafed trees, dirt road in between trees during daytime | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-trees-dirt-road-in-between-trees-during-daytime-wallpaper-msb)
+* ( ) [HD wallpaper: Thick forest-High Quality HD Wallpaper, tree, plant, land, beauty in nature | Wallpaper Flare](https://www.wallpaperflare.com/thick-forest-high-quality-hd-wallpaper-tree-plant-land-beauty-in-nature-wallpaper-pzmsb)
+* ( ) [1920x1080px | free download | HD wallpaper: green leafed plant, green leaf tree, ovate, shrubs, foliage, leaves | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-plant-green-leaf-tree-ovate-shrubs-foliage-leaves-wallpaper-wjqzz/download/1920x1080)
+* ( ) [HD wallpaper: green leafed trees, nature, landscape, morning, forest, path | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-trees-nature-landscape-morning-forest-path-wallpaper-hpzye)
+* ( ) [HD wallpaper: green leafed trees, forest, road, grass, mist, path, rain, sunlight | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-trees-forest-road-grass-mist-path-rain-sunlight-wallpaper-pznum)
+* ( ) [HD wallpaper: green leafed trees, green rain forest, nature, landscape, mist | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-trees-green-rain-forest-nature-landscape-mist-wallpaper-pkn)
+* ( ) [1920x1080px | free download | HD wallpaper: green leafed tree, nature, landscape, trees, hills, leaves, mist | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-tree-nature-landscape-trees-hills-leaves-mist-wallpaper-qwdf/download/1920x1080)
+* ( ) [1920x1080px | free download | HD wallpaper: green leafed tree wallpaper, nature, landscape, moss, forest | Wallpaper Flare](https://www.wallpaperflare.com/green-leafed-tree-wallpaper-nature-landscape-moss-forest-wallpaper-bvo/download/1920x1080)
+* ( ) [beautiful forest](https://imgur.com/a/kNRbuGm)
+* ( ) [Oman395/kde-sunset-wallpaper](https://github.com/Oman395/kde-sunset-wallpaper)
+* ( ) [leafy wallpaper](https://www.wallpaperflare.com/green-leafed-plant-nature-closeup-plants-leaves-dark-depth-of-field-wallpaper-agk)
+* ( ) [Free download best desktop wallpapers of all time best desktop wallpaper size best [1600x1066] for your Desktop, Mobile & Tablet | Explore 46+ Greatest Wallpapers of All Time | Best Wallpapers Of All Time, Best Desktop Wallpapers of All Time, Greatest Wallpaper](https://wallpapersafari.com/w/nGAUM9)
+* ( ) [Popular nature Wallpapers on WallpaperSafari](https://wallpapersafari.com/collection/nature/)
+* ( ) [Free download nature 4K Ultra HD HD Background 3 HD Wallpapers Ultra HD [3840x2160] for your Desktop, Mobile & Tablet | Explore 40+ 4K Ultra HD Nature Wallpaper | 4K Ultra Wallpaper, 8K Ultra HD Nature Wallpaper, 4K Ultra HD Wallpaper](https://wallpapersafari.com/w/MlVPOF)
+* ( ) [Reddit - [OC] text2wallpaper - CLI script to generate images using AI and set it as wallpaper.](https://www.reddit.com/r/unixporn/comments/124v406/oc_text2wallpaper_cli_script_to_generate_images/)
+* ( ) [commons.m.wikimedia.org/wiki/File:Kraichgau-Landschaft_im_Mai_-_170521_(34826402275).jpg](https://commons.m.wikimedia.org/wiki/File:Kraichgau-Landschaft_im_Mai_-_170521_(34826402275).jpg)
+* ( ) [213480149-6ba92b81-1ada-46a4-89bd-4e2bb25d19c3.png (PNG Image, 2600 × 1480 pixels) — Scaled (57%)](https://user-images.githubusercontent.com/56817415/213480149-6ba92b81-1ada-46a4-89bd-4e2bb25d19c3.png)
+* ( ) [[49+] Beautiful Landscape Wallpapers for Desktop - WallpaperSafari](https://wallpapersafari.com/beautiful-landscape-wallpapers-for-desktop/)
+* ( ) [[45+] Free Landscape Wallpaper - WallpaperSafari](https://wallpapersafari.com/free-landscape-wallpaper/)
+* ( ) [Derek Taylor / Wallpapers · GitLab](https://gitlab.com/dwt1/wallpapers)
+* ( ) [good for picker - Free download Nature HD Background [2560x1600] for your Desktop, Mobile & Tablet | Explore 47+ HD Nature Wallpapers for Desktop | Nature Wallpaper Hd, Wallpaper Hd For Nature, Hd Wallpaper Nature](https://wallpapersafari.com/w/y9XN2W)
+* ( ) [bzz4hxovkxg11.png (WEBP Image, 1919 × 1079 pixels) — Scaled (22%) - isaac.r.riley@gmail.com - Gmail](https://mail.google.com/mail/u/0/#inbox/QgrcJHrnzvwsgqpZBznSmgcqVJlRCTjVDlB)
+* ( ) [bzz4hxovkxg11.png (WEBP Image, 1919 × 1079 pixels) — Scaled (70%)](https://preview.redd.it/bzz4hxovkxg11.png?auto=webp&s=2a25a01a48d141f130692a3a873f11fd00016fb2)
+* ( ) [drive.google.com/drive/folders/19O9qHXYdETtf-l67Gnrl_FZVswLn23ER?usp=sharing](https://drive.google.com/drive/folders/19O9qHXYdETtf-l67Gnrl_FZVswLn23ER?usp=sharing)
+* ( ) [nice wallpaper](https://wallhaven.cc/w/vqm813)
 * raining wallpaper [(4)
-* [i3-gaps | no bar, play RPCS3 : unixporn](https://www.reddit.com/r/unixporn/comments/110udd9/i3gaps_no_bar_play_rpcs3/)
-* [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp)
-* [drive.google.com/drive/folders/1741M3BYbUsU2CtCNO8Nqnt1fYjeaCV6m](https://drive.google.com/drive/folders/1741M3BYbUsU2CtCNO8Nqnt1fYjeaCV6m) Wallpapers
-* [ChrisTitusTech/nord-background*](https://github.com/ChrisTitusTech/nord-background*)
+* ( ) [i3-gaps | no bar, play RPCS3 : unixporn](https://www.reddit.com/r/unixporn/comments/110udd9/i3gaps_no_bar_play_rpcs3/)
+* ( ) [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp)
+* ( ) [drive.google.com/drive/folders/1741M3BYbUsU2CtCNO8Nqnt1fYjeaCV6m](https://drive.google.com/drive/folders/1741M3BYbUsU2CtCNO8Nqnt1fYjeaCV6m) Wallpapers
+* ( ) [ChrisTitusTech/nord-background*](https://github.com/ChrisTitusTech/nord-background*)
 * Meta
-* [dotfiles prezi](https://docs.google.com/presentation/d/1HOLKb63i-aXNLug5hZsH9QIYxifn2ak-YQf2gRD7jII/edit#slide=id.p)   [Kansas Linux Fest 2019 - Neal Fultz - Dotfiles: A Survey](https://www.youtube.com/watch?v=cwy9hrVvdnY&pp=ygUTTmVhbCBGdWx0eiBkb3RmaWxlcw%3D%3D)
-* [dotfiles.github.io](https://dotfiles.github.io/) - Collected dotfile resources. Has sections with dotfile bootstraps and lists of frameworks for various shells and editors.
-* [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
-* [jondot/awesome-devenv: A curated list of awesome tools, resources and workflow tips making an awesome development environment.](https://github.com/jondot/awesome-devenv)
-* [sinister.ly/Thread-Tutorial-The-Lazy-Man-s-Guide-to-Ricing-Linux-WM-i3](https://sinister.ly/Thread-Tutorial-The-Lazy-Man-s-Guide-to-Ricing-Linux-WM-i3) *
+* ( ) [dotfiles prezi](https://docs.google.com/presentation/d/1HOLKb63i-aXNLug5hZsH9QIYxifn2ak-YQf2gRD7jII/edit#slide=id.p)   [Kansas Linux Fest 2019 - Neal Fultz - Dotfiles: A Survey](https://www.youtube.com/watch?v=cwy9hrVvdnY&pp=ygUTTmVhbCBGdWx0eiBkb3RmaWxlcw%3D%3D)
+* ( ) [dotfiles.github.io](https://dotfiles.github.io/) - Collected dotfile resources. Has sections with dotfile bootstraps and lists of frameworks for various shells and editors.
+* ( ) [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
+* ( ) [jondot/awesome-devenv: A curated list of awesome tools, resources and workflow tips making an awesome development environment.](https://github.com/jondot/awesome-devenv)
+* ( ) [sinister.ly/Thread-Tutorial-The-Lazy-Man-s-Guide-to-Ricing-Linux-WM-i3](https://sinister.ly/Thread-Tutorial-The-Lazy-Man-s-Guide-to-Ricing-Linux-WM-i3) *
 * → Collections
-* [r/UsabilityPorn/](https://www.reddit.com/r/UsabilityPorn/)
-* [r/unixporn/](https://www.reddit.com/r/unixporn/)
-* [Awesome dotfiles | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/webpro/awesome-dotfiles)
-* [Inspiration - dotfiles.github.io](https://dotfiles.github.io/inspiration/)
-* [webpro/awesome-dotfiles: A curated list of dotfiles resources.](https://github.com/webpro/awesome-dotfiles)
-* [dotfiles · GitHub Topics](https://github.com/topics/dotfiles)
-* [dotshare.it/](http://dotshare.it/)
-* [Reddit - Can anyone share his dotfile ? I’m bored from mine](https://www.reddit.com/r/neovim/comments/11zi6i3/can_anyone_share_his_dotfile_im_bored_from_mine/)*
+* ( ) [r/UsabilityPorn/](https://www.reddit.com/r/UsabilityPorn/)
+* ( ) [r/unixporn/](https://www.reddit.com/r/unixporn/)
+* ( ) [Awesome dotfiles | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/webpro/awesome-dotfiles)
+* ( ) [Inspiration - dotfiles.github.io](https://dotfiles.github.io/inspiration/)
+* ( ) [webpro/awesome-dotfiles: A curated list of dotfiles resources.](https://github.com/webpro/awesome-dotfiles)
+* ( ) [dotfiles · GitHub Topics](https://github.com/topics/dotfiles)
+* ( ) [dotshare.it/](http://dotshare.it/)
+* ( ) [Reddit - Can anyone share his dotfile ? I’m bored from mine](https://www.reddit.com/r/neovim/comments/11zi6i3/can_anyone_share_his_dotfile_im_bored_from_mine/)*
 * Video / Blog Presenting Dotfiles
-* [Productive Workstation with Linux](https://www.youtube.com/playlist?list=PL2B6OzTsMUrz3RBEhYGb-0wtH9SqFpcDj) 
-* [Setup Video](https://www.youtube.com/watch?v=stCXFxC4OH0)
-* [Setting up Arch Linux chris@machine chris@machine • •](https://www.youtube.com/watch?v=4Uc3-PIq-80&list=PLhoH5vyxr6QpGSDfaYLxOgjCzCej6q0kP)
+* ( ) [Productive Workstation with Linux](https://www.youtube.com/playlist?list=PL2B6OzTsMUrz3RBEhYGb-0wtH9SqFpcDj) 
+* ( ) [Setup Video](https://www.youtube.com/watch?v=stCXFxC4OH0)
+* ( ) [Setting up Arch Linux chris@machine chris@machine • •](https://www.youtube.com/watch?v=4Uc3-PIq-80&list=PLhoH5vyxr6QpGSDfaYLxOgjCzCej6q0kP)
 * 1-shot reading
-* [Making Debian and SwayWM and GTK play nicely. Starting over. nwg-look rocks!](https://www.youtube.com/watch?v=IV74fRNfhdM)
-* [ ]  [xbitlabs.com/how-to-use-laptop-as-monitor/](https://www.xbitlabs.com/how-to-use-laptop-as-monitor/)
-* [video](https://www.youtube.com/results?search_query=linux+laptop+as+second+monitor)
-* [ ]  [hpsaturn.com/old-laptop-like-second-monitor/](https://hpsaturn.com/old-laptop-like-second-monitor/)
-* [ ]  [quora.com/How-can-I-use-an-old-laptop-as-a-second-monitor-Ubuntu](https://www.quora.com/How-can-I-use-an-old-laptop-as-a-second-monitor-Ubuntu)
-* [ ]  [superuser.com/questions/1545045/use-laptop-as-monitor-ubuntu-18-04](https://superuser.com/questions/1545045/use-laptop-as-monitor-ubuntu-18-04)
-* [ ]  [XDG user directories - ArchWiki](https://wiki.archlinux.org/title/XDG_user_directories)
-* [ ]  [I DID THIS - ADD TO NOTION partitioning - Ubuntu Server 20.04.1 LTS, not all disk space was allocated during installation? - Ask Ubuntu](https://askubuntu.com/questions/1269493/ubuntu-server-20-04-1-lts-not-all-disk-space-was-allocated-during-installation)
-* [x]  [Zsh/Bash startup files loading order (.bashrc, .zshrc etc.) | The Lumber Room](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)* [electronjs.org/docs/latest/tutorial/window-customization](https://electronjs.org/docs/latest/tutorial/window-customization)
-* [endlessm/gnome-software](https://github.com/endlessm/gnome-software) - Fork of GNOME Software with Endless customizations
-* [my feelings on Gnome](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fotedjf68hms91.png)
+* ( ) [Making Debian and SwayWM and GTK play nicely. Starting over. nwg-look rocks!](https://www.youtube.com/watch?v=IV74fRNfhdM)
+* ( ) [ ]  [xbitlabs.com/how-to-use-laptop-as-monitor/](https://www.xbitlabs.com/how-to-use-laptop-as-monitor/)
+* ( ) [video](https://www.youtube.com/results?search_query=linux+laptop+as+second+monitor)
+* ( ) [ ]  [hpsaturn.com/old-laptop-like-second-monitor/](https://hpsaturn.com/old-laptop-like-second-monitor/)
+* ( ) [ ]  [quora.com/How-can-I-use-an-old-laptop-as-a-second-monitor-Ubuntu](https://www.quora.com/How-can-I-use-an-old-laptop-as-a-second-monitor-Ubuntu)
+* ( ) [ ]  [superuser.com/questions/1545045/use-laptop-as-monitor-ubuntu-18-04](https://superuser.com/questions/1545045/use-laptop-as-monitor-ubuntu-18-04)
+* ( ) [ ]  [XDG user directories - ArchWiki](https://wiki.archlinux.org/title/XDG_user_directories)
+* ( ) [ ]  [I DID THIS - ADD TO NOTION partitioning - Ubuntu Server 20.04.1 LTS, not all disk space was allocated during installation? - Ask Ubuntu](https://askubuntu.com/questions/1269493/ubuntu-server-20-04-1-lts-not-all-disk-space-was-allocated-during-installation)
+* ( ) [x]  [Zsh/Bash startup files loading order (.bashrc, .zshrc etc.) | The Lumber Room](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)* ( ) [electronjs.org/docs/latest/tutorial/window-customization](https://electronjs.org/docs/latest/tutorial/window-customization)
+* ( ) [endlessm/gnome-software](https://github.com/endlessm/gnome-software) - Fork of GNOME Software with Endless customizations
+* ( ) [my feelings on Gnome](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fotedjf68hms91.png)
 
 * Icons, Theming, Fonts
-* [ ]  Patch my own font (Conda logo, Nvidia logo) → [ryanoasis/nerd-fonts#font-patcher*](https://github.com/ryanoasis/nerd-fonts#font-patcher*)
+* ( ) [ ]  Patch my own font (Conda logo, Nvidia logo) → [ryanoasis/nerd-fonts#font-patcher*](https://github.com/ryanoasis/nerd-fonts#font-patcher*)
 
 ## Desktop Customization
 
 ## Desktop Icon Packs)
 
-* [Candy Icons](https://github.com/EliverLara/candy-icons) - An icon theme colored with sweet gradients.
-* [Flat Remix](https://github.com/daniruiz/Flat-Remix) - Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
-* [Fluent Icon Theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops.
-* [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments.
-* [Moka Icon Theme](https://snwh.org/moka) - Moka was created with simplicity in mind. With the use simple geometry & bright colours.
-* [Numix Icon Theme](https://github.com/numixproject/numix-icon-theme) - A flat icon theme that comes in two varieties, Numix Main, and Numix circle.
-* [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes, …) and other modifications. The theme is available for GTK and KDE.
-* [Qogir Icon Theme](https://github.com/vinceliuice/Qogir-icon-theme) - A flat colorful design icon theme for linux desktops.
-* [Reversal Icon Theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful design icon theme for linux desktops.
-* [Tela Icon Theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme.
-* [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - MacOS Big Sur style icon theme for linux desktops.
-* [Zafiro Icons](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white.
+* ( ) [Candy Icons](https://github.com/EliverLara/candy-icons) - An icon theme colored with sweet gradients.
+* ( ) [Flat Remix](https://github.com/daniruiz/Flat-Remix) - Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
+* ( ) [Fluent Icon Theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops.
+* ( ) [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments.
+* ( ) [Moka Icon Theme](https://snwh.org/moka) - Moka was created with simplicity in mind. With the use simple geometry & bright colours.
+* ( ) [Numix Icon Theme](https://github.com/numixproject/numix-icon-theme) - A flat icon theme that comes in two varieties, Numix Main, and Numix circle.
+* ( ) [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes, …) and other modifications. The theme is available for GTK and KDE.
+* ( ) [Qogir Icon Theme](https://github.com/vinceliuice/Qogir-icon-theme) - A flat colorful design icon theme for linux desktops.
+* ( ) [Reversal Icon Theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful design icon theme for linux desktops.
+* ( ) [Tela Icon Theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme.
+* ( ) [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - MacOS Big Sur style icon theme for linux desktops.
+* ( ) [Zafiro Icons](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white.
 
 * Desktop Themes
-* [Ant Theme](https://github.com/EliverLara/Ant) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.
-* [Arc Theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements.
-* [Catppuccin](https://github.com/catppuccin) - Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes.
-* [Dracula](https://draculatheme.com/gtk) - A dark theme using the awesome Dracula color pallete.
-* [Flat Remix](https://github.com/daniruiz/Flat-Remix-GTK) - Flat Remix is a GTK application theme inspired by material design.
-* [Graphite](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite GTK theme.
-* [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
-* [Kimi](https://github.com/EliverLara/Kimi) - Kimi is a light Gtk3.20+ theme.
-* [Layan](https://github.com/vinceliuice/Layan-gtk-theme) - Layan is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Budgie, etc.
-* [Material Ocean Theme](https://github.com/material-ocean/material-ocean) - A material design theme with oceanic colors(GTK, QT).
-* [Mojave GTK Theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave is a Mac OSX like theme for GTK 3, GTK 2 and GNOME-Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME, Pantheon, XFCE, Mate, etc.
-* [Nordic](https://github.com/EliverLara/Nordic) - Dark Gtk3.20+ theme created using the awesome Nord color pallete.
-* [Orchis theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a Material Design theme for GNOME/GTK based desktop environments.
-* [Qogir](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK.
-* [Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme.
-* [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for GNOME desktops.
+* ( ) [Ant Theme](https://github.com/EliverLara/Ant) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.
+* ( ) [Arc Theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements.
+* ( ) [Catppuccin](https://github.com/catppuccin) - Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes.
+* ( ) [Dracula](https://draculatheme.com/gtk) - A dark theme using the awesome Dracula color pallete.
+* ( ) [Flat Remix](https://github.com/daniruiz/Flat-Remix-GTK) - Flat Remix is a GTK application theme inspired by material design.
+* ( ) [Graphite](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite GTK theme.
+* ( ) [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
+* ( ) [Kimi](https://github.com/EliverLara/Kimi) - Kimi is a light Gtk3.20+ theme.
+* ( ) [Layan](https://github.com/vinceliuice/Layan-gtk-theme) - Layan is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Budgie, etc.
+* ( ) [Material Ocean Theme](https://github.com/material-ocean/material-ocean) - A material design theme with oceanic colors(GTK, QT).
+* ( ) [Mojave GTK Theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave is a Mac OSX like theme for GTK 3, GTK 2 and GNOME-Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME, Pantheon, XFCE, Mate, etc.
+* ( ) [Nordic](https://github.com/EliverLara/Nordic) - Dark Gtk3.20+ theme created using the awesome Nord color pallete.
+* ( ) [Orchis theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a Material Design theme for GNOME/GTK based desktop environments.
+* ( ) [Qogir](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK.
+* ( ) [Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme.
+* ( ) [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for GNOME desktops.
 
 ## Font management
 
-* [FIGlet](https://github.com/cmatsuoka/figlet) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available
-* [toilet](https://github.com/cacalabs/toilet) - A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.
+* ( ) [FIGlet](https://github.com/cmatsuoka/figlet) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available
+* ( ) [toilet](https://github.com/cacalabs/toilet) - A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.
 
 ## GTK Themes, Icons, etc
 
-* [erikdubois.be/listing/](https://www.erikdubois.be/listing/)
-* [erikdubois.be/downloads/](https://www.erikdubois.be/downloads/)
-* [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
-* [vinceliuice/Fluent-icon-theme*](https://github.com/vinceliuice/Fluent-icon-theme*)
+* ( ) [erikdubois.be/listing/](https://www.erikdubois.be/listing/)
+* ( ) [erikdubois.be/downloads/](https://www.erikdubois.be/downloads/)
+* ( ) [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
+* ( ) [vinceliuice/Fluent-icon-theme*](https://github.com/vinceliuice/Fluent-icon-theme*)
 * > fonts from Cneude
-* [gradience.readthedocs.io/en/latest/](https://gradience.readthedocs.io/en/latest/)
-* [FontForge](https://fontforge.github.io/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
-* [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - This script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them.
+* ( ) [gradience.readthedocs.io/en/latest/](https://gradience.readthedocs.io/en/latest/)
+* ( ) [FontForge](https://fontforge.github.io/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
+* ( ) [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - This script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them.
 * *   [google-font-installer](https://github.com/lordgiotto/google-font-installer)) - Download and install Google Web Fonts on your local machine.
-* [Cursor themes - ArchWiki](https://wiki.archlinux.org/title/Cursor_themes)
-* [How to change mouse cursor theme? : i3wm](https://www.reddit.com/r/i3wm/comments/3su58i/how_to_change_mouse_cursor_theme/)
-* [tsujan/Kvantum](https://github.com/tsujan/Kvantum)
-* [How to Install Nerd Fonts on Linux - ByteXD](https://bytexd.com/how-to-install-nerd-fonts-on-linux/)
-* [Flatpak App Changing Cursor Theme And Size (Is This Normal Behavior?) : flatpak](https://www.reddit.com/r/flatpak/comments/rxnyh7/flatpak_app_changing_cursor_theme_and_size_is/)
-* [r/neovim/comments/13vudj5/what_is_this_font_used_from_the_everforest_repo](https://www.reddit.com/r/neovim/comments/13vudj5/what_is_this_font_used_from_the_everforest_repo)
+* ( ) [Cursor themes - ArchWiki](https://wiki.archlinux.org/title/Cursor_themes)
+* ( ) [How to change mouse cursor theme? : i3wm](https://www.reddit.com/r/i3wm/comments/3su58i/how_to_change_mouse_cursor_theme/)
+* ( ) [tsujan/Kvantum](https://github.com/tsujan/Kvantum)
+* ( ) [How to Install Nerd Fonts on Linux - ByteXD](https://bytexd.com/how-to-install-nerd-fonts-on-linux/)
+* ( ) [Flatpak App Changing Cursor Theme And Size (Is This Normal Behavior?) : flatpak](https://www.reddit.com/r/flatpak/comments/rxnyh7/flatpak_app_changing_cursor_theme_and_size_is/)
+* ( ) [r/neovim/comments/13vudj5/what_is_this_font_used_from_the_everforest_repo](https://www.reddit.com/r/neovim/comments/13vudj5/what_is_this_font_used_from_the_everforest_repo)
 * Terminess Nerd Font
 * Iosevka, Source Sans Pro
 
 *  [loichyan/nerdfix](https://github.com/loichyan/nerdfix)
 * -> [awesome-ricing](https://github.com/fosslife/awesome-ricing)
-* [...](https://github.com/nickgerace/gfold)
-* [...](https://github.com/alex35mil/NeoHub)
-* [...](https://github.com/FlafyDev/combined-manager) 
-* [...](https://github.com/lucc/nvimpager)
-* [...](https://github.com/ron-rs/ron)
-* [...](https://git-scm.com/docs/gitk)
-* [...](https://ghaiklor.github.io/terminal-canvas/)
-* [...](https://devicon.dev/ )
-* [...](https://github.com/cue-lang)
-* [...](https://git.sr.ht/~cdv/scfg-rs )
-* [...](https://github.com/projectfluent/fluent)
-* [...](https://github.com/ttytm/wthrr-the-weathercrab)
-* [...](https://github.com/ulyssa/iamb )
-* [...](https://gitlab.com/mildlyparallel/pscircle)
-* [...](https://github.com/paul-nameless/tg)
-* [...](https://github.com/aandrew-me/tgpt)
-* [...](https://github.com/lukesmithxyz/mutt-wizard)
-* [...](https://github.com/OpenRC/openrc)
-* [...](https://github.com/FlafyDev/flutter_background_bar)
-* [...](https://github.com/FlafyDev/epub_reader)
-* [Conky](https://conky.cc/) - Conky is a free, light-weight system monitor for X, that displays any kind of information on your desktop.
-* [...](https://acidwords.com/posts/2016-07-26-hacking-mupdf-custom-background-colors.html)
-* [...](https://github.com/Lxtharia/minegrub-theme)
-* [...](https://github.com/bevry/dorothy)
-* [...](https://nwg-piotr.github.io/nwg-shell/) 
-* [...](https://fsd.it/shop/fonts/pragmatapro/)
-* [...](https://github.com/lucc/nvimpager)
-* [...](https://github.com/Lxtharia/minegrub-theme)
-* [read](https://www.reddit.com/r/unixporn/comments/5o1mic/what_display_manager_do_you_guys_use/)
-* [Git Bare Repository - A Better Way To Manage Dotfiles - YouTube](https://www.youtube.com/watch?v=tBoLDpTWVOM)
-* [FlafyDev/flutter_workspaces_2](https://github.com/FlafyDev/flutter_workspaces_2) -
+* ( ) [...](https://github.com/nickgerace/gfold)
+* ( ) [...](https://github.com/alex35mil/NeoHub)
+* ( ) [...](https://github.com/FlafyDev/combined-manager) 
+* ( ) [...](https://github.com/lucc/nvimpager)
+* ( ) [...](https://github.com/ron-rs/ron)
+* ( ) [...](https://git-scm.com/docs/gitk)
+* ( ) [...](https://ghaiklor.github.io/terminal-canvas/)
+* ( ) [...](https://devicon.dev/ )
+* ( ) [...](https://github.com/cue-lang)
+* ( ) [...](https://git.sr.ht/~cdv/scfg-rs )
+* ( ) [...](https://github.com/projectfluent/fluent)
+* ( ) [...](https://github.com/ttytm/wthrr-the-weathercrab)
+* ( ) [...](https://github.com/ulyssa/iamb )
+* ( ) [...](https://gitlab.com/mildlyparallel/pscircle)
+* ( ) [...](https://github.com/paul-nameless/tg)
+* ( ) [...](https://github.com/aandrew-me/tgpt)
+* ( ) [...](https://github.com/lukesmithxyz/mutt-wizard)
+* ( ) [...](https://github.com/OpenRC/openrc)
+* ( ) [...](https://github.com/FlafyDev/flutter_background_bar)
+* ( ) [...](https://github.com/FlafyDev/epub_reader)
+* ( ) [Conky](https://conky.cc/) - Conky is a free, light-weight system monitor for X, that displays any kind of information on your desktop.
+* ( ) [...](https://acidwords.com/posts/2016-07-26-hacking-mupdf-custom-background-colors.html)
+* ( ) [...](https://github.com/Lxtharia/minegrub-theme)
+* ( ) [...](https://github.com/bevry/dorothy)
+* ( ) [...](https://nwg-piotr.github.io/nwg-shell/) 
+* ( ) [...](https://fsd.it/shop/fonts/pragmatapro/)
+* ( ) [...](https://github.com/lucc/nvimpager)
+* ( ) [...](https://github.com/Lxtharia/minegrub-theme)
+* ( ) [read](https://www.reddit.com/r/unixporn/comments/5o1mic/what_display_manager_do_you_guys_use/)
+* ( ) [Git Bare Repository - A Better Way To Manage Dotfiles - YouTube](https://www.youtube.com/watch?v=tBoLDpTWVOM)
+* ( ) [FlafyDev/flutter_workspaces_2](https://github.com/FlafyDev/flutter_workspaces_2) -
 * {rice} [...](https://github.com/adi1090x/widgets) [...](https://github.com/outfoxxed/hy3) [...](https://github.com/mahkoh/jay) [...](https://github.com/MrVivekRajan/Grub-Themes)
 * {rice} [...](https://github.com/dawsers/hyprscroller) [...](https://github.com/hyprland-community/awesome-hyprland) [...](https://nwg-piotr.github.io/nwg-shell/)
 * {rice} [...](https://github.com/mathix420/dotfiles/blob/master/beeper.css)
@@ -1504,8 +1504,8 @@ print(transformed.shape)
 * {rice} [aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh → prompts
 * {rice} [Base16 Designer](http://brianreilly.me/Base16Designer/)
 * {rice} [catppuccin](https://github.com/catppuccin/catppuccin) → see list of software
-* [...](https://github.com/Haruno19/fuzzy-c-means-processing)
-* [...](https://github.com/Haruno19/c-halloc)
+* ( ) [...](https://github.com/Haruno19/fuzzy-c-means-processing)
+* ( ) [...](https://github.com/Haruno19/c-halloc)
 * {rice} [commit mono](https://commitmono.com/) neutral font
 * {rice} [gautam_linux/colours.sh at master · gkotian/gautam_linux](https://github.com/gkotian/gautam_linux/blob/master/scripts/colours.sh)
 * {rice} [Misterio77/flavours: 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.](https://github.com/Misterio77/flavours)

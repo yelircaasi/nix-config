@@ -2,18 +2,33 @@
 
 ## ags
 
-[ags]( [search?q=ags+language%3ANix+&type=repositories)](https://github.com/search?q=ags+language%3ANix+&type=repositories))
+[ags](https://github.com/search?q=ags+language%3ANix+&type=repositories)
 
 ## eww
 
 * [eww](https://www.reddit.com/r/unixporn/comments/19cv7wu/oc_custom_nodejs_website_that_displays_the/?share_id=wPog8ryMtWtsYjVXWwDTS) (see Drive, Betsy)
 * [DT EWW](https://gitlab.com/dwt1/dotfiles/-/tree/e0277a1031f1493deca9ac8acfebe187d6dc1bf3/.config/eww/bar)
 
+## Hyprland
+
+* [jjba-projects](https://gitlab.com/jjba-projects/dotfiles/-/blob/master/nix/nixos/users/joe/hyprland.nix?ref_type=heads) - nix
+
+## GTK
+
+* [gtk-theme-collections](https://github.com/addy-dclxvi/gtk-theme-collections)
+
 ## Thunar
 
+* [s0la](https://github.com/s0la/orw/blob/e98fad490a6ac182a90b3e01bd4802fa22211c70/dotfiles/.config/gtk-3.0/gtk.css.bak#L28)
 * [nix-config/modules/nixos/programs/gui/thunar/default.nix at 2e257e236cc7ccea32578f95423743558058891a · wochap/nix-config](https://github.com/wochap/nix-config/blob/2e257e236cc7ccea32578f95423743558058891a/modules/nixos/programs/gui/thunar/default.nix%23L37)
 * [JaKooLit/Hyprland-v2.1/tree/main/config%2FThunar](https://github.com/JaKooLit/Hyprland-v2.1/tree/main/config%2FThunar)
+* [urielzo](https://github.com/urielzo/archlabs-i3-gaps/blob/35a5dec665547912bd0a3d557adde3a45fa3a149/.config/gtk-3.0/gtk.css.back-blur#L5)
+* ( ) [...](https://docs.xfce.org/xfce/thunar/hidden-settings%23customising_thunar_with_css)
+* ( ) [...](https://docs.xfce.org/xfce/thunar/start)
 
+## Nemo
+
+* ( ) [...](https://search.nixos.org/packages?channel%3Dunstable%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dnemo)
 ## spacemanfm
 
 spacefm [nixpkgs/nixos/modules/programs/spacefm.nix at 23ae4dfc223d75ed1265f43775f9ba1e76feb517 · obsidiansystems/nixpkgs](https://github.com/obsidiansystems/nixpkgs/blob/23ae4dfc223d75ed1265f43775f9ba1e76feb517/nixos/modules/programs/spacefm.nix%23L21)
@@ -27,10 +42,6 @@ spacefm [spacefm/configure.ac at 191e585d624e32f078af6c1f731ea9624431a671 · aci
 spacefm [spacefm/etc/spacefm.conf at e6f291858067e73db44fb57c90e4efb97b088ac8 · IgnorantGuru/spacefm](https://github.com/IgnorantGuru/spacefm/blob/e6f291858067e73db44fb57c90e4efb97b088ac8/etc/spacefm.conf%23L4)
 spacefm [thingos/package/Config.in at a650815d39d2aafbb15a26b3fdf1ddebdf8cff67 · ccrisan/thingos](https://github.com/ccrisan/thingos/blob/a650815d39d2aafbb15a26b3fdf1ddebdf8cff67/package/Config.in%23L110)
 spacefm [wok/spacefm/receipt at 86cfc9d82cfe669cb23142955dd8e313459dbde6 · SliTaz-official/wok](https://github.com/SliTaz-official/wok/blob/86cfc9d82cfe669cb23142955dd8e313459dbde6/spacefm/receipt%23L57)
-
-## Hyprland
-
-* [jjba-projects](https://gitlab.com/jjba-projects/dotfiles/-/blob/master/nix/nixos/users/joe/hyprland.nix?ref_type=heads) - nix
 
 ## Greeter
 

@@ -19,7 +19,7 @@
 (N) - Ready to package for Nix
 (R) - Read!
 
--> * ( ) [Codelink](https://github.com/Wervice/Codelink)
+-> (N)[wervice](https://wervice.github.io/#projects)
 
 ## Best
 
@@ -51,8 +51,6 @@
 
 * ( ) [LibreOffice](https://www.libreoffice.org/)
 * ( ) [teapot](https://github.com/samuelludwig/teapot)
-* ( ) [sc-im]([sc-im](https://github.com/andmarti1424/sc-im) - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software."
-* ( ) [123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 Release 3 to Linux.
 * ( ) [teapot](https://github.com/samuelludwig/teapot) [NixOS/nixpkgs/issues/147213
         [syntax-k.de/projekte/teapot/](https://github.com/NixOS/nixpkgs/issues/147213) [...](https://www.syntax-k.de/projekte/teapot/) [...](https://github.com/NixOS/nixpkgs/issues/147213)
         [syntax-k.de/projekte/teapot/)](https://www.syntax-k.de/projekte/teapot/))

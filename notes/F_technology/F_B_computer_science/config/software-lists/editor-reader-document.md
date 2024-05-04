@@ -177,13 +177,13 @@ editor neovim-related* ( ) [behansa](https://github.com/las-nish/Behansa)
 
 ## Books and Reading
 
-* (2)  [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) -> [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build), * ( ) [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html)
+* (2) [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) -> [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build), * ( ) [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html) 
    | ( ) [sioyek](https://github.com/ahrm/sioyek) PDF viewer with a focus on textbooks and research papers
    | ( ) [apvlv](https://github.com/naihe2010/apvlv)
    | ( ) [llpp](https://repo.or.cz/w/llpp.git) (supports synctex)
    | ( ) [qpdfview](https://launchpad.net/qpdfview) (also supports synctex)
 * (5) [wike](https://github.com/hugolabe/Wike)
-* (2)  [koreader](https://koreader.rocks/)
+* (2) [koreader](https://koreader.rocks/) 
    | ( ) [bookworm](https://babluboy.github.io/bookworm/)
    | ( ) [calibre](https://calibre-ebook.com/) + [calibre-web](https://github.com/janeczku/calibre-web)
    | ( ) [evince](https://wiki.gnome.org/Apps/Evince)

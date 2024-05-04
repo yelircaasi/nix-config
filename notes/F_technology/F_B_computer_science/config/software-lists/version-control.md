@@ -89,9 +89,8 @@
 * ( ) [...](https://github.com/tkrajina/git-plus)
 * ( ) [...](https://github.com/fboender/multi-git-status)
 
-## Commit, Changelog, Versioning
+## Commit, Versioning
 
-* ( ) [git-cliff](https://github.com/orhun/git-cliff) [git-cliff site](https://git-cliff.org/) A highly customizable changelog generator
 * ( ) [commitlint.js.org](https://commitlint.js.org/#/reference-rules)
 * ( ) [commitlint.js.org/#/reference-rules](https://commitlint.js.org/#/reference-rules)
 * ( ) [freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/)*](https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/)*
@@ -102,7 +101,6 @@
 * ( ) [node-semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages. With emoji support. - supports per-project rules
 * ( ) [git-cz](https://github.com/streamich/git-cz) - Semantic Git commits.
 * ( ) [rcz](https://github.com/Cassin01/rcz) - A tool to write a commit message based on “Conventional Commits”.
-* ( ) [git-semver](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier
 
 ## TUI / FZF for Git
 
@@ -140,17 +138,17 @@
 * ( ) [dev-time-cli](https://github.com/samverschueren/dev-time-cli)- Get the current local time of a GitHub user.
 * ( ) [...](https://github.com/MitMaro/git-interactive-rebase-tool)
   * compare:  [npmjs.com/package/rebase-editor](https://www.npmjs.com/package/rebase-editor)
-* ( ) [git-standup](https://github.com/kamranahmedse/git-standup)- Recall what you did on the last working day. - looks good, great idea, just make compatible with semantic commits and write in a lighter language
+* (2) [git-standup](https://github.com/kamranahmedse/git-standup)- Recall what you did on the last working day. - looks good, great idea, just make compatible with semantic commits and write in a lighter language -> maybe (5)
 * ( ) [scm_breeze](https://github.com/ndbroadbent/scm_breeze) - Streamline your git workflow
 * ( ) [gee](https://github.com/human37/gee) - CLI repository manager and automation tool written in rust.
 * vc * ( ) [...](https://bugwarrior.readthedocs.io/en/latest/index.html)
-* {vc} [...](https://v5.chriskrycho.com/essays/jj-init/)
-* {vc} [...](https://www.reddit.com/r/neovim/s/ABJNQ1S1ux) lazygit vs neogit
-* {vc} [bugwarrior](https://github.com/ralphbean/bugwarrior) Compare sourcehut, codeberg, gitlab to github -> which have something analogous to an organization? (Important for mirroring my organizations -> otherwise separate account? Stay on Github? All in same account? Nah, there MUST be a way)Steve Oualline - Wicked Cool Perl Scripts : Useful Perl Scripts That Solve Difficult Problems
-* {vc} [GitHub - git/git: Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (](https://github.com/git/git)
-* {vc} [Gitless](https://gitless.com/)
+* ( ) [...](https://v5.chriskrycho.com/essays/jj-init/)
+* ( ) [...](https://www.reddit.com/r/neovim/s/ABJNQ1S1ux) lazygit vs neogit
+* ( ) [bugwarrior](https://github.com/ralphbean/bugwarrior) Compare sourcehut, codeberg, gitlab to github -> which have something analogous to an organization? (Important for mirroring my organizations -> otherwise separate account? Stay on Github? All in same account? Nah, there MUST be a way)Steve Oualline - Wicked Cool Perl Scripts : Useful Perl Scripts That Solve Difficult Problems
+* ( ) [GitHub - git/git: Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (](https://github.com/git/git)
+* ( ) [Gitless](https://gitless.com/)
 vc * Check out jj (name? new and improved git)
-* {vc tui} [Introduction · Tig - Text-mode interface for Git](https://jonas.github.io/tig/)
+* (2) [Introduction · Tig - Text-mode interface for Git](https://jonas.github.io/tig/)
 * ( ) [git log alias](https://www.reddit.com/r/git/s/bu6LppB573) git log alias
 * ( ) [qw3rtman/git-fire: :fire: Save Your Code in an Emergency](https://github.com/qw3rtman/git-fire)
 * ( ) [git-wtf](https://github.com/michaelklishin/git-wtf)
@@ -169,7 +167,7 @@ vc * Check out jj (name? new and improved git)
 
 ## Github
 
-* ( ) [prs](https://github.com/dhth/prs)
+* (2) [prs](https://github.com/dhth/prs) -> make for `glab` too -> (5)
 * (2) [gh](https://cli.github.com/)
 
 ## Gitlab

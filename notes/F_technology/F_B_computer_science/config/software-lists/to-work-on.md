@@ -7,7 +7,7 @@
 * (5) [rat](https://github.com/ericfreese/rat) Compose shell commands to build interactive terminal applications
 * (5) [tabview](https://github.com/TabViewer/tabview) - Python curses command line CSV and tabular data viewer.
 * (5) [undollar](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
-* (5) [ pacgraph](https://github.com/keenerd/pacgraph) - port for Nix
+* (5) [pacgraph](https://github.com/keenerd/pacgraph) - port for Nix 
 * (5) [dext](https://github.com/AfzGit/dext) - install as a simple script
 * (5) [gcp](https://github.com/aelafifi/gcp) - maybe update and extend
 * (5) [process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - update and modify, add to crontab using Nix

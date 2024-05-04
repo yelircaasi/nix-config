@@ -76,6 +76,7 @@
 
 #### Keyboard-Navigable Hackable GUI Browser
 
+* (5) [Tin Browser](https://github.com/Wervice/Codelink/blob/main/tin/tin.md)
 * (1) [nyxt](...)
 * (1) [qutebrowser](https://github.com/qutebrowser/qutebrowser)
 * (2) [luakit](...) + [duane-r/luakit-styles](https://github.com/duane-r/luakit-styles) * ( ) [luakit/commits/develop](https://github.com/luakit/luakit/commits/develop/)
@@ -317,9 +318,14 @@
 
 ### Browser-Related Tools
 
-* ( ) [jonschoning/espial: Espial is an open-source, web-based bookmarking server.](https://github.com/jonschoning/espial)
 * ( ) [Browserling – Online cross-browser testing](https://www.browserling.com/)
 * ( ) [quickstrom](https://github.com/quickstrom/quickstrom/tree/main)
+
+#### Bookmarks
+
+* ( ) [jonschoning/espial: Espial is an open-source, web-based bookmarking server.](https://github.com/jonschoning/espial)
+* ( ) [buku](https://github.com/jarun/buku) - A powerful bookmark manager written in Python3 and SQLite3.
+* (5) [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers. → make for qb?
 
 ## Browser Extensions
 
@@ -385,7 +391,7 @@
 * ( ) To Google Translate
 * ( ) ImTranslator: Translator, Dictionary, TTS
 
-### Bookmarks
+### Bookmarks Extensions
 
 * ( ) Default Bookmark Folder
 * ( ) [Bookmark Search - Chrome Web Store](https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk)
@@ -866,6 +872,9 @@
 
 ### Email
 
+* ( ) [isync](https://github.com/gburd/isync)
+* ( ) [msmtp](https://wiki.archlinux.org/title/Msmtp)
+* (R) [mutt setup](https://jonathanh.co.uk/blog/mutt-setup/)
 * ( ) [claws-mail](https://www.claws-mail.org/)
 * ( ) [pop](https://github.com/charmbracelet/pop)
 * → [20 most secure email providers to use in 2023 - PrivacySavvy](https://privacysavvy.com/email/best/secure-email-providers/#h-1-protonmail)
@@ -1008,12 +1017,11 @@ Fedilab
 * (4) [Conversations](https://conversations.im/) - XMPP/Jabber client for Android. ([GNU GPLv3](https://github.com/siacs/Conversations/blob/master/LICENSE))
 * (4) [finch](https://linux.die.net/man/1/finch)
 * (4) [Jami](https://jami.net/) - Chat. Talk. Share. Jami is a free and universal communication platform which preserves the users’ privacy and freedoms. Formerly Ring.
-* messaging * ( ) [Coccinella: Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/coccinella/about/)
-* {messaging} [jitsi meet](...)
-* {messaging} [kbin](https://kbin.social/)
-* {messaging} [matrix-org/matrix-hookshot: A bridge between Matrix and multiple project management services, such as GitHub, GitLab and JIRA.](https://github.com/matrix-org/matrix-hookshot)
-* {messaging} [openchatroulette](https://github.com/andchir/openchatroulette)
-* {messaging} [syphon-org/syphon](https://github.com/syphon-org/syphon) a privacy centric matrix client
-* {messaging} [Thunderbird](...)
-* {messaging} [toot](https://github.com/ihabunek/toot) - Mastodon CLI & TUI
-* {messaging email} [...](https://jonathanh.co.uk/blog/mutt-setup/)
+* ( ) [Coccinella: Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/coccinella/about/)
+* ( ) [jitsi meet](...)
+* ( ) [kbin](https://kbin.social/)
+* ( ) [matrix-org/matrix-hookshot: A bridge between Matrix and multiple project management services, such as GitHub, GitLab and JIRA.](https://github.com/matrix-org/matrix-hookshot)
+* ( ) [openchatroulette](https://github.com/andchir/openchatroulette)
+* ( ) [syphon-org/syphon](https://github.com/syphon-org/syphon) a privacy centric matrix client
+* ( ) [Thunderbird](...)
+* ( ) [toot](https://github.com/ihabunek/toot) - Mastodon CLI & TUI

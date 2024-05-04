@@ -1,5 +1,32 @@
 # WMs, Compositors, Bars, Menus, Launchers, Notifications, Widgets, Lockscreen, etc
 
+SORT
+
+* (1) [hyprland](https://github.com/hyprwm/Hyprland) - nvidia info [here](https://wiki.hyprland.org/Nvidia/)
+   | ( ) [sway](...) - nvidia info [here](https://github.com/swaywm/sway/wiki)
+   | ( ) [riverwm](...)
+* (2) [waybar](...)
+   | ( ) [eww](...)
+   | ( ) [polybar](...)
+* (2) [rofi-wayland](...)
+   | ( ) [wofi](...)
+* (2) [swww](...)
+* (2) [mako](...)
+   | ( ) [dunst](...)
+* (2) [libnotify](...)
+* (2) [networkmanagerapplet](...)
+* (2) [et](https://github.com/oxzi/et)
+* (2) [caffeine-ng](https://codeberg.org/WhyNotHugo/caffeine-ng)
+* (2.5)
+* (2.5) [greenclip](https://github.com/erebe/greenclip)
+   | (2.5) [Clipboard](https://github.com/Slackadays/Clipboard)
+   | (2.5) [CopyQ](https://github.com/hluk/CopyQ)
+   | (2.5) [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
+   | (2.5) [yank](https://github.com/mptre/yank)
+* (2.5)
+* ( ) [kanshi](https://sr.ht/~emersion/kanshi/) ([autorandr](...) for x)
+* (6) [?](...) ([xrandr](...) for x)
+
 ## Legend
 
 (0) - already installed and configured in nix-config
@@ -224,20 +251,20 @@
 ### X11 Only
 
 * -> [Configuring Xmonad and Polybar (It's Not THAT Difficult!) - YouTube](https://www.youtube.com/watch?v=cOehuALOQy4)
-* ( ) [dwm](https://github.com/PurpleAce88/dwm-bar-in-rust-)
+* (x11) [dwm](https://github.com/PurpleAce88/dwm-bar-in-rust-)
 * for i3
-  * ( ) [i3bar](https://www.reddit.com/r/i3wm/comments/adjhd0/can_i_hide_i3bar_at_all_times_except_when_i/ )
-  * ( ) [i3status-rust](https://github.com/greshake/i3status-rust)
-* ( ) [Lemonbar](https://github.com/LemonBoy/bar) - Super fast, lightweight, and mnml status bar for Linux.
-* ( ) [polybar](https://github.com/polybar/polybar) [polybar site](https://polybar.github.io/) - Fast and easy-to-use status bar.
-* ( ) [xmobar](https://codeberg.org/xmobar/xmobar) [xmobar](https://codeberg.org/xmobar/xmobar/src/branch/master/doc/quick-start.org) + [Pomobar](https://github.com/rlcintra/pomobar) -> [r/unixporn - [Xmonad / Taffybar] A minimalist & blue RICE!](https://www.reddit.com/r/unixporn/comments/stsstb/xmonad_taffybar_a_minimalist_blue_rice/), [beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html](https://beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html)
-* ( ) [taffybar](https://github.com/taffybar/taffybar) - [r/unixporn - [taffybar/XMonad] Gtk+3 Updates to Taffybar](https://www.reddit.com/r/unixporn/comments/78zwek/taffybarxmonad_gtk3_updates_to_taffybar/) - [taffybarXMonad](https://www.reddit.com/r/unixporn/comments/8l40iu/taffybarxmonad_a_little_bit_too_much_transparency/), [r/unixporn - [XMonad] Dynamic Workspace Naming with Taffybar](https://www.reddit.com/r/unixporn/comments/59y6uf/xmonad_dynamic_workspace_naming_with_taffybar/)
-  * ( ) [gtk-sni-tray](https://github.com/taffybar/gtk-sni-tray)
+  * (x11 ) [i3bar](https://www.reddit.com/r/i3wm/comments/adjhd0/can_i_hide_i3bar_at_all_times_except_when_i/ )
+  * (x11 ) [i3status-rust](https://github.com/greshake/i3status-rust)
+* (x11 ) [Lemonbar](https://github.com/LemonBoy/bar) - Super fast, lightweight, and mnml status bar for Linux.
+* (x11 ) [polybar](https://github.com/polybar/polybar) [polybar site](https://polybar.github.io/) - Fast and easy-to-use status bar.
+* (x11 ) [xmobar](https://codeberg.org/xmobar/xmobar) [xmobar](https://codeberg.org/xmobar/xmobar/src/branch/master/doc/quick-start.org) + [Pomobar](https://github.com/rlcintra/pomobar) -> [r/unixporn - [Xmonad / Taffybar] A minimalist & blue RICE!](https://www.reddit.com/r/unixporn/comments/stsstb/xmonad_taffybar_a_minimalist_blue_rice/), [beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html](https://beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html)
+* (x11 ) [taffybar](https://github.com/taffybar/taffybar) - [r/unixporn - [taffybar/XMonad] Gtk+3 Updates to Taffybar](https://www.reddit.com/r/unixporn/comments/78zwek/taffybarxmonad_gtk3_updates_to_taffybar/) - [taffybarXMonad](https://www.reddit.com/r/unixporn/comments/8l40iu/taffybarxmonad_a_little_bit_too_much_transparency/), [r/unixporn - [XMonad] Dynamic Workspace Naming with Taffybar](https://www.reddit.com/r/unixporn/comments/59y6uf/xmonad_dynamic_workspace_naming_with_taffybar/)
+  * (x11 ) [gtk-sni-tray](https://github.com/taffybar/gtk-sni-tray)
 * -> investigate polybar vs qtile bar
-* ( ) [dzen](https://robm.github.io/dzen/)
-* ( ) [cnx](https://github.com/mjkillough/cnx)
-* ( ) [trayer](https://github.com/sargon/trayer-srg)
-* ( ) [stalonetray](https://kolbusa.github.io/stalonetray/)
+* (x11 ) [dzen](https://robm.github.io/dzen/)
+* (x11 ) [cnx](https://github.com/mjkillough/cnx)
+* (x11 ) [trayer](https://github.com/sargon/trayer-srg)
+* (x11 ) [stalonetray](https://kolbusa.github.io/stalonetray/)
 
 ### Bar Inputs
 
@@ -434,8 +461,8 @@
 
 #### X11-Only
 
-* ( ) [xbanish](https://github.com/jcs/xbanish)
-* ( ) [unclutter-xfixes](https://github.com/Airblader/unclutter-xfixes)
+* (x11 ) [xbanish](https://github.com/jcs/xbanish)
+* (x11 ) [unclutter-xfixes](https://github.com/Airblader/unclutter-xfixes)
 
 ### Brightness
 
@@ -448,11 +475,12 @@
 
 ### Drag and Drop
 
-* ( ) [nik012003/ripdrag: Drag and Drop utilty written in Rust and GTK4](https://github.com/nik012003/ripdrag)
+* (2) [nik012003/ripdrag: Drag and Drop utilty written in Rust and GTK4](https://github.com/nik012003/ripdrag)
 
 ### Openers (like xdg-open)
 
-* ( ) [mimi](https://github.com/BachoSeven/mimi) $$$
+* (2) [handlr](https://github.com/chmln/handlr)
+* (5) [mimi](https://github.com/BachoSeven/mimi) $$$
 * (5) [open-in-editor](https://github.com/dandavison/open-in-editor)
 
 ### Theme Switcher
@@ -604,7 +632,7 @@
 * ( ) [unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts](https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts)
 * ( ) [I wonder what will happen to XMonad as the Wayland future actually seems to be a... | Hacker News](https://news.ycombinator.com/item?id=28794901)
 * ( ) [swhkd](https://github.com/waycrate/swhkd)
-* ( ) [ A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s)
+* ( ) [A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s) 
 * ( ) [xwinman.org/](http://www.xwinman.org/)
 * ( ) X Protocol Reference Manual for X11, Release 6 (Definitive Guide to X Window System, Vol. 0) (Definitive Guides to the X Window System)
 * ( ) [The anatomy of the modern window manager](http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57)

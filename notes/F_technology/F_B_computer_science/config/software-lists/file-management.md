@@ -49,22 +49,25 @@
 ## CLI File Manager
 
 * (2) [clifm](https://github.com/leo-arch/clifm)
-   | ( ) [walk](https://github.com/antonmedv/walk)
+* (2) [walk](https://github.com/antonmedv/walk)
 
 ## Oil and Vinegar
 
-* () ) [edir](https://github.com/bulletmark/edir)
-* ( ) [vidir](https://linux.die.net/man/1/vidir)
+* (2) [edir](https://github.com/bulletmark/edir)
+* (6) [vidir](https://linux.die.net/man/1/vidir)
+* (2.5) [mmv-c](https://github.com/mcauley-penney/mmv-c)
+* (2.5) [mmv](https://github.com/itchyny/mmv)
 
 ## Launche-Based
 
-* ( ) [marvinkreis/rofi-file-browser-extended: Use rofi to quickly open files](https://github.com/marvinkreis/rofi-file-browser-extended)
+* (2) [marvinkreis/rofi-file-browser-extended: Use rofi to quickly open files](https://github.com/marvinkreis/rofi-file-browser-extended) -> use with rofi-wayland -> re-write for other launcher?
 
 ## GUI File Managers
 
 * -> ( ) [Linux File Managers](https://www.tecmint.com/linux-file-managers/)
-* ( ) [pop-os/cosmic-files](https://github.com/pop-os/cosmic-files)
-* (6) [xplorer](https://github.com/kimlimjustin/xplorer)
+* (5) [pop-os/cosmic-files](https://github.com/pop-os/cosmic-files)
+* (5) [xplorer](https://github.com/kimlimjustin/xplorer)
+* (5) [filetree](https://github.com/Wervice/Codelink?tab=readme-ov-file#filetree)
 * (4) [mucommander](https://github.com/mucommander/mucommander)
 * (2) [thunar](https://docs.xfce.org/xfce/thunar/start)
 * (4) [doublecmd](https://github.com/doublecmd/doublecmd) - interesting because written in Pascal, but unclear whether I can even customize the gui colors (bar, sides, etc)

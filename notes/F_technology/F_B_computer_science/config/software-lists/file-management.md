@@ -6,9 +6,18 @@
 (1) - already added to nix-config, but some work is needed
 (2) - to be added next
 (2.5 / 3.5) - to be added, but first decide between alternatives
+(2.6) - Looks good, but still need to try it out
+(2.9) - Could be better than the current choice, but a decision needed to be made
 (3) - also to be added, but lower priority
+(3.9) - For fun; no urgency, but try it soon :)
 (4) - not decided yet / maybe later
+(4.5) - Backpocket, maybe for a different device, etc.
 (5) - some rewriting or packaging necessary (but to be added)
+(5) - Like (5), but also for RosettaProjects
+(6) - Decided against, but still looks good
+(7) Decided against; looks bad
+(N) - Ready to package for Nix
+(R) - Read!
 
 ## TUI File Managers
 
@@ -93,7 +102,7 @@
 * ( ) [watchexec](https://github.com/watchexec/watchexec)
 * ( ) [entr](https://github.com/eradman/entr) [entr site](https://eradman.com/entrproject/)
 * ( ) [inotify-tools](https://github.com/inotify-tools/inotify-tools)
-* ( ) [watchman](https://github.com/facebook/watchman) | [viddy](https://github.com/sachaos/viddy) | [watch](https://github.com/tj/watch)
+* ( ) [watchman](https://github.com/facebook/watchman) | ( ) [viddy](https://github.com/sachaos/viddy) | ( ) [watch](https://github.com/tj/watch)
 * ( ) [watchexec](https://github.com/watchexec/watchexec)
 * ( ) [gaze](https://github.com/wtetsu/gaze)
 * ( ) [entr](https://github.com/eradman/entr)
@@ -108,7 +117,7 @@
 
 * ( ) [foldersync](https://foldersync.io/) - seems like a good mobile solution
 * ( ) [rclone](https://rclone.org/) + (optionally)
-* ( ) [celeste](https://github.com/hwittenborn/celeste) | [syncthing](https://syncthing.net/) | [Zaloha2.sh](https://github.com/Fitus/Zaloha2.sh)
+* ( ) [celeste](https://github.com/hwittenborn/celeste) | ( ) [syncthing](https://syncthing.net/) | ( ) [Zaloha2.sh](https://github.com/Fitus/Zaloha2.sh)
 * ( ) [rclone-tui](https://github.com/darkhz/rclone-tui)
 * ( ) [rsync](https://github.com/WayneD/rsync)
 * ( ) [bitpocket](https://github.com/sickill/bitpocket)

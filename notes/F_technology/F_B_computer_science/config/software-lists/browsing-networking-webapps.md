@@ -8,9 +8,18 @@
 (1) - already added to nix-config, but some work is needed
 (2) - to be added next
 (2.5 / 3.5) - to be added, but first decide between alternatives
+(2.6) - Looks good, but still need to try it out
+(2.9) - Could be better than the current choice, but a decision needed to be made
 (3) - also to be added, but lower priority
+(3.9) - For fun; no urgency, but try it soon :)
 (4) - not decided yet / maybe later
+(4.5) - Backpocket, maybe for a different device, etc.
 (5) - some rewriting or packaging necessary (but to be added)
+(5) - Like (5), but also for RosettaProjects
+(6) - Decided against, but still looks good
+(7) Decided against; looks bad
+(N) - Ready to package for Nix
+(R) - Read!
 
 ## Top
 
@@ -49,15 +58,15 @@
 * ( ) [cheatsheet-big.png (PNG Image, 3342 × 2060 pixels) — Scaled (46%)](https://qutebrowser.org/img/cheatsheet-big.png)
 * ( ) [Why I use qutebrowser and how I configure it - adblocking, note taking, and colors](https://youtu.be/Av8Sfaprcb4) [ii.com: qutebrowser Tips and Fragments](https://www.ii.com/qutebrowser-tips-fragments/)
 * ( ) [ii.com: qutebrowser’s Template config.py](https://www.ii.com/qutebrowser-configpy/)
-sw qute [Configuring qutebrowser | qutebrowser](https://qutebrowser.org/doc/help/configuring.html)
-sw qute [HS 2018 2019-SA-EP-Bruhin-Qutebrowser Made Extendible.pdf](https://eprints.ost.ch/id/eprint/743/1/HS%25202018%25202019-SA-EP-Bruhin-Qutebrowser%2520Made%2520Extendible.pdf)
-sw qute [How to use the qutebrowser.commands.cmdutils.register function in qutebrowser | Snyk](https://snyk.io/advisor/python/qutebrowser/functions/qutebrowser.commands.cmdutils.register)
-sw qute [Qutebrowser + Ranger = Pure Awesome - YouTube](https://www.youtube.com/watch?v%3Dce2NOmTBWfo)
-sw qute [Qutebrowser 2.0 | Hacker News](https://news.ycombinator.com/item?id%3D25940453)
-sw qute [Why I Use Qutebrowser as My Daily Browser (but You Probably Shouldn't) - The Net Blog](https://the-net-blog.netlify.app/post/why-i-use-qutebrowser-as-my-daily-browser-but-you-probably-shouldnt/)
-sw qute [hicolour/awesome-qutebrowser: Qutebrowser userscripts trips & tricks](https://github.com/hicolour/awesome-qutebrowser)
-sw qute [ii.com: qutebrowser’s Template config.py](https://www.ii.com/qutebrowser-configpy/)
-sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
+* ( ) [Configuring qutebrowser | qutebrowser](https://qutebrowser.org/doc/help/configuring.html)
+* ( ) [HS 2018 2019-SA-EP-Bruhin-Qutebrowser Made Extendible.pdf](https://eprints.ost.ch/id/eprint/743/1/HS%25202018%25202019-SA-EP-Bruhin-Qutebrowser%2520Made%2520Extendible.pdf)
+* ( ) [How to use the qutebrowser.commands.cmdutils.register function in qutebrowser | Snyk](https://snyk.io/advisor/python/qutebrowser/functions/qutebrowser.commands.cmdutils.register)
+* ( ) [Qutebrowser + Ranger = Pure Awesome - YouTube](https://www.youtube.com/watch?v%3Dce2NOmTBWfo)
+* ( ) [Qutebrowser 2.0 | Hacker News](https://news.ycombinator.com/item?id%3D25940453)
+* ( ) [Why I Use Qutebrowser as My Daily Browser (but You Probably Shouldn't) - The Net Blog](https://the-net-blog.netlify.app/post/why-i-use-qutebrowser-as-my-daily-browser-but-you-probably-shouldnt/)
+* ( ) [hicolour/awesome-qutebrowser: Qutebrowser userscripts trips & tricks](https://github.com/hicolour/awesome-qutebrowser)
+* ( ) [ii.com: qutebrowser’s Template config.py](https://www.ii.com/qutebrowser-configpy/)
+* ( ) [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ### Meta, Review
 
@@ -200,7 +209,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
   * nextcloud
   * fsf, Linux foundation, etc
 * ( ) [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
-* ( ) [ ]  try Selenium on:            
+* ( ) [ ]  try Selenium on:
   * ( ) [ ]  chrome-extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
   * ( ) [ ]  chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.htm
   * ( ) [ ]  moz-extension://fcb928ab-a898-4c47-9f85-2ff701b6e9dc/manage.htm
@@ -229,10 +238,8 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 #### Rice FF
 
 * ( ) [gitlab.com/domsch1988/domfox](https://gitlab.com/domsch1988/domfox)
-* rice ff  [Neikon/Fox11](https://github.com/Neikon/Fox11) HGKeeper
-* rice ff & chrome startpage
+* ( ) [Neikon/Fox11](https://github.com/Neikon/Fox11) HGKeeper
 * ( ) [reddit](https://www.reddit.com/r/unixporn/s/mvA6EhXF0t)
-* rice ff : config hack shitpost
 * ( ) [...](https://www.reddit.com/r/NixOS/s/bytkKR3Tvq)
 * ( ) [EliverLara/firefox-nordic-theme: :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.](https://github.com/EliverLara/firefox-nordic-theme)
 * ( ) [Make Firefox great again](https://www.youtube.com/watch?v%3DdwZpjKH8nbo)
@@ -261,7 +268,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * ( ) [iansinnott/full-text-tabs-forever](https://github.com/iansinnott/full-text-tabs-forever)
 * ( ) [lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
 * ( ) [lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
-* ( ) [safak45xx/Blurfox-MacOS-](https://github.com/safak45xx/Blurfox-MacOS-)
+* ( ) [safak45xx/Blurfox-MacOS](https://github.com/safak45xx/Blurfox-MacOS)
 * ( ) [soulhotel/Perfection-Firefox-CSS-Theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
 * ( ) [soulhotel/v2-Tabs-alpha-/tree/main](https://github.com/soulhotel/v2-Tabs-alpha-/tree/main)
 * ( ) [vipintom/stealthFox](https://github.com/vipintom/stealthFox)
@@ -458,7 +465,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ### Web Drive
 
-* [Nextcloud](https://nextcloud.com/de/)
+* ( ) [Nextcloud](https://nextcloud.com/de/)
 * Proton Drive
 * Google Drive [api](https://developers.google.com/drive/api/guides/search-files%23java) → list all drive files
 
@@ -504,7 +511,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ### Mobile Connection
 
-* ( ) [kdeconnect](https://apps.kde.org/kdeconnect/) | [gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)
+* ( ) [kdeconnect](https://apps.kde.org/kdeconnect/) | ( ) [gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)
 
 ### Maps
 
@@ -565,7 +572,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
    | (2.5) [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists from the command line.
 * (2) [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
 * (2) [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
-* (2) [ddgr -](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
+* (2) [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
 * (2) [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 * (6) [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
 * (2,5) [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
@@ -606,31 +613,30 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 ## Web Development
 
 * (2) [serverracket.com/](https://serverracket.com/)
-* {web} [...](https://codeberg.org/kitten/app)
-* {web} [...](https://federicoterzi.com/raji/) [github](https://github.com/federico-terzi/raji)
-* {web} [...](https://www.shuttle.rs/blog/2023/12/20/loco-rust-rails)
-* {web} [...](https://www.squaresapp.org/rawjs/)
-* {web} [bootplus](http://aozora.github.io/bootplus/)
-* {web} [dBug](https://github.com/ospinto/dBug) - PHP tool
-* {web} [ebpf article](https://thenewstack.io/what-is-ebpf/)
-* {web} [ebpf](https://thenewstack.io/what-is-ebpf/)
-* {web} [http-party/http-server](https://github.com/http-party/http-server)
-* {web} [http-server](https://github.com/http-party/http-server)
-* {web} [inox](https://github.com/inoxlang/inox)
-* {web} [kitten/kittens.small-web.org: Kitten distribution management place. Handles uploads and downloads of Kitten distributions. - kittens.small-web.org - Codeberg.org](https://codeberg.org/kitten/kittens.small-web.org)
-* {web} [kuto](https://ithub.com/samthor/kuto) Faster updates for big JS projects
-* {web} [ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building dynamic HTML pages in pure Python.
-* {web} [network_inventory](https://github.com/Nebucatnetzer/network_inventory) - solution for keeping an inventory over my various servers and other network equipment.
-* {web} [prismjs](https://prismjs.com/)
-* {web} [QuickJS Javascript Engine](https://bellard.org/quickjs/)
-* {web} [simple-http-server](https://github.com/TheWaWaR/simple-http-server)
-* {web} [Static Site Generator | Nikola](https://getnikola.com/)
-* {web} [toast](https://ui.toast.com/) web UI components
-* {web} [What it’s like to run HTMX in Production - Stories from Experienced Software Engineers](https://www.youtube.com/watch?v=Ec_ovkHHuZ8)
-* {web} [winterjs](https://www.heise.de/news/JavaScript-Server-in-Rust-WinterJS-is-Coming-9653110.html)
-* {web edu} [golangexample](https://golangexample.com/)
-* {web perso} [...](https://mastodon.social/@matthiasott/111447516296786143)
-* {web rust} [🦀 RUST y HTMX | Creamos una web con Rust | Parte 1](https://www.youtube.com/watch?v%3Dfcc5KRmHZgI)
+* ( ) [...](https://codeberg.org/kitten/app)
+* ( ) [...](https://federicoterzi.com/raji/) [github](https://github.com/federico-terzi/raji)
+* ( ) [...](https://www.shuttle.rs/blog/2023/12/20/loco-rust-rails)
+* ( ) [...](https://www.squaresapp.org/rawjs/)
+* ( ) [bootplus](http://aozora.github.io/bootplus/)
+* ( ) [dBug](https://github.com/ospinto/dBug) - PHP tool
+* ( ) [ebpf article](https://thenewstack.io/what-is-ebpf/)
+* ( ) [ebpf](https://thenewstack.io/what-is-ebpf/)
+* ( ) [http-party/http-server](https://github.com/http-party/http-server)
+* ( ) [http-server](https://github.com/http-party/http-server)
+* ( ) [inox](https://github.com/inoxlang/inox)
+* ( ) [kitten/kittens.small-web.org: Kitten distribution management place. Handles uploads and downloads of Kitten distributions. - kittens.small-web.org - Codeberg.org](https://codeberg.org/kitten/kittens.small-web.org)
+* ( ) [kuto](https://ithub.com/samthor/kuto) Faster updates for big JS projects
+* ( ) [ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building dynamic HTML pages in pure Python.
+* ( ) [network_inventory](https://github.com/Nebucatnetzer/network_inventory) - solution for keeping an inventory over my various servers and other network equipment.
+* ( ) [prismjs](https://prismjs.com/)
+* ( ) [QuickJS Javascript Engine](https://bellard.org/quickjs/)
+* ( ) [simple-http-server](https://github.com/TheWaWaR/simple-http-server)
+* ( ) [Static Site Generator | Nikola](https://getnikola.com/)
+* ( ) [toast](https://ui.toast.com/) web UI components
+* ( ) [What it’s like to run HTMX in Production - Stories from Experienced Software Engineers](https://www.youtube.com/watch?v=Ec_ovkHHuZ8)
+* ( ) [winterjs](https://www.heise.de/news/JavaScript-Server-in-Rust-WinterJS-is-Coming-9653110.html)
+* ( ) [...](https://mastodon.social/@matthiasott/111447516296786143)
+* ( ) [🦀 RUST y HTMX | Creamos una web con Rust | Parte 1](https://www.youtube.com/watch?v%3Dfcc5KRmHZgI)
 * ( ) [slimerjs](https://slimerjs.org/)
 * ( ) [html-first.com/](https://html-first.com/)
 * ( ) [caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Search [caniuse.com](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/caniuse.com) about browser support of features.
@@ -716,17 +722,17 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 * (->)
 * ( ) [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
-* (4) [TRASA](https://trasa.io/)**: Zero trust access to Web, SSH, RDP, and Database services.
+* (4) [TRASA](https://trasa.io/): Zero trust access to Web, SSH, RDP, and Database services
 * (2) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 
 ##### Firewalls
 
 * (PG)
 * ( ) [FireHOL](https://firehol.org/) - Linux firewall (`iptables`) manager for humans.
-* (PG)[firewalld -](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
+* (PG)[firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
 * (PG)
 * ( ) [GuFW](https://gufw.org/) - One of the easiest firewalls in the world of Linux.
-* (PG)[opensnitch -](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
+* (PG)[opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 * (PG)
 * ( ) [Portmaster](https://safing.io/) - Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer’s network activity.
 
@@ -735,7 +741,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * (2) [OpenSSH](https://www.openssh.com/) - OpenSSH Secure Shell Server and Client.
 * (4) [iprange](https://github.com/firehol/iprange) - A very fast command line utility for processing IP lists (merge, compare, exclude, etc).
 * (4) [FireQoS](https://docs.netdata.cloud/collectors/tc.plugin/#tcplugin) - Linux QoS (`tc`) manager for humans.
-* (4) [hss -](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution. Never type the annoying ssh commands again.
+* (4) [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution. Never type the annoying ssh commands again.
 * (4) [mosh](https://github.com/mobile-shell/mosh) - Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
 * (4) [pssh](https://github.com/lilydjwg/pssh) - PSSH provides parallel versions of OpenSSH and related tools. Included are pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
 * (2) [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
@@ -792,7 +798,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * ( ) [desktop](https://github.com/httpie/desktop) (httpie)
 * ( ) [geoip-api-c](https://github.com/maxmind/geoip-api-c) - A little application to find geographical and network information of an IP address based no the geoip C API.
 * ( ) [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
-* ( ) [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems.
+* ( ) [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in -nix systems.
 * ( ) [histstat](https://github.com/vesche/histstat) - History for netstat
 * ( ) [ipcalc](https://github.com/kjokjo/ipcalc) - Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
 * ( ) [ngrep/](https://github.com/jpr5/ngrep/) - (Network grep) applies the `grep` logic to the network layer, allowing to match regular expressions against data payloads of packets; it recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces.
@@ -812,7 +818,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * ( ) [Coursaros](https://github.com/SpyridonLaz/Coursaros) -  [Download videos and subtitles from edx to your computer easily.](https://github.com/SpyridonLaz/Coursaros)
 * ( ) [aria2](https://aria2.github.io/)
 * ( ) [scrapeghost/](https://github.com/jamesturk/scrapeghost/) - extend with other LLMs
-* ( ) [aria2 -](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
+* ( ) [aria2](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
 * ( ) [httrack.com/](https://www.httrack.com/)
 * ( ) [clauneck](https://github.com/serpapi/clauneck)
 * ( ) [cli](https://github.com/httpie/cli) - [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
@@ -938,7 +944,7 @@ Fedilab
 * (2.5) [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone.
    | (2.5) [BetterDiscord](https://betterdiscord.app/) - BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.
    | (2.5) [Discover](https://trigg.github.io/Discover/) - Yet another Discord overlay for Linux written in Python using GTK3.
-   | (2.5) [WebCord -](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the electron.
+   | (2.5) [WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the electron.
    | (2.5) [vencord](https://github.com/Vendicated/Vencord) [Vencord/Vesktop: Vesktop gives you the performance of web Discord and the comfort of Discord Desktop](https://github.com/Vencord/Vesktop)
    | (2.5) [purple-discord](https://github.com/EionRobb/purple-discord)
    | (2.5) [discordo](https://github.com/ayn2op/discordo)

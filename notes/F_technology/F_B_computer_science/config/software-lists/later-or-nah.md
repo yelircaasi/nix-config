@@ -8,9 +8,18 @@
 (1) - already added to nix-config, but some work is needed
 (2) - to be added next
 (2.5 / 3.5) - to be added, but first decide between alternatives
+(2.6) - Looks good, but still need to try it out
+(2.9) - Could be better than the current choice, but a decision needed to be made
 (3) - also to be added, but lower priority
+(3.9) - For fun; no urgency, but try it soon :)
 (4) - not decided yet / maybe later
+(4.5) - Backpocket, maybe for a different device, etc.
 (5) - some rewriting or packaging necessary (but to be added)
+(5) - Like (5), but also for RosettaProjects
+(6) - Decided against, but still looks good
+(7) Decided against; looks bad
+(N) - Ready to package for Nix
+(R) - Read!
 
 ### editors
 
@@ -429,7 +438,9 @@
 * ( ) [Yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go.
 * ( ) [ ] [thread-safe](https://github.com/dkaslovsky/thread-safe) - Keep your favorite Twitter threads safe with a local copy.- [ ]  [Max Auto Clicker](https://maxautoclicker.blogspot.com/) - Automate your mouse clicks easily with this awesome cross-platform application (for Windows and Linux Desktops).- [ ]  [Russhian Roulette](https://github.com/cyradotpink/russhian-roulette) - 1/6 chance of posting your SSH private key on pastebin (do you really want to try?).
 * ( ) [Termit](https://github.com/nonstop/termit) - Simple terminal emulator based on vte library, extensible via Lua.
-* ( ) [ ] [cairographics.org/-](https://cairographics.org/-) [ ]  [pango.gnome.org/-](https://pango.gnome.org/-) [ ]  [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz)  excellent font-shaping library
+* ( ) [ ] [cairographics.org/](https://cairographics.org/)
+* ( ) [pango.gnome.org/](https://pango.gnome.org/)
+* ( ) [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz)  excellent font-shaping library
 * ( ) [ ] [freetype.org/freetype2/docs/documentation.html](https://freetype.org/freetype2/docs/documentation.html)
 * ( ) [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * ( ) [Wavebox](https://wavebox.io/) - A feature-rich Chromium browser that’s built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
@@ -525,17 +536,17 @@
 * ( ) [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 * ( ) [Cataclysm-DDA](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 * ( ) [?](https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png)
-* [pokete](https://github.com/lxgr-linux/pokete)) - Pokemon-like.
+* ( ) [pokete](https://github.com/lxgr-linux/pokete)) - Pokemon-like.
 * ( ) [veloren/veloren](https://github.com/veloren/veloren)
 * ( ) [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 * ( ) [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 * ( ) [IP2Trace](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
 * Movies
-* [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies.
+* ( ) [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies.
 * ( ) [movie](https://github.com/mayankchd/movie)) - Get movie info or compare movies.
 * ( ) [linuxbrew](https://linuxbrew.sh/) - The Homebrew package manager for Linux.
 * ( ) [pkgin](http://pkgin.net/) - Aimed at being an apt / yum like tool for managing pkgsrc binary packages.
-*    [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
+* ( ) [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 * ( ) [OnlyOffice](https://www.onlyoffice.com/) - An office suite that charges for a cloud version of itself, but is free for other uses.
 * ( ) [Caligra Office](https://www.calligra.org/) - Offers a comprehensive set of 8 applications which satisfies the office, graphics and management needs.
 * ( ) [WPS office](https://www.wps.com/office/linux/) - A popular office suite in China, but is fully translated and functions well in English.
@@ -560,17 +571,13 @@
 * ( ) [KWrite](https://apps.kde.org/kwrite/) - KWrite is a text editor by KDE, based on the Kate’s editor component.
 * ( ) [Notepadqq](https://notepadqq.com/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
 * ( ) [Notepad Next](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++.
-
-*    [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
-
-*    [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
-
-*    [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
-
-*    [pm2](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
+* ( ) [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
+* ( ) [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
+* ( ) [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
+* ( ) [pm2](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
 * ( ) [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 * ( ) [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
-* [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
+* ( ) [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 
 ### Npm
 
@@ -802,8 +809,9 @@
 * ( ) [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them in a flash.
 * Intellij
 * ( ) [keymap](https://github.com/jondot/keymaps/) - a hybrid Vim/ReSharper/Intellij keymap
-* Desktop OSX
-* *Tools for improving and hacking around with your vanilla desktop**
+
+## Desktop OSX
+
 * ( ) [Alfred](http://www.alfredapp.com/) - OSX productivity app `/OSX/`
 * ( ) [hydra](https://github.com/sdegutis/hydra) - script your desktop `/OSX/`
 * ( ) [Keycastr](https://github.com/sdeken/keycastr) - show your keys while presenting/casting `/OSX/`
@@ -811,7 +819,9 @@
 * ( ) [Eclipse](https://www.eclipse.org/eclipseide/) - Extensible IDE that supports the latest Java versions as well as other languages. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
 * ( ) [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - Java/Android IDE with the goal of maximizing developer productivity. ([Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt))
 * ( ) [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). ([MIT](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
-* Gaming Launchers
+
+## Gaming Launchers
+
 * ( ) [Bottles](https://usebottles.com/) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux.
 * ( ) [GameHub](https://tkashkin.github.io/projects/gamehub/) - GameHub is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
 * ( ) [Heroic Games Launcher](https://heroicgameslauncher.com/) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
@@ -820,7 +830,9 @@
 * ( ) [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - A simple GOG client for Linux.
 * ( ) [PlayOnLinux](https://www.playonlinux.com/) - A front-end for Wine.
 * ( ) [Steam](https://store.steampowered.com/) - Gaming store, which opens the gates to many games.
-* Gaming Tools
+
+## Gaming Tools
+
 * ( ) [BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library.
 * ( ) [Boxtron](https://github.com/dreamer/boxtron) - Steam Play compatibility tool to run DOS games using native Linux DOSBox. It is a sister project of Luxtorpeda and DOSBox Staging.
 * ( ) [DOSBox Staging](https://dosbox-staging.github.io/) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
@@ -852,7 +864,9 @@
 * ( ) [Buka](https://github.com/oguzhaninan/Buka/) - A program for EBook Management.
 * ( ) [s3cmd](https://github.com/s3tools/s3cmd) - the S3 CLI tool for Amazon
 * ( ) [Open Office](https://github.com/apache/openoffice) - Provides a full featured office productivity suite based on open standards. ([Apache License 2.0](https://github.com/apache/openoffice/blob/trunk/LICENSE))
-* Terminal Emulator
+
+## Terminal Emulator
+
 * ( ) [Yakuake](https://apps.kde.org/yakuake/) - A Quake-style terminal emulator based on KDE Konsole technology.
 * ( ) [Xterm](https://invisible-island.net/xterm/) - The Xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can’t use the window system directly.
 * ( ) [Twin](https://github.com/cosmos72/twin/) - Fast, lightweight text-mode window environment with mouse support. Enables multiple terminals in a single Linux console, terminal or X11 window. It can be detached (keeps running in background) and reattached to a different console, terminal or X11 server. Works on Linux, Mac OS X and BSD.

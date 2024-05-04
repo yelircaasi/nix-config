@@ -8,9 +8,18 @@
 (1) - already added to nix-config, but some work is needed
 (2) - to be added next
 (2.5 / 3.5) - to be added, but first decide between alternatives
+(2.6) - Looks good, but still need to try it out
+(2.9) - Could be better than the current choice, but a decision needed to be made
 (3) - also to be added, but lower priority
+(3.9) - For fun; no urgency, but try it soon :)
 (4) - not decided yet / maybe later
+(4.5) - Backpocket, maybe for a different device, etc.
 (5) - some rewriting or packaging necessary (but to be added)
+(5) - Like (5), but also for RosettaProjects
+(6) - Decided against, but still looks good
+(7) Decided against; looks bad
+(N) - Ready to package for Nix
+(R) - Read!
 
 ## Gif Creation
 
@@ -22,7 +31,7 @@
 * ( ) [givegif](https://github.com/passy/givegif) - GIFs on the command line.
 * ( ) [vhs](https://github.com/charmbracelet/vhs) - Write terminal GIFs as code for integration testing and demoing your CLI tools.
 * ( ) [gifcurry](https://github.com/lettier/gifcurry) - [Gifcurry](https://lettier.github.io/gifcurry/) - Your open source video to GIF maker built with Haskell.
-* ( ) [gifcast](https://github.com/dstein64/gifcast) - [gifcast](https://dstein64.github.io/gifcast/)**: Converts an asciinema cast to an animated GIF.
+* ( ) [gifcast](https://github.com/dstein64/gifcast) - [gifcast](https://dstein64.github.io/gifcast/): Converts an asciinema cast to an animated GIF.
 * ( ) [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 * ( ) [gifex](https://github.com/keshavbhatt/gifex) - GIF recorder
 
@@ -142,7 +151,7 @@
 * ( ) [scantailor](https://github.com/scantailor/scantailor) - Scan Tailor is an interactive post-processing tool for scanned pages. For a tutorial on how to use it, consult its [User Guide](https://github.com/scantailor/scantailor/wiki/User-Guide).
 * ( ) [gifcurry](https://github.com/lettier/gifcurry) - [Gifcurry](https://lettier.github.io/gifcurry/) - Your open source video to GIF maker built with Haskell.
 * ( ) [Blender](https://www.blender.org/) - A free and open source complete 3D creation pipeline for artists and small teams.
-* ( ) [ImageMagick -](https://imagemagick.org/) [imagemagick.org/index.php](https://imagemagick.org/index.php) - Gold standard for anything images.
+* ( ) [ImageMagick](https://imagemagick.org/) [imagemagick.org/index.php](https://imagemagick.org/index.php) - Gold standard for anything images.
 * ( ) [gimp](https://www.gimp.org/)
 * ( ) [GIMP - Your GIMP Profile and You](https://www.gimp.org/tutorials/GIMPProfile/)
 * ( ) [GIMP - Documentation](https://www.gimp.org/docs/)
@@ -327,13 +336,13 @@
 * ( ) [PipeWire](https://pipewire.org/) - PipeWire is a project that aims to greatly improve handling of audio and video under Linux. [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide)
 * ( ) [Alsamixer](https://github.com/alsa-project) - ALSA mixer with curses interfaces - found in [alsa-project/alsa-utils](https://github.com/alsa-project/alsa-utils)
 * ( ) [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - Improve Linux Audio with customized Profiles.
-*[pulsemixer -](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio.
+* ( ) [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio.
 
 ## Mixed / Miscellaneous
 
 * ( ) [lotc](https://github.com/ranelpadon/lord-of-the-clips/) - (Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips. - excellent interface, written in Python
-*[cava](https://github.com/karlstav/cava)- Cava is a Cross-platform Audio Visualizer.
-* (U)[kunst](https://github.com/sdushantha/kunst)- rewrite for wayland (wayland stack dependencies)
+* ( ) [cava](https://github.com/karlstav/cava)- Cava is a Cross-platform Audio Visualizer.
+* (U) [kunst](https://github.com/sdushantha/kunst)- rewrite for wayland (wayland stack dependencies)
 * ( ) [glava](https://github.com/jarcode-foss/glava) - OpenGL audio spectrum visualizer - also X11
 * (U ← X11) [nikp123/xava](https://github.com/nikp123/xava)
 

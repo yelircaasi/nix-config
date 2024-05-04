@@ -6,9 +6,18 @@
 (1) - already added to nix-config, but some work is needed
 (2) - to be added next
 (2.5 / 3.5) - to be added, but first decide between alternatives
+(2.6) - Looks good, but still need to try it out
+(2.9) - Could be better than the current choice, but a decision needed to be made
 (3) - also to be added, but lower priority
+(3.9) - For fun; no urgency, but try it soon :)
 (4) - not decided yet / maybe later
+(4.5) - Backpocket, maybe for a different device, etc.
 (5) - some rewriting or packaging necessary (but to be added)
+(5) - Like (5), but also for RosettaProjects
+(6) - Decided against, but still looks good
+(7) Decided against; looks bad
+(N) - Ready to package for Nix
+(R) - Read!
 
 * -> [](https://blog.logrocket.com/exploring-best-syntax-highlighting-libraries/)
 
@@ -23,13 +32,18 @@
 
 * ( ) [Reproducible Data Pipelines Using Controlled Effects](https://tweag.github.io/kernmantle/scale-by-the-bay-slides.html)
 
+### Package Management
+
+* (4) [libsolv](https://github.com/openSUSE/libsolv)
+
 ### Educational Projects
 
-* ( ) [lust](https://github.com/Gingeh/lust) A parser, compiler, and virtual machine evaluator for a minimal subset of Lua; written from scratch in Rust.
+* (3.9) [lust](https://github.com/Gingeh/lust) A parser, compiler, and virtual machine evaluator for a minimal subset of Lua; written from scratch in Rust.
 
 ### Cross-Environment, Different Setups, Innovative
 
-* ( ) [cheerpj-3](https://labs.leaningtech.com/blog/cheerpj-3.0) A WebAssembly JVM to run real-world applications in the browser
+* (3.9) [cheerpj-3](https://labs.leaningtech.com/blog/cheerpj-3.0) A WebAssembly JVM to run real-world applications in the browser
+* (3.9) [wasmtime](https://docs.wasmtime.dev/cli.html)
 
 ### Specific Programming Languages
 
@@ -37,15 +51,16 @@
 
 * -> [r/rust/s/QqfsULxF1c](https://www.reddit.com/r/rust/s/QqfsULxF1c) rust dev env
 * ( ) [ratatui](https://ratatui.rs/)
-* [rust service foundation library](https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library)
-* [evcxr](https://github.com/evcxr/evcxr)
-* [rinf](https://github.com/cunarist/rinf) - framework - Rust for native business logic, Flutter for flexible and beautiful GUI
-* [Rust Desktop App Video](https://www.youtube.com/watch?v%3D7aFgeUG9TK4)
-* [Rust Full-Stack Web App](https://www.youtube.com/watch?v%3Dtq3-M7QJiWg) wifi manager discussion
-* [slint](https://slint.dev/) - GUI framework
-* [rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
-* [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm)
+* ( ) [rust service foundation library](https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library)
+* ( ) [evcxr](https://github.com/evcxr/evcxr)
+* ( ) [rinf](https://github.com/cunarist/rinf) - framework - Rust for native business logic, Flutter for flexible and beautiful GUI
+* ( ) [Rust Desktop App Video](https://www.youtube.com/watch?v%3D7aFgeUG9TK4)
+* ( ) [Rust Full-Stack Web App](https://www.youtube.com/watch?v%3Dtq3-M7QJiWg) wifi manager discussion
+* ( ) [slint](https://slint.dev/) - GUI framework
+* ( ) [rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
+* ( ) [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm)
 * ( ) [synoptic](https://lib.rs/crates/synoptic) syntax highlighting
+* ( ) [min-sized-rust](https://github.com/johnthagen/min-sized-rust)
 
 #### JavaScript
 
@@ -103,7 +118,7 @@
 * ( ) [fengari](https://github.com/fengari-lua/fengari) φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 * ( ) [Introduction — Lua Functional 0.1.3 documentation](https://luafun.github.io/intro.html)
 * ( ) [luafun/luafun: Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.](https://github.com/luafun/luafun)
-lua-related  * ( ) [luvit](https://luvit.io/docs.html)
+* ( ) [luvit](https://luvit.io/docs.html)
 
 ### Typing
 
@@ -141,15 +156,15 @@ lua-related  * ( ) [luvit](https://luvit.io/docs.html)
 * (2) [slimtoolkit](https://slimtoolkit.org/)
 * (2) [dive](https://github.com/wagoodman/dive)
 * (2) [lazydocker](https://github.com/jesseduffield/lazydocker)
-   |  [dry](https://github.com/moncho/dry)
-   |  [dockly](https://github.com/lirantal/dockly)
+   | ( ) [dry](https://github.com/moncho/dry)
+   | ( ) [dockly](https://github.com/lirantal/dockly)
 * (2) [buildx](https://github.com/docker/buildx)
 * ( ) [docker-pushrm](https://github.com/christian-korneck/docker-pushrm)
 * ( ) [watchtower](https://github.com/containrrr/watchtower)
 * (2) [kubernetes](https://search.nixos.org/packages?channel=23.11&from=0&size=50&sort=relevance&type=packages&query=kubernetes) (provides kubectl, among others)
 * ( ) [kubebox](https://github.com/astefanutti/kubebox)
-   |  [k9s](https://github.com/derailed/k9s)
-   |  [kdash](https://github.com/kdash-rs/kdash)
+   | ( ) [k9s](https://github.com/derailed/k9s)
+   | ( ) [kdash](https://github.com/kdash-rs/kdash)
 * (2) [kool](https://github.com/kool-dev/kool)
 * (3) [cloudtty](https://github.com/cloudtty/cloudtty)
 * (2) [updatecli](https://github.com/updatecli/updatecli)
@@ -157,28 +172,35 @@ lua-related  * ( ) [luvit](https://luvit.io/docs.html)
 * ( ) [Hercules CI](https://hercules-ci.com/)
 * (1) [podman](https://github.com/containers/podman) - read [this](https://blog.while-true-do.io/podman-graphical-interfaces/)
 * (2) [chroot](https://github.com/coreutils/coreutils/blob/master/src/chroot.c)
-   |  [lxc + lxcfc](https://linuxcontainers.org/)
-   |  [conty](https://github.com/Kron4ek/Conty)
+   | ( ) [lxc + lxcfc](https://linuxcontainers.org/)
+   | ( ) [conty](https://github.com/Kron4ek/Conty)
 * ( ) [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
 * (2) [ops](https://ops.city)
 * ( ) [docker vs podman at DuckDuckGo](https://duckduckgo.com/?q%3Ddocker%2Bvs%2Bpodman%26ia%3Dweb)
 * ( ) [Podman vs Docker: In-Depth Comparison](https://phoenixnap.com/kb/podman-vs-docker)
 * ( ) [AtomsDevs/Atoms: Easily manage Linux Chroot(s) and Containers with Atoms.](https://github.com/AtomsDevs/Atoms)
 
-## Build
+## Build Tools
 
-* [gradle](https://gradle.org/)
-* [pantsbuild](https://www.pantsbuild.org/)
-* [pantsbuild](https://www.pantsbuild.org/)
-* ( ) [tbox](https://github.com/tboox/tbox)
+* (4) [cmake](https://github.com/Kitware/CMake)
+* (4) [maven](...)
+* (4) [gradle](...)
+* (4) [ninja](...)
+* (4) [bazel](https://github.com/bazelbuild/bazel)
+* (4) [scons](https://github.com/SCons/scons) (even supports LaTeX)
+* (4) [xmake](https://github.com/xmake-io/xmake)
+* (4) [pants](https://www.pantsbuild.org/)
+* (4) [gradle](https://gradle.org/)
+* (4) [pantsbuild](https://www.pantsbuild.org/)
+* (4) [tbox](https://github.com/tboox/tbox)
 
 ## Documentation
 
 * ( ) [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
 * ( ) [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files.
       + ( ) [mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) a backend for [mdbook](https://github.com/rust-lang/mdBook) which will check your links for you. [fork](https://github.com/volhovm/mdbook-linkcheck)
-* ( ) [Sphinx](https://www.sphinx-doc.org/en/master/)
-* ( ) [Shibuya](https://shibuya.lepture.com/) (theme)
+* (1) [Sphinx](https://www.sphinx-doc.org/en/master/)
+* (2) [Shibuya](https://shibuya.lepture.com/) (theme)
 * ( ) [zealdocs.org/](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. - GUI
 * ( ) [Read the Docs](https://readthedocs.org/)
 * ( ) [Doxygen](https://www.doxygen.nl/index.html)
@@ -192,12 +214,21 @@ lua-related  * ( ) [luvit](https://luvit.io/docs.html)
 * ( ) [docsify/](https://github.com/docsifyjs/docsify/)- [Docsify](https://docsify.js.org/)
 * ( ) [zest](https://github.com/zestdocs/zest)- unmaintained, but fork and update?
 
+## Regex
+
+* ( ) [TRE — The free and portable approximate regex matching library.](https://laurikari.net/tre/)
+
 ## RPC
 
 * ( ) [gRPC - Wikipedia](https://en.wikipedia.org/wiki/GRPC)
 * ( ) [gRPC vs. REST: Key Similarities and Differences - DreamFactory Software- Blog](https://blog.dreamfactory.com/grpc-vs-rest-how-does-grpc-compare-with-traditional-rest-apis/)
 * ( ) [gRPC](https://grpc.io/)
 * ( ) [Introduction to gRPC | gRPC](https://grpc.io/docs/what-is-grpc/introduction/)
+
+## Maps
+
+* ( ) [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md)
+* ( ) [mapnik](https://mapnik.org/)
 
 ## Formatting
 
@@ -233,7 +264,7 @@ lua-related  * ( ) [luvit](https://luvit.io/docs.html)
 * ( ) [BlueZ](http://www.bluez.org/) - Official Linux Bluetooth protocol stack.
 * ( ) [Zerotier](https://my.zerotier.com/) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encryption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
 * ( ) [hocus.dev/](https://hocus.dev/) - cloud dev environments, pre-built, free for individual use
-* ( ) [SparkleShare -](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool [sparkleshare.org/](https://www.sparkleshare.org/) [Nix](https://search.nixos.org/packages?channel=23.05&from=0&size=50&sort=relevance&type=packages&query=sparkleshare)
+* ( ) [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool [sparkleshare.org/](https://www.sparkleshare.org/) [Nix](https://search.nixos.org/packages?channel=23.05&from=0&size=50&sort=relevance&type=packages&query=sparkleshare)
 * ( ) [heroku](https://www.heroku.com/)
 * ( ) [hocus-dev/hocus](https://github.com/hocus-dev/hocus)
 * ( ) [pushbullet.com/](https://www.pushbullet.com/)   [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API - requires Facebook or Google
@@ -243,9 +274,9 @@ lua-related  * ( ) [luvit](https://luvit.io/docs.html)
 
 * ( ) [Hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 * ( ) [gohugo.io](https://gohugo.io/)
-* ( ) [nanoc -](https://github.com/nanoc/nanoc) - Static site generator written in Ruby; extremely powerful and customizable; support many formats to generate HTML content.
-* ( ) [surge -](https://github.com/sintaxi/surge) - Static web publishing on surge.sh CDN.
-* ( ) [metalsmith -](https://github.com/metalsmith/metalsmith) - An extremely simple static site generator; all functionalities are provided by plugins that can be combined and chained; written and extendable in Javascript.
+* ( ) [nanoc](https://github.com/nanoc/nanoc) - Static site generator written in Ruby; extremely powerful and customizable; support many formats to generate HTML content.
+* ( ) [surge](https://github.com/sintaxi/surge) - Static web publishing on surge.sh CDN.
+* ( ) [metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple static site generator; all functionalities are provided by plugins that can be combined and chained; written and extendable in Javascript.
 * ( ) [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System).
 
 ### Wiki
@@ -254,7 +285,7 @@ lua-related  * ( ) [luvit](https://luvit.io/docs.html)
 
 ### HTTP Client / REST Client
 
-* ( ) [httpie -](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
+* ( ) [httpie](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 * ( ) [http-prompt](https://github.com/eliangcs/http-prompt)- Interactive HTTP client featuring autocomplete and syntax highlighting.
 * ( ) [ain](https://github.com/jonaslu/ain)- HTTP client with a simple format to organize API endpoints.
 
@@ -263,9 +294,9 @@ lua-related  * ( ) [luvit](https://luvit.io/docs.html)
 * ( ) [serve](https://github.com/vercel/serve)- Serve static files (https, CORS, GZIP compression, etc).
 * ( ) [simplehttp](https://github.com/snwfdhmp/simplehttp)- Easily serve a local directory over HTTP. - try with planager
 * ( ) [shell2http](https://github.com/msoap/shell2http)- Shell script based HTTP server. - try with planager
-* ( ) [httplab -](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
-* ( ) [hflow -](https://github.com/comradequinn/hflow) - A command-line, debugging http/s proxy server.
-* ( ) [balls -](https://github.com/jneen/balls) - Bash on Balls
+* ( ) [httplab](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
+* ( ) [hflow](https://github.com/comradequinn/hflow) - A command-line, debugging http/s proxy server.
+* ( ) [balls](https://github.com/jneen/balls) - Bash on Balls
 
 ### Socket
 
@@ -275,16 +306,15 @@ lua-related  * ( ) [luvit](https://luvit.io/docs.html)
 ### Server, Deployment
 
 * ( ) [dog](https://github.com/ogham/dog) - DNS lookup client; [better `dig`](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#do)
-        httpsgithubcomoghamdog-dns-lookup-client-_better-dig_)
 * ( ) [dog](https://github.com/vschwaberow/dog)- looks good
-* ( ) [cowyo -](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists. - planager?
+* ( ) [cowyo](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists. - planager?
 * ( ) [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)
 * ( ) [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests - like Httpie, but faster
 * ( ) [fenix](https://github.com/coreybutler/fenix)[Fenix Web Server](https://fenixwebserver.com/) - A multi-host local static web server with push-button sharing (desktop app).
-* ( ) [vesper - Vesper](https://github.com/chris-rock/vesper - Vesper)is a HTTP framework for Bash/Unix Shell
-* ( ) [simplehttp Fastest](https://github.com/snwfdhmp/simplehttp Fastest)and simplest way to start serving a local directory over http.
-* ( ) [serve -](https://github.com/zeit/serve) - Serves a static site, single page application, or just a static file, and provides a neat interface for listing the directory's contents.
-* ( ) [shipit -](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
+* ( ) [vesper - Vesper](https://github.com/chris-rock/vesper) a HTTP framework for Bash/Unix Shell
+* ( ) [simplehttp Fastest](https://github.com/snwfdhmp/simplehttp)  Fastest and simplest way to start serving a local directory over http.
+* ( ) [serve](https://github.com/zeit/serve) - Serves a static site, single page application, or just a static file, and provides a neat interface for listing the directory's contents.
+* ( ) [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 
 ### Frameworks
 
@@ -300,7 +330,7 @@ lua-related  * ( ) [luvit](https://luvit.io/docs.html)
 
 ### Testing / Mocking
 
-* ( ) [tsung -](https://github.com/processone/tsung) - A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.
+* ( ) [tsung](https://github.com/processone/tsung) - A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.
 * ( ) [loadtest](https://github.com/alexfernandez/loadtest)- Run load tests.
 * ( ) [Mockoon](https://mockoon.com/) - an API / HTTP REST mocking desktop application
 
@@ -308,7 +338,7 @@ lua-related  * ( ) [luvit](https://luvit.io/docs.html)
 
 * ( ) [apachebench (ab)
 * ( ) [siege](http://www.joedog.org/siege-home/)
-* ( ) [phantomas -](https://github.com/macbre/phantomas) - website perf evaluation tool
+* ( ) [phantomas](https://github.com/macbre/phantomas) - website perf evaluation tool
 * ( ) [rakyll/hey](https://github.com/rakyll/hey)
 * ( ) [httperf/httperf](https://github.com/httperf/httperf)
 * ( ) [vegeta](https://github.com/tsenart/vegeta)
@@ -316,19 +346,19 @@ lua-related  * ( ) [luvit](https://luvit.io/docs.html)
 
 ### Misc
 
-* ( ) [nativefier -](https://github.com/jiahaog/nativefier) - Make any web page a desktop application.
+* ( ) [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application.
 * ( ) [sass-lang.com/](https://sass-lang.com/)
-* ( ) [xpe -](https://github.com/charmparticle/xpe) - A commandline xpath tool that is easy to use.
-* ( ) [snallygaster -](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
+* ( ) [xpe](https://github.com/charmparticle/xpe) - A commandline xpath tool that is easy to use.
+* ( ) [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
 * ( ) [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli)- Strip comments from CSS.
 * ( ) [fractarchy/fractarchy-cms](https://github.com/fractarchy/fractarchy-cms)
-* ( ) [urlhunter -](https://github.com/utkusen/urlhunter) - Recon tool that allows searching on URLs that are exposed via shortener services.
+* ( ) [urlhunter](https://github.com/utkusen/urlhunter) - Recon tool that allows searching on URLs that are exposed via shortener services.
 * ( ) [todomvc.com/](https://todomvc.com/)
 * ( ) [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 * ( ) [vercel.com/pricing](https://vercel.com/pricing)
 * ( ) [localtunnel](https://github.com/localtunnel/localtunnel)- Expose your localhost to the world for easy testing and sharing.
 * ( ) [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
-* ( ) [ngrok.com/ -](https://ngrok.com/) [ngrok](https://github.com/ngrok) - Secure introspectable tunnels to localhost.
+* ( ) [ngrok.com/](https://ngrok.com/) [ngrok](https://github.com/ngrok) - Secure introspectable tunnels to localhost.
 * ( ) [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client. (paid service)
 * ( ) [vitepress.dev/](https://vitepress.dev/) (from  [wiki.nikiv.dev/,](https://wiki.nikiv.dev/,) [wiki.nikiv.dev/free[knowledge](https://github.com/nikitavoloboev/knowledge))
 * ( ) [jaspervdj.be/hakyll/](https://jaspervdj.be/hakyll/) - Haskell static site generator

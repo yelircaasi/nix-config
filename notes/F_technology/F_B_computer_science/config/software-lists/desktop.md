@@ -6,9 +6,18 @@
 (1) - already added to nix-config, but some work is needed
 (2) - to be added next
 (2.5 / 3.5) - to be added, but first decide between alternatives
+(2.6) - Looks good, but still need to try it out
+(2.9) - Could be better than the current choice, but a decision needed to be made
 (3) - also to be added, but lower priority
+(3.9) - For fun; no urgency, but try it soon :)
 (4) - not decided yet / maybe later
+(4.5) - Backpocket, maybe for a different device, etc.
 (5) - some rewriting or packaging necessary (but to be added)
+(5) - Like (5), but also for RosettaProjects
+(6) - Decided against, but still looks good
+(7) Decided against; looks bad
+(N) - Ready to package for Nix
+(R) - Read!
 
 ## Notes
 
@@ -23,12 +32,12 @@
 * 7. Maximized efficiency and productivity: work at the speed of thought, minimizing clutter & drag
 * 8. Reliable, solid system - no breakage
 * Wayland recommended stack:
-* hyprland**, sway, river
-* waybar**, eww
-* mako**, dunst
-* libnotify**
-* xdg portal**
-* swww**, hyprpaper, swaybg, wpaperd, mpvpaper
+* hyprland, sway, river
+* waybar, eww
+* mako, dunst
+* libnotify
+* xdg portal
+* swww, hyprpaper, swaybg, wpaperd, mpvpaper
 * rofi-wayland, wofi, bemenu, fuzzel, tofi.
 * Display Manager, Login, Lockscreen, Boot, etc.
 * How to place one window on top of another, like floating but always keeping smaller one on top? → PiP functionality with a tiling WM?
@@ -67,7 +76,7 @@
 
 ## Desktop Environment
 
-* [pop-os/cosmic-epoch: Next generation Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch)
+* ( ) [pop-os/cosmic-epoch: Next generation Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch)
   * ( ) [Pop!OS Shell](https://github.com/pop-os/shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.
   * ( ) [pop-os/cosmic-randr at 88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c](https://github.com/pop-os/cosmic-randr/tree/88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c)
 * ( ) [Budgie](https://blog.buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
@@ -91,9 +100,9 @@
 * ( ) [KDE Plasma](https://www.kde.org/plasma-desktop) - offers all the tools required for a modern desktop computing experience so you can be productive right from the start.
   * ( ) [KDE Plasma DT](https://youtu.be/S6Zf16gYzIY)
   * ( ) [docs.kde.org/*](https://docs.kde.org/)
-  * ( ) [invent.kde.org/plasma*](https://invent.kde.org/plasma*) [en.wikipedia.org/wiki/KDE_Plasma_5](https://en.wikipedia.org/wiki/KDE_Plasma_5)
-  * ( ) [userbase.kde.org/Tutorials*](https://userbase.kde.org/Tutorials*) [userbase.kde.org/Welcome_to_KDE_UserBase](https://userbase.kde.org/Welcome_to_KDE_UserBase)
-  * ( ) [userbase.kde.org/Websites*](https://userbase.kde.org/Websites*) [docs.kde.org/](https://docs.kde.org/)
+  * ( ) [invent.kde.org/plasma](https://invent.kde.org/plasma) [en.wikipedia.org/wiki/KDE_Plasma_5](https://en.wikipedia.org/wiki/KDE_Plasma_5)
+  * ( ) [userbase.kde.org/Tutorials*](https://userbase.kde.org/Tutorials) [userbase.kde.org/Welcome_to_KDE_UserBase](https://userbase.kde.org/Welcome_to_KDE_UserBase)
+  * ( ) [userbase.kde.org/Websites*](https://userbase.kde.org/Websites) [docs.kde.org/](https://docs.kde.org/)
   * ( ) [docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html](https://docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html)
   * ( ) [[ KDE + Bismuth ] Am I doing it right? : r/unixporn - Reddit](https://www.reddit.com/r/unixporn/comments/vz6oyi/kde_bismuth_am_i_doing_it_right/)
   * ( ) [[KDE] Plasma with Bismuth tiling extension is just perfect. The ...](https://www.reddit.com/r/unixporn/comments/q55e8f/kde_plasma_with_bismuth_tiling_extension_is_just/)
@@ -288,6 +297,11 @@
 * ( ) [Ly](https://github.com/cylgom/ly) - Ly is a lightweight, TUI (ncurses-like) display manager for Linux.
 * ( ) [nodm](https://github.com/spanezz/nodm) - A minimalistic display manager for automatic logins.
 
+### Color Picker
+
+* (2.5) [hyprpicker](https://github.com/hyprwm/hyprpicker)
+* (2.5) [pick-color-picker](https://kryogenix.org/code/pick/)
+
 ## Logout Menu
 
 * ( ) [wlogout](https://github.com/ArtsyMacaw/wlogout) [wlogout/blob/master/layout](https://github.com/ArtsyMacaw/wlogout/blob/master/layout)
@@ -386,7 +400,7 @@
 * ( ) [noti](https://github.com/variadico/noti) Monitor a process and trigger a notification.
 * ( ) [ntfy](https://github.com/dschep/ntfy) Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
 * ( ) [undistract-me](https://github.com/jml/undistract-me) - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
-* ( ) [keep -](https://github.com/keephq/keep) - Simple alerting tool, with declarative syntax and builtin providers.
+* ( ) [keep](https://github.com/keephq/keep) - Simple alerting tool, with declarative syntax and builtin providers.
 * ( ) [catlight](https://catlight.io/) - status notifier for developers. Checks the status of continuous delivery builds and shows desktop notifications.
 * ( ) [sysm](https://github.com/jafarlihi/sysm) - Makes your system play custom sounds when any configured system or external event happens.
 * ( ) [Welcome to Notifiers documentation! — notifiers 1.3.0 documentation](https://notifiers.readthedocs.io/en/latest/)

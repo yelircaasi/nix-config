@@ -8,14 +8,23 @@
 (1) - already added to nix-config, but some work is needed
 (2) - to be added next
 (2.5 / 3.5) - to be added, but first decide between alternatives
+(2.6) - Looks good, but still need to try it out
+(2.9) - Could be better than the current choice, but a decision needed to be made
 (3) - also to be added, but lower priority
+(3.9) - For fun; no urgency, but try it soon :)
 (4) - not decided yet / maybe later
+(4.5) - Backpocket, maybe for a different device, etc.
 (5) - some rewriting or packaging necessary (but to be added)
+(5) - Like (5), but also for RosettaProjects
+(6) - Decided against, but still looks good
+(7) Decided against; looks bad
+(N) - Ready to package for Nix
+(R) - Read!
 
 * (2) [emacs](https://www.gnu.org/software/emacs/)
 * (3) [qtconsole](https://github.com/jupyter/qtconsole)
 * (4) [zettlr](...)
-   |  [remarkable](https://github.com/jamiemcg/Remarkable)
+   | ( ) [remarkable](https://github.com/jamiemcg/Remarkable)
 * (3) [nano](...)
 * (6) [vim](...) -> decided to always use nvim with different configs -> [michaeluloth.com/neovim-switch-configs/](https://michaeluloth.com/neovim-switch-configs/)
 * (4) [cosmic-editor](...)
@@ -73,7 +82,9 @@
 * ( ) [pdfslicer](https://junrrein.github.io/pdfslicer/)
 * (2) [luatex](https://gitlab.lisn.upsaclay.fr/texlive/luatex)
 * ( ) [contextgarden](https://wiki.contextgarden.net/Main_Page)
-*### Reference Management
+
+### Reference Management
+
 * ( ) [scholarref](https://src.adamsgaard.dk/scholarref/) ([post](https://adamsgaard.dk/scholarref.html))
 * ( ) [bibrefer](https://github.com/stormvirux/bibrefer)
 * ( ) [papis](https://github.com/papis/papis)
@@ -168,14 +179,14 @@ editor neovim-related* ( ) [behansa](https://github.com/las-nish/Behansa)
 
 * (2)  [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) -> [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build), * ( ) [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html)
    | ( ) [sioyek](https://github.com/ahrm/sioyek) PDF viewer with a focus on textbooks and research papers
-   | [apvlv](https://github.com/naihe2010/apvlv)
-   | [llpp](https://repo.or.cz/w/llpp.git) (supports synctex)
-   | [qpdfview](https://launchpad.net/qpdfview) (also supports synctex)
+   | ( ) [apvlv](https://github.com/naihe2010/apvlv)
+   | ( ) [llpp](https://repo.or.cz/w/llpp.git) (supports synctex)
+   | ( ) [qpdfview](https://launchpad.net/qpdfview) (also supports synctex)
 * (5) [wike](https://github.com/hugolabe/Wike)
 * (2)  [koreader](https://koreader.rocks/)
-   | [bookworm](https://babluboy.github.io/bookworm/)
-   | [calibre](https://calibre-ebook.com/) + [calibre-web](https://github.com/janeczku/calibre-web)
-   | [evince](https://wiki.gnome.org/Apps/Evince)
-   | [foliate](https://johnfactotum.github.io/foliate/)
-   | [okular](https://okular.kde.org/)
+   | ( ) [bookworm](https://babluboy.github.io/bookworm/)
+   | ( ) [calibre](https://calibre-ebook.com/) + [calibre-web](https://github.com/janeczku/calibre-web)
+   | ( ) [evince](https://wiki.gnome.org/Apps/Evince)
+   | ( ) [foliate](https://johnfactotum.github.io/foliate/)
+   | ( ) [okular](https://okular.kde.org/)
 * (5) [pockyt](https://github.com/arvindch/pockyt) 

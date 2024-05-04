@@ -6,31 +6,22 @@
 (1) - already added to nix-config, but some work is needed
 (2) - to be added next
 (2.5 / 3.5) - to be added, but first decide between alternatives
+(2.6) - Looks good, but still need to try it out
+(2.9) - Could be better than the current choice, but a decision needed to be made
 (3) - also to be added, but lower priority
+(3.9) - For fun; no urgency, but try it soon :)
 (4) - not decided yet / maybe later
+(4.5) - Backpocket, maybe for a different device, etc.
 (5) - some rewriting or packaging necessary (but to be added)
+(5) - Like (5), but also for RosettaProjects
+(6) - Decided against, but still looks good
+(7) Decided against; looks bad
+(N) - Ready to package for Nix
+(R) - Read!
 
 ->  [DT Command Line Playlist](https://www.youtube.com/playlist?list%3DPL5--8gKSku174EnRTbP4DzU2W80Q1vqtm)
 
 ->  [learnbyexample.gumroad.com/l/cli_coreutils](https://learnbyexample.gumroad.com/l/cli_coreutils)
-
-## Terminal Emulators
-
-* waveterm on nixos
-
-    [ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix](https://github.com/ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix)
-
-    Here's my attempt at cobbling something together for linux, which seems to be working locally for me (well, it's "working" in the sense that it builds, the GUI shows up and the basic shell features seem to be working): [ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix](https://github.com/ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix)
-
-```sh
-nix shell github:ErnWong/dotfiles#waveterm --command waveterm
-```
-
-I wasn't able to get it building using the provided scripthaus scripts yet, but I'm also quite inexperienced in this area so that could be why. I'm currently using `buildGoModule` and `mkYarnPackage` instead, basing it off from a bunch of other electron and go packages on nixpkgs. I haven't carried across all the build flags from waveterm's provided scripthaus scripts though, and you might also see some vestigial code that I copied from other packages that don't apply for waveterm which I haven't cleaned up yet. If I have time I might give the scripthaus scripts another try.
-
-Some other remaining todos that I'm aware of include the desktop icon, getting it working on darwin, checking the AI features, checking that the package includes all the dependencies it needs at runtime, and fixing a failing test regarding command completions.
-
-Please feel free to continue working off from what I have if it helps, especially if I don't get back to this soon.
 
 ## Best Terminal Development Environment
 
@@ -40,29 +31,30 @@ Please feel free to continue working off from what I have if it helps, especiall
 * (2) [peaclock](https://github.com/octobanana/peaclock) - nice terminal clock
 * (1) [neovim](https://neovim.io/)
 * (1) [wezterm](https://github.com/wez/wezterm)
-   | (1) [kitty](...)
-   | (1) [alacritty](...)
-   | (5) [waveterm](...) - need to package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/))
-   | (4) [hyper](https://hyper.is/)
-   | (4) [tabby](https://github.com/eugeny/tabby)
-   | (4) [extraterm](https://github.com/sedwards2009/extraterm)
-   | (4) [contour](https://github.com/contour-terminal/contour)
+   | (2) [termonad](https://github.com/cdepillabout/termonad)
+   | (3) [alacritty](...)
+   | (3) [foot](https://codeberg.org/dnkl/foot/) (wayland-only)
+   | (3) [kitty](...)
    | (4) [blackbox](https://gitlab.gnome.org/raggesilver/blackbox)
+   | (4) [commas](https://github.com/CyanSalt/commas)
+   | (4) [contour](https://github.com/contour-terminal/contour)
+   | (4) [extraterm](https://github.com/sedwards2009/extraterm)
+   | (4) [ghostty](https://mitchellh.com/ghostty)
+   | (4) [hyper](https://hyper.is/)
+   | (4) [kermit-terminal](https://github.com/orhun/kermit)
+   | (4) [rxvt-unicode-unwrapped-emoji](https://search.nixos.org/packages?channel=23.11&from=0&size=50&sort=relevance&type=packages&query=urxvt)
+   | (4) [tabby](https://github.com/eugeny/tabby)
    | (4) [terminology](https://www.enlightenment.org/about-terminology)
    | (4) [tym](https://github.com/endaaman/tym)
-   | (2) [termonad](https://github.com/cdepillabout/termonad)
-   | (4) [rxvt-unicode-unwrapped-emoji](https://search.nixos.org/packages?channel=23.11&from=0&size=50&sort=relevance&type=packages&query=urxvt)
-   | (4) [commas](https://github.com/CyanSalt/commas)
-   | (4) [kermit-terminal](https://github.com/orhun/kermit)
-   | (3) [foot](https://codeberg.org/dnkl/foot/) (wayland-only)
    | (4) [wayst](https://github.com/91861/wayst) (wayland-only)
-     ( ) [st - NixOS Wiki](https://nixos.wiki/wiki/St%23Patching)
+   | (5) [waveterm](...) - need to package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)
+   | (6) [st - NixOS Wiki](https://nixos.wiki/wiki/St)
 * (4) [tdrop](https://github.com/noctuid/tdrop)
    | (4) [dropterm](https://github.com/Subbeh/dropterm)
 * (3) [electerm](https://electerm.html5beta.com/)
 * (1) [starship](https://github.com/starship/starship) -> [A Powerline configuration for Starship.rs](https://gist.github.com/notheotherben/92302a60f8599ba73f1c2840f3c6d455)
    | (2) [oh-my-posh](https://ohmyposh.dev/)
-   | ( ) [powerline/powerline](https://github.com/powerline/powerline) - provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+   | (4) [powerline/powerline](https://github.com/powerline/powerline) - provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 
 * (2) [xdg-utils](https://search.nixos.org/packages?channel=unstable&show=xdg-utils&from=0&size=50&sort=relevance&type=packages&query=xdg-open)
 * (2) [handlr-regex](https://github.com/Anomalocaridid/handlr-regex)
@@ -113,8 +105,8 @@ train models.
 
 ## Shell Completion
 
-* ( ) [inshellisense](https://github.com/microsoft/inshellisense)
-* ( ) [carapace](https://github.com/carapace-sh/carapace-bin)
+* (2) [inshellisense](https://github.com/microsoft/inshellisense)
+* (2) [carapace](https://github.com/carapace-sh/carapace-bin)
 
 ## Core Set - Misc
 
@@ -124,28 +116,26 @@ train models.
 
 ## Miscellaneous
 
-* ( ) [sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-* (5) [zui](https://github.com/brimdata/zui)
-* ( ) [undollar](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
-* ( ) [pick-color-picker](https://kryogenix.org/code/pick/)
+* (2) [sherlock $$$](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+* (4) [zed](https://search.nixos.org/packages?channel=23.11&from=0&size=50&sort=relevance&type=packages&query=zed) (+ [zui](https://github.com/brimdata/zui)) - [site](https://zed.brimdata.io/)
 
 ## Shell Scripting Utils
 
-* ( ) [ericfreese/rat: Compose shell commands to build interactive terminal applications](https://github.com/ericfreese/rat)
-* ( ) [beautysh](https://github.com/lovesegfault/beautysh)
-* ( ) [abathur/resholve: a shell resolver? :) (find and resolve shell script dependencies)](https://github.com/abathur/resholve)
+* (2) [shfmt](https://github.com/mvdan/sh)
+   |  (6) [beautysh](https://github.com/lovesegfault/beautysh)
+* (2) [resholve](https://github.com/abathur/resholve) (find and resolve shell script dependencies)
 
 ## Terminal Calculator and Spreadsheet
 
-* ( ) [eva](https://github.com/nerdypepper/eva)
-* ( ) [tz](https://github.com/oz/tz)
+* (2) [eva](https://github.com/nerdypepper/eva)
+   |  (6) [bc](https://www.gnu.org/software/bc/manual/html_mono/bc.html)
 * ( ) [sc-im](https://github.com/andmarti1424/sc-im)
 * ( ) [bcal](https://github.com/jarun/bcal)
 * ( ) [bitwise](https://github.com/mellowcandle/bitwise)
 * ( ) [cash-cli](https://github.com/xxczaki/cash-cli)
 * ( ) [units](https://manpage.me/?q=units)
 * ( ) [kalk](https://github.com/PaddiM8/kalk)
-* ( ) [mdlt](https://github.com/metadelta/mdlt)
+* (5.1) [mdlt](https://github.com/metadelta/mdlt)
 * ( ) [nota](https://github.com/pouyakary/Nota)
 * ( ) [pdd](https://github.com/jarun/pdd)
 * ( ) [programmer-calculator](https://github.com/alt-romes/programmer-calculator)
@@ -158,10 +148,7 @@ train models.
 * (2) [qalculate](https://github.com/Qalculate/libqalculate)
 * ( ) [bitwise](https://github.com/mellowcandle/bitwise)
 * ( ) [dtool](https://github.com/guoxbin/dtool)
-* ( ) [bc](https://www.gnu.org/software/bc/manual/html_mono/bc.html)
-* ( ) [sc-im](https://github.com/andmarti1424/sc-im)
-* ( ) [andmarti1424/sc-im: sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)
-* ( ) [tabview](https://github.com/TabViewer/tabview) - Python curses command line CSV and tabular data viewer.
+* (2) [sc-im](https://github.com/andmarti1424/sc-im) [andmarti1424/sc-im: sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)
 * ( ) [texel](https://github.com/Lauriat/texel) - Command line interface for reading spreadsheets inside terminal.
 * ( ) [tv](https://github.com/alexhallam/tv) - Cross-platform CSV pretty printer made to maximize viewer enjoyment.
 
@@ -173,17 +160,7 @@ train models.
 * ( ) [pubs](https://github.com/pubs/pubs)
 * ( ) [bibman](https://codeberg.org/KMIJPH/bibman)
 
-## CLI Wrappers for specific solutions
-
-* ( ) [proton bridge CLI](https://proton.me/support/bridge-cli-guide)
-* -> see projects.md for clockodo and jira
-* {cli library genesis api} [...](https://search.nixos.org/packages?channel%3D23.11%26show%3Dlibgen-cli%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dlibgen)
-* ( ) [jira-cli-go](https://search.nixos.org/packages?channel=23.11&from=0&size=50&sort=relevance&type=packages&query=jira-cli)
-   |  ( ) [jira-cli](https://github.com/ankitpokhrel/jira-cli)
-* ( ) [doclt](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
-* ( ) [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
-
-## Site Interfaces in Terminal
+## Site Interfaces in Terminal CCC
 
 * (6) [tuir](https://gitlab.com/ajak/tuir)
 * (2) [reddio](https://gitlab.com/aaronNG/reddio) - A command-line interface for Reddit written in POSIX sh.
@@ -194,25 +171,35 @@ train models.
    |  ( ) [hackernews-TUI](https://github.com/aome510/hackernews-TUI) personal website thread
 * ( ) [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
 * ( ) [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line tool
-* ( ) [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
 * ( ) [wikit](https://github.com/KorySchneider/wikit) - A command line program for getting Wikipedia summaries easily.
 * ( ) [medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
+
+### CLI Wrappers for specific solutions
+
+-> see projects.md for clockodo and jira (2)
+
+* (2) [proton bridge CLI](https://proton.me/support/bridge-cli-guide)
+* (2) [libgen-cli](https://search.nixos.org/packages?channel%3D23.11%26show%3Dlibgen-cli%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dlibgen)
+* (2) [jira-cli-go](https://search.nixos.org/packages?channel=23.11&from=0&size=50&sort=relevance&type=packages&query=jira-cli) -> see also python311Packages.jira
+   |  (6) [go-jira](https://github.com/go-jira/jira)
+* (4.5) [doclt](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
+* (4.5) [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
 
 ## Multiplexer
 
 * (2) [zellij](https://github.com/zellij-org/zellij)
    | (2) [tmux](https://github.com/tmux/tmux)
-* (4) [tmate -](https://github.com/tmate-io/tmate) - A fork of tmux that allows to share the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues. - [manpages.org/tmate](https://manpages.org/tmate)
-* (5) [procmux -](https://github.com/napisani/procmux) - A TUI utility for running multiple commands in parallel in easily switchable terminals.
+* (4) [tmate](https://github.com/tmate-io/tmate) - A fork of tmux that allows to share the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues. - [manpages.org/tmate](https://manpages.org/tmate)
+* (5) [procmux](https://github.com/napisani/procmux) - A TUI utility for running multiple commands in parallel in easily switchable terminals.
 * (2) [mprocs](https://github.com/pvolok/mprocs)- similar to procmux
-* (6) [dtach -](https://github.com/crigler/dtach) - A program written in C that emulates the detach feature of screen.
+* (6) [dtach](https://github.com/crigler/dtach) - A program written in C that emulates the detach feature of screen.
 * (4) [screen](https://www.gnu.org/software/screen/) - GNU terminal multiplexer - Terminal multiplexer that split a physical terminal between several processes, typically interactive shells. - just use a bit to have used it
-* (4) [mtm -](https://github.com/deadpixi/mtm) - Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer. - just try
+* (4) [mtm](https://github.com/deadpixi/mtm) - Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer. - just try
 
 ## Terminal Sharing
 
 * ( ) [sshx](https://github.com/ekzhang/sshx)
-* (5) [warp -](https://github.com/spolu/warp) - Secure and simple terminal sharing. - fork and update?
+* (5) [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing. - fork and update?
 * ( ) [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
 
 ## Shell
@@ -241,48 +228,48 @@ train models.
 
 * ( ) [organist](https://github.com/nickel-lang/organist) [blog](https://www.tweag.io/blog/2023-11-16-announcing-organist/)
 * ( ) [devshell](https://github.com/numtide/devshell)
-   |  [devenv](https://devenv.sh/)
-   |  [devbox](https://github.com/jetpack-io/devbox)
-   |  [lorri](https://github.com/nix-community/lorri)
-   |  [lorelei](https://github.com/shajra/direnv-nix-lorelei)
-   |  [mise](https://github.com/jdx/mise)
+   | ( ) [devenv](https://devenv.sh/)
+   | ( ) [devbox](https://github.com/jetpack-io/devbox)
+   | ( ) [lorri](https://github.com/nix-community/lorri)
+   | ( ) [lorelei](https://github.com/shajra/direnv-nix-lorelei)
+   | ( ) [mise](https://github.com/jdx/mise)
 * (2.5)
 * ( ) [nix-direnv](https://github.com/nix-community/nix-direnv)
-   |  [direnv](https://direnv.net/) - see also [direnv standard library](https://direnv.net/man/direnv-stdlib.1.html#codeuse-nix-code)
+   | ( ) [direnv](https://direnv.net/) - see also [direnv standard library](https://direnv.net/man/direnv-stdlib.1.html#codeuse-nix-code)
 * (5) [nixify](https://github.com/kampka/nixify)
 * (2) [wget](...)
 * (2) [curl](...)
 * (1) [kanata](https://github.com/jtroo/kanata)
-   |  [kmonad](https://github.com/kmonad/kmonad)
-   |  [keyd](https://github.com/rvaiya/keyd)
-   |  [hawck](https://github.com/snyball/Hawck)
-   |  [xremap](https://github.com/k0kubun/xremap)
-   |  [ktrl](https://github.com/ItayGarin/ktrl) (?)
+   | ( ) [kmonad](https://github.com/kmonad/kmonad)
+   | ( ) [keyd](https://github.com/rvaiya/keyd)
+   | ( ) [hawck](https://github.com/snyball/Hawck)
+   | ( ) [xremap](https://github.com/k0kubun/xremap)
+   | ( ) [ktrl](https://github.com/ItayGarin/ktrl) (?)
 * (2) [ ] [input-remapper](https://github.com/sezanzeb/input-remapper)
 * (2) [espanso](https://espanso.org/docs/get-started/)
 * (0) [nix](https://github.com/NixOS/nix)
 * (1) [home-manager](https://github.com/nix-community/home-manager)
 * (1) [hyprland](https://github.com/hyprwm/Hyprland) - nvidia info [here](https://wiki.hyprland.org/Nvidia/)
-   |  [sway](...) - nvidia info [here](https://github.com/swaywm/sway/wiki)
-   |  [riverwm](...)
+   | ( ) [sway](...) - nvidia info [here](https://github.com/swaywm/sway/wiki)
+   | ( ) [riverwm](...)
 * (2) [waybar](...)
-   |  [eww](...)
-   |  [polybar](...)
+   | ( ) [eww](...)
+   | ( ) [polybar](...)
 * (2) [rofi-wayland](...)
-   |  [wofi](...)
+   | ( ) [wofi](...)
 * (2) [swww](...)
 * (2) [mako](...)
-   |  [dunst](...)
+   | ( ) [dunst](...)
 * (2) [libnotify](...)
 * (2) [networkmanagerapplet](...)
 * (2) [et](https://github.com/oxzi/et)
 * (2) [caffeine-ng](https://codeberg.org/WhyNotHugo/caffeine-ng)
 * (2.5)
 * ( ) [greenclip](https://github.com/erebe/greenclip)
-   |  [Clipboard](https://github.com/Slackadays/Clipboard)
-   |  [CopyQ](https://github.com/hluk/CopyQ)
-   |  [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
-   |  [yank](https://github.com/mptre/yank)
+   | ( ) [Clipboard](https://github.com/Slackadays/Clipboard)
+   | ( ) [CopyQ](https://github.com/hluk/CopyQ)
+   | ( ) [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
+   | ( ) [yank](https://github.com/mptre/yank)
 * (2.5)
 * ( ) [kanshi](https://sr.ht/~emersion/kanshi/) ([autorandr](...) for x)
 * (6) [?](...) ([xrandr](...) for x)
@@ -306,31 +293,21 @@ train models.
   [copier](https://github.com/copier-org/copier)
    |  [yeoman](https://yeoman.io/)
    |  [kickstart](https://github.com/Keats/kickstart)
-   | [cookiecutter](https://github.com/audreyr/cookiecutter)
-   | [proji](https://github.com/nikoksr/proji) (in Go, old)
-   | [boilr](https://github.com/tmrts/boilr) (in Go, even older)
-   | [nunu](https://github.com/go-nunu/nunu) - CLI for building Go applications
-
-## Build Tools
-
-* ( ) [cmake](https://github.com/Kitware/CMake)
-* ( ) [maven](...)
-* ( ) [gradle](...)
-* ( ) [ninja](...)
-* ( ) [bazel](https://github.com/bazelbuild/bazel)
-* ( ) [scons](https://github.com/SCons/scons) (even supports LaTeX)
-* ( ) [xmake](https://github.com/xmake-io/xmake)
-* ( ) [pants](https://www.pantsbuild.org/)
+   | ( ) [cookiecutter](https://github.com/audreyr/cookiecutter)
+   | ( ) [proji](https://github.com/nikoksr/proji) (in Go, old)
+   | ( ) [boilr](https://github.com/tmrts/boilr) (in Go, even older)
+   | ( ) [nunu](https://github.com/go-nunu/nunu) - CLI for building Go applications
 
 ### Task Scripting
 
 * (2) [makesure](https://github.com/xonixx/makesure)
-*  [make](https://www.gnu.org/software/make/)
-* (2)  [just](https://github.com/casey/just)
-* ( ) [taskfile](https://taskfile.dev/)
-* ( ) [fmake](https://github.com/bharatvaj/fmake)
-*  [mxflow-cli](https://github.com/metaory/mxflow-cli)
-* ( ) [projectdo](https://ithub.com/paldepind/projectdo) Context-aware single-letter project commands to speed up your terminal workflow.
+* (2) [make](https://www.gnu.org/software/make/) 
+* (2) [just](https://github.com/casey/just) 
+   | (2.5) [taskfile](https://taskfile.dev/)
+   | (3.5) [fmake](https://github.com/bharatvaj/fmake)
+* (2) [mk](https://github.com/pycontribs/mk)
+* (2.5) [mxflow-cli](https://github.com/metaory/mxflow-cli) 
+* (2) [projectdo](https://ithub.com/paldepind/projectdo) Context-aware single-letter project commands to speed up your terminal workflow.
 
 ## Command Running and Automation
 
@@ -344,25 +321,25 @@ train models.
 
 ## Miscellaneous Coding Utils
 
-*  [autocomplete](https://github.com/withfig/autocomplete)
-*  [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyzer for annotated TODO comments.
-*  [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code. - but necessary?
+* (4.5) [autocomplete](https://github.com/withfig/autocomplete) 
+* (2) [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyzer for annotated TODO comments. 
+* (5.1) [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code. - but necessary? 
 
 ## License
 
 * ( ) [license-up](https://github.com/nikitavoloboev/license-up)
-   |  [mklicense](https://github.com/cezaraugusto/mklicense)
-   |  [legit](https://github.com/captainsafia/legit)
-   |  [licins](https://github.com/dogoncouch/licins)
-   |  [upnup](https://github.com/tomit4/upnup)
+   | ( ) [mklicense](https://github.com/cezaraugusto/mklicense)
+   | ( ) [legit](https://github.com/captainsafia/legit)
+   | ( ) [licins](https://github.com/dogoncouch/licins)
+   | ( ) [upnup](https://github.com/tomit4/upnup)
 * ( ) [choosealicense](https://github.com/lord63/choosealicense-cli)
 
 ## Changelog and Realeases
 
 * ( ) [semantic-release](https://github.com/semantic-release/semantic-release)
-   |  [release-it](https://github.com/webpro/release-it)
+   | ( ) [release-it](https://github.com/webpro/release-it)
 * ( ) [clog-cli](https://github.com/clog-tool/clog-cli)
-   |  [release](https://github.com/vercel/release)
+   | ( ) [release](https://github.com/vercel/release)
 * ( ) [unleash](https://github.com/Unleash/unleash)
 
 ## Semantic Versioning
@@ -374,62 +351,62 @@ train models.
 
 * ( ) [espanso.org/](https://espanso.org/)
 * ( ) [tldr.sh/](https://tldr.sh/)  → see clients, web apps and tools
-* ( ) [out-of-cheese-error/the-way-](https://github.com/out-of-cheese-error/the-way-)
-* ( ) [snipkit-](https://github.com/lemoony/snipkit-)looks really look, interesting concept  (Go)
-* ( ) [qc](https://github.com/qownnotes/qc)looks great, need to try
-* ( ) [pet-](https://github.com/knqyf263/pet-) need to compare with the-way
-* ( ) [tldr-sh-client -](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages → move to qol
+* ( ) [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way)
+* ( ) [snipkit](https://github.com/lemoony/snipkit)looks really look, interesting concept  (Go)
+* ( ) [qc](https://github.com/qownnotes/qc) looks great, need to try
+* ( ) [pet](https://github.com/knqyf263/pet) need to compare with the-way
+* ( ) [tldr-sh-client](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages → move to qol
 * ( ) [snips](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code. Node
 
 ## Readme
 
 * ( ) [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
-   |  [README-Generator](https://github.com/markmcdnyu/README-Generator)
-   |  [readme-generator](https://github.com/jfisher396/readme-generator)
+   | ( ) [README-Generator](https://github.com/markmcdnyu/README-Generator)
+   | ( ) [readme-generator](https://github.com/jfisher396/readme-generator)
 * ( ) [profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 ## Formatting
 
-* (2)  [treefmt](https://github.com/numtide/treefmt)
-* (2)  [treefmt-nix](https://github.com/numtide/treefmt-nix)
-* (4)  [uncrustify](https://github.com/uncrustify/uncrustify/)
+* (2) [treefmt](https://github.com/numtide/treefmt) 
+* (2) [treefmt-nix](https://github.com/numtide/treefmt-nix) 
+* (4) [uncrustify](https://github.com/uncrustify/uncrustify/) 
 
 ## Moving and Renaming
 
 * ( ) [rnr](https://github.com/ismaelgv/rnr)
-   |  [f2](https://github.com/ayoisaiah/f2)
-   |  [nomino](https://github.com/yaa110/nomino)
-   |  [tempren](https://github.com/idle-code/tempren)
-   |  [node-rename-cli](https://github.com/jhotmann/node-rename-cli)
-   |  [repren](https://github.com/jlevy/repren)
-   |  [rename](https://github.com/pstray/rename)
+   | ( ) [f2](https://github.com/ayoisaiah/f2)
+   | ( ) [nomino](https://github.com/yaa110/nomino)
+   | ( ) [tempren](https://github.com/idle-code/tempren)
+   | ( ) [node-rename-cli](https://github.com/jhotmann/node-rename-cli)
+   | ( ) [repren](https://github.com/jlevy/repren)
+   | ( ) [rename](https://github.com/pstray/rename)
 * ( ) [moove](https://github.com/urin/moove)
-   |  [mmv-c](https://github.com/mcauley-penney/mmv-c)
-   |  [mmv](https://github.com/itchyny/mmv)
-   |  [massren](https://github.com/laurent22/massren)
+   | ( ) [mmv-c](https://github.com/mcauley-penney/mmv-c)
+   | ( ) [mmv](https://github.com/itchyny/mmv)
+   | ( ) [massren](https://github.com/laurent22/massren)
 
 ## Other Command-Line Tools
 
 * (2) [vale](https://vale.sh/) - use as an LSP for prose in nvim
 * (2) [alex](https://github.com/wooorm/alex)
 * (4) [pick](https://github.com/mptre/pick)
-   |  [choose](https://github.com/jagprog5/choose)
+   | ( ) [choose](https://github.com/jagprog5/choose)
    | (6) [shmenu](https://github.com/duclos-cavalcanti/shmenu)
 * (2.5) [atuin](https://github.com/atuinsh/atuin) -> [shell history article](https://martinheinz.dev/blog/110)
-   |  [hishtory](https://github.com/ddworken/hishtory)
-   |  [muc](https://github.com/nate-sys/muc)
-   |  [bevel](https://github.com/NorfairKing/bevel) (Haskell!)
-   |  [resh](https://github.com/curusarn/resh)
-   |  [bashhub-client](https://github.com/rcaloras/bashhub-client)
-   |  [mcfly](https://github.com/cantino/mcfly) + [mcfly-fzf](https://github.com/bnprks/mcfly-fzf)
-   |  [hstr](https://github.com/dvorka/hstr)
+   | ( ) [hishtory](https://github.com/ddworken/hishtory)
+   | ( ) [muc](https://github.com/nate-sys/muc)
+   | ( ) [bevel](https://github.com/NorfairKing/bevel) (Haskell!)
+   | ( ) [resh](https://github.com/curusarn/resh)
+   | ( ) [bashhub-client](https://github.com/rcaloras/bashhub-client)
+   | ( ) [mcfly](https://github.com/cantino/mcfly) + [mcfly-fzf](https://github.com/bnprks/mcfly-fzf)
+   | ( ) [hstr](https://github.com/dvorka/hstr)
 * ( ) [file](https://search.nixos.org/packages?channel=23.11&show=file&from=0&size=50&sort=relevance&type=packages&query=file+type)
-   |  [filetype](https://search.nixos.org/packages?channel=23.11&show=python311Packages.filetype&from=0&size=50&sort=relevance&type=packages&query=file+type)
+   | ( ) [filetype](https://search.nixos.org/packages?channel=23.11&show=python311Packages.filetype&from=0&size=50&sort=relevance&type=packages&query=file+type)
 
 ## Code Navigation
 
 * ( ) [ctags](https://github.com/universal-ctags/ctags)
-   |  [cscope](http://cscope.sourceforge.net/)
+   | ( ) [cscope](http://cscope.sourceforge.net/)
 
 ## Core Command-Line Tools
 
@@ -441,12 +418,12 @@ train models.
 * (2) [xc](https://github.com/joerdav/xc)
 * (2)  [make](...)
 * (1)   [eza](https://github.com/eza-community/eza)
-   |  [lsd](https://github.com/lsd-rs/lsd)
-   |  [colorls](https://github.com/athityakumar/colorls)
-   |  [nat](https://github.com/willdoescode/nat)
+   | ( ) [lsd](https://github.com/lsd-rs/lsd)
+   | ( ) [colorls](https://github.com/athityakumar/colorls)
+   | ( ) [nat](https://github.com/willdoescode/nat)
 * (2.5)  [tre](https://github.com/dduan/tre)
    |  [tree](https://gitlab.com/OldManProgrammer/unix-tree)
-   |  [termtree](https://github.com/rust-cli/termtree)
+   | ( ) [termtree](https://github.com/rust-cli/termtree)
 * (2) [as-tree](https://github.com/jez/as-tree)
 * (2) [ictree](https://github.com/NikitaIvanovV/ictree)
 * (5) [ckit](https://github.com/fpgmaas/ckit)
@@ -459,11 +436,11 @@ train models.
 * (5) [ad](https://github.com/tanrax/terminal-AdvancedNewFile)
 * (2.5)
 * ( ) [rm-improved](https://github.com/nivekuil/rip) (rip)
-   |  [trashy](https://github.com/oberblastmeister/trashy)
-   |  [trash-cli](https://github.com/andreafrancia/trash-cli)
-   |  [t](https://github.com/adamheins/t) (wraps trash-cli)
-   |  [safe-rm](https://code.launchpad.net/safe-rm)
-   |  [brash](https://github.com/zakariagatter/brash)
+   | ( ) [trashy](https://github.com/oberblastmeister/trashy)
+   | ( ) [trash-cli](https://github.com/andreafrancia/trash-cli)
+   | ( ) [t](https://github.com/adamheins/t) (wraps trash-cli)
+   | ( ) [safe-rm](https://code.launchpad.net/safe-rm)
+   | ( ) [brash](https://github.com/zakariagatter/brash)
    |
 * (5)[RecoverPy](https://github.com/PabloLec/RecoverPy)
 * (2) [rmw](https://github.com/theimpossibleastronaut/rmw/)
@@ -477,12 +454,12 @@ train models.
    | (5) [cope](https://github.com/lotrfan/cope)
 * (1) 󰄬 [broot](https://github.com/Canop/broot)
 * (1) 󰄬 [zoxide](https://github.com/ajeetdsouza/zoxide) - [zoxide has forever improved the way I navigate in the terminal. - YouTube](https://www.youtube.com/watch?v%3DaghxkpyRVDY)
-   |  [z.lua](https://github.com/skywind3000/z.lua)
-   |  [z](https://github.com/rupa/z)
+   | ( ) [z.lua](https://github.com/skywind3000/z.lua)
+   | ( ) [z](https://github.com/rupa/z)
 * (2) [jump](https://github.com/gsamokovarov/jump)
 * (5) [commacd](https://github.com/shyiko/commacd)
 * (5) [up](https://github.com/shannonmoeller/up)
-   |  [bd](https://github.com/vigneshwaranr/bd)
+   | ( ) [bd](https://github.com/vigneshwaranr/bd)
 * ( ) [enhancd](https://github.com/babarot/enhancd)
 * ( ) [PathPicker](https://github.com/Jasha10/PathPicker)
 * ( ) [walk](https://github.com/antonmedv/walk)
@@ -495,7 +472,7 @@ train models.
 * (5) [mimetype](https://github.com/gabriel-vasile/mimetype)
 * ( ) [chars](https://github.com/boinkor-net/chars)
 * ( ) [hyperfine](https://github.com/sharkdp/hyperfine)
-   |  [temci](https://github.com/parttimenerd/temci)
+   | ( ) [temci](https://github.com/parttimenerd/temci)
 * ( ) [procs](https://github.com/dalance/procs)
 * (2) [topgrade](https://github.com/topgrade-rs/topgrade)
 * (2) [ramfetch](https://codeberg.org/jahway603/ramfetch)
@@ -503,7 +480,7 @@ train models.
 * ( ) [erdtree](https://github.com/solidiquis/erdtree)
 * ( ) [rng](https://github.com/nickolasburr/rng)
 * (2) [xcp](https://github.com/tarka/xcp)
-   |  [pycp](https://github.com/your-tools/pycp)
+   | ( ) [pycp](https://github.com/your-tools/pycp)
 * (2) [procs](https://github.com/dalance/procs)
 * (2) [parallel](https://git.savannah.gnu.org/cgit/parallel.git)
 * (3) [crunkurrent](https://github.com/samuela/crunkurrent)
@@ -512,16 +489,16 @@ train models.
 * (2) [await](https://github.com/slavaGanzin/await)
 * (2.5)
 * ( ) [ikill (could use updating)](https://github.com/pombadev/ikill)
-   |  [fkill-cli](https://github.com/sindresorhus/fkill-cli)
+   | ( ) [fkill-cli](https://github.com/sindresorhus/fkill-cli)
    |
 * ( )  [pazi](https://github.com/euank/pazi)
-   |  [ff](https://github.com/akymos/ff)
-   |  [smartcd](https://github.com/CodesOfRishi/smartcd)
-   |  [lazy-cd](https://github.com/pedramamini/lazy-cd)
-   |  [pm](https://github.com/Angelmmiguel/pm)
-   |  [fastdiract](https://github.com/dp12/fastdiract)
-   |  [goto](https://github.com/iridakos/goto)
-   |  [h](https://github.com/zimbatm/h)
+   | ( ) [ff](https://github.com/akymos/ff)
+   | ( ) [smartcd](https://github.com/CodesOfRishi/smartcd)
+   | ( ) [lazy-cd](https://github.com/pedramamini/lazy-cd)
+   | ( ) [pm](https://github.com/Angelmmiguel/pm)
+   | ( ) [fastdiract](https://github.com/dp12/fastdiract)
+   | ( ) [goto](https://github.com/iridakos/goto)
+   | ( ) [h](https://github.com/zimbatm/h)
 * ( ) [peco](https://github.com/peco/peco)
 * (2) [conan](https://github.com/mirage/conan)
 
@@ -541,8 +518,8 @@ train models.
 * (2) [fzf](https://github.com/junegunn/fzf)
    | (2) [zf](https://github.com/natecraddock/zf)
    | (2) [skim](https://github.com/lotabout/skim)
-   |  [fzy](https://github.com/jhawthorn/fzy)
-   |  [luneta](https://github.com/fbeline/luneta) (written in D!)
+   | ( ) [fzy](https://github.com/jhawthorn/fzy)
+   | ( ) [luneta](https://github.com/fbeline/luneta) (written in D!)
    | ( ) [fzf-lua](https://github.com/ibhagwan/fzf-lua)
 * (6) [fz.sh](https://github.com/mrjohannchang/fz.sh) (for zsh)
 * (2) [ack](https://beyondgrep.com/)
@@ -551,7 +528,7 @@ train models.
    | (6) [sift](https://github.com/svent/sift)
 * (2) [vgrep](https://github.com/vrothberg/vgrep)
 * (2) [fd](https://github.com/sharkdp/fd)
-   |  [lf.sh](https://github.com/suewonjp/lf.sh)
+   | ( ) [lf.sh](https://github.com/suewonjp/lf.sh)
 * (2) [ag](https://github.com/ggreer/the_silver_searcher)
 * (2) [rg](https://github.com/BurntSushi/ripgrep)
 * (2) [rga](https://github.com/phiresky/ripgrep-all)
@@ -564,11 +541,11 @@ train models.
 ### Data Wrangling
 
 * (2) [pandoc](https://pandoc.org/) + ( ) [pandoc extras](https://pandoc.org/extras.html) + ( ) [pandoc-ext/info](https://github.com/pandoc-ext/info)
-   |  [ebook-converter](https://github.com/gryf/ebook-converter)
+   | ( ) [ebook-converter](https://github.com/gryf/ebook-converter)
 * (2) [teip](https://github.com/greymd/teip)
 * (2) [grex](https://github.com/pemistahl/grex)
 * (2) [exrex](https://github.com/asciimoo/exrex)
-   |  [randexp.js](https://github.com/fent/randexp.js)
+   | ( ) [randexp.js](https://github.com/fent/randexp.js)
 * (2) [difftastic](https://github.com/Wilfred/difftastic)
 * ( ) [huniq](https://github.com/koraa/huniq)
 * ( ) [jid](https://github.com/simeji/jid)
@@ -576,11 +553,11 @@ train models.
 * ( ) [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli)
 * (2) [sd](https://github.com/chmln/sd)
    | (2) [sad](https://github.com/ms-jpq/sad)
-   |  [ruplacer](https://github.com/your-tools/ruplacer)
-   |  [amber](https://github.com/dalance/amber)
+   | ( ) [ruplacer](https://github.com/your-tools/ruplacer)
+   | ( ) [amber](https://github.com/dalance/amber)
 * ( ) [tuc](https://github.com/riquito/tuc)
-   |  [choose](https://github.com/theryangeary/choose)
-   |  [hck](https://github.com/sstadick/hck)
+   | ( ) [choose](https://github.com/theryangeary/choose)
+   | ( ) [hck](https://github.com/sstadick/hck)
 * ( ) [ramda-cli](https://github.com/raine/ramda-cli)
 * ( ) [datasetG_](https://github.com/radi-cho/datasetGPT)
 * ( ) [roapi](https://github.com/roapi/roapi)
@@ -607,8 +584,8 @@ train models.
 * (standard) [sembr](https://sembr.org/)
 * (5) [frogmouth](https://github.com/Textualize/frogmouth)
    | (2) [glow](https://github.com/charmbracelet/glow)
-   |  [mdcat](https://github.com/swsnr/mdcat)
-   |  [tmv](https://github.com/axiros/terminal_markdown_viewer)
+   | ( ) [mdcat](https://github.com/swsnr/mdcat)
+   | ( ) [tmv](https://github.com/axiros/terminal_markdown_viewer)
 * (5) [mdt](https://github.com/robolab-pavia/mdt)
 * ( ) [grip](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 * ( ) [lowdown](https://github.com/kristapsdz/lowdown) - Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)
@@ -640,10 +617,10 @@ train models.
 * ( ) [jql](https://github.com/yamafaktory/jql)
 * ( ) [jqp](https://github.com/noahgorstein/jqp)
 * (2) [jc](https://github.com/kellyjonbrazil/jc)
-   |  [jo](https://github.com/jpmens/jo)
+   | ( ) [jo](https://github.com/jpmens/jo)
 * ( ) [crosshash](https://github.com/httpie/crosshash)
 * (2) [fx](https://github.com/antonmedv/fx)
-   |  [jless](https://github.com/PaulJuliusMartinez/jless)
+   | ( ) [jless](https://github.com/PaulJuliusMartinez/jless)
 * (2) [gron](https://github.com/tomnomnom/gron)
 * (2) [jj](https://github.com/anki-code/jj)
 * (5) [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli)
@@ -674,7 +651,7 @@ train models.
 * (2) [taplo](https://taplo.tamasfe.dev/)
 * (5) [toml-cl](https://github.com/gnprice/toml-cli)
 * ( ) [current fork](https://github.com/chevdor/toml-cli) (Rust)
-   |  [toml-cli](https://github.com/mrijken/toml-cli) (Python)
+   | ( ) [toml-cli](https://github.com/mrijken/toml-cli) (Python)
 * (2) [toml2nix](https://crates.io/crates/toml2nix)
 * (2) [toml2json](https://github.com/woodruffw/toml2json)
 
@@ -736,9 +713,9 @@ train models.
 * (2) [navi](https://github.com/denisidoro/navi)
 * (2) [thefuck](https://github.com/nvbn/thefuck)
 * (2) [tealdeer](https://github.com/dbrgn/tealdeer)
-   |  [tlrc](https://github.com/tldr-pages/tlrc)
-   |  [tldr-node-client](https://github.com/tldr-pages/tldr-node-client)
-   |  [tinytldr](https://github.com/kovmir/tinytldr)
+   | ( ) [tlrc](https://github.com/tldr-pages/tlrc)
+   | ( ) [tldr-node-client](https://github.com/tldr-pages/tldr-node-client)
+   | ( ) [tinytldr](https://github.com/kovmir/tinytldr)
 * (2) [hors](https://github.com/WindSoilder/hors)
    | (6) [howdoi](https://github.com/gleitz/howdoi)
    | (6) [how2](https://github.com/santinic/how2)
@@ -754,17 +731,17 @@ train models.
 
 * -> [rss video](https://www.youtube.com/watch?v=_7LTwnAaQ3k) rss
 * (2.5) [newsboat](https://github.com/newsboat/newsboat)
-   | [tt-rss](https://tt-rss.org/)
-   | [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey)
-   | [NewsFlash](https://apps.gnome.org/app/com.gitlab.newsflash/)
-   | [fluent-reader](https://hyliu.me/fluent-reader/)
-   | [goread](https://github.com/TypicalAM/goread) TUI feed reader
-   | [Akregator](https://apps.kde.org/akregator/)
-   | [rssguard](https://github.com/martinrotter/rssguard)
-   | [rss-cli](https://github.com/Clortox/rss-cli)
-   | [rreader](https://github.com/rainygirl/rreader)
-   | [canto-curses](https://github.com/themoken/canto-curses)
-   | [nom](https://github.com/guyfedwards/nom)
+   | ( ) [tt-rss](https://tt-rss.org/)
+   | ( ) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey)
+   | ( ) [NewsFlash](https://apps.gnome.org/app/com.gitlab.newsflash/)
+   | ( ) [fluent-reader](https://hyliu.me/fluent-reader/)
+   | ( ) [goread](https://github.com/TypicalAM/goread) TUI feed reader
+   | ( ) [Akregator](https://apps.kde.org/akregator/)
+   | ( ) [rssguard](https://github.com/martinrotter/rssguard)
+   | ( ) [rss-cli](https://github.com/Clortox/rss-cli)
+   | ( ) [rreader](https://github.com/rainygirl/rreader)
+   | ( ) [canto-curses](https://github.com/themoken/canto-curses)
+   | ( ) [nom](https://github.com/guyfedwards/nom)
 
 ## Luxury, Fun
 
@@ -772,9 +749,9 @@ train models.
 * ( ) [snake](https://github.com/ormai/snake)
 * (2) [display3d](https://github.com/redpenguinyt/display3d)
 * (2)  [pipes-rs](https://github.com/lhvy/pipes-rs)
-   |  [Pipeseroni](https://pipeseroni.github.io/)
-   |  [pipes.sh](http://pipes.sh/)
-   |  [pipes.js](https://github.com/Oman395/pipes.js)
+   | ( ) [Pipeseroni](https://pipeseroni.github.io/)
+   | ( ) [pipes.sh](http://pipes.sh/)
+   | ( ) [pipes.js](https://github.com/Oman395/pipes.js)
 * (2)  [dna_bash](https://github.com/clyde80/dna_bash)
 * (2)  [cmatrix](https://github.com/abishekvashok/cmatrix)
 * (2)  [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000)
@@ -869,10 +846,10 @@ train models.
 * ( ) [rare](https://github.com/zix99/rare)
 * ( ) [gnuplot](http://www.gnuplot.info/)
 * ( ) [spark](https://github.com/holman/spark)
-   | [sprak.fish](https://github.com/jorgebucaran/spark.fish)
-   | [sparkly-cli](https://github.com/sindresorhus/sparkly-cli)
+   | ( ) [sprak.fish](https://github.com/jorgebucaran/spark.fish)
+   | ( ) [sparkly-cli](https://github.com/sindresorhus/sparkly-cli)
 * ( ) [blessed-terminal](https://github.com/georgi-l95/blessed-terminal)
-   | [blessed-contrib](https://github.com/dzxt/blessed-contrib)
+   | ( ) [blessed-contrib](https://github.com/dzxt/blessed-contrib)
 * ( ) [graphviz](https://graphviz.org/)
 * ( ) [plotext](https://github.com/piccolomo/plotext)
 * ( ) [plotille](https://github.com/tammoippen/plotille)
@@ -923,8 +900,8 @@ train models.
 
 ## Logs
 
-* ( ) [multitail -](https://github.com/folkertvanheusden/multitail) - A command to open multiple log files in a single terminal window and monitor them in real-time.
-* ( ) [logdissect/ -](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE)) - fork, update, and extend!
+* ( ) [multitail](https://github.com/folkertvanheusden/multitail) - A command to open multiple log files in a single terminal window and monitor them in real-time.
+* ( ) [logdissect/](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE)) - fork, update, and extend!
 * ( ) [lnav](https://github.com/tstack/lnav)- [The Logfile Navigator](https://github.com/tstack/lnav) - An advanced and colorful log file viewer with TUI interface.
 
 ## Code Modeling and Visualization
@@ -942,10 +919,10 @@ train models.
 ## Cleanup and Organizing (Terminal)
 
 * (2) [xdg-ninja](...) (Haskell!) [cleaning up $HOME](https://www.youtube.com/watch?v%3DjK7xIVn-yI8%26t%3D4s) → use xdg-ninja, also create a new home directory
-   |  [doron-cohen/antidot](https://github.com/doron-cohen/antidot) clean up HOME
-   |  [rmlint](https://rmlint.readthedocs.io/)
+   | ( ) [doron-cohen/antidot](https://github.com/doron-cohen/antidot) clean up HOME
+   | ( ) [rmlint](https://rmlint.readthedocs.io/)
 * (2) [organize-rt](https://gitlab.com/simonsan/organize-rt)
-   |  [organize-cli](https://github.com/ManrajGrover/organize-cli)
+   | ( ) [organize-cli](https://github.com/ManrajGrover/organize-cli)
 * (5.5) [classifier](https://github.com/bhrigu123/classifier)
    |  (5.5) [organizer](https://gitlab.gnome.org/aviwad/organizer)
 * (2) [backdown](https://github.com/Canop/backdown)
@@ -988,17 +965,18 @@ train models.
 
 ### Clock
 
-* ( ) [cliclock](https://github.com/nbyouri/cliclock)
-* ( ) [clock scripts](...)
-* ( ) [tty-clock](https://github.com/xorg62/tty-clock)
-* ( ) [tock](https://github.com/nwtnni/tock)
+-> see "To Work On"
+
+* (2) [tock](https://github.com/nwtnni/tock)
+
+#### Special Clock
+
+* (2) [tz](https://github.com/oz/tz)
 
 ### Binary / Hex
 
-* ( ) [binary-clock](https://github.com/tom-on-the-internet/binary-clock)
-* ( ) [bash clock](https://briancaffey.github.io/2017/10/31/a-binary-clock-written-in-bash.html/)
-* ( ) [binclock-6bits](https://github.com/teegre/binclock-6bits)
-* ( ) [Binary Clock](https://github.com/tom-on-the-internet/binary-clock) - Displays a clock where numbers are represented with blue and gray dots with binary encoding.
+* (2.5) [binary-clock](https://github.com/tom-on-the-internet/binary-clock)
+   |    (2.5) [Binary Clock](https://github.com/tom-on-the-internet/binary-clock) - Displays a clock where numbers are represented with blue and gray dots with binary encoding.
 
 ## News
 
@@ -1006,13 +984,12 @@ train models.
 
 ## Maps
 
-* ( ) [mercator -](https://github.com/mrusme/mercator -) OpenStreetMap but as terminal user interface (TUI) program.
-* ( ) [mapscii](https://github.com/rastapasta/mapscii)
-* ( ) [osmf -](https://github.com/codesoap/osmf -) OpenStreetMap find - A simple command line tool to explore OSM data.
-* ( ) [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
-* ( ) [gdir -](https://github.com/pafoster/gdir -) A command line tool which queries Google Directions. The tool displays results as human-readable text.
-* ( ) [iponmap -](https://github.com/nogizhopaboroda/iponmap -) Draw point on world map using ip address
-* ( ) [whereami -](https://github.com/rafaelrinaldi/whereami -) Get your geolocation information from the CLI.
+* (2.5) [mercator](https://github.com/mrusme/mercator) OpenStreetMap but as terminal user interface (TUI) program.
+   | (2.5) [mapscii](https://github.com/rastapasta/mapscii)
+* (5) [osmf](https://github.com/codesoap/osmf) OpenStreetMap find - A simple command line tool to explore OSM data.
+* (5) [gdir](https://github.com/pafoster/gdir) A command line tool which queries Google Directions. The tool displays results as human-readable text.
+* (5) [iponmap](https://github.com/nogizhopaboroda/iponmap) Draw point on world map using ip address
+* (2) [whereami](https://github.com/rafaelrinaldi/whereami) Get your geolocation information from the CLI.
 
 ## Learning
 
@@ -1086,21 +1063,21 @@ train models.
 
 ### Tree
 
-* {cli tree} [alder - minimal implementation of tree - LinuxLinks](https://www.linuxlinks.com/alder-minimal-implementation-tree/)
-* {cli tree} [dduan/tre: Tree command, improved.](https://github.com/dduan/tre)
-* {cli tree} [Excellent Utilities: broot - next gen tree explorer and customizable launcher - LinuxLinks](https://www.linuxlinks.com/excellent-utilities-broot-next-gen-tree-explorer/)
-* {cli tree} [ictree - interactive tree - LinuxLinks](https://www.linuxlinks.com/ictree-interactive-tree/)
-* {cli tree} [TRE — The free and portable approximate regex matching library.](https://laurikari.net/tre/)
+* (2) [tre](https://github.com/dduan/tre)
+   | (6) [alder - minimal implementation of tree - LinuxLinks](https://www.linuxlinks.com/alder-minimal-implementation-tree/) -> for RosettaProjects
+* (2) [Excellent Utilities: broot - next gen tree explorer and customizable launcher - LinuxLinks](https://www.linuxlinks.com/excellent-utilities-broot-next-gen-tree-explorer/)
+   | (6) [ictree - interactive tree - LinuxLinks](https://www.linuxlinks.com/ictree-interactive-tree/)
 
 ### Timer, Pomodoro
 
-* ( ) [Tomato.C](https://github.com/gabrielzschmitz/Tomato.C)
-* ( ) [monadoro](https://gitlab.com/kocielnik/monadoro)
+Both good for RosettaProjects.
+
+* (2) [Tomato.C](https://github.com/gabrielzschmitz/Tomato.C)
+* (2) [monadoro](https://gitlab.com/kocielnik/monadoro)
 
 ### Terminal Emulators2
 
 * -> drop-down terminal
-* ( ) [...](https://mitchellh.com/ghostty)
 * ( ) [ghostty](https://mitchellh.com/ghostty)
 * ( ) [TerminalOne](https://github.com/atinylittleshell/TerminalOne)
 * ( ) [urxvt - Google Search](https://www.google.com/search?client=firefox-b-d&q=urxvt)
@@ -1122,11 +1099,11 @@ train models.
 
 ### Wezterm
 
-* [...](https://www.reddit.com/r/unixporn/s/fvvOslyUxM) kitty to wezterm
-* [Colors & Appearance - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/config/appearance.html%23defining-your-own-colors)
-* [Configuring wezterm (Wez's Terminal Emulator) | Sharp Writing](https://www.sharpwriting.net/project/configuring-wezterm/)
-* [Get the Most Out of Your Terminal: A Comprehensive Guide to WezTerm Configuration | HackerNoon](https://hackernoon.com/get-the-most-out-of-your-terminal-a-comprehensive-guide-to-wezterm-configuration)
-* [How to configure workspaces and tabs in wezterm : r/wezterm](https://www.reddit.com/r/wezterm/comments/12tub66/how_to_configure_workspaces_and_tabs_in_wezterm/)
+* ( ) [...](https://www.reddit.com/r/unixporn/s/fvvOslyUxM) kitty to wezterm
+* ( ) [Colors & Appearance - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/config/appearance.html%23defining-your-own-colors)
+* ( ) [Configuring wezterm (Wez's Terminal Emulator) | Sharp Writing](https://www.sharpwriting.net/project/configuring-wezterm/)
+* ( ) [Get the Most Out of Your Terminal: A Comprehensive Guide to WezTerm Configuration | HackerNoon](https://hackernoon.com/get-the-most-out-of-your-terminal-a-comprehensive-guide-to-wezterm-configuration)
+* ( ) [How to configure workspaces and tabs in wezterm : r/wezterm](https://www.reddit.com/r/wezterm/comments/12tub66/how_to_configure_workspaces_and_tabs_in_wezterm/)
 
 ## Secrets Management
 

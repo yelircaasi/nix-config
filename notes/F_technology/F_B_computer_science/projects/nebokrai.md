@@ -2,6 +2,7 @@
 
 ## Design and Development Notes
 
+* use the concept of satisfiability -> [libsolv](https://github.com/openSUSE/libsolv)
 * → make nebokrai usable as a plugin/integration for smos?
 * how to integrate appflowy into a system with taskwarrior, ganttouchthis, timewarrior, telegram, etc?
 * Name ideas: nebokrai (horizon, +[consilium](https://en.wiktionary.org/wiki/consilium), ganttouchthis, taskifist, roadmapper)
@@ -45,7 +46,7 @@ Am I correct imaging the output to be something similar to a gantt chart?
 yelircaasi — 27/03/2024 19:39
 the canonical example for me is, say you have 20 books you want to read in the next two years. Certain books are more important, certain should be read before others (the blocker principle I mentioned). And it would be nice to have a tool to automatically create this
 Vhyrro — 27/03/2024 19:40
-In my case I was thinking of a multidimensional calendar (https://julian.digital/2023/07/06/multi-layered-calendars/)
+In my case I was thinking of a multidimensional calendar (<https://julian.digital/2023/07/06/multi-layered-calendars/>)
 julian.digital
 julian
 Multi-layered calendars
@@ -176,15 +177,15 @@ I'm certainly not pretending to be an expert. Just an amateur skilled in the art
   * aesthetically pleasing
   * in keeping with the Second Brain framework
 
-            C (Capture)
+C (Capture)
 
-            O (Organise)
+O (Organise)
 
-            D (Distill)
+D (Distill)
 
-            E (Express)
+E (Express)
 
-  * integrated and internally consistent
+* integrated and internally consistent
 * End result:
   * phone app (android or linux mobile) → Notion or Appflowy
   * phone notifications: from app or via Telegram or other
@@ -236,18 +237,18 @@ I'm certainly not pretending to be an expert. Just an amateur skilled in the art
 * [ ] get Android build for AppFlowy working → [AppFlowy-IO/AppFlowy/actions/runs/4582846778/jobs/8093324716](https://github.com/AppFlowy-IO/AppFlowy/actions/runs/4582846778/jobs/8093324716)
 * [ ] [docs.flutter.dev/deployment/android](https://docs.flutter.dev/deployment/android)
 * [ ] [orgs/AppFlowy-IO/projects](https://github.com/orgs/AppFlowy-IO/projects)
-* [ ] eventually add vim keybindings (https://appflowy.gitbook.io/docs/essential-documentation/shortcuts)
+* [ ] eventually add vim keybindings (<https://appflowy.gitbook.io/docs/essential-documentation/shortcuts>)
       * ChatGPT on hosting
 
 ```txt
 
-                    AppFlowy is a web application, which means that you can use it on any device that has a web browser. To host it so that you can use it on your Android device and desktop, there are a few options:
+AppFlowy is a web application, which means that you can use it on any device that has a web browser. To host it so that you can use it on your Android device and desktop, there are a few options:
 
-                    1. Host it on a server and access it through a web browser on your desktop and Android device: You can host AppFlowy on a server and access it through a web browser on your desktop or Android device. This way, you can use AppFlowy on any device that has a web browser.
-                    2. Install a local server on your desktop and access it through a web browser on your desktop and Android device: You can install a local server on your desktop and access AppFlowy through a web browser on your desktop or Android device. This way, you can use AppFlowy on your desktop without an internet connection, and access it on your Android device through a local network.
-                    3. Use a cloud-based service that allows you to host web applications: There are several cloud-based services, such as AWS, DigitalOcean, and Heroku, that allow you to host web applications. You can host AppFlowy on one of these services and access it through a web browser on your desktop or Android device. This way, you can use AppFlowy on any device that has a web browser, and you don't need to worry about managing a server.
+1. Host it on a server and access it through a web browser on your desktop and Android device: You can host AppFlowy on a server and access it through a web browser on your desktop or Android device. This way, you can use AppFlowy on any device that has a web browser.
+2. Install a local server on your desktop and access it through a web browser on your desktop and Android device: You can install a local server on your desktop and access AppFlowy through a web browser on your desktop or Android device. This way, you can use AppFlowy on your desktop without an internet connection, and access it on your Android device through a local network.
+3. Use a cloud-based service that allows you to host web applications: There are several cloud-based services, such as AWS, DigitalOcean, and Heroku, that allow you to host web applications. You can host AppFlowy on one of these services and access it through a web browser on your desktop or Android device. This way, you can use AppFlowy on any device that has a web browser, and you don't need to worry about managing a server.
 
-                    Regardless of which option you choose, it's important to make sure that you keep your AppFlowy account secure by using a strong and unique password, and enabling two-factor authentication if possible.
+Regardless of which option you choose, it's important to make sure that you keep your AppFlowy account secure by using a strong and unique password, and enabling two-factor authentication if possible.
 
                 search “hosting” [discord.com/channels/903549834160635914/903553722804748309](https://discord.com/channels/903549834160635914/903553722804748309)
 
@@ -313,7 +314,7 @@ adhoc is counterpart to plan, containing tasks (but one-off, non-derivable) -> a
   * how to measure performance and execution time, visualizing each function call?
   * move some functions from …algorithms.scheduling into the Schedule class ✓
 
-        fixed entries: `e.ismutable == False`
+  * fixed entries: `e.ismutable == False`
 
   * Scheduling and prioritization
   * blocks added automatically: routines and recurring tasks
@@ -322,26 +323,26 @@ adhoc is counterpart to plan, containing tasks (but one-off, non-derivable) -> a
   * manual editing of task schedulng
   * Scheduling Algorithm (Vanilla)
 
-        High-level description:
+  * High-level description:
 
-        1. A base schedule is specified in the calendar, which contains default recurring activities.
-        2. From planning (typically quarterly and weekly), non-recurring "big rock" activities are added, each with a priority level that determines which takes precedence among a set of items competing for the same time.
-        3. From the store of long-term roadmaps and projects and their corresponding tasks, tasks are assigned according to schedule and priority.
-        4. When there are conflicts or too many tasks to fit in the available time, these are to be resolved first automatically according to the settings.
+    1. A base schedule is specified in the calendar, which contains default recurring activities.
+    2. From planning (typically quarterly and weekly), non-recurring "big rock" activities are added, each with a priority level that determines which takes precedence among a set of items competing for the same time.
+    3. From the store of long-term roadmaps and projects and their corresponding tasks, tasks are assigned according to schedule and priority.
+    4. When there are conflicts or too many tasks to fit in the available time, these are to be resolved first automatically according to the settings.
 
-        The irresoluble conflicts or overloads are then resolved manually, but only by editing the declarations, upon which the schedule is recomputed.
+    The irresoluble conflicts or overloads are then resolved manually, but only by editing the declarations, upon which the schedule is recomputed.
 
-        Low-level description of scheduling algorithm:
+    Low-level description of scheduling algorithm:
 
-        1. check whether the entries fit in a day
-        2. get the compression factor, i.e. how much, on average, the entries need to be compacted in order to fit
-        3. separate entries into fixed (immovable) and flex (movable)
-        4. add the fixed entried to the schedule
-        5. identify the gaps
-        6. fill in the gaps with the flex items TODO
-        7. resize between fixed points to remove small empty patches (where possible)
+    1. check whether the entries fit in a day
+    2. get the compression factor, i.e. how much, on average, the entries need to be compacted in order to fit
+    3. separate entries into fixed (immovable) and flex (movable)
+    4. add the fixed entried to the schedule
+    5. identify the gaps
+    6. fill in the gaps with the flex items TODO
+    7. resize between fixed points to remove small empty patches (where possible)
 
-        TODO: add `alignend` functionality (but first get it working without)
+    TODO: add `alignend` functionality (but first get it working without)
 
   * Entry adding test cases
 * [ ] empty
@@ -467,7 +468,7 @@ Scheduler
   * 2-pass approach for planning: first regular planning to assign tmpdate, then adjust for dependencies
   * use special sorting (`__gt__ , __lt__, __ge__, __le__`) that first looks at `.after`, then at `.tmpdate`
 
-        Extension: Norg links allow me to specify sequential dependency relationships between tasks
+  * Extension: Norg links allow me to specify sequential dependency relationships between tasks
 
   * Blocking Logic
   * blocks like 'work' that other smaller, more specific tasks can be scheduled on top of
@@ -602,7 +603,7 @@ Scheduler
 * food & drink, workout, finances (expenditures), adherence to schedule/time use
 * -> need to access goals via plan
 * add earliest and latest start and end for each level of the roadmap-project-task hierarchy
-* nebokrai: add subcommands: track, blame (tool to show origin of some aspect of derived result), edit, add (interactive), sync, dashboard, dryrun <subcommand>, revert -> make (where appropriate) CLI and TUI (= interactive) versions of subcommands
+* nebokrai: add subcommands: track, blame (tool to show origin of some aspect of derived result), edit, add (interactive), sync, dashboard, dryrun {subcommand}, revert -> make (where appropriate) CLI and TUI (= interactive) versions of subcommands
 * nebokrai idea: "sacred" time blocks for flow
 * tracking: collect texting statistics
 * self-daily: presentation about yesterday and plans for today
@@ -617,7 +618,7 @@ Scheduler
   * option set: a group of alternatives, from which I select one (or more); handled identically to a task
   * Old adjustment types
 
-        ```python
+```python
 
         class AdjustmentType(Enum):
             AUTO = 0  # methods figure it out, based on priority and properties
@@ -626,7 +627,7 @@ Scheduler
             COMPRESS = 3  #
             COMPROMISE = 4  #
             DISPLACE = 5  #
-       ```
+```
 
 * [AppFlowy-IO/AppFlowy/issues/3125](https://github.com/AppFlowy-IO/AppFlowy/issues/3125)
 * [ ] Which conversions are necessary?
@@ -641,7 +642,7 @@ Scheduler
 * [ ] → eventually add neorg - anki interface
 * [ ] Add purity checks (i.e. no side effects) to tests
 * [ ] Improve serialization for copying
-* [ ] a.to_<x>() and a.from_<x>() should be perfect inverses → add to tests
+* [ ] a.to_{x}() and a.from_{x}() should be perfect inverses → add to tests
 * [ ] figure out how to add norg support to a fork of AppFlowy
 * [ ] How to connect flutter app to backend? → Look at AppFlowy & its Private Cloud when it is released soon
 * [ ] How to make planager server for AppFlowy?
@@ -673,7 +674,7 @@ Scheduler
 
     which cmoponents does my system need? what is their relationship to each other?
 
-### Features:
+### Features
 
 * [ ] Gantt chart (from Roadmaps spreadsheet) → example: [task-gantt](https://github.com/8ware/task-gantt)
   * Features
@@ -1113,6 +1114,7 @@ Scheduler
 * [note templates](https://jacobzelko.com/08032021134232-notes-template/#example_of_actual_note)
 * [usememos/memos](https://github.com/usememos/memos)
 * [ ]  [xwmx/nb](https://github.com/xwmx/nb)  
+
 #### wiki
 
 * [brunocbr/zettel-composer](https://github.com/brunocbr/zettel-composer)
@@ -1216,7 +1218,7 @@ Scheduler
 * [mtkennerly/poetry-dynamic-versioning: Plugin for Poetry to enable dynamic versioning based on VCS tags](https://github.com/mtkennerly/poetry-dynamic-versioning)
 * [Colored and Clickable Wrapping URLs in LaTeX and LyX](http://troubleshooters.com/linux/lyx/urlwrap.htm)
 * [Is there a plugin for seeing a live preview of HTML/CSS/JS?Reddit
-        [reddit.com](https://www.reddit.com) › neovim › comments › plggq3](https://www.reddit.com/r/neovim/comments/plggq3/is_there_a_plugin_for_seeing_a_live_preview_of/)
+        [reddit.com](https://www.reddit.com) › neovim › comments › plggq3](<https://www.reddit.com/r/neovim/comments/plggq3/is_there_a_plugin_for_seeing_a_live_preview_of/>)
 * [GitHub - rdbo/sigma-linux: Sigma Linux - Σlite Operating System](https://github.com/rdbo/sigma-linux)
 * [Create a Bootable Device - Alpine Linux](https://wiki.alpinelinux.org/wiki/Create_a_Bootable_Device)
 
@@ -1448,12 +1450,10 @@ Scheduler
 
 [traggo/](https://github.com/traggo/)
 
-#### SORT
-* ( ) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
-
 #### Matrix Tools
 
 * [docs.rs/matrix_bot_api/latest/matrix_bot_api/](https://docs.rs/matrix_bot_api/latest/matrix_bot_api/) 
+
 #### Note-Taking Tools (reference, ideas)
 
 * [srid.ca/neuron-announce](https://srid.ca/neuron-announce)
@@ -1465,6 +1465,7 @@ Scheduler
 * tinydb
 * sqlite3?
 * postgresql?
+
 #### Taskwarrior Plugins
 
 ##### Bash/Shell
@@ -1583,6 +1584,7 @@ Scheduler
 ##### Rust
 
 [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui)
+
 * [rofi-taskwarrior](https://github.com/nyarly/rofi-taskwarrior)
 * [sidenotes](https://github.com/maxjoehnk/sidenotes)
 * [taskwarrior-hooks](https://github.com/mrVanDalo/taskwarrior-hooks)
@@ -1627,7 +1629,7 @@ Scheduler
 
 * [AhmedHoss/TaskServer](https://github.com/AhmedHoss/TaskServer)
 
-##### C#
+##### CS
 
 * [ForNeVeR/taskomatic](https://github.com/ForNeVeR/taskomatic)
 
@@ -1673,7 +1675,7 @@ Scheduler
 #### Time Tracking and Timers
 
 * [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - A time tracking utility that offers simple stopwatch features as well as sophisticated calendar-based backfill, along with flexible reporting.
-* interface ideas: [moro](https://github.com/omidfi/moro)) - Simple tool for tracking work hours.
+*interface ideas: [moro](https://github.com/omidfi/moro)) - Simple tool for tracking work hours.
 * interface ideas: [Timetrap](https://github.com/samg/timetrap) - A simple command line time tracker written in Ruby. It provides an easy to use command line interface for tracking what you spend your time on.
 * [bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 * [ActivityWatch](https://activitywatch.net/) - ActivityWatch is an app that automatically tracks how you spend time on your devices.
@@ -1793,7 +1795,7 @@ Scheduler
 * [GNU Taler](https://taler.net/) - Cash-like system for online payments. ([GNU GPL](https://taler.net/en/developers.html))
 * [Lakshmi](https://github.com/sarvjeets/lakshmi) - Investing library and command-line interface inspired by the Bogleheads philosophy.
 * [Quoter](https://github.com/frossm/quoter) - The console based stock quote tool.
-* `[cointop` - Track crypto prices](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#cointop)
+* `[cointop` - Track crypto prices](<https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#cointop>)
         httpsgithubcomcointop-shcointop-track-crypto-prices)
 * [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
 * [ticker](https://github.com/achannarasappa/ticker) — Terminal stock ticker with live updates and position tracking
@@ -1806,7 +1808,7 @@ Scheduler
 
 * [HASHA CLI](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
 * [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
-* `2915⭐`**  **`187🍴` [stegcloak](https://github.com/kurolabs/stegcloak)) - Hide secrets with invisible characters in plain text securely.
+* `2915⭐`****`187🍴` [stegcloak](https://github.com/kurolabs/stegcloak)) - Hide secrets with invisible characters in plain text securely.
 * [Age](https://github.com/FiloSottile/age) - Simple, Modern, Secure encryption tool.
 * [HASHA CLI](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
 * [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
@@ -1938,6 +1940,9 @@ Scheduler
 
 ## SORT
 
+* ( ) [super-productivity](https://super-productivity.com/) To Do List / Time Tracker with Jira Integration
+* [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
+* ( ) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
 * [arttime](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
 * [buku](https://github.com/jarun/buku) - A powerful bookmark manager written in Python3 and SQLite3.
 * [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
@@ -1951,7 +1956,7 @@ Scheduler
 * ( ) [creativecreature/pulse](https://github.com/creativecreature/pulse)
 * (2) [khard](https://github.com/lucc/khard) - console vcard client
 * (2) [nebokrai](...)
-* (2) ❤ [👉](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal)  [🏁](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal)https://github.com/AppFlowy-IO/AppFlowy - [Appflowy](https://appflowy.io/) - just needs cloud setup, vim keybindings, and customizable colors → on the way? [shortcuts](https://docs.appflowy.io/docs/appflowy/community/appflowy-mentorship-program/mentorship-2022/mentee-projects/shortcuts-and-customized-hotkeys-for-appflowy) and [color themes](https://docs.appflowy.io/docs/appflowy/community/appflowy-mentorship-program/mentorship-2022/mentee-projects/custom-themes) - shortcuts may require further hacking, or maybe just a kanata/other layer on top
+* (2) ❤ [👉](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal)  [🏁](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal)<https://github.com/AppFlowy-IO/AppFlowy> - [Appflowy](https://appflowy.io/) - just needs cloud setup, vim keybindings, and customizable colors → on the way? [shortcuts](https://docs.appflowy.io/docs/appflowy/community/appflowy-mentorship-program/mentorship-2022/mentee-projects/shortcuts-and-customized-hotkeys-for-appflowy) and [color themes](https://docs.appflowy.io/docs/appflowy/community/appflowy-mentorship-program/mentorship-2022/mentee-projects/custom-themes) - shortcuts may require further hacking, or maybe just a kanata/other layer on top
 * (2) [vdirsyncer,](https://github.com/pimutils/vdirsyncer)
 * (2) [fluxgui](https://github.com/xflux-gui/fluxgui)← uses[redshift](https://github.com/jonls/redshift)- light adjuster
 * (2.5) ❤ [🎹 🎊](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal)[khal](https://github.com/pimutils/khal)→ integrate with Nebokrai (in Python) → same developer:
@@ -1959,16 +1964,16 @@ Scheduler
 * [calcurse](https://github.com/lfos/calcurse)- [calcurse.org/](https://calcurse.org/) - good-looking interface
    | (2.5)
 * [girok](https://github.com/noisrucer/girok)- nice TUI, written in Python → look at codebase, use with planager? also[girokserver](https://github.com/noisrucer/girokserver)- even makes me rethink whether Python might me a good productivity app / TUI language, after all - nothing about color configs → fork and add config settings, then MR
-* (2) [taskwarrior,](https://github.com/GothenburgBitFactory/taskwarrior,)https://github.com/GothenburgBitFactory/taskserver.[timewarrior
-        [GothenburgBitFactory/tasklib](https://github.com/GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/tasklib](https://github.com/GothenburgBitFactory/timewarrior)
+* (2) [taskwarrior,](https://github.com/GothenburgBitFactory/taskwarrior,)<https://github.com/GothenburgBitFactory/taskserver.[timewarrior>
+        [GothenburgBitFactory/tasklib](<https://github.com/GothenburgBitFactory/timewarrior>](<https://github.com/GothenburgBitFactory/tasklib>](<https://github.com/GothenburgBitFactory/timewarrior>)
         [GothenburgBitFactory/tasklib)→](https://github.com/GothenburgBitFactory/tasklib)→) integrate with planager?
 * (5) [taskell](https://github.com/smallhadroncollider/taskell)→ interesting because of codebase; kanban interface also nice → integrate with planager
 * (5) [Sandman-Lite](https://github.com/alexanderepstein/Sandman-Lite)(preferred to[Sandman)](https://github.com/alexanderepstein/Sandman))- [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md)) → [good source](https://sleepopolis.com/calculators/sleep/)
-* (5) ❤ [todoman](https://github.com/pimutils/todoman) → see](https://datatracker.ietf.org/doc/html/rfc5545) -> integrate with Nebokrai
+* (5) ❤ [todoman](https://github.com/pimutils/todoman) → see](<https://datatracker.ietf.org/doc/html/rfc5545>) -> integrate with Nebokrai
 * (5) ❤ [uhabits](https://github.com/iSoron/uhabits) -> borrow ideas and elements for Nebokrai / fork and adapt / integrate
 * (5) [ttdl](https://github.com/VladimirMarkelov/ttdl)→ integrate with planager
 * (5) [todo](https://github.com/Axarva/todo)
-* (5) [xit](https://github.com/jotaen/xit)https://xit.jotaen.net/
+* (5) [xit](https://github.com/jotaen/xit)<https://xit.jotaen.net/>
   * (5) [nomxit](https://github.com/sum12/nomxit) (rust parser)
   * (5) [stage-left](https://github.com/chris48s/stage-left)
   * (5) [xit2md](https://github.com/chris48s/xit2md)
@@ -2020,7 +2025,7 @@ prod proj * rewrite tw in go
 * ( ) [wiki.dendron.so/](https://wiki.dendron.so/) → [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron)
 * ( ) [mickael-menu/zk](https://github.com/mickael-menu/zk)
 * ( )[Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten)- [zettelkasten.danielluedecke.de/](http://zettelkasten.danielluedecke.de/)  (GUI)
-* ( )[TreeTag](https://github.com/doug-101/TreeTag)https://github.com/doug-101/TreeLine_mobile
+* ( )[TreeTag](https://github.com/doug-101/TreeTag)<https://github.com/doug-101/TreeLine_mobile>
         [doug-101/TreeLine](https://github.com/doug-101/TreeLine) (GUI)
 * ( ) [Freemind](https://freemind.sourceforge.io/wiki/index.php/Main_Page)
 * ( ) [joplinapp.org/](https://joplinapp.org/) - [johnfactotum.github.io/foliate/](https://johnfactotum.github.io/foliate/)
@@ -2039,7 +2044,7 @@ prod proj * rewrite tw in go
 * (2)[Buku -](https://github.com/jarun/Buku) - Powerful command-line bookmark manager → fork [peterjschroeder/bukut](https://github.com/peterjschroeder/bukut)
 * (5)[linksnatch](https://github.com/amitmerchant1990/linksnatch)[amitmerchant1990/linksnatch/blob/main/README.md →](https://github.com/amitmerchant1990/linksnatch/blob/main/README.md)[docker-linksnatch](https://github.com/varunsridharan/docker-linksnatch)(bookmark saving tool)
 
-# For Roadmaps
+## For Roadmaps
 
 * [google.com/search?channel=fs&client=ubuntu&q=leet+code+solutions](https://www.google.com/search?channel=fs&client=ubuntu&q=leet+code+solutions)
 * [leetcode.com/problemset/all/](https://leetcode.com/problemset/all/)
@@ -2076,7 +2081,7 @@ prod proj * rewrite tw in go
 * look for books and articles on psychology and stoicism, evolution and why people worry about things they cannot control
 * look for books and articles on the psychology of wealth and inequality
 * Sort through and eventually delete this page
-*Darwin Among the Machines* and *Turing’s Cathedral*
+* Darwin Among the Machines and Turing’s Cathedral
 * Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concept
 * $2блачные архитектуры разработка устойчивых и экономичных облачных приложений.pdf
 * [Структура и интерпретация компьютерных программ](http://library.lol/main/4D228E9600C4588BC0EA11CBD1225203)

@@ -14,6 +14,7 @@
 ## Raw - to sort
 
 * -> see riverwm files on drive
+* ( ) [Dotfiles,](https://github.com/ProtonNumber/Dotfiles,)
 * [dotfiles](https://github.com/Horhik/dotfiles)
 * [dotfiles](https://github.com/Jonathas-Conceicao/dotfiles)
 * [dofiles](https://gitlab.com/roosemberth/dotfiles/-/tree/master/)
@@ -689,6 +690,7 @@ Robert Duchesneau RiverWM dotfiles)
 
 ## sway
 
+( ) [Madic-/Sway-DE: 🏠 Sway desktop environment dotfile installation for Arch Linux](https://github.com/Madic-/Sway-DE)
 * [gnulinux-projects](https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config)
 * [testertech swaywm eww](https://github.com/TesterTech/swaywm-eww) -
 * [1amsimple](https://github.com/1amSimp1e/dots)1amsimple - firefox vscodium, webcord, alacritty, kitty, lazygit, neofetch, nvim, starship, ranger, spicetify, sway, tmux
@@ -745,6 +747,10 @@ Robert Duchesneau RiverWM dotfiles)
 * [tuffgniuz jqtile](https://github.com/tuffgniuz/qtile)tuffgniuz - perfect green
 * [wittano ](https://github.com/Wittano/dotfiles) - qtile, doom-emacs, ideavim, tmux, zsh, gtk, git, scripts, alacritty, bspwm. conky, dunst, fish, i3, jetbrains, kitty, nitrogen, nvim, omf, openbox, picom, polybar, qutebrowser, ranger, rofi, sxhkd, terminator, tint2, yadm, redshift
 * [wittano](https://github.com/Wittano/dotfiles) - doom emacs, qtile, scripts. alacritty, bspwm, conky, dunst, fish, gtk, i3, jetbrains, kitty, nitrogen, nvim, omf, oh-my-fish, openbox, openttd, picom, polybar, qtile, qutebrowser, ranger, rofi, sxhkd, terminator, tint2, yadm, redshift
+
+## Wayfire
+
+* ( ) [Wayfire-dots](https://github.com/bluebyt/Wayfire-dots)
 
 ## awesomewm
 
@@ -860,7 +866,7 @@ Robert Duchesneau RiverWM dotfiles)
 * [Reddit](https://www.reddit.com/r/unixporn/comments/xh5eab/bspwm_any_suggestions/)
 * [siduck](https://github.com/siduck/dotfiles) - bspwm, st, ncmcpp, mpd, ncmcpp-ueberzug, mpc, neovim, gtk, polybar, fluxbox, openbox
 * [singularisArt](https://github.com/SingularisArt/Singularis) - bspwm, polybar, xmenu, rofi, kdeconnect, flameshot, giph, slop, xclip, kitty, neomutt, Telegram desktop, nctelegram, discord, cordless, weechat, tuir, rainbowstream, kdeconnect-sms, how2, NeoVim, Qalculate!, gnuplot, Anki, dijo, manuskript, Ugene, pymol, GROMACS, Desmos-Destkop, celestia, inkscape, Goobook, Calcurse, castero, newsboat, ncmpcpp, mpd, tetris-terminal, tty-solitaire, bs, bsdgames, dopewars, Cures of War, pipes.sh, rain.sh, unimatrix, asciiquarium, bonsai.sh, termtracker, genact, ckb-next, baobab, diskonaut, dust, dunst, zathura, lf, gpick, s-tui, gotop, bashtop, glances, iotop, nmon, atop, powertop, nvtop, kmon, dnstop, ethstatus, jnettop, nload, bmon, termshark, cointop, mop, stonks, synonym, mapscii, translate-shell, wtfuitil, iponmap - finder, Pass, Rofi, pywal (haishoku, colorthief, and colorz python modules for pywal backends), Chameleon, Zathura-Pywal, qutewal, oomox, lxappearance, Archdroid Icons, qt5ct, qtcurve-qt5, qt5-styleplugins, Pywalfox, pywal
-* [SuvanshRao](https://github.com/SuvanshRao/dotfiles [neofetch](https://github.com/SuvanshRao/dotfiles/blob/main/neofetch/config.conf)
+* [SuvanshRao](https://github.com/SuvanshRao/dotfiles) [neofetch](https://github.com/SuvanshRao/dotfiles/blob/main/neofetch/config.conf)
 * [bspwm](https://github.com/SuvanshRao/dotfiles/blob/main/bspwm/bspwmrc)
 * [polybar](https://github.com/SuvanshRao/dotfiles/tree/main/polybar)
 * [picom](https://github.com/SuvanshRao/dotfiles/blob/main/picom/picom.sample.conf)

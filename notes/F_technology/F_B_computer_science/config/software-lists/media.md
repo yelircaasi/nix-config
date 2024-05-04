@@ -36,6 +36,7 @@
 * (2) [shot-scraper](https://github.com/simonw/shot-scraper)
 * (2) [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder. [asciinema.org/](https://asciinema.org/)
 * (2) [carbon-now-cli -  Beautiful](https://github.com/mixn/carbon-now-cli -  Beautiful) images of your code — from right inside your terminal.
+   |  ( ) [freeze](https://github.com/charmbracelet/freeze) Generate images of code and terminal output
 * (2) [streamlink](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
 * (2) [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
 * ( ) [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
@@ -125,6 +126,7 @@
 
 ### Image Editing
 
+* ( ) [Graphite](https://github.com/GraphiteEditor/Graphite) 2D vector editor
 * ( ) [inpaint-web](https://github.com/lxfater/inpaint-web)
 * ( ) [Vidcutter](https://github.com/ozmartian/vidcutter) - Cross-platform Qt5 based app for quick and easy video trimming/splitting and merging/joining for simple quick edits.
 * ( ) [Kdenlive](https://kdenlive.org/) - Kdenlive is a Non-Linear Video Editor, which is much more powerful than beginners’ (linear) editors.

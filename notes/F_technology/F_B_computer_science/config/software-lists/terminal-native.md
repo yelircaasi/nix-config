@@ -10,6 +10,10 @@
 (4) - not decided yet / maybe later
 (5) - some rewriting or packaging necessary (but to be added)
 
+->  [DT Command Line Playlist](https://www.youtube.com/playlist?list%3DPL5--8gKSku174EnRTbP4DzU2W80Q1vqtm)
+
+->  [learnbyexample.gumroad.com/l/cli_coreutils](https://learnbyexample.gumroad.com/l/cli_coreutils)
+
 ## Terminal Emulators
 
 * waveterm on nixos
@@ -56,8 +60,10 @@ Please feel free to continue working off from what I have if it helps, especiall
 * (4) [tdrop](https://github.com/noctuid/tdrop)
    | (4) [dropterm](https://github.com/Subbeh/dropterm)
 * (3) [electerm](https://electerm.html5beta.com/)
-* (1) [starship](...)
+* (1) [starship](https://github.com/starship/starship) -> [A Powerline configuration for Starship.rs](https://gist.github.com/notheotherben/92302a60f8599ba73f1c2840f3c6d455)
    | (2) [oh-my-posh](https://ohmyposh.dev/)
+   | ( ) [powerline/powerline](https://github.com/powerline/powerline) - provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+
 * (2) [xdg-utils](https://search.nixos.org/packages?channel=unstable&show=xdg-utils&from=0&size=50&sort=relevance&type=packages&query=xdg-open)
 * (2) [handlr-regex](https://github.com/Anomalocaridid/handlr-regex)
 * (2) [nix-prefetch-github](https://search.nixos.org/packages?channel=23.11&show=nix-prefetch-github&from=0&size=50&sort=relevance&type=packages&query=nix-prefetch-github)
@@ -105,7 +111,12 @@ Please feel free to continue working off from what I have if it helps, especiall
 train models.
 * ( ) [Cohere](https://cohere.ai/). A set of LLMs to generate text, summarize it, classify and retrieve it. → [dashboard.cohere.com/welcome/register](https://dashboard.cohere.com/welcome/register)
 
-## Core Set
+## Shell Completion
+
+* ( ) [inshellisense](https://github.com/microsoft/inshellisense)
+* ( ) [carapace](https://github.com/carapace-sh/carapace-bin)
+
+## Core Set - Misc
 
 * (2) [renovate](https://github.com/renovatebot/renovate)
 * (2) [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli)
@@ -122,6 +133,7 @@ train models.
 
 * ( ) [ericfreese/rat: Compose shell commands to build interactive terminal applications](https://github.com/ericfreese/rat)
 * ( ) [beautysh](https://github.com/lovesegfault/beautysh)
+* ( ) [abathur/resholve: a shell resolver? :) (find and resolve shell script dependencies)](https://github.com/abathur/resholve)
 
 ## Terminal Calculator and Spreadsheet
 
@@ -163,6 +175,7 @@ train models.
 
 ## CLI Wrappers for specific solutions
 
+* ( ) [proton bridge CLI](https://proton.me/support/bridge-cli-guide)
 * -> see projects.md for clockodo and jira
 * {cli library genesis api} [...](https://search.nixos.org/packages?channel%3D23.11%26show%3Dlibgen-cli%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dlibgen)
 * ( ) [jira-cli-go](https://search.nixos.org/packages?channel=23.11&from=0&size=50&sort=relevance&type=packages&query=jira-cli)
@@ -200,6 +213,7 @@ train models.
 
 * ( ) [sshx](https://github.com/ekzhang/sshx)
 * (5) [warp -](https://github.com/spolu/warp) - Secure and simple terminal sharing. - fork and update?
+* ( ) [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
 
 ## Shell
 
@@ -220,6 +234,8 @@ train models.
 | (4) [oh](https://github.com/michaelmacinnis/oh)
 * ( ) [papyrus](https://docs.rs/papyrus/latest/papyrus/)
 * ( ) [SwitchAxe/Rewind: A modern functional shell and a programming language](https://github.com/SwitchAxe/Rewind)
+* ( ) [turtle: Shell programming, Haskell style](https://github.com/Gabriella439/turtle)
+* (2) [ipython](https://ipython.org/) ( ) [Backward search in ipython via FZF - Stack Overflow](https://stackoverflow.com/questions/48203949/backward-search-in-ipython-via-fzf) * ( ) [Adding fuzzy history search to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipython/issues/12231)
 
 ## Development Shell Management
 
@@ -286,6 +302,7 @@ train models.
 
 ## Project Templates and Generation
 
+* ( ) [SunGodRamen/task-driven-development: Project template that enforces documentation and project lifecycle across tools; nvim, taskwarrior, drawio, using githooks to enforce and automate tracking.](https://github.com/SunGodRamen/task-driven-development)
   [copier](https://github.com/copier-org/copier)
    |  [yeoman](https://yeoman.io/)
    |  [kickstart](https://github.com/Keats/kickstart)
@@ -352,7 +369,6 @@ train models.
 
 * ( ) [sh-semver](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
 * ( ) [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
-* ( ) [git-semver[git-semver](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 
 ## Snippets
 
@@ -490,6 +506,7 @@ train models.
    |  [pycp](https://github.com/your-tools/pycp)
 * (2) [procs](https://github.com/dalance/procs)
 * (2) [parallel](https://git.savannah.gnu.org/cgit/parallel.git)
+* (3) [crunkurrent](https://github.com/samuela/crunkurrent)
 * (4) [ts](http://vicerveza.homeunix.net/~viric/soft/ts/)
 * (4) [ts](https://github.com/justanhduc/task-spooler) (for GPU also)
 * (2) [await](https://github.com/slavaGanzin/await)
@@ -587,6 +604,7 @@ train models.
 
 #### Markdown
 
+* (standard) [sembr](https://sembr.org/)
 * (5) [frogmouth](https://github.com/Textualize/frogmouth)
    | (2) [glow](https://github.com/charmbracelet/glow)
    |  [mdcat](https://github.com/swsnr/mdcat)
@@ -595,6 +613,7 @@ train models.
 * ( ) [grip](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 * ( ) [lowdown](https://github.com/kristapsdz/lowdown) - Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)
 * ( ) [doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
+* ( ) [mdtt](https://github.com/szktkfm/mdtt)
 
 #### CSV, TSV
 
@@ -611,6 +630,7 @@ train models.
 #### JSON
 
 * (2) [jq](https://github.com/stedolan/jq)
+   | ( ) [jaq](https://github.com/01mf02/jaq) jq clone
    | (3) [zed](https://github.com/brimdata/zed)
    | (2) [gojq](https://github.com/itchyny/gojq)
    | (4) [jtc](https://github.com/ldn-softdev/jtc)
@@ -674,6 +694,8 @@ train models.
 * (2) [sqlite3](https://sqlite.org/cli.html)
 * (3) [redis-viewer](https://github.com/SaltFishPr/redis-viewer)
 * (3) [iredis](https://github.com/laixintao/iredis)
+* ( ) [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed in-memory data store with an emphasis on speed and reliability.
+* ( ) [mkdb](https://www.mkdb.sh/) - free hosted postgres
 
 #### Other Formats
 
@@ -793,6 +815,7 @@ train models.
 
 ### Decoration, Screensavers
 
+* ( ) [pokeshell](https://github.com/acxz/pokeshell)
 * ( ) [terminal-parrot](https://github.com/jmhobbs/terminal-parrot)
 * (5) [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
 * (3) [ctree](https://github.com/gleich/ctree) - A Christmas tree right from your terminal.
@@ -839,6 +862,7 @@ train models.
 
 ## Drawing, Plotting, Educational Video Creation (Terminal)
 
+* ( ) [Yardanico/asciigraph: Console ascii line graphs in pure Nim](https://github.com/Yardanico/asciigraph)
 * (2) [visidata](https://github.com/saulpw/visidata)
 * ( ) [lowcharts](https://github.com/juan-leon/lowcharts)
 * ( ) [datadash](https://github.com/keithknott26/datadash)
@@ -888,26 +912,6 @@ train models.
 * ( ) [rr](https://github.com/rr-debugger/rr)Debug the recording, deterministically, as many times as you want. [rr-project.org/](https://rr-project.org/)
 * ( ) [rebound](https://github.com/shobrook/rebound)Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.* fork and update?
 * ( ) [trunk](https://trunk.io/pricing)
-
-## Documentation
-
-* ( ) [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
-* ( ) [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files.
-      + ( ) [mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) a backend for [mdbook](https://github.com/rust-lang/mdBook) which will check your links for you. [fork](https://github.com/volhovm/mdbook-linkcheck)
-* ( ) [Sphinx](https://www.sphinx-doc.org/en/master/)
-* ( ) [Shibuya](https://shibuya.lepture.com/) (theme)
-* ( ) [zealdocs.org/](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. - GUI
-* ( ) [Read the Docs](https://readthedocs.org/)
-* ( ) [Doxygen](https://www.doxygen.nl/index.html)
-* ( ) [lihaoyi.com/Scalatex/](https://www.lihaoyi.com/Scalatex/)
-* ( ) [MkDocs](https://www.mkdocs.org/)
-* ( ) [sunaku/dasht](https://github.com/sunaku/dasht)
-* ( ) [slatedocs/slate](https://github.com/slatedocs/slate)
-* ( ) [Docusaurus](https://docusaurus.io/)
-* ( ) [Daux.io](https://dauxio.github.io/) - uses PHP and Composer
-* ( ) [GitBook](https://www.gitbook.com/)
-* ( ) [docsify/](https://github.com/docsifyjs/docsify/)- [Docsify](https://docsify.js.org/)
-* ( ) [zest](https://github.com/zestdocs/zest)- unmaintained, but fork and update?
 
 ## Syntax Highlighting
 
@@ -987,6 +991,7 @@ train models.
 * ( ) [cliclock](https://github.com/nbyouri/cliclock)
 * ( ) [clock scripts](...)
 * ( ) [tty-clock](https://github.com/xorg62/tty-clock)
+* ( ) [tock](https://github.com/nwtnni/tock)
 
 ### Binary / Hex
 
@@ -1061,40 +1066,11 @@ train models.
 * ( ) [inferno](https://github.com/jonhoo/inferno)
 * ( ) [flamegraphs toolkit](https://www.brendangregg.com/flamegraphs.html)
 
-## SORT
-
-### CLI
-
-* [01mf02/jaq](https://github.com/01mf02/jaq)
-* [learnbyexample.gumroad.com/l/cli_coreutils](https://learnbyexample.gumroad.com/l/cli_coreutils)
-* ( ) [A Powerline configuration for Starship.rs](https://gist.github.com/notheotherben/92302a60f8599ba73f1c2840f3c6d455)
-* ( ) [...](https://git-cliff.org/)
-* ( ) [...](https://github.com/karino2/mdvtbl)
-* ( ) [...](https://github.com/nwtnni/tock)
-* ( ) [...](https://github.com/posit-dev/great-tables)
-* ( ) [...](https://github.com/szktkfm/mdtt)
-* ( ) [* Gabriella439/turtle: Shell programming, Haskell style](https://github.com/Gabriella439/turtle)
-* ( ) [Adding fuzzy history search to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipython/issues/12231)
-* ( ) [Backward search in ipython via FZF - Stack Overflow](https://stackoverflow.com/questions/48203949/backward-search-in-ipython-via-fzf)
-* ( ) [carapace](https://github.com/carapace-sh/carapace-bin)
-* ( ) [clicolors](https://github.com/jhasse/clicolors)
-* ( ) [DT Command Line Playlist](https://www.youtube.com/playlist?list%3DPL5--8gKSku174EnRTbP4DzU2W80Q1vqtm)
-* ( ) [entr](https://eradman.com/entrproject/)
-* ( ) [freeze](https://github.com/charmbracelet/freeze)
-* ( ) [git-wtf](https://github.com/michaelklishin/git-wtf)
-* ( ) [jaq](https://github.com/01mf02/jaq) jq clone
-* ( ) [pokeshell](https://github.com/acxz/pokeshell)
-* ( ) [powerline/powerline](https://github.com/powerline/powerline) - provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
-* ( ) [proton-cli](https://github.com/XPRNetwork/proton-cli)
-* ( ) [prs](https://github.com/dhth/prs)
-* ( ) [Reddit - [OC] I rewrote pfetch in Rust](https://www.reddit.com/r/unixporn/comments/113tw9u/oc_i_rewrote_pfetch_in_rust/)
-* ( ) [rip](https://github.com/nivekuil/rip)
-* ( ) [snappy | A fast compressor/decompressor](https://google.github.io/snappy/)
-* ( ) [starship/starship: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://github.com/starship/starship)
-* ( ) [Yardanico/asciigraph: Console ascii line graphs in pure Nim](https://github.com/Yardanico/asciigraph)
+## CLI
 
 ### Fetch
 
+* ( ) [fet.sh](https://github.com/eepykate/fet.sh)
 * ( ) [13-CF/afetch](https://github.com/13-CF/afetch)
 * ( ) [balena-io/balena-cli](https://github.com/balena-io/balena-cli)
 * ( ) [bunnyfetch](https://github.com/Rosettea/bunnyfetch)
@@ -1106,6 +1082,7 @@ train models.
 * ( ) [nitch](https://github.com/ssleert/nitch) incredibly fast system fetch written in nim
 * ( ) [onefetch](https://github.com/o2sh/onefetch)
 * ( ) [Terminal color scheme fetching program called colorfetch. : r/shell](https://www.reddit.com/r/shell/comments/nn1kqn/terminal_color_scheme_fetching_program_called/)
+* ( ) [Reddit - [OC] I rewrote pfetch in Rust](https://www.reddit.com/r/unixporn/comments/113tw9u/oc_i_rewrote_pfetch_in_rust/)
 
 ### Tree
 

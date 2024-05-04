@@ -265,7 +265,7 @@ I'm certainly not pretending to be an expert. Just an amateur skilled in the art
 
                 Remember, finding a system that works for you may take some trial and error. Experiment with different tools and techniques until you find what works best for you.
 ```
-            -
+
 * Miscellaneous
   * add/edit projects & tasks in popup, in command line, or in .norg file
   * input → output principle:
@@ -542,7 +542,7 @@ Scheduler
 * tracking; move dates more than 30 days old to the old store (more
 * efficient format?)
 
-### Sync, Multi-Device, Etc.
+### Sync, Multi-Device, Etc
 
 * sync
   * preferred method: manual sync
@@ -1860,22 +1860,22 @@ Scheduler
 
 ## Potential Software Dependencies/ Integrations
 
-### Tier 1 - Phenomenal
+### Potential - Tier 1 - Phenomenal
 
 * brick, optparse-applicative, refined, aeson, aeson-schema
 * [nikita-volkov.github.io/refined/](https://nikita-volkov.github.io/refined/)
 
-### Tier 2 - Quite Excellent
+### Potential - Tier 2 - Quite Excellent
 
 * $$$ [srid/emanote](https://github.com/srid/emanote)
 
-### Tier 3 - Very Good
+### Potential - Tier 3 - Very Good
 
 * inthe.am
 
-### Tier 9 - Maybe Someday
+### Potential - Tier 9 - Maybe Someday
 
-## Other
+## Potential - Other
 
 ### Haskell Stuff
 

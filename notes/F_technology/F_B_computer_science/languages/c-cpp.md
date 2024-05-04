@@ -11,11 +11,15 @@
 
 ## 1s
 
+* {cpp} [fox-toolkit.org](http://www.fox-toolkit.org/)
+* {edu} [Let's code a UI in C (Ncurses) - YouTube](https://www.youtube.com/watch?v%3D2Q0jUzhDJp0)
 * Boost
 * [C++ Books](https://news.ycombinator.com/item?id=17609802)
-* [r/Python/comments/2xpjg9/whats_the_best_ways_to_learn_c_for_a_professional/](https://www.reddit.com/r/Python/comments/2xpjg9/whats_the_best_ways_to_learn_c_for_a_professional/)* [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+* [r/Python/comments/2xpjg9/whats_the_best_ways_to_learn_c_for_a_professional/](https://www.reddit.com/r/Python/comments/2xpjg9/whats_the_best_ways_to_learn_c_for_a_professional/)
+* [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 * cpp-machine-learning
-* Softwareentwickler Python / C++ | Datenerfassung, Auswertung und Gerätesteuerung | Inhouse (mwd) - Heidelberg Als Softwareentwickler Python / C++ verstärken Sie ein Team von Softwareentwicklern und PhysikernSie arbeiten an Design, Implementierung und Test von Systemsoftware zur Datenerfassung und Datenauswertung sowie zur GerätesteuerungHierbei handelt es sich um sehr technische Software und Sie haben dabei auch Berührung mit der Entwicklung parallel laufender Prozesse (multi-processing, multi-threading, async-io)* [SDL Game Development](http://library.lol/main/2C5D30E34C115E2664CE31FC7AE6208B)
+* Softwareentwickler Python / C++ | Datenerfassung, Auswertung und Gerätesteuerung | Inhouse (mwd) - Heidelberg Als Softwareentwickler Python / C++ verstärken Sie ein Team von Softwareentwicklern und PhysikernSie arbeiten an Design, Implementierung und Test von Systemsoftware zur Datenerfassung und Datenauswertung sowie zur GerätesteuerungHierbei handelt es sich um sehr technische Software und Sie haben dabei auch Berührung mit der Entwicklung parallel laufender Prozesse (multi-processing, multi-threading, async-io)
+* [SDL Game Development](http://library.lol/main/2C5D30E34C115E2664CE31FC7AE6208B)
 * [[MUC++] Thomas Deniffel - "C++ Build Systems"](https://www.youtube.com/watch?v=9eajOX1xZ4I)
 * [Behind the Scenes of a C++ Build System - Jussi Pakkanen - CppCon 2019](https://www.youtube.com/watch?v=34KzT2yvQuM)
 * [Build systems - Intro and Make](https://www.youtube.com/watch?v=rF--wOD4H8I)
@@ -28,7 +32,7 @@
 * [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w)
 * [runestone.academy/ns/books/published/cpp4python/index.html](https://runestone.academy/ns/books/published/cpp4python/index.html)
 * [PPP2_Glossary/ProgrammingPrinciplesandPracticeGlossary.pdf
-* at master · dukebw/PPP2_Glossary](https://github.com/dukebw/PPP2_Glossary/blob/master/ProgrammingPrinciplesandPracticeGlossary.pdf)
+* [PPP2_Glossary](https://github.com/dukebw/PPP2_Glossary/blob/master/ProgrammingPrinciplesandPracticeGlossary.pdf)
 * [Have you learn't Rust and C++, if so what are the likes and dislikes about Rust over C++?](https://www.reddit.com/r/AskProgramming/comments/ia97rs/have_you_learnt_rust_and_c_if_so_what_are_the/)
 * [Стандартная библиотека шаблонов — Википедия](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2)
 * [C++ - Deep Learning Wizard](https://www.deeplearningwizard.com/programming/cpp/cpp/)
@@ -79,7 +83,7 @@
 * [The    Standard C Library | P. J. Plauger | download](https://b-ok.cc/book/658048/5489aa)
 * [The C++ Standard Library: A Tutorial and Reference | Nicolai M. Josuttis | download](https://b-ok.cc/book/1293252/a1c59a)
 * [C/C++ | Physics.Math.Code.Books](https://vk.com/topic-51126445_30664955)
-* [C++ and Algorithmic Thinking for the Complete Beginner: Learn to Think Like a Programmer Part 1 of 5] | Aristides Bouras, Loukia Ainarozidou | download](https://b-ok.cc/book/3362414/c32048)
+* [C++ and Algorithmic Thinking for the Complete Beginner: Learn to Think Like a Programmer Part 1 of 5](https://b-ok.cc/book/3362414/c32048)
 * [Exploring C++: The programmer's introduction to C++ | Ray Lischner | download](https://b-ok.cc/book/1003561/677feb)
 * [Beginning Programming with C For Dummies:Book Information and Code Download - For Dummies](https://www.dummies.com/store/product/Beginning-Programming-with-C-For-Dummies.productCd-1118737636,descCd-DOWNLOAD.html)
 * [The Definitive C Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list/562377#562377)
@@ -223,7 +227,18 @@
 * [C Programming Examples on Stacks & Queues](https://www.sanfoundry.com/c-programming-examples-stacks/)
 * [arnavb/project-euler-solutions-cpp](https://github.com/arnavb/project-euler-solutions-cpp)
 
-### CMake and Other Build Systems* [CMake Cookbook: Over 40 recipes enabling you to build, test, and package software for distribution using the CMake suite](http://library.lol/main/ECF89DA6185E63C44E748E0980911FEF)* [eigen.tuxfamily.org/index.php?title=Main_Page](http://eigen.tuxfamily.org/index.php?title=Main_Page)* [cmake.org/cmake/help/v3.21/](https://cmake.org/cmake/help/v3.21/)* [cmake.org/cmake/help/v3.21/guide/tutorial/index.html#guide:CMake%20Tutorial](https://cmake.org/cmake/help/v3.21/guide/tutorial/index.html#guide:CMake%20Tutorial)* [dev-cafe/cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook)* [gitlab.kitware.com/cmake/community/-/wikis/doc/cmake/Useful-Variables](https://gitlab.kitware.com/cmake/community/-/wikis/doc/cmake/Useful-Variables)* [gitlab.kitware.com/cmake/community/-/wikis/home](https://gitlab.kitware.com/cmake/community/-/wikis/home)* [Mastering CMake](http://library.lol/main/E9100B0B4F9826635471985A71BC8154)* [Professional CMake: A Practical Guide](http://library.lol/main/3129EE8545AB645CE1FF0E6BCC409D90)* [Система построения проектов CMake](http://library.lol/main/FD03DB39EE5F06D2CA025601BBCB9A16)
+### CMake and Other Build Systems
+
+* [CMake Cookbook: Over 40 recipes enabling you to build, test, and package software for distribution using the CMake suite](http://library.lol/main/ECF89DA6185E63C44E748E0980911FEF)
+* [eigen.tuxfamily.org/index.php?title=Main_Page](http://eigen.tuxfamily.org/index.php?title=Main_Page)
+* [cmake.org/cmake/help/v3.21/](https://cmake.org/cmake/help/v3.21/)
+* [cmake.org/cmake/help/v3.21/guide/tutorial/index.html#guide:CMake%20Tutorial](https://cmake.org/cmake/help/v3.21/guide/tutorial/index.html#guide:CMake%20Tutorial)
+* [dev-cafe/cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook)
+* [gitlab.kitware.com/cmake/community/-/wikis/doc/cmake/Useful-Variables](https://gitlab.kitware.com/cmake/community/-/wikis/doc/cmake/Useful-Variables)
+* [gitlab.kitware.com/cmake/community/-/wikis/home](https://gitlab.kitware.com/cmake/community/-/wikis/home)
+* [Mastering CMake](http://library.lol/main/E9100B0B4F9826635471985A71BC8154)
+* [Professional CMake: A Practical Guide](http://library.lol/main/3129EE8545AB645CE1FF0E6BCC409D90)
+* [Система построения проектов CMake](http://library.lol/main/FD03DB39EE5F06D2CA025601BBCB9A16)
 
 * [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 * [CMake - User Interaction Guide](https://cmake.org/cmake/help/latest/guide/user-interaction/index.html)

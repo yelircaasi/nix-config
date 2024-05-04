@@ -22,7 +22,7 @@
 * (4) [zed](https://zed.dev/)
 * (4) [lem](https://github.com/lem-project/lem)
 
-## SORT - GUI Editors
+## GUI Editors
 
 * ( ) [zed language extensions](https://zed.dev/blog/language-extensions-part-1)
 * ( ) [androidstudio](https://developer.android.com/studio)
@@ -39,6 +39,9 @@
 * (2) [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
 * (4) [rstudio](https://www.rstudio.com/products/RStudio)
 * (3) [FeatherEditor](https://github.com/0xBaca/FeatherEditor)
+* (2) [azuredatastudio](https://github.com/Microsoft/azuredatastudio): A data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
+* ( ) [vscode + azure](https://code.visualstudio.com/docs/azure/extensions)
+* ( ) [diffuse](https://mightycreak.github.io/diffuse/) diff editor
 
 ## Web IDE / Notebook
 
@@ -59,10 +62,13 @@
 
 ## Editing, Document Creation
 
+* ( ) [Manuskript – Open-source tool for writers](https://www.theologeek.ch/manuskript/)
 * ( ) [scribus](https://github.com/scribusproject/scribus)
 * (2) [xournalpp](https://xournalpp.github.io/)
 * ( ) [sigil](https://sigil-ebook.com/)
 * ( ) [LibreOffice Draw](...)
+* LibreOffice
+* ( ) [ONLYOFFICE - Secure Online Office | ONLYOFFICE](https://www.onlyoffice.com/)
 * ( ) [pdfarranger](https://github.com/pdfarranger/pdfarranger)
 * ( ) [pdfslicer](https://junrrein.github.io/pdfslicer/)
 * (2) [luatex](https://gitlab.lisn.upsaclay.fr/texlive/luatex)
@@ -100,6 +106,7 @@ editor neovim-related* ( ) [behansa](https://github.com/las-nish/Behansa)
 * ( ) [chameleon](https://github.com/life4/chameleon)
 * ( ) [typst](https://github.com/typst/typst)
 * ( ) [markdeep](https://casual-effects.com/markdeep/)
+* ( ) [mdvtbl](https://github.com/karino2/mdvtbl) - GUI GFM markdown table editor with stdin-stdout
 
 ### epub
 
@@ -124,6 +131,15 @@ editor neovim-related* ( ) [behansa](https://github.com/las-nish/Behansa)
 * ( ) [quarto](https://quarto.org/docs/get-started/)
 * ( ) [qtconsole](...)
 * ( ) [jpterm](...)
+
+### Other Notebooks
+
+* ( ) [marimo-team/marimo: A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.](https://github.com/marimo-team/marimo)
+* ( ) [docs.runme](https://docs.runme.dev/) webapp notebook
+* ( ) [jupyter](...) (entire suite)
+* ( ) [nteract](https://nteract.io/desktop)
+* ( ) [Apache Zeppelin](https://zeppelin.apache.org/)
+* ( ) [polynote/](https://github.com/polynote/polynote/)
 
 ### Presentation
 
@@ -150,7 +166,8 @@ editor neovim-related* ( ) [behansa](https://github.com/las-nish/Behansa)
 
 ## Books and Reading
 
-* (2)  [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/)
+* (2)  [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) -> [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build), * ( ) [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html)
+   | ( ) [sioyek](https://github.com/ahrm/sioyek) PDF viewer with a focus on textbooks and research papers
    | [apvlv](https://github.com/naihe2010/apvlv)
    | [llpp](https://repo.or.cz/w/llpp.git) (supports synctex)
    | [qpdfview](https://launchpad.net/qpdfview) (also supports synctex)

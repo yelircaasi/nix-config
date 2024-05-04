@@ -10,33 +10,63 @@
 (4) - not decided yet / maybe later
 (5) - some rewriting or packaging necessary (but to be added)
 
-### SORT
+### Boot Tools
 
-* ( ) [ansible](https://github.com/j0giwa/ansible)
-* ( ) [NixOS 78: Systemd User Services - YouTube](https://www.youtube.com/watch?v%3DmFgxtWx5W0w)
 * ( ) [tow-boot](https://tow-boot.org/)
-* bootloader / kernel hardening [...](https://www.reddit.com/r/NixOS/s/UhoOeQnx6T)
-* {boot} ( ) [libreboot article](https://9to5linux.com/libreboot-open-source-bios-uefi-firmware-adds-more-hardware-support) libreboot
-* {container} ( ) [docker vs podman at DuckDuckGo](https://duckduckgo.com/?q%3Ddocker%2Bvs%2Bpodman%26ia%3Dweb)
-* {container} ( ) [Podman vs Docker: In-Depth Comparison](https://phoenixnap.com/kb/podman-vs-docker)
-* {gui} ( ) [AtomsDevs/Atoms: Easily manage Linux Chroot(s) and Containers with Atoms.](https://github.com/AtomsDevs/Atoms)
-* {gui} ( ) [TUXEDO Control Center - GNU/Linux.ch](https://gnulinux.ch/tuxedo-control-center)
-* {input zh} ( ) [fcitx-im](https://fcitx-im.org/) - Chinese input method
-* {input zh} ( ) [fcitx/fcitx5: maybe a new fcitx.](https://github.com/fcitx/fcitx5)
-* {input zh} ( ) [fcitx5](https://github.com/fcitx/fcitx5)
-* {sync} ( ) [foldersync](https://foldersync.io/)
-* {systemd} ( ) [*Using systemd unit files to customize and optimize your system Red Hat Enterprise Linux 8 | Red Hat Customer Portal](https://access.redhat.com/documentation/enus/red_hat_enterprise_linux/8/html-single/using_systemd_unit_files_to_customize_and_optimize_your_system/index)
-* {systemd} ( ) [How to run systemd in a container | Red Hat Developer](https://developers.redhat.com/blog/2019/04/24/how-to-run-systemd-in-a-container%23enter_podman)
-* {systemd} ( ) [System and Service Manager](https://systemd.io/)
-* {systemd} ( ) [systemd_in_suse_linux_enterprise_12_white_paper.pdf](https://documentation.suse.com/external-tree/en-us/sles/12-SP4/systemd_in_suse_linux_enterprise_12_white_paper.pdf)
-* {tui} ( ) [bluetui](https://github.com/pythops/bluetui)
-* {ricing boot} ( ) [bsol](https://github.com/harishnkr/bsol)
+* ( ) [bsol](https://github.com/harishnkr/bsol)
+* (5) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [tutorial](https://www.linuxfordevices.com/tutorials/linux/grub-customizer-tutorial)
+* ( ) [rEFInd](https://www.rodsbooks.com/refind/) - rEFInd is a fork of the rEFIt boot manager. Like rEFIt, rEFInd can auto-detect your installed EFI boot loaders and it presents a pretty GUI menu of boot options. → tools boot - great resource [rodsbooks.com/refind/](https://www.rodsbooks.com/refind/)
+* ( ) [libreboot article](https://9to5linux.com/libreboot-open-source-bios-uefi-firmware-adds-more-hardware-support) libreboot
+* [bootloader / kernel hardening](https://www.reddit.com/r/NixOS/s/UhoOeQnx6T)
+
+### ISO Creation
+
 * (3) [popsicle](https://github.com/pop-os/popsicle)
    |  [etcher](https://www.balena.io/etcher/)
    |  [ventoy](https://www.ventoy.net/en/index.html)
    |  [unetbootin](https://unetbootin.github.io/)
    |  [multibootusb](https://github.com/Death259/multibootusb)
+
+### Modprobe
+
 * (3) [modprobed-db](https://github.com/graysky2/modprobed-db)
+
+### Bluetooth
+
+* ( ) [bluetui](https://github.com/pythops/bluetui)
+
+### Non-Nix Config Management
+
+* ( ) [ansible](https://github.com/j0giwa/ansible)
+
+### Key Utils, Mouse, Touch
+
+* (2) [kanata](https://github.com/jtroo/kanata) | [kmonad](https://github.com/kmonad/kmonad)
+* ( ) [showmethekey](https://github.com/AlynxZhou/showmethekey) - Show keys you typed on screen.
+* ( ) [~shinyzenith/swhkd - Sxhkd clone for Wayland (works on TTY and X11 too) - sourcehut git](https://git.sr.ht/~shinyzenith/swhkd)
+* ( ) [libxkbcommon/blob/master/include/xkbcommon/xkbcommon-keysyms.h](https://github.com/xkbcommon/libxkbcommon/blob/master/include/xkbcommon/xkbcommon-keysyms.h)
+* ( ) [screenkey](https://github.com/larsbrinkhoff/screenkey) - screencast tool
+* ( ) [fusuma](https://github.com/iberianpig/fusuma) - multitouch gestures
+* ( ) [rvaiya/warpd: A modal keyboard-driven virtual pointer](https://github.com/rvaiya/warpd)
+* (2) [emote](https://github.com/tom-james-watson/emote) | (5) [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.
+
+#### Chinese Input
+
+* ( ) [fcitx-im](https://fcitx-im.org/) - Chinese input method
+* ( ) [fcitx/fcitx5: maybe a new fcitx.](https://github.com/fcitx/fcitx5)
+* ( ) [fcitx5](https://github.com/fcitx/fcitx5)
+
+### App Running, User Management, Permissions
+
+* (2) [ego](https://github.com/intgr/ego) - Alter Ego: run Linux desktop applications under a different local user
+
+### SystemD
+
+* ( ) [*Using systemd unit files to customize and optimize your system Red Hat Enterprise Linux 8 | Red Hat Customer Portal](https://access.redhat.com/documentation/enus/red_hat_enterprise_linux/8/html-single/using_systemd_unit_files_to_customize_and_optimize_your_system/index)
+* ( ) [How to run systemd in a container | Red Hat Developer](https://developers.redhat.com/blog/2019/04/24/how-to-run-systemd-in-a-container%23enter_podman)
+* ( ) [System and Service Manager](https://systemd.io/)
+* ( ) [systemd_in_suse_linux_enterprise_12_white_paper.pdf](https://documentation.suse.com/external-tree/en-us/sles/12-SP4/systemd_in_suse_linux_enterprise_12_white_paper.pdf)
+* ( ) [NixOS 78: Systemd User Services - YouTube](https://www.youtube.com/watch?v%3DmFgxtWx5W0w)
 
 ### System Management
 
@@ -156,7 +186,7 @@
 
 * (3) [tuxedo-rs](https://github.com/AaronErhardt/tuxedo-rs)
 * (2) [tailor-gui](https://search.nixos.org/packages?channel=23.11&show=tailor-gui&from=0&size=50&sort=relevance&type=packages&query=tuxedo+control)
-* (6) [tuxedo-control-center](...)
+* ( ) [TUXEDO Control Center - GNU/Linux.ch](https://gnulinux.ch/tuxedo-control-center)
 
 ## Debian-based-only
 

@@ -2,6 +2,28 @@
 
 ## Sort
 
+* {pi} [gokrazy](https://gokrazy.org/)
+* {proglang} [~sircmpwn/hare - The Hare programming language - sourcehut git](https://git.sr.ht/~sircmpwn/hare)
+* {proglang} [BQN: finally, an APL for your flying saucer](https://mlochbaum.github.io/BQN/)
+* {proglang} [cue-lang](https://github.com/cue-lang)
+* {proglang} [CUE](https://cuelang.org/)
+* {proglang} [Example](https://www.idris-lang.org/pages/example.html)
+* {proglang} [flutter blog post](http://matthiasnehlsen.com/blog/2022/05/15/switched-to-flutter-lost-10-kilos/)[How I switched to Flutter and lost 10 kilos](http://matthiasnehlsen.com/blog/2022/05/15/switched-to-flutter-lost-10-kilos/)
+* {proglang} [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
+* {proglang} [LiveScript - a language which compiles to JavaScript](https://livescript.net/)
+* {proglang} [ML](https://github.com/hexaredecimal/ML) - small general purpose programming language for programming on the JVM. Package manager: [smllregister.github.io](https://smllregister.github.io)
+* {proglang} [ni](https://github.com/Nathan-Fenner/Ni) old nickel programming language
+* (2) [SwitchAxe/Rewire: A configurable programming language!](https://github.com/SwitchAxe/Rewire)
+* {proglang fp} [beluga](https://complogic.cs.mcgill.ca/beluga/)
+* {proglang misc} [...](https://bytedream.github.io/litbwraw/)
+* {proglang-related} [...](https://pygments.org/docs/cmdline/)
+* {proglang-related} [...](https://pygments.org/languages/)
+* {purescript meta} [Recommended tooling for PureScript in 2020 - Chat - PureScript Language Forum](https://discourse.purescript.org/t/recommended-tooling-for-purescript-in-2020/1615)
+* {purescript meta} [Recommended Tooling for PureScript in 2021 - Chat - PureScript Language Forum](https://discourse.purescript.org/t/recommended-tooling-for-purescript-in-2021/2725)
+* {R} [...](https://datalorax.github.io/equatiomatic/articles/intro-equatiomatic.html)
+* [Nelua](https://nelua.io/)
+* [Nickel](https://nickel-lang.org/user-manual/typing/)
+* [Wren](https://wren.io/)
 * [Unisay/purescript-lua](https://github.com/Unisay/purescript-lua)
 * [flyde.dev/](https://www.flyde.dev/) - visual programming language for developers
 * [roc-lang.org/tutorial](https://www.roc-lang.org/tutorial)
@@ -251,7 +273,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Java Asynchronous Programming](https://www.youtube.com/watch?v=rUbZcRgaSY4)
 * [Структуры данных и алгоритмы JAVA. 2-е издание [2013] Роберт Лафоре.pdf](https://vk.com/doc44301783_595603890?hash=2a3ae9a884ef9d04c2&dl=5017868bd3fb5b14f5)
 * [Sams Teach Yourself Java in 21 Days (Covers Java 11/12)
-* [8 ed.]](http://libgen.rs/book/index.php?md5=56D359890E435BD14024E627B8F60F49)
+* [Sams Teach Yourself Java in 21 Days (Covers Java 11/12)](http://libgen.rs/book/index.php?md5=56D359890E435BD14024E627B8F60F49)
 * [Sams Teach yourself Java in 24 Hours [8th ed.]](http://libgen.rs/book/index.php?md5=D09A156B28CE3A26EFD211FE0A9C6991)* [asdfjkl/jerry](https://github.com/asdfjkl/jerry)
 * [PHP: Manual do PHP - Manual](https://www.php.net/manual/pt_BR/index.php)
 * [Java - Como Programar.pdf](https://en.de1lib.org/book/2838647/237896)
@@ -577,13 +599,11 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Premier cours de programmation avec Schéme: du fonctionnel pur aux objets avec DrRacket | Jean-Paul Roy | download](https://b-ok.cc/book/2352854/1c7192)
 * [Should I learn Scheme or Racket? - Quora](https://www.quora.com/Should-I-learn-Scheme-or-Racket)
 * [The Scheme Programming Language](http://groups.csail.mit.edu/mac/projects/scheme/)
-* [What are the advantages of using Racket over other programming languages? Is Racket ever used for commercial projects or applications? - Quora](https://www.quora.com/What-are-the-advantages-of-using-Racket-over-other-programming-languages-Is-Racket-ever-used-for-commercial-projects-or-applications#:~:text=Racket has advanced linguistic support,and cheaply within the program.)
+* [What are the advantages of using Racket over other programming languages? Is Racket ever used for commercial projects or applications? - Quora](https://www.quora.com/What-are-the-advantages-of-using-Racket-over-other-programming-languages-Is-Racket-ever-used-for-commercial-projects-or-applications#:~:text=Racket) has advanced linguistic support,and cheaply within the program.)
 * [Wie man Computern das Ableiten beibringt oder: Warum Lisp? - YouTube](https://www.youtube.com/watch?v=EyhL1DNrSME)
 * The Little Schemer – 4th Edition
 * [Lisp | Physics.Math.Code.Books](https://vk.com/topic-51126445_36552644)
-
-## [Maxima](https://maxima.sourceforge.io/) - Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, and much more.
-
+* [Maxima](https://maxima.sourceforge.io/) - Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, and much more.
 * [janet.guide/*](https://janet.guide/*) [Babashka book](https://book.babashka.org/)
 * [norvig.github.io/paip-lisp/#/](https://norvig.github.io/paip-lisp/#/)
 * [IT Муравейник – про Common Lisp на русском языке!](https://www.youtube.com/@40Ants?app=desktop)
@@ -651,15 +671,10 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [privatenumber/cleye](https://github.com/privatenumber/cleye)
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh)
 * Book: [JS RegEx](https://learnbyexample.github.io/learn_js_regexp/)
-
-##    [Bible.Js CLI](https://github.com/BibleJS/BibleApp)) - Bible.
-
-##    [football-cli](https://github.com/ManrajGrover/football-cli)) - Get live scores, fixtures, standings of almost every football competition/league.
-
-##    [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot)) - Traverse the Mandelbrot fractal.
-
-##    [sparkly-cli](https://github.com/sindresorhus/sparkly-cli)) - Generate sparklines ▁▂▃▅▂▇..
-
+* [Bible.Js CLI](https://github.com/BibleJS/BibleApp)) - Bible.
+* [football-cli](https://github.com/ManrajGrover/football-cli)) - Get live scores, fixtures, standings of almost every football competition/league.
+* [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot)) - Traverse the Mandelbrot fractal.
+* [sparkly-cli](https://github.com/sindresorhus/sparkly-cli)) - Generate sparklines ▁▂▃▅▂▇..
 * [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat)
 * [matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [JS Neural Networks](https://youtu.be/Rs_rAxEsAvI)
@@ -694,9 +709,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [fennel-lang.org/](https://fennel-lang.org/)
 * [moonscript.org/](https://moonscript.org/)
 * [teal-language/tl](https://github.com/teal-language/tl)
-
-( [MhadhbiXissam/pythonicLua)](https://github.com/MhadhbiXissam/pythonicLua))
-* [Lua Crash Course - Less than 15mins - YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiBwe-p55L-AhXdg_0HHQFXAlAQtwJ6BAgQEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkgiEF1frHQ8&usg=AOvVaw16xnvw_Ix5Ba-1gSQt1C5T)
+* [MhadhbiXissam/pythonicLua](https://github.com/MhadhbiXissam/pythonicLua)
+* Lua Crash Course - Less than 15mins - YouTube
 * [lua-users wiki: Lua Style Guide](http://lua-users.org/wiki/LuaStyleGuide)
 * [luapower - The LuaJIT distribution for Windows, Linux and OS X](https://luapower.com/)
 * [wubingzheng.github.io/build-lua-in-rust/en/](https://wubingzheng.github.io/build-lua-in-rust/en/)
@@ -774,7 +788,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * 7. `main.lua`: This file serves as the entry point of your Lua application. It typically contains the main logic or function calls to start and run your program.
 * Let's explore each component in more detail:
 
-```
+```sh
 * luaCopy code
 * project/
   |- main.lua          -- The entry point of your application
@@ -786,6 +800,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
   |- README.md         -- Project README file
 
 ```
+
 * The structure of a Lua project can vary depending on the specific requirements, frameworks, or libraries being used. However, there are some common conventions and practices that can be followed to organize a Lua project. Here's a standard structure that you can use as a starting point:
 * [Algebraic Data Types in Lua](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
 * [MhadhbiXissam/pythonicLua](https://github.com/MhadhbiXissam/pythonicLua)
@@ -1233,7 +1248,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [wasm.builders/](https://www.wasm.builders/)
 * [docker.com/blog/docker-wasm-technical-preview/](https://www.docker.com/blog/docker-wasm-technical-preview/)
 
-## C#, F#, etc.
+## C#, F#, etc
 
 * [Format Your .NET Code with Git Hooks | by Randula Koralage | Medium](https://randulakoralage82.medium.com/format-your-net-code-with-git-hooks-a0dc33f68048)
 * [Setting up pre-commit hooks for a .NET project](https://andrewnt.dev/setting-up-pre-commit-hooks-for-a-net-project)
@@ -1355,13 +1370,9 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [kcl-lang.io/](https://kcl-lang.io/)
 * [mavka-ukr/mavka](https://github.com/mavka-ukr/mavka) [мавка.укр/](https://xn--80aaf6ah.xn--j1amh/)
 * [libgen.is/search.php?&req=Bruce+tate&phrase=1&view=simple&column=author&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=Bruce+tate&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)  (Elixir)
-
-## [Grep Exercises](https://url6652.creators.gumroad.com/ls/click?upn=56j1UXPh1eye3mggAaGeSozoLopcIBtaMY6kC1OjuuTsfLN2qgVtxzs2YbF6MethSXgNdmro1E-2BSFS6m0vGJ5pkCqvNlw0n-2BFQnL2lRAmLs-3DZGHb_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJtpfu3uN9QXWSEVAiG0giAEROyvE0zQOoXOiiMDVg4Fsq8w6Zs8rGdSbMZD2aBXb5i4uoFNj8XsEA7mtMBFVWqsHQLLA9n-2FyBw-2B740Etvomb821njsZo-2FgP0zcqnJjpUTUsJZFzEBz3QJ-2BAbvJzuYwk5N-2FuivlVvEu5roljSBqYyh6TJgBLGmtbjdXyAjgr5b7vBC0YxiNMYbhh8IiWv6Ycs3W35yJnH3hmrGpbb36fT184wshZJ5XVh1tiiq1NMh-2Fg8z6gF74rsu8HMIm4c9Q9bAKRAdFa4Ly2ekGxsBf5ruYp2jFNQsnZEWupbxM-2Fzn091XhkI7v-2BM82N97167FonNPt6uHhAzJzXkTr9zAOzgSROjNhVEqyyeGN1oVhDDIwwJwRgIw-2BUfV2Gn83oc0R5YKy2pS2XKEb-2BULFqpLyg7lQT331vy4qapWkD4Yka9H7Uz5wFzPsDDh3n7P-2Fhy-2FlGU9BwKjxEK97-2FSwA54B5uXJbWEm52zp8-2BvTsC3qOrgss-3D) — 50+ exercises for `GNU grep`
-
-## [Sed Exercises](https://url6652.creators.gumroad.com/ls/click?upn=56j1UXPh1eye3mggAaGeSozoLopcIBtaMY6kC1OjuuTsfLN2qgVtxzs2YbF6MethP979XtltcG9Twdksj4AbkmaK-2FZ-2FyruTtXMBosHt7TGg-3Do3fh_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJtpfu3uN9QXWSEVAiG0giAEROyvE0zQOoXOiiMDVg4Fsq8w6Zs8rGdSbMZD2aBXb5i4uoFNj8XsEA7mtMBFVWqsHQLLA9n-2FyBw-2B740Etvomb821njsZo-2FgP0zcqnJjpUTUsJZFzEBz3QJ-2BAbvJzuYwk5N-2FuivlVvEu5roljSBqYyh6TJgBLGmtbjdXyAjgr5b7vBC0YxiNMYbhh8IiWv6YcgxCnhSxMvQCKISK7Gwr9F4LgzgwXeqwrraH-2BSlpEG8pJNAqQ2L0KljXraOFySnNemv4yBwydB1RBXeHcpQiwPH4nquB2NZ-2BNGqCx9E5HNNHGe2QNWvsq7r7duAg1PWRtMzFdpe0iZYbyrjo0S5BeYruLwGDiCd8Ac5Y55-2BhWioVg57pzraWcDxOpiyyxq3-2Bcp-2FyEHM7KZSApjCUWtQKecuEpDtmcLgwirB53S-2BhUMWJfUy5FysgrjjAitqdBReyT7JHaQqi9A4V6ABCRXXkj9elkH2lxTR0VQc79Xz5phmU-3D) — 50+ exercises for `GNU sed`
-
-## [Awk Exercises](https://url6652.creators.gumroad.com/ls/click?upn=56j1UXPh1eye3mggAaGeSozoLopcIBtaMY6kC1OjuuTsfLN2qgVtxzs2YbF6MethLxlGP0muRNAH-2Bv6El5EZMb3Cbpk84ETXrpgYOMuYf9c-3Dd6GN_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJtpfu3uN9QXWSEVAiG0giAEROyvE0zQOoXOiiMDVg4Fsq8w6Zs8rGdSbMZD2aBXb5i4uoFNj8XsEA7mtMBFVWqsHQLLA9n-2FyBw-2B740Etvomb821njsZo-2FgP0zcqnJjpUTUsJZFzEBz3QJ-2BAbvJzuYwk5N-2FuivlVvEu5roljSBqYyh6TJgBLGmtbjdXyAjgr5b7vBC0YxiNMYbhh8IiWv6YcBPE15JUhTxIKXmIQIY37-2BQ3qJu4F-2BR2R53fPKVQF3sofeI0bLfmF5sjqG9iGUVD6SZMgVBEtCnxReaXZTK8WuktyqrZl-2FkgR7ftH0UzNF-2Bp-2BFEbFUwjS-2BpURpwUIdd-2BAPd001-2FDdo6o2DiGZ61VHOFz0MlOgr6vw2udTmFHCjgBC-2BinWwlaiwHUDwRQ-2BBSGVcFuQum8gYDjNX9tB2-2BQNV0b2C7NRvtCgxRwCDrYJgSGLzPY6BXIWvVORqF8EgxPhkAMUv2uCUu9YoNpPHl7KUalgoZOShZBLETlo7YUBBfI-3D) — 80+ exercises for `GNU awk`
-
+* [Grep Exercises](https://github.com/learnbyexample/TUI-apps/tree/main/GrepExercises) — 50+ exercises for `GNU grep`
+* [Sed Exercises](https://github.com/learnbyexample/TUI-apps/tree/main/SedExercises) — 50+ exercises for `GNU sed`
+* [Awk Exercises](https://github.com/learnbyexample/TUI-apps/tree/main/AwkExercises) — 80+ exercises for `GNU awk`
 * [gluon-lang/gluon: A static, type inferred and embeddable language written in Rust.](https://github.com/gluon-lang/gluon)
 * [rubykoans.com/](https://www.rubykoans.com/)
 * [Programming Phoenix LiveView: Interactive Elixir Web Programming Without Writing Any JavaScript](http://library.lol/main/9C5056C39C0169040C815A75688A4BAB)
@@ -1416,9 +1427,6 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [trizen/sidef](https://github.com/trizen/sidef)
 * [jruby.org/](https://www.jruby.org/)
 * [opheron.github.io/rust-starter-pack/](https://opheron.github.io/rust-starter-pack/)
-
-## [ ]  [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
-
 * [fogleman/pt](https://github.com/fogleman/pt) go
 * [mattgodbolt/path-tracer](https://github.com/mattgodbolt/path-tracer) rust
 * [robnormal/papuascript](https://github.com/robnormal/papuascript)

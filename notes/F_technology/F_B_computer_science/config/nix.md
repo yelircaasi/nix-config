@@ -191,6 +191,7 @@ challenge: synchronize languages and features with init.lua
 * Create nand2tetris for NixOS → add to nixpkgs
 
 Roadmap
+
 * [x] install Nix
 * [x] try out Nix package manager
 * [x] install NixOS
@@ -203,7 +204,9 @@ Roadmap
 * [ ] create post on Nix discourse asking for help with poetry2nix editable installs
 * [ ] back up current configs on Hank
 * [ ] add configs to home-manager config:
-* Notes
+
+Notes
+
 * Talk about pure functional programming, esp in terms of input → out and no side effects, no state
 * Talk about package hashing as a means of unique identification of a package and its dependencies and the guarantees that brings with it
 * Talk about links, soft and hard, and how they are used in Nix
@@ -219,7 +222,7 @@ Roadmap
 * [peterldowns/nix-search-cli](https://github.com/peterldowns/nix-search-cli)
 * Create language server / parser / highlighter for .drv files, add .drv support to bat
 * Look at Poetry2Nix and modify it to use pre-built: [github.com](https://github.com/lazamar/nix-package-versions)
-* [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) →https://github.com/nix-community/pip2nix?
+* [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) → [nix package versions](https://github.com/nix-community/pip2nix)
 
 ```nix
 * buildPythonPackage {
@@ -673,6 +676,7 @@ internal * $$$ [jonathanlorimer.dev](https://jonathanlorimer.dev/posts/nix-thesi
 * {internals} [nixos.org](https://nixos.org/manual/nix/stable/package-management/profiles)
 * {internals} [nixos.wiki](https://nixos.wiki/wiki/Ca-derivations)
 * {internals} [packaging - How to package my software in nix or write my own package derivation for nixpkgs - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/717168/how-to-package-my-software-in-nix-or-write-my-own-package-derivation-for-nixpkgs)
+* ( ) [(Towards) stable C bindings for libutil, libexpr by yorickvP · Pull Request #8699 · NixOS/nix](https://github.com/NixOS/nix/pull/8699)
 
 ## ## Nix Tools
 
@@ -957,7 +961,7 @@ nvim * name ideas: vixnim, (moshavim, VitaeVim)
 * [ ] xonsh
 * [ ] zsh
 * [ ]
-* $HOME* - from Betsy* -
+* $HOME (from Betsy)
 * [ ] .bash_history
 * [ ] .emacs.d
 * [ ] .gitconfig
@@ -1078,7 +1082,7 @@ nvim * name ideas: vixnim, (moshavim, VitaeVim)
 * [ ] treesheets-isaac
 * [ ] workspace
 
-# Resources
+2
 
 ## Top General Resources
 
@@ -1199,7 +1203,7 @@ nvim * name ideas: vixnim, (moshavim, VitaeVim)
 
 * [blog.ielliott.io](https://blog.ielliott.io/nix-docs/mkDerivation.html#reference-inputs-installPhase)
 * [canonical/landscape-client/releases/](https://github.com/canonical/landscape-client/releases/) If there isn't an existing Nix expression, you might need to create one manually. Create a Nix expression (.nix file) for landscape-client by specifying its source, dependencies, and build instructions
-* - { lib, buildInputs, fetchurl }: lib.mkDerivation { pname = "landscape-client"; version = "your_version_number"; src = fetchurl { url = "<https://example.com/path/to/landscape-client.tar.gz>"; sha256 = "..."; }; buildInputs = [ /* dependencies, if any */ ]; }
+* { lib, buildInputs, fetchurl }: lib.mkDerivation { pname = "landscape-client"; version = "your_version_number"; src = fetchurl { url = "<https://example.com/path/to/landscape-client.tar.gz>"; sha256 = "..."; }; buildInputs = [ /* dependencies, if any */ ]; }
 * Replace "<https://example.com/path/to/landscape-client.tar.gz>" with the actual URL of the landscape-client source tarball.
 * Build and Install: Save the Nix expression to a file (e.g., landscape-client.nix) and build and install it using the following command:
 * nix-env -f landscape-client.nix -i
@@ -1208,9 +1212,9 @@ nvim * name ideas: vixnim, (moshavim, VitaeVim)
 * {landscape} [How to manage computers in Landscape | Ubuntu](https://ubuntu.com/landscape/docs/managing-computers%23heading--access-information-about-computers)
 * {landscape} [landscape.nixlang.wiki](https://landscape.nixlang.wiki/)
 * {landscape} [Language Constructs - Nix Reference Manual](https://nixos.org/manual/nix/stable/language/constructs.html)
-landscape * landcape [landscape-client/setup_client.py at master · canonical/landscape-client](https://github.com/canonical/landscape-client/blob/master/setup_client.py)
-landscape * landscape [Commits · yelircaasi/landscape-client-nixos](https://github.com/yelircaasi/landscape-client-nixos/commits/nixos/)
-landscape * landscape [github.com](https://github.com/canonical/landscape-scripts)
+* landcape [landscape-client/setup_client.py at master · canonical/landscape-client](https://github.com/canonical/landscape-client/blob/master/setup_client.py)
+* landscape [Commits · yelircaasi/landscape-client-nixos](https://github.com/yelircaasi/landscape-client-nixos/commits/nixos/)
+* landscape [github.com](https://github.com/canonical/landscape-scripts)
 * {snap} [flake.lock: Update by github-actions[bot] · Pull Request #3 · io12/nix-snapd](https://github.com/io12/nix-snapd/pull/3/commits)
 * {snap} [This is how I roll](https://linuxmatters.sh/19/) snaps on nixos
 
@@ -1457,7 +1461,9 @@ python * fetch credentials provider [github.com](https://github.com/NixOS/nix/i
 * [nixcloud/](https://github.com/nixcloud/)
 * [Chris McDonough](https://www.youtube.com/playlist?list=PLa01scHy0YEnsvjvMNNk-JSvTdL_ivsml)
 * [garnix.io](https://garnix.io/)
-* - Next Steps*
+
+## Next Steps
+
 * [nixos.org](https://nixos.org/download.html#nixos-iso) try install on Darlene -> first remember password, then learn about nom-graphical installation for nixos
 * debug nixGL alacritty
 * debug nyxt under nix
@@ -1491,25 +1497,25 @@ python * fetch credentials provider [github.com](https://github.com/NixOS/nix/i
 * [The Secret of Nix - YouTube](https://www.youtube.com/watch?v=sSn1svY14Ds)
 * [Getting Started with Nix - YouTube](https://www.youtube.com/watch?v=xXlCcdPz6Vc&t=1351s)
 * [Getting Started with Nix](https://www.youtube.com/watch?v=xXlCcdPz6Vc)
-* {nixlang} [[RFC 0137] Nix language versioning by fricklerhandwerk · Pull Request #137 · NixOS/rfcs](https://github.com/NixOS/rfcs/pull/137)
-* {nixlang} [2023-nix-developer-dialogues-live-stream](https://discourse.nixos.org/t/2023-nix-developer-dialogues-live-stream/35386)
-* {nixlang} [Add missing 'nix profile' subcommands by edolstra · Pull Request #5249 · NixOS/nix](https://github.com/NixOS/nix/pull/5249)
-* {nixlang} [Alternative language - NixOS Discourse](https://discourse.nixos.org/t/alternative-language/5218)
-* {nixlang} [Alternative language - NixOS Discourse](https://discourse.nixos.org/t/alternative-language/5218/10)
-* {nixlang} [elco Dolstra - The Evolution of Nix (SoN2022 - public lecture series)](https://www.youtube.com/watch?v=h8hWX_aGGDc&t=2900s)
-* {nixlang} [How to (partially) compensate for the lack of static typing / type annotations? - Help - NixOS Discourse](https://discourse.nixos.org/t/how-to-partially-compensate-for-the-lack-of-static-typing-type-annotations/40139)
-* {nixlang} [how-to-partially-compensate-for-the-lack-of-static-typing-type-annotations](https://discourse.nixos.org/t/how-to-partially-compensate-for-the-lack-of-static-typing-type-annotations/40139)
-* {nixlang} [issues](https://github.com/NixOS/nixpkgs/issues?q=is%3Aissue+is%3Aopen)
-* {nixlang} [lib.options: NixOS / nixpkgs option handling | nixpkgs](https://ryantm.github.io/nixpkgs/functions/library/options/)
-* {nixlang} [mkIf vs if / then - Help - NixOS Discourse](https://discourse.nixos.org/t/mkif-vs-if-then/28521)
-* {nixlang} [Module system deep dive — nix.dev documentation](https://nix.dev/tutorials/module-system/module-system)
-* {nixlang} [Nix Function to Validate Email Address - CodePal](https://codepal.ai/code-generator/query/5pPHhh0W/nix-function-validate-email)
-* {nixlang} [Nix syntax for passing arguments to imported Modules - Help - NixOS Discourse](https://discourse.nixos.org/t/nix-syntax-for-passing-arguments-to-imported-modules/31547/2)
-* {nixlang} [nix-shorts/posts/inspecting-values-with-repl.md at master · alper/nix-shorts](https://github.com/alper/nix-shorts/blob/master/posts/inspecting-values-with-repl.md)
-* {nixlang} [NixLang Wiki | NixLang.wiki](https://nixlang.wiki/)
-* {nixlang} [nixos.org](https://nixos.org/manual/nix/stable/command-ref/conf-file.html)
-nixlang * CAS semantics [github.com](https://github.com/NixOS/rfcs/pull/106)
-nixlang * related to Nix 3.0 [github.com](https://github.com/NixOS/nix/issues/7701)
+* ( ) [[RFC 0137] Nix language versioning by fricklerhandwerk · Pull Request #137 · NixOS/rfcs](https://github.com/NixOS/rfcs/pull/137)
+* ( ) [2023-nix-developer-dialogues-live-stream](https://discourse.nixos.org/t/2023-nix-developer-dialogues-live-stream/35386)
+* ( ) [Add missing 'nix profile' subcommands by edolstra · Pull Request #5249 · NixOS/nix](https://github.com/NixOS/nix/pull/5249)
+* ( ) [Alternative language - NixOS Discourse](https://discourse.nixos.org/t/alternative-language/5218)
+* ( ) [Alternative language - NixOS Discourse](https://discourse.nixos.org/t/alternative-language/5218/10)
+* ( ) [elco Dolstra - The Evolution of Nix (SoN2022 - public lecture series)](https://www.youtube.com/watch?v=h8hWX_aGGDc&t=2900s)
+* ( ) [How to (partially) compensate for the lack of static typing / type annotations? - Help - NixOS Discourse](https://discourse.nixos.org/t/how-to-partially-compensate-for-the-lack-of-static-typing-type-annotations/40139)
+* ( ) [how-to-partially-compensate-for-the-lack-of-static-typing-type-annotations](https://discourse.nixos.org/t/how-to-partially-compensate-for-the-lack-of-static-typing-type-annotations/40139)
+* ( ) [issues](https://github.com/NixOS/nixpkgs/issues?q=is%3Aissue+is%3Aopen)
+* ( ) [lib.options: NixOS / nixpkgs option handling | nixpkgs](https://ryantm.github.io/nixpkgs/functions/library/options/)
+* ( ) [mkIf vs if / then - Help - NixOS Discourse](https://discourse.nixos.org/t/mkif-vs-if-then/28521)
+* ( ) [Module system deep dive — nix.dev documentation](https://nix.dev/tutorials/module-system/module-system)
+* ( ) [Nix Function to Validate Email Address - CodePal](https://codepal.ai/code-generator/query/5pPHhh0W/nix-function-validate-email)
+* ( ) [Nix syntax for passing arguments to imported Modules - Help - NixOS Discourse](https://discourse.nixos.org/t/nix-syntax-for-passing-arguments-to-imported-modules/31547/2)
+* ( ) [nix-shorts/posts/inspecting-values-with-repl.md at master · alper/nix-shorts](https://github.com/alper/nix-shorts/blob/master/posts/inspecting-values-with-repl.md)
+* ( ) [NixLang Wiki | NixLang.wiki](https://nixlang.wiki/)
+* ( ) [nixos.org](https://nixos.org/manual/nix/stable/command-ref/conf-file.html)
+* {nixlang CAS semantics} [github.com](https://github.com/NixOS/rfcs/pull/106)
+* related to Nix 3.0 [github.com](https://github.com/NixOS/nix/issues/7701)
 * {nixlang types} [typednix](https://typednix.dev/) [github link](https://github.com/hsjobeki/nix-types)
 
 ### Introduction
@@ -1641,7 +1647,7 @@ flake * flakes explanation [reddit](https://www.reddit.com/r/NixOS/s/eq9BlQ1sRj
 * [Intro to Flakes](https://youtu.be/K54KKAx2wNc)
 * [Nix flakes explained](https://www.youtube.com/watch?v=S3VBi6kHw5c)
 
-## Videos
+## Videos2
 
 * [Streamline Your Linux Experience with Nix OS Deployment Tools! - YouTube](https://www.youtube.com/watch?v=qXBzpWIQwMY)
 * [The Most Exciting Linux Distro! - YouTube](https://www.youtube.com/watch?v=GkjBMy5ZdG0)
@@ -1845,9 +1851,9 @@ flake * flakes explanation [reddit](https://www.reddit.com/r/NixOS/s/eq9BlQ1sRj
 How to install and nconfigure browser extension with Nix and Home Manager?
 * {hw} [TUXEDO Devices - NixOS Wiki](https://nixos.wiki/wiki/TUXEDO_Devices)
 * {hm } [How to manage user configuration with flakes without home manager on nixos-21.05? - Help - NixOS Discourse](https://discourse.nixos.org/t/how-to-manage-user-configuration-with-flakes-without-home-manager-on-nixos-21-05/16102/11)
-hm *     → [search.nixos.org](https://search.nixos.org/packages?channel=22.11&from=0&size=50&sort=relevance&type=packages&query=gnome+tweaks)
-hm *     → need to install themes in Nix as well → how to install themes in Nix? Where are my themes anyway?
-hm *     → use lxappearances (see [here](https://www.reddit.com/r/NixOS/comments/6j9zlj/how_to_set_up_themes_in_nixos/))
+* → [search.nixos.org](https://search.nixos.org/packages?channel=22.11&from=0&size=50&sort=relevance&type=packages&query=gnome+tweaks)
+* → need to install themes in Nix as well → how to install themes in Nix? Where are my themes anyway?
+* → use lxappearances (see [here](https://www.reddit.com/r/NixOS/comments/6j9zlj/how_to_set_up_themes_in_nixos/))
 * {hm} [**Declarative management of dotfiles with Nix and Home Manager](https://www.bekk.christmas/post/2021/16/dotfiles-with-nix-and-home-manager)
 * {hm} [/results?search_query=nix+home+manager](https://www.youtube.com/results?search_query=nix+home+manager)
 * {hm} [02 - Channels and Home Manager | Nix Series - YouTube](https://www.youtube.com/watch?v=494zlooD7Tg)
@@ -2036,9 +2042,9 @@ hm *     → use lxappearances (see [here](https://www.reddit.com/r/NixOS/commen
 * [simplex-chat/haskell.nix](https://github.com/simplex-chat/haskell.nix)
 * [SoraTenshi/helix/tree/master](https://github.com/SoraTenshi/helix/tree/master)
 * [stackoverflow.com](https://stackoverflow.com/questions/61262216/configuring-fish-shell-prompt-inside-nix-shell)
-app * $$$$$ [nixos.wiki](https://nixos.wiki/wiki/Visual_Studio_Code)
-app * prog [hraban/cl-nix-lite: Common Lisp module for Nix, without Quicklisp](https://github.com/hraban/cl-nix-lite)
-app * suckless [github.com](https://github.com/NixOS/nixpkgs/issues/23200)
+* $$$$$ [nixos.wiki](https://nixos.wiki/wiki/Visual_Studio_Code)
+* prog [hraban/cl-nix-lite: Common Lisp module for Nix, without Quicklisp](https://github.com/hraban/cl-nix-lite)
+* suckless [github.com](https://github.com/NixOS/nixpkgs/issues/23200)
 
 ### TeX
 

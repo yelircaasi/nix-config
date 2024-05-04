@@ -10,6 +10,8 @@
 (4) - not decided yet / maybe later
 (5) - some rewriting or packaging necessary (but to be added)
 
+-> * ( ) [Codelink](https://github.com/Wervice/Codelink)
+
 ## Best
 
 *  [remarkable](https://github.com/jonschlinkert/remarkable) - JS markdown parser
@@ -26,32 +28,19 @@
 * ( ) [fontbase](https://fontba.se/) (not FOSS)
 * ( ) [fontforge](https://fontforge.org/en-US/)
 
-## SORT
+## Finances
 
-* ( ) [...](https://notabug.org/g0tsu/litemdview) (suckless md viewer) $$$
-* ( ) [airtable alt](https://thenewstack.io/baserow-a-no-code-open-source-alternative-to-airtable/)
-* ( ) [Codelink](https://github.com/Wervice/Codelink)
-* ( ) [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build)
-* ( ) [geary - Google Search](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dgeary)
-* ( ) [Graphite](https://github.com/GraphiteEditor/Graphite)
-* ( ) [kdenlive](...)
-* ( ) [Manuskript – Open-source tool for writers](https://www.theologeek.ch/manuskript/)
-* ( ) [OBS Studio](...)
-* ( ) [ONLYOFFICE - Secure Online Office | ONLYOFFICE](https://www.onlyoffice.com/)
-* ( ) [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html)
-* ( ) [Vencord/Vesktop: Vesktop gives you the performance of web Discord and the comfort of Discord Desktop](https://github.com/Vencord/Vesktop)
-* ( ) [claws-mail](https://www.claws-mail.org/) Wayland in 2023
-* {cleanup} ( ) [metadatacleaner.romainvigier](https://metadatacleaner.romainvigier.fr/)
-* {dev db} ( ) [...](https://thenewstack.io/baserow-a-no-code-open-source-alternative-to-airtable/)
-* {inspector} ( ) [NixOS Search - Packages - gtk inspector](https://search.nixos.org/packages?channel%3D23.11%26show%3Dxdg-desktop-portal-gtk%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dgtk%2Binspector)
-* {inspector} ( ) [Projects/GTK/Inspector - GNOME Wiki!](https://wiki.gnome.org/action/show/Projects/GTK/Inspector?action%3Dshow%26redirect%3DProjects%252FGTK%252B%252FInspector)
-* {pdf} ( ) [sioyek](https://github.com/ahrm/sioyek) PDF viewer with a focus on textbooks and research papers
-* {pomodoro} ( ) [solanum](https://apps.gnome.org/Solanum/)
 * {prod} ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter app for helping you managing your expenses. No internet required.
+
+## GUI Inspection
+
+* [Gnome Developer Documentation](https://developer.gnome.org/documentation/index.html)
+* ( ) [NixOS Search - Packages - gtk inspector](https://search.nixos.org/packages?channel%3D23.11%26show%3Dxdg-desktop-portal-gtk%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dgtk%2Binspector)
+* ( ) [Projects/GTK/Inspector - GNOME Wiki!](https://wiki.gnome.org/action/show/Projects/GTK/Inspector?action%3Dshow%26redirect%3DProjects%252FGTK%252B%252FInspector)
 
 ## GUI Spreadsheet
 
-* ( ) [LibreOffic](https://www.libreoffice.org/)
+* ( ) [LibreOffice](https://www.libreoffice.org/)
 * ( ) [teapot](https://github.com/samuelludwig/teapot)
 * ( ) [sc-im]([sc-im](https://github.com/andmarti1424/sc-im) - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software."
 * ( ) [123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 Release 3 to Linux.
@@ -59,13 +48,7 @@
         [syntax-k.de/projekte/teapot/](https://github.com/NixOS/nixpkgs/issues/147213) [...](https://www.syntax-k.de/projekte/teapot/) [...](https://github.com/NixOS/nixpkgs/issues/147213)
         [syntax-k.de/projekte/teapot/)](https://www.syntax-k.de/projekte/teapot/))
 * ( ) [treesheets](https://github.com/aardappel/treesheets) - [ORGANISE YOUR HACKS WITH TREESHEETS: AN OPEN SOURCE HIERARCHICAL SPREADSHEET](https://hackaday.com/2022/09/07/organise-your-hacks-with-treesheets-an-open-source-hierarchical-spreadsheet/)
-
-## Notebooks
-
-* ( ) [jupyter](...) (entire suite)
-* ( ) [nteract](https://nteract.io/desktop)
-* ( ) [Apache Zeppelin](https://zeppelin.apache.org/)
-* ( ) [polynote/](https://github.com/polynote/polynote/)
+* ( ) [baserow](https://thenewstack.io/baserow-a-no-code-open-source-alternative-to-airtable/)
 
 ## GUI Calculator
 
@@ -89,6 +72,10 @@
 * (5) [marker](https://github.com/fabiocolacio/Marker) - Marker is a markdown editor for linux made with GTK+-3.0.
 * (5) [retext](https://github.com/retext-project/retext) - A Simple but powerful editor for Markdown and reStructuredText.
 * (6) [Typora](https://typora.io/) - minimal, CSS styling beautiful, but not FOSS
+
+#### GUI Markdown Viewer
+
+* ( ) [litemdview](https://notabug.org/g0tsu/litemdview) (suckless md viewer) $$$
 
 ### GUI LaTeX Editor
 
@@ -147,3 +134,8 @@
 
 * (2.5) [bleachbit](https://www.bleachbit.org/)
    |  [czkawka](https://qarmin.github.io/czkawka/)
+* ( ) [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - This tool allows you to view metadata in your files and to get rid of it, as much as possible
+
+## Productivity, Timer
+
+* ( ) [solanum](https://apps.gnome.org/Solanum/) - GUI pomodoro

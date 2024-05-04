@@ -69,7 +69,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 * (1) [nyxt](...)
 * (1) [qutebrowser](https://github.com/qutebrowser/qutebrowser)
-* (2) [luakit](...) + [duane-r/luakit-styles](https://github.com/duane-r/luakit-styles) * [luakit/commits/develop](https://github.com/luakit/luakit/commits/develop/)
+* (2) [luakit](...) + [duane-r/luakit-styles](https://github.com/duane-r/luakit-styles) * ( ) [luakit/commits/develop](https://github.com/luakit/luakit/commits/develop/)
       ( ) [Luakit Web Browser](https://luakit.github.io/#sec-download) [Luakit Web Browser](https://luakit.github.io/) [luakit/luakit: Fast, small, webkit based browser framework extensible by Lua.](https://github.com/luakit/luakit)
 * (4,5) [Vimb - A Minimal Browser with Vim like Bindings - YouTube](https://www.youtube.com/watch?v=26xWK35pinA)
    | (5) [wyeb | a vim-like webkit2gtk web browser](https://wyeb.org/)
@@ -95,7 +95,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * (1) Firefox Focus
 * (1) Adblock Browser
 * ( ) [cromite](https://github.com/uazo/cromite)
-* [bromite](...)
+* ( ) [bromite](...)
 * -> [securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/](https://securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/)
 
 #### Esoteric Browser
@@ -132,40 +132,51 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * (2) [tor](...)
 * (5) [icecatbrowser.org/](https://icecatbrowser.org/)
 
-### SORT - Browser Ricing
+### Browser Ricing
 
-* [prism](https://github.com/PROxZIMA/prism) A beautiful, minimalist, static startpage
+#### Startpage, Launcher
+
+* ( ) [Heimdall](https://github.com/linuxserver/Heimdall)
+* ( ) [Axenide/StartPage](https://github.com/Axenide/StartPage)
+* ( ) [BachoSeven/startpage](https://github.com/BachoSeven/startpage)
+* ( ) [prism](https://github.com/PROxZIMA/prism) A beautiful, minimalist, static startpage
+* ( ) [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page)
+
+#### Firefox Ricing
+
 * ( ) [colors - Change Firefox new tab background - Super User](https://superuser.com/questions/1235975/change-firefox-new-tab-background)
 * ( ) [How to Customize Firefox Reader View for Better Readability - Hongkiat](https://www.hongkiat.com/blog/customize-reader-view-theme-firefox/)
-* ( ) [openstyles/stylus: Stylus - Userstyles Manager](https://github.com/openstyles/stylus/tree/master)
+* ( ) [perfection-firefox-css-theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
 * ( ) [shina-fox](https://github.com/Shina-SG/Shina-Fox)
-* ( ) [tampermonkey](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)
-* ( ) [tampermonkey](https://www.tampermonkey.net/)
+* ( )  [yokoffing/Betterfox: Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.](https://github.com/yokoffing/Betterfox)
+* ( ) [addons.mozilla.org/en-US/firefox/addon/re-style/](https://addons.mozilla.org/en-US/firefox/addon/re-style/)
+* ( ) [wiki.archlinux.org/title/Firefox/Tweaks](https://wiki.archlinux.org/title/Firefox/Tweaks)
+* ( ) [p3nguin-kun/penguinFox](https://github.com/p3nguin-kun/penguinFox)
+* ( ) [p3nguin-kun/penguinFox-Librewolf](https://github.com/p3nguin-kun/penguinFox-Librewolf)
+* ( ) [ff-ultima](https://github.com/soulhotel/FF-ULTIMA)
+* ( ) [FirefoxBar/xStyle](https://github.com/FirefoxBar/xStyle)
+* ( ) [M4cs/foxify-cli](https://github.com/M4cs/foxify-cli)
+* ( ) [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - work with old version of Firefox? fork old version? [flyingfox.netlify.app/](https://flyingfox.netlify.app/) [reddit](https://www.reddit.com/r/unixporn/comments/glbl4v/oc_its_not_normal_to_want_my_firefox_to_sit_on_my/)
+* ( ) [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) → great rreference
+* ( ) [soup-bowl/Modoki-Firefox](https://github.com/soup-bowl/Modoki-Firefox) [[XFCE4] Chicago95 + Vaporvave = Awesome : unixporn](https://www.reddit.com/r/unixporn/comments/112oexs/xfce4_chicago95_vaporvave_awesome/)
 * ( ) [cascade](https://github.com/andreasgrafen/cascade)
 * ( ) [Tile Tabs :: Add-ons for Firefox](https://web.archive.org/web/20170821155241/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs/?src%3Duserprofile)
-* ( ) [ff-ultima](https://github.com/soulhotel/FF-ULTIMA)
-* ( ) [perfection-firefox-css-theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
-* ( ) [greasemonkey CSS](https://superuser.com/questions/1337469/grasemonkey-change-design-css)
-*      [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page)
-*      [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
-* ( ) [ ]  try Selenium on:            * ( ) [ ]  chrome-extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
-* ( ) [ ]  chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.htm
-* ( ) [ ]  moz-extension://fcb928ab-a898-4c47-9f85-2ff701b6e9dc/manage.htm
-* ( ) [ ]  moz-extension://ae95df29-277d-4ee3-aeb6-e4e84dfebada/manage.htm
-* ( ) [ ]  edge:  extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.htm
-* ( ) [ ]  edge: extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
-* ( ) [ ]  [selenium-python.readthedocs.io/installation.html](https://selenium-python.readthedocs.io/installation.html)
-* ( ) [ ]  [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
-*      [M4cs/foxify-cli](https://github.com/M4cs/foxify-cli)
-*      [r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/](https://www.reddit.com/r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/)
-*      [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - work with old version of Firefox? fork old version? [flyingfox.netlify.app/](https://flyingfox.netlify.app/) [reddit](https://www.reddit.com/r/unixporn/comments/glbl4v/oc_its_not_normal_to_want_my_firefox_to_sit_on_my/)
-*      [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl)
-*      [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) → great rreference
-*      [openstyles/stylus](https://github.com/openstyles/stylus)
-*      [stylish-userstyles/stylish](https://github.com/stylish-userstyles/stylish)
-*      [openstyles/stylus/wiki/UserCSS](https://github.com/openstyles/stylus/wiki/UserCSS)
-*      [FirefoxBar/xStyle](https://github.com/FirefoxBar/xStyle)
-* ( ) [Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors)
+* ( ) [userchrome.org/](https://www.userchrome.org/)
+
+#### Chromium Ricing
+
+* ( ) [Arsemy/chromium-tokyonight](https://github.com/Arsemy/chromium-tokyonight)
+* ( ) [r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/](https://www.reddit.com/r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/)
+* ( ) [sekuji/mad-darkness](https://github.com/sekuji/mad-darkness)
+
+#### Userscripts and Site-Specific CSS
+
+* ( ) [openstyles/stylus](https://github.com/openstyles/stylus)
+* ( ) [stylish-userstyles/stylish](https://github.com/stylish-userstyles/stylish)
+* ( ) [openstyles/stylus/wiki/UserCSS](https://github.com/openstyles/stylus/wiki/UserCSS)
+* ( ) [greasyfork.org/](https://greasyfork.org/)
+* ( ) [greasyfork.org/en/scripts/470753-mastodon-birdui-style-override](https://greasyfork.org/en/scripts/470753-mastodon-birdui-style-override)
+* ( ) [greasyfork.org/en](https://greasyfork.org/en)
 * Sites to make custom CSS for:
   * Notion
   * GitHub
@@ -173,7 +184,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
   * stack overflow
   * stackexchange
   * Wikipedia
-  * not YouTube unless I get AdBlock sorted
+  * not YouTube unless I get AdBlock working
   * all mdbook sites
   * all docs I use frequently - python, rust, kotlin, julIa, etc
   * email (Gmail, Proton, etc)
@@ -187,37 +198,36 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
   * google page, google docs, suite, drive
   * teams, outlook
   * nextcloud
-  * fsf, Linux foundation, etc*         -
-* Apps
-  * freetube*         -
-*      [addons.mozilla.org/en-US/firefox/addon/re-style/](https://addons.mozilla.org/en-US/firefox/addon/re-style/)
-*      [wiki.archlinux.org/title/Firefox/Tweaks](https://wiki.archlinux.org/title/Firefox/Tweaks)
-*      [sekuji/mad-darkness](https://github.com/sekuji/mad-darkness)
-*      [Arsemy/chromium-tokyonight](https://github.com/Arsemy/chromium-tokyonight)
-*      [stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt](https://stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt)
-*      [superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension](https://superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension)
-*      → Write own extension to load stylesheets into mainstream browsers via command line
-*      [book.huihoo.com/creating-applications-with-mozilla/mozilla-chp-4-sect-3.html](https://book.huihoo.com/creating-applications-with-mozilla/mozilla-chp-4-sect-3.html)
-*      [book.huihoo.com/creating-applications-with-mozilla/](https://book.huihoo.com/creating-applications-with-mozilla/)
-*      [userchrome.org/](https://www.userchrome.org/)
-*      [developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
-*      [developer.chrome.com/docs/extensions/mv3/](https://developer.chrome.com/docs/extensions/mv3/)
-*      [chromium.googlesource.com/chromium/src.git/+/refs/heads/main/ui/native_theme/](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/ui/native_theme/) → look into fixing
-*      [brave/brave-core](https://github.com/brave/brave-core) [brave/brave-core/tree/master/ui/webui/resources](https://github.com/brave/brave-core/tree/master/ui/webui/resources)
-*      [BachoSeven/startpage](https://github.com/BachoSeven/startpage)
-*      [Axenide/StartPage](https://github.com/Axenide/StartPage)
-*      [p3nguin-kun/penguinFox](https://github.com/p3nguin-kun/penguinFox)
-*      [p3nguin-kun/penguinFox-Librewolf](https://github.com/p3nguin-kun/penguinFox-Librewolf)
-*      [gitlab.com/GasparVardanyan/solarized](https://gitlab.com/GasparVardanyan/solarized)
-*      [soup-bowl/Modoki-Firefox](https://github.com/soup-bowl/Modoki-Firefox) [[XFCE4] Chicago95 + Vaporvave = Awesome : unixporn](https://www.reddit.com/r/unixporn/comments/112oexs/xfce4_chicago95_vaporvave_awesome/)
+  * fsf, Linux foundation, etc
+* ( ) [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
+* ( ) [ ]  try Selenium on:            
+  * ( ) [ ]  chrome-extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
+  * ( ) [ ]  chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.htm
+  * ( ) [ ]  moz-extension://fcb928ab-a898-4c47-9f85-2ff701b6e9dc/manage.htm
+  * ( ) [ ]  moz-extension://ae95df29-277d-4ee3-aeb6-e4e84dfebada/manage.htm
+  * ( ) [ ]  edge:  extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.htm
+  * ( ) [ ]  edge: extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
+  * ( ) [ ]  [selenium-python.readthedocs.io/installation.html](https://selenium-python.readthedocs.io/installation.html)
+* ( ) [ ]  [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
+* ( ) [openstyles/stylus: Stylus - Userstyles Manager](https://github.com/openstyles/stylus/tree/master)
+* ( ) [tampermonkey](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)
+* ( ) [tampermonkey](https://www.tampermonkey.net/)
+* ( ) [Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors)
+* ( ) [stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt](https://stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt)
+* ( ) [superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension](https://superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension)
+* → Write own extension to load stylesheets into mainstream browsers via command line
+* ( ) [book.huihoo.com/creating-applications-with-mozilla/mozilla-chp-4-sect-3.html](https://book.huihoo.com/creating-applications-with-mozilla/mozilla-chp-4-sect-3.html)
+* ( ) [book.huihoo.com/creating-applications-with-mozilla/](https://book.huihoo.com/creating-applications-with-mozilla/)
+* ( ) [developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+* ( ) [developer.chrome.com/docs/extensions/mv3/](https://developer.chrome.com/docs/extensions/mv3/)
+* ( ) [chromium.googlesource.com/chromium/src.git/+/refs/heads/main/ui/native_theme/](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/ui/native_theme/) → look into fixing
+* ( ) [brave/brave-core](https://github.com/brave/brave-core) [brave/brave-core/tree/master/ui/webui/resources](https://github.com/brave/brave-core/tree/master/ui/webui/resources)
 * ( ) [Where are installed Google Chrome extensions stored locally? - Stack Overflow](https://stackoverflow.com/questions/21475866/where-are-installed-google-chrome-extensions-stored-locally)
-* sw  [yokoffing/Betterfox: Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.](https://github.com/yokoffing/Betterfox)
+
+* ( ) [greasemonkey CSS](https://superuser.com/questions/1337469/grasemonkey-change-design-css)
 
 #### Rice FF
 
-* ( ) [greasyfork.org/](https://greasyfork.org/)
-* ( ) [greasyfork.org/en/scripts/470753-mastodon-birdui-style-override](https://greasyfork.org/en/scripts/470753-mastodon-birdui-style-override)
-* ( ) [greasyfork.org/en](https://greasyfork.org/en)
 * ( ) [gitlab.com/domsch1988/domfox](https://gitlab.com/domsch1988/domfox)
 * rice ff  [Neikon/Fox11](https://github.com/Neikon/Fox11) HGKeeper
 * rice ff & chrome startpage
@@ -300,35 +310,16 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ### Browser-Related Tools
 
-* [jonschoning/espial: Espial is an open-source, web-based bookmarking server.](https://github.com/jonschoning/espial)
+* ( ) [jonschoning/espial: Espial is an open-source, web-based bookmarking server.](https://github.com/jonschoning/espial)
 * ( ) [Browserling – Online cross-browser testing](https://www.browserling.com/)
 * ( ) [quickstrom](https://github.com/quickstrom/quickstrom/tree/main)
 
-## SORT Search
+## Browser Extensions
 
-* → [Saying Goodbye to DuckDuckGo... Here's some Alternatives! - YouTube](https://www.youtube.com/watch?v=g--hr4F1S4w)
-* → [opensource.com/article/20/2/open-source-search-engine](https://opensource.com/article/20/2/open-source-search-engine)
-* → [comparitech.com/blog/vpn-privacy/best-private-search-engine/](https://www.comparitech.com/blog/vpn-privacy/best-private-search-engine/)
-* (2) [searxng](https://dalf.github.io/searxng/)
-* (2) [s](https://github.com/zquestz/s) - Web search from the terminal. Just opens in your browser.
-* (2) [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python. Search and browse stack overflow without leaving the terminal
-* (4) [arch-wiki](https://github.com/deadhead420/arch-wiki) - Search the Arch Wiki anywhere from the command line.
-* (2.5.5.5.5.5) [awesome-cli](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
-   | (2.5) [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists from the command line.
-* (2) [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
-* (2) [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
-* (2) [ddgr -](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
-* (2) [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
-* (6) [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
-* (2,5) [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
-* (2) [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
-
-## SORT - Browser Extensions
-
-* [gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.](https://github.com/gorhill/uBlock)
-* [keyx](https://github.com/susumuota/nostr-keyx)
-* [no-venv/modded-darkreader](https://github.com/no-venv/modded-darkreader)
-* [mozzarella](https://gnuzilla.gnu.org/mozzarella/)
+* ( ) [gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.](https://github.com/gorhill/uBlock)
+* ( ) [keyx](https://github.com/susumuota/nostr-keyx)
+* ( ) [no-venv/modded-darkreader](https://github.com/no-venv/modded-darkreader)
+* ( ) [mozzarella](https://gnuzilla.gnu.org/mozzarella/)
 * ( ) [bug: chromium.extensions don't work for brave or ungoogled-chromium · Issue #2216 · nix-community/home-manager](https://github.com/nix-community/home-manager/issues/2216%23issuecomment-917507881)
 * → GNU List: [gnuzilla.gnu.org/mozzarella/](https://gnuzilla.gnu.org/mozzarella/)
 * ( ) [adnauseam.io/](https://adnauseam.io/)
@@ -366,6 +357,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * ( ) [vimium-c](https://addons.mozilla.org/en-US/firefox/addon/vimium-c/)
 * ( ) [vimium-ff](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
 * ( ) [->](https://www.google.com/search?client=firefox-b-m&sxsrf=AJOqlzW96kwIy8oB7xeBTSBuV6u0Mm33Jw%3A1675729858394&q=navigate+google+chrome+without+a+mouse+vim&oq=navigate+google+chrome+without+a+mouse+vim&aqs=heirloom-srp)
+* ( ) [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl)
 
 ### Adblocking
 
@@ -412,51 +404,44 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 * ( ) [gloc](https://github.com/kas-elvirov/gloc)
 
-## SORT Webapps and Websites
+## Webapps and Websites
 
-* meta ( ) [InBrowser.App](https://inbrowser.app/)
-* {dev website} [devhints.io/](https://devhints.io/)
+-> [InBrowser.App](https://inbrowser.app/)
+
 * ( ) [strangeloopcanon.com/](https://www.strangeloopcanon.com/)
 * ( ) [directory.fsf.org/wiki/Main_Page](https://directory.fsf.org/wiki/Main_Page)
 * ( ) [tweag.io/blog/](https://www.tweag.io/blog/)
-* {website} [git.wtf](https://git.wtf/)
-* {website} [Welcome to Dan’s Cheat Sheets’s documentation! — Dan's Cheat Sheets 1 documentation](https://cheat.readthedocs.io/en/latest/index.html)
-* {webapp} [Atlas: wikipedia-20231101-en](https://atlas.nomic.ai/map/475c26d7-b142-4795-9887-02b6eeb18dc0/0d312be6-a3bb-4586-b6b7-53dcd0cbefa5)
-* {webapp} [Collaboration costs less with Coda, we price differently - Coda](https://coda.io/product/collaboration-costs-less-with-coda)
-* {webapp} [For news junkies: The easiest ways to get through any article paywall (that I know of) : r/Piracy](https://www.reddit.com/r/Piracy/comments/stws33/for_news_junkies_the_easiest_ways_to_get_through/)
-* {webapp} [FrontPage](http://www.fitnesse.org/)
-* {webapp} [Home — Bluesky](https://staging.bsky.app/)
-* {webapp} [Raise and spend money with full transparency. - Open Collective](https://opencollective.com/)
-* {webapp} [Startseite - rheinneckar.social](https://rheinneckar.social/home)
-* {webapp} [Troubleshooters.Com](http://troubleshooters.com/troubleshooters.htm%23x10021)
-* {webapp} [bibli-open.heidelberg.de/Mein-Konto](https://bibli-open.heidelberg.de/Mein-Konto)
-* {webapp} [bibliotheken.komm.one/mannheim/de-de/Mein-Konto](https://bibliotheken.komm.one/mannheim/de-de/Mein-Konto)
-* {webapp} [blueskyweb.xyz/](https://blueskyweb.xyz/)
-* {webapp} [codestats.net/](https://codestats.net/)
-* {webapp} [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
-* {webapp} [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* {webapp} [imgupscaler.com/](https://imgupscaler.com/)
-* {webapp} [google.com/search?client=firefox-b-d&q=free+ai+upscale+image+resolution](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dfree%2Bai%2Bupscale%2Bimage%2Bresolution)
-* {webapp} [upscale.media/](https://www.upscale.media/) →* ( ) [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
-* {webapp} [...](https://developers.google.com/drive/api/guides/search-files%23java) → list all drive files
-* {webapp} [...](https://www.canva.com/free/)
-* {webapp} [...](https://www.profanity.dev/)
-* {webapp} [cobalt](https://github.com/wukko/cobalt)
-* {webapp} [figlet](http://www.figlet.org/)
-* {webapp} [githubwrapped](https://www.githubwrapped.io/)
-* {webapp} [overapi](https://overapi.com/)
-* {webapp} [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
-* {webapp} [webshell](https://github.com/nasan016/webshell)
-* {webapp} [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
-* webapp $$$ * ( ) [wbo](https://wbo.ophir.dev/)
-* webapp $$$ * ( ) [Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension)
-* webapp language-learning* ( ) [openwords](https://github.com/Openwords)
-* webapp language-learning* ( ) [otakar-smrz/elixir-fm: ElixirFM Functional Arabic Morphology](https://github.com/otakar-smrz/elixir-fm)
-* {webapp security} [digital-defense](https://digital-defense.io/)
-* {webapp storage} [Nextcloud](...)
+* ( ) [git.wtf](https://git.wtf/)
+* ( ) [Atlas: wikipedia-20231101-en](https://atlas.nomic.ai/map/475c26d7-b142-4795-9887-02b6eeb18dc0/0d312be6-a3bb-4586-b6b7-53dcd0cbefa5)
+* ( ) [Collaboration costs less with Coda, we price differently - Coda](https://coda.io/product/collaboration-costs-less-with-coda)
+* ( ) [For news junkies: The easiest ways to get through any article paywall (that I know of) : r/Piracy](https://www.reddit.com/r/Piracy/comments/stws33/for_news_junkies_the_easiest_ways_to_get_through/)
+* ( ) [FrontPage](http://www.fitnesse.org/)
+* ( ) [Home — Bluesky](https://staging.bsky.app/)
+* ( ) [Raise and spend money with full transparency. - Open Collective](https://opencollective.com/)
+* ( ) [Startseite - rheinneckar.social](https://rheinneckar.social/home)
+* ( ) [Troubleshooters.Com](http://troubleshooters.com/troubleshooters.htm%23x10021)
+* ( ) [bibli-open.heidelberg.de/Mein-Konto](https://bibli-open.heidelberg.de/Mein-Konto)
+* ( ) [bibliotheken.komm.one/mannheim/de-de/Mein-Konto](https://bibliotheken.komm.one/mannheim/de-de/Mein-Konto)
+* ( ) [blueskyweb.xyz/](https://blueskyweb.xyz/)
+* ( ) [codestats.net/](https://codestats.net/)
+* ( ) [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
+* ( ) [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* ( ) [imgupscaler.com/](https://imgupscaler.com/)
+* ( ) [google.com/search?client=firefox-b-d&q=free+ai+upscale+image+resolution](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dfree%2Bai%2Bupscale%2Bimage%2Bresolution)
+* ( ) [upscale.media/](https://www.upscale.media/) →* ( ) [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
+* ( ) [canva](https://www.canva.com/free/)
+* ( ) [profanity.dev](https://www.profanity.dev/)
+* ( ) [cobalt](https://github.com/wukko/cobalt)
+* ( ) [figlet](http://www.figlet.org/)
+* ( ) [githubwrapped](https://www.githubwrapped.io/)
+* ( ) [overapi](https://overapi.com/)
+* ( ) [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+* ( ) [webshell](https://github.com/nasan016/webshell)
+* ( ) [wbo](https://wbo.ophir.dev/) $$$
+* (2) [Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension) [site](https://medium-parser-ext.vercel.app/) $$$
 * ( ) [mathcha.io/](https://www.mathcha.io/)
 * How does mirroring between git servers work?
-* ( ) [puter.com/app/terminal](https://puter.com/app/terminal)
+* ( ) [puter.com/app/terminal](https://puter.com/app/terminal) [puter](https://github.com/HeyPuter)
 * ( ) [yacy.de/](https://yacy.de/)
 * ( ) [Openwords (Openwords)](https://github.com/Openwords)
 * ( ) [browserling.com/](https://www.browserling.com/)
@@ -465,7 +450,26 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * ( ) [farside](https://farside.link/)
 * ( ) [strato.de](ghttp://strato.de) V-Server Linux
 * ( ) [1337x.to/](https://1337x.to/) torrent search
-* ( ) [puter](https://github.com/HeyPuter)
+
+### Coding Reference
+
+* ( ) [Welcome to Dan’s Cheat Sheets’s documentation! — Dan's Cheat Sheets 1 documentation](https://cheat.readthedocs.io/en/latest/index.html)
+* ( ) [devhints.io/](https://devhints.io/)
+
+### Web Drive
+
+* [Nextcloud](https://nextcloud.com/de/)
+* Proton Drive
+* Google Drive [api](https://developers.google.com/drive/api/guides/search-files%23java) → list all drive files
+
+### Language Learning
+
+* ( ) [openwords](https://github.com/Openwords)
+* ( ) [otakar-smrz/elixir-fm: ElixirFM Functional Arabic Morphology](https://github.com/otakar-smrz/elixir-fm)
+
+### Security
+
+* ( ) [digital-defense](https://digital-defense.io/)
 
 ### Misc Web
 
@@ -550,6 +554,22 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * ( ) [Peekier](https://peekier.com/)
 * ( ) [Ecosia](https://www.ecosia.org/)
 * ( ) [Brave Search](https://search.brave.com/)
+* → [Saying Goodbye to DuckDuckGo... Here's some Alternatives! - YouTube](https://www.youtube.com/watch?v=g--hr4F1S4w)
+* → [opensource.com/article/20/2/open-source-search-engine](https://opensource.com/article/20/2/open-source-search-engine)
+* → [comparitech.com/blog/vpn-privacy/best-private-search-engine/](https://www.comparitech.com/blog/vpn-privacy/best-private-search-engine/)
+* (2) [searxng](https://dalf.github.io/searxng/)
+* (2) [s](https://github.com/zquestz/s) - Web search from the terminal. Just opens in your browser.
+* (2) [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python. Search and browse stack overflow without leaving the terminal
+* (4) [arch-wiki](https://github.com/deadhead420/arch-wiki) - Search the Arch Wiki anywhere from the command line.
+* (2.5.5.5.5.5) [awesome-cli](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+   | (2.5) [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists from the command line.
+* (2) [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
+* (2) [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
+* (2) [ddgr -](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
+* (2) [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
+* (6) [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
+* (2,5) [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
+* (2) [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
 
 ### Misc
 
@@ -788,10 +808,11 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ##### Crawling, Scraping, Downloading
 
+* ( ) [suckit](https://github.com/skallwar/suckit)
 * ( ) [Coursaros](https://github.com/SpyridonLaz/Coursaros) -  [Download videos and subtitles from edx to your computer easily.](https://github.com/SpyridonLaz/Coursaros)
 * ( ) [aria2](https://aria2.github.io/)
 * ( ) [scrapeghost/](https://github.com/jamesturk/scrapeghost/) - extend with other LLMs
-*[aria2 -](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
+* ( ) [aria2 -](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
 * ( ) [httrack.com/](https://www.httrack.com/)
 * ( ) [clauneck](https://github.com/serpapi/clauneck)
 * ( ) [cli](https://github.com/httpie/cli) - [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
@@ -839,6 +860,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ### Email
 
+* ( ) [claws-mail](https://www.claws-mail.org/)
 * ( ) [pop](https://github.com/charmbracelet/pop)
 * → [20 most secure email providers to use in 2023 - PrivacySavvy](https://privacysavvy.com/email/best/secure-email-providers/#h-1-protonmail)
 * → [seniormars.github.io/posts/neomutt/](https://seniormars.github.io/posts/neomutt/)
@@ -886,6 +908,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * ( ) [Element](https://element.io/) - A glossy Matrix collaboration client for the web.
 * ( ) [Fractal](https://wiki.gnome.org/Apps/Fractal) - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects.
 * ( ) [NeoChat](https://apps.kde.org/neochat/) - NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.
+* ( ) [8go/matrix-commander: simple but convenient CLI-based Matrix client app for sending and receiving](https://github.com/8go/matrix-commander)
 
 ### WhatsApp
 
@@ -916,7 +939,7 @@ Fedilab
    | (2.5) [BetterDiscord](https://betterdiscord.app/) - BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.
    | (2.5) [Discover](https://trigg.github.io/Discover/) - Yet another Discord overlay for Linux written in Python using GTK3.
    | (2.5) [WebCord -](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the electron.
-   | (2.5) [vencord](https://github.com/Vendicated/Vencord)
+   | (2.5) [vencord](https://github.com/Vendicated/Vencord) [Vencord/Vesktop: Vesktop gives you the performance of web Discord and the comfort of Discord Desktop](https://github.com/Vencord/Vesktop)
    | (2.5) [purple-discord](https://github.com/EionRobb/purple-discord)
    | (2.5) [discordo](https://github.com/ayn2op/discordo)
    | (2.5) [ripcord](https://cancel.fm/ripcord/)
@@ -963,10 +986,6 @@ Fedilab
 ### Other
 
 * -> pigeon, finch, libpurple
-
-### SORT
-
-* (2) [Discourse](https://discourse.org/) - Community forum
 * (4) [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH
 * (4) [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 * (4) [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible.
@@ -992,5 +1011,3 @@ Fedilab
 * {messaging} [Thunderbird](...)
 * {messaging} [toot](https://github.com/ihabunek/toot) - Mastodon CLI & TUI
 * {messaging email} [...](https://jonathanh.co.uk/blog/mutt-setup/)
-* {messaging matrix} [8go/matrix-commander: simple but convenient CLI-based Matrix client app for sending and receiving](https://github.com/8go/matrix-commander)
-* {cli web} [suckit](https://github.com/skallwar/suckit)

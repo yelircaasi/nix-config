@@ -585,6 +585,7 @@
 * Database
 * ( ) [mycli](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
 * ( ) [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
+
 * Boilerplate
 * ( ) [yo](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
 * ( ) [mevn-cli](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.

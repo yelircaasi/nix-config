@@ -4,6 +4,7 @@
 
 ### General Reference - TO SORT
 
+* crud tech stack
 * [5 JavaScript Books I Regret Not Reading as a Code Newbie](https://youtu.be/nn2fPWcCrKA)
 * [home | p5.js](https://p5js.org/)
 * [HTML Scraping — The Hitchhiker's Guide to Python](http://python-guide-pt-br.readthedocs.io/en/latest/scenarios/scrape/)

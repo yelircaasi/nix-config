@@ -39,7 +39,7 @@
 
 ## CLI File Manager
 
-* (2) [clifm](https://github.com/leo-arch/clifm) 
+* (2) [clifm](https://github.com/leo-arch/clifm)
    | ( ) [walk](https://github.com/antonmedv/walk)
 
 ## Oil and Vinegar
@@ -78,6 +78,7 @@
 
 ## Compression and Extraction
 
+* ( ) [snappy | A fast compressor/decompressor](https://google.github.io/snappy/)
 * ( ) [bzip3](https://github.com/kspalaiologos/bzip3)
 * ( ) [Curtail](https://apps.gnome.org/app/com.github.huluti.Curtail/)
 * ( ) [dtrx](https://github.com/dtrx-py/dtrx)
@@ -90,7 +91,7 @@
 ## File Hooks and Daemons
 
 * ( ) [watchexec](https://github.com/watchexec/watchexec)
-* ( ) [entr](https://github.com/eradman/entr)
+* ( ) [entr](https://github.com/eradman/entr) [entr site](https://eradman.com/entrproject/)
 * ( ) [inotify-tools](https://github.com/inotify-tools/inotify-tools)
 * ( ) [watchman](https://github.com/facebook/watchman) | [viddy](https://github.com/sachaos/viddy) | [watch](https://github.com/tj/watch)
 * ( ) [watchexec](https://github.com/watchexec/watchexec)
@@ -105,6 +106,7 @@
 
 ### Synchronization
 
+* ( ) [foldersync](https://foldersync.io/) - seems like a good mobile solution
 * ( ) [rclone](https://rclone.org/) + (optionally)
 * ( ) [celeste](https://github.com/hwittenborn/celeste) | [syncthing](https://syncthing.net/) | [Zaloha2.sh](https://github.com/Fitus/Zaloha2.sh)
 * ( ) [rclone-tui](https://github.com/darkhz/rclone-tui)

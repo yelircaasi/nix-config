@@ -10,151 +10,132 @@
 (4) - not decided yet / maybe later
 (5) - some rewriting or packaging necessary (but to be added)
 
-## SORT
-
-* -> [...](https://blog.logrocket.com/exploring-best-syntax-highlighting-libraries/)
-* ( ) [facebook/hermes: A JavaScript engine optimized for running React Native.](https://github.com/facebook/hermes)
-* ( ) [gRPC - Wikipedia](https://en.wikipedia.org/wiki/GRPC)
-* ( ) [gRPC vs. REST: Key Similarities and Differences - DreamFactory Software- Blog](https://blog.dreamfactory.com/grpc-vs-rest-how-does-grpc-compare-with-traditional-rest-apis/)
-* ( ) [gRPC](https://grpc.io/)
-* ( ) [luarocks-build-rust-binary](https://github.com/vhyrro/luarocks-build-rust-binary)
-* ( ) [lust](https://github.com/Gingeh/lust) A parser, compiler, and virtual machine evaluator for a minimal subset of Lua; written from scratch in Rust.
-* ( ) [Reproducible Data Pipelines Using Controlled Effects](https://tweag.github.io/kernmantle/scale-by-the-bay-slides.html)
-* ( ) [SunGodRamen/task-driven-development: Project template that enforces documentation and project lifecycle across tools; nvim, taskwarrior, drawio, using githooks to enforce and automate tracking.](https://github.com/SunGodRamen/task-driven-development)
-* ( ) [tbox](https://github.com/tboox/tbox)
-* ( ) [tech stack file](https://stackshare.io/tech-stack-file)
-* ( ) [vstakhov/libucl: Universal configuration library parser](https://github.com/vstakhov/libucl)
-* {build} [gradle](https://gradle.org/)
-* {build} [pantsbuild](https://www.pantsbuild.org/)
-* {build} [pantsbuild](https://www.pantsbuild.org/)
-ci/cd * ( ) [Dagger.io](https://dagger.io/)
-* {cli} [chalk-animation](https://github.com/bokub/chalk-animation)
-* {cli} [charm](https://charm.sh/)
-* {cli} [huh](https://github.com/charmbracelet/huh)
-* {cli} [jesseduffield/lazycli: Turn static CLI commands into TUIs with ease](https://github.com/jesseduffield/lazycli)
-* {cli} [pxmenu](https://github.com/iruzo/pxmenu) POSIX sh simple menu
-* {cont} [warptools/warpforge: a build tool -- based on "hashes go in, hashes come out" and hermetic, containerized environments for every step.](https://github.com/warptools/warpforge)
-* {container} [serversideup/spin: 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.](https://github.com/serversideup/spin)
-* {cpp} [fox-toolkit.org](http://www.fox-toolkit.org/)
-* {docs} [Build optimized websites quickly, focus on your content | Docusaurus](https://docusaurus.io/)
-* {docs} [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-* {edu} [Let's code a UI in C (Ncurses) - YouTube](https://www.youtube.com/watch?v%3D2Q0jUzhDJp0)
-* {format} [Data Serialization Comparison: JSON, YAML, BSON, MessagePack — SitePoint](https://www.sitepoint.com/data-serialization-comparison-json-yaml-bson-messagepack/)
-* {formatting} [prettier](https://mrmr.io/til/prettier)
-* {git} [gitgitgadget](https://gitgitgadget.github.io/)). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-* {gpu} [taichi-dev/taichi: Productive & portable high-performance programming in Python.](https://github.com/taichi-dev/taichi)
-* {grpc} [Introduction to gRPC | gRPC](https://grpc.io/docs/what-is-grpc/introduction/)
-* {gui} [rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
-* {haskell} [parsing - Writing a parser from scratch in Haskell - Stack Overflow](https://stackoverflow.com/questions/20660782/writing-a-parser-from-scratch-in-haskell)
-* {julia} [Kyjor/JulGame.jl: JulGame is a game engine based on the Julia programming language with the help of SDL2.](https://github.com/Kyjor/JulGame.jl)
-* {kotlin} [pprint-kotlin](https://github.com/deusaquilus/pprint-kotlin)
-* {latex} [KaTeX – The fastest math typesetting library for the web](https://katex.org/)
-* {lua} [busted](https://lunarmodules.github.io/busted/) elegant lua testing
-* {lua} [fengari](https://github.com/fengari-lua/fengari) φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
-* {lua} [Introduction — Lua Functional 0.1.3 documentation](https://luafun.github.io/intro.html)
-* {lua} [luafun/luafun: Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.](https://github.com/luafun/luafun)
-lua-related  * ( ) [luvit](https://luvit.io/docs.html)
-* {pi} [gokrazy](https://gokrazy.org/)
-* {proglang} [~sircmpwn/hare - The Hare programming language - sourcehut git](https://git.sr.ht/~sircmpwn/hare)
-* {proglang} [BQN: finally, an APL for your flying saucer](https://mlochbaum.github.io/BQN/)
-* {proglang} [cue-lang](https://github.com/cue-lang)
-* {proglang} [CUE](https://cuelang.org/)
-* {proglang} [Example](https://www.idris-lang.org/pages/example.html)
-* {proglang} [flutter blog post](http://matthiasnehlsen.com/blog/2022/05/15/switched-to-flutter-lost-10-kilos/)[How I switched to Flutter and lost 10 kilos](http://matthiasnehlsen.com/blog/2022/05/15/switched-to-flutter-lost-10-kilos/)
-* {proglang} [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
-* {proglang} [LiveScript - a language which compiles to JavaScript](https://livescript.net/)
-* {proglang} [ML](https://github.com/hexaredecimal/ML) - small general purpose programming language for programming on the JVM. Package manager: [smllregister.github.io](https://smllregister.github.io)
-* {proglang} [ni](https://github.com/Nathan-Fenner/Ni) old nickel programming language
-* {proglang} [SwitchAxe/Rewire: A configurable programming language!](https://github.com/SwitchAxe/Rewire)
-* {proglang config} [...](https://nx.dev/recipes/tips-n-tricks/flat-config)
-* {proglang config} [dhall-lang/dhall-haskell: Maintainable configuration files](https://github.com/dhall-lang/dhall-haskell)
-* {proglang config} [fuzzypixelz/Hustle: Haskell implementation of the KDL Document Language](https://github.com/fuzzypixelz/Hustle)
-* {proglang config} [gura.netlify](https://gura.netlify.app/)
-* {proglang config} [hashicorp/hcl: HCL is the HashiCorp configuration language.](https://github.com/hashicorp/hcl)
-* {proglang config} [The Dhall configuration language](https://dhall-lang.org/)
-* {proglang config} [tweag/nickel: Better configuration for less](https://github.com/tweag/nickel)
-* {proglang fp} [beluga](https://complogic.cs.mcgill.ca/beluga/)
-* {proglang misc} [...](https://bytedream.github.io/litbwraw/)
-* {proglang-related} [...](https://pygments.org/docs/cmdline/)
-* {proglang-related} [...](https://pygments.org/languages/)
-* {purescript meta} [Recommended tooling for PureScript in 2020 - Chat - PureScript Language Forum](https://discourse.purescript.org/t/recommended-tooling-for-purescript-in-2020/1615)
-* {purescript meta} [Recommended Tooling for PureScript in 2021 - Chat - PureScript Language Forum](https://discourse.purescript.org/t/recommended-tooling-for-purescript-in-2021/2725)
-* {python} [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) Software Bill of Materials (SBOM) generator for Python projects and environments
-* {python} [line-profiler · PyPI](https://pypi.org/project/line-profiler/)
-* {python} [marimo-team/marimo: A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.](https://github.com/marimo-team/marimo)
-* {python} [pipx](https://github.com/pypa/pipx) try Debian? Gentoo?
-* {python} [pyx-project/pyx](https://github.com/pyx-project/pyx)
-* {python cli} [humanfriendly: Human friendly input/output in Python — humanfriendly 10.0 documentation](https://humanfriendly.readthedocs.io/en/latest/)
-* {python cli} idea: package pipx natively, without python and pip dependencies
-* {python term} [pyte](https://pyte.readthedocs.io/en/latest/tutorial.html)
-* {R} [...](https://datalorax.github.io/equatiomatic/articles/intro-equatiomatic.html)
-* {rust} [...](https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library)
-* {rust} [evcxr](https://github.com/evcxr/evcxr)
-* {rust} [rinf](https://github.com/cunarist/rinf) - framework - Rust for native business logic, Flutter for flexible and beautiful GUI
-* {rust} [Rust Desktop App Video](https://www.youtube.com/watch?v%3D7aFgeUG9TK4)
-* {rust} [Rust Full-Stack Web App](https://www.youtube.com/watch?v%3Dtq3-M7QJiWg) wifi manager discussion
-* {rust gui} [slint](https://slint.dev/)
-* {syntax highlighting} [synoptic](https://lib.rs/crates/synoptic)
-* {term} [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm)
-tui c/python/cpp * ( ) [notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses
-* {ui} [toast](https://ui.toast.com/)
-* {viz} [bprusinowski/plotteus: 🦋 Plotteus is a JavaScript data visualization library designed to help you tell better stories.](https://github.com/bprusinowski/plotteus)
-* {web} [cheerpj-3](https://labs.leaningtech.com/blog/cheerpj-3.0) A WebAssembly JVM to run real-world applications in the browser
-* {webapp notebook} [docs.runme](https://docs.runme.dev/)
-db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed in-memory data store with an emphasis on speed and reliability.
-* ( ) [(Towards) stable C bindings for libutil, libexpr by yorickvP · Pull Request #8699 · NixOS/nix](https://github.com/NixOS/nix/pull/8699)
-* ( ) [...](https://github.com/evilmartians/lefthook)
-* ( ) [...](https://github.com/samuela/crunkurrent)
-* ( ) [...](https://ratatui.rs/)
-* ( ) [...](https://sembr.org/)
-* ( ) [...](https://www.mkdb.sh/)
-* ( ) [abathur/resholve: a shell resolver? :) (find and resolve shell script dependencies)](https://github.com/abathur/resholve)
-* ( ) [Dhall/Parser.hs](https://hackage.haskell.org/package/dhall-1.6.0/docs/src/Dhall-Parser.html)
-* ( ) [r/rust/s/QqfsULxF1c](https://www.reddit.com/r/rust/s/QqfsULxF1c) rust dev env
-* ( ) [inshellisense](https://github.com/microsoft/inshellisense)
-* ( ) [matplotlib-backend-wezterm](https://pypi.org/project/matplotlib-backend-wezterm/)
-* ( ) [ndortega/Oxygen.jl: A breath of fresh air for programming web apps in Julia](https://github.com/ndortega/Oxygen.jl)
-* ( ) [vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice)
-* crud tech stack
-* {cli} [slim: Functional reactive user interface programming](https://hackage.haskell.org/package/slim)
-* {cont} [atoms (brombin)](...)
-* {cont} [gnome boxes](https://apps.gnome.org/boxes/)
-* {gui} [diffuse](https://mightycreak.github.io/diffuse/)
-* {gui} [gitg](https://wiki.gnome.org/apps/gitg)
-* {gui} [gittyup](https://github.com/Murmele/Gittyup)
-* {proglang} [Nelua](https://nelua.io/)
-* {proglang} [Nickel](https://nickel-lang.org/user-manual/typing/)
-* {proglang} [Wren](https://wren.io/)
-* {snap} [How I delete snap and all traces of it - Solus Forum](https://discuss.getsol.us/d/9323-how-i-delete-snap-and-all-traces-of-it/3)
-* {snap} [Installing a snap package - Help - NixOS Discourse](https://discourse.nixos.org/t/installing-a-snap-package/11468/4)
-* {snap} [io12/nix-snapd • FlakeHub](https://flakehub.com/flake/io12/nix-snapd)
-* {snap} [linux - I can't delete files 'rm: cannot remove X Read-only file system' - Server Fault](https://serverfault.com/questions/304416/i-cant-delete-files-rm-cannot-remove-x-read-only-file-system)
-* {snap} [Snap.d error: cannot communicate with server connection refused - snapd - snapcraft.io](https://forum.snapcraft.io/t/snap-d-error-cannot-communicate-with-server-connection-refused/6093/55)
+* -> [](https://blog.logrocket.com/exploring-best-syntax-highlighting-libraries/)
 
 ## Development Tools
 
-### Programming Language Specific
+### Project Info
 
+* ( ) [tech stack file](https://stackshare.io/tech-stack-file)
+* -> [list](https://www.wiz.io/academy/top-open-source-sbom-tools)
+
+### Workflow, Pipeline
+
+* ( ) [Reproducible Data Pipelines Using Controlled Effects](https://tweag.github.io/kernmantle/scale-by-the-bay-slides.html)
+
+### Educational Projects
+
+* ( ) [lust](https://github.com/Gingeh/lust) A parser, compiler, and virtual machine evaluator for a minimal subset of Lua; written from scratch in Rust.
+
+### Cross-Environment, Different Setups, Innovative
+
+* ( ) [cheerpj-3](https://labs.leaningtech.com/blog/cheerpj-3.0) A WebAssembly JVM to run real-world applications in the browser
+
+### Specific Programming Languages
+
+#### Rust
+
+* -> [r/rust/s/QqfsULxF1c](https://www.reddit.com/r/rust/s/QqfsULxF1c) rust dev env
+* ( ) [ratatui](https://ratatui.rs/)
+* [rust service foundation library](https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library)
+* [evcxr](https://github.com/evcxr/evcxr)
+* [rinf](https://github.com/cunarist/rinf) - framework - Rust for native business logic, Flutter for flexible and beautiful GUI
+* [Rust Desktop App Video](https://www.youtube.com/watch?v%3D7aFgeUG9TK4)
+* [Rust Full-Stack Web App](https://www.youtube.com/watch?v%3Dtq3-M7QJiWg) wifi manager discussion
+* [slint](https://slint.dev/) - GUI framework
+* [rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
+* [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm)
+* ( ) [synoptic](https://lib.rs/crates/synoptic) syntax highlighting
+
+#### JavaScript
+
+* ( ) [vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice)
+* ( ) [bprusinowski/plotteus: 🦋 Plotteus is a JavaScript data visualization library designed to help you tell better stories.](https://github.com/bprusinowski/plotteus)
 * ( ) [nodejs_21](https://nodejs.org/en)
 * ( ) [bun](https://bun.sh/)
-* (2) [android-studio](https://search.nixos.org/packages?channel=unstable&show=android-studio&from=0&size=50&sort=relevance&type=packages&query=android+studio)
-* ( ) [plumbum](https://github.com/tomerfiliba/plumbum)
-* ( ) [ward](https://ward.readthedocs.io/en/latest/)
-* ( ) [cattrs](https://catt.rs/en/stable/index.html)
 * ( ) [nodemon](https://www.npmjs.com/package/nodemon)
 * (4) [marked-terminal](https://github.com/mikaelbr/marked-terminal)
+* ( ) [facebook/hermes: A JavaScript engine optimized for running React Native.](https://github.com/facebook/hermes)
+* ( ) [toast](https://ui.toast.com/)
 
 #### Python
 
+* ( ) [great-tables](https://github.com/posit-dev/great-tables)
+* ( ) [taichi-dev/taichi: Productive & portable high-performance programming in Python (GPU)](https://github.com/taichi-dev/taichi)
+* ( ) [ward](https://ward.readthedocs.io/en/latest/)
+* ( ) [cattrs](https://catt.rs/en/stable/index.html)
+* -> idea: package pipx natively, without python and pip dependencies
+* (1) [matplotlib-backend-wezterm](https://pypi.org/project/matplotlib-backend-wezterm/)
 * (2) [poetry](https://python-poetry.org/)
 * ( ) [pypi-command-line](https://wasi-master.github.io/pypi-command-line/)
+* ( ) [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) Software Bill of Materials (SBOM) generator for Python projects and environments
+* ( ) [line-profiler · PyPI](https://pypi.org/project/line-profiler/)
+* ( ) [pipx](https://github.com/pypa/pipx) try Debian? Gentoo?
+* ( ) [pyx-project/pyx](https://github.com/pyx-project/pyx)
+* ( ) [humanfriendly: Human friendly input/output in Python — humanfriendly 10.0 documentation](https://humanfriendly.readthedocs.io/en/latest/)
+* ( ) [pyte](https://pyte.readthedocs.io/en/latest/tutorial.html) terminal
+* ( ) [plumbum](https://github.com/tomerfiliba/plumbum)
 
-#### Typing
+#### Haskell
+
+* ( ) [parsing - Writing a parser from scratch in Haskell - Stack Overflow](https://stackoverflow.com/questions/20660782/writing-a-parser-from-scratch-in-haskell)
+* ( ) [slim: Functional reactive user interface programming](https://hackage.haskell.org/package/slim)
+* ( ) [Dhall/Parser.hs](https://hackage.haskell.org/package/dhall-1.6.0/docs/src/Dhall-Parser.html)
+
+#### Julia
+
+* ( ) [Kyjor/JulGame.jl: JulGame is a game engine based on the Julia programming language with the help of SDL2.](https://github.com/Kyjor/JulGame.jl)
+* ( ) [ndortega/Oxygen.jl: A breath of fresh air for programming web apps in Julia](https://github.com/ndortega/Oxygen.jl)
+
+#### Kotlin / Android
+
+* ( ) [pprint-kotlin](https://github.com/deusaquilus/pprint-kotlin)
+* (2) [android-studio](https://search.nixos.org/packages?channel=unstable&show=android-studio&from=0&size=50&sort=relevance&type=packages&query=android+studio)
+
+#### LaTeX, TeX
+
+* ( ) [KaTeX – The fastest math typesetting library for the web](https://katex.org/)
+
+#### Lua
+
+* ( ) [luarocks-build-rust-binary](https://github.com/vhyrro/luarocks-build-rust-binary)
+* ( ) [busted](https://lunarmodules.github.io/busted/) elegant lua testing
+* ( ) [fengari](https://github.com/fengari-lua/fengari) φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
+* ( ) [Introduction — Lua Functional 0.1.3 documentation](https://luafun.github.io/intro.html)
+* ( ) [luafun/luafun: Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.](https://github.com/luafun/luafun)
+lua-related  * ( ) [luvit](https://luvit.io/docs.html)
+
+### Typing
 
 * ( ) [quicktype](https://github.com/glideapps/quicktype)
 
-#### Containers, Orchestration, CI
+### Config and Serialization Languages
 
+* ( ) [vstakhov/libucl: Universal configuration library parser](https://github.com/vstakhov/libucl) for [ucl](https://rspamd.com/doc/configuration/ucl.html)
+* ( ) [flat-config](https://nx.dev/recipes/tips-n-tricks/flat-config)
+* ( ) [dhall-lang/dhall-haskell: Maintainable configuration files](https://github.com/dhall-lang/dhall-haskell)
+* ( ) [fuzzypixelz/Hustle: Haskell implementation of the KDL Document Language](https://github.com/fuzzypixelz/Hustle)
+* ( ) [gura.netlify](https://gura.netlify.app/)
+* ( ) [hashicorp/hcl: HCL is the HashiCorp configuration language.](https://github.com/hashicorp/hcl)
+* ( ) [The Dhall configuration language](https://dhall-lang.org/)
+* ( ) [tweag/nickel: Better configuration for less](https://github.com/tweag/nickel)
+* ( ) [Data Serialization Comparison: JSON, YAML, BSON, MessagePack — SitePoint](https://www.sitepoint.com/data-serialization-comparison-json-yaml-bson-messagepack/)
+
+### Snap
+
+* ( ) [How I delete snap and all traces of it - Solus Forum](https://discuss.getsol.us/d/9323-how-i-delete-snap-and-all-traces-of-it/3)
+* ( ) [Installing a snap package - Help - NixOS Discourse](https://discourse.nixos.org/t/installing-a-snap-package/11468/4)
+* ( ) [io12/nix-snapd • FlakeHub](https://flakehub.com/flake/io12/nix-snapd)
+* ( ) [linux - I can't delete files 'rm: cannot remove X Read-only file system' - Server Fault](https://serverfault.com/questions/304416/i-cant-delete-files-rm-cannot-remove-x-read-only-file-system)
+* ( ) [Snap.d error: cannot communicate with server connection refused - snapd - snapcraft.io](https://forum.snapcraft.io/t/snap-d-error-cannot-communicate-with-server-connection-refused/6093/55)
+
+### Containers, Orchestration, CI
+
+* ( ) [atoms (brombin)](...)
+* ( ) [gnome boxes](https://apps.gnome.org/boxes/)
+* ( ) [Dagger.io](https://dagger.io/) - CI/CD tool
+* ( ) [warptools/warpforge: a build tool -- based on "hashes go in, hashes come out" and hermetic, containerized environments for every step.](https://github.com/warptools/warpforge)
+* ( ) [serversideup/spin: 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.](https://github.com/serversideup/spin)
 * (2) [ctop](https://github.com/bcicen/ctop)
 * (1) [docker](https://www.docker.com/)
 * (2) [slimtoolkit](https://slimtoolkit.org/)
@@ -180,10 +161,48 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
    |  [conty](https://github.com/Kron4ek/Conty)
 * ( ) [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
 * (2) [ops](https://ops.city)
+* ( ) [docker vs podman at DuckDuckGo](https://duckduckgo.com/?q%3Ddocker%2Bvs%2Bpodman%26ia%3Dweb)
+* ( ) [Podman vs Docker: In-Depth Comparison](https://phoenixnap.com/kb/podman-vs-docker)
+* ( ) [AtomsDevs/Atoms: Easily manage Linux Chroot(s) and Containers with Atoms.](https://github.com/AtomsDevs/Atoms)
+
+## Build
+
+* [gradle](https://gradle.org/)
+* [pantsbuild](https://www.pantsbuild.org/)
+* [pantsbuild](https://www.pantsbuild.org/)
+* ( ) [tbox](https://github.com/tboox/tbox)
+
+## Documentation
+
+* ( ) [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
+* ( ) [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files.
+      + ( ) [mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) a backend for [mdbook](https://github.com/rust-lang/mdBook) which will check your links for you. [fork](https://github.com/volhovm/mdbook-linkcheck)
+* ( ) [Sphinx](https://www.sphinx-doc.org/en/master/)
+* ( ) [Shibuya](https://shibuya.lepture.com/) (theme)
+* ( ) [zealdocs.org/](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. - GUI
+* ( ) [Read the Docs](https://readthedocs.org/)
+* ( ) [Doxygen](https://www.doxygen.nl/index.html)
+* ( ) [lihaoyi.com/Scalatex/](https://www.lihaoyi.com/Scalatex/)
+* ( ) [MkDocs](https://www.mkdocs.org/) + ( ) [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+* ( ) [sunaku/dasht](https://github.com/sunaku/dasht)
+* ( ) [slatedocs/slate](https://github.com/slatedocs/slate)
+* ( ) [Docusaurus](https://docusaurus.io/)
+* ( ) [Daux.io](https://dauxio.github.io/) - uses PHP and Composer
+* ( ) [GitBook](https://www.gitbook.com/)
+* ( ) [docsify/](https://github.com/docsifyjs/docsify/)- [Docsify](https://docsify.js.org/)
+* ( ) [zest](https://github.com/zestdocs/zest)- unmaintained, but fork and update?
+
+## RPC
+
+* ( ) [gRPC - Wikipedia](https://en.wikipedia.org/wiki/GRPC)
+* ( ) [gRPC vs. REST: Key Similarities and Differences - DreamFactory Software- Blog](https://blog.dreamfactory.com/grpc-vs-rest-how-does-grpc-compare-with-traditional-rest-apis/)
+* ( ) [gRPC](https://grpc.io/)
+* ( ) [Introduction to gRPC | gRPC](https://grpc.io/docs/what-is-grpc/introduction/)
 
 ## Formatting
 
 * ( ) [topiary](https://topiary.tweag.io/) [blog post](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/) - univeral code formatting
+* ( ) [prettier](https://mrmr.io/til/prettier)
 
 ## Web and App Development → [What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM) - YouTube
 
@@ -326,7 +345,7 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
 
 * (3) [upx](https://upx.github.io/)
 
-## ML/AI - SORT
+## ML/AI
 
 * → [The Ultimate Coding Setup for Data Science](https://youtu.be/TdbeymTcYYE) use conda for environments and pip(/poetry) for installation
 * → [ml-tooling](https://github.com/ml-tooling)
@@ -344,3 +363,12 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
 * ( ) [surya](https://github.com/VikParuchuri/surya) - OCR
 * ( ) [Stevenic/codepilot: Codepilot is a programming buddy that is an expert on your codebase.](https://github.com/Stevenic/codepilot)
 * ( ) [micr0-dev/lexido](https://github.com/micr0-dev/lexido) - A terminal assistant, powered by Generative AI
+
+## CLI / TUi Development
+
+* ( ) [notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses
+* ( ) [chalk-animation](https://github.com/bokub/chalk-animation)
+* ( ) [charm](https://charm.sh/)
+* ( ) [huh](https://github.com/charmbracelet/huh)
+* ( ) [jesseduffield/lazycli: Turn static CLI commands into TUIs with ease](https://github.com/jesseduffield/lazycli)
+* ( ) [pxmenu](https://github.com/iruzo/pxmenu) POSIX sh simple menu

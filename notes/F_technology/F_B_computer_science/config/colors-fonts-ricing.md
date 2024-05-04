@@ -283,6 +283,10 @@
 
 * ( ) [Userscape Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Userscape) - not terrible, but not for me <<<
 
+## Templates
+
+* ( ) [gitlab.com/GasparVardanyan/solarized](https://gitlab.com/GasparVardanyan/solarized)
+
 ## IDEAS
 
 (not unlike [nvim site](https://neovim.io/doc/user/options.html) [colors](https://github.com/neovim/neovim.github.io/search?q=color)):
@@ -301,6 +305,9 @@
 * pale brown?
 * lavender?
 * green, blue, gray, brown, subdued gold, white, mahogany
+
+* Apps
+  * freetube
 
 ## ChatGPT
 

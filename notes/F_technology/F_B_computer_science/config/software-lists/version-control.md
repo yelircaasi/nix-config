@@ -66,7 +66,9 @@
 
 ## GUI
 
-* ( ) [Gitnuro](https://github.com/JetpackDuba/Gitnuro)- FOSS, written in Kotlin
+* ( ) [gittyup](https://github.com/Murmele/Gittyup)
+* ( ) [gitg](https://wiki.gnome.org/apps/gitg)
+* (2) [Gitnuro](https://github.com/JetpackDuba/Gitnuro)- FOSS, written in Kotlin
 * ( ) [GitCola](https://git-cola.github.io/) - Git Cola is a sleek and powerful graphical Git client. Written in Python and GPL-licensed. (Python)
 * ( ) [rabbitvcs](https://github.com/rabbitvcs/rabbitvcs)[Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use.
 * ( ) [gitbreeze](https://gitbreeze.dev/) - Vershd is the free for personal use effortless Git GUI for Windows, Mac, & Linux. - not FOSS, but interesting (Python)
@@ -87,9 +89,9 @@
 * ( ) [...](https://github.com/tkrajina/git-plus)
 * ( ) [...](https://github.com/fboender/multi-git-status)
 
-## Commit, Changelog
+## Commit, Changelog, Versioning
 
-* ( ) [git-cliff](https://github.com/orhun/git-cliff)
+* ( ) [git-cliff](https://github.com/orhun/git-cliff) [git-cliff site](https://git-cliff.org/) A highly customizable changelog generator
 * ( ) [commitlint.js.org](https://commitlint.js.org/#/reference-rules)
 * ( ) [commitlint.js.org/#/reference-rules](https://commitlint.js.org/#/reference-rules)
 * ( ) [freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/)*](https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/)*
@@ -100,6 +102,7 @@
 * ( ) [node-semantic-git-commit-cli -](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages. With emoji support. - supports per-project rules
 * ( ) [git-cz -](https://github.com/streamich/git-cz) - Semantic Git commits.
 * ( ) [rcz -](https://github.com/Cassin01/rcz) - A tool to write a commit message based on “Conventional Commits”.
+* ( ) [git-semver](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier
 
 ## TUI / FZF for Git
 
@@ -129,8 +132,9 @@
 * ( ) [git-annex](http://source.git-annex.branchable.com/?p=source.git) - [git-annex.branchable.com/](https://git-annex.branchable.com/) Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files.
 * ( ) [ ] [git-annex.branchable.com/](https://git-annex.branchable.com/)
 
-## Git GoL
+## Git QoL
 
+* ( ) [mkgit](https://github.com/cosmicwanderer7/mkgit) - automates the process of creating a new GitHub repository, initializing it with a README file, and pushing the initial commit to the remote repository
 * ( ) [git-peek -](https://github.com/Jarred-Sumner/git-peek) - git peek is the fastest way to open a remote git repository in your local text editor.
 * ( ) [git-secret -](https://github.com/sobolevn/git-secret) - A bash tool which stores private data inside a git repo; it uses users' public keys, allowing trusted users to access encrypted data using pgp and their secret keys.
 * ( ) [dev-time-cli](https://github.com/samverschueren/dev-time-cli)- Get the current local time of a GitHub user.
@@ -147,11 +151,27 @@
 * {vc} [Gitless](https://gitless.com/)
 vc * Check out jj (name? new and improved git)
 * {vc tui} [Introduction · Tig - Text-mode interface for Git](https://jonas.github.io/tig/)
-
-## SORT
-
 * ( ) [git log alias](https://www.reddit.com/r/git/s/bu6LppB573) git log alias
-* ( ) [gitoxide](https://github.com/Byron/gitoxide)
-* ( ) [mkgit](https://github.com/cosmicwanderer7/mkgit) - automates the process of creating a new GitHub repository, initializing it with a README file, and pushing the initial commit to the remote repository
 * ( ) [qw3rtman/git-fire: :fire: Save Your Code in an Emergency](https://github.com/qw3rtman/git-fire)
+* ( ) [git-wtf](https://github.com/michaelklishin/git-wtf)
+
+## Reimplementation
+
+* ( ) [gitoxide](https://github.com/Byron/gitoxide)
+
+## Development
+
+* ( ) [gitgitgadget](https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+
+## Git Education
+
 * ( ) [So You Think You Know Git?](https://youtu.be/aolI_Rz0ZqY?si%3DDQSGDv-KVeKOvJkM)
+
+## Github
+
+* ( ) [prs](https://github.com/dhth/prs)
+* (2) [gh](https://cli.github.com/)
+
+## Gitlab
+
+* (2) [glab](https://gitlab.com/gitlab-org/cli)

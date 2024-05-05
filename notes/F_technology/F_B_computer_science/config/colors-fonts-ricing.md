@@ -1527,3 +1527,4 @@ rice * VanillaOS wallpaper channel
 * {rice color dev} [xyy](https://joedrago.github.io/xyy/)
 * {rice font} [Iosevka](https://github.com/be5invis/Iosevka)
 * {rice font} [monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
+* [ColorFetch](https://github.com/Selbi182/ColorFetch)

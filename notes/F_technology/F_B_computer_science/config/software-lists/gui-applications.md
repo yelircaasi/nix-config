@@ -39,7 +39,8 @@
 
 ## Finances
 
-* {prod} ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter app for helping you managing your expenses. No internet required.
+* ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter app for helping you managing your expenses. No internet required.
+* (2) [CurrencyConv](https://github.com/keshavbhatt/CurrencyConv)
 
 ## GUI Inspection
 

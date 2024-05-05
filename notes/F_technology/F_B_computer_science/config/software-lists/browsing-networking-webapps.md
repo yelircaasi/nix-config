@@ -870,6 +870,14 @@
 * ( ) [offlineimap](https://www.offlineimap.org/)
 * ( ) [mailinabox](https://mailinabox.email/)
 
+### RSS (GUI)
+
+* (2.5) [tt-rss](https://tt-rss.org/)
+   | ( ) [rssguard](https://github.com/martinrotter/rssguard)
+   | ( ) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey)
+   | ( ) [NewsFlash](https://apps.gnome.org/app/com.gitlab.newsflash/)
+   | ( ) [fluent-reader](https://hyliu.me/fluent-reader/)
+   | ( ) [Akregator](https://apps.kde.org/akregator/)
 ### Email
 
 * ( ) [isync](https://github.com/gburd/isync)

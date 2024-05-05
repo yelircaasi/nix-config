@@ -501,15 +501,17 @@ SORT
 ## Screenshot
 
 * -> [debian wayland screenshot tool discussion](https://forums.debian.net/viewtopic.php?p%3D794502) CLI screenshot tool
-* ( ) [(https://github.com/hyprwm/contrib)](https://github.com/hyprwm/contrib/grimblast)
+* (4.5) [flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
+* ( ) [grimblast](https://github.com/hyprwm/contrib/tree/main/grimblast)
 * ( ) [shutter on wayland](https://www.omgubuntu.co.uk/2024/01/shutter-on-wayland)
 * ( ) [flameshot](https://flameshot.org/)
 * ( ) [grimcap](https://ithub.com/wick3dr0se/grimcap)
-* ( ) [Kirottu/watershot: A simple wayland native screenshot tool.](https://github.com/Kirottu/watershot)
+* (2.5) [watershot](https://github.com/Kirottu/watershot) - A simple wayland native screenshot tool
 * ( ) [pyscreenshot 3.1 on PyPI - Libraries.io](https://libraries.io/pypi/pyscreenshot)
 * ( ) [screenshot-to-code](https://github.com/abi/screenshot-to-code)
 * ( ) [sss](https://github.com/SergioRibera/sss) - SSS (Super ScreenShot) is a WIP: CLI/Lib to take amazing screenshot of code or screen
 * ( ) [swappy](https://github.com/jtheoof/swappy)
+* (2.5) [grim](https://sr.ht/~emersion/grim/)
 
 ### Screenshot Annotation
 

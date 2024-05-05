@@ -25,12 +25,12 @@
 
 ### Project Info
 
-* ( ) [tech stack file](https://stackshare.io/tech-stack-file)
+* (2) [tech stack file](https://stackshare.io/tech-stack-file)
 * -> [list](https://www.wiz.io/academy/top-open-source-sbom-tools)
 
 ### Workflow, Pipeline
 
-* ( ) [Reproducible Data Pipelines Using Controlled Effects](https://tweag.github.io/kernmantle/scale-by-the-bay-slides.html)
+* (R) [Reproducible Data Pipelines Using Controlled Effects](https://tweag.github.io/kernmantle/scale-by-the-bay-slides.html)
 
 ### Package Management
 
@@ -61,6 +61,7 @@
 * ( ) [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm)
 * ( ) [synoptic](https://lib.rs/crates/synoptic) syntax highlighting
 * ( ) [min-sized-rust](https://github.com/johnthagen/min-sized-rust)
+* ( ) [pdf-writer](https://github.com/typst/pdf-writer) (rust library)
 
 #### JavaScript
 
@@ -82,8 +83,8 @@
 * -> idea: package pipx natively, without python and pip dependencies
 * (1) [matplotlib-backend-wezterm](https://pypi.org/project/matplotlib-backend-wezterm/)
 * (2) [poetry](https://python-poetry.org/)
-* ( ) [pypi-command-line](https://wasi-master.github.io/pypi-command-line/)
-* ( ) [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) Software Bill of Materials (SBOM) generator for Python projects and environments
+* (2) [pypi-command-line](https://wasi-master.github.io/pypi-command-line/) (see also alternatives listed in the docs)
+* (2) [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) Software Bill of Materials (SBOM) generator for Python projects and environments
 * ( ) [line-profiler · PyPI](https://pypi.org/project/line-profiler/)
 * ( ) [pipx](https://github.com/pypa/pipx) try Debian? Gentoo?
 * ( ) [pyx-project/pyx](https://github.com/pyx-project/pyx)
@@ -93,6 +94,7 @@
 
 #### Haskell
 
+* ( ) [SoccerFun](https://hackage.haskell.org/package/SoccerFun)
 * ( ) [parsing - Writing a parser from scratch in Haskell - Stack Overflow](https://stackoverflow.com/questions/20660782/writing-a-parser-from-scratch-in-haskell)
 * ( ) [slim: Functional reactive user interface programming](https://hackage.haskell.org/package/slim)
 * ( ) [Dhall/Parser.hs](https://hackage.haskell.org/package/dhall-1.6.0/docs/src/Dhall-Parser.html)
@@ -135,6 +137,8 @@
 * ( ) [The Dhall configuration language](https://dhall-lang.org/)
 * ( ) [tweag/nickel: Better configuration for less](https://github.com/tweag/nickel)
 * ( ) [Data Serialization Comparison: JSON, YAML, BSON, MessagePack — SitePoint](https://www.sitepoint.com/data-serialization-comparison-json-yaml-bson-messagepack/)
+* ( ) [ron](https://github.com/ron-rs/ron)
+* ( ) [kdl](...)
 
 ### Snap
 
@@ -402,3 +406,4 @@
 * ( ) [huh](https://github.com/charmbracelet/huh)
 * ( ) [jesseduffield/lazycli: Turn static CLI commands into TUIs with ease](https://github.com/jesseduffield/lazycli)
 * ( ) [pxmenu](https://github.com/iruzo/pxmenu) POSIX sh simple menu
+* ( ) [scala-CLI](https://xebia.com/blog/better-shell-scripting-with-scala-cli/)

@@ -37,17 +37,14 @@
 
 ## Screenshot and Screen Recording / Screencasting / Streaming / etc
 
-* ( ) [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
-* (2) [to-html](https://github.com/Aloso/to-html)
-* ( ) [(2) Render a terminal as HTML with `to-html` : rust](https://www.reddit.com/r/rust/comments/juhbo3/render_a_terminal_as_html_with_tohtml/) -> do I need to hack this for WezTerm etc.?
+* (2) [to-html](https://github.com/Aloso/to-html) -> do I need to hack this for WezTerm etc.?
 * (2) [screenkey](https://gitlab.com/screenkey/screenkey)
 * (5) [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 * (2) [shot-scraper](https://github.com/simonw/shot-scraper)
 * (2) [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder. [asciinema.org/](https://asciinema.org/)
-* (2) [carbon-now-cli -  Beautiful](https://github.com/mixn/carbon-now-cli -  Beautiful) images of your code — from right inside your terminal.
-   |  ( ) [freeze](https://github.com/charmbracelet/freeze) Generate images of code and terminal output
+* (2.5) [carbon-now-cli](https://github.com/mixn/carbon-now-cli) images of your code — from right inside your terminal.
+   |  (2.5) [freeze](https://github.com/charmbracelet/freeze) Generate images of code and terminal output
 * (2) [streamlink](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
-* (2) [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
 * ( ) [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 * ( ) [swordfish-rs](https://github.com/vim-zz/swordfish-rs) - Mimics real person behavior with realtime typing into terminal; uses a screenplay where text and timings are specified.
 * ( ) [menyoki](https://menyoki.cli.rs/) - Screen{shot,cast} and perform ImageOps on the command line.
@@ -70,6 +67,8 @@
 
 ## YouTube
 
+* ( ) [ytgo](https://github.com/cybardev/ytgo)
+( ( ) [ytpy](https://github.com/cybardev/ytpy)
 * ( ) [pipe-viewer](https://github.com/trizen/pipe-viewer) - yt client
 * ( ) [invidtui](https://github.com/darkhz/invidtui) - Invidious TUI client, which fetches data from invidious instances and displays a user interface in the terminal, and allows for selecting and playing Youtube audio and video.
 * ( ) [youtube-tui](https://github.com/Siriusmart/youtube-tui)

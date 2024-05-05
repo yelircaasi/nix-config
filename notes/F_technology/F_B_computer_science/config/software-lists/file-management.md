@@ -57,6 +57,7 @@
 * (6) [vidir](https://linux.die.net/man/1/vidir)
 * (2.5) [mmv-c](https://github.com/mcauley-penney/mmv-c)
 * (2.5) [mmv](https://github.com/itchyny/mmv)
+* (2.5) [massren](https://github.com/laurent22/massren)
 
 ## Launche-Based
 

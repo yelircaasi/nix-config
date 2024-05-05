@@ -71,17 +71,16 @@
 
 ## Editing, Document Creation
 
-* ( ) [Manuskript – Open-source tool for writers](https://www.theologeek.ch/manuskript/)
-* ( ) [scribus](https://github.com/scribusproject/scribus)
-* (2) [xournalpp](https://xournalpp.github.io/)
-* ( ) [sigil](https://sigil-ebook.com/)
-* ( ) [LibreOffice Draw](...)
+* (4) [Manuskript – Open-source tool for writers](https://www.theologeek.ch/manuskript/) [gh](https://github.com/olivierkes/manuskript) ?
+* (4) [scribus](https://github.com/scribusproject/scribus) ?
+* (2) [xournalpp](https://xournalpp.github.io/) ?
+* (4) [sigil](https://sigil-ebook.com/) ?
+* (4) [libreoffice](https://search.nixos.org/packages?channel=23.11&show=libreoffice&from=0&size=50&buckets=%7B%22package_attr_set%22%3A%5B%22No%20package%20set%22%5D%2C%22package_license_set%22%3A%5B%5D%2C%22package_maintainers_set%22%3A%5B%5D%2C%22package_platforms%22%3A%5B%5D%7D&sort=relevance&type=packages&query=libreoffice+draw) [LibreOffice Draw videos](https://de.libreoffice.org/get-help/neue-seite-2/videoanleitungendraw)
 * LibreOffice
-* ( ) [ONLYOFFICE - Secure Online Office | ONLYOFFICE](https://www.onlyoffice.com/)
-* ( ) [pdfarranger](https://github.com/pdfarranger/pdfarranger)
-* ( ) [pdfslicer](https://junrrein.github.io/pdfslicer/)
+* (4) [ONLYOFFICE - Secure Online Office | ONLYOFFICE](https://www.onlyoffice.com/)
+* (2.5) [pdfslicer](https://junrrein.github.io/pdfslicer/)
+   | (2.5) [pdfarranger](https://github.com/pdfarranger/pdfarranger)
 * (2) [luatex](https://gitlab.lisn.upsaclay.fr/texlive/luatex)
-* ( ) [contextgarden](https://wiki.contextgarden.net/Main_Page)
 
 ### Reference Management
 
@@ -128,29 +127,30 @@ editor neovim-related* ( ) [behansa](https://github.com/las-nish/Behansa)
 * ( ) [friendly-snippets/snippets/latex at main · rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets/tree/main/snippets/latex)
 * ( ) [LyX](https://en.wikipedia.org/wiki/LyX )
 * ( ) [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system.
-* ( ) [typst](https://github.com/typst/typst)
+* (2) [typst](https://github.com/typst/typst)
 * ( ) [latexmk](https://www.cantab.net/users/johncollins/latexmk/)
 * ( ) [...]([simtex](https://github.com/iaacornus/simtex) - simtex (simplified LaTeX) allows you to convert your markdown or text lectures into LaTeX file with one command, configured with simple .json file.
 * ( ) [tectonic](https://github.com/tectonic-typesetting/tectonic)
 * ( ) [tinytex](https://yihui.org/tinytex/)
 * ( ) [tlmgrlookup](https://github.com/jpfairbanks/tlmgrlookup)
+* (4) [contextgarden](https://wiki.contextgarden.net/Main_Page)
 
 ### Jupyter & Notebook-related
 
-* ( ) [voila-gallery](https://github.com/voila-gallery)
-* ( ) [nbdev](...)
-* ( ) [quarto](https://quarto.org/docs/get-started/)
-* ( ) [qtconsole](...)
-* ( ) [jpterm](...)
+* (2) [jupyter](https://jupyter.org/) (entire suite)
+* (2) [voila](https://github.com/voila-dashboards/voila) [gallery](https://github.com/voila-gallery)
+* (2) [nbdev](https://github.com/fastai/nbdev)
+* (2) [quarto](https://quarto.org/docs/get-started/)
+* (5) [qtconsole](https://qtconsole.readthedocs.io/en/stable/)
+* (2) [jpterm](https://davidbrochart.github.io/jpterm/)
 
 ### Other Notebooks
 
-* ( ) [marimo-team/marimo: A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.](https://github.com/marimo-team/marimo)
-* ( ) [docs.runme](https://docs.runme.dev/) webapp notebook
-* ( ) [jupyter](...) (entire suite)
-* ( ) [nteract](https://nteract.io/desktop)
-* ( ) [Apache Zeppelin](https://zeppelin.apache.org/)
-* ( ) [polynote/](https://github.com/polynote/polynote/)
+* (2.5) [polynote/](https://github.com/polynote/polynote/)
+   | (2.5) [nteract](https://nteract.io/desktop)
+   | (2.5) [Apache Zeppelin](https://zeppelin.apache.org/)
+   | (2.5) [docs.runme](https://docs.runme.dev/) webapp notebook
+   | (2.5) [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 
 ### Presentation
 
@@ -177,16 +177,16 @@ editor neovim-related* ( ) [behansa](https://github.com/las-nish/Behansa)
 
 ## Books and Reading
 
-* (2) [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) -> [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build), * ( ) [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html) 
-   | ( ) [sioyek](https://github.com/ahrm/sioyek) PDF viewer with a focus on textbooks and research papers
-   | ( ) [apvlv](https://github.com/naihe2010/apvlv)
-   | ( ) [llpp](https://repo.or.cz/w/llpp.git) (supports synctex)
-   | ( ) [qpdfview](https://launchpad.net/qpdfview) (also supports synctex)
+* (2.5) [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) -> [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build), * ( ) [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html) 
+   | (2.5) [sioyek](https://github.com/ahrm/sioyek) PDF viewer with a focus on textbooks and research papers
+   | (2.5) [apvlv](https://github.com/naihe2010/apvlv)
+   | (2.5) [llpp](https://repo.or.cz/w/llpp.git) (supports synctex, in ocaml)
+   | (2.5) [qpdfview](https://launchpad.net/qpdfview) (also supports synctex)
 * (5) [wike](https://github.com/hugolabe/Wike)
-* (2) [koreader](https://koreader.rocks/) 
-   | ( ) [bookworm](https://babluboy.github.io/bookworm/)
-   | ( ) [calibre](https://calibre-ebook.com/) + [calibre-web](https://github.com/janeczku/calibre-web)
-   | ( ) [evince](https://wiki.gnome.org/Apps/Evince)
-   | ( ) [foliate](https://johnfactotum.github.io/foliate/)
-   | ( ) [okular](https://okular.kde.org/)
+* (2.5) [koreader](https://koreader.rocks/) 
+   | (2.5) [bookworm](https://babluboy.github.io/bookworm/)
+   | (2.5) [foliate](https://johnfactotum.github.io/foliate/)
+   | (3.5) [calibre](https://calibre-ebook.com/) + [calibre-web](https://github.com/janeczku/calibre-web)
+   | (3.5) [okular](https://okular.kde.org/)
+   | (6) [evince](https://wiki.gnome.org/Apps/Evince)
 * (5) [pockyt](https://github.com/arvindch/pockyt) 

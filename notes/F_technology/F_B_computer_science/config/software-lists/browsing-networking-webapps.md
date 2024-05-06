@@ -151,6 +151,7 @@
 * ( ) [BachoSeven/startpage](https://github.com/BachoSeven/startpage)
 * ( ) [prism](https://github.com/PROxZIMA/prism) A beautiful, minimalist, static startpage
 * ( ) [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page)
+* ( ) [habu](https://github.com/kaloslazo/Habu)
 
 #### Firefox Ricing
 
@@ -187,6 +188,9 @@
 * ( ) [greasyfork.org/](https://greasyfork.org/)
 * ( ) [greasyfork.org/en/scripts/470753-mastodon-birdui-style-override](https://greasyfork.org/en/scripts/470753-mastodon-birdui-style-override)
 * ( ) [greasyfork.org/en](https://greasyfork.org/en)
+* ( ) [userstyles mirror](https://github.com/uso-archive/data) and [site](https://uso.kkx.one/)
+* ( ) [usercss guide](https://github.com/openstyles/stylus/wiki/Usercss)
+* ( ) [writing usercss](https://github.com/openstyles/stylus/wiki/Writing-UserCSS)
 * Sites to make custom CSS for:
   * Notion
   * GitHub
@@ -220,8 +224,7 @@
   * ( ) [ ]  [selenium-python.readthedocs.io/installation.html](https://selenium-python.readthedocs.io/installation.html)
 * ( ) [ ]  [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
 * ( ) [openstyles/stylus: Stylus - Userstyles Manager](https://github.com/openstyles/stylus/tree/master)
-* ( ) [tampermonkey](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)
-* ( ) [tampermonkey](https://www.tampermonkey.net/)
+
 * ( ) [Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors)
 * ( ) [stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt](https://stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt)
 * ( ) [superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension](https://superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension)
@@ -234,50 +237,63 @@
 * ( ) [brave/brave-core](https://github.com/brave/brave-core) [brave/brave-core/tree/master/ui/webui/resources](https://github.com/brave/brave-core/tree/master/ui/webui/resources)
 * ( ) [Where are installed Google Chrome extensions stored locally? - Stack Overflow](https://stackoverflow.com/questions/21475866/where-are-installed-google-chrome-extensions-stored-locally)
 
+##### Userscript Managers
+
+* ( ) [firemonkey](https://addons.mozilla.org/en-CA/firefox/addon/firemonkey/) [guide](https://www.ilovefreesoftware.com/11/windows/internet/plugins/how-to-use-userscripts-userstyles-firemonkey-firefox.html)
+* ( ) [violentmonkey](https://violentmonkey.github.io/)
 * ( ) [greasemonkey CSS](https://superuser.com/questions/1337469/grasemonkey-change-design-css)
+* ( ) [tampermonkey](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)
+* ( ) [tampermonkey](https://www.tampermonkey.net/)
 
 #### Rice FF
 
-* ( ) [gitlab.com/domsch1988/domfox](https://gitlab.com/domsch1988/domfox)
-* ( ) [Neikon/Fox11](https://github.com/Neikon/Fox11) HGKeeper
 * ( ) [reddit](https://www.reddit.com/r/unixporn/s/mvA6EhXF0t)
 * ( ) [...](https://www.reddit.com/r/NixOS/s/bytkKR3Tvq)
-* ( ) [EliverLara/firefox-nordic-theme: :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.](https://github.com/EliverLara/firefox-nordic-theme)
 * ( ) [Make Firefox great again](https://www.youtube.com/watch?v%3DdwZpjKH8nbo)
-* ( ) [Tile Tabs WE :: Add-ons for Firefox](https://web.archive.org/web/20170821233327/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs-we/)
+
+##### user.js
+
+* ( ) [user.js/desktop at main - user.js - Codeberg.org](https://codeberg.org/Narsil/user.js/src/branch/main/desktop)
 * ( ) [arkenfox/user.js: Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening](https://github.com/arkenfox/user.js)
-* ( ) [firefox-userchrome · GitHub Topics](https://github.com/topics/firefox-userchrome)
-* ( ) [firefoxcss-store.github.io/](https://firefoxcss-store.github.io/)
-* ( ) [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx)
-* ( ) [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx)
-* ( ) [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one)
-* ( ) [HelgiMagic/FirefoxCSS](https://github.com/HelgiMagic/FirefoxCSS)
-* ( ) [Jamir-boop/minimalisticfox](https://github.com/Jamir-boop/minimalisticfox)
-* ( ) [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF)
-* ( ) [Naezr/ShyFox](https://github.com/Naezr/ShyFox)
-* ( ) [PENWINthePIRATE/firefox-one-pixelated](https://github.com/PENWINthePIRATE/firefox-one-pixelated)
-* ( ) [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
-* ( ) [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox)
-* ( ) [RoyalHeart/config/tree/main/chrome](https://github.com/RoyalHeart/config/tree/main/chrome)
-* ( ) [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox)
-* ( ) [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox)
-* ( ) [ShmakovVladimir/DolphinFox](https://github.com/ShmakovVladimir/DolphinFox)
-* ( ) [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox)
-* ( ) [alan-ar1/greenyfox](https://github.com/alan-ar1/greenyfox)
-* ( ) [artsyfriedchicken/EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr)
-* ( ) [davidbecker808/Edge-FFxArc](https://github.com/davidbecker808/Edge-FFxArc)
-* ( ) [iansinnott/full-text-tabs-forever](https://github.com/iansinnott/full-text-tabs-forever)
-* ( ) [lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
-* ( ) [lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
-* ( ) [safak45xx/Blurfox-MacOS](https://github.com/safak45xx/Blurfox-MacOS)
-* ( ) [soulhotel/Perfection-Firefox-CSS-Theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
-* ( ) [soulhotel/v2-Tabs-alpha-/tree/main](https://github.com/soulhotel/v2-Tabs-alpha-/tree/main)
-* ( ) [vipintom/stealthFox](https://github.com/vipintom/stealthFox)
+
+##### Firefox Themes
+
+-> [firefox-userchrome · GitHub Topics](https://github.com/topics/firefox-userchrome)
+
+->  [firefoxcss-store.github.io/](https://firefoxcss-store.github.io/)
+
+* ( ) [royalHeart/config/tree/main/chrome](https://github.com/RoyalHeart/config/tree/main/chrome)
+* ( ) [arcWTF](https://github.com/KiKaraage/ArcWTF)
+* ( ) [blurfox-MacOS](https://github.com/safak45xx/Blurfox-MacOS)
+* ( ) [dolphinFox](https://github.com/ShmakovVladimir/DolphinFox)
+* ( ) [domfox](https://gitlab.com/domsch1988/domfox)
+* ( ) [edge-FFxArc](https://github.com/davidbecker808/Edge-FFxArc)
+* ( ) [edgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr)
+* ( ) [firefox-gx](https://github.com/Godiesc/firefox-gx)
+* ( ) [firefox-nordic-theme: :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.](https://github.com/EliverLara/firefox-nordic-theme)
+* ( ) [firefox-one-pixelated](https://github.com/PENWINthePIRATE/firefox-one-pixelated)
+* ( ) [firefox-one](https://github.com/Godiesc/firefox-one)
+* ( ) [firefox-vertical-tabs: Stylesheets for collapsible vertical tabs for Firefox.](https://github.com/lucaspar/firefox-vertical-tabs)
+* ( ) [flyingFox](https://github.com/akshat46/FlyingFox)
+* ( ) [fox11](https://github.com/Neikon/Fox11)
+* ( ) [full-text-tabs-forever](https://github.com/iansinnott/full-text-tabs-forever)
+* ( ) [greenyfox](https://github.com/alan-ar1/greenyfox)
+* ( ) [helgiMagic/FirefoxCSS](https://github.com/HelgiMagic/FirefoxCSS)
+* ( ) [minimalisticfox](https://github.com/Jamir-boop/minimalisticfox)
+* ( ) [perfection-Firefox-CSS-Theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
+* ( ) [shina-Fox](https://github.com/Shina-SG/Shina-Fox)
+* ( ) [shyFox](https://github.com/Naezr/ShyFox)
+* ( ) [stealthFox](https://github.com/vipintom/stealthFox)
+* ( ) [sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
+* ( ) [v2-Tabs](https://github.com/soulhotel/v2-Tabs-alpha-/tree/main)
+* ( ) [waveFox](https://github.com/QNetITQ/WaveFox)
+
+##### Floorp Themes
+
 * ( ) [zDyanTB/ADHD-Floorp](https://github.com/zDyanTB/ADHD-Floorp)
+* ( ) [lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
 * ( ) [news.itsfoss.com/floorp-firefox/](https://news.itsfoss.com/floorp-firefox/)
 * ( ) [r/browsers/s/L0sHFRb1RU](https://www.reddit.com/r/browsers/s/L0sHFRb1RU) floorp
-* ( ) [lucaspar/firefox-vertical-tabs: Stylesheets for collapsible vertical tabs for Firefox.](https://github.com/lucaspar/firefox-vertical-tabs)
-* ( ) [user.js/desktop at main - user.js - Codeberg.org](https://codeberg.org/Narsil/user.js/src/branch/main/desktop)
 
 #### Other CSS
 
@@ -291,7 +307,7 @@
    | (2.5) [links2](...)
 * (5) [w3m-mee](http://pub.ks-and-ks.ne.jp/prog/w3mmee/)
 * (2) [edbrowse](...)
-* ( ) [chawan](https://sr.ht/~bptato/chawan/) (written in Nim! handles CSS and JS)
+* (2) [chawan](https://sr.ht/~bptato/chawan/) (written in Nim! handles CSS and JS)
 
 ### CLI Browser (truly minimalist)
 
@@ -337,6 +353,7 @@
 * → GNU List: [gnuzilla.gnu.org/mozzarella/](https://gnuzilla.gnu.org/mozzarella/)
 * ( ) [adnauseam.io/](https://adnauseam.io/)
 * ( ) [kas-elvirov/gloc: :calendar: Browser extension: counts lines of code on GitHub](https://github.com/kas-elvirov/gloc)
+* ( ) [Tile Tabs WE :: Add-ons for Firefox](https://web.archive.org/web/20170821233327/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs-we/)
 
 ### Google Docs etc
 
@@ -619,10 +636,10 @@
 ## Web Development
 
 * (2) [serverracket.com/](https://serverracket.com/)
-* ( ) [...](https://codeberg.org/kitten/app)
-* ( ) [...](https://federicoterzi.com/raji/) [github](https://github.com/federico-terzi/raji)
-* ( ) [...](https://www.shuttle.rs/blog/2023/12/20/loco-rust-rails)
-* ( ) [...](https://www.squaresapp.org/rawjs/)
+* ( ) [kitten](https://codeberg.org/kitten/app)
+* ( ) [raji](https://federicoterzi.com/raji/) [github](https://github.com/federico-terzi/raji)
+* ( ) [loco](https://www.shuttle.rs/blog/2023/12/20/loco-rust-rails) the Rails of Rust
+* ( ) [rawjs](https://www.squaresapp.org/rawjs/)
 * ( ) [bootplus](http://aozora.github.io/bootplus/)
 * ( ) [dBug](https://github.com/ospinto/dBug) - PHP tool
 * ( ) [ebpf article](https://thenewstack.io/what-is-ebpf/)
@@ -878,6 +895,7 @@
    | ( ) [NewsFlash](https://apps.gnome.org/app/com.gitlab.newsflash/)
    | ( ) [fluent-reader](https://hyliu.me/fluent-reader/)
    | ( ) [Akregator](https://apps.kde.org/akregator/)
+
 ### Email
 
 * ( ) [isync](https://github.com/gburd/isync)

@@ -9,6 +9,11 @@
 
 * [cpp-lang.net/](https://www.cpp-lang.net/)
 
+### Projects
+
+* dlib
+* [godot](https://github.com/godotengine/godot)
+
 ## 1s
 
 * {cpp} [fox-toolkit.org](http://www.fox-toolkit.org/)

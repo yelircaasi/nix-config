@@ -1,41 +1,71 @@
 # SORT
 
-* {?} <|> ->  [Linux: What is Dash ( /bin/dash ) Shell? - nixCraft](https://www.cyberciti.biz/faq/debian-ubuntu-linux-binbash-vs-bindash-vs-binshshell/)
-* {?} <|> ->  [book/](https://www.nushell.sh/book/)
-* {?} <|> ->  [elv.sh](https://elv.sh/learn/)
-* {?} <|> ->  [russia history](https://freedomlibrary.hillsdale.edu/programs/cca-i-russia/russia-from-1696-1917-an-overview)
-* {?} <|> ->  [thegradientpub.substack.com](https://thegradientpub.substack.com/p/ted-gibson-language-structure-communication-llms)
-* {?} <|> ->  [wiki.nikiv.dev](https://wiki.nikiv.dev/unix/shell/fish)
-* {?} <|> Convert floating point in x1, y1, x2, y2 to int? (1→down, 2→up)? Saves storage and slightly expands the bbox (good thing)
-* {?} <|> [cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/](https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/)
-* {?} <|> [debugpointnews.com/nixbsd-freebsd/?amp=1](https://debugpointnews.com/nixbsd-freebsd/?amp=1)
-* {?} <|> [discord.com/channels/834325286664929280/834821523021758474/1232763301746966568](https://discord.com/channels/834325286664929280/834821523021758474/1232763301746966568)
-* {?} <|> [distrochooser.de/](https://distrochooser.de/)
-* {?} <|> [neurosciencenews.com/dopamine-mapping-neurotech-25975/](https://neurosciencenews.com/dopamine-mapping-neurotech-25975/)
-* {?} <|> [open.spotify.com/show/6vEh6ZpQr1Eoeoz8TbsMKx?si=4H1KgFyCQ7eu9e571swDkA](https://open.spotify.com/show/6vEh6ZpQr1Eoeoz8TbsMKx?si=4H1KgFyCQ7eu9e571swDkA)
-* {?} <|> [wiki.archlinux.org/title/Installation_guide](https://wiki.archlinux.org/title/Installation_guide)
-* {?} <|> [11ty.dev/docs/languages/custom/](https://www.11ty.dev/docs/languages/custom/)
-* {?} <|> [futurised.de/ai-solutions/smartassistantai](https://www.futurised.de/ai-solutions/smartassistantai)
-* {?} <|> [marktechpost.com/2024/04/24/jp-morgan-ai-research-introduces-flowmind-a-novel-machine-learning-approach-that-leverages-the-capabilities-of-llms-such-as-gpt-to-create-an-automatic-workflow-generation-system/](https://www.marktechpost.com/2024/04/24/jp-morgan-ai-research-introduces-flowmind-a-novel-machine-learning-approach-that-leverages-the-capabilities-of-llms-such-as-gpt-to-create-an-automatic-workflow-generation-system/)
-* {?} <|> [sarhne.com/1600546883462056](https://www.sarhne.com/1600546883462056)
-* {?} <|> [smbc-comics.com/](https://www.smbc-comics.com/)
-* {?} <|> → [duckduckgo.com](https://duckduckgo.com/?q%3Dcontent-addressed%2Bstorage%2Bin%2Bnix%26ia%3Dweb)
-dhall                                              <|> convert global-defs to dhall and use pkgs.dhallToNix
-* {github                                             } <|> ->  [Hexlet/awesome-lsp-servers](https://github.com/Hexlet/awesome-lsp-servers)
-* {github                                             } <|> ->  [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+floorp video https://www.youtube.com/watch?v=7DGkiMWDqE8
+browser video https://www.youtube.com/watch?v=5rLFYtXHo9s
+browser video https://www.youtube.com/watch?v=0IsQqJ7pwhw
+FF history https://www.youtube.com/watch?v=1qUlxXTp-ko
+FF video https://www.youtube.com/watch?v=7xvtz3pN_Sw
+How AI Was Stolen https://www.youtube.com/watch?v=BQTXv5jm6s4
+
+
+* [2024 Browser Tier List](https://www.youtube.com/watch?v=lGKonh65WiU)
+?                                                  <|> ## Sort
+?                                                  <|> ->  [Linux: What is Dash ( /bin/dash ) Shell? - nixCraft](https://www.cyberciti.biz/faq/debian-ubuntu-linux-binbash-vs-bindash-vs-binshshell/)
+?                                                  <|> ->  [book/](https://www.nushell.sh/book/)
+?                                                  <|> ->  [elv.sh](https://elv.sh/learn/)
+?                                                  <|> ->  [russia history](https://freedomlibrary.hillsdale.edu/programs/cca-i-russia/russia-from-1696-1917-an-overview)
+?                                                  <|> -> [gpt4all](https://gpt4all.io/index.html)
+?                                                  <|> Convert floating point in x1, y1, x2, y2 to int? (1→down, 2→up)? Saves storage and slightly expands the bbox (good thing)
+?                                                  <|> [cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/](https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/)
+?                                                  <|> [debugpointnews.com/nixbsd-freebsd/?amp=1](https://debugpointnews.com/nixbsd-freebsd/?amp=1)
+?                                                  <|> [discord...](https://discord.com/channels/834325286664929280/834821523021758474/1232763301746966568)
+?                                                  <|> [kupfer.gitlab.io/](https://kupfer.gitlab.io/)
+?                                                  <|> [neurosciencenews.com/dopamine-mapping-neurotech-25975/](https://neurosciencenews.com/dopamine-mapping-neurotech-25975/)
+?                                                  <|> [open.spotify.com/show/6vEh6ZpQr1Eoeoz8TbsMKx?si=4H1KgFyCQ7eu9e571swDkA](https://open.spotify.com/show/6vEh6ZpQr1Eoeoz8TbsMKx?si=4H1KgFyCQ7eu9e571swDkA)
+?                                                  <|> [qsynth.sourceforge.io/](https://qsynth.sourceforge.io/)
+?                                                  <|> [sarhne.com/1600546883462056](https://www.sarhne.com/1600546883462056)
+?                                                  <|> [smbc-comics.com/](https://www.smbc-comics.com/)
+?                                                  <|> [yoshimi.sourceforge.io/](https://yoshimi.sourceforge.io/)
+?                                                  <|> [aidoskyneen.eu/](https://aidoskyneen.eu/)
+?                                                  <|> [aux.computer/](https://aux.computer/)
+?                                                  <|> [canonical-subiquity.readthedocs-hosted.com/en/latest/intro-to-autoinstall.html](https://canonical-subiquity.readthedocs-hosted.com/en/latest/intro-to-autoinstall.html)
+?                                                  <|> [dataswamp solene workstation-going-stateless.html](https://dataswamp.org/~solene/2024-04-20-workstation-going-stateless.html)
+?                                                  <|> [drive.google.com/file/d/1KIgI8U9kf0AbNYNpM07g9rViFpLDNXYu/view?usp=sharing](https://drive.google.com/file/d/1KIgI8U9kf0AbNYNpM07g9rViFpLDNXYu/view?usp=sharing)
+?                                                  <|> [nixing-technological-lock-in/](https://economicsfromthetopdown.com/2024/02/17/nixing-technological-lock-in/)
+?                                                  <|> [farbenfroh.io/](https://farbenfroh.io/)
+?                                                  <|> [forum.aux.computer/latest](https://forum.aux.computer/latest)
+?                                                  <|> [fosstodon.org/@frameworkcomputer/112371823004642927](https://fosstodon.org/@frameworkcomputer/112371823004642927)
+?                                                  <|> [gitlab.gnome.org/GNOME/gtk/-/blob/gtk-3-24/gtk/theme/Adwaita/_colors-public.scss](https://gitlab.gnome.org/GNOME/gtk/-/blob/gtk-3-24/gtk/theme/Adwaita/_colors-public.scss)
+?                                                  <|> [itsfoss.com/thunar-tweaks/](https://itsfoss.com/thunar-tweaks/)
+?                                                  <|> [meyerweb.com/eric/tools/color-blend](https://meyerweb.com/eric/tools/color-blend)
+?                                                  <|> [open.spotify.com/episode/5KSB5id1TL546szZiwDiSM?si=uiI6v8LdSuav3v-JqJEQng](https://open.spotify.com/episode/5KSB5id1TL546szZiwDiSM?si=uiI6v8LdSuav3v-JqJEQng)
+?                                                  <|> [pwasforfirefox.filips.si/](https://pwasforfirefox.filips.si/)
+?                                                  <|> [quickshell.outfoxxed.me/](https://quickshell.outfoxxed.me/)
+?                                                  <|> [rheinneckar.social/@NixRust/111613794220902127](https://rheinneckar.social/@NixRust/111613794220902127)
+?                                                  <|> [rheinneckar.social/@hackerstolz](https://rheinneckar.social/@hackerstolz)
+?                                                  <|> [spacezero.sourceforge.net/files/INSTALL](https://spacezero.sourceforge.net/files/INSTALL)
+?                                                  <|> [typst.app/universe/package/conchord](https://typst.app/universe/package/conchord)
+?                                                  <|> [www.maxthon.com/en/](https://www.maxthon.com/en/)
+?                                                  <|> [www.rgbtohex.net/](https://www.rgbtohex.net/)
+?                                                  <|> [www.yesodweb.com/book](https://www.yesodweb.com/book)
+?                                                  <|> → [duckduckgo.com](https://duckduckgo.com/?q%3Dcontent-addressed%2Bstorage%2Bin%2Bnix%26ia%3Dweb)
+github                                             <|> ->  [Hexlet/awesome-lsp-servers](https://github.com/Hexlet/awesome-lsp-servers)
+github                                             <|> ->  [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 github                                             <|> [Haruzona/penguinFox](https://github.com/Haruzona/penguinFox)
 github                                             <|> [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage)
 github                                             <|> [LazyVim/LazyVim/discussions/1972](https://github.com/LazyVim/LazyVim/discussions/1972)
 github                                             <|> [MrVivekRajan/Grub-Themes](https://github.com/MrVivekRajan/Grub-Themes)
-github                                             <|> [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots)
 github                                             <|> [Nishantdd/miniFox](https://github.com/Nishantdd/miniFox)
 github                                             <|> [XN75/MintConfig](https://github.com/XN75/MintConfig)
 github                                             <|> [bnjbvr/rouille](https://github.com/bnjbvr/rouille)
 github                                             <|> [cascadefox/cascade](https://github.com/cascadefox/cascade)
 github                                             <|> [collinalexbell/HackMatrix](https://github.com/collinalexbell/HackMatrix)
+github                                             <|> [gist.github.com/Vertecedoc4545/3b077301299c20c5b9b4db00f4ca6000](https://gist.github.com/Vertecedoc4545/3b077301299c20c5b9b4db00f4ca6000)
+github                                             <|> [hlop3z.github.io/interviews-python/](https://hlop3z.github.io/interviews-python/)
 github                                             <|> [iipeace/guider](https://github.com/iipeace/guider)
 github                                             <|> [jonhoo/inferno](https://github.com/jonhoo/inferno)
 github                                             <|> [ketsumashu/nixx](https://github.com/ketsumashu/nixx)
+github                                             <|> [llandy3d.github.io/sway-on-ubuntu/](https://llandy3d.github.io/sway-on-ubuntu/)
 github                                             <|> [mattkae/miracle-wm/releases/tag/v0.1.0](https://github.com/mattkae/miracle-wm/releases/tag/v0.1.0)
 github                                             <|> [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox)
 github                                             <|> [oblivikun](https://github.com/oblivikun)
@@ -46,300 +76,167 @@ github                                             <|> [wayblueorg/wayblue/](htt
 github                                             <|> [wouterken/crystalruby](https://github.com/wouterken/crystalruby)
 github                                             <|> [zDyanTB/HyprNova](https://github.com/zDyanTB/HyprNova)
 github                                             <|> [zen-browser/desktop](https://github.com/zen-browser/desktop)
-github dotfile                                     <|> [Abhra00/dotfiles](https://github.com/Abhra00/dotfiles)
-github dotfile                                     <|> [CRAG666/dotfiles](https://github.com/CRAG666/dotfiles)
-github dotfile                                     <|> [accmeboot/dotfiles](https://github.com/accmeboot/dotfiles)
-github dotfile                                     <|> [atarashiryo/dotfiles](https://github.com/atarashiryo/dotfiles)
-github dotfile                                     <|> [ezerinz/dotfiles](https://github.com/ezerinz/dotfiles) $$$$$$$$$
-github dotfile tree                                <|> [12kc/dotfiles/tree/openbox](https://github.com/12kc/dotfiles/tree/openbox)
-github io                                          <|> [hlop3z.github.io/interviews-python/](https://hlop3z.github.io/interviews-python/)
-github io                                          <|> [zombiefox.github.io/nightTab/](https://zombiefox.github.io/nightTab/)
-github io post                                     <|> [hirrolot.github.io/posts/announcing-beatrice.html](https://hirrolot.github.io/posts/announcing-beatrice.html)
-github io post                                     <|> [vhyrro.github.io/posts/neorg-macros/](https://vhyrro.github.io/posts/neorg-macros/)
-github io post                                     <|> [vhyrro.github.io/posts/neorg-macros/](https://vhyrro.github.io/posts/neorg-macros/)
-github nix haskell lang dhall tree                 <|> [dhall-lang/dhall-haskell/tree/main/dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-nix)
-github nix haskell lang dhall tree                 <|> [dhall-lang/dhall-haskell/tree/main/dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-nix)
-* github s                                           <|> -> * [mrzool/unix-as-ide: The ebook version of Tom Ryder's series on the Unix programming environment](https://github.com/mrzool/unix-as-ide)
+github                                             <|> [zombiefox.github.io/nightTab/](https://zombiefox.github.io/nightTab/)
+github                                             <|> [4lxs](https://github.com/4lxs/dotx)
+github                                             <|> [KindXiaoming](https://github.com/KindXiaoming/pykan)
+github                                             <|> [Never-Over](https://github.com/Never-Over/tach)
+github                                             <|> [SSKT7](https://github.com/SSKT7/WaylandFedora)
+github                                             <|> [ShadowS0ng](https://github.com/ShadowS0ng/Vagabond)
+github                                             <|> [alexhulbert](https://github.com/alexhulbert/SeaGlass)
+github                                             <|> [alyraffauf](https://github.com/alyraffauf/nixcfg)
+github                                             <|> [amatsagu](https://github.com/amatsagu/amari)
+github                                             <|> [catppuccin](https://github.com/catppuccin/userstyles/issues/207)
+github                                             <|> [filips123](https://github.com/filips123/PWAsForFirefox)
+github                                             <|> [galeone](https://github.com/galeone/fitsleepinsights)
+github                                             <|> [helix-editor](https://github.com/helix-editor/helix/discussions/1511)
+github                                             <|> [isaka-james](https://github.com/isaka-james/rust-projects)
+github                                             <|> [kamadorueda](https://github.com/kamadorueda/nixel)
+github                                             <|> [magnusKue](https://github.com/magnusKue/wal-switcher)
+github                                             <|> [mattwparas](https://github.com/mattwparas/steel)
+github                                             <|> [mish1git](https://github.com/mish1git/dotfileshyprland)
+github                                             <|> [nekowinston](https://github.com/nekowinston/farbenfroh.io)
+github                                             <|> [neovide](https://github.com/neovide/neovide/issues/1144)
+github                                             <|> [poetaman](https://github.com/poetaman/arttime)
+github                                             <|> [project-gauntlet](https://github.com/project-gauntlet/gauntlet)
+github                                             <|> [rajtilakjee](https://github.com/rajtilakjee/simone)
+github                                             <|> [smores56](https://github.com/smores56/aoc-2023)
+github                                             <|> [zoedsoupe](https://github.com/zoedsoupe/mnvim)
+github                                             <|> [valentjn.github.io/ltex/index.html](https://valentjn.github.io/ltex/index.html)
+ai                                                 <|> ->  [newsletter.ruder.io](https://newsletter.ruder.io/p/the-big-picture-of-ai-research)
+ai                                                 <|> [mehmetkahya0](https://github.com/mehmetkahya0/AI-Catalog)
+ai blog                                            <|> [www.codium.ai/blog/top-10-developer-communities-you-should-explore/](https://www.codium.ai/blog/top-10-developer-communities-you-should-explore/)
+ai de                                              <|> [futurised.de/ai-solutions/smartassistantai](https://www.futurised.de/ai-solutions/smartassistantai)
+applicative                                        <|> [www.prborges.com/2023/introduction-to-optparse-applicative/](https://www.prborges.com/2023/introduction-to-optparse-applicative/)
+blog                                               <|> [gvolpe.com/blog/](https://gvolpe.com/blog/)
+config                                             <|> [jonringer](https://github.com/jonringer/nixpkgs-config)
+de                                                 <|> [distrochooser.de/](https://distrochooser.de/)
+de                                                 <|> [www.hackerstolz.de/en/](https://www.hackerstolz.de/en/)
+dev                                                <|> [dev.to/m__mdy__m/basic-sorting-5h20](https://dev.to/m__mdy__m/basic-sorting-5h20)
+dev                                                <|> [reflex-dev](https://github.com/reflex-dev/reflex)
+dev                                                <|> [overlayed.dev/](https://overlayed.dev/)
+dev blog                                           <|> [sammohr.dev/blog/announcing-weaver](https://sammohr.dev/blog/announcing-weaver)
+dev language                                       <|> [11ty.dev/docs/languages/custom/](https://www.11ty.dev/docs/languages/custom/)
+dev wiki                                           <|> ->  [wiki.nikiv.dev](https://wiki.nikiv.dev/unix/shell/fish)
+dhall                                              <|> convert global-defs to dhall and use pkgs.dhallToNix
+dot                                                <|> [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots)
+dot                                                <|> [codeberg.org/Anofio/Void-Dots](https://codeberg.org/Anofio/Void-Dots)
+dot                                                <|> [codeberg.org/gksudo/dot](https://codeberg.org/gksudo/dot)
+dot                                                <|> [git.sr.ht/~gekoiz/dots](https://git.sr.ht/~gekoiz/dots)
+dot                                                <|> [forcing-conditions](https://github.com/forcing-conditions/disco-dots)
+dot                                                <|> [zaruhev](https://github.com/zaruhev/arch-i3-dots)
+dot hyprland                                       <|> [EC2854](https://github.com/EC2854/Hyprland-Dots)
+dotfile                                            <|> [wiltaylor](https://github.com/wiltaylor/dotfiles)
+dotfile                                            <|> [Abhra00/dotfiles](https://github.com/Abhra00/dotfiles)
+dotfile                                            <|> [CRAG666/dotfiles](https://github.com/CRAG666/dotfiles)
+dotfile                                            <|> [accmeboot/dotfiles](https://github.com/accmeboot/dotfiles)
+dotfile                                            <|> [atarashiryo/dotfiles](https://github.com/atarashiryo/dotfiles)
+dotfile                                            <|> [ezerinz/dotfiles](https://github.com/ezerinz/dotfiles) $$$$$$$$$
+dotfile                                            <|> [Fuxino](https://github.com/Fuxino/dotfiles)
+dotfile                                            <|> [SadmanTariq](https://github.com/SadmanTariq/dotfiles)
+dotfile                                            <|> [Tottitov](https://github.com/Tottitov/dotfiles)
+dotfile                                            <|> [augustotx](https://github.com/augustotx/dotfiles)
+dotfile                                            <|> [gh0stzk](https://github.com/gh0stzk/dotfiles)
+dotfile                                            <|> [mierak](https://github.com/mierak/dotfiles)
+dotfile                                            <|> [nekowinston](https://github.com/nekowinston/dotfiles)
+dotfile                                            <|> [shvedes](https://github.com/shvedes/dotfiles)
+dotfile                                            <|> [unwiredfromreality](https://github.com/unwiredfromreality/dotfiles)
+dotfile tree                                       <|> [12kc/dotfiles/tree/openbox](https://github.com/12kc/dotfiles/tree/openbox)
+dotfile tree main hyprland                         <|> [FireStreaker2](https://github.com/FireStreaker2/dotfiles/tree/main/hyprland)
 haskell                                            <|> Or just write Haskell tool to create color JSON from a declaration
-* {io                                                 } <|> ->  [newsletter.ruder.io](https://newsletter.ruder.io/p/the-big-picture-of-ai-research)
-io                                                 <|> -> [gpt4all](https://gpt4all.io/index.html)
-io                                                 <|> [kupfer.gitlab.io/](https://kupfer.gitlab.io/)
-io                                                 <|> [qsynth.sourceforge.io/](https://qsynth.sourceforge.io/)
-io                                                 <|> [yoshimi.sourceforge.io/](https://yoshimi.sourceforge.io/)
-lang                                               <|> [nickel-lang.org/user-manual/typing#type-system](https://nickel-lang.org/user-manual/typing#type-system)
-new                                                <|> [news.ycombinator.com/item?id=37555651](https://news.ycombinator.com/item?id=37555651)
-new                                                <|> [news.ycombinator.com/item?id=40166912](https://news.ycombinator.com/item?id=40166912)
-new                                                <|> [static.sched.com/hosted_files/ossna2024/c1/OSS_NA24_LinuxCon_Optimizing%20Linux%20Systems%20-%20Leveraging%20Guider%20for%20Advanced%20Performance%20Analysis%20and%20Monitoring.pdf](https://static.sched.com/hosted_files/ossna2024/c1/OSS_NA24_LinuxCon_Optimizing%20Linux%20Systems%20-%20Leveraging%20Guider%20for%20Advanced%20Performance%20Analysis%20and%20Monitoring.pdf)
-nix                                                <|> -> dots * [exqisite custom-made nix designs](https://cybernews.com/editorial/the-sweet-fruits-of-hard-work-the-most-exquisite-custom-made-nix-designs/)
-nix                                                <|> -> tools * [NixOS Search - Packages - nix](https://search.nixos.org/packages?channel%3Dunstable%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dnix)
-nix                                                <|> [nixos.org/manual/nix/stable/command-ref/nix-copy-closure](https://nixos.org/manual/nix/stable/command-ref/nix-copy-closure)
+haskell                                            <|> [www.fpcomplete.com/haskell/library/aeson/](https://www.fpcomplete.com/haskell/library/aeson/)
+haskell pdf de                                     <|> [cheatsheets/haskell-ucs-0.4.pdf](https://wwwcip.cs.fau.de/~oj14ozun/src+etc/cheatsheets/haskell-ucs-0.4.pdf)
+hyprland wiki                                      <|> [wiki.hyprland.org/Nvidia/](https://wiki.hyprland.org/Nvidia/)
+language                                           <|> ->  [thegradientpub.substack.com](https://thegradientpub.substack.com/p/ted-gibson-language-structure-communication-llms)
+language                                           <|> [spigbop](https://github.com/spigbop/js-languages)
+main nvim                                          <|> [codeberg.org/Anofio/nvim/src/branch/main/lua/kiradzero/plugins/ui/alpha-nvim.lua](https://codeberg.org/Anofio/nvim/src/branch/main/lua/kiradzero/plugins/ui/alpha-nvim.lua)
+new                                                <|> [kolmogorov-arnold-networks](https://www.marktechpost.com/2024/05/02/kolmogorov-arnold-networks-kans-a-new-era-of-interpretability-and-accuracy-in-deep-learning/)
+new language                                       <|> [www.marktechpost.com/2024/05/04/mit-researchers-propose-finch-a-new-programming-language-that-supports-both-flexible-control-flow-and-diverse-data-structures/](https://www.marktechpost.com/2024/05/04/mit-researchers-propose-finch-a-new-programming-language-that-supports-both-flexible-control-flow-and-diverse-data-structures/)
+new ycombinator item id                            <|> [news.ycombinator.com/item?id=37555651](https://news.ycombinator.com/item?id=37555651)
+new ycombinator item id                            <|> [news.ycombinator.com/item?id=40166912](https://news.ycombinator.com/item?id=40166912)
+new ycombinator item id                            <|> [news.ycombinator.com/item?id=25446061](https://news.ycombinator.com/item?id=25446061)
+new ycombinator item id                            <|> [news.ycombinator.com/item?id=38346862](https://news.ycombinator.com/item?id=38346862)
+new ycombinator item id                            <|> [news.ycombinator.com/item?id=40200343](https://news.ycombinator.com/item?id=40200343)
+nix                                                <|> Nix-like dependency management, but with feature/symbol/function-based dependencies instead of version/hash-modulated dependency paradigm
 nix                                                <|> [save-nix-together.org/](https://save-nix-together.org/)
+nix config                                         <|> [Misterio77](https://github.com/Misterio77/nix-config)
+nix config                                         <|> [gvolpe](https://github.com/gvolpe/nix-config)
+nix config                                         <|> [sagikazarmark](https://github.com/sagikazarmark/nix-config)
+nix config                                         <|> [gitlab.com/bigbookofbug/nix-config-pub/-/raw/master/host-thinkpad/wallpapers/lainbg2.jpg?ref_type=heads](https://gitlab.com/bigbookofbug/nix-config-pub/-/raw/master/host-thinkpad/wallpapers/lainbg2.jpg?ref_type=heads)
+nix dhall lang                                     <|> JSON alts for global-defs: nix, dhall, nickel, hcl, [pkl-lang.org/index.html,](https://pkl-lang.org/index.html,)
+nix dot                                            <|> -> [exqisite custom-made nix designs](https://cybernews.com/editorial/the-sweet-fruits-of-hard-work-the-most-exquisite-custom-made-nix-designs/)
 nix haskell                                        <|> Write a parser in Haskell for a restricted subset of Nix, to use for colors and keybindings?
-nix lang dhall                                     <|> JSON alts for global-defs: nix, dhall, nickel, hcl, [pkl-lang.org/index.html,](https://pkl-lang.org/index.html,)
-nix post                                           <|> [determinate.systems/posts/on-community-in-nix/](https://determinate.systems/posts/on-community-in-nix/)
-r reddit s                                         <|> [r/NixOS/s/F4Y7Sq0bTP](https://www.reddit.com/r/NixOS/s/F4Y7Sq0bTP)
+nix haskell                                        <|> [haskell-nix](https://github.com/haskell-nix/hnix)
+nix haskell tree main dhall lang                   <|> [dhall-lang/dhall-haskell/tree/main/dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-nix)
+nix haskell tree main dhall lang                   <|> [dhall-lang/dhall-haskell/tree/main/dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-nix)
+nix nixo                                           <|> -> tools [NixOS Search - Packages - nix](https://search.nixos.org/packages?channel%3Dunstable%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dnix)
+nix nixo                                           <|> [nixos.org/manual/nix/stable/command-ref/nix-copy-closure](https://nixos.org/manual/nix/stable/command-ref/nix-copy-closure)
+nix system post                                    <|> [determinate.systems/posts/on-community-in-nix/](https://determinate.systems/posts/on-community-in-nix/)
+nixo                                               <|> [vidbina](https://github.com/vidbina/nixos-configuration)
+nixo                                               <|> [discourse.nixos.org/t/declare-firefox-extensions-and-settings/36265/14](https://discourse.nixos.org/t/declare-firefox-extensions-and-settings/36265/14)
+nixo blog                                          <|> [gvolpe.com/blog/nixos-binary-cache-ci/](https://gvolpe.com/blog/nixos-binary-cache-ci/)
+nixo config                                        <|> [foo-dogsquared](https://github.com/foo-dogsquared/nixos-config)
+nixo config                                        <|> [jared-w](https://github.com/jared-w/nixos-configs)
+nixo config                                        <|> [ttuegel](https://github.com/ttuegel/nixos-config)
+nixo config system blog                            <|> [johns.codes/blog/organizing-system-configs-with-nixos](https://johns.codes/blog/organizing-system-configs-with-nixos)  
+nvim                                               <|> [MeanderingProgrammer](https://github.com/MeanderingProgrammer/markdown.nvim)
+nvim                                               <|> [e-q](https://github.com/e-q/okcolors.nvim)
+nvim                                               <|> [rktjmp](https://github.com/rktjmp/playtime.nvim)
+nvim                                               <|> [stevearc](https://github.com/stevearc/profile.nvim)
+pdf                                                <|> [Vanessa Hollmeier - Intro to Nix](https://aidoskyneen.eu/impure/Slides%20Introduction%20to%20Nix%20(Vanessa%20Hollmeier).pdf)
+pdf                                                <|> [Guider Talk](https://static.sched.com/hosted_files/ossna2024/c1/OSS_NA24_LinuxCon_Optimizing%20Linux%20Systems%20-%20Leveraging%20Guider%20for%20Advanced%20Performance%20Analysis%20and%20Monitoring.pdf)
+post                                               <|> [hirrolot.github.io/posts/announcing-beatrice.html](https://hirrolot.github.io/posts/announcing-beatrice.html)
+post                                               <|> [vhyrro.github.io/posts/neorg-macros/](https://vhyrro.github.io/posts/neorg-macros/)
+post                                               <|> [vhyrro.github.io/posts/neorg-macros/](https://vhyrro.github.io/posts/neorg-macros/)
+r reddit comment                                   <|> [www.reddit.com/r/emacs/comments/1chepky/mu4e_look_and_feel/?rdt=52189](https://www.reddit.com/r/emacs/comments/1chepky/mu4e_look_and_feel/?rdt=52189)
+r reddit comment comment                           <|> [www.reddit.com/r/qutebrowser/comments/u5iq2j/comment/i58rdsp/](https://www.reddit.com/r/qutebrowser/comments/u5iq2j/comment/i58rdsp/)
 r reddit s                                         <|> [r/browsers/s/GuvHRD1Y1C](https://www.reddit.com/r/browsers/s/GuvHRD1Y1C)
+r reddit s                                         <|> [www.reddit.com/r/commandline/s/1wozAMGjxH](https://www.reddit.com/r/commandline/s/1wozAMGjxH)
+r reddit s                                         <|> [www.reddit.com/r/functionalprogramming/s/F7z9f1FLMF](https://www.reddit.com/r/functionalprogramming/s/F7z9f1FLMF)
+r reddit s                                         <|> [www.reddit.com/r/golang/s/zHWWN0bErg](https://www.reddit.com/r/golang/s/zHWWN0bErg)
+r reddit s                                         <|> [www.reddit.com/r/linux/s/aKHrKMiEz9](https://www.reddit.com/r/linux/s/aKHrKMiEz9)
+r reddit s                                         <|> [www.reddit.com/r/neovim/s/Gys0LdTAzX](https://www.reddit.com/r/neovim/s/Gys0LdTAzX)
+r reddit s nixo                                    <|> [r/NixOS/s/F4Y7Sq0bTP](https://www.reddit.com/r/NixOS/s/F4Y7Sq0bTP)
 r reddit s unixporn                                <|> [r/unixporn/s/IK1cer88Bu](https://www.reddit.com/r/unixporn/s/IK1cer88Bu)
 r reddit s unixporn                                <|> [r/unixporn/s/W5vf8eRRFU](https://www.reddit.com/r/unixporn/s/W5vf8eRRFU)
 r reddit s unixporn                                <|> [r/unixporn/s/YcQemYe494](https://www.reddit.com/r/unixporn/s/YcQemYe494)
 r reddit s unixporn                                <|> [r/unixporn/s/sYg968syn9](https://www.reddit.com/r/unixporn/s/sYg968syn9)
 r reddit s unixporn                                <|> [r/unixporn/s/tdjNY4PC4Z](https://www.reddit.com/r/unixporn/s/tdjNY4PC4Z)
-* {r reddit unixporn comment                          } <|> ->  [np.reddit.com](https://np.reddit.com/r/unixporn/comments/obak1a/awesome_still_in_love_with_alpine/h3o2uuh/)
+r reddit s unixporn                                <|> [www.reddit.com/r/unixporn/s/9yuK7ZrOmJ](https://www.reddit.com/r/unixporn/s/9yuK7ZrOmJ)
+r reddit s unixporn                                <|> [www.reddit.com/r/unixporn/s/Nf1zruC7dF](https://www.reddit.com/r/unixporn/s/Nf1zruC7dF)
+r reddit s unixporn                                <|> [www.reddit.com/r/unixporn/s/S4N6ykltXz](https://www.reddit.com/r/unixporn/s/S4N6ykltXz)
+r reddit s unixporn                                <|> [www.reddit.com/r/unixporn/s/ZcUGf38MG9](https://www.reddit.com/r/unixporn/s/ZcUGf38MG9)
+r reddit unixporn comment                          <|> ->  [np.reddit.com](https://np.reddit.com/r/unixporn/comments/obak1a/awesome_still_in_love_with_alpine/h3o2uuh/)
+s                                                  <|> -> [mrzool/unix-as-ide: The ebook version of Tom Ryder's series on the Unix programming environment](https://github.com/mrzool/unix-as-ide)
+system                                             <|> [kclejeune](https://github.com/kclejeune/system)
+system                                             <|> [lix.systems/](https://lix.systems/)
+system ai                                          <|> [flowmind](https://www.marktechpost.com/2024/04/24/jp-morgan-ai-research-introduces-flowmind-a-novel-machine-learning-approach-that-leverages-the-capabilities-of-llms-such-as-gpt-to-create-an-automatic-workflow-generation-system/)
+system lang                                        <|> [nickel-lang.org/user-manual/typing#type-system](https://nickel-lang.org/user-manual/typing#type-system)
+tree                                               <|> [cs.tvl.fyi/depot/-/tree/tvix](https://cs.tvl.fyi/depot/-/tree/tvix)
+tree                                               <|> [se7en-x230](https://github.com/se7en-x230/dotfiles_v2/tree/master)
+tree dot main hyprland                             <|> [end-4](https://github.com/end-4/dots-hyprland/tree/main)
+tree main                                          <|> [KyleGeil](https://github.com/KyleGeil/hyprdots/tree/main)
+tree main                                          <|> [KyleGeil](https://github.com/KyleGeil/hyprdots/tree/main)
+wiki                                               <|> [wiki.archlinux.org/title/Installation_guide](https://wiki.archlinux.org/title/Installation_guide)
+wiki hyprland                                      <|> [wiki.hyprland.org/Getting-Started/Installation/](https://wiki.hyprland.org/Getting-Started/Installation/)
+wiki pdf                                           <|> -> * [IMSLP: Free Sheet Music PDF Download](https://imslp.org/wiki/Main_Page)
 youtube                                            <|> [video](https://www.youtube.com/@Serokell/playlists)
+youtube                                            <|> [www.youtube.com/playlist?list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K)
+youtube haskell                                    <|> [Advanced Functional Programming in Haskell](https://www.youtube.com/playlist?list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc)
+youtube haskell applicative functor                <|> Haskell for Imperative Programmers #36 - Category Theory (Functors, Applicatives, Monads) - YouTube
+youtube haskell watch applicative functor          <|> [Functors Applicatives and Monads in Haskell - Part 1 (Functors)](https://www.youtube.com/watch?v=xCut-QT2cpI)
+youtube haskell watch applicative functor          <|> [Functors Applicatives and Monads in Haskell - Part 2 (Applicatives)](https://www.youtube.com/watch?v=CNOff5LPKQI&pp=ygUTaGFza2VsbCBhcHBsaWNhdGl2ZQ%3D%3D)
+youtube haskell watch applicative functor          <|> [Haskell: Applicative Functor](https://www.youtube.com/watch?v=4GcwM1Exu5o&pp=ygUTaGFza2VsbCBhcHBsaWNhdGl2ZQ%3D%3D)
+youtube watch                                      <|> Zeiger und Referenzen in C [www.youtube.com/watch?v=AmmMorti9Cg](https://www.youtube.com/watch?v=AmmMorti9Cg)
 youtube watch                                      <|> [...](https://m.youtube.com/watch?v=72y2EC5fkcE)
-youtube watch new                                  <|> [...](https://m.youtube.com/watch?v=GVlPQjkb8SE)
+youtube watch                                      <|> [...](https://m.youtube.com/watch?v=GVlPQjkb8SE)
+youtube watch                                      <|> [m.youtube.com/watch?v=kFw64hlJkoI](https://m.youtube.com/watch?v=kFw64hlJkoI)
+youtube watch                                      <|> [www.youtube.com/watch?v=Jsmt4uaL1O8&pp=ygUTaGFza2VsbCBhcHBsaWNhdGl2ZQ%3D%3D](https://www.youtube.com/watch?v=Jsmt4uaL1O8&pp=ygUTaGFza2VsbCBhcHBsaWNhdGl2ZQ%3D%3D)
 
-# Notes to Sort
+## Notes to Sort
 
-[llandy3d.github.io/sway-on-ubuntu/](https://llandy3d.github.io/sway-on-ubuntu/)
+Ideas:
 
-[wiki.hyprland.org/Nvidia/](https://wiki.hyprland.org/Nvidia/)
-
-[gist.github.com/Vertecedoc4545/3b077301299c20c5b9b4db00f4ca6000](https://gist.github.com/Vertecedoc4545/3b077301299c20c5b9b4db00f4ca6000)
-
-[wiki.hyprland.org/Getting-Started/Installation/](https://wiki.hyprland.org/Getting-Started/Installation/)
-
-## Sort
-
--> * [IMSLP: Free Sheet Music PDF Download](https://imslp.org/wiki/Main_Page)
-
-
-https://meyerweb.com/eric/tools/color-blend
-https://gitlab.gnome.org/GNOME/gtk/-/blob/gtk-3-24/gtk/theme/Adwaita/_colors-public.scss
-https://www.rgbtohex.net/
-https://news.ycombinator.com/item?id=40200343
-https://itsfoss.com/thunar-tweaks/
-
-https://valentjn.github.io/ltex/index.html
-
-    https://github.com/sagikazarmark/nix-config
-
-    https://github.com/jonringer/nixpkgs-config
-    https://github.com/kclejeune/system
-    https://github.com/Misterio77/nix-config
-    https://github.com/ttuegel/nixos-config
-    https://github.com/vidbina/nixos-configuration
-    https://github.com/wiltaylor/dotfiles
-    https://github.com/foo-dogsquared/nixos-config
-    https://github.com/jared-w/nixos-configs
-    https://github.com/gvolpe/nix-config
-
-https://gvolpe.com/blog/nixos-binary-cache-ci/
-https://gvolpe.com/blog/
-https://github.com/se7en-x230/dotfiles_v2/tree/master 
-
-https://github.com/shvedes/dotfiles
-
-https://github.com/alyraffauf/nixcfg
-
-https://github.com/EC2854/Hyprland-Dots
-
-https://www.fpcomplete.com/haskell/library/aeson/
-
-https://rheinneckar.social/@hackerstolz
-
-https://rheinneckar.social/@NixRust/111613794220902127
-
-[https://aidoskyneen.eu/impure/Slides%20Introduction%20to%20Nix%20(Vanessa%20Hollmeier).pdf](https://aidoskyneen.eu/impure/Slides%20Introduction%20to%20Nix%20(Vanessa%20Hollmeier).pdf)
-
-https://aidoskyneen.eu/
-
-https://www.hackerstolz.de/en/
-
-https://dataswamp.org/~solene/2024-04-20-workstation-going-stateless.html
-
-https://news.ycombinator.com/item?id=38346862
-
-https://github.com/kamadorueda/nixel
-
-https://github.com/haskell-nix/hnix
-
-https://cs.tvl.fyi/depot/-/tree/tvix 
-
-Nix-like dependency management, but with feature/symbol/function-based dependencies instead of version/hash-modulated dependency paradigm
-
-https://github.com/zoedsoupe/mnvim
-
-https://wwwcip.cs.fau.de/~oj14ozun/src+etc/cheatsheets/haskell-ucs-0.4.pdf 
-
-https://economicsfromthetopdown.com/2024/02/17/nixing-technological-lock-in/ 
-
-https://github.com/poetaman/arttime
-
-https://github.com/amatsagu/amari
-
-https://git.sr.ht/~gekoiz/dots
-
-https://codeberg.org/Anofio/Void-Dots
-
-https://codeberg.org/Anofio/nvim/src/branch/main/lua/kiradzero/plugins/ui/alpha-nvim.lua
-
-https://www.reddit.com/r/functionalprogramming/s/F7z9f1FLMF
-
-https://www.reddit.com/r/golang/s/zHWWN0bErg
-
-https://github.com/KyleGeil/hyprdots/tree/main
-
-https://github.com/ShadowS0ng/Vagabond
-
-https://johns.codes/blog/organizing-system-configs-with-nixos  
-
-https://github.com/magnusKue/wal-switcher
-
-https://github.com/KyleGeil/hyprdots/tree/main
-
-https://github.com/SSKT7/WaylandFedora
-
-https://www.reddit.com/r/emacs/comments/1chepky/mu4e_look_and_feel/?rdt=52189
-
-https://github.com/neovide/neovide/issues/1144
-
-https://github.com/mierak/dotfiles
-
-https://www.reddit.com/r/commandline/s/1wozAMGjxH
-
-https://github.com/e-q/okcolors.nvim
-
-https://www.reddit.com/r/linux/s/aKHrKMiEz9
-
-https://github.com/augustotx/dotfiles
-
-https://www.reddit.com/r/qutebrowser/comments/u5iq2j/comment/i58rdsp/
-
-https://m.youtube.com/watch?v=kFw64hlJkoI
-
-https://github.com/catppuccin/userstyles/issues/207
-
-https://news.ycombinator.com/item?id=25446061
-
-https://discourse.nixos.org/t/declare-firefox-extensions-and-settings/36265/14
-
-https://www.reddit.com/r/unixporn/s/S4N6ykltXz
-
-https://aux.computer/
-
-https://quickshell.outfoxxed.me/
-
-https://www.reddit.com/r/unixporn/s/Nf1zruC7dF
-
-https://forum.aux.computer/latest
-
-https://fosstodon.org/@frameworkcomputer/112371823004642927
-
-https://github.com/FireStreaker2/dotfiles/tree/main/hyprland
-
-https://overlayed.dev/
-
-https://github.com/rktjmp/playtime.nvim
-
-https://github.com/MeanderingProgrammer/markdown.nvim
-
-https://github.com/KindXiaoming/pykan
-
-https://github.com/gh0stzk/dotfiles
-
-https://www.reddit.com/r/neovim/s/Gys0LdTAzX
-
-https://github.com/forcing-conditions/disco-dots
-
-https://github.com/Fuxino/dotfiles
-
-https://github.com/project-gauntlet/gauntlet
-
-https://gitlab.com/bigbookofbug/nix-config-pub/-/raw/master/host-thinkpad/wallpapers/lainbg2.jpg?ref_type=heads
-
-https://github.com/zaruhev/arch-i3-dots
-
-https://spacezero.sourceforge.net/files/INSTALL
-
-https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K
-
-https://github.com/Tottitov/dotfiles
-
-https://github.com/stevearc/profile.nvim
-
-https://www.marktechpost.com/2024/05/02/kolmogorov-arnold-networks-kans-a-new-era-of-interpretability-and-accuracy-in-deep-learning/
-
-https://canonical-subiquity.readthedocs-hosted.com/en/latest/intro-to-autoinstall.html
-
-https://drive.google.com/file/d/1KIgI8U9kf0AbNYNpM07g9rViFpLDNXYu/view?usp=sharing
-
-https://www.reddit.com/r/unixporn/s/ZcUGf38MG9
-
-https://github.com/helix-editor/helix/discussions/1511
-
-https://github.com/mattwparas/steel
-
-Haskell for Imperative Programmers #36 - Category Theory (Functors, Applicatives, Monads) - YouTube 
-
-https://www.youtube.com/watch?v=Jsmt4uaL1O8&pp=ygUTaGFza2VsbCBhcHBsaWNhdGl2ZQ%3D%3D
-
-https://github.com/mish1git/dotfileshyprland
-
-https://github.com/spigbop/js-languages
-
-https://github.com/galeone/fitsleepinsights
-
-https://github.com/Never-Over/tach
-
-https://github.com/rajtilakjee/simone
-
-https://github.com/mehmetkahya0/AI-Catalog
-
-https://github.com/isaka-james/rust-projects
-
-https://www.prborges.com/2023/introduction-to-optparse-applicative/
-
-https://typst.app/universe/package/conchord
-
-https://open.spotify.com/episode/5KSB5id1TL546szZiwDiSM?si=uiI6v8LdSuav3v-JqJEQng
-
-https://www.yesodweb.com/book
-
-https://www.marktechpost.com/2024/05/04/mit-researchers-propose-finch-a-new-programming-language-that-supports-both-flexible-control-flow-and-diverse-data-structures/
-
-https://github.com/unwiredfromreality/dotfiles
-
-https://www.reddit.com/r/unixporn/s/9yuK7ZrOmJ
-
-https://github.com/SadmanTariq/dotfiles
-
-https://farbenfroh.io/
-
-https://github.com/nekowinston/dotfiles
-
-https://github.com/nekowinston/farbenfroh.io
-
-Zeiger und Referenzen in C https://www.youtube.com/watch?v=AmmMorti9Cg 
-
-**Functors Applicatives and Monads in Haskell - Part 1 (Functors)** https://www.youtube.com/watch?v=xCut-QT2cpI 
-
-**[Functors Applicatives and Monads in Haskell - Part 2 (Applicatives)](https://www.youtube.com/watch?v=CNOff5LPKQI&pp=ygUTaGFza2VsbCBhcHBsaWNhdGl2ZQ%3D%3D)** https://www.youtube.com/watch?v=CNOff5LPKQI&pp=ygUTaGFza2VsbCBhcHBsaWNhdGl2ZQ%3D%3D 
-
-**[Haskell: Applicative Functor](https://www.youtube.com/watch?v=4GcwM1Exu5o&pp=ygUTaGFza2VsbCBhcHBsaWNhdGl2ZQ%3D%3D)** https://www.youtube.com/watch?v=4GcwM1Exu5o&pp=ygUTaGFza2VsbCBhcHBsaWNhdGl2ZQ%3D%3D 
-
-Advanced Functional Programming in Haskell https://www.youtube.com/playlist?list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc 
-
-https://github.com/filips123/PWAsForFirefox
-
-https://pwasforfirefox.filips.si/
-
-https://codeberg.org/gksudo/dot
-
-https://github.com/reflex-dev/reflex
-
-https://github.com/alexhulbert/SeaGlass
-
-https://sammohr.dev/blog/announcing-weaver
-
-https://github.com/smores56/aoc-2023
-
-https://github.com/4lxs/dotx
-
-https://github.com/end-4/dots-hyprland/tree/main
-
-https://lix.systems/
-
-https://www.codium.ai/blog/top-10-developer-communities-you-should-explore/
-
-https://dev.to/m__mdy__m/basic-sorting-5h20
+1. Software to create an interactive progressive reader: running list of vocab/lemmata, grammar principles; get lemmatizers and parsers off the shelf
+2. make NixOS custom starter ISOs for my devices & scripts to build ISO from any given hash
+3. Set up delilah cli test container in flake
+4. add meal planning and workout planning to nebokrai

@@ -1518,3 +1518,5 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [odin-lang.org/](https://odin-lang.org/)
 * [mint-lang.com/](https://mint-lang.com/)
 * ( ) [golangexample](https://golangexample.com/)
+* [arc](http://arclanguage.org/) [wikipedia](https://en.wikipedia.org/wiki/Arc_(programming_language))
+* [Gradual Typing](https://en.wikipedia.org/wiki/Gradual_typing) -> see examples

@@ -516,6 +516,7 @@ SORT
 ### Screenshot Annotation
 
 * ( ) [satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
+* ( ) [swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
 
 ## Old, X11 etc
 

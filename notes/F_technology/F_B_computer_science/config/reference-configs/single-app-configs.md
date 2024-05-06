@@ -1,5 +1,51 @@
 # Single-App Configs
 
+## nyxt
+
+* ( ) [video](https://www.youtube.com/@nyxt-browser)
+* ( ) [How to take notes in the Nyxt browser?](https://www.youtube.com/watch?v=8fmWWgU_gk4)
+* ( ) [video](https://www.youtube.com/@nyxtacademy5956)
+* ( ) [Vieb: More Than Jus](https://www.youtube.com/watch?v=6DPDExXs77Q)t A Vim Inspired Browser
+* ( ) [I'm leaving Firefox, and this is](https://www.youtube.com/watch?v=DgFS1Do_1As) the browser I picked...
+* Nyxt Intro Video [video](https://www.youtube.com/watch?v=8yBjfjFE0fk&t=193s)
+* ( ) [Crafting the Nyxt Browser](https://www.youtube.com/watch?v=Hvlkca98tyw)
+* ( ) [Nyxt Is The Most Custo](https://www.youtube.com/watch?v=SVteSEjKytw&t=175s)mizable Web Browser EVER
+* ( ) [Nyxt Web Browser - Keyboard driven, Lisp](https://www.youtube.com/watch?v=1TydtiWwZgQ&t=116s) Powered, And Does What I
+* ( ) [Nyxt: The Internet on your terms / Pierre](https://www.youtube.com/watch?v=wCHnb8pvneE) Neidhardt / GambiConf EU
+* ( ) [EmacsConf 2021: Emacs with Nyxt: extend your](https://www.youtube.com/watch?v=XarwuynpWkA) editor with the power of
+* ( ) [How-to Theme Nyxt (the easy way) - YouTube](https://m.youtube.com/watch?v%3DtaNNvTWL3zo)
+* ( ) [aartaka/nyxt-config](https://github.com/aartaka/nyxt-config)
+* ( ) [search?q=nyxt&type=repositories&s=updated&o=desc](https://github.com/search?q%3Dnyxt%26type%3Drepositories%26s%3Dupdated%26o%3Ddesc)
+* ( ) [search?q=nyxt+config&type=repositories&s=updated&o=desc](https://github.com/search?q%3Dnyxt%2Bconfig%26type%3Drepositories%26s%3Dupdated%26o%3Ddesc)
+* ( ) [aartaka.me.eu.org/nyxt-to-surf](https://www.aartaka.me.eu.org/nyxt-to-surf)
+* ( ) [r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/](https://www.reddit.com/r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/)
+* ( ) [r/Nyxt/s/qMGTPsBpek](https://www.reddit.com/r/Nyxt/s/qMGTPsBpek) Nyxt dark
+* ( ) [anomalocaridid](https://github.com/Anomalocaridid/dotfiles/blob/main/home/nyxt.nix)
+* ( ) [userscripts](https://nyxt.atlas.engineer/documentation#user-scripts)
+
+## qutebrowser
+
+* ( ) [ii.com: Getting Started With qutebrowser](http://www.ii.com/qutebrowser-getting-started/)
+* ( ) [hallonfras/qutewal](https://github.com/hallonfras/qutewal)
+* ( ) [qutebrowser/qutebrowser at maint/flaky_js_tests](https://github.com/qutebrowser/qutebrowser/tree/maint/flaky_js_tests)
+* ( ) [qutebrowser/qutebrowser at maint/flaky_js_tests](https://github.com/qutebrowser/qutebrowser/tree/maint/flaky_js_tests)
+* ( ) [Support URL patterns for more settings (per-domain settings) · Issue #3636 · qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/issues/3636) [davidinspace/qutebrowser_dark_solarized: Dark solarized css stylesheet for qutebrowser. Make the web like your terminal ! :)](https://github.com/davidinspace/qutebrowser_dark_solarized)
+* ( ) [qutebrowser-themes/onedark.py at master · leosolid/qutebrowser-themes](https://github.com/leosolid/qutebrowser-themes/blob/master/themes/onedark.py)
+* ( ) [My qutebrowser config](https://gist.github.com/Ape/d0c48b3f7ec9c8efaecf48eaa1e75d0d)
+* ( ) [List type settings errors · Issue #3104 · qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/issues/3104) [change qutebrowser config editor - Google Search](https://www.google.com/search?client=firefox-b-d&q=change+qutebrowser+config+editor)
+* ( ) [cheatsheet-big.png (PNG Image, 3342 × 2060 pixels) — Scaled (46%)](https://qutebrowser.org/img/cheatsheet-big.png)
+* ( ) [Why I use qutebrowser and how I configure it - adblocking, note taking, and colors](https://youtu.be/Av8Sfaprcb4) [ii.com: qutebrowser Tips and Fragments](https://www.ii.com/qutebrowser-tips-fragments/)
+* ( ) [ii.com: qutebrowser’s Template config.py](https://www.ii.com/qutebrowser-configpy/)
+* ( ) [Configuring qutebrowser | qutebrowser](https://qutebrowser.org/doc/help/configuring.html)
+* ( ) [HS 2018 2019-SA-EP-Bruhin-Qutebrowser Made Extendible.pdf](https://eprints.ost.ch/id/eprint/743/1/HS%25202018%25202019-SA-EP-Bruhin-Qutebrowser%2520Made%2520Extendible.pdf)
+* ( ) [How to use the qutebrowser.commands.cmdutils.register function in qutebrowser | Snyk](https://snyk.io/advisor/python/qutebrowser/functions/qutebrowser.commands.cmdutils.register)
+* ( ) [Qutebrowser + Ranger = Pure Awesome - YouTube](https://www.youtube.com/watch?v%3Dce2NOmTBWfo)
+* ( ) [Qutebrowser 2.0 | Hacker News](https://news.ycombinator.com/item?id%3D25940453)
+* ( ) [Why I Use Qutebrowser as My Daily Browser (but You Probably Shouldn't) - The Net Blog](https://the-net-blog.netlify.app/post/why-i-use-qutebrowser-as-my-daily-browser-but-you-probably-shouldnt/)
+* ( ) [hicolour/awesome-qutebrowser: Qutebrowser userscripts trips & tricks](https://github.com/hicolour/awesome-qutebrowser)
+* ( ) [ii.com: qutebrowser’s Template config.py](https://www.ii.com/qutebrowser-configpy/)
+* ( ) [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
+
 ## ags
 
 [ags](https://github.com/search?q=ags+language%3ANix+&type=repositories)
@@ -29,6 +75,7 @@
 ## Nemo
 
 * ( ) [...](https://search.nixos.org/packages?channel%3Dunstable%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dnemo)
+
 ## spacemanfm
 
 spacefm [nixpkgs/nixos/modules/programs/spacefm.nix at 23ae4dfc223d75ed1265f43775f9ba1e76feb517 · obsidiansystems/nixpkgs](https://github.com/obsidiansystems/nixpkgs/blob/23ae4dfc223d75ed1265f43775f9ba1e76feb517/nixos/modules/programs/spacefm.nix%23L21)

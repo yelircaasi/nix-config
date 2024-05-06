@@ -23,51 +23,6 @@
 
 ## Top
 
-### nyxt
-
-* ( ) [video](https://www.youtube.com/@nyxt-browser)
-* ( ) [How to take notes in the Nyxt browser?](https://www.youtube.com/watch?v=8fmWWgU_gk4)
-* ( ) [video](https://www.youtube.com/@nyxtacademy5956)
-* ( ) [Vieb: More Than Jus](https://www.youtube.com/watch?v=6DPDExXs77Q)t A Vim Inspired Browser
-* ( ) [I'm leaving Firefox, and this is](https://www.youtube.com/watch?v=DgFS1Do_1As) the browser I picked...
-* Nyxt Intro Video [video](https://www.youtube.com/watch?v=8yBjfjFE0fk&t=193s)
-* ( ) [Crafting the Nyxt Browser](https://www.youtube.com/watch?v=Hvlkca98tyw)
-* ( ) [Nyxt Is The Most Custo](https://www.youtube.com/watch?v=SVteSEjKytw&t=175s)mizable Web Browser EVER
-* ( ) [Nyxt Web Browser - Keyboard driven, Lisp](https://www.youtube.com/watch?v=1TydtiWwZgQ&t=116s) Powered, And Does What I
-* ( ) [Nyxt: The Internet on your terms / Pierre](https://www.youtube.com/watch?v=wCHnb8pvneE) Neidhardt / GambiConf EU
-* ( ) [EmacsConf 2021: Emacs with Nyxt: extend your](https://www.youtube.com/watch?v=XarwuynpWkA) editor with the power of
-* ( ) [How-to Theme Nyxt (the easy way) - YouTube](https://m.youtube.com/watch?v%3DtaNNvTWL3zo)
-* ( ) [aartaka/nyxt-config](https://github.com/aartaka/nyxt-config)
-* ( ) [search?q=nyxt&type=repositories&s=updated&o=desc](https://github.com/search?q%3Dnyxt%26type%3Drepositories%26s%3Dupdated%26o%3Ddesc)
-* ( ) [search?q=nyxt+config&type=repositories&s=updated&o=desc](https://github.com/search?q%3Dnyxt%2Bconfig%26type%3Drepositories%26s%3Dupdated%26o%3Ddesc)
-* ( ) [aartaka.me.eu.org/nyxt-to-surf](https://www.aartaka.me.eu.org/nyxt-to-surf)
-* ( ) [r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/](https://www.reddit.com/r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/)
-* ( ) [r/Nyxt/s/qMGTPsBpek](https://www.reddit.com/r/Nyxt/s/qMGTPsBpek) Nyxt dark
-* ( ) [anomalocaridid](https://github.com/Anomalocaridid/dotfiles/blob/main/home/nyxt.nix)
-
-### qutebrowser
-
-* ( ) [ii.com: Getting Started With qutebrowser](http://www.ii.com/qutebrowser-getting-started/)
-* ( ) [hallonfras/qutewal](https://github.com/hallonfras/qutewal)
-* ( ) [qutebrowser/qutebrowser at maint/flaky_js_tests](https://github.com/qutebrowser/qutebrowser/tree/maint/flaky_js_tests)
-* ( ) [qutebrowser/qutebrowser at maint/flaky_js_tests](https://github.com/qutebrowser/qutebrowser/tree/maint/flaky_js_tests)
-* ( ) [Support URL patterns for more settings (per-domain settings) · Issue #3636 · qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/issues/3636) [davidinspace/qutebrowser_dark_solarized: Dark solarized css stylesheet for qutebrowser. Make the web like your terminal ! :)](https://github.com/davidinspace/qutebrowser_dark_solarized)
-* ( ) [qutebrowser-themes/onedark.py at master · leosolid/qutebrowser-themes](https://github.com/leosolid/qutebrowser-themes/blob/master/themes/onedark.py)
-* ( ) [My qutebrowser config](https://gist.github.com/Ape/d0c48b3f7ec9c8efaecf48eaa1e75d0d)
-* ( ) [List type settings errors · Issue #3104 · qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/issues/3104) [change qutebrowser config editor - Google Search](https://www.google.com/search?client=firefox-b-d&q=change+qutebrowser+config+editor)
-* ( ) [cheatsheet-big.png (PNG Image, 3342 × 2060 pixels) — Scaled (46%)](https://qutebrowser.org/img/cheatsheet-big.png)
-* ( ) [Why I use qutebrowser and how I configure it - adblocking, note taking, and colors](https://youtu.be/Av8Sfaprcb4) [ii.com: qutebrowser Tips and Fragments](https://www.ii.com/qutebrowser-tips-fragments/)
-* ( ) [ii.com: qutebrowser’s Template config.py](https://www.ii.com/qutebrowser-configpy/)
-* ( ) [Configuring qutebrowser | qutebrowser](https://qutebrowser.org/doc/help/configuring.html)
-* ( ) [HS 2018 2019-SA-EP-Bruhin-Qutebrowser Made Extendible.pdf](https://eprints.ost.ch/id/eprint/743/1/HS%25202018%25202019-SA-EP-Bruhin-Qutebrowser%2520Made%2520Extendible.pdf)
-* ( ) [How to use the qutebrowser.commands.cmdutils.register function in qutebrowser | Snyk](https://snyk.io/advisor/python/qutebrowser/functions/qutebrowser.commands.cmdutils.register)
-* ( ) [Qutebrowser + Ranger = Pure Awesome - YouTube](https://www.youtube.com/watch?v%3Dce2NOmTBWfo)
-* ( ) [Qutebrowser 2.0 | Hacker News](https://news.ycombinator.com/item?id%3D25940453)
-* ( ) [Why I Use Qutebrowser as My Daily Browser (but You Probably Shouldn't) - The Net Blog](https://the-net-blog.netlify.app/post/why-i-use-qutebrowser-as-my-daily-browser-but-you-probably-shouldnt/)
-* ( ) [hicolour/awesome-qutebrowser: Qutebrowser userscripts trips & tricks](https://github.com/hicolour/awesome-qutebrowser)
-* ( ) [ii.com: qutebrowser’s Template config.py](https://www.ii.com/qutebrowser-configpy/)
-* ( ) [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
-
 ### Meta, Review
 
 [llmilne.com/blog/browsers/](https://llmilne.com/blog/browsers/)
@@ -237,13 +192,14 @@
 * ( ) [brave/brave-core](https://github.com/brave/brave-core) [brave/brave-core/tree/master/ui/webui/resources](https://github.com/brave/brave-core/tree/master/ui/webui/resources)
 * ( ) [Where are installed Google Chrome extensions stored locally? - Stack Overflow](https://stackoverflow.com/questions/21475866/where-are-installed-google-chrome-extensions-stored-locally)
 
-##### Userscript Managers
+##### Userscript Managers and Hosts
 
-* ( ) [firemonkey](https://addons.mozilla.org/en-CA/firefox/addon/firemonkey/) [guide](https://www.ilovefreesoftware.com/11/windows/internet/plugins/how-to-use-userscripts-userstyles-firemonkey-firefox.html)
-* ( ) [violentmonkey](https://violentmonkey.github.io/)
-* ( ) [greasemonkey CSS](https://superuser.com/questions/1337469/grasemonkey-change-design-css)
-* ( ) [tampermonkey](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)
-* ( ) [tampermonkey](https://www.tampermonkey.net/)
+* ( ) [firemonkey](https://addons.mozilla.org/en-CA/firefox/addon/firemonkey/) [guide](https://www.ilovefreesoftware.com/11/windows/internet/plugins/how-to-use-userscripts-userstyles-firemonkey-firefox.html), [review](https://www.ghacks.net/2019/09/10/firemonkey-uses-firefoxs-official-api-for-userscripts-and-userstyles/)
+* ( ) [violentmonkey](https://violentmonkey.github.io/), [code here](https://github.com/violentmonkey/violentmonkey)
+* ( ) [greasemonkey CSS](https://superuser.com/questions/1337469/grasemonkey-change-design-css) - [documentation here](https://wiki.greasespot.net/Main_Page), [code here](https://github.com/greasemonkey/greasemonkey)
+* ( ) [tampermonkey](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/), [fcc article](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/#how-to-install-tampermonkey)
+* ( ) [tampermonkey](https://www.tampermonkey.net/) - proprietary license
+* ( ) [greasyfork](https://greasyfork.org/en)
 
 #### Rice FF
 
@@ -262,38 +218,38 @@
 
 ->  [firefoxcss-store.github.io/](https://firefoxcss-store.github.io/)
 
-* ( ) [royalHeart/config/tree/main/chrome](https://github.com/RoyalHeart/config/tree/main/chrome)
-* ( ) [arcWTF](https://github.com/KiKaraage/ArcWTF)
-* ( ) [blurfox-MacOS](https://github.com/safak45xx/Blurfox-MacOS)
-* ( ) [dolphinFox](https://github.com/ShmakovVladimir/DolphinFox)
-* ( ) [domfox](https://gitlab.com/domsch1988/domfox)
-* ( ) [edge-FFxArc](https://github.com/davidbecker808/Edge-FFxArc)
-* ( ) [edgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr)
-* ( ) [firefox-gx](https://github.com/Godiesc/firefox-gx)
-* ( ) [firefox-nordic-theme: :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.](https://github.com/EliverLara/firefox-nordic-theme)
-* ( ) [firefox-one-pixelated](https://github.com/PENWINthePIRATE/firefox-one-pixelated)
-* ( ) [firefox-one](https://github.com/Godiesc/firefox-one)
-* ( ) [firefox-vertical-tabs: Stylesheets for collapsible vertical tabs for Firefox.](https://github.com/lucaspar/firefox-vertical-tabs)
-* ( ) [flyingFox](https://github.com/akshat46/FlyingFox)
-* ( ) [fox11](https://github.com/Neikon/Fox11)
-* ( ) [full-text-tabs-forever](https://github.com/iansinnott/full-text-tabs-forever)
-* ( ) [greenyfox](https://github.com/alan-ar1/greenyfox)
-* ( ) [helgiMagic/FirefoxCSS](https://github.com/HelgiMagic/FirefoxCSS)
-* ( ) [minimalisticfox](https://github.com/Jamir-boop/minimalisticfox)
-* ( ) [perfection-Firefox-CSS-Theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
-* ( ) [shina-Fox](https://github.com/Shina-SG/Shina-Fox)
-* ( ) [shyFox](https://github.com/Naezr/ShyFox)
-* ( ) [stealthFox](https://github.com/vipintom/stealthFox)
-* ( ) [sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
-* ( ) [v2-Tabs](https://github.com/soulhotel/v2-Tabs-alpha-/tree/main)
-* ( ) [waveFox](https://github.com/QNetITQ/WaveFox)
+* (2.5) [royalHeart/config/tree/main/chrome](https://github.com/RoyalHeart/config/tree/main/chrome)
+* (2.5) [arcWTF](https://github.com/KiKaraage/ArcWTF)
+* (2.5) [blurfox-MacOS](https://github.com/safak45xx/Blurfox-MacOS)
+* (2.5) [dolphinFox](https://github.com/ShmakovVladimir/DolphinFox)
+* (2.5) [domfox](https://gitlab.com/domsch1988/domfox)
+* (2.5) [edge-FFxArc](https://github.com/davidbecker808/Edge-FFxArc)
+* (2.5) [edgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr)
+* (2.5) [firefox-gx](https://github.com/Godiesc/firefox-gx)
+* (2.5) [firefox-nordic-theme: :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.](https://github.com/EliverLara/firefox-nordic-theme)
+* (2.5) [firefox-one-pixelated](https://github.com/PENWINthePIRATE/firefox-one-pixelated)
+* (2.5) [firefox-one](https://github.com/Godiesc/firefox-one)
+* (2.5) [firefox-vertical-tabs: Stylesheets for collapsible vertical tabs for Firefox.](https://github.com/lucaspar/firefox-vertical-tabs)
+* (2.5) [flyingFox](https://github.com/akshat46/FlyingFox)
+* (2.5) [fox11](https://github.com/Neikon/Fox11)
+* (2.5) [full-text-tabs-forever](https://github.com/iansinnott/full-text-tabs-forever)
+* (2.5) [greenyfox](https://github.com/alan-ar1/greenyfox)
+* (2.5) [helgiMagic/FirefoxCSS](https://github.com/HelgiMagic/FirefoxCSS)
+* (2.5) [minimalisticfox](https://github.com/Jamir-boop/minimalisticfox)
+* (2.5) [perfection-Firefox-CSS-Theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
+* (2.5) [shina-Fox](https://github.com/Shina-SG/Shina-Fox)
+* (2.5) [shyFox](https://github.com/Naezr/ShyFox)
+* (2.5) [stealthFox](https://github.com/vipintom/stealthFox)
+* (2.5) [sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
+* (2.5) [v2-Tabs](https://github.com/soulhotel/v2-Tabs-alpha-/tree/main)
+* (2.5) [waveFox](https://github.com/QNetITQ/WaveFox)
 
 ##### Floorp Themes
 
-* ( ) [zDyanTB/ADHD-Floorp](https://github.com/zDyanTB/ADHD-Floorp)
-* ( ) [lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
-* ( ) [news.itsfoss.com/floorp-firefox/](https://news.itsfoss.com/floorp-firefox/)
-* ( ) [r/browsers/s/L0sHFRb1RU](https://www.reddit.com/r/browsers/s/L0sHFRb1RU) floorp
+* (2.5) [zDyanTB/ADHD-Floorp](https://github.com/zDyanTB/ADHD-Floorp)
+* (2.5) [lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
+* (2.5) [news.itsfoss.com/floorp-firefox/](https://news.itsfoss.com/floorp-firefox/)
+* (2.5) [r/browsers/s/L0sHFRb1RU](https://www.reddit.com/r/browsers/s/L0sHFRb1RU) floorp
 
 #### Other CSS
 
@@ -354,6 +310,11 @@
 * ( ) [adnauseam.io/](https://adnauseam.io/)
 * ( ) [kas-elvirov/gloc: :calendar: Browser extension: counts lines of code on GitHub](https://github.com/kas-elvirov/gloc)
 * ( ) [Tile Tabs WE :: Add-ons for Firefox](https://web.archive.org/web/20170821233327/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs-we/)
+* ( ) [ff command line](https://addons.mozilla.org/en-US/firefox/addon/quick-commands/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+### Extension Theory
+
+* (R) [MDN Site](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
 
 ### Google Docs etc
 
@@ -438,6 +399,7 @@
 
 -> [InBrowser.App](https://inbrowser.app/)
 
+* ( ) [Podcast Index](https://podcastindex.org/)
 * ( ) [strangeloopcanon.com/](https://www.strangeloopcanon.com/)
 * ( ) [directory.fsf.org/wiki/Main_Page](https://directory.fsf.org/wiki/Main_Page)
 * ( ) [tweag.io/blog/](https://www.tweag.io/blog/)
@@ -600,6 +562,10 @@
 * (6) [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
 * (2,5) [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 * (2) [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
+
+#### Mobile Search
+
+* (2.5) [qwant mobile](https://play.google.com/store/apps/details?id=com.qwant.liberty&hl=de&pli=1)
 
 ### Misc
 

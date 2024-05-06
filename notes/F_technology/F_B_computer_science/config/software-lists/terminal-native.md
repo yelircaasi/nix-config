@@ -232,7 +232,7 @@ train models.
 
 ### REPLs
 
-* (2) [ipython](https://ipython.org/) (R) [Backward search in ipython via FZF - Stack Overflow](https://stackoverflow.com/questions/48203949/backward-search-in-ipython-via-fzf) * (2.5) [Adding fuzzy history search 
+* (2) [ipython](https://ipython.org/) (R) [Backward search in ipython via FZF - Stack Overflow](https://stackoverflow.com/questions/48203949/backward-search-in-ipython-via-fzf) (2.5) [Adding fuzzy history search
 to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipython/issues/12231)
 * (2) [papyrus](https://docs.rs/papyrus/latest/papyrus/)
 * (2) [ammonite](https://ammonite.io/)

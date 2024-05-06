@@ -17,6 +17,7 @@
 Idea: get stylus drawing / writing tablet and set it up with rnote and also with a handwriting recognition engine that I train on my handwriting, so that I can write on the pad as an alternative to typing on the keyboard.
 
 * To Sort
+* make (Flutter, Gnome, GTK, KDE, or other) GUI app for parallel text creation and viewing
   * Packaging)
 * [PyInstaller Manual — PyInstaller 5.7.0 documentation](https://pyinstaller.org/en/stable/)
 * [How to Install Windows 10 in VirtualBox in Linux](https://itsfoss.com/install-windows-10-virtualbox-linux/)

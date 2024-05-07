@@ -25,25 +25,28 @@
 
 ### Video Editing, Conversion, etc
 
-* ( ) [editly](https://github.com/mifi/editly) - Declarative command-line video editing.
-* (2) [FFmpeg](https://github.com/FFmpeg/FFmpeg) - The Swiss knife of video editing from the command line.
-* ( ) [Olive](https://www.olivevideoeditor.org/) - Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
-* ( ) [Kdenlive](https://kdenlive.org/) - Kdenlive is a Non-Linear Video Editor, which is much more powerful than beginners’ (linear) editors.
-* ( ) [plumber](https://github.com/keshavbhatt/plumber) - video editor
-* ( ) [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source, cross-platform video editor with support for hundreds of audio and video formats and codecs and a sleek, intuitive interface.
-* ( ) [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
-* ( ) [OpenShot](https://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux.
+* (2) [editly](https://github.com/mifi/editly) - Declarative command-line video editing.
+* (2) [FFmpeg](https://github.com/FFmpeg/FFmpeg) - The Swiss knife of video editing from the command line. - multimedia, including audio, video, subtitles, metadata
+* (2.5) [Vidcutter](https://github.com/ozmartian/vidcutter) - Cross-platform Qt5 based app for quick and easy video trimming/splitting and merging/joining for simple quick edits.
+* (2.5) [Olive](https://www.olivevideoeditor.org/) - Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
+* (2.5) [Kdenlive](https://kdenlive.org/) - Kdenlive is a Non-Linear Video Editor, which is much more powerful than beginners’ (linear) editors.
+* (2.5) [plumber](https://github.com/keshavbhatt/plumber) - video editor
+* (2.5) [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source, cross-platform video editor with support for hundreds of audio and video formats and codecs and a sleek, intuitive interface.
+* (2.5) [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
+* (2.5) [OpenShot](https://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux.
 
 ### Audio Editing, conversion, etc
 
 #### Powerful Audio Editors
 
+-> see ffmpeg for CLI
+
 * (2.5) [Ardour](https://ardour.org/) - Digital Audio Workstation (DAW). ([GNU GPLv2](https://ardour.org/copying.html))
 * (2.5) [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. ([GNU GPLv2+](http://www.audacityteam.org/about/license/))
 * (2.5) [REAPER | Audio Production Without Limits](https://www.reaper.fm/)
 * (2.5) [Soundux](https://soundux.rocks/) - A cross-platform soundboard.
-* ( ) [Ocenaudio](https://www.ocenaudio.com/whatis) - A cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.
-* ( ) [LMMS](https://lmms.io/) - Complete digital audio workstation. ([GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
+* (2.5) [Ocenaudio](https://www.ocenaudio.com/whatis) - A cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.
+* (2.5) [LMMS](https://lmms.io/) - Complete digital audio workstation. ([GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
 
 #### Audio Conversion
 
@@ -52,8 +55,8 @@
 
 #### Audio File Tagging
 
-* (2) [Kid3](https://kid3.kde.org/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.
-* ( ) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
+* (2.5) [Kid3](https://kid3.kde.org/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.
+   | (2.5) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
 
 ### Gif Creation
 
@@ -128,7 +131,6 @@
 * (2) [Blender](https://www.blender.org/) - A free and open source complete 3D creation pipeline for artists and small teams.
 * (2) [imgp](https://github.com/jarun/imgp) - A command line image resizer and rotator for JPEG and PNG images. It can resize (or thumbnail) and rotate thousands of images in a go, at lightning speed, while saving significantly on storage.
 * (5) [inpaint-web](https://github.com/lxfater/inpaint-web) - active development; cool project
-* ( ) [Vidcutter](https://github.com/ozmartian/vidcutter) - Cross-platform Qt5 based app for quick and easy video trimming/splitting and merging/joining for simple quick edits.
 * (2.5) [Darktable](https://www.darktable.org/) - Darktable is an open source photography workflow application and RAW developer.
    | (2.5) [RawTherapee](https://rawtherapee.com/) - A good looking but lesser known photo editing app.
 * (2.5) [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is the swiss army knife of image processing.
@@ -136,11 +138,11 @@
 * (6) [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users.
 * (5) [scantailor](https://github.com/scantailor/scantailor) - Scan Tailor is an interactive post-processing tool for scanned pages. For a tutorial on how to use it, consult its [User Guide](https://github.com/scantailor/scantailor/wiki/User-Guide).
 * (2) [GIMP - Your GIMP Profile and You](https://www.gimp.org/tutorials/GIMPProfile/) [GIMP - Documentation](https://www.gimp.org/docs/) [gimp](https://www.gimp.org/)
-* ( ) [PixelFx](https://github.com/keshavbhatt/PixelFx)
+* (N) [PixelFx](https://github.com/keshavbhatt/PixelFx)
 
 #### Special
 
-* ( ) [Hugin - Panorama photo stitcher](https://hugin.sourceforge.io/)
+* (2) [Hugin - Panorama photo stitcher](https://hugin.sourceforge.io/)
 
 ### Image Conversion / Cleaning / Compression / Optimization / Upscaling / Simple Editing
 
@@ -172,7 +174,7 @@
 ### Television
 
 * (2) [termv](https://github.com/Roshan-R/termv) A terminal iptv player written in bash. <- [iptv](https://github.com/iptv-org/iptv), [site](https://iptv-org.github.io/)
-* ( ) [Miro](https://www.getmiro.com/) - Free, and open video, music and internet TV application; it brings video channels from thousands of sources and has more free HD than any other platform.
+* (5) [Miro](https://www.getmiro.com/) - Free, and open video, music and internet TV application; it brings video channels from thousands of sources and has more free HD than any other platform.
 
 ### Podcast / Audiobook
 
@@ -186,46 +188,45 @@
 
 ### Specific Platforms
 
-* ( ) [tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
-* ( ) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
-* ( ) [Netease Music](http://music.163.com/#/download) - A music player of Netease - a cloud music service in China.
-* ( ) [Soundnode](https://soundnode.github.io/soundnode-website/) - An open source SoundCloud app for desktop.
-* ( ) [orange](https://github.com/keshavbhatt/orange) - Soundcloud desktop
+* (3) [tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
+* (4) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
+* (4) [Netease Music](http://music.163.com/#/download) - A music player of Netease - a cloud music service in China.
+* (2) [Soundnode](https://soundnode.github.io/soundnode-website/) - An open source SoundCloud app for desktop.
+* (6) [orange](https://github.com/keshavbhatt/orange) - Soundcloud desktop
 
 #### Library / List Management
 
-* ( ) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
-
-#### Streaming Service
-
-* ( ) [navidrome](https://www.navidrome.org/)
+* (2) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
 
 #### Radio
 
-* ( ) [radion](https://gitlab.com/christosangel/radion) Radion, internet radio client in Bash [radion](https://www.reddit.com/r/commandline/s/q7nN51fBVY) Radion, an internet radio TUI client, written in Bash.
-* ( ) [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal. - old, but SomaFM is interesting
-* ( ) [pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player. - looks pretty good
-* ( ) [Tera](https://github.com/shinokada/tera) - Terminal Radio: an easy-to-use CLI music player to play favorite music, radio stations and explore various radio stations from the terminal only.
-* ( ) [cTune](https://github.com/An7ar35/ctune) - A ncurses based internet radio player written in C for Linux.
-* ( ) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
-* ( ) [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Shortwave is an internet radio player that provides access to a station database with over 25,000 stations.
+* (2) [radion](https://gitlab.com/christosangel/radion) Radion, internet radio client in Bash [radion](https://www.reddit.com/r/commandline/s/q7nN51fBVY) Radion, an internet radio TUI client, written in Bash.
+* (5) [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal. - old, but SomaFM is interesting
+* (2) [mopidy-somafm](https://search.nixos.org/packages?channel=23.11&show=mopidy-somafm&from=0&size=50&sort=relevance&type=packages&query=somafm)
+* (2) [pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player. - looks pretty good
+* (2) [Tera](https://github.com/shinokada/tera) - Terminal Radio: an easy-to-use CLI music player to play favorite music, radio stations and explore various radio stations from the terminal only.
+* (2) [cTune](https://github.com/An7ar35/ctune) - A ncurses based internet radio player written in C for Linux.
+* (5) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux. -> integrate with ags/eww/etc
+* (2) [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Shortwave is an internet radio player that provides access to a station database with over 25,000 stations. (GUI)
 
 #### Volume Stuff
 
-* ( ) [volumeicon](https://github.com/Maato/volumeicon)
+* (5) [volumeicon](https://github.com/Maato/volumeicon)
+* (2.5) [helper scripts for avizo](https://github.com/misterdanb/avizo)
 
 ### Spotify
 
 #### Spotify GUI
 
-* ( ) [Spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop.
 * (2) [Spotube](https://spotube.netlify.app/) - Spotube is a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube’s public API & creates a hazardless, performant & resource friendly User Experience.
+* (2.5) [Spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop.
 
 #### Spotify TUI
 
 * (2.5) [spotify-tui](https://github.com/Rigellute/spotify-tui) - A Spotify client for the terminal written in Rust. - [Rigellute/spotify-tui/blob/master/README.md](https://github.com/Rigellute/spotify-tui/blob/master/README.md)
    | (2.5) [spotify-player](https://github.com/aome510/spotify-player) - spotify-player is a fast, easy to use, and configurable terminal music player having feature parity with the official Spotify application.
    | (2.5) [gspt](https://github.com/aditya-K2/gspt) - looks great, certainly worth trying
+   | (2.5) [ncspot](https://github.com/hrkfdn/ncspot)
 
 #### Spotify CLI
 
@@ -243,64 +244,64 @@
 
 ### Players / CLI Controllers
 
-* ( ) [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
-* ( ) [gomu](https://github.com/issadarkthing/gomu) - probably strictly inferior to termusic, but worth trying
-* ( ) [mocp](https://github.com/bartekbrak/mocp)   ([MOC](https://github.com/toolleeo/cli-apps/blob/master)) - (music on console) is a powerful and easy to use console audio player; user interface a la Midnight Commander; plenty of features; fully controllable from the keyboard.
-* (6) [mp3blaster](https://sourceforge.net/projects/mp3blaster/) - Audio player for the text console.
-* ( ) [mpg123](https://sourceforge.net/projects/mpg123/) - [mpg123.de/](https://mpg123.de/) - Quick `mp3` sound file player; no visual interface, just a command-line audio file player for  files.
-* ( ) [mppcava](...)
+#### Everything
+
 * (2) [mpv](https://github.com/mpv-player/mpv) - [mpv.io/](https://mpv.io/) [mpv](https://mpv.io/) - Lets you play most audio and video formats (using ASCII characters) in the shell as well as in a GUI.
+
+#### GUI Audio Player
+
 * (N) [MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - [musicplayerplus.dev/](https://musicplayerplus.dev/) + (N) [mpcplus](https://github.com/doctorfree/mpcplus)
 * (2) [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory.
    | (2.5) [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 * → see also Quark Player and Electron Player
-
-* (6) [JuK](https://juk.kde.org/) - Jukebox music player for managing audio and editing metadata.
-* ( ) [?](https://www.reddit.com/r/unixporn/s/CUbkAsCxR2) music player in C
-* ( ) [amberol](https://gitlab.gnome.org/World/amberol) A small and simple sound and music player that is well integrated with GNOME.
-* ( ) [Audacious](https://audacious-media-player.org/) - An open source audio player that plays your music how you want it, without stealing away your computer’s resources from other tasks.
-* ( ) [Bomi Player](https://bomi-player.github.io/) - A powerful and easy-to-use multimedia player.
-* ( ) [cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS.
-* ( ) [Celluloid](https://celluloid-player.github.io/)
-* ( ) [celluloid](https://github.com/celluloid-player/celluloid) - Simple GTK+ frontend for mpv.
-* ( ) [Clapper](https://rafostar.github.io/clapper/) - A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
-* ( ) [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats.
-* ( ) [DeaDBeeF](https://deadbeef.sourceforge.io/) - DeaDBeeF is a modular audio player for GNU/Linux, BSD, OpenSolaris, macOS, and other UNIX-like systems.
-* ( ) [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - An application, developed by Deepin Technology Team, which focused on local music playing.
+* (5) [Bomi Player](https://bomi-player.github.io/) - A powerful and easy-to-use multimedia player.
+* (5) [cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS.
+* (2.5) [Celluloid](https://celluloid-player.github.io/) [celluloid](https://github.com/celluloid-player/celluloid) - Simple GTK+ frontend for mpv.
+* (2.5) [Clapper](https://rafostar.github.io/clapper/) - A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
+* (2.5) [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats.
+* (2.5) [DeaDBeeF](https://deadbeef.sourceforge.io/) - DeaDBeeF is a modular audio player for GNU/Linux, BSD, OpenSolaris, macOS, and other UNIX-like systems. $$$
+* (2.5) [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - An application, developed by Deepin Technology Team, which focused on local music playing.
 * (6) [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer)
-* ( ) [Elisa](https://elisa.kde.org/) - Elisa is a music player developed by the KDE community that strives to be simple and nice to use.
-* ( ) [Emby Theater](https://emby.media/emby-theater-linux.html) - Emby Server’s official media player.
-* ( ) [FFmpeg](https://www.ffmpeg.org/) - FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
-* ( ) [G4Music](https://gitlab.gnome.org/neithern/g4music) - A fast, fluent, light weight music player written in GTK4.
-* ( ) [Jellyfin Media Player](https://jellyfin.org/) - Jellyfin Desktop Client based on Plex Media Player.
-* ( ) [Kamoso](https://apps.kde.org/kamoso/) - Kamoso is a simple and friendly program to use your camera. Use it to take pictures and make videos to share.
-* ( ) [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.
-* (3.5) [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - A GNOME music playing application.
-* ( ) [lyssa](https://github.com/cococry/lyssa)
-* ( ) [Mellow Player](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Cloud music integration for your desktop.
-* ( ) [mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd
-* ( ) [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer is a movie player which runs on many systems, play any kind of videos.
-* ( ) [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player.
-* ( ) [ncspot](https://github.com/hrkfdn/ncspot)
-* ( ) [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds music from free sources automatically. ([GNU AGPLv3](https://github.com/nukeop/nuclear/blob/master/LICENSE))
-* ( ) [olivia](https://github.com/keshavbhatt/olivia) - music player
-* ( ) [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) - Watch torrent movies instantly.
-* ( ) [quark-player](https://github.com/Alex313031/quark-player)
-* ( ) [Quod Libet](https://quodlibet.readthedocs.io/) - GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio.
-* ( ) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME.
-* ( ) [Sayonara Player](https://sayonara-player.com/downloads.php) - A small, clear and fast audio player for Linux written in C++, supported by the Qt framework.
+* (2.5) [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer is a movie player which runs on many systems, play any kind of videos.
+* (2.5) [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player.
+* (2) [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds music from free sources automatically. ([GNU AGPLv3](https://github.com/nukeop/nuclear/blob/master/LICENSE))
+* (N) [olivia](https://github.com/keshavbhatt/olivia) - music player
+* (2.5) [Quod Libet](https://quodlibet.readthedocs.io/) - GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio.
+* (2.5) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME.
+* (2.5) [Sayonara Player](https://sayonara-player.com/downloads.php) - A small, clear and fast audio player for Linux written in C++, supported by the Qt framework.
 * (2.5) [sonata](https://github.com/multani/sonata) - A Music player that is designed to be an elegant and intuitive interface for your music collection via the Music Player Daemon (MPD).
 * (2.5) [Strawberry](https://www.strawberrymusicplayer.org/) - Strawberry is a fork of Clementine aimed at music collectors and audiophiles. It’s written in C++ using the Qt toolkit.
-* ( ) [swingmusic](https://github.com/swing-opensource/swingmusic)
-* ( ) [Watch YouTube videos using MPV player - An Easy Guide - LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/watch-youtube-videos-on-mpv-player)
+* (2.5) [swingmusic](https://github.com/swing-opensource/swingmusic)
 * (2.5) [Harmonoid](https://harmonoid.com/) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more. $$$$$$$$$
 * (2.5) [tauon](https://tauonmusicbox.rocks/)
+* (6) [JuK](https://juk.kde.org/) - Jukebox music player for managing audio and editing metadata.
+* (2.5) [?](https://www.reddit.com/r/unixporn/s/CUbkAsCxR2) music player in C
+* (2.5) [amberol](https://gitlab.gnome.org/World/amberol) A small and simple sound and music player that is well integrated with GNOME.
+* (2.5) [Audacious](https://audacious-media-player.org/) - An open source audio player that plays your music how you want it, without stealing away your computer’s resources from other tasks.
+* (2.5) [Elisa](https://elisa.kde.org/) - Elisa is a music player developed by the KDE community that strives to be simple and nice to use. - full color theming possible
+* (2.5) [G4Music](https://gitlab.gnome.org/neithern/g4music) - A fast, fluent, light weight music player written in GTK4. $$$
+* (2.5) [Jellyfin Media Player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player.
+* (3.5) [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - A GNOME music playing application.
+* (N) [lyssa](https://github.com/cococry/lyssa) $$$
+* (2.5) [Mellow Player](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Cloud music integration for your desktop. $$$ - all the services!
+
+#### TUI/CLI Audio Player
+
+* (2.5) [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
+* (2.5) [gomu](https://github.com/issadarkthing/gomu) - probably strictly inferior to termusic, but worth trying
+* (2.5) [mocp](https://github.com/bartekbrak/mocp)
+* (2.5) [MOC](https://github.com/toolleeo/cli-apps/blob/master) - (music on console) is a powerful and easy to use console audio player; user interface a la Midnight Commander; plenty of features; fully controllable from the keyboard.
+* (6) [mp3blaster](https://sourceforge.net/projects/mp3blaster/) - Audio player for the text console.
+* (2.5) [mpg123](https://sourceforge.net/projects/mpg123/) - [mpg123.de/](https://mpg123.de/) - Quick `mp3` sound file player; no visual interface, just a command-line audio file player for  files.
 
 #### Video Player
 
+* (2) [quark-player](https://github.com/Alex313031/quark-player) - An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
 * (2.5) [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP allows you to watch any video on your desktop computer using frame interpolation as it is available on high-end TVs and projectors.
 * (2.5) [Haruna](https://haruna.kde.org/) - Open source video player built with Qt/QML and libmpv.
 * (5) [Movie Monad](https://lettier.github.io/movie-monad) - A free and simple to use video player made with Haskell [movie-monad](https://github.com/lettier/movie-monad)
+* (2.5) [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) - Watch torrent movies instantly.
+* (2.5) [Emby Theater](https://emby.media/emby-theater-linux.html) - Emby Server’s official media player.
 
 #### Audio and Video Player
 
@@ -333,6 +334,8 @@
 * (2.5) [navidrome](https://www.navidrome.org/)
 * (2.5) [Plex](https://www.plex.tv/) - Plex is a media server and streaming platform that organizes, streams, and shares your digital media content. (proprietary)
 * (2.5) [Stremio](https://www.stremio.com/) - Stremio is a modern media center that’s a one-stop solution for your video entertainment.
+* (2.5) [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.
+* (2.5) [mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd
 
 ### Terminal Image/Video Viewing
 
@@ -355,7 +358,7 @@
 * (6) [nsxiv](https://github.com/nsxiv/nsxiv)
 * (2.5) [vimiv-qt](https://github.com/karlch/vimiv-qt)
 * (2.5) [geeqie](http://www.geeqie.org/) - Image viewer / photo collection browser. Successor of GQview.
-* ( ) [napari](https://napari.org/stable/index.html)
+* (2) [napari](https://napari.org/stable/index.html)
 * (6) [feh](https://feh.finalrewind.org/)
 * (2.5) [ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer.
 * (2.5) [qView](https://github.com/jurplel/qView) - Practical and minimal image viewer $$$
@@ -365,6 +368,7 @@
 
 ### YouTube
 
+* (R) [Watch YouTube videos using MPV player - An Easy Guide - LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/watch-youtube-videos-on-mpv-player)
 * (2) [invidtui](https://github.com/darkhz/invidtui) - Invidious TUI client, which fetches data from invidious instances and displays a user interface in the terminal, and allows for selecting and playing Youtube audio and video.
 * (2.5) [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * (2) [pipe-viewer](https://github.com/trizen/pipe-viewer) - yt client
@@ -386,6 +390,7 @@
 
 #### YouTube Music
 
+* (2.5) [ytui-music](https://github.com/sudipghimire533/ytui-music)
 * (2) [mps-youtube](https://github.com/mps-youtube/mps-youtube) - A curses player for music tracks from Youtube; it allows to search for songs and playlists; it downloads the video, extracts the audio track and plays it; handles local playlists and many configuration parameters.
 * (5) [youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) -> need to fix Electron issues
 * (5) [Kaku](https://kaku.rocks/) - An open source youtube music player for Ubuntu. - not in nixpkgs
@@ -404,11 +409,16 @@
 
 ## Mixed / Miscellaneous ###########################################################################################################################################################3
 
-* (2) [lotc](https://github.com/ranelpadon/lord-of-the-clips/) - (Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips. - excellent interface, written in Python
-* ( ) [cava](https://github.com/karlstav/cava) - Cava is a Cross-platform Audio Visualizer.
-* (U) [kunst](https://github.com/sdushantha/kunst) - rewrite for wayland (wayland stack dependencies)
-* ( ) [glava](https://github.com/jarcode-foss/glava) - OpenGL audio spectrum visualizer - also X11
 * (U ← X11) [nikp123/xava](https://github.com/nikp123/xava)
+
+### Audio Visualization
+
+* (2) [cava](https://github.com/karlstav/cava) - Cava is a Cross-platform Audio Visualizer.
+* (5) [glava](https://github.com/jarcode-foss/glava) - OpenGL audio spectrum visualizer - also X11
+
+### Photo Search
+
+* (2) [rclip](https://github.com/yurijmikhalevich/rclip) - AI-Powered Command-Line Photo Search Tool. -> create something more lightweight using VGG16?
 
 ### Screenshot and Screen Recording / Screencasting / Streaming / etc
 
@@ -424,23 +434,27 @@
 * (2) [swordfish-rs](https://github.com/vim-zz/swordfish-rs) - Mimics real person behavior with realtime typing into terminal; uses a screenplay where text and timings are specified.
 * (5) [menyoki](https://menyoki.cli.rs/) - Screen{shot,cast} and perform ImageOps on the command line.
 
+### Camera Apps
+
+* ( ) [Kamoso](https://apps.kde.org/kamoso/) - Kamoso is a simple and friendly program to use your camera. Use it to take pictures and make videos to share.
+* ( ) [Cheese](https://wiki.gnome.org/Apps/Cheese) - Cheese uses your webcam to take photos and videos, applies fancy special effects and lets you share the fun with others.
+
 ### Recording / Broadcasting / Streaming
 
-* ( ) [Cheese](https://wiki.gnome.org/Apps/Cheese) - Cheese uses your webcam to take photos and videos, applies fancy special effects and lets you share the fun with others.
-* ( ) [shutter-on-wayland](https://github.com/mvivarelli/shutter-on-wayland) - downstream of [Shutter](https://shutter-project.org/) - written in Perl
+* (5) [shutter-on-wayland](https://github.com/mvivarelli/shutter-on-wayland) - downstream of [Shutter](https://shutter-project.org/) - written in Perl
 * (5) [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
 * (5) [pypeek](https://github.com/firatkiral/pypeek) → help for Wayland support
 * (2) [obs-studio](https://github.com/obsproject/obs-studio) [obsproject.com/](https://obsproject.com/) - Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux. Share your gaming, art and entertainment with the world. - [linux-installation](https://obsproject.com/kb/linux-installation)
 * (2) [gstreamer](https://gstreamer.freedesktop.org/)
-* ( ) [kasmweb](https://www.kasmweb.com/community-edition)
-* ( ) [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - A multi platform Twitch.tv browser for [Streamlink](https://streamlink.github.io/).
+* (2.5) [kasmweb](https://www.kasmweb.com/community-edition)
+* (3) [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - A multi platform Twitch.tv browser for [Streamlink](https://streamlink.github.io/).
 
-## Finding / Search / Download / Library Management / etc
+## Finding / Search / Download / Library Management / Metadata, Album Art / etc
 
-* ( ) [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
-* ( ) [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instantly download any song!
-* ( ) [beets](https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks: catalogs your collection, automatically improving its metadata as it goes.
-* ( ) [rclip](https://github.com/yurijmikhalevich/rclip) - AI-Powered Command-Line Photo Search Tool.
+* (5) [kunst](https://github.com/sdushantha/kunst) - rewrite for wayland (wayland stack dependencies)
+* (2) [lotc](https://github.com/ranelpadon/lord-of-the-clips/) - (Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips. - excellent interface, written in Python
+* (2) [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
+* (2) [beets](https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks: catalogs your collection, automatically improving its metadata as it goes.
 
 ### Image Management
 

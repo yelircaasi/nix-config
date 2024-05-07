@@ -190,3 +190,9 @@ editor neovim-related* ( ) [behansa](https://github.com/las-nish/Behansa)
    | (3.5) [okular](https://okular.kde.org/)
    | (6) [evince](https://wiki.gnome.org/Apps/Evince)
 * (5) [pockyt](https://github.com/arvindch/pockyt) 
+
+## Résumé
+
+* (2) [przpiw/PDFResumeBuilder](https://github.com/przpiw/PDFResumeBuilder)
+* (2) [jsonresume.org/](https://jsonresume.org/)
+* (2) [ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display.

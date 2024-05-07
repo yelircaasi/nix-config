@@ -1,12 +1,13 @@
 # SORT
 
-floorp video https://www.youtube.com/watch?v=7DGkiMWDqE8
-browser video https://www.youtube.com/watch?v=5rLFYtXHo9s
-browser video https://www.youtube.com/watch?v=0IsQqJ7pwhw
-FF history https://www.youtube.com/watch?v=1qUlxXTp-ko
-FF video https://www.youtube.com/watch?v=7xvtz3pN_Sw
-How AI Was Stolen https://www.youtube.com/watch?v=BQTXv5jm6s4
-
+* ( ) [floorp video](https://www.youtube.com/watch?v=7DGkiMWDqE8)
+* ( ) [browser video](https://www.youtube.com/watch?v=5rLFYtXHo9s)
+* ( ) [browser video](https://www.youtube.com/watch?v=0IsQqJ7pwhw)
+* ( ) [FF history](https://www.youtube.com/watch?v=1qUlxXTp-ko)
+* ( ) [FF video](https://www.youtube.com/watch?v=7xvtz3pN_Sw)
+* ( ) [How AI Was Stolen](https://www.youtube.com/watch?v=BQTXv5jm6s4)
+* ( ) [GNU Typist](https://www.linuxlinks.com/gnutypist/)
+* ( ) [minuet](https://minuet.kde.org/), ( ) [solfege](https://www.gnu.org/software/solfege/solfege.html), [lenmus](https://sourceforge.net/projects/lenmus/)
 
 * [2024 Browser Tier List](https://www.youtube.com/watch?v=lGKonh65WiU)
 ?                                                  <|> ## Sort

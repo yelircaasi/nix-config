@@ -5,6 +5,7 @@
 
 ## Git Alternatives / Complements
 
+* (2) [jj](https://github.com/martinvonz/jj)
 * ( ) [Sapling](https://sapling-scm.com/) -
 * ( ) [Bazaar](https://www.gnu.org/software/bazaar/) - Multiplatform version control system supporting diffferent workflows; it is part of the GNU Project, and it is free software sponsored by Canonical.
 * ( ) [fossil-mirror](https://github.com/drhsqlite/fossil-mirror) - A simple, high-reliability, distributed software configuration management system with these advanced features: project management, built-in web interface, friendly self-hosting, simple networking, all-in-one standalone executable, and much more.

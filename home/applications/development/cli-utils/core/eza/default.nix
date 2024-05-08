@@ -8,7 +8,7 @@
     enable = true;
     package = pkgs.eza;
     # TODO:
-    enableAliases = true;
+    enableBashIntegration = true;
     extraOptions = [
       "--group-directories-first"
       "--header"

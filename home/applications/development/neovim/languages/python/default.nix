@@ -14,7 +14,7 @@ in
   then blankSet
   else {
     packages = with pkgs; [
-      python310
+      python311
       py.python-lsp-server # alt: node.pyright
       py.pylsp-mypy
       py.pyls-isort

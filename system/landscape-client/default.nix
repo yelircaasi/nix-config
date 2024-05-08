@@ -16,12 +16,12 @@
       };
 
       nativeBuildInputs = with pkgs; [
-        python310Packages.setuptools
+        python311Packages.setuptools
         util-linux
         #apt
       ];
 
-      buildInputs = with pkgs.python310Packages; [
+      buildInputs = with pkgs.python311Packages; [
         configobj
         distutils-extra
         mock
@@ -36,7 +36,7 @@
       # checkInputs = [pkgs.pre-commit];
       checkInputs = [];
 
-      propagatedBuildInputs = with pkgs.python310Packages; [
+      propagatedBuildInputs = with pkgs.python311Packages; [
         configobj
         netifaces
         pycurl

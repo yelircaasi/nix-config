@@ -1,5 +1,34 @@
 # Single-App Configs
 
+## Sway
+
+* ( ) [sway migration](https://www.reddit.com/r/swaywm/s/uafu7rzdOD)
+* ( ) [...](https://www.reddit.com/r/swaywm/s/f60rY9AMIV) DE experience on Sway
+* ( ) [Commits · WillPower3309/swayfx](https://github.com/WillPower3309/swayfx/commits/master/)
+* ( ) [NixOS Search - Packages - swayfx](https://search.nixos.org/packages?channel%3D23.11%26show%3Dswayfx%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dswayfx)
+* ( ) [Some loose ends for sway on nixos which we should fix - Development - NixOS Discourse](https://discourse.nixos.org/t/some-loose-ends-for-sway-on-nixos-which-we-should-fix/17728/5)
+* ( ) [swayfx/flake.nix at master · WillPower3309/swayfx](https://github.com/WillPower3309/swayfx/blob/master/flake.nix)
+* ( ) [swaywm/sway: i3-compatible Wayland compositor](https://github.com/swaywm/sway)
+
+## Qtile
+
+* ( ) [Qtile_NotWin_Theme](https://github.com/ADVisual161/Qtile_NotWin_Theme)
+* ( ) [dt qtile](https://gitlab.com/dwt1/dotfiles/-/tree/master/.config/qtile) → [video](https://www.youtube.com/watch?v=9NO2DJARbU0)
+* ( ) [Qtile Playlist](https://www.youtube.com/playlist?list=PL5--8gKSku15-C4mBKRpQVcaat4zwe4Gu)
+* ( ) [Modifying Qtile on Debian Stable - Simple configuration](https://www.youtube.com/watch?v=o1-d90BBKuI)
+* ( ) [Qtile Layouts - Manage And Configure Window Layouts](https://www.youtube.com/watch?v=GmJlwVTKTmg)
+* ( ) [qtile gnome](https://docs.qtile.org/en/latest/manual/install/gnome.html)
+* ( ) [KDE + qtile](https://www.reddit.com/r/unixporn/comments/rhviab/kde_qtile_am_i_doing_tiling_wms_right/)
+* ( ) [r/qtile/comments/ynxnvd/how_to_make_sticky_window/](https://www.reddit.com/r/qtile/comments/ynxnvd/how_to_make_sticky_window/)
+* ( ) [mail-archive.com/qtile-dev@googlegroups.com/msg00983.html](https://www.mail-archive.com/qtile-dev@googlegroups.com/msg00983.html)
+* ( ) [qtile-plasma](https://github.com/numirias/qtile-plasma)
+* ( ) [qtile.org/videos/](http://www.qtile.org/videos/)
+* ( ) [google.com/search?q=qtile+drop-down+window&oq=qtile+drop-down+window&aqs=chrome..69i57j33i160l2.6008j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=qtile+drop-down+window&oq=qtile+drop-down+window&aqs=chrome..69i57j33i160l2.6008j0j4&sourceid=chrome&ie=UTF-8)
+* ( ) [Qtile Playlist](https://www.youtube.com/playlist?list=PL8vZ_N0-ziZP1gm2-CBiCBPZNFrlge8Nb)
+* ( ) [google.com/search?q=qtile+sticky+window&oq=qtile+sticky+window&aqs=chrome..69i57j69i60.10030j0j9&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=qtile+sticky+window&oq=qtile+sticky+window&aqs=chrome..69i57j69i60.10030j0j9&sourceid=chrome&ie=UTF-8) * - [dioptricdesign.com/2021/08/20/qtile-chameleon-update/](https://www.dioptricdesign.com/2021/08/20/qtile-chameleon-update/)
+* ( ) [Tuff Gniuz qtile Playlist](https://www.youtube.com/playlist?list=PLIHtvvGZ1O3hgLjh-Gt42-XrVmR0a4hEi)
+* ( ) [archcraft-qtile](https://github.com/archcraft-os/archcraft-qtile)/tree/main * - [r/qtile/comments/12sdtfp/how_to_make_translucent_kde_konsole/](https://www.reddit.com/r/qtile/comments/12sdtfp/how_to_make_translucent_kde_konsole/)
+
 ## nyxt
 
 * ( ) [video](https://www.youtube.com/@nyxt-browser)

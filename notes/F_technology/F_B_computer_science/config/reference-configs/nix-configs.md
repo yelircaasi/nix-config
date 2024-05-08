@@ -4,9 +4,14 @@
 
 * -> nix config critique [r/NixOS/s/TI2bPmWUYW](https://www.reddit.com/r/NixOS/s/TI2bPmWUYW)
 * [nixos-dotfiles · GitHub Topics](https://github.com/topics/nixos-dotfiles)
+* -> [exqisite custom-made nix designs](https://cybernews.com/editorial/the-sweet-fruits-of-hard-work-the-most-exquisite-custom-made-nix-designs/)
 
 ## FROM NIX PAGE
 
+* [vidbina](https://github.com/vidbina/nixos-configuration)
+* [foo-dogsquared](https://github.com/foo-dogsquared/nixos-config)
+* [jared-w](https://github.com/jared-w/nixos-configs)
+* [ttuegel](https://github.com/ttuegel/nixos-config)
 * [qazer2687](https://github.com/qazer2687/dotfiles)
 * [Gerschtli/nix-config](https://github.com/Gerschtli/nix-config)
 * [573/nix-config-1](https://github.com/573/nix-config-1)
@@ -88,6 +93,12 @@
 
 ## presort
 
+* ( ) [peppe.rs](https://git.peppe.rs/config/nixos/)
+* ( ) [mitchellh](https://github.com/mitchellh/nixos-config)
+* ( ) [Misterio77](https://github.com/Misterio77/nix-config)
+* ( ) [gvolpe](https://github.com/gvolpe/nix-config)
+* ( ) [sagikazarmark](https://github.com/sagikazarmark/nix-config)
+* ( ) [gitlab.com/bigbookofbug/nix-config-pub/-/raw/master/host-thinkpad/wallpapers/lainbg2.jpg?ref_type=heads](https://gitlab.com/bigbookofbug/nix-config-pub/-/raw/master/host-thinkpad/wallpapers/lainbg2.jpg?ref_type=heads)
 * [(1) NixOS My Own Setup A to Z (Goshs desktop) - YouTube](https://www.youtube.com/watch?v%3DMb5lIu_o6tQ)
 * [.files/HWD_Lenovo/etc/nixos at 9cced3edfa1ae0286fb0c22fa2dbe8828716a0e7 · mudrii/.files](https://github.com/mudrii/.files/tree/9cced3edfa1ae0286fb0c22fa2dbe8828716a0e7/HWD_Lenovo/etc/nixos)
 * [->](https://www.reddit.com/r/unixporn/comments/1bsw96y/2_years_later_swaywm/) nixos

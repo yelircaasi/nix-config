@@ -22,6 +22,8 @@ Vim Reference (book)
 
 ## SORT
 
+* [Porting Neovim to Lua](https://www.adrian.idv.hk/2022-05-07-nvim-lua/)
+*[Rust and Neovim](https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/)
 * {?} <|> "🭿" U+1FB7F: Right And Lower One Eighth Block (Unicode Character)
 * {?} <|> [langserver.org/](https://langserver.org/)
 * {?} <|> Elteoremadebeethoven (Alexander Vázquez)
@@ -825,6 +827,8 @@ vim usage and commands
 * [r/neovim/comments/15kgf52/a_keyboardshortcut_cheat_sheet/](https://www.reddit.com/r/neovim/comments/15kgf52/a_keyboardshortcut_cheat_sheet/)
 apps
 Neovide build error → fonts
+
+```sh
 * linking with `cc` failed: exit status: 1
   |
   = note: LC_ALL="C" PATH="/home/isaac/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/bin:/home/isaac/.nix-profile/bin:/home/isaac/.local/bin:/home/isaac/.nvm/versions/node/v21.0.0/bin:/home/isaac/.nix-profile/bin:/home/isaac/.local/bin:/home/isaac/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin" VSLANG="1033" "cc" "-m64" "/tmp/rustcgL8co2/symbols.o" "/tmp/cargo-installxRn5uk/release/deps/neovide-786b4640db1c2a02.toml-0b5f81c85d84f4f4.toml.b3a4a82c0d178aad-cgu.00.rcgu.o.rcgu.o" "-Wl,--as-needed" "-L" "/tmp/cargo-installxRn5uk/release/deps" "-L" "/tmp/cargo-installxRn5uk/release/build/skia-bindings-6f212e8d5ec679a7/out/skia" "-L" "/home/isaac/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/lib" "-Wl,-Bstatic" "/tmp/rustcgL8co2/libskia_bindings-231c023c6201a80b.rlib" "/home/isaac/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/lib/libcompiler_builtins-df2fb7f50dec519a.rlib" "-Wl,-Bdynamic" "-ldl" "-ldl" "-ldl" "-lstdc++" "-lfontconfig" "-lfreetype" "-lgcc_s" "-lutil" "-lrt" "-lpthread" "-lm" "-ldl" "-lc" "-Wl,--eh-frame-hdr" "-Wl,-z,noexecstack" "-L" "/home/isaac/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/lib" "-o" "/tmp/cargo-installxRn5uk/release/deps/neovide-786b4640db1c2a02" "-Wl,--gc-sections" "-pie" "-Wl,-z,relro,-z,now" "-Wl,-O1" "-Wl,--strip-all" "-nodefaultlibs"
@@ -832,6 +836,8 @@ Neovide build error → fonts
 error: could not compile `neovide` (bin "neovide") due to previous error
 error: failed to compile `neovide v0.11.2 (<https://github.com/neovide/neovide#85234dc3>)`, intermediate artifacts can be found at `/tmp/cargo-installxRn5uk`.
 To reuse those artifacts with a future compilation, set the environment variable `CARGO_TARGET_DIR` to that path.
+```
+
 * Using Nano Because Vim Is Scary? Use Micro Instead! - YouTube
 * OniVim 2: The Only Useful Graphical Vim Client - YouTube
 * [neovide/neovide](https://github.com/neovide/neovide)
@@ -855,9 +861,9 @@ ricing
 * tjdevries/colorbuddy.nvim: Your color buddy for making cool neovim color schemes
 * [r/neovim/comments/14ofbar/oc_neovim_rice/](https://www.reddit.com/r/neovim/comments/14ofbar/oc_neovim_rice/)
 
-# Untitled
+## Untitled
 
-# Neovim
+## Neovim
 
 ## Sort
 

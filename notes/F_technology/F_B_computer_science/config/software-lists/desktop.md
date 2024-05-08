@@ -1,13 +1,10 @@
 # WMs, Compositors, Bars, Menus, Launchers, Notifications, Widgets, Lockscreen, etc
 
-SORT
+## SORT
 
 * (1) [hyprland](https://github.com/hyprwm/Hyprland) - nvidia info [here](https://wiki.hyprland.org/Nvidia/)
-   | ( ) [sway](...) - nvidia info [here](https://github.com/swaywm/sway/wiki)
-   | ( ) [riverwm](...)
-* (2) [waybar](...)
-   | ( ) [eww](...)
-   | ( ) [polybar](...)
+   | (2) [sway](https://github.com/swaywm/sway) - nvidia info [here](https://github.com/swaywm/sway/wiki)
+   | (2.5) [riverwm](...)
 * (2) [rofi-wayland](...)
    | ( ) [wofi](...)
 * (2) [swww](...)
@@ -25,8 +22,8 @@ SORT
    | (2.5) [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
    | (2.5) [yank](https://github.com/mptre/yank)
 * (2.5)
-* ( ) [kanshi](https://sr.ht/~emersion/kanshi/) ([autorandr](...) for x)
-* (6) [?](...) ([xrandr](...) for x)
+* (2.5) [kanshi](https://sr.ht/~emersion/kanshi/) ([autorandr](https://github.com/phillipberndt/autorandr) for x)
+* (6) [cosmic-randr](https://github.com/pop-os/cosmic-randr) ([xrandr](https://xorg-team.pages.debian.net/xorg/howto/use-xrandr.html) for x)
 
 ## Legend
 
@@ -78,66 +75,52 @@ SORT
 ### ags
 
 * (2) [ags](https://github.com/Aylur/ags)
-* (4) [ags-sootspirits](https://github.com/flick0/ags-sootspirits)
+      + (4) [ags-sootspirits](https://github.com/flick0/ags-sootspirits)
 
 ### eww
 
-* (3) [elkowar/eww: ElKowars wacky widgets](https://github.com/elkowar/eww) [Eww - Widgets for everyone! - eww documentation](https://elkowar.github.io/eww/eww.html)
-
-### fabric
-
-* ( ) [fabric](https://github.com/Fabric-Development/fabric)[fabric](https://github.com/Fabric-Development/fabric)
-* ( ) [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric)
-* ( ) [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric)
-
-### nwg-shell
-
-* ( ) [nwg-shell](https://nwg-piotr.github.io/nwg-shell/)
-
-### way-shell
-
-* ( ) [way-shell](https://github.com/ldelossa/way-shell)
-
-### hyprpanel
-
-* ( ) [hyprpanel](https://github.com/pdf/hyprpanel)
+* (2.5) [elkowar/eww: ElKowars wacky widgets](https://github.com/elkowar/eww) [Eww - Widgets for everyone! - eww documentation](https://elkowar.github.io/eww/eww.html)
+* (2.5) [fabric](https://github.com/Fabric-Development/fabric)[fabric](https://github.com/Fabric-Development/fabric)
+* (2.5) [nwg-shell](https://nwg-piotr.github.io/nwg-shell/)
+* (2.5) [way-shell](https://github.com/ldelossa/way-shell)
+* (2.5) [hyprpanel](https://github.com/pdf/hyprpanel)
 
 ## Desktop Environment
 
 * ( ) [pop-os/cosmic-epoch: Next generation Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch)
   * ( ) [Pop!OS Shell](https://github.com/pop-os/shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.
   * ( ) [pop-os/cosmic-randr at 88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c](https://github.com/pop-os/cosmic-randr/tree/88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c)
-* ( ) [Budgie](https://blog.buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
-* ( ) [Cinnamon](https://linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
-* ( ) [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
-* ( ) [Enlightenment](https://www.enlightenment.org/about) - A lightweight and pretty desktop environment that is designed to run fast and look good, while retaining a large degree of customization.
-* ( ) [LXDE](https://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment.
-* ( ) [LXQt](https://lxqt-project.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment.
-* ( ) [Mate](https://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2.
-* ( ) [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution.
-* ( ) [UKUI](https://www.ukui.org/) - UKUI is a desktop environment for Linux distributions and other UNIX-like operating systems, originally developed for Ubuntu Kylin, and written using the Qt framework.
-* ( ) [Unity](https://unity8.io/) - Unity is a shell for GNOME designed by Canonical for Ubuntu.
-* ( ) [Xfce](https://www.xfce.org/) - [how_to_customize_xfce4panel/](https://www.reddit.com/r/unixporn/comments/12zboi0/xfce_decided_to_learn_how_to_customize_xfce4panel/)
-* ( ) [GNOME](https://www.gnome.org/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session.
-  * ( ) [GNOME Extensions](https://extensions.gnome.org/) - Extensions for the GNOME Desktop Environment.
-  * ( ) [omglinux.com/space-bar-gnome-extension/](https://www.omglinux.com/space-bar-gnome-extension/)
-  * ( ) [GNOME Look](https://www.gnome-look.org/) - A website that hosts a Large amounts of community created icons, shell themes, fonts, and many more assets that can be used to customize your GNOME desktop environment.
-  * ( ) [Gradience](https://gradienceteam.github.io/) - Gradience is a tool for customizing Libadwaita applications and the adw-gtk3 theme.
-  * ( ) [Extension Manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
-  * ( ) [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - a shell for GNOME 3 which was initially called GNOME fallback mode. The desktop layout and the underlying technology is similar to GNOME 2
-* ( ) [KDE Plasma](https://www.kde.org/plasma-desktop) - offers all the tools required for a modern desktop computing experience so you can be productive right from the start.
-  * ( ) [KDE Plasma DT](https://youtu.be/S6Zf16gYzIY)
-  * ( ) [docs.kde.org/*](https://docs.kde.org/)
-  * ( ) [invent.kde.org/plasma](https://invent.kde.org/plasma) [en.wikipedia.org/wiki/KDE_Plasma_5](https://en.wikipedia.org/wiki/KDE_Plasma_5)
-  * ( ) [userbase.kde.org/Tutorials*](https://userbase.kde.org/Tutorials) [userbase.kde.org/Welcome_to_KDE_UserBase](https://userbase.kde.org/Welcome_to_KDE_UserBase)
-  * ( ) [userbase.kde.org/Websites*](https://userbase.kde.org/Websites) [docs.kde.org/](https://docs.kde.org/)
-  * ( ) [docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html](https://docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html)
-  * ( ) [[ KDE + Bismuth ] Am I doing it right? : r/unixporn - Reddit](https://www.reddit.com/r/unixporn/comments/vz6oyi/kde_bismuth_am_i_doing_it_right/)
-  * ( ) [[KDE] Plasma with Bismuth tiling extension is just perfect. The ...](https://www.reddit.com/r/unixporn/comments/q55e8f/kde_plasma_with_bismuth_tiling_extension_is_just/)
-  * ( ) [[KDE + Bismuth] Tartarus : r/unixporn - Reddit](https://www.reddit.com/r/unixporn/comments/x001ij/kde_bismuth_tartarus/)
-  * ( ) [Bismuth](https://bismuth-forge.github.io/bismuth/) - Making tiling window management easy. On KDE Plasma.
-  * ( ) [Kröhnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
-  * ( ) [userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
+* * (6)  [Budgie](https://blog.buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
+* * (6)  [Cinnamon](https://linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
+* * (6)  [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
+* * (6)  [Enlightenment](https://www.enlightenment.org/about) - A lightweight and pretty desktop environment that is designed to run fast and look good, while retaining a large degree of customization.
+* * (6)  [LXDE](https://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment.
+* * (6)  [LXQt](https://lxqt-project.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment.
+* * (6)  [Mate](https://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2.
+* * (6)  [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution.
+* * (6)  [UKUI](https://www.ukui.org/) - UKUI is a desktop environment for Linux distributions and other UNIX-like operating systems, originally developed for Ubuntu Kylin, and written using the Qt framework.
+* * (6)  [Unity](https://unity8.io/) - Unity is a shell for GNOME designed by Canonical for Ubuntu.
+* * (6)  [Xfce](https://www.xfce.org/) - [how_to_customize_xfce4panel/](https://www.reddit.com/r/unixporn/comments/12zboi0/xfce_decided_to_learn_how_to_customize_xfce4panel/)
+* * (6)  [GNOME](https://www.gnome.org/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session.
+  * * (6)  [GNOME Extensions](https://extensions.gnome.org/) - Extensions for the GNOME Desktop Environment.
+  * * (6)  [omglinux.com/space-bar-gnome-extension/](https://www.omglinux.com/space-bar-gnome-extension/)
+  * * (6)  [GNOME Look](https://www.gnome-look.org/) - A website that hosts a Large amounts of community created icons, shell themes, fonts, and many more assets that can be used to customize your GNOME desktop environment.
+  * * (6)  [Gradience](https://gradienceteam.github.io/) - Gradience is a tool for customizing Libadwaita applications and the adw-gtk3 theme.
+  * * (6)  [Extension Manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
+  * * (6)  [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - a shell for GNOME 3 which was initially called GNOME fallback mode. The desktop layout and the underlying technology is similar to GNOME 2
+* * (6)  [KDE Plasma](https://www.kde.org/plasma-desktop) - offers all the tools required for a modern desktop computing experience so you can be productive right from the start.
+  * * (6)  [KDE Plasma DT](https://youtu.be/S6Zf16gYzIY)
+  * * (6)  [docs.kde.org/*](https://docs.kde.org/)
+  * * (6)  [invent.kde.org/plasma](https://invent.kde.org/plasma) [en.wikipedia.org/wiki/KDE_Plasma_5](https://en.wikipedia.org/wiki/KDE_Plasma_5)
+  * * (6)  [userbase.kde.org/Tutorials*](https://userbase.kde.org/Tutorials) [userbase.kde.org/Welcome_to_KDE_UserBase](https://userbase.kde.org/Welcome_to_KDE_UserBase)
+  * * (6)  [userbase.kde.org/Websites*](https://userbase.kde.org/Websites) [docs.kde.org/](https://docs.kde.org/)
+  * * (6)  [docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html](https://docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html)
+  * * (6)  [[ KDE + Bismuth ] Am I doing it right? : r/unixporn - Reddit](https://www.reddit.com/r/unixporn/comments/vz6oyi/kde_bismuth_am_i_doing_it_right/)
+  * * (6)  [[KDE] Plasma with Bismuth tiling extension is just perfect. The ...](https://www.reddit.com/r/unixporn/comments/q55e8f/kde_plasma_with_bismuth_tiling_extension_is_just/)
+  * * (6)  [[KDE + Bismuth] Tartarus : r/unixporn - Reddit](https://www.reddit.com/r/unixporn/comments/x001ij/kde_bismuth_tartarus/)
+  * * (6)  [Bismuth](https://bismuth-forge.github.io/bismuth/) - Making tiling window management easy. On KDE Plasma.
+  * * (6)  [Kröhnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
+  * * (6)  [userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
 * (3) [desq](https://gitlab.com/DesQ)
 * ( ) Arcan + suite
   * ( ) [arcan-fe.com/](https://arcan-fe.com/)
@@ -162,12 +145,12 @@ SORT
 
 ## WM/Compositor
 
-* ( ) [algae](https://github.com/amirography/algae) RiverWM config in Rust
-   |  ( ) [algae](https://github.com/prmadev/algae) - river in rust
+* (5) [stratawm](https://github.com/StrataWM/strata) $$$
+* (5) [pinnaclewm](https://github.com/pinnacle-comp/pinnacle) $$$
+* (5) [magmawm](https://github.com/MagmaWM/MagmaWM)
 * ( ) [awesome-hyprland#plugins](https://github.com/hyprland-community/awesome-hyprland#plugins)
 * ( ) [cage-kiosk/cage: A Wayland kiosk](https://github.com/cage-kiosk/cage)
-* ( ) [dwl-guile](https://github.com/engstrand-config/dwl-guile)
-* ( ) [dwl-guile home service](https://github.com/engstrand-config/home-service-dwl-guile)
+* (5) [dwl-guile](https://github.com/engstrand-config/dwl-guile) + [dwl-guile home service](https://github.com/engstrand-config/home-service-dwl-guile)
 * ( ) [dwl](https://github.com/denisdubochevalier/dwl)
    |  ( ) [dwl](https://github.com/djpohly/dwl)
 * ( ) [ezmonad](https://github.com/QuillFlash/ezmonad)
@@ -187,6 +170,8 @@ SORT
 * ( ) [noway](https://github.com/mora-unie-youer/noway)
 * ( ) [papersway](https://spwhitton.name/tech/code/papersway/)
 * ( ) [river](https://github.com/riverwm/river) | ( ) [river-luatile](https://github.com/MaxVerevkin/river-luatile) | ( ) [kile](https://gitlab.com/snakedye/kile) - layout generator for RiverWM
+      + (2.5) [algae](https://github.com/amirography/algae) RiverWM config in Rust
+      + (2.5) [algae](https://github.com/prmadev/algae) - river in rust
 * ( ) [simplewc](https://www.reddit.com/r/unixporn/s/7BK4nY4pV3) [github](https://github.com/kcirick/simplewc)
 * ( ) [strata](https://github.com/StrataWM/strata)
 * ( ) [sway useful add-ons](https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway)
@@ -201,53 +186,24 @@ SORT
 * ( ) [waymonad](https://github.com/waymonad/waymonad)
 * ( ) [waymonader](https://github.com/ardek66/waymonader)
 * ( ) [wmoon](https://github.com/Natchuz/wmoon)
-
-### Sway
-
-* ( ) [sway migration](https://www.reddit.com/r/swaywm/s/uafu7rzdOD)
-* ( ) [...](https://www.reddit.com/r/swaywm/s/f60rY9AMIV) DE experience on Sway
-* ( ) [Commits · WillPower3309/swayfx](https://github.com/WillPower3309/swayfx/commits/master/)
-* ( ) [NixOS Search - Packages - swayfx](https://search.nixos.org/packages?channel%3D23.11%26show%3Dswayfx%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dswayfx)
-* ( ) [Some loose ends for sway on nixos which we should fix - Development - NixOS Discourse](https://discourse.nixos.org/t/some-loose-ends-for-sway-on-nixos-which-we-should-fix/17728/5)
-* ( ) [swayfx/flake.nix at master · WillPower3309/swayfx](https://github.com/WillPower3309/swayfx/blob/master/flake.nix)
-* ( ) [swaywm/sway: i3-compatible Wayland compositor](https://github.com/swaywm/sway)
-
-### Qtile
-
-* ( ) [elParaguayo/qtile-widget-livefootballscores: Qtile widget to display live football scores](https://github.com/elParaguayo/qtile-widget-livefootballscores)
-* ( ) [Qtile_NotWin_Theme](https://github.com/ADVisual161/Qtile_NotWin_Theme)
-* ( ) [Qtile](http://www.qtile.org/) - Qtile is a full-featured, hackable tiling window manager written and configured in Python.
-* ( ) [dt qtile](https://gitlab.com/dwt1/dotfiles/-/tree/master/.config/qtile) → [video](https://www.youtube.com/watch?v=9NO2DJARbU0)
-* ( ) [Qtile Playlist](https://www.youtube.com/playlist?list=PL5--8gKSku15-C4mBKRpQVcaat4zwe4Gu)
-* ( ) [Modifying Qtile on Debian Stable - Simple configuration](https://www.youtube.com/watch?v=o1-d90BBKuI)
-* ( ) [Qtile Layouts - Manage And Configure Window Layouts](https://www.youtube.com/watch?v=GmJlwVTKTmg)
-* ( ) [qtile gnome](https://docs.qtile.org/en/latest/manual/install/gnome.html)
-* ( ) [KDE + qtile](https://www.reddit.com/r/unixporn/comments/rhviab/kde_qtile_am_i_doing_tiling_wms_right/)
-* ( ) [r/qtile/comments/ynxnvd/how_to_make_sticky_window/](https://www.reddit.com/r/qtile/comments/ynxnvd/how_to_make_sticky_window/)
-* ( ) [mail-archive.com/qtile-dev@googlegroups.com/msg00983.html](https://www.mail-archive.com/qtile-dev@googlegroups.com/msg00983.html)
-* ( ) [qtile-plasma](https://github.com/numirias/qtile-plasma)
-* ( ) [qtile.org/videos/](http://www.qtile.org/videos/)
-* ( ) [google.com/search?q=qtile+drop-down+window&oq=qtile+drop-down+window&aqs=chrome..69i57j33i160l2.6008j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=qtile+drop-down+window&oq=qtile+drop-down+window&aqs=chrome..69i57j33i160l2.6008j0j4&sourceid=chrome&ie=UTF-8)
-* ( ) [Qtile Playlist](https://www.youtube.com/playlist?list=PL8vZ_N0-ziZP1gm2-CBiCBPZNFrlge8Nb)
-* ( ) [google.com/search?q=qtile+sticky+window&oq=qtile+sticky+window&aqs=chrome..69i57j69i60.10030j0j9&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=qtile+sticky+window&oq=qtile+sticky+window&aqs=chrome..69i57j69i60.10030j0j9&sourceid=chrome&ie=UTF-8) * - [dioptricdesign.com/2021/08/20/qtile-chameleon-update/](https://www.dioptricdesign.com/2021/08/20/qtile-chameleon-update/)
-* ( ) [Tuff Gniuz qtile Playlist](https://www.youtube.com/playlist?list=PLIHtvvGZ1O3hgLjh-Gt42-XrVmR0a4hEi)
-* ( ) [archcraft-qtile](https://github.com/archcraft-os/archcraft-qtile)/tree/main * - [r/qtile/comments/12sdtfp/how_to_make_translucent_kde_konsole/](https://www.reddit.com/r/qtile/comments/12sdtfp/how_to_make_translucent_kde_konsole/)
+* ( ) [Qtile](http://www.qtile.org/) - Qtile is a full-featured, hackable tiling window manager written and configured in Python. + ( ) [elParaguayo/qtile-widget-livefootballscores: Qtile widget to display live football scores](https://github.com/elParaguayo/qtile-widget-livefootballscores)
 
 ### Stacking Window Managers
 
-* ( ) [2bwm](https://github.com/venam/2bwm) - A fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm.
-* ( ) [Blackbox](https://github.com/bbidulock/blackboxwm) - A fast, lightweight window manager for the X Window System, without all those annoying library dependencies.
-* ( ) [Fluxbox](http://fluxbox.org/) - A window manager for X that was based on the Blackbox 0.61.1 code.
-* ( ) [IceWM](https://ice-wm.org/) - A window manager for the X Window System. The goal of IceWM is speed, simplicity, and not getting in the user’s way.
-* ( ) [Openbox](http://openbox.org/) - A highly configurable, next generation window manager with extensive standards support.
+* * (6)  [2bwm](https://github.com/venam/2bwm) - A fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm.
+* * (6)  [Blackbox](https://github.com/bbidulock/blackboxwm) - A fast, lightweight window manager for the X Window System, without all those annoying library dependencies.
+* * (6)  [Fluxbox](http://fluxbox.org/) - A window manager for X that was based on the Blackbox 0.61.1 code.
+* * (6)  [IceWM](https://ice-wm.org/) - A window manager for the X Window System. The goal of IceWM is speed, simplicity, and not getting in the user’s way.
+* * (6)  [Openbox](http://openbox.org/) - A highly configurable, next generation window manager with extensive standards support.
 
 ## Bar, etc
 
 ### Wayland
 
-* ( ) [Waybar](https://github.com/Alexays/Waybar)
-* ( ) [yambar](https://codeberg.org/dnkl/yambar)
-* ( ) [HybridBar](https://github.com/vars1ty/HybridBar)
+* (1) [Waybar](https://github.com/Alexays/Waybar)
+   | (2.5) [yambar](https://codeberg.org/dnkl/yambar)
+   | (2.5) [HybridBar](https://github.com/vars1ty/HybridBar)
+* (2.5) [somebar](https://git.sr.ht/~raphi/somebar) for dwl
 
 ### X11 Only
 
@@ -516,141 +472,141 @@ SORT
 
 ### Screenshot Annotation
 
-* ( ) [satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
-* ( ) [swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
+* (2.5) [satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
+   | (2.5) [swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
 
 ## Old, X11 etc
 
 ### X11 Compositor
 
 * Picom
-  | ( ) [picom](https://github.com/dccsillag/picom) fork
-  | ( ) [picom](https://github.com/jonaburg/picom)
-  | ( ) [picom](https://github.com/yshui/picom) -> [picom](https://github.com/yshui/picom/blob/next/picom.sample.conf)
-  | ( ) [picom](https://github.com/xealea/picom)
-  | ( ) [picom-shaders](https://github.com/ikz87/picom-shaders)
-* ( ) [compton](https://github.com/yshui/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
-* ( ) [xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency.
+  | (6) [picom](https://github.com/dccsillag/picom) fork
+  | (6) [picom](https://github.com/jonaburg/picom)
+  | (6) [picom](https://github.com/yshui/picom) -> [picom](https://github.com/yshui/picom/blob/next/picom.sample.conf)
+  | (6) [picom](https://github.com/xealea/picom)
+  | (6) [picom-shaders](https://github.com/ikz87/picom-shaders)
+* (6) [compton](https://github.com/yshui/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
+* (6) [xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency.
 * ( )[picom-shaders](https://github.com/ikz87/picom-shaders/wiki/Shader-gallery)
-* ( ) [glassit-linux](https://github.com/Fmstrat/glassit-linux) - not needed due to picom*
+* (6) [glassit-linux](https://github.com/Fmstrat/glassit-linux) - not needed due to picom*
 
 ## X11 WM Tools
 
-* ( ) [xborder](https://github.com/deter0/xborder)
+* (6) [xborder](https://github.com/deter0/xborder)
 
 ## X11 WMs
 
-* ( ) [arch wiki](https://wiki.archlinux.org/title/i3)
-* ( ) [awesome blog post](https://scaron.info/blog/awesome-with-gnome-on-ubuntu.html)
-* ( ) [awesome site](https://awesomewm.org/)
-* ( ) [awesome](https://awesomewm.org/) - A highly configurable, next generation framework window manager for X.
-* ( ) [awesomewm with dots](https://www.reddit.com/r/unixporn/comments/12tvw7f/awesome_finally_i_got_what_i_want)
-* ( ) [bedwm](https://github.com/chadcat7/bedwm)
-* ( ) [blueicewm](https://github.com/ottop/blueicewm)
-* ( ) [bspwm discussion](https://www.reddit.com/r/unixporn/comments/130h37f/bspwm_how_is_it/)
-* ( ) [bspwm](https://github.com/baskerville/bspwm)
-* ( ) [codeberg.org/Oglo12/personal-i3-config/](https://codeberg.org/Oglo12/personal-i3-config/) * - [r/i3wm/](https://www.reddit.com/r/i3wm/)
-* ( ) [DkWM](https://bitbucket.org/natemaia/dk)
-* ( ) [dkwm](https://bitbucket.org/natemaia/dk/src/master/)
-* ( ) [dwm patches](https://dwm.suckless.org/patches/)
-* ( ) [dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch)
-* ( ) [dwm](https://dwm.suckless.org/) - A dynamic window manager for X. It manages windows in tiled, monocle and floating layouts.
-* ( ) [dwm](https://www.reddit.com/r/unixporn/comments/123ld44/dwm_tugend_oder_ruhm/) - look for source of passage
-* ( ) [Herbstluftwm](https://herbstluftwm.org/) - Is a Manual tiling window manager for X11 using Xlib and Glib.
-* ( ) [herbstluftwm Combine The Best of Bspwm and XMonad, You Get Herbstluftwm! - YouTube](https://www.youtube.com/watch?v=eEmOy3qzrcg)
-* ( ) [herbstluftwm/herbstluftwm: A manual tiling window manager for X11](https://github.com/herbstluftwm/herbstluftwm)
-* ( ) [Hypr](https://github.com/hyprwm/Hypr)
-* ( ) [i3 Episode → HPR -> see show notes!](https://hackerpublicradio.org/eps.php?id=3735)
-* ( ) [i3 mouseless](https://thevaluable.dev/i3-config-mouseless/)
-* ( ) [i3 vs qtile](https://www.reddit.com/r/unixporn/comments/enshqt/i3_or_qtile/)
-* ( ) [i3 Windows Manager with XFCE using MX Linux distribution](https://www.youtube.com/watch?v=MMRVG9jk_M0&t=128s)**
-* ( ) [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It’s completely written from scratch. The target platforms are GNU/Linux and BSD operating systems. [i3wm.org/docs/userguide.html](https://i3wm.org/docs/userguide.html)  [i3wm.org/docs/](https://i3wm.org/docs/) [i3wm](https://i3wm.org/docs/) [dev.to/t/i3wm](https://dev.to/t/i3wm) [i3wm.org/docs/layout-saving.html](https://i3wm.org/docs/layout-saving.html) [itsfoss.com/i3-customization/](https://itsfoss.com/i3-customization/)
-* ( ) [i3-alternating](https://github.com/nowakf/i3-alternating)
-* ( ) [i3-autolayout](https://github.com/BiagioFesta/i3-autolayout)
-* ( ) [i3-gaps](https://github.com/Airblader/i3) - i3-gaps is i3 with more features.
-* ( ) [i3-layout-manager](https://github.com/klaxalk/i3-layout-manager)
-* ( ) [i3: i3 User’s Guide](https://i3wm.org/docs/userguide.html%23_default_keybindings)
-* ( ) [i3](https://opensource.com/article/18/8/getting-started-i3-window-manager)
-* ( ) [i3](https://vincent.bernat.ch/en/blog/2021-i3-window-manager)
-* ( ) [i3wm playlist](https://www.youtube.com/playlist?list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf) (Alex Booker)
-* ( ) [leftwm](http://leftwm.org/)
-* ( ) [leftwm](https://github.com/leftwm/leftwm)
-* ( ) [leftwm](https://github.com/leftwm/leftwm)
-* ( ) [marswm](https://github.com/jzbor/marswm)
-* ( ) [marswm](https://www.reddit.com/r/unixporn/comments/13cp71s/marswm_rusty_buisiness/)
-* ( ) [moonwm](https://github.com/jzbor/moonwm)
-* ( ) [pypi.org/project/xpywm/](https://pypi.org/project/xpywm/)
-* ( ) [Qtile on Ubuntu](https://www.youtube.com/watch?v=Y1busy_dDRQ)
-* ( ) [r/linux/comments/rpzur6/i3_is_the_best_window_manager/](https://www.reddit.com/r/linux/comments/rpzur6/i3_is_the_best_window_manager/)
-* ( ) [ragnar](https://github.com/cococry/ragnar) X twm
-* ( ) [ragnarwm](https://www.ragnarwm.org/)
-* ( ) [sowm](https://github.com/dylanaraps/sowm)
-* ( ) [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11, largely inspired by xmonad and dwm.
-* ( ) [stumpwm](https://github.com/stumpwm/stumpwm) [stumpwm.github.io/](http://stumpwm.github.io/) (X11, CL)
-* ( ) [stumpwm](https://stumpwm.github.io/)
-* ( ) [ulubis](https://github.com/malcolmstill/ulubis)
-* ( ) [wiki](https://github.com/baskerville/bspwm/wiki) - Bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. [wiki.archlinux.org/title/bspwm](https://wiki.archlinux.org/title/bspwm)
-* ( ) [worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim.
-* ( ) [xmonad config](https://github.com/NeshHari/XMonad) [xmonad.org/gnome.html](https://xmonad.org/gnome.html)
-* ( ) [xmonad Configuration Tutorial | xmonad - the tiling window manager that rocks](https://xmonad.org/TUTORIAL.html)
-* ( ) [xmonad demo](https://www.youtube.com/watch?v=5oBT0a25FyA) [XMonad Demo - YouTube](https://www.youtube.com/watch?v=70IxjLEmomg)
-* ( ) [xmonad guide](https://beginners-guide-to-xmonad.readthedocs.io/index.html)
-* ( ) [xmonad install](https://xmonad.org/INSTALL.html)
-* ( ) [xmonad thread hn](https://news.ycombinator.com/item?id=28794901)
-* ( ) [xmonad](https://xmonad.org/) - A dynamically tiling X11 window manager that is written and configured in Haskell.
-* ( ) [xmonad](https://xmonad.org/documentation.html) → remove dock and remove bar, also remove [window bars](https://stackoverflow.com/questions/71204126/how-to-remove-the-title-bar-of-gnome-applications)?
-* ( ) [xtermwm](https://xtermwm.sourceforge.io/)
+* (6) [arch wiki](https://wiki.archlinux.org/title/i3)
+* (6) [awesome blog post](https://scaron.info/blog/awesome-with-gnome-on-ubuntu.html)
+* (6) [awesome site](https://awesomewm.org/)
+* (6) [awesome](https://awesomewm.org/) - A highly configurable, next generation framework window manager for X.
+* (6) [awesomewm with dots](https://www.reddit.com/r/unixporn/comments/12tvw7f/awesome_finally_i_got_what_i_want)
+* (6) [bedwm](https://github.com/chadcat7/bedwm)
+* (6) [blueicewm](https://github.com/ottop/blueicewm)
+* (6) [bspwm discussion](https://www.reddit.com/r/unixporn/comments/130h37f/bspwm_how_is_it/)
+* (6) [bspwm](https://github.com/baskerville/bspwm)
+* (6) [codeberg.org/Oglo12/personal-i3-config/](https://codeberg.org/Oglo12/personal-i3-config/) * - [r/i3wm/](https://www.reddit.com/r/i3wm/)
+* (6) [DkWM](https://bitbucket.org/natemaia/dk)
+* (6) [dkwm](https://bitbucket.org/natemaia/dk/src/master/)
+* (6) [dwm patches](https://dwm.suckless.org/patches/)
+* (6) [dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch)
+* (6) [dwm](https://dwm.suckless.org/) - A dynamic window manager for X. It manages windows in tiled, monocle and floating layouts.
+* (6) [dwm](https://www.reddit.com/r/unixporn/comments/123ld44/dwm_tugend_oder_ruhm/) - look for source of passage
+* (6) [Herbstluftwm](https://herbstluftwm.org/) - Is a Manual tiling window manager for X11 using Xlib and Glib.
+* (6) [herbstluftwm Combine The Best of Bspwm and XMonad, You Get Herbstluftwm! - YouTube](https://www.youtube.com/watch?v=eEmOy3qzrcg)
+* (6) [herbstluftwm/herbstluftwm: A manual tiling window manager for X11](https://github.com/herbstluftwm/herbstluftwm)
+* (6) [Hypr](https://github.com/hyprwm/Hypr)
+* (6) [i3 Episode → HPR -> see show notes!](https://hackerpublicradio.org/eps.php?id=3735)
+* (6) [i3 mouseless](https://thevaluable.dev/i3-config-mouseless/)
+* (6) [i3 vs qtile](https://www.reddit.com/r/unixporn/comments/enshqt/i3_or_qtile/)
+* (6) [i3 Windows Manager with XFCE using MX Linux distribution](https://www.youtube.com/watch?v=MMRVG9jk_M0&t=128s)**
+* (6) [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It’s completely written from scratch. The target platforms are GNU/Linux and BSD operating systems. [i3wm.org/docs/userguide.html](https://i3wm.org/docs/userguide.html)  [i3wm.org/docs/](https://i3wm.org/docs/) [i3wm](https://i3wm.org/docs/) [dev.to/t/i3wm](https://dev.to/t/i3wm) [i3wm.org/docs/layout-saving.html](https://i3wm.org/docs/layout-saving.html) [itsfoss.com/i3-customization/](https://itsfoss.com/i3-customization/)
+* (6) [i3-alternating](https://github.com/nowakf/i3-alternating)
+* (6) [i3-autolayout](https://github.com/BiagioFesta/i3-autolayout)
+* (6) [i3-gaps](https://github.com/Airblader/i3) - i3-gaps is i3 with more features.
+* (6) [i3-layout-manager](https://github.com/klaxalk/i3-layout-manager)
+* (6) [i3: i3 User’s Guide](https://i3wm.org/docs/userguide.html%23_default_keybindings)
+* (6) [i3](https://opensource.com/article/18/8/getting-started-i3-window-manager)
+* (6) [i3](https://vincent.bernat.ch/en/blog/2021-i3-window-manager)
+* (6) [i3wm playlist](https://www.youtube.com/playlist?list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf) (Alex Booker)
+* (6) [leftwm](http://leftwm.org/)
+* (6) [leftwm](https://github.com/leftwm/leftwm)
+* (6) [leftwm](https://github.com/leftwm/leftwm)
+* (6) [marswm](https://github.com/jzbor/marswm)
+* (6) [marswm](https://www.reddit.com/r/unixporn/comments/13cp71s/marswm_rusty_buisiness/)
+* (6) [moonwm](https://github.com/jzbor/moonwm)
+* (6) [pypi.org/project/xpywm/](https://pypi.org/project/xpywm/)
+* (6) [Qtile on Ubuntu](https://www.youtube.com/watch?v=Y1busy_dDRQ)
+* (6) [r/linux/comments/rpzur6/i3_is_the_best_window_manager/](https://www.reddit.com/r/linux/comments/rpzur6/i3_is_the_best_window_manager/)
+* (6) [ragnar](https://github.com/cococry/ragnar) X twm
+* (6) [ragnarwm](https://www.ragnarwm.org/)
+* (6) [sowm](https://github.com/dylanaraps/sowm)
+* (6) [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11, largely inspired by xmonad and dwm.
+* (6) [stumpwm](https://github.com/stumpwm/stumpwm) [stumpwm.github.io/](http://stumpwm.github.io/) (X11, CL)
+* (6) [stumpwm](https://stumpwm.github.io/)
+* (6) [ulubis](https://github.com/malcolmstill/ulubis)
+* (6) [wiki](https://github.com/baskerville/bspwm/wiki) - Bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. [wiki.archlinux.org/title/bspwm](https://wiki.archlinux.org/title/bspwm)
+* (6) [worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim.
+* (6) [xmonad config](https://github.com/NeshHari/XMonad) [xmonad.org/gnome.html](https://xmonad.org/gnome.html)
+* (6) [xmonad Configuration Tutorial | xmonad - the tiling window manager that rocks](https://xmonad.org/TUTORIAL.html)
+* (6) [xmonad demo](https://www.youtube.com/watch?v=5oBT0a25FyA) [XMonad Demo - YouTube](https://www.youtube.com/watch?v=70IxjLEmomg)
+* (6) [xmonad guide](https://beginners-guide-to-xmonad.readthedocs.io/index.html)
+* (6) [xmonad install](https://xmonad.org/INSTALL.html)
+* (6) [xmonad thread hn](https://news.ycombinator.com/item?id=28794901)
+* (6) [xmonad](https://xmonad.org/) - A dynamically tiling X11 window manager that is written and configured in Haskell.
+* (6) [xmonad](https://xmonad.org/documentation.html) → remove dock and remove bar, also remove [window bars](https://stackoverflow.com/questions/71204126/how-to-remove-the-title-bar-of-gnome-applications)?
+* (6) [xtermwm](https://xtermwm.sourceforge.io/)
 
 ## Internals, Low-Level
 
 ### Wayland Libraries
 
-* ( ) [smithay](https://github.com/Smithay/smithay)
-* ( ) [wlroots](https://gitlab.freedesktop.org/wlroots/wlroots/)
+* (R) [smithay](https://github.com/Smithay/smithay)
+* (R) [wlroots](https://gitlab.freedesktop.org/wlroots/wlroots/)
 * weston*
 * ( ) [wayflan: From-scratch Wayland client for Common Lisp](https://sr.ht/~shunter/wayflan/)
 
 ### Graphics and System Libraries
 
-* ( ) [nixGL](https://github.com/cfhammill/nixGL)
-* ( ) [dbus](https://www.freedesktop.org/wiki/Software/dbus/)
-* ( ) [ibus](https://github.com/ibus/ibus)
-* ( ) [learnopengl](https://learnopengl.com/)
+* (5) [nixGL](https://github.com/cfhammill/nixGL)
+* (2) [dbus](https://www.freedesktop.org/wiki/Software/dbus/)
+* (2) [ibus](https://github.com/ibus/ibus)
+* (R) [learnopengl](https://learnopengl.com/)
 
 ### Wayland, X11, WM Information
 
 * -> guake for wayland?
-* ( ) [wayland.app/protocols/](https://wayland.app/protocols/)
-* ( ) [wayland.freedesktop.org/docs/html/](https://wayland.freedesktop.org/docs/html/)
-* ( ) [cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11](https://www.cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11)
-* ( ) [Thesis](https://www.cs.ru.nl/bachelors-theses/2019/Max_van_Deurzen___4581903___The_anatomy_of_the_modern_window_manager_-_a_case_study_for_X_in_an_Agile_manner.pdf)
+* * (R)  [wayland.app/protocols/](https://wayland.app/protocols/)
+* * (R)  [wayland.freedesktop.org/docs/html/](https://wayland.freedesktop.org/docs/html/)
+* * (R)  [cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11](https://www.cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11)
+* * (R)  [Thesis](https://www.cs.ru.nl/bachelors-theses/2019/Max_van_Deurzen___4581903___The_anatomy_of_the_modern_window_manager_-_a_case_study_for_X_in_an_Agile_manner.pdf)
 * Wayland vs X*
-* ( ) [bbs.archlinux.org/viewtopic.php?id=238376](https://bbs.archlinux.org/viewtopic.php?id=238376)
-* ( ) [Wayland vs X11](https://youtu.be/nPz5TAGYgzA)
-* ( ) [en.wikipedia.org/wiki/Wayland_(protocol)](https://en.wikipedia.org/wiki/Wayland_(protocol)) vs X11?*
+* * (R)  [bbs.archlinux.org/viewtopic.php?id=238376](https://bbs.archlinux.org/viewtopic.php?id=238376)
+* * (R)  [Wayland vs X11](https://youtu.be/nPz5TAGYgzA)
+* * (R)  [en.wikipedia.org/wiki/Wayland_(protocol)](https://en.wikipedia.org/wiki/Wayland_(protocol)) vs X11?*
   * Wayland Apps
-* ( ) [wtype](https://github.com/atx/wtype)
-* ( ) [ydotool](https://github.com/ReimuNotMoe/ydotool)
-* ( ) [LeftWM - A Fast and Simple Xmonad Alternative - YouTube](https://www.youtube.com/watch?v=jvfk380Pses)
-* ( ) [askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*](https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*)
-* ( ) [unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts](https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts)
-* ( ) [I wonder what will happen to XMonad as the Wayland future actually seems to be a... | Hacker News](https://news.ycombinator.com/item?id=28794901)
-* ( ) [swhkd](https://github.com/waycrate/swhkd)
-* ( ) [A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s) 
-* ( ) [xwinman.org/](http://www.xwinman.org/)
-* ( ) X Protocol Reference Manual for X11, Release 6 (Definitive Guide to X Window System, Vol. 0) (Definitive Guides to the X Window System)
-* ( ) [The anatomy of the modern window manager](http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57)
-* ( ) [eirenicon.org/implementing-linux-window-managers-tutorial/](https://eirenicon.org/implementing-linux-window-managers-tutorial/)
-* ( ) [xwinman.org/others.php](http://www.xwinman.org/others.php)
-* ( ) [userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
+* * (R)  [wtype](https://github.com/atx/wtype)
+* * (R)  [ydotool](https://github.com/ReimuNotMoe/ydotool)
+* * (R)  [LeftWM - A Fast and Simple Xmonad Alternative - YouTube](https://www.youtube.com/watch?v=jvfk380Pses)
+* * (R)  [askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*](https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*)
+* * (R)  [unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts](https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts)
+* * (R)  [I wonder what will happen to XMonad as the Wayland future actually seems to be a... | Hacker News](https://news.ycombinator.com/item?id=28794901)
+* * (R)  [swhkd](https://github.com/waycrate/swhkd)
+* * (R)  [A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s) 
+* * (R)  [xwinman.org/](http://www.xwinman.org/)
+* * (R)  X Protocol Reference Manual for X11, Release 6 (Definitive Guide to X Window System, Vol. 0) (Definitive Guides to the X Window System)
+* * (R)  [The anatomy of the modern window manager](http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57)
+* * (R)  [eirenicon.org/implementing-linux-window-managers-tutorial/](https://eirenicon.org/implementing-linux-window-managers-tutorial/)
+* * (R)  [xwinman.org/others.php](http://www.xwinman.org/others.php)
+* * (R)  [userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
 * → Xorg vs Wayland vs Arcan
 * How to set up dropdown windows with a tiling window manager?
-* ( ) [A Look Inside Mutter / GNOME Shell](https://lpc.events/event/7/contributions/834/attachments/684/1263/A_Look_Inside_Mutter.pdf)
-* ( ) [x.org/releases/X11R7.5/doc/man/man1/xprop.1.html](https://www.x.org/releases/X11R7.5/doc/man/man1/xprop.1.html)
-* ( ) [wiki.archlinux.org/title/Xorg#Composite](https://wiki.archlinux.org/title/Xorg#Composite)
-* ( ) [How to build a window manager in Python](https://monroeclinton.com/build-your-own-window-manager/)
-* ( ) [xorg documentation](https://www.x.org/wiki/Documentation/)
-* ( ) [wiki.archlinux.org/title/Window_manager](https://wiki.archlinux.org/title/Window_manager)
-* ( ) [Why I Use Tiling Window Managers - And Why You Should Too - YouTube](https://www.youtube.com/watch?v=K_W0ia2QjU8)
-* ( ) [wayland](https://wayland.freedesktop.org/)
-* ( ) [wayland protocols](https://wayland.app/protocols/)
+* * (R)  [A Look Inside Mutter / GNOME Shell](https://lpc.events/event/7/contributions/834/attachments/684/1263/A_Look_Inside_Mutter.pdf)
+* * (R)  [x.org/releases/X11R7.5/doc/man/man1/xprop.1.html](https://www.x.org/releases/X11R7.5/doc/man/man1/xprop.1.html)
+* * (R)  [wiki.archlinux.org/title/Xorg#Composite](https://wiki.archlinux.org/title/Xorg#Composite)
+* * (R)  [How to build a window manager in Python](https://monroeclinton.com/build-your-own-window-manager/)
+* * (R)  [xorg documentation](https://www.x.org/wiki/Documentation/)
+* * (R)  [wiki.archlinux.org/title/Window_manager](https://wiki.archlinux.org/title/Window_manager)
+* * (R)  [Why I Use Tiling Window Managers - And Why You Should Too - YouTube](https://www.youtube.com/watch?v=K_W0ia2QjU8)
+* * (R)  [wayland](https://wayland.freedesktop.org/)
+* * (R)  [wayland protocols](https://wayland.app/protocols/)

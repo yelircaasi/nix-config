@@ -2,6 +2,7 @@
 
 ## left-right mappings for table parsing
 
+* [mypy notes](https://stackoverflow.com/questions/57785471/why-does-mypy-think-library-imports-are-missing) $$$$$$$$$
 * move cv-analysis to gpu, rewrite in cpp with pybind11 and parallelize everything
 [evilmartians/lefthook](https://github.com/evilmartians/lefthook)
 add deskew keyword to cv-analysis service
@@ -98,7 +99,7 @@ add deskew keyword to cv-analysis service
 ```tex
 * y_i = f^*(\vec{x}) = argmax_{f_i} s(f_i)
 
-```
+```txt
 * RL Model for DHL: (path, entity, all paths) -> (path, entity)                                            -> mapping: rules, constraints on rules
 
 ```tex

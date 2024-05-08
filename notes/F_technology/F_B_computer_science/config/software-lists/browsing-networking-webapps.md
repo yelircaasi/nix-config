@@ -59,32 +59,33 @@
 * ( ) [epicbrowser.com/privacy-policy](https://epicbrowser.com/privacy-policy)
 * (1) Firefox Focus
 * (1) Adblock Browser
-* ( ) [cromite](https://github.com/uazo/cromite)
-* ( ) [bromite](...)
-* -> [securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/](https://securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/)
+* (2.5) [cromite](https://github.com/uazo/cromite)
+   | (6) [bromite](https://www.bromite.org/)
+
+-> [securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/](https://securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/)
 
 #### Esoteric Browser
 
 ##### Vim
 
-* ( ) [Michasze/surf-wayland: Suckless surf browser that runs on Wayland compositors](https://github.com/Michasze/surf-wayland)
-* ( ) [netsurf](https://www.netsurf-browser.org/) + [visurf](https://sr.ht/~sircmpwn/visurf/)
-* ( ) [neosurf](https://github.com/CobaltBSD/neosurf?tab%3Dreadme-ov-file) + [visurf](https://sr.ht/~sircmpwn/visurf/)
+* (2.5) [Michasze/surf-wayland: Suckless surf browser that runs on Wayland compositors](https://github.com/Michasze/surf-wayland)
+   |    (2.5) [netsurf](https://www.netsurf-browser.org/) + [visurf](https://sr.ht/~sircmpwn/visurf/)
+   |    (2.5) [neosurf](https://github.com/CobaltBSD/neosurf?tab%3Dreadme-ov-file) + [visurf](https://sr.ht/~sircmpwn/visurf/)
 
 ##### Non-Vim
 
-* ( ) [textbrowser/dooble](https://github.com/textbrowser/dooble)
-* ( ) [dillo-browser.github.io/](https://dillo-browser.github.io/) Extensible with plugins written in any language (see the list of plugins).
-* (4) [ladybird](...)
-* (5) [min](...)
+* (5) [textbrowser/dooble](https://github.com/textbrowser/dooble) $$$
+* (5) [dillo-browser.github.io/](https://dillo-browser.github.io/) Extensible with plugins written in any language (see the list of plugins).
+* (5) [ladybird](https://ladybird.dev/)
+* (5) [min](https://github.com/minbrowser/min)
 * (6) [midori](https://github.com/goastian/midori-desktop)
-* (6) [falkon](...)
-* (6) [epiphany](...)
-* (6) [badwolf](https://hacktivis.me/projects/badwolf) - interesting and lightweight, but no vi mode
-* (6) [lrrh](...)
+* (6) [falkon](https://www.falkon.org/)
+* (6) [epiphany](https://gitlab.gnome.org/GNOME/epiphany)
+* (5) [badwolf](https://hacktivis.me/projects/badwolf) - interesting and lightweight, but no vi mode
+* (6) [lrrh](https://github.com/aarnt/lrrh)
 * (6) [raphael](https://github.com/MidnightBSD/raphael)
-* (6) [hskit](https://github.com/isovector/hskit)
-* (6) [webkitten](https://github.com/kattrali/webkitten)
+* (5) [hskit](https://github.com/isovector/hskit)
+* (5) [webkitten](https://github.com/kattrali/webkitten)
 
 #### Old-School Browser
 
@@ -108,89 +109,36 @@
 * ( ) [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page)
 * ( ) [habu](https://github.com/kaloslazo/Habu)
 
+#### Firefox Hardening
+
+* (2) [yokoffing/Betterfox: Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.](https://github.com/yokoffing/Betterfox)
+* (2) [arkenfox](https://github.com/arkenfox/user.js/) -> [gui](https://arkenfox.github.io/gui/)
+
 #### Firefox Ricing
 
-* ( ) [colors - Change Firefox new tab background - Super User](https://superuser.com/questions/1235975/change-firefox-new-tab-background)
-* ( ) [How to Customize Firefox Reader View for Better Readability - Hongkiat](https://www.hongkiat.com/blog/customize-reader-view-theme-firefox/)
-* ( ) [perfection-firefox-css-theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
-* ( ) [shina-fox](https://github.com/Shina-SG/Shina-Fox)
-* ( )  [yokoffing/Betterfox: Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.](https://github.com/yokoffing/Betterfox)
-* ( ) [addons.mozilla.org/en-US/firefox/addon/re-style/](https://addons.mozilla.org/en-US/firefox/addon/re-style/)
-* ( ) [wiki.archlinux.org/title/Firefox/Tweaks](https://wiki.archlinux.org/title/Firefox/Tweaks)
-* ( ) [p3nguin-kun/penguinFox](https://github.com/p3nguin-kun/penguinFox)
-* ( ) [p3nguin-kun/penguinFox-Librewolf](https://github.com/p3nguin-kun/penguinFox-Librewolf)
-* ( ) [ff-ultima](https://github.com/soulhotel/FF-ULTIMA)
-* ( ) [FirefoxBar/xStyle](https://github.com/FirefoxBar/xStyle)
-* ( ) [M4cs/foxify-cli](https://github.com/M4cs/foxify-cli)
-* ( ) [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - work with old version of Firefox? fork old version? [flyingfox.netlify.app/](https://flyingfox.netlify.app/) [reddit](https://www.reddit.com/r/unixporn/comments/glbl4v/oc_its_not_normal_to_want_my_firefox_to_sit_on_my/)
-* ( ) [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) → great rreference
-* ( ) [soup-bowl/Modoki-Firefox](https://github.com/soup-bowl/Modoki-Firefox) [[XFCE4] Chicago95 + Vaporvave = Awesome : unixporn](https://www.reddit.com/r/unixporn/comments/112oexs/xfce4_chicago95_vaporvave_awesome/)
-* ( ) [cascade](https://github.com/andreasgrafen/cascade)
-* ( ) [Tile Tabs :: Add-ons for Firefox](https://web.archive.org/web/20170821155241/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs/?src%3Duserprofile)
-* ( ) [userchrome.org/](https://www.userchrome.org/)
+* (R) [colors - Change Firefox new tab background - Super User](https://superuser.com/questions/1235975/change-firefox-new-tab-background)
+* (R) [How to Customize Firefox Reader View for Better Readability - Hongkiat](https://www.hongkiat.com/blog/customize-reader-view-theme-firefox/)
+* (2.5) [perfection-firefox-css-theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
+* (2.5) [shina-fox](https://github.com/Shina-SG/Shina-Fox)
+* (2.5) [addons.mozilla.org/en-US/firefox/addon/re-style/](https://addons.mozilla.org/en-US/firefox/addon/re-style/)
+* (2.5) [wiki.archlinux.org/title/Firefox/Tweaks](https://wiki.archlinux.org/title/Firefox/Tweaks)
+* (2.5) [p3nguin-kun/penguinFox](https://github.com/p3nguin-kun/penguinFox)
+* (2.5) [p3nguin-kun/penguinFox-Librewolf](https://github.com/p3nguin-kun/penguinFox-Librewolf)
+* (2.5) [ff-ultima](https://github.com/soulhotel/FF-ULTIMA)
+* (2.5) [FirefoxBar/xStyle](https://github.com/FirefoxBar/xStyle)
+* (2.5) [M4cs/foxify-cli](https://github.com/M4cs/foxify-cli)
+* (2.5) [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - work with old version of Firefox? fork old version? [flyingfox.netlify.app/](https://flyingfox.netlify.app/) [reddit](https://www.reddit.com/r/unixporn/comments/glbl4v/oc_its_not_normal_to_want_my_firefox_to_sit_on_my/)
+* (2.5) [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) → great rreference
+* (2.5) [soup-bowl/Modoki-Firefox](https://github.com/soup-bowl/Modoki-Firefox) [[XFCE4] Chicago95 + Vaporvave = Awesome : unixporn](https://www.reddit.com/r/unixporn/comments/112oexs/xfce4_chicago95_vaporvave_awesome/)
+* (2.5) [cascade](https://github.com/andreasgrafen/cascade)
+* (2.5) [Tile Tabs :: Add-ons for Firefox](https://web.archive.org/web/20170821155241/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs/?src%3Duserprofile)
+* (2.5) [userchrome.org/](https://www.userchrome.org/)
 
 #### Chromium Ricing
 
-* ( ) [Arsemy/chromium-tokyonight](https://github.com/Arsemy/chromium-tokyonight)
-* ( ) [r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/](https://www.reddit.com/r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/)
-* ( ) [sekuji/mad-darkness](https://github.com/sekuji/mad-darkness)
-
-#### Userscripts and Site-Specific CSS
-
-* ( ) [openstyles/stylus](https://github.com/openstyles/stylus)
-* ( ) [stylish-userstyles/stylish](https://github.com/stylish-userstyles/stylish)
-* ( ) [openstyles/stylus/wiki/UserCSS](https://github.com/openstyles/stylus/wiki/UserCSS)
-* ( ) [greasyfork.org/](https://greasyfork.org/)
-* ( ) [greasyfork.org/en/scripts/470753-mastodon-birdui-style-override](https://greasyfork.org/en/scripts/470753-mastodon-birdui-style-override)
-* ( ) [greasyfork.org/en](https://greasyfork.org/en)
-* ( ) [userstyles mirror](https://github.com/uso-archive/data) and [site](https://uso.kkx.one/)
-* ( ) [usercss guide](https://github.com/openstyles/stylus/wiki/Usercss)
-* ( ) [writing usercss](https://github.com/openstyles/stylus/wiki/Writing-UserCSS)
-* Sites to make custom CSS for:
-  * Notion
-  * GitHub
-  * gitlab
-  * stack overflow
-  * stackexchange
-  * Wikipedia
-  * not YouTube unless I get AdBlock working
-  * all mdbook sites
-  * all docs I use frequently - python, rust, kotlin, julIa, etc
-  * email (Gmail, Proton, etc)
-  * Discord
-  * Element
-  * Reddit
-  * Fediverse site
-  * LibGen sites, Anna’s archive
-  * BGA
-  * Overleaf
-  * google page, google docs, suite, drive
-  * teams, outlook
-  * nextcloud
-  * fsf, Linux foundation, etc
-* ( ) [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
-* ( ) [ ]  try Selenium on:
-  * ( ) [ ]  chrome-extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
-  * ( ) [ ]  chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.htm
-  * ( ) [ ]  moz-extension://fcb928ab-a898-4c47-9f85-2ff701b6e9dc/manage.htm
-  * ( ) [ ]  moz-extension://ae95df29-277d-4ee3-aeb6-e4e84dfebada/manage.htm
-  * ( ) [ ]  edge:  extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.htm
-  * ( ) [ ]  edge: extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
-  * ( ) [ ]  [selenium-python.readthedocs.io/installation.html](https://selenium-python.readthedocs.io/installation.html)
-* ( ) [ ]  [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
-* ( ) [openstyles/stylus: Stylus - Userstyles Manager](https://github.com/openstyles/stylus/tree/master)
-
-* ( ) [Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors)
-* ( ) [stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt](https://stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt)
-* ( ) [superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension](https://superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension)
-* → Write own extension to load stylesheets into mainstream browsers via command line
-* ( ) [book.huihoo.com/creating-applications-with-mozilla/mozilla-chp-4-sect-3.html](https://book.huihoo.com/creating-applications-with-mozilla/mozilla-chp-4-sect-3.html)
-* ( ) [book.huihoo.com/creating-applications-with-mozilla/](https://book.huihoo.com/creating-applications-with-mozilla/)
-* ( ) [developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
-* ( ) [developer.chrome.com/docs/extensions/mv3/](https://developer.chrome.com/docs/extensions/mv3/)
-* ( ) [chromium.googlesource.com/chromium/src.git/+/refs/heads/main/ui/native_theme/](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/ui/native_theme/) → look into fixing
-* ( ) [brave/brave-core](https://github.com/brave/brave-core) [brave/brave-core/tree/master/ui/webui/resources](https://github.com/brave/brave-core/tree/master/ui/webui/resources)
-* ( ) [Where are installed Google Chrome extensions stored locally? - Stack Overflow](https://stackoverflow.com/questions/21475866/where-are-installed-google-chrome-extensions-stored-locally)
+* (2.5) [Arsemy/chromium-tokyonight](https://github.com/Arsemy/chromium-tokyonight)
+* (2.5) [r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/](https://www.reddit.com/r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/)
+* (2.5) [sekuji/mad-darkness](https://github.com/sekuji/mad-darkness)
 
 ##### Userscript Managers and Hosts
 
@@ -218,7 +166,6 @@
 
 ->  [firefoxcss-store.github.io/](https://firefoxcss-store.github.io/)
 
-* (2.5) [royalHeart/config/tree/main/chrome](https://github.com/RoyalHeart/config/tree/main/chrome)
 * (2.5) [arcWTF](https://github.com/KiKaraage/ArcWTF)
 * (2.5) [blurfox-MacOS](https://github.com/safak45xx/Blurfox-MacOS)
 * (2.5) [dolphinFox](https://github.com/ShmakovVladimir/DolphinFox)
@@ -229,6 +176,7 @@
 * (2.5) [firefox-nordic-theme: :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.](https://github.com/EliverLara/firefox-nordic-theme)
 * (2.5) [firefox-one-pixelated](https://github.com/PENWINthePIRATE/firefox-one-pixelated)
 * (2.5) [firefox-one](https://github.com/Godiesc/firefox-one)
+* (2.5) [firefox-onebar](https://codeberg.org/Freeplay/Firefox-Onebar)
 * (2.5) [firefox-vertical-tabs: Stylesheets for collapsible vertical tabs for Firefox.](https://github.com/lucaspar/firefox-vertical-tabs)
 * (2.5) [flyingFox](https://github.com/akshat46/FlyingFox)
 * (2.5) [fox11](https://github.com/Neikon/Fox11)
@@ -237,6 +185,7 @@
 * (2.5) [helgiMagic/FirefoxCSS](https://github.com/HelgiMagic/FirefoxCSS)
 * (2.5) [minimalisticfox](https://github.com/Jamir-boop/minimalisticfox)
 * (2.5) [perfection-Firefox-CSS-Theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
+* (2.5) [royalHeart/config/tree/main/chrome](https://github.com/RoyalHeart/config/tree/main/chrome)
 * (2.5) [shina-Fox](https://github.com/Shina-SG/Shina-Fox)
 * (2.5) [shyFox](https://github.com/Naezr/ShyFox)
 * (2.5) [stealthFox](https://github.com/vipintom/stealthFox)
@@ -408,7 +357,6 @@
 * ( ) [Collaboration costs less with Coda, we price differently - Coda](https://coda.io/product/collaboration-costs-less-with-coda)
 * ( ) [For news junkies: The easiest ways to get through any article paywall (that I know of) : r/Piracy](https://www.reddit.com/r/Piracy/comments/stws33/for_news_junkies_the_easiest_ways_to_get_through/)
 * ( ) [FrontPage](http://www.fitnesse.org/)
-* ( ) [Home — Bluesky](https://staging.bsky.app/)
 * ( ) [Raise and spend money with full transparency. - Open Collective](https://opencollective.com/)
 * ( ) [Startseite - rheinneckar.social](https://rheinneckar.social/home)
 * ( ) [Troubleshooters.Com](http://troubleshooters.com/troubleshooters.htm%23x10021)
@@ -786,9 +734,9 @@
 * ( ) [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 * ( ) [desktop](https://github.com/httpie/desktop) (httpie)
 * ( ) [geoip-api-c](https://github.com/maxmind/geoip-api-c) - A little application to find geographical and network information of an IP address based no the geoip C API.
-* ( ) [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
-* ( ) [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in -nix systems.
-* ( ) [histstat](https://github.com/vesche/histstat) - History for netstat
+* (5) [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
+* (3) [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in -nix systems.
+* (5) [histstat](https://github.com/vesche/histstat) - History for netstat
 * ( ) [ipcalc](https://github.com/kjokjo/ipcalc) - Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
 * ( ) [ngrep/](https://github.com/jpr5/ngrep/) - (Network grep) applies the `grep` logic to the network layer, allowing to match regular expressions against data payloads of packets; it recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces.
 * ( ) [Nmap](https://nmap.org/) - Nmap is a free, open-source tool for network exploration, management, and security auditing.
@@ -803,7 +751,9 @@
 
 ##### Crawling, Scraping, Downloading
 
-* ( ) [suckit](https://github.com/skallwar/suckit)
+-> see youtube
+
+* (2) [suckit](https://github.com/skallwar/suckit)
 * ( ) [Coursaros](https://github.com/SpyridonLaz/Coursaros) -  [Download videos and subtitles from edx to your computer easily.](https://github.com/SpyridonLaz/Coursaros)
 * ( ) [aria2](https://aria2.github.io/)
 * ( ) [scrapeghost/](https://github.com/jamesturk/scrapeghost/) - extend with other LLMs
@@ -811,13 +761,6 @@
 * ( ) [httrack.com/](https://www.httrack.com/)
 * ( ) [clauneck](https://github.com/serpapi/clauneck)
 * ( ) [cli](https://github.com/httpie/cli) - [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
-* ( ) [...](https://rg3.github.io/youtube-dl/)
-* ( ) [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
-* ( ) [video-downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp).
-* ( ) [youtube-dl-gui](https://jely2002.github.io/youtube-dl-gui/) - A cross-platform GUI for youtube-dl made in Electron and node.js
-* ( ) [ytDownloader](https://ytdn.netlify.app/) - A cross-platform GUI for yt-dlp with advanced options and a modern UI.
-* ( ) [mps-youtube](https://github.com/mps-youtube/mps-youtube) - A terminal based program for searching, streaming and downloading music. This implementation uses YouTube as a source of content and can play and download video as well as audio.
-* ( ) [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 * ( ) [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from pixiv, exhentai, danbooru and more.
 * ( ) [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
 * ( ) [ImageScraper](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
@@ -825,42 +768,42 @@
 
 ## Communication and Social Applications
 
-* ( ) [Dimillian/IceCubesApp: A SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
-* ( ) [Castopod^
-* ( ) [ForgeFed](...)
-* ( ) [Kazarma](...)
-* ( ) [Owncast](...)
-* ( ) [PixelFed (PixelDroid)](...)
-* ( ) [Xwiki](...)
-* ( ) [Keyoxide](...)
-* ( ) [GoToSocial](...)
-* ( ) [Funkwhale](...)
-* ( ) [Flarum](...)
-* ( ) [Bonfire](...)
-* ( ) [Libervia](...)
-* ( ) [Mobilizon](...)
-* ( ) [GNU Social](https://gnusocial.rocks/)
-* ( ) [KBin](...)
-* ( ) [ActivityPods](...)
-* ( ) [Lobsters](https://lobste.rs/)
-* ( ) [feddit](https://browse.feddit.de/)
-* ( ) [threadreaderapp](https://threadreaderapp.com/)
-* ( ) [weechat](https://weechat.org/)
-* ( ) [scripts](https://weechat.org/scripts/)
-* ( ) [weechatbot](https://github.com/sndrsmnk/weechatbot)
-* ( ) [irssi](https://irssi.org/ )
-* ( ) [msmtp](https://marlam.de/msmtp/ )
-* ( ) [offlineimap](https://www.offlineimap.org/)
-* ( ) [mailinabox](https://mailinabox.email/)
+-> [nlnet](https://nlnet.nl/project/Kazarma/)
+
+* (2) [Home — Bluesky](https://staging.bsky.app/)
+* (4.5) [Dimillian/IceCubesApp: A SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
+* (2) [Castopod](https://castopod.org/)
+* (2) [ForgeFed](https://forgefed.org/)
+* (3) [Kazarma](https://kazar.ma/) - bridge between Matrix and ActivityPub
+* (2) [Owncast](https://owncast.online/)
+* (2) [PixelFed (PixelDroid)](https://pixelfed.org/)
+* (4) [Xwiki](https://www.xwiki.org/xwiki/bin/view/Main/WebHome)
+* (2) [Keyoxide](https://keyoxide.org/)
+* (2.5) [GoToSocial](https://gotosocial.org/)
+* (4) [Flarum](https://flarum.org/)
+* (2) [Bonfire](https://bonfirenetworks.org/)
+* (2.5) [Libervia](https://libervia.org/)
+* (2) [Mobilizon](https://joinmobilizon.org/en/)
+* (2) [GNU Social](https://gnusocial.rocks/)
+* (2) [KBin](https://kbin.social/)
+* (2) [ActivityPods](https://activitypods.org/)
+* (2) [Lobsters](https://lobste.rs/)
+* (2) [feddit](https://browse.feddit.de/)
+* (2) [threadreaderapp](https://threadreaderapp.com/)
+* (2) [weechat](https://weechat.org/) [scripts](https://weechat.org/scripts/) [example: weechatbot](https://github.com/sndrsmnk/weechatbot)
+* (2) [irssi](https://irssi.org/ )
+* (2) [msmtp](https://marlam.de/msmtp/)
+* (6) [offlineimap](https://www.offlineimap.org/)
+* (2) [mailinabox](https://mailinabox.email/)
 
 ### RSS (GUI)
 
 * (2.5) [tt-rss](https://tt-rss.org/)
-   | ( ) [rssguard](https://github.com/martinrotter/rssguard)
-   | ( ) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey)
-   | ( ) [NewsFlash](https://apps.gnome.org/app/com.gitlab.newsflash/)
-   | ( ) [fluent-reader](https://hyliu.me/fluent-reader/)
-   | ( ) [Akregator](https://apps.kde.org/akregator/)
+   | (2.5) [rssguard](https://github.com/martinrotter/rssguard)
+   | (2.5) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey)
+   | (2.5) [NewsFlash](https://apps.gnome.org/app/com.gitlab.newsflash/)
+   | (2.5) [fluent-reader](https://hyliu.me/fluent-reader/)
+   | (2.5) [Akregator](https://apps.kde.org/akregator/)
 
 ### Email
 
@@ -952,8 +895,8 @@ Fedilab
    | (2.5) [ripcord](https://cancel.fm/ripcord/)
    | (2.5) [replugged](https://github.com/replugged-org/replugged)
    | (2.5) [abaddon](https://github.com/uowuo/abaddon)
-* ( ) [JMusicBot](https://jmusicbot.com/) - A Discord music bot that’s easy to set up and run yourself.
-* ( ) [Red Discord Bot](https://index.discord.red/) - Red Discord Bot is a self-hosted music/chat/trivia bot that can run on a Raspberry Pi and a variety of OS’s. It’s extensible through a system of “Cogs” that allow it to do more.
+* (3) [JMusicBot](https://jmusicbot.com/) - A Discord music bot that’s easy to set up and run yourself.
+* (3) [Red Discord Bot](https://index.discord.red/) - Red Discord Bot is a self-hosted music/chat/trivia bot that can run on a Raspberry Pi and a variety of OS’s. It’s extensible through a system of “Cogs” that allow it to do more.
 
 ### Slack
 
@@ -974,46 +917,43 @@ Fedilab
 
 ### Multiple
 
-* ( ) [Choqok](https://apps.kde.org/choqok/) - Choqok is a Qt5 client for Twitter, GNU Social, Friendica and Pump.IO.
-* ( ) [Ferdium](https://ferdium.org/) - Fork of Ferdi/Franz. Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.
-* ( ) [Franz](https://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
-* ( ) [Pidgin](https://pidgin.im/) - A universal chat client.
-* ( ) [PingMe](https://github.com/kha7iq/pingme) - Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat and others.
-* ( ) [Shift](...)
-* ( ) [electronim](https://github.com/manusa/electronim)- all-in-one messging
-* ( ) [ferdium](https://ferdium.org/)
-* ( ) [finch](https://github.com/toolleeo/cli-apps/blob/master) - IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project.
-* ( ) [hamsket](https://github.com/TheGoddessInari/hamsket)
-* ( ) [pidgin](https://pidgin.im/)
-* ( ) [rambox](https://rambox.app/)
-* ( ) [sonnyp](https://github.com/sonnyp/Tangram)
-* ( ) [station](https://getstation.com/)
-* ( ) [yfiton](https://github.com/yfiton/yfiton)
+* (2.5) [Choqok](https://apps.kde.org/choqok/) - Choqok is a Qt5 client for Twitter, GNU Social, Friendica and Pump.IO.
+* (4) [Franz](https://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application. - freemium
+* (2) [PingMe](https://github.com/kha7iq/pingme) - Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat and others.
+* (6) [Shift](https://shift.com/apps/messenger/)
+* (2.5) [electronim](https://github.com/manusa/electronim)-  all-in-one messging $
+* (2) [ferdium](https://ferdium.org/) $$$
+* (2) [finch](https://www.pidgin.im/) - IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project.
+* (5) [hamsket](https://github.com/TheGoddessInari/hamsket)
+* (2) [pidgin](https://pidgin.im/)
+* (4) [rambox](https://rambox.app/) -proprietary and closed-source
+* (2) [tangram](https://github.com/sonnyp/Tangram)
+* (2) [station](https://getstation.com/)
+* (5) [yfiton](https://github.com/yfiton/yfiton)
 
 ### Other
 
 * -> pigeon, finch, libpurple
-* (4) [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH
-* (4) [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
-* (4) [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible.
-* (4) [Zulip](https://zulip.com/) - Zulip is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
-* (4) [Revolt](https://revolt.chat/) - Revolt is an open source user-first chat platform.
-* (4) [tweets](https://github.com/diracdeltas/tweets) - Decentralized alternative to twitter that uses git as support tool to manage the tweets.
-* (4) [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
-* (4) [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service. ([GNU GPLv3](https://ring.cx/en/about/practical))
-* (4) [nostr](https://nostr.com/)
-* (4) [mumble](https://github.com/mumble-voip/mumble)- voice chat
-* ( ) [botamusique](https://github.com/azlux/botamusique)- music bot for mumble
-* (4) [utopia](https://u.is/en)
-* (4) [Gajim](https://gajim.org/) - XMPP/Jabber client for desktop. ([GNU GPLv3](https://dev.gajim.org/gajim/gajim/blob/master/COPYING))
+* (2) [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH
+* (5) [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
+* (2) [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible.
+* (2) [Zulip](https://zulip.com/) - Zulip is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
+* (2) [Revolt](https://revolt.chat/) - Revolt is an open source user-first chat platform.
+* (3) [tweets](https://github.com/diracdeltas/tweets) - Decentralized alternative to twitter that uses git as support tool to manage the tweets.
+* (3) [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
+* (3) [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service. ([GNU GPLv3](https://ring.cx/en/about/practical))
+* (2) [nostr](https://nostr.com/) - nice site
+* (2) [mumble](https://github.com/mumble-voip/mumble)- voice chat
+* (3) [botamusique](https://github.com/azlux/botamusique) - music bot for mumble
+* (3) [utopia](https://u.is/en)
+* (3) [Gajim](https://gajim.org/) - XMPP/Jabber client for desktop. ([GNU GPLv3](https://dev.gajim.org/gajim/gajim/blob/master/COPYING))
 * (4) [Conversations](https://conversations.im/) - XMPP/Jabber client for Android. ([GNU GPLv3](https://github.com/siacs/Conversations/blob/master/LICENSE))
 * (4) [finch](https://linux.die.net/man/1/finch)
 * (4) [Jami](https://jami.net/) - Chat. Talk. Share. Jami is a free and universal communication platform which preserves the users’ privacy and freedoms. Formerly Ring.
-* ( ) [Coccinella: Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/coccinella/about/)
-* ( ) [jitsi meet](...)
-* ( ) [kbin](https://kbin.social/)
-* ( ) [matrix-org/matrix-hookshot: A bridge between Matrix and multiple project management services, such as GitHub, GitLab and JIRA.](https://github.com/matrix-org/matrix-hookshot)
-* ( ) [openchatroulette](https://github.com/andchir/openchatroulette)
-* ( ) [syphon-org/syphon](https://github.com/syphon-org/syphon) a privacy centric matrix client
-* ( ) [Thunderbird](...)
-* ( ) [toot](https://github.com/ihabunek/toot) - Mastodon CLI & TUI
+* (2) [Coccinella: Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/coccinella/about/)
+* (2) [jitsi meet](https://meet.jit.si/)
+* (2) [kbin](https://kbin.social/)
+* (2) [matrix-org/matrix-hookshot: A bridge between Matrix and multiple project management services, such as GitHub, GitLab and JIRA.](https://github.com/matrix-org/matrix-hookshot)
+* (2) [openchatroulette](https://github.com/andchir/openchatroulette)
+* (2) [syphon-org/syphon](https://github.com/syphon-org/syphon) a privacy centric matrix client
+* (2) [toot](https://github.com/ihabunek/toot) - Mastodon CLI & TUI

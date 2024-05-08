@@ -886,7 +886,9 @@ print(transformed.shape)
 * CSS & related
 * ( ) [sass-lang.com/dart-sass/](https://sass-lang.com/dart-sass/)
 * ( ) [sass/sassc](https://github.com/sass/sassc)
-* → browser
+
+## Browser Ricing Notes
+
 * Vanilla Linux
 * ( ) [SingularisArt/Chameleon](https://github.com/SingularisArt/Chameleon) , → other projects by
 * ( ) [GideonWolfe](https://github.com/GideonWolfe)
@@ -917,7 +919,61 @@ print(transformed.shape)
 * ( ) [qutebrowser.org/doc/help/settings.html](https://qutebrowser.org/doc/help/settings.html)
 * ( ) [r/qutebrowser/comments/glo28l/how_do_you_use_a_css_stylesheet/](https://www.reddit.com/r/qutebrowser/comments/glo28l/how_do_you_use_a_css_stylesheet/)
 * ( ) [search?q=home-manager+firefox+colors&type=code](https://github.com/search?q=home-manager+firefox+colors&type=code)
+* Sites to make custom CSS for:
+  * Notion
+  * GitHub
+  * gitlab
+  * stack overflow
+  * stackexchange
+  * Wikipedia
+  * not YouTube unless I get AdBlock working
+  * all mdbook sites
+  * all docs I use frequently - python, rust, kotlin, julIa, etc
+  * email (Gmail, Proton, etc)
+  * Discord
+  * Element
+  * Reddit
+  * Fediverse site
+  * LibGen sites, Anna’s archive
+  * BGA
+  * Overleaf
+  * google page, google docs, suite, drive
+  * teams, outlook
+  * nextcloud
+  * fsf, Linux foundation, etc
 
+#### Userscripts and Site-Specific CSS
+
+* ( ) [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
+* ( ) [ ]  try Selenium on:
+  * ( ) [ ]  chrome-extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
+  * ( ) [ ]  chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.htm
+  * ( ) [ ]  moz-extension://fcb928ab-a898-4c47-9f85-2ff701b6e9dc/manage.htm
+  * ( ) [ ]  moz-extension://ae95df29-277d-4ee3-aeb6-e4e84dfebada/manage.htm
+  * ( ) [ ]  edge:  extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.htm
+  * ( ) [ ]  edge: extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
+  * ( ) [ ]  [selenium-python.readthedocs.io/installation.html](https://selenium-python.readthedocs.io/installation.html)
+* ( ) [ ]  [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
+* ( ) [openstyles/stylus: Stylus - Userstyles Manager](https://github.com/openstyles/stylus/tree/master)
+* ( ) [stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt](https://stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt)
+* ( ) [superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension](https://superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension)
+* → Write own extension to load stylesheets into mainstream browsers via command line
+* ( ) [book.huihoo.com/creating-applications-with-mozilla/mozilla-chp-4-sect-3.html](https://book.huihoo.com/creating-applications-with-mozilla/mozilla-chp-4-sect-3.html)
+* ( ) [book.huihoo.com/creating-applications-with-mozilla/](https://book.huihoo.com/creating-applications-with-mozilla/)
+* ( ) [developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+* ( ) [developer.chrome.com/docs/extensions/mv3/](https://developer.chrome.com/docs/extensions/mv3/)
+* ( ) [chromium.googlesource.com/chromium/src.git/+/refs/heads/main/ui/native_theme/](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/ui/native_theme/) → look into fixing
+* ( ) [brave/brave-core](https://github.com/brave/brave-core) [brave/brave-core/tree/master/ui/webui/resources](https://github.com/brave/brave-core/tree/master/ui/webui/resources)
+* ( ) [Where are installed Google Chrome extensions stored locally? - Stack Overflow](https://stackoverflow.com/questions/21475866/where-are-installed-google-chrome-extensions-stored-locally)
+* ( ) [openstyles/stylus](https://github.com/openstyles/stylus)
+* ( ) [stylish-userstyles/stylish](https://github.com/stylish-userstyles/stylish)
+* ( ) [openstyles/stylus/wiki/UserCSS](https://github.com/openstyles/stylus/wiki/UserCSS)
+* ( ) [greasyfork.org/](https://greasyfork.org/)
+* ( ) [greasyfork.org/en/scripts/470753-mastodon-birdui-style-override](https://greasyfork.org/en/scripts/470753-mastodon-birdui-style-override)
+* ( ) [greasyfork.org/en](https://greasyfork.org/en)
+* ( ) [userstyles mirror](https://github.com/uso-archive/data) and [site](https://uso.kkx.one/)
+* ( ) [usercss guide](https://github.com/openstyles/stylus/wiki/Usercss)
+* ( ) [writing usercss](https://github.com/openstyles/stylus/wiki/Writing-UserCSS)
 ## SORT ---------------------------------------------------------------------------------------------------------------------------------
 
 ## Rice Font
@@ -1529,3 +1585,5 @@ rice * VanillaOS wallpaper channel
 * {rice font} [monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
 * [ColorFetch](https://github.com/Selbi182/ColorFetch)
 * [ColorPie](https://github.com/keshavbhatt/ColorPie)
+* ( ) [Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors)
+* [perfect green](https://github.com/supabase-community/postgres_lsp/raw/main/docs/images/pls-github.png)

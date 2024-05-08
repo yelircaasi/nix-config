@@ -8,6 +8,8 @@
     ./common
     ./common-from-device-config.nix
 
+    ./applications/development/database
+
     ./applications/work-garbage
 
     ./sops

@@ -15,6 +15,10 @@
 * [Libr-AI/OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification)
 * [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC)
 
+### LLM and Related
+
+* [StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)
+
 ### CV
 
 * [learnopencv.com/video-to-slides-converter-using-background-subtraction/](https://learnopencv.com/video-to-slides-converter-using-background-subtraction/)
@@ -185,8 +189,8 @@
 * [Understanding Machine Learning (with solution manual)
 * [Машинное обучение. Часть 1](http://www.intsys.msu.ru/staff/mironov/machine_learning_vol1.pdf)
 * [Методы и системы обработки больших данных](https://www.lektorium.tv/course/30090)
-    * **Ammon Shashu
-    * **Machine Learning | Coursera)
+* Ammon Shashu
+* Machine Learning | Coursera
 * [10. Applied Data Science with Python — UMich](https://online.umich.edu/series/applied-data-science-with-python/)
 * [11. Statistics with R Specialization — Duke University](https://www.coursera.org/specializations/statistics)
 * [12. SQL for Data Science — UC Davis](https://www.coursera.org/learn/sql-for-data-science?)
@@ -239,9 +243,8 @@
 * [Toronto Intro to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 * [Une introduction aux sciences des données](https://mathematical-tours.github.io/book-basics-sources/IntroImaging-FR.pdf)
 * [Машинное обучение (курс лекций, К.В.Воронцов)
-    * *CS 224N | Hom
-    * *Topics in Mathematics of Data Science | Mathematics | MIT OpenCourseWar
-    * *Topics in Mathematics of Data Science Lecture Notes
+* CS 224N | Hom
+* Topics in Mathematics of Data Science | Mathematics | MIT OpenCourseWare; Topics in Mathematics of Data Science Lecture Notes
 * [1. CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 * [10.  Data Mining bu University of Buffalo](https://cedar.buffalo.edu/~srihari/CSE626/index.html?fbclid=IwAR3XZ50uSZAb3u5BP1Qz68x13_xNEH8EdEBQC9tmGEp1BoxLNpZuBCtfMSE)
 * [67577 fall 2008 course webpage](https://www.cse.huji.ac.il/~shashua/iml08.html)
@@ -267,15 +270,15 @@
 * [Srihari ML Course](https://cedar.buffalo.edu/~srihari/CSE574/)
 * [Srihari Neuro-Symbolic AI](https://cedar.buffalo.edu/~srihari/CSE701/index.html)
 * [Srihari Pattern Recognition](https://cedar.buffalo.edu/~srihari/CSE555/index.html)
-* [Human Computer Interaction (HCI)
-* [FULL COURSE] | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ)
+* [Human Computer Interaction (HCI) FULL COURSE | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ)
 * [Mining Massive Datasets - Stanford University [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
 * [Index of /~martinez/classes/478](http://axon.cs.byu.edu/~martinez/classes/478/)
 * [Intro to Machine Learning and Artificial Intelligence – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/intro-to-machine-learning-and-artificial-intelligence/)
 * [Learning path: Data analysis using Python – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/learning-path-data-analysis-using-python/)
 * [Learning path: Get started with machine learning – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/learning-path-machine-learning-for-developers/)
 * [Learning path: Get started with Watson Machine Learning Accelerator – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/learning-path-get-started-with-watson-machine-learning-accelerator/)
-* [toptal.com/machine-learning/introduccion-a-la-teoria-de-aprendizaje-de-maquina-y-sus-aplicaciones-un-tutorial-visual-con-ejemplos](https://www.toptal.com/machine-learning/introduccion-a-la-teoria-de-aprendizaje-de-maquina-y-sus-aplicaciones-un-tutorial-visual-con-ejemplos)    *DATA 1010 - Probability, Statistics, and Machine Learning    *Scipy Lecture Notes — Scipy lecture notes
+* [toptal.com/machine-learning/introduccion-a-la-teoria-de-aprendizaje-de-maquina-y-sus-aplicaciones-un-tutorial-visual-con-ejemplos](https://www.toptal.com/machine-learning/introduccion-a-la-teoria-de-aprendizaje-de-maquina-y-sus-aplicaciones-un-tutorial-visual-con-ejemplos)
+* DATA 1010 - Probability, Statistics, and Machine Learning    *Scipy Lecture Notes — Scipy lecture notes
 * [nthu-datalab.github.io/ml/](https://nthu-datalab.github.io/ml/)
 * [13. Machine Learning Crash Course — Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 * [4. Mathematics for Machine Learning by University of California, Berkeley](https://gwthomas.github.io/docs/math4ml.pdf?fbclid=IwAR2UsBgZW9MRgS3nEo8Zh_ukUFnwtFeQS8Ek3OjGxZtDa7UxTYgIs_9pzSI)
@@ -341,7 +344,7 @@
 * [slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3Ba1Vq7AYlTOmwFz%2FVvzR2wA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_recent_activity_details_shares-object](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3Ba1Vq7AYlTOmwFz%2FVvzR2wA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_recent_activity_details_shares-object)
 * [courses/deeplearning1/nbs at master · fastai/courses · GitHub](https://github.com/fastai/courses/tree/master/deeplearning1/nbs)
 * [fastai/courses/tree/master/deeplearning1/nbs](https://github.com/fastai/courses/tree/master/deeplearning1/nbs)
-    *  Courses Toronto)
+*  Courses Toronto
 * [cs.cornell.edu/courses/cs4780/2018fa/](https://www.cs.cornell.edu/courses/cs4780/2018fa/)
 * [coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning)
 * [Google Cloud Platform Big Data and Machine Learning Fundamentals auf Deutsch | Coursera](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-de)
@@ -350,7 +353,7 @@
 * [developers.google.com/machine-learning/crash-course/](https://developers.google.com/machine-learning/crash-course/)
 * [lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 * [dlcourse.ims.uni-stuttgart.de/](https://dlcourse.ims.uni-stuttgart.de/)
-    *  Course Progression - Deep Learning Wizard)
+*  Course Progression - Deep Learning Wizard)
 * [ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/lecture-notes/](https://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/lecture-notes/)
 * [enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning: Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 * [coursera.org/learn/machine-learning/home/welcome](https://www.coursera.org/learn/machine-learning/home/welcome)
@@ -605,7 +608,7 @@
 * [AI in Business](https://emerj.com/artificial-intelligence-podcast/)
 * [The AI Podcast](https://blogs.nvidia.com/ai-podcast/)
 * [AI Today Podcast](https://www.cognilytica.com/category/ai-today/podcasts/)
-* [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/#:~:text=Artificial%20Intelligence%20podcast%20(AI%20podcast,YouTube%20channel%20for%20full%20conversations.&text=Support%20the%20podcast%20monthly%20on,one%2Dtime%20donation%20on%20PayPal.)
+* [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/)
 * [Data Skeptic](https://dataskeptic.com/)
 * [Eye on AI](https://www.eye-on.ai/)
 * [Linear Digressions](http://lineardigressions.com/)

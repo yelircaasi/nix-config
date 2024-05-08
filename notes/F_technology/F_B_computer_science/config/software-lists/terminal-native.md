@@ -645,15 +645,16 @@ to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipytho
 
 #### Database
 
-* (2) [usql](https://github.com/xo/usql)
-* (2) [termdbms](https://github.com/mathaou/termdbms)
-* (2) [pgcli](https://github.com/dbcli/pgcli)
-* (3) [soul](https://github.com/thevahidal/soul)
-* (2) [sqlite3](https://sqlite.org/cli.html)
-* (3) [redis-viewer](https://github.com/SaltFishPr/redis-viewer)
-* (3) [iredis](https://github.com/laixintao/iredis)
+* (1) [mongosh](https://www.mongodb.com/try/download/shell)
+* (1) [pgcli](https://github.com/dbcli/pgcli)
 * (2.5) [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed in-memory data store with an emphasis on speed and reliability.
 * (2.5) [mkdb](https://www.mkdb.sh/) - free hosted postgres
+* (2) [sqlite3](https://sqlite.org/cli.html)
+* (2) [termdbms](https://github.com/mathaou/termdbms)
+* (2) [usql](https://github.com/xo/usql)
+* (3) [iredis](https://github.com/laixintao/iredis)
+* (3) [redis-viewer](https://github.com/SaltFishPr/redis-viewer)
+* (3) [soul](https://github.com/thevahidal/soul)
 
 #### Other Formats
 

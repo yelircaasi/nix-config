@@ -1,5 +1,5 @@
 # Nebokrai
-
+* (2) [PingMe](https://github.com/kha7iq/pingme) - Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat and others.
 ## Design and Development Notes
 
 * use the concept of satisfiability -> [libsolv](https://github.com/openSUSE/libsolv)
@@ -1642,8 +1642,9 @@ Scheduler
 
 #### Habit Trackers
 
-* (5) [dijo](https://github.com/nerdypepper/dijo) - scriptable curses-bases habit tracker in Rust
-* ( ) [schmee/habu](https://github.com/schmee/habu)
+* (5) [dijo](https://github.com/nerdypepper/dijo) - scriptable curses-bases habit tracker in Rust [current repo](https://git.peppe.rs/cli/dijo/) $$$$$$$$$
+* ( ) [schmee/habu](https://github.com/schmee/habu) - A TUI habit tracker 
+* ( ) [habu](https://github.com/wakatara/harsh) - 🐨 Habu it's a minimalistic startpage made with the essence of neovim dashboard with the catppuccin mocha palette. Fully customizable and easy to setup.
 * (5) [uhabits](https://github.com/iSoron/uhabits) -> borrow ideas and elements for Nebokrai / fork and adapt / integrate
 * ( ) [habitmap](https://github.com/shuu-wasseo/habitmap) - A command-line app to track your habits and visualise how committed you are to making or maintaining them with colorful heatmaps.
 

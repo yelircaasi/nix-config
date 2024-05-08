@@ -247,6 +247,7 @@
 #### Everything
 
 * (2) [mpv](https://github.com/mpv-player/mpv) - [mpv.io/](https://mpv.io/) [mpv](https://mpv.io/) - Lets you play most audio and video formats (using ASCII characters) in the shell as well as in a GUI.
+      + [mpv-script-directory](https://github.com/Nudin/mpv-script-directory) + [site](https://nudin.github.io/mpv-script-directory/)
 
 #### GUI Audio Player
 
@@ -327,6 +328,7 @@
 
 ### Media Server / Daemon
 
+* (2) [Funkwhale](https://www.funkwhale.audio/)
 * (2) [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
 * (2) [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.
 * (2) [mpd](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
@@ -368,13 +370,18 @@
 
 ### YouTube
 
+* (2.5) [clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
+* (2.5) [video-downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp) (GUI)
+   | (2.5) [youtube-dl-gui](https://jely2002.github.io/youtube-dl-gui/) - A cross-platform GUI for youtube-dl made in Electron and node.js
+* (2) [ytDownloader](https://ytdn.netlify.app/) - A cross-platform GUI for yt-dlp with advanced options and a modern UI.
 * (R) [Watch YouTube videos using MPV player - An Easy Guide - LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/watch-youtube-videos-on-mpv-player)
 * (2) [invidtui](https://github.com/darkhz/invidtui) - Invidious TUI client, which fetches data from invidious instances and displays a user interface in the terminal, and allows for selecting and playing Youtube audio and video.
-* (2.5) [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+* (2.5) [mps-youtube](https://github.com/mps-youtube/mps-youtube) - This implementation uses YouTube as a source of content and can play and download video as well as audio.
 * (2) [pipe-viewer](https://github.com/trizen/pipe-viewer) - yt client
 * (2) [yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 * (2.5) [yewtube](https://github.com/mps-youtube/yewtube)
-* (2) [youtube-dl](https://github.com/rg3/youtube-dl/blob/master/LICENSE) [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
+* (2.5) [youtube-dl](https://github.com/rg3/youtube-dl/blob/master/LICENSE) [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
+   | (2.5) [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 * (2.5) [TubiTui](https://codeberg.org/777/TubiTui) - A lightweight, libre, TUI-based YouTube client
    | (2.5) [youtube-tui](https://github.com/Siriusmart/youtube-tui)
 * (N) [youtube-viewer](https://github.com/trizen/youtube-viewer)

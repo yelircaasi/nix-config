@@ -1261,6 +1261,11 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [How Zig Helped Us | Prime Reacts - YouTube](https://www.youtube.com/watch?v=wxx5_Xaw7zU)
 * [Some Thoughts on Zig — Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
 
+## Ruby
+
+* ( ) [Sorbet Type Checker](https://sorbet.org/)
+* ( ) [tapioca](https://github.com/Shopify/tapioca)
+
 ## Miscellaneous/ Other
 
 * [Ruby Regular Expressions](https://learnbyexample.github.io/Ruby_Regexp/) (book)
@@ -1396,6 +1401,9 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [ohenley/awesome-ada: A curated list of awesome resources related to the Ada and SPARK programming language](https://github.com/ohenley/awesome-ada)
 * [Ghostscript Introduction — Ghostscript 10.01.0 documentation](https://ghostscript.readthedocs.io/en/gs10.01.2/)
 * [GitHub - Unisay/purescript-lua: Purescript compiler back-end for Lua](https://github.com/Unisay/purescript-lua)
+* [lua-in-js](https://github.com/teoxoy/lua-in-js)
+* [LuaJS](https://github.com/Doridian/LuaJS)
+
 * [Haxe vs PureScript | What are the differences?](https://stackshare.io/stackups/haxe-vs-purescript)
 * [Asking for guides of making new backends - Help - PureScript Language Forum](https://discourse.purescript.org/t/asking-for-guides-of-making-new-backends/1126)
 * [PureScript](https://www.purescript.org/)

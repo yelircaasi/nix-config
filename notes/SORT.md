@@ -1,5 +1,13 @@
 # SORT
 
+* [performance blog for developers](https://simpleprogrammer.com/)
+* [Practical System Programming for Rust Developers: Build fast and secure software for Linux/Unix systems with the help of practical examples](https://libgen.rs/book/index.php?md5=46C9B5B1BED7E89C1326087FB6224676)
+* [Effective Software Testing: A developer's guide](http://libgen.rs/book/index.php?md5=4D46EA435A8FF063AB9FBFA8C22F5328)
+* [The Software Developer's Career Handbook](http://libgen.rs/book/index.php?md5=70C84C114D9F82002E4761179E559612)
+* [The Software Developer's Guide to Linux: A practical, no-nonsense guide to using the Linux command line and utilities as a software developer](http://libgen.rs/book/index.php?md5=1069A8ECE887677C67E0408DCE7F024B)
+* [The Complete Software Developer’s Career Guide](http://libgen.rs/book/index.php?md5=F62D8836C50B6B5191AEF25C3C1161B5)
+* [programming-idioms cheatsheets](https://www.programming-idioms.org/cheatsheets)
+* [Isaac Freund's Site](https://isaacfreund.com/software/)
 * [nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls)
 * [clipse](https://github.com/savedra1/clipse) - Configurable TUI clipboard manager for Unix
 * [green space](https://github.com/rxtsel/dot/blob/hyprland/wallpapers/default.png)

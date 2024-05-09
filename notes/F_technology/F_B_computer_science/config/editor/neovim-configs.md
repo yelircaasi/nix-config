@@ -4,9 +4,11 @@
 
 ## Sort
 
+* [behansa](https://github.com/las-nish/Behansa) $$$
 * $$$ [vsedov](https://github.com/vsedov/nvim) * good python and ML setup
+* [lvim](https://github.com/lvim-tech/lvim)
 * [benlubas](https://github.com/benlubas/nix-config/blob/main/programs/neovim.nix)
-* [...](https://github.com/rufevean/nvim)
+* [rufevean](https://github.com/rufevean/nvim)
 * [nvoid.org/](https://nvoid.org/)
 * [mateiadrielrafael](https://github.com/Mateiadrielrafael/everything-nix)
 * [gaelle](https://framagit.org/vegaelle/nix-nvim)
@@ -22,13 +24,14 @@
 * [crivotz/nv-ide](https://github.com/crivotz/nv-ide)
 * [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide)
 * [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim)
-* [avegancafe](https://github.com/avegancafe/VimStudio))
+* [avegancafe](https://github.com/avegancafe/VimStudio)
 * [init.lua](https://github.com/ThePrimeagen/init.lua) theprimeagen -
-* [rebelot](https://github.com/rebelot/dotfiles))
-* [pgosar](https://github.com/pgosar/CyberNvim))
+* [rebelot](https://github.com/rebelot/dotfiles)
+* [pgosar](https://github.com/pgosar/CyberNvim)
 
 ## Nix configs
 
+* [nocxium](https://github.com/Nocxium/nvim-flake)
 * [jakehamilton](https://github.com/jakehamilton/neovim) * very thorough, current, quite advanced Nix features
 * [neovim-flake](https://github.com/gvolpe/neovim-flake)
 * [nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim)

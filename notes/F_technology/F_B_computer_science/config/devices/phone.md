@@ -1,12 +1,13 @@
 # Phone
 
+* [blisslauncher](https://f-droid.org/packages/foundation.e.blisslauncher/)
 * Next Steps
 * [ ]  Make sure online banking still works on iPhone
 * [ ]  [ ]
 * Operating Systems
 * PostmarketOS    * [postmarketos.org/download/](https://postmarketos.org/download/)
 * [wiki.postmarketos.org/wiki/QEMU_amd64_(qemu-amd64)](https://wiki.postmarketos.org/wiki/QEMU_amd64_(qemu-amd64))
-    * LineageOS        * [lineageos.org/](https://lineageos.org/)
+* [lineageos.org/](https://lineageos.org/)
 * [lineageos.org/](https://lineageos.org/)
 * [wiki.lineageos.org/devices/FP4/install](https://wiki.lineageos.org/devices/FP4/install)
 * [wiki.lineageos.org/faq](https://wiki.lineageos.org/faq)
@@ -86,7 +87,7 @@
 * [kdeconnect.kde.org/](https://kdeconnect.kde.org/)
 * [...](https://github.com/Genymobile/scrcpy)[scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device. [...](https://www.dev47apps.com/)[Droidcam](https://www.dev47apps.com/) - DroidCam turns your Android device into a wireless webcam for your PC. [...](https://github.com/sromku/adb-export)[adb-export](https://github.com/sromku/adb-export) - Export Android content providers to CSV format [...](https://github.com/dsixda/Android-Kitchen)[Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [sailfishos.org/](https://sailfishos.org/)
-* ? [...](https://rootmygalaxy.net/root-access-on-lineage-os/)[[Step By Step] How to Enable root access on Lineage Os](https://rootmygalaxy.net/root-access-on-lineage-os/)
+* ? [Step By Step: How to Enable root access on Lineage Os](https://rootmygalaxy.net/root-access-on-lineage-os/)
 * [How to Root LineageOS 20 with Magisk - YouTube](https://www.youtube.com/watch?v%3D8o5YILpoIvs)
 * [LineageOS/android_device_fairphone_FP4](https://github.com/LineageOS/android_device_fairphone_FP4)
 * [LineageOS - Wikipedia](https://en.wikipedia.org/wiki/LineageOS)
@@ -345,3 +346,4 @@
 * {phone browser} [bromite/bromite](bromite)
 * {phone sync} [librera-sync](https://github.com/jumper047/librera-sync)
 * ( ) [localsend](https://f-droid.org/packages/org.localsend.localsend_app/)
+* ( ) [blisslauncher](https://f-droid.org/packages/foundation.e.blisslauncher/)

@@ -252,14 +252,6 @@ to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipytho
 * (5) [nixify](https://github.com/kampka/nixify)
 * (2) [wget](...)
 * (2) [curl](...)
-* (1) [kanata](https://github.com/jtroo/kanata)
-   | (2.5) [kmonad](https://github.com/kmonad/kmonad)
-   | (2.5) [keyd](https://github.com/rvaiya/keyd)
-   | (2.5) [hawck](https://github.com/snyball/Hawck)
-   | (2.5) [xremap](https://github.com/k0kubun/xremap)
-   | (2.5) [ktrl](https://github.com/ItayGarin/ktrl) (?)
-* (2) [input-remapper](https://github.com/sezanzeb/input-remapper)
-* (2) [espanso](https://espanso.org/docs/get-started/)
 * (0) [nix](https://github.com/NixOS/nix)
 * (1) [home-manager](https://github.com/nix-community/home-manager)
 
@@ -375,6 +367,7 @@ to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipytho
 ## Other Command-Line Tools
 
 * (2) [vale](https://vale.sh/) - use as an LSP for prose in nvim
+* (2) [hunspell](https://github.com/hunspell/hunspell)
 * (2) [alex](https://github.com/wooorm/alex)
 * (2.5) [pick](https://github.com/mptre/pick)
    | (2.5) [choose](https://github.com/jagprog5/choose)
@@ -483,8 +476,21 @@ to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipytho
    | (2.5) [fastdiract](https://github.com/dp12/fastdiract)
    | (2) [goto](https://github.com/iridakos/goto)
    | (2) [h](https://github.com/zimbatm/h)
-* (2) [peco](https://github.com/peco/peco)
 * (2) [conan](https://github.com/mirage/conan)
+
+### Terminal Menus / Launchers
+
+* (2) [peco](https://github.com/peco/peco)
+* (5) [rrun](https://github.com/buster/rrun) (Rust)
+* (5) [Selecta](https://github.com/garybernhardt/selecta)
+* (5) [selector](http://fleuret.org/cgi-bin/gitweb/gitweb.cgi?p=selector)
+* (5) [shellex](https://github.com/Merovius/shellex)
+* (5) [slmenu](https://github.com/joshaw/slmenu)
+* (2.5) [smenu](https://github.com/p-gen/smenu)
+* (5) [percol](https://github.com/mooz/percol)
+* (2.5) [pick](https://github.com/thoughtbot/pick)
+* (R) [pmenu](https://github.com/sgtpep/pmenu) - A dynamic terminal-based menu inspired by dmenu.
+* (R) [ppick](https://github.com/alanbork/ppick)
 
 ## Viewing
 
@@ -526,6 +532,7 @@ to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipytho
 
 * (2) [pandoc](https://pandoc.org/) + (2) [pandoc extras](https://pandoc.org/extras.html) + (2) [pandoc-ext/info](https://github.com/pandoc-ext/info)
    | (5) [ebook-converter](https://github.com/gryf/ebook-converter) $$$ Commandline tool for converting between several e-books formats, based on Calibre project
+   | (2) [latexml](https://github.com/brucemiller/LaTeXML)
 * (2) [teip](https://github.com/greymd/teip)
 * (2) [grex](https://github.com/pemistahl/grex)
 * (2) [exrex](https://github.com/asciimoo/exrex)
@@ -596,7 +603,7 @@ to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipytho
    | (5) [jtc](https://github.com/ldn-softdev/jtc) RosettaProjects
 * (2) [groq-cli](https://github.com/sanity-io/groq-cli)
 * (4) [jq.node](https://github.com/FGRibreau/jq.node)
-* (2.5) [jd](https://github.com/josephburnett/jd)
+* (2) [jd](https://github.com/josephburnett/jd) - commandline utility and Go library for diffing and patching JSON and YAML values
 * (2) [jql](https://github.com/yamafaktory/jql)
 * (2) [jqp](https://github.com/noahgorstein/jqp)
 * (2) [jc](https://github.com/kellyjonbrazil/jc)
@@ -613,19 +620,20 @@ to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipytho
 
 * (2) [xpdfreader](https://www.xpdfreader.com/download.html)
 * (->)
-* (5) [pdftty](https://github.com/kpj/pdftty)
-* (2.5) [site](https://kpj.github.io/my_projects/pdftty.html)
+* (5) [pdftty](https://github.com/kpj/pdftty) [site](https://kpj.github.io/my_projects/pdftty.html)
 * (->) [stackoverflow cli pdf viewer](https://stackoverflow.com/questions/3570591/cli-pdf-viewer-for-linux)
 * (3) [K2pdfopt](https://www.willus.com/k2pdfopt)
 * (4) [sejda](https://github.com/torakiki/sejda/)
 * (2) [pboy](https://github.com/2mol/pboy) a small .pdf management tool with a command-line UI - in Haskell!
 * (2) [PyPDFCompare PDF Comparison CLI Tool](https://www.reddit.com/r/Python/s/s77FRjUraQ) - actively developd; good chance to contribute!
+* (2) [pdf-diff](https://github.com/serhack/pdf-diff) - A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf. (requires poppler-utils)
 
 #### YAML
 
 * (2) [yq](https://github.com/mikefarah/yq)
 * (2) [dyff](https://github.com/homeport/dyff)
 * (2) [yamllint](https://github.com/adrienverge/yamllint)
+* -> see jd
 
 #### TOML
 
@@ -681,6 +689,10 @@ to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipytho
 * (2) [yamlpath](https://github.com/wwkimball/yamlpath)
 * (6) [gitbook](https://blog.gitbook.com/product-updates/gitbook-3.0-document-everything-from-start-to-ship)
 * (2) [html2svg](https://github.com/fathyb/html2svg)
+
+## Fake Data Generation
+
+* (2) [gofakeit](https://github.com/brianvoe/gofakeit) + [fake-cli](https://pkg.go.dev/github.com/paqstd-team/fake-cli)
 
 ## Coding Utils
 
@@ -1039,18 +1051,27 @@ to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipytho
 ### Fetch
 
 * (2.5) [fet.sh](https://github.com/eepykate/fet.sh)
-* (2.5) [13-CF/afetch](https://github.com/13-CF/afetch)
-* (2.5) [balena-io/balena-cli](https://github.com/balena-io/balena-cli)
-* (2.5) [bunnyfetch](https://github.com/Rosettea/bunnyfetch)
-* (2.5) [fetch.scm](https://github.com/KikyTokamuro/fetch.scm)
-* (2.5) [git-ignore](https://github.com/sondr3/git-ignore)
-* (2.5) [blog.thms.uk/fedifetcher](https://blog.thms.uk/fedifetcher)
-* (2.5) [nitch](https://github.com/ssleert/nitch)
-* (2.5) [yafetch](https://github.com/kira64xyz/yafetch)
-* (2.5) [nitch](https://github.com/ssleert/nitch) incredibly fast system fetch written in nim
-* (2.5) [onefetch](https://github.com/o2sh/onefetch)
-* (2.5) [Terminal color scheme fetching program called colorfetch. : r/shell](https://www.reddit.com/r/shell/comments/nn1kqn/terminal_color_scheme_fetching_program_called/)
-* (2.5) [Reddit - [OC] I rewrote pfetch in Rust](https://www.reddit.com/r/unixporn/comments/113tw9u/oc_i_rewrote_pfetch_in_rust/)
+   | (2.5) [afetch](https://github.com/13-CF/afetch)
+   | (2.5) [balena-io/balena-cli](https://github.com/balena-io/balena-cli)
+   | (2.5) [bunnyfetch](https://github.com/Rosettea/bunnyfetch)
+   | (2.5) [fetch.scm](https://github.com/KikyTokamuro/fetch.scm)
+   | (2.5) [git-ignore](https://github.com/sondr3/git-ignore)
+   | (2.5) [blog.thms.uk/fedifetcher](https://blog.thms.uk/fedifetcher)
+   | (2.5) [nitch](https://github.com/ssleert/nitch) - written in Nim!
+   | (2.5) [yafetch](https://github.com/kira64xyz/yafetch)
+   | (2.5) [nitch](https://github.com/ssleert/nitch) incredibly fast system fetch written in nim
+   | (2.5) [onefetch](https://github.com/o2sh/onefetch)
+   | (2.5) [Terminal color scheme fetching program called colorfetch. : r/shell](https://www.reddit.com/r/shell/comments/nn1kqn/terminal_color_scheme_fetching_program_called/)
+   | (2.5) [Reddit - [OC] I rewrote pfetch in Rust](https://www.reddit.com/r/unixporn/comments/113tw9u/oc_i_rewrote_pfetch_in_rust/)
+   | (2)   [macchina](https://github.com/Macchina-CLI/macchina)
+   | (2.5) [bfetch](https://github.com/nnbnh/bfetch)
+   | (2.5) [nerdfetch](https://codeberg.org/thatonecalculator/nerdfetch)
+   | (2.5) [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+   | (2.5) [sfetch](https://codeberg.org/DoutorJP/sfetch)
+   | (2.5) [archey4](https://github.com/HorlogeSkynet/archey4)
+   | (2.5) [neofetch](https://github.com/dylanaraps/neofetch)
+   | (2.5) [pfetch](https://github.com/dylanaraps/pfetch)
+* (2) [diyfetch](https://github.com/info-mono/diyfetch)
 
 ### Tree
 

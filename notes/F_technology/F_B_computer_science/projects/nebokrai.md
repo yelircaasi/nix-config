@@ -1,5 +1,5 @@
 # Nebokrai
-* (2) [PingMe](https://github.com/kha7iq/pingme) - Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat and others.
+
 ## Design and Development Notes
 
 * use the concept of satisfiability -> [libsolv](https://github.com/openSUSE/libsolv)
@@ -897,7 +897,7 @@ Scheduler
 
 ## Potential Software Dependencies/ Integrations
 
-* (1) brick, optparse-applicative, refined, aeson, aeson-schema
+* (1) brick, optparse-applicative, refined, aeson, aeson-schema -> (2) [quicktype](https://github.com/glideapps/quicktype) $$$$$$$$$ [site](https://app.quicktype.io/) for aeson
 * (1) [nikita-volkov.github.io/refined/](https://nikita-volkov.github.io/refined/)
 * (2) [srid/emanote](https://github.com/srid/emanote) $$$
 * (3) inthe.am
@@ -966,6 +966,10 @@ Scheduler
 * ( ) [Planner](https://useplanner.com/) - Planner keeps track of all your tasks, projects, and goals in one beautifully simple place. → borrow interface ideas?
 * ( ) [Todo.txt](http://todotxt.com/) - Todo.txt is a set of focused editors which help you manage your tasks with as few keystrokes and taps possible.
 * ( ) [manyids2/taskwar.nvim](https://github.com/manyids2/taskwar.nvim)
+
+#### Luxury
+
+* (5) [todowalp](https://github.com/linuxdotexe/todowalp) $$$$$$$$$
 
 #### Xit
 
@@ -1334,6 +1338,8 @@ Scheduler
 
 ### Mobile Connection, Sync
 
+* (2) [PingMe](https://github.com/kha7iq/pingme) - Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat and others.
+* (2) [Pushbullet](https://www.pushbullet.com/)
 * ( ) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
 * ( ) [wireapp/lithium](https://github.com/wireapp/lithium)  [wire.com/en](https://wire.com/en)
 * ( ) [d-k-bo/gotify-rs](https://github.com/d-k-bo/gotify-rs)
@@ -1643,7 +1649,7 @@ Scheduler
 #### Habit Trackers
 
 * (5) [dijo](https://github.com/nerdypepper/dijo) - scriptable curses-bases habit tracker in Rust [current repo](https://git.peppe.rs/cli/dijo/) $$$$$$$$$
-* ( ) [schmee/habu](https://github.com/schmee/habu) - A TUI habit tracker 
+* ( ) [schmee/habu](https://github.com/schmee/habu) - A TUI habit tracker
 * ( ) [habu](https://github.com/wakatara/harsh) - 🐨 Habu it's a minimalistic startpage made with the essence of neovim dashboard with the catppuccin mocha palette. Fully customizable and easy to setup.
 * (5) [uhabits](https://github.com/iSoron/uhabits) -> borrow ideas and elements for Nebokrai / fork and adapt / integrate
 * ( ) [habitmap](https://github.com/shuu-wasseo/habitmap) - A command-line app to track your habits and visualise how committed you are to making or maintaining them with colorful heatmaps.

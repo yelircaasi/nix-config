@@ -32,13 +32,12 @@
 #### Keyboard-Navigable Hackable GUI Browser
 
 * (5) [Tin Browser](https://github.com/Wervice/Codelink/blob/main/tin/tin.md)
-* (1) [nyxt](...)
+* (1) [nyxt](https://nyxt.atlas.engineer/)
 * (1) [qutebrowser](https://github.com/qutebrowser/qutebrowser)
-* (2) [luakit](...) + [duane-r/luakit-styles](https://github.com/duane-r/luakit-styles) * ( ) [luakit/commits/develop](https://github.com/luakit/luakit/commits/develop/)
-      ( ) [Luakit Web Browser](https://luakit.github.io/#sec-download) [Luakit Web Browser](https://luakit.github.io/) [luakit/luakit: Fast, small, webkit based browser framework extensible by Lua.](https://github.com/luakit/luakit)
+* (2) [luakit](https://luakit.github.io/) + [duane-r/luakit-styles](https://github.com/duane-r/luakit-styles) * ( ) [luakit/commits/develop](https://github.com/luakit/luakit/commits/develop/) [Luakit Web Browser](https://luakit.github.io/#sec-download) [Luakit Web Browser](https://luakit.github.io/) [luakit/luakit: Fast, small, webkit based browser framework extensible by Lua.](https://github.com/luakit/luakit)
 * (4,5) [Vimb - A Minimal Browser with Vim like Bindings - YouTube](https://www.youtube.com/watch?v=26xWK35pinA)
    | (5) [wyeb | a vim-like webkit2gtk web browser](https://wyeb.org/)
-* (4) [vieb](...)
+* (4) [vieb](https://vieb.dev/)
 
 #### Mainstream-Style Browser
 
@@ -102,17 +101,12 @@
 
 #### Startpage, Launcher
 
-* ( ) [Heimdall](https://github.com/linuxserver/Heimdall)
-* ( ) [Axenide/StartPage](https://github.com/Axenide/StartPage)
-* ( ) [BachoSeven/startpage](https://github.com/BachoSeven/startpage)
-* ( ) [prism](https://github.com/PROxZIMA/prism) A beautiful, minimalist, static startpage
-* ( ) [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page)
-* ( ) [habu](https://github.com/kaloslazo/Habu)
-
-#### Firefox Hardening
-
-* (2) [yokoffing/Betterfox: Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.](https://github.com/yokoffing/Betterfox)
-* (2) [arkenfox](https://github.com/arkenfox/user.js/) -> [gui](https://arkenfox.github.io/gui/)
+* (2.5) [Heimdall](https://github.com/linuxserver/Heimdall)
+   | (2.5) [Axenide/StartPage](https://github.com/Axenide/StartPage)
+   | (2.5) [BachoSeven/startpage](https://github.com/BachoSeven/startpage)
+   | (2.5) [prism](https://github.com/PROxZIMA/prism) A beautiful, minimalist, static startpage
+   | (2.5) [excalith-start-page](https://github.com/excalith/excalith-start-page)
+   | (2.5) [habu](https://github.com/kaloslazo/Habu)
 
 #### Firefox Ricing
 
@@ -142,23 +136,31 @@
 
 ##### Userscript Managers and Hosts
 
-* ( ) [firemonkey](https://addons.mozilla.org/en-CA/firefox/addon/firemonkey/) [guide](https://www.ilovefreesoftware.com/11/windows/internet/plugins/how-to-use-userscripts-userstyles-firemonkey-firefox.html), [review](https://www.ghacks.net/2019/09/10/firemonkey-uses-firefoxs-official-api-for-userscripts-and-userstyles/)
-* ( ) [violentmonkey](https://violentmonkey.github.io/), [code here](https://github.com/violentmonkey/violentmonkey)
-* ( ) [greasemonkey CSS](https://superuser.com/questions/1337469/grasemonkey-change-design-css) - [documentation here](https://wiki.greasespot.net/Main_Page), [code here](https://github.com/greasemonkey/greasemonkey)
-* ( ) [tampermonkey](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/), [fcc article](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/#how-to-install-tampermonkey)
-* ( ) [tampermonkey](https://www.tampermonkey.net/) - proprietary license
-* ( ) [greasyfork](https://greasyfork.org/en)
+* (6) [firemonkey](https://addons.mozilla.org/en-CA/firefox/addon/firemonkey/) [guide](https://www.ilovefreesoftware.com/11/windows/internet/plugins/how-to-use-userscripts-userstyles-firemonkey-firefox.html), [review](https://www.ghacks.net/2019/09/10/firemonkey-uses-firefoxs-official-api-for-userscripts-and-userstyles/)
+* (2.5) [greasemonkey](https://github.com/greasemonkey/greasemonkey)
+   | (2.5) [violentmonkey](https://violentmonkey.github.io/), [code here](https://github.com/violentmonkey/violentmonkey)
+* (R) [greasemonkey CSS](https://superuser.com/questions/1337469/grasemonkey-change-design-css) - [documentation here](https://wiki.greasespot.net/Main_Page), [code here](https://github.com/greasemonkey/greasemonkey)
+* (6) [tampermonkey](https://www.tampermonkey.net/) - proprietary license - [fcc article](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/#how-to-install-tampermonkey)
+* (2) [greasyfork](https://greasyfork.org/en)
+
+##### Userstyle Collections / CSS for Some Site
+
+* (2) [deepdark](https://gitlab.com/RaitaroH/Import-All-Deepdark)
+* (2) [dt](https://gitlab.com/dwt1/dotfiles/-/tree/master/.config/qutebrowser/solarized-everything-css)
+* (2) [solarized-everything](https://github.com/yelircaasi/solarized-everything-css)
+* (2) [midnight-lizard](https://github.com/Midnight-Lizard/Midnight-Lizard/tree/master/css)
+* (2) [gingeh](https://github.com/Gingeh/lastfm)
 
 #### Rice FF
 
-* ( ) [reddit](https://www.reddit.com/r/unixporn/s/mvA6EhXF0t)
-* ( ) [...](https://www.reddit.com/r/NixOS/s/bytkKR3Tvq)
-* ( ) [Make Firefox great again](https://www.youtube.com/watch?v%3DdwZpjKH8nbo)
+* (R) [...](https://www.reddit.com/r/NixOS/s/bytkKR3Tvq)
+* (R) [Make Firefox great again](https://www.youtube.com/watch?v%3DdwZpjKH8nbo)
 
-##### user.js
+#### Firefox Hardening
 
-* ( ) [user.js/desktop at main - user.js - Codeberg.org](https://codeberg.org/Narsil/user.js/src/branch/main/desktop)
-* ( ) [arkenfox/user.js: Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening](https://github.com/arkenfox/user.js)
+* (2) [user.js/desktop at main - user.js - Codeberg.org](https://codeberg.org/Narsil/user.js/src/branch/main/desktop)
+* (2) [yokoffing/Betterfox: Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.](https://github.com/yokoffing/Betterfox)
+* (2) [arkenfox](https://github.com/arkenfox/user.js/) -> [gui](https://arkenfox.github.io/gui/)
 
 ##### Firefox Themes
 
@@ -192,6 +194,16 @@
 * (2.5) [sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
 * (2.5) [v2-Tabs](https://github.com/soulhotel/v2-Tabs-alpha-/tree/main)
 * (2.5) [waveFox](https://github.com/QNetITQ/WaveFox)
+* (2.5) [mgastonportillo/gale-for-ff](https://github.com/mgastonportillo/gale-for-ff) (using [sidebery/](https://github.com/mbnuqw/sidebery/))
+
+-> Extensions to borrow from:
+
+* (5) [treestyletab](https://github.com/piroor/treestyletab)
+* (6) [RaitaroH/YouTube-DeepDark: Videos should only be watched in the dark. May the dark be kinder on thine eyes. (YouTube dark theme)](https://github.com/RaitaroH/YouTube-DeepDark)
+* (5) [paxmod](https://github.com/numirias/paxmod)
+* (5) [web-extension-color-changer](https://github.com/rokit/web-extension-color-changer) [chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp](https://chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp)
+* (5) [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard)
+* (5) [Change-Colors](https://github.com/srndpty/Change-Colors)
 
 ##### Floorp Themes
 
@@ -199,10 +211,6 @@
 * (2.5) [lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
 * (2.5) [news.itsfoss.com/floorp-firefox/](https://news.itsfoss.com/floorp-firefox/)
 * (2.5) [r/browsers/s/L0sHFRb1RU](https://www.reddit.com/r/browsers/s/L0sHFRb1RU) floorp
-
-#### Other CSS
-
-* ( ) [gingeh](https://github.com/Gingeh/lastfm)
 
 ### TUI Browser
 
@@ -227,7 +235,6 @@
 
 ### Gemini and Other Non-Web Protocols -> see [ths guide](https://geminiquickst.art/)
 
-* ( ) [gemini-rust](https://github.com/redpenguinyt/gemini-rust)
 * (4) [Bombadillo](https://tildegit.org/sloum/Bombadillo)- A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher.
 * (4) [min](https://github.com/a-h/min) - A Gemini browser with Vim style keyboard navigation, client certificate support and history and bookmarks saved in TSV files.
 * (4) [asuka](https://git.sr.ht/~julienxx/asuka) - A Gemini Project client written in Rust with NCurses.
@@ -239,27 +246,29 @@
 
 ### Browser-Related Tools
 
-* ( ) [Browserling – Online cross-browser testing](https://www.browserling.com/)
-* ( ) [quickstrom](https://github.com/quickstrom/quickstrom/tree/main)
+* (4.5) [Browserling – Online cross-browser testing](https://www.browserling.com/)
+* (2) [quickstrom](https://github.com/quickstrom/quickstrom/tree/main)
+* (R) [todomvc showdown](https://wickstrom.tech/2020-07-02-the-todomvc-showdown-testing-with-webcheck.html)
 
 #### Bookmarks
 
-* ( ) [jonschoning/espial: Espial is an open-source, web-based bookmarking server.](https://github.com/jonschoning/espial)
-* ( ) [buku](https://github.com/jarun/buku) - A powerful bookmark manager written in Python3 and SQLite3.
+* (2) [bookmarkletify](https://bookmarkify.it/)
+* (2) [jonschoning/espial: Espial is an open-source, web-based bookmarking server.](https://github.com/jonschoning/espial) - Haskell!
+* (2) [buku](https://github.com/jarun/buku) - A powerful bookmark manager written in Python3 and SQLite3. + [bukuserver](https://github.com/jarun/buku/tree/master/bukuserver#readme)
 * (5) [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers. → make for qb?
 
 ## Browser Extensions
 
-* ( ) [gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.](https://github.com/gorhill/uBlock)
-* ( ) [keyx](https://github.com/susumuota/nostr-keyx)
-* ( ) [no-venv/modded-darkreader](https://github.com/no-venv/modded-darkreader)
-* ( ) [mozzarella](https://gnuzilla.gnu.org/mozzarella/)
-* ( ) [bug: chromium.extensions don't work for brave or ungoogled-chromium · Issue #2216 · nix-community/home-manager](https://github.com/nix-community/home-manager/issues/2216%23issuecomment-917507881)
+* (2) [gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.](https://github.com/gorhill/uBlock)
+* (5) [keyx](https://github.com/susumuota/nostr-keyx)
+* (5) [no-venv/modded-darkreader](https://github.com/no-venv/modded-darkreader)
+* (2) [mozzarella](https://gnuzilla.gnu.org/mozzarella/)
+* (R) [bug: chromium.extensions don't work for brave or ungoogled-chromium · Issue #2216 · nix-community/home-manager](https://github.com/nix-community/home-manager/issues/2216%23issuecomment-917507881)
 * → GNU List: [gnuzilla.gnu.org/mozzarella/](https://gnuzilla.gnu.org/mozzarella/)
-* ( ) [adnauseam.io/](https://adnauseam.io/)
-* ( ) [kas-elvirov/gloc: :calendar: Browser extension: counts lines of code on GitHub](https://github.com/kas-elvirov/gloc)
-* ( ) [Tile Tabs WE :: Add-ons for Firefox](https://web.archive.org/web/20170821233327/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs-we/)
-* ( ) [ff command line](https://addons.mozilla.org/en-US/firefox/addon/quick-commands/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+* (6) [adnauseam.io/](https://adnauseam.io/) - read [Engineering Privacy and Protest: a Case Study of AdNauseam](https://ceur-ws.org/Vol-1873/IWPE17_paper_23.pdf)
+* (2) [kas-elvirov/gloc: :calendar: Browser extension: counts lines of code on GitHub](https://github.com/kas-elvirov/gloc)
+* (6) [Tile Tabs WE :: Add-ons for Firefox](https://web.archive.org/web/20170821233327/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs-we/)
+* (5) [ff command line](https://addons.mozilla.org/en-US/firefox/addon/quick-commands/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 ### Extension Theory
 
@@ -271,74 +280,73 @@
 
 ### webkit extensions
 
-* ( ) [wyebadblock](https://github.com/jun7/wyebadblock)
+* (2) [wyebadblock](https://github.com/jun7/wyebadblock)
 
 ### Vim-Style / Keyboard Navigation
 
-* ( ) [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys)
-* ( ) [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf)
-* ( ) [neoevolutions.com/post/how-to-use-surfingkeys-less-mice-more-efficient-web-browsing-with-vi-style-shortcuts](https://www.neoevolutions.com/post/how-to-use-surfingkeys-less-mice-more-efficient-web-browsing-with-vi-style-shortcuts)
-* ( ) Chrome/Chromium addons:
-* ( ) [Vimium](https://vimium.github.io/)
-* ( ) Firefox addons (based on WebExtensions):
-* ( ) [Tridactyl](https://tridactyl.xyz/),
-* ( ) [Vimium-FF](https://addons.mozilla.org/en-GB/firefox/addon/vimium-ff/)
-* ( ) Addons for Firefox and Chrome:
-* ( ) [Surfingkeys](https://github.com/brookhong/Surfingkeys),
-* ( ) [Link Hints](https://lydell.github.io/LinkHints/) (hinting only),
-* ( ) [Vimmatic](https://github.com/ueokande/vimmatic)
-* ( ) [sheetkeys](https://github.com/philc/sheetkeys)
-* ( ) best Vim extension? -> allow to still Ctrl + F
-* ( ) [vimium](https://vimium.github.io/)
-* ( ) [brookhong/Surfingkeys: Map your keys for web surfing, expand your browser with javascript and keyboard.](https://github.com/brookhong/Surfingkeys)
-* ( ) [wasavi](https://chrome.google.com/webstore/detail/wasavi/dgogifpkoilgiofhhhodbodcfgomelhe)
-* ( ) [Reddit - How Use firefox without mouse?](https://www.reddit.com/r/firefox/comments/l1d69d/how_use_firefox_without_mouse/)
-* ( ) [(2) What is the best browser + plugin for vim navigation while browsing sites? : vim](https://www.reddit.com/r/vim/comments/o5xsu2/what_is_the_best_browser_plugin_for_vim/)
-* ( ) [vimium-c](https://addons.mozilla.org/en-US/firefox/addon/vimium-c/)
-* ( ) [vimium-ff](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
-* ( ) [->](https://www.google.com/search?client=firefox-b-m&sxsrf=AJOqlzW96kwIy8oB7xeBTSBuV6u0Mm33Jw%3A1675729858394&q=navigate+google+chrome+without+a+mouse+vim&oq=navigate+google+chrome+without+a+mouse+vim&aqs=heirloom-srp)
-* ( ) [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl)
+#### Chrome/Chromium addons
+
+* (2.5) [firenvim](https://github.com/glacambre/firenvim)
+* (2.5) [wasavi](https://chrome.google.com/webstore/detail/wasavi/dgogifpkoilgiofhhhodbodcfgomelhe))
+
+#### Firefox addons (based on WebExtensions)
+
+* (2.5) [tridactyl](https://tridactyl.xyz/) [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl)
+* (2.5) [VimFX](https://github.com/akhodakivskiy/VimFx)
+
+#### Addons for Firefox and Chromium
+
+* (2.5) [vimium](https://vimium.github.io/)
+* (2.5) [vimium-c](https://github.com/gdh1995/vimium-c)
+* (2)   [Surfingkeys](https://github.com/brookhong/Surfingkeys) $$$$$$$$$ + (2) [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) -> (R)) [how-to-use-surfingkeys](https://www.neoevolutions.com/post/how-to-use-surfingkeys-less-mice-more-efficient-web-browsing-with-vi-style-shortcuts) -> * ( ) [Surfingkeys vim editor](https://github.com/brookhong/Surfingkeys#vim-editor-and-emacs-editor) (apparently based on [ace](https://ace.c9.io/))
+* (2.5) [Link Hints](https://lydell.github.io/LinkHints/) (hinting only)
+* (2.5) [Vimmatic](https://github.com/ueokande/vimmatic)
+
+#### Addons for Specific Sites
+
+* (2) [sheetkeys](https://github.com/philc/sheetkeys)
+
+#### SORT
+
+* (R) best Vim extension? -> allow to still Ctrl + F
+* (R) [Reddit - How Use firefox without mouse?](https://www.reddit.com/r/firefox/comments/l1d69d/how_use_firefox_without_mouse/)
+* (R) [(2) What is the best browser + plugin for vim navigation while browsing sites? : vim](https://www.reddit.com/r/vim/comments/o5xsu2/what_is_the_best_browser_plugin_for_vim/)
+* (R) [->](https://www.google.com/search?client=firefox-b-m&sxsrf=AJOqlzW96kwIy8oB7xeBTSBuV6u0Mm33Jw%3A1675729858394&q=navigate+google+chrome+without+a+mouse+vim&oq=navigate+google+chrome+without+a+mouse+vim&aqs=heirloom-srp)
 
 ### Adblocking
 
-* ( ) uBlock Origin
-* ( ) Ghostery – Privacy Ad Blocker
-* ( ) uBlock Origin → port to origin
-* ( ) Enhancer for YouTube™ → port to indie browsers
+* (2) uBlock Origin - add I don't care about cookies and No Coin filter lists
+* (6) Ghostery – Privacy Ad Blocker
+* (N) [Enhancer for YouTube](https://github.com/YouTube-Enhancer/extension)
 
 ### Privacy
 
-* ( ) Decentraleyes
+* (2) [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)
 
 ### Languages
 
-* ( ) Zhongwen Chinese Popup Dictionary
-* ( ) Inkah
-* ( ) Simple Translate
-* ( ) To Google Translate
-* ( ) ImTranslator: Translator, Dictionary, TTS
+* (2) Zhongwen Chinese Popup Dictionary
+* (2) Inkah
+* (2) Simple Translate
+* (2) To Google Translate
+* (2) ImTranslator: Translator, Dictionary, TTS
 
 ### Bookmarks Extensions
 
-* ( ) Default Bookmark Folder
-* ( ) [Bookmark Search - Chrome Web Store](https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk)
-* ( ) [Fannon/search-bookmarks-history-and-tabs: Browser extension to search and navigate browser tabs, local bookmarks and history.](https://github.com/Fannon/search-bookmarks-history-and-tabs#readme)
-* ( ) [Better than Bookmarks](https://www.gettoby.com/)
+* (4) Default Bookmark Folder
+* (4) [Fannon/search-bookmarks-history-and-tabs: Browser extension to search and navigate browser tabs, local bookmarks and history.](https://github.com/Fannon/search-bookmarks-history-and-tabs#readme)
+* (T) [Better than Bookmarks](https://www.gettoby.com/)
+
+### Webpage Saving
+
+* (2.5) [wallabag](https://github.com/wallabag/wallabag)
+   | (2.5) [pocket](https://getpocket.com)
 
 ### Reader
 
-* ( ) [darkreader](https://github.com/darkreader/darkreader) -
-* (2) [simplyread](https://njw.name/simplyread/)
-
-### Appearance
-
-* ( ) [treestyletab](https://github.com/piroor/treestyletab)
-* ( ) [RaitaroH/YouTube-DeepDark: Videos should only be watched in the dark. May the dark be kinder on thine eyes. (YouTube dark theme)](https://github.com/RaitaroH/YouTube-DeepDark)
-* ( ) [paxmod](https://github.com/numirias/paxmod)
-* ( ) [sidebery/](https://github.com/mbnuqw/sidebery/) → [mgastonportillo/gale-for-ff](https://github.com/mgastonportillo/gale-for-ff)
-* ( ) [web-extension-color-changer](https://github.com/rokit/web-extension-color-changer) [chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp](https://chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp)
-* ( ) [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard)
-* ( ) [Change-Colors](https://github.com/srndpty/Change-Colors)
+* (5) [columnate](https://github.com/anoved/Columnate) $$$
+* (6) [darkreader](https://github.com/darkreader/darkreader) -
+* (6) [simplyread](https://njw.name/simplyread/)
 
 ### Miscellaneous
 
@@ -348,7 +356,6 @@
 
 -> [InBrowser.App](https://inbrowser.app/)
 
-* ( ) [Podcast Index](https://podcastindex.org/)
 * ( ) [strangeloopcanon.com/](https://www.strangeloopcanon.com/)
 * ( ) [directory.fsf.org/wiki/Main_Page](https://directory.fsf.org/wiki/Main_Page)
 * ( ) [tweag.io/blog/](https://www.tweag.io/blog/)
@@ -375,11 +382,9 @@
 * ( ) [figlet](http://www.figlet.org/)
 * ( ) [githubwrapped](https://www.githubwrapped.io/)
 * ( ) [overapi](https://overapi.com/)
-* ( ) [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 * ( ) [webshell](https://github.com/nasan016/webshell)
 * ( ) [wbo](https://wbo.ophir.dev/) $$$
 * (2) [Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension) [site](https://medium-parser-ext.vercel.app/) $$$
-* ( ) [mathcha.io/](https://www.mathcha.io/)
 * How does mirroring between git servers work?
 * ( ) [puter.com/app/terminal](https://puter.com/app/terminal) [puter](https://github.com/HeyPuter)
 * ( ) [yacy.de/](https://yacy.de/)
@@ -388,13 +393,30 @@
 * ( ) [Open-Source Application Development :: add0n.com](https://add0n.com/index.html)
 * ( ) [webextension.org/](https://webextension.org/)
 * ( ) [farside](https://farside.link/)
-* ( ) [strato.de](ghttp://strato.de) V-Server Linux
+* ( ) [strato.de](http://strato.de) V-Server Linux
 * ( ) [1337x.to/](https://1337x.to/) torrent search
+
+### Directories, Collections
+
+* (2) [Podcast Index](https://podcastindex.org/)
+
+### Editing
+
+* (2) [mathcha.io/](https://www.mathcha.io/)
+
+### Locally-Hosted / In-Browser Webapps
+
+* (2) [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+* ( ) [gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger)
+
+### Self-Hosted
+
+* ( ) [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely.
 
 ### Coding Reference
 
-* ( ) [Welcome to Dan’s Cheat Sheets’s documentation! — Dan's Cheat Sheets 1 documentation](https://cheat.readthedocs.io/en/latest/index.html)
-* ( ) [devhints.io/](https://devhints.io/)
+* (2) [Welcome to Dan’s Cheat Sheets’s documentation! — Dan's Cheat Sheets 1 documentation](https://cheat.readthedocs.io/en/latest/index.html)
+* (2) [devhints.io/](https://devhints.io/)
 
 ### Web Drive
 
@@ -409,7 +431,7 @@
 
 ### Security
 
-* ( ) [digital-defense](https://digital-defense.io/)
+* (2) [digital-defense](https://digital-defense.io/) $$$$$$$$$
 
 ### Misc Web
 
@@ -421,7 +443,6 @@
 * ( ) [firenvim](https://github.com/glacambre/firenvim)
 * ( ) [vim.js](https://wang-lu.com/vim.js/emterpreter/vim.html)
 * ( ) [wasavi](https://github.com/akahuku/wasavi)
-* ( ) [Surfingkeys vim editor](https://github.com/brookhong/Surfingkeys#vim-editor-and-emacs-editor) (apparently based on [ace](https://ace.c9.io/))
 * ( ) [vim.wasm](https://github.com/rhysd/vim.wasm)
 * ( ) [Codemirror vim bindings](https://codemirror.net/demo/vim.html)
 * ( ) [lite-websites](https://github.com/p3nguin-kun/lite-websites)
@@ -466,22 +487,21 @@
 
 ### Media
 
-* ( ) [Invidious](https://invidious.io/)
-* ( ) [artemislena](https://yt.artemislena.eu/)
-* ( ) [tube.cadence.mode](https://tube.cadence.moe/)
-* ( ) [PeerTube](https://framagit.org/chocobozzz/PeerTube)
-* ( ) [Mediagoblin](http://mediagoblin.org/)
-* ( ) [tubo](https://migalmoreno.com/projects/tubo.html)
-* ( ) [piped.video](https://piped.video/trending)
-* ( ) [libre.fm](https://libre.fm/)
 * ( ) [annas-archive](https://annas-archive.org/)
-* ( ) [invidious](https://github.com/iv-org/invidious)
-* ( ) [rumble.com](https://rumble.com/)
-* ( ) [Odysee](https://odysee.com/)
-* ( ) [redlib instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)
-* ( ) [status site](https://stats.uptimerobot.com/mpmqAs1G2Q)
-* ( ) [nitter instances](https://github.com/zedeus/nitter/wiki/Instances)
+* ( ) [artemislena](https://yt.artemislena.eu/)
 * ( ) [imginn](https://imginn.com/)
+* (2) [invidious](https://github.com/iv-org/invidious) [Invidious](https://invidious.io/)
+* ( ) [libre.fm](https://libre.fm/)
+* ( ) [Mediagoblin](http://mediagoblin.org/)
+* ( ) [nitter instances](https://github.com/zedeus/nitter/wiki/Instances)
+* (2) [Odysee](https://odysee.com/)
+* (2) [PeerTube](https://framagit.org/chocobozzz/PeerTube)
+* ( ) [piped.video](https://piped.video/trending)
+* ( ) [redlib instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)
+* ( ) [rumble.com](https://rumble.com/)
+* ( ) [status site](https://stats.uptimerobot.com/mpmqAs1G2Q)
+* (2) [tube.cadence.mode](https://tube.cadence.moe/)
+* (2) [tubo](https://migalmoreno.com/projects/tubo.html)
 
 ### Search
 
@@ -490,7 +510,7 @@
 * ( ) [Startpage](https://www.startpage.com/)
 * ( ) [Swisscows](https://swisscows.com/en)
 * ( ) [Mojeek](https://www.mojeek.com/)
-* ( ) [searX](https://searx.info/)
+* (2) [searX](https://searx.info/)
 * ( ) [Peekier](https://peekier.com/)
 * ( ) [Ecosia](https://www.ecosia.org/)
 * ( ) [Brave Search](https://search.brave.com/)
@@ -501,7 +521,7 @@
 * (2) [s](https://github.com/zquestz/s) - Web search from the terminal. Just opens in your browser.
 * (2) [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python. Search and browse stack overflow without leaving the terminal
 * (4) [arch-wiki](https://github.com/deadhead420/arch-wiki) - Search the Arch Wiki anywhere from the command line.
-* (2.5.5.5.5.5) [awesome-cli](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+* (2.5) [awesome-cli](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
    | (2.5) [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists from the command line.
 * (2) [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
 * (2) [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
@@ -517,9 +537,7 @@
 
 ### Misc
 
-* ( ) [gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger)
-* ( ) [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely.
-* ( ) [Weblate](https://weblate.org/) - Translation management system with version control integration.
+* (2) [Weblate](https://weblate.org/) - Translation management system with version control integration.
 * ( ) [wordmark](https://wordmark.it/) - web tool (Chrome) for font recognition on device
 * ( ) [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)  (also works locally offline)
 * ( ) [convertall.js](http://convertall-js.bellz.org/)
@@ -564,11 +582,11 @@
 * ( ) [kitten/kittens.small-web.org: Kitten distribution management place. Handles uploads and downloads of Kitten distributions. - kittens.small-web.org - Codeberg.org](https://codeberg.org/kitten/kittens.small-web.org)
 * ( ) [kuto](https://ithub.com/samthor/kuto) Faster updates for big JS projects
 * ( ) [ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building dynamic HTML pages in pure Python.
+* (2.5) [qwik](https://qwik.dev/)
 * ( ) [network_inventory](https://github.com/Nebucatnetzer/network_inventory) - solution for keeping an inventory over my various servers and other network equipment.
 * ( ) [prismjs](https://prismjs.com/)
 * ( ) [QuickJS Javascript Engine](https://bellard.org/quickjs/)
 * ( ) [simple-http-server](https://github.com/TheWaWaR/simple-http-server)
-* ( ) [Static Site Generator | Nikola](https://getnikola.com/)
 * ( ) [toast](https://ui.toast.com/) web UI components
 * ( ) [What it’s like to run HTMX in Production - Stories from Experienced Software Engineers](https://www.youtube.com/watch?v=Ec_ovkHHuZ8)
 * ( ) [winterjs](https://www.heise.de/news/JavaScript-Server-in-Rust-WinterJS-is-Coming-9653110.html)
@@ -577,6 +595,10 @@
 * ( ) [slimerjs](https://slimerjs.org/)
 * ( ) [html-first.com/](https://html-first.com/)
 * ( ) [caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Search [caniuse.com](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/caniuse.com) about browser support of features.
+
+### Static Site Generators
+
+* (2.5) [Static Site Generator | Nikola](https://getnikola.com/)
 
 ## Web and Networking Tools
 
@@ -651,7 +673,6 @@
 
 ##### Miscellaneous Adblocking, Security, Privacy Tools
 
-* (2) [user.js/](https://github.com/arkenfox/user.js/)
 * (3) [i2pd](https://github.com/PurpleI2P/i2pd) - I2P daemon written in C++.
 * (2) [noiszy](https://noiszy.com/#how-it-works)
 
@@ -754,21 +775,20 @@
 -> see youtube
 
 * (2) [suckit](https://github.com/skallwar/suckit)
-* ( ) [Coursaros](https://github.com/SpyridonLaz/Coursaros) -  [Download videos and subtitles from edx to your computer easily.](https://github.com/SpyridonLaz/Coursaros)
-* ( ) [aria2](https://aria2.github.io/)
-* ( ) [scrapeghost/](https://github.com/jamesturk/scrapeghost/) - extend with other LLMs
-* ( ) [aria2](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
-* ( ) [httrack.com/](https://www.httrack.com/)
-* ( ) [clauneck](https://github.com/serpapi/clauneck)
-* ( ) [cli](https://github.com/httpie/cli) - [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
-* ( ) [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from pixiv, exhentai, danbooru and more.
-* ( ) [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
-* ( ) [ImageScraper](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
-* ( ) [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler: crawls web pages and prints any link it can find.
+* (6) [Coursaros](https://github.com/SpyridonLaz/Coursaros) -  [Download videos and subtitles from edx to your computer easily.](https://github.com/SpyridonLaz/Coursaros)
+* (6) [scrapeghost/](https://github.com/jamesturk/scrapeghost/) - extend with other LLMs
+* (2) [aria2](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform - [aria2](https://aria2.github.io/)
+* (2) [httrack](https://github.com/xroche/httrack/tree/master), [httrack site](https://www.httrack.com/)
+* (4.5) [clauneck](https://github.com/serpapi/clauneck)
+* (2) [cli](https://github.com/httpie/cli) - [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
+* (4.5) [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from pixiv, exhentai, danbooru and more.
+* (5) [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
+* (5) [ImageScraper](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
+* (2) [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler: crawls web pages and prints any link it can find.
 
 ## Communication and Social Applications
 
--> [nlnet](https://nlnet.nl/project/Kazarma/)
+-> [nlnet](https://nlnet.nl/project/)
 
 * (2) [Home — Bluesky](https://staging.bsky.app/)
 * (4.5) [Dimillian/IceCubesApp: A SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
@@ -792,9 +812,6 @@
 * (2) [threadreaderapp](https://threadreaderapp.com/)
 * (2) [weechat](https://weechat.org/) [scripts](https://weechat.org/scripts/) [example: weechatbot](https://github.com/sndrsmnk/weechatbot)
 * (2) [irssi](https://irssi.org/ )
-* (2) [msmtp](https://marlam.de/msmtp/)
-* (6) [offlineimap](https://www.offlineimap.org/)
-* (2) [mailinabox](https://mailinabox.email/)
 
 ### RSS (GUI)
 
@@ -807,67 +824,77 @@
 
 ### Email
 
-* ( ) [isync](https://github.com/gburd/isync)
-* ( ) [msmtp](https://wiki.archlinux.org/title/Msmtp)
-* (R) [mutt setup](https://jonathanh.co.uk/blog/mutt-setup/)
-* ( ) [claws-mail](https://www.claws-mail.org/)
-* ( ) [pop](https://github.com/charmbracelet/pop)
-* → [20 most secure email providers to use in 2023 - PrivacySavvy](https://privacysavvy.com/email/best/secure-email-providers/#h-1-protonmail)
-* → [seniormars.github.io/posts/neomutt/](https://seniormars.github.io/posts/neomutt/)
-* (2) [proton](https://proton.me/pricing)
-* (2) [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
-* (4) [ElectronMail](https://github.com/vladimiry/ElectronMail) - ElectronMail is an Electron-based unofficial desktop client for ProtonMail and Tutanota end-to-end encrypted email providers.
-* (6) [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.
+* (2) [msmtp](https://marlam.de/msmtp/)
+* (6) [offlineimap](https://www.offlineimap.org/)
+* (2) [mailinabox](https://mailinabox.email/)
+* (2) [aerc](https://aerc-mail.org/) - aerc is an efficient, extensible email client that runs in the terminal. It features special support for git email workflows, reviewing patches, and processing HTML emails in a terminal-based browser.
+* (5) [isync](https://github.com/gburd/isync)
+* (2) [Mailcow Email Server](https://mailcow.email/) - Fully feature email server (for avarage use cases @lmtr0 recommends this one)
+* (R) [skiff](https://skiff.com/) -  discussed [here](<find video>) (along with Proton)
+* ( ) [Sylpheed](https://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client.
+* (5) [tmpmail](https://github.com/sdushantha/tmpmail) - A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address. -> update for wayland (xclip dependency)
+* ( ) [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
+* (5) [Vmail](http://danielchoi.com/software/vmail.html) - Vim-like Gmail client.
 * (2) [Himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management.
 * (2) [mbsync](https://github.com/toolleeo/cli-apps/blob/master) - Mailboxes synchronization tool; allows to download email locally; MailDir format supported.
-* (4) [Claws](https://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.
-* (2) [tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh.
-* (6) [Mutt](http://www.mutt.org/) - A terminal based mail client with vim keybindings and great flexibility and customizability.
 * (2) [neomutt](https://github.com/neomutt/neomutt)- [neomutt.org/](https://neomutt.org/)
+* (2) [proton](https://proton.me/pricing)
+* (2) [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
+* (2) [tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh.
+* (4) [Claws](https://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.
+* (4) [ElectronMail](https://github.com/vladimiry/ElectronMail) - ElectronMail is an Electron-based unofficial desktop client for ProtonMail and Tutanota end-to-end encrypted email providers.
+* (6) [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.
+* (6) [Mutt](http://www.mutt.org/) - A terminal based mail client with vim keybindings and great flexibility and customizability.
+* (R) [mutt setup](https://jonathanh.co.uk/blog/mutt-setup/)
+* → [20 most secure email providers to use in 2023 - PrivacySavvy](https://privacysavvy.com/email/best/secure-email-providers/#h-1-protonmail)
+* → [seniormars.github.io/posts/neomutt/](https://seniormars.github.io/posts/neomutt/)
+
+### CLI / TUI Email
+
+* (5) [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail.
+* (2.5) [meli](https://git.meli.delivery/meli/meli) - BSD/Linux terminal email client with support for multiple accounts and Maildir / mbox / notmuch / IMAP / JMAP. $$$$$$$
+* (2.5) [alot](https://github.com/pazz/alot) - MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend; MailDir format support.
+* (2.5) [alpine](https://github.com/toolleeo/cli-apps/blob/master) - Mail client which aims at being "fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users".
+* (2) [rspamd](https://rspamd.com/)
+* (2) [pop](https://github.com/charmbracelet/pop)
+* (2) [nmail](https://github.com/d99kris/nmail) - nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.
+* (2) [notmuch-mutt](https://notmuchmail.org/notmuch-mutt/ )
+* (2) [notmuchmail](https://notmuchmail.org/ )
+* (5) [pymailgen](https://github.com/toolleeo/pymailgen) - Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client.
+* (2) [sup](https://github.com/sup-heliotrope/sup) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
+
+### GUI Email
+
 * (2.5) [betterbird](https://www.betterbird.eu/)
-* (2.5) [Thunderbird](https://www.thunderbird.net/en-US/)
-* ( ) [notmuchmail](https://notmuchmail.org/ )
-* ( ) [notmuch-mutt](https://notmuchmail.org/notmuch-mutt/ )
-* ( ) [Mailcow Email Server](https://mailcow.email/) - Fully feature email server (for avarage use cases @lmtr0 recommends this one)
-* ( ) [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail.
-* ( ) [Mailspring](https://getmailspring.com/) - A beautiful, fast and maintained fork of Nylas Mail ([dead](https://github.com/nylas/nylas-mail)) by one of the original authors.
-* ( ) [Sylpheed](https://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client.
-* ( ) [Trojita](https://apps.kde.org/trojita/) - A super fast desktop email client for Linux.
-* ( ) [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
-* ( ) [Vmail](http://danielchoi.com/software/vmail.html) - Vim-like Gmail client.
-* ( ) [aerc](https://aerc-mail.org/) - aerc is an efficient, extensible email client that runs in the terminal. It features special support for git email workflows, reviewing patches, and processing HTML emails in a terminal-based browser.
-* ( ) [alot](https://github.com/pazz/alot) - MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend; MailDir format support.
-* ( ) [alpine](https://github.com/toolleeo/cli-apps/blob/master) - Mail client which aims at being "fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users".
-* ( ) [meli](https://git.meli.delivery/meli/meli) - BSD/Linux terminal email client with support for multiple accounts and Maildir / mbox / notmuch / IMAP / JMAP.
-* ( ) [nmail](https://github.com/d99kris/nmail) - nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.
-* ( ) [pymailgen](https://github.com/toolleeo/pymailgen) - Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client.
-* ( ) [skiff](https://skiff.com/) -  discussed [here](<find video>) (along with Proton)
-* ( ) [sup](https://github.com/sup-heliotrope/sup) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
-* ( ) [tmpmail](https://github.com/sdushantha/tmpmail) - A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
+   | (2.5) [Thunderbird](https://www.thunderbird.net/en-US/)
+   | ( ) [claws-mail](https://www.claws-mail.org/)
+   | (2.5) [Mailspring](https://getmailspring.com/) - A beautiful, fast and maintained fork of Nylas Mail ([dead](https://github.com/nylas/nylas-mail)) by one of the original authors.
+* (2.5) [Trojita](https://apps.kde.org/trojita/) - A super fast desktop email client for Linux.
 
 ### Signal
 
-* ( ) [signal](https://signal.org/)
-* ( ) [signal-cli (https://www.dinotools.de/2020/02/13/nachrichten-per-signal-von-der-kommandozeile-versenden/)
+* (R) [signal](https://signal.org/)
+* (2) [signal-cli](https://github.com/AsamK/signal-cli) [read](https://www.dinotools.de/2020/02/13/nachrichten-per-signal-von-der-kommandozeile-versenden/)
 
 ### Matrix
 
-* → [matrix.org/ecosystem/integrations/](https://matrix.org/ecosystem/integrations/)
-* ( ) [matrix clients](https://matrix.org/clients/)
-* ( ) [Matrix](https://matrix.org/) - Decentrialized End-to-End Encrypted Chat platform (you may want to use [Element](https://element.io/)
-* ( ) [Element](https://element.io/) - A glossy Matrix collaboration client for the web.
-* ( ) [Fractal](https://wiki.gnome.org/Apps/Fractal) - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects.
-* ( ) [NeoChat](https://apps.kde.org/neochat/) - NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.
-* ( ) [8go/matrix-commander: simple but convenient CLI-based Matrix client app for sending and receiving](https://github.com/8go/matrix-commander)
+* -> [matrix.org/ecosystem/integrations/](https://matrix.org/ecosystem/integrations/)
+* -> [matrix clients](https://matrix.org/clients/)
+* (2) [Matrix](https://matrix.org/) - Decentrialized End-to-End Encrypted Chat platform (you may want to use [Element](https://element.io/)
+* (2) [Element](https://element.io/) - A glossy Matrix collaboration client for the web.
+* (2.5) [Fractal](https://wiki.gnome.org/Apps/Fractal) - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects.
+   | (2.5) [NeoChat](https://apps.kde.org/neochat/) - NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.
+* (2) [matrix-commander: simple but convenient CLI-based Matrix client app for sending and receiving](https://github.com/8go/matrix-commander)
 
 ### WhatsApp
 
 * (5) [WhatsGo](https://github.com/WinterSunset95/WhatsGo)- whatsapp CLI
 * (6) [WBOT](https://github.com/vasani-arpit/WBOT) - A simple CLI based BOT for WhatsApp™ in NodeJS. reply to your friends quickly and have fun along the way.
-* (2) [nchat](https://github.com/d99kris/nchat)- whatsapp
+* (2) [nchat](https://github.com/d99kris/nchat) - Terminal-based Telegram / WhatsApp client for Linux and macOS
 * (4) [mudslide](https://github.com/robvanderleek/mudslide)- whatsapp CLI
 * (4) [Baileys](https://github.com/WhiskeySockets/Baileys)- [whiskeysockets.github.io/Baileys/](https://whiskeysockets.github.io/Baileys/)  * WhatsApp API
-* ( ) [whatsie](https://github.com/keshavbhatt/whatsie)- whatsapp client
+8 (2) [whatsapp-for-linux](https://github.com/eneshecan/whatsapp-for-linux)
+   | (N) [whatsie](https://github.com/keshavbhatt/whatsie) - whatsapp client
 
 ### Messaging, Unfree
 
@@ -879,9 +906,9 @@
 
 ### Lemmy.rs
 
-Jerboa for Android
-lemmur
-Fedilab
+* (2.5) [Jerboa for Android](https://github.com/LemmyNet/jerboa)
+* (5) [lemmur](https://github.com/LemmurOrg/lemmur)
+* -> see Fedilab
 
 ### Discord
 
@@ -917,6 +944,7 @@ Fedilab
 
 ### Multiple
 
+* (2) [fedilab](Fedilab)
 * (2.5) [Choqok](https://apps.kde.org/choqok/) - Choqok is a Qt5 client for Twitter, GNU Social, Friendica and Pump.IO.
 * (4) [Franz](https://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application. - freemium
 * (2) [PingMe](https://github.com/kha7iq/pingme) - Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat and others.

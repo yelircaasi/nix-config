@@ -433,23 +433,23 @@ neovim vim a python my                             <|>  Python REPL In Vim Chang
 neovim vim file that vi open                       <|> neovim - Open another file in split view that sits within the same directory as the currently opened file - Vi and Vim Stack Exchange
 neovim vim how question                            <|> [stackoverflow.com/questions/73841647/in-neovim-vim-how-to-know-all-used-key-combination](https://stackoverflow.com/questions/73841647/in-neovim-vim-how-to-know-all-used-key-combination)
 neovim with feature feature emac full              <|> orhnk/vimacs: Feature-full Neovim Experience - With Emacs, JetBrains features OOTB
-* {neovim youtube nix m                               } <|> [...](https://m.youtube.com/results?sp=mAEA&search_query=neovim+nix)
-* {neovim youtube watch v                             } <|> [Entire Neovim Manual](https://www.youtube.com/watch?v%3DrT-fbLFOCy0)
+{neovim youtube nix m                               } <|> [...](https://m.youtube.com/results?sp=mAEA&search_query=neovim+nix)
+{neovim youtube watch v                             } <|> [Entire Neovim Manual](https://www.youtube.com/watch?v%3DrT-fbLFOCy0)
 neovim youtube watch v i do                        <|> [Why do I use Neovim? - YouTube](https://www.youtube.com/watch?v%3Dby0E9Nm2Eco)
 neovim youtube watch v i user                      <|> [I Read the Entire Neovim User Manual - YouTube](https://www.youtube.com/watch?v%3DrT-fbLFOCy0)
 neovim youtube watch v ide scratch 0               <|> From 0 to IDE in Neovim from Scratch [video](https://www.youtube.com/watch?v=zHTeCSVAFNY)
 neovim youtube watch v pp                          <|> Understanding Neovim series [video](https://www.youtube.com/watch?v=87AXw9Quy9U&list=PLx2ksyallYzW4WNYHD9xOFrPRYGlntAft&pp=iAQB)
 neovim youtube watch v video pp                    <|> Neovim video [video](https://www.youtube.com/watch?v=87AXw9Quy9U&list=PLx2ksyallYzW4WNYHD9xOFrPRYGlntAft&pp=iAQB)
-* {nix flake                                          } <|> [journal.platonic.systems/nix-flake-architecture-in-practice/](https://journal.platonic.systems/nix-flake-architecture-in-practice/)
+{nix flake                                          } <|> [journal.platonic.systems/nix-flake-architecture-in-practice/](https://journal.platonic.systems/nix-flake-architecture-in-practice/)
 nixcat                                             <|> → eventually move to NixNeovim , possible, or nixCats
 nvim                                               <|>  gen.nvim
 nvim                                               <|> zellij-nav.nvim
-* {nvim blog kickstart                                } <|> [blog.epheme.re/software/nvim-kickstart.html](https://blog.epheme.re/software/nvim-kickstart.html)
+{nvim blog kickstart                                } <|> [blog.epheme.re/software/nvim-kickstart.html](https://blog.epheme.re/software/nvim-kickstart.html)
 nvim by refactoring based                          <|> ThePrimeagen/refactoring.nvim: The Refactoring library based off the Refactoring book by Martin Fowler
 nvim by using my project i medium setting started  <|> Per project settings in nvim. I recently started using nvim as my… | by Dan Reeves | Medium
 nvim commit                                        <|> Commits · HallerPatrick/py_lsp.nvim
 nvim config at project                             <|> manage nvim configs per project at DuckDuckGo
-* {nvim config main dotfile tree                      } <|> [gitlab.com/linuxdabbler/dotfiles/-/tree/main/.config/nvim?ref_type=heads](https://gitlab.com/linuxdabbler/dotfiles/-/tree/main/.config/nvim?ref_type=heads)
+{nvim config main dotfile tree                      } <|> [gitlab.com/linuxdabbler/dotfiles/-/tree/main/.config/nvim?ref_type=heads](https://gitlab.com/linuxdabbler/dotfiles/-/tree/main/.config/nvim?ref_type=heads)
 nvim editor                                        <|> → JIRA Ticket editor, analogous to oil.nvim
 nvim flake                                         <|> Gerg-L/nvim-flake
 nvim for                                           <|> saadparwaiz1/cmp_luasnip: luasnip completion source for nvim-cmp
@@ -463,33 +463,33 @@ nvim neorg telescope commit                        <|> Commits · nvim-neorg/neo
 nvim nix home                                      <|> cat /home/isaac/.nix-profile/bin/nvim
 nvim plugin                                        <|> 5 nvim plugins
 nvim plugin                                        <|> idea: colorvar.nvim: plugin to extend colorizer to also color variable names referring to color values
-* {nvim plugin blog post                              } <|> [blog.theodorc.no/posts/top5-nvim-plugins/](https://blog.theodorc.no/posts/top5-nvim-plugins/)
-* {nvim plugin lua                                    } <|> [neovimcraft.com/plugin/akinsho/nvim-toggleterm.lua](https://neovimcraft.com/plugin/akinsho/nvim-toggleterm.lua)
-* {nvim plugin lua main neorg lazyvim                 } <|> [codeberg.org/jcowgar/nvim-lazyvim/src/branch/main/lua/plugins/neorg.lua](https://codeberg.org/jcowgar/nvim-lazyvim/src/branch/main/lua/plugins/neorg.lua)
+{nvim plugin blog post                              } <|> [blog.theodorc.no/posts/top5-nvim-plugins/](https://blog.theodorc.no/posts/top5-nvim-plugins/)
+{nvim plugin lua                                    } <|> [neovimcraft.com/plugin/akinsho/nvim-toggleterm.lua](https://neovimcraft.com/plugin/akinsho/nvim-toggleterm.lua)
+{nvim plugin lua main neorg lazyvim                 } <|> [codeberg.org/jcowgar/nvim-lazyvim/src/branch/main/lua/plugins/neorg.lua](https://codeberg.org/jcowgar/nvim-lazyvim/src/branch/main/lua/plugins/neorg.lua)
 nvim plugin s ghttp lua config with blog configure <|> [Manu`s website | Configure Nvim with Lua: Plugin/package management (3)](https://manujsdev.com/blog/config-nvim-with-lua-plugin-package-management))
 nvim plugin youtube watch v m pp 3d                <|> 5 nvim plugins [...](https://m.youtube.com/watch?v=NJDu_53T_4M&pp=ygUKbmVvdmltIGJxZg%3D%3D)
 nvim python                                        <|>  Python nvim inline eval
-* {nvim r reddit comment comment nix nixo discussion  } <|> [r/NixOS/comments/104l0w9/comment/j362asl/](https://www.reddit.com/r/NixOS/comments/104l0w9/comment/j362asl/) nix nvim laziness discussion
+{nvim r reddit comment comment nix nixo discussion  } <|> [r/NixOS/comments/104l0w9/comment/j362asl/](https://www.reddit.com/r/NixOS/comments/104l0w9/comment/j362asl/) nix nvim laziness discussion
 nvim r reddit s                                    <|> [r/vimporn/s/JEiYy98Fcb](https://www.reddit.com/r/vimporn/s/JEiYy98Fcb) nvim
 plugin vhyrro                                      <|> Vhyrro Treesitter Plugins
 plugin vim with how do                             <|> How to do 90% of what plugins do with just vim
 post                                               <|> [willcodefor.beer/posts/keyvim](https://willcodefor.beer/posts/keyvim)
 python doc language feature                        <|>  [lunarvim.org/docs/features/supported-languages/python](https://www.lunarvim.org/docs/features/supported-languages/python)
 python post development ultimate                   <|>  [pythops.com/post/the-ultimate-python-development-environment.html](https://pythops.com/post/the-ultimate-python-development-environment.html)
-* {r reddit comment                                   } <|> [r/vimporn/comments/15h3e14/miasmanvim_lots_of_dotsfiles_updates/](https://www.reddit.com/r/vimporn/comments/15h3e14/miasmanvim_lots_of_dotsfiles_updates/)
-* {r reddit comment kotlin                            } <|> [r/Kotlin/comments/18z53or/anyone_is_using_anything_other_than_intellij_idea/](https://www.reddit.com/r/Kotlin/comments/18z53or/anyone_is_using_anything_other_than_intellij_idea/)
-* {r reddit comment nixo                              } <|> [r/NixOS/comments/108fwwh/tradeoffs_of_using_home_manager_for_neovim_plugins/](https://www.reddit.com/r/NixOS/comments/108fwwh/tradeoffs_of_using_home_manager_for_neovim_plugins/)
-* {r reddit comment nixo                              } <|> [r/NixOS/comments/14e57dc/nvim_plugins/](https://www.reddit.com/r/NixOS/comments/14e57dc/nvim_plugins/)
-* {r reddit vim comment                               } <|> [r/vim/comments/172agcg/vim_website_redesigned_in_figma/](https://www.reddit.com/r/vim/comments/172agcg/vim_website_redesigned_in_figma/)
-* {r reddit vim comment                               } <|> [r/vim/comments/65ivlu/best_mail_client_with_vim_like_keybindings/](https://www.reddit.com/r/vim/comments/65ivlu/best_mail_client_with_vim_like_keybindings/)
+{r reddit comment                                   } <|> [r/vimporn/comments/15h3e14/miasmanvim_lots_of_dotsfiles_updates/](https://www.reddit.com/r/vimporn/comments/15h3e14/miasmanvim_lots_of_dotsfiles_updates/)
+{r reddit comment kotlin                            } <|> [r/Kotlin/comments/18z53or/anyone_is_using_anything_other_than_intellij_idea/](https://www.reddit.com/r/Kotlin/comments/18z53or/anyone_is_using_anything_other_than_intellij_idea/)
+{r reddit comment nixo                              } <|> [r/NixOS/comments/108fwwh/tradeoffs_of_using_home_manager_for_neovim_plugins/](https://www.reddit.com/r/NixOS/comments/108fwwh/tradeoffs_of_using_home_manager_for_neovim_plugins/)
+{r reddit comment nixo                              } <|> [r/NixOS/comments/14e57dc/nvim_plugins/](https://www.reddit.com/r/NixOS/comments/14e57dc/nvim_plugins/)
+{r reddit vim comment                               } <|> [r/vim/comments/172agcg/vim_website_redesigned_in_figma/](https://www.reddit.com/r/vim/comments/172agcg/vim_website_redesigned_in_figma/)
+{r reddit vim comment                               } <|> [r/vim/comments/65ivlu/best_mail_client_with_vim_like_keybindings/](https://www.reddit.com/r/vim/comments/65ivlu/best_mail_client_with_vim_like_keybindings/)
 r reddit vim comment                               <|> [r/vim/comments/vwhdpa/way_to_list_internalbuiltin_vim_keybindings/?rdt=50098](https://www.reddit.com/r/vim/comments/vwhdpa/way_to_list_internalbuiltin_vim_keybindings/?rdt%3D50098)
 reddit lsp                                         <|> Reddit - Treesitter vs LSP. Differences ans overlap
 s vim with question                                <|> [10 Questions with Vim’s creator, Bram Moolenaar](https://www.binpress.com/vim-creator-bram-moolenaar-interview/)
 started tutorial                                   <|> tutorials, getting started
-* {substack                                           } <|> [substack.com/@exosyphon](https://substack.com/@exosyphon) 
-* {substack p configure                               } <|> [andrewcourter.substack.com/p/configure-linting-formatting-and](https://andrewcourter.substack.com/p/configure-linting-formatting-and)
+{substack                                           } <|> [substack.com/@exosyphon](https://substack.com/@exosyphon) 
+{substack p configure                               } <|> [andrewcourter.substack.com/p/configure-linting-formatting-and](https://andrewcourter.substack.com/p/configure-linting-formatting-and)
 vhyrro                                             <|> Entire Playlist Vhyrro
-* {vi                                                 } <|> [vi-word.up.railway.app/](https://vi-word.up.railway.app/)
+{vi                                                 } <|> [vi-word.up.railway.app/](https://vi-word.up.railway.app/)
 video                                              <|> videos
 video neorg                                        <|> Neorg Update Video
 video vhyrro                                       <|> Vhyrro opt video
@@ -500,25 +500,25 @@ vim a python                                       <|>  [realpython.com/vim-and-
 vim a python ghttp youtube with watch v editor started <|> [Getting Started with VIM as a Python Editor - YouTube]([...](https://www.youtube.com/watch?v%3DHKJUILUvkGk))
 vim a with guide development modern                <|> [A guide to modern Web Development with (Neo)vim](https://www.freecodecamp.org/news/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2/)
 vim config project dev based community             <|> Project based config in vim - DEV Community
-* {vim doc guide started                              } <|> [docs.sourcery.ai/Coding-Assistant/Guides/Getting-Started/Vim/](https://docs.sourcery.ai/Coding-Assistant/Guides/Getting-Started/Vim/)
+{vim doc guide started                              } <|> [docs.sourcery.ai/Coding-Assistant/Guides/Getting-Started/Vim/](https://docs.sourcery.ai/Coding-Assistant/Guides/Getting-Started/Vim/)
 vim for youtube watch v beginner                   <|> [Vim Motions for absolute beginners!!! - YouTube](https://www.youtube.com/watch?v%3DlWTzqPfy1gE)
 vim ghttp                                          <|> [vim-racer.com/](https://vim-racer.com/))
-* {vim how question file vi                           } <|> [vi.stackexchange.com/questions/16906/how-to-format-json-file-in-vim](https://vi.stackexchange.com/questions/16906/how-to-format-json-file-in-vim)
+{vim how question file vi                           } <|> [vi.stackexchange.com/questions/16906/how-to-format-json-file-in-vim](https://vi.stackexchange.com/questions/16906/how-to-format-json-file-in-vim)
 vim python code                                    <|> hanschen/vim-ipython-cell: Seamlessly run Python code in IPython from Vim
 vim python ide emac code                           <|>  Best Python IDE: Vim, Emacs, PyCharm, or Visual Studio Code? | Guido van Rossum and Lex Fridman
 vim python workflow terminal                       <|>  Dank Vim + Terminal + Python workflow
-* {vim question setting                               } <|> [stackoverflow.com/questions/30691466/what-is-difference-between-vims-clipboard-unnamed-and-unnamedplus-settings](https://stackoverflow.com/questions/30691466/what-is-difference-between-vims-clipboard-unnamed-and-unnamedplus-settings)
-* {vim tree home manager master                       } <|> [gitlab.com/Overloader/home-manager/-/tree/master/vim?ref_type=heads](https://gitlab.com/Overloader/home-manager/-/tree/master/vim?ref_type=heads)
+{vim question setting                               } <|> [stackoverflow.com/questions/30691466/what-is-difference-between-vims-clipboard-unnamed-and-unnamedplus-settings](https://stackoverflow.com/questions/30691466/what-is-difference-between-vims-clipboard-unnamed-and-unnamedplus-settings)
+{vim tree home manager master                       } <|> [gitlab.com/Overloader/home-manager/-/tree/master/vim?ref_type=heads](https://gitlab.com/Overloader/home-manager/-/tree/master/vim?ref_type=heads)
 vim your workflow git                              <|> jreybert/vimagit: Ease your git workflow within Vim
 with build                                         <|> vimUtils.buildVimPlugin with build step - Google Search
 youtube guide ultimate                             <|> Ultimate Quickfix List Guide - YouTube
-* {youtube m                                          } <|> [...](https://m.youtube.com/@adibhanna)
-* {youtube m vhyrro                                   } <|> [...](https://m.youtube.com/@vhyrro)
+{youtube m                                          } <|> [...](https://m.youtube.com/@adibhanna)
+{youtube m vhyrro                                   } <|> [...](https://m.youtube.com/@vhyrro)
 youtube watch v m devlog                           <|> [Here we go... | Rocks Devlog #1 - YouTube](https://m.youtube.com/watch?v%3DJDTy5w7AriU)**
-* {youtube watch v pp 3d                              } <|> [video](https://www.youtube.com/watch?v=A9he0682AK4&pp=QAFIAQ%3D%3D)
-* {youtube watch v video                              } <|> [video](https://www.youtube.com/watch?v=ZWWxwwUsPNw) Primeagen video 1
+{youtube watch v pp 3d                              } <|> [video](https://www.youtube.com/watch?v=A9he0682AK4&pp=QAFIAQ%3D%3D)
+{youtube watch v video                              } <|> [video](https://www.youtube.com/watch?v=ZWWxwwUsPNw) Primeagen video 1
 
-# Roadmap
+## Roadmap
 
 * [ ] get all lua plugins installed and imported with nix
 * [ ] package other plugins with external dependencies
@@ -683,7 +683,7 @@ shortcuts
 * VIM Keyboard Shortcuts Cheatsheet - Make Tech Easier
 **[see for key shortcuts] ecosse3/nvim: A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
 Reddit - I made NVIM work with VSCode keybindings
-* Thread - Remapping <ESC> in neovim
+* Thread - Remapping ESC in neovim
 other relevant tools
 * [atanunq/viu](https://github.com/atanunq/viu)
 * [arewesixelyet.com/](https://www.arewesixelyet.com/)
@@ -743,7 +743,7 @@ code running
 * Neovim 101— Interactive Code Runner
 * ivanov/vim-ipython: A two-way integration between Vim and IPython 0.11+
 * Coding Python in Neovim with IPython as a REPL
-* use: [Vigemus/iron.nvim(create](https://github.com/Vigemus/iron.nvim(create) container)
+* use: [Vigemus/iron.nvim(create](https://github.com/Vigemus/iron.nvim) (create container)
 * [r/neovim/comments/12ya26m/weekly_stupid_questions_thread/](https://www.reddit.com/r/neovim/comments/12ya26m/weekly_stupid_questions_thread/)
 * [gboncoffee/run.lua](https://github.com/gboncoffee/run.lua)
 * [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)
@@ -861,11 +861,9 @@ ricing
 * tjdevries/colorbuddy.nvim: Your color buddy for making cool neovim color schemes
 * [r/neovim/comments/14ofbar/oc_neovim_rice/](https://www.reddit.com/r/neovim/comments/14ofbar/oc_neovim_rice/)
 
-## Untitled
-
-## Neovim
-
 ## Sort
+
+* [startup time](https://aliquote.org/post/lazy-nvim/)
 
 * backdround/global-note.nvim
 * [chrisbra/csv.vim](https://github.com/chrisbra/csv.vim)
@@ -905,7 +903,7 @@ ricing
 * [dev.to/evilcel3ri/how-i-wrote-my-first-neovim-plugin-357h](https://dev.to/evilcel3ri/how-i-wrote-my-first-neovim-plugin-357h)
 * [metakirby5/codi.vim/](https://github.com/metakirby5/codi.vim/)
 
-## Roadmap
+## Roadmap2
 
 * [ ]  get all lua plugins installed and imported with nix
 * [ ]  package other plugins with external dependencies
@@ -1150,7 +1148,7 @@ ricing
 * [VIM Keyboard Shortcuts Cheatsheet - Make Tech Easier](https://www.maketecheasier.com/cheatsheet/vim-keyboard-shortcuts/)
 * [*[see for key shortcuts] ecosse3/nvim: A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js](https://github.com/ecosse3/nvim)
 * [Reddit - I made NVIM work with VSCode keybindings](https://www.reddit.com/r/neovim/comments/vuh7ky/i_made_nvim_work_with_vscode_keybindings/)
-* Thread - Remapping <ESC> in neovim
+* Thread - Remapping ESC in neovim
 * other relevant tools
 * [atanunq/viu](https://github.com/atanunq/viu)
 * [arewesixelyet.com/](https://www.arewesixelyet.com/)
@@ -1294,6 +1292,7 @@ ricing
 = note: /usr/bin/ld: cannot find -lfontconfig: No such file or directory
 
 /usr/bin/ld: cannot find -lfreetype: No such file or directory
+
 * collect2: error: ld returned 1 exit status
 * error: could not compile `neovide` (bin "neovide") due to previous error
 * error: failed to compile `neovide v0.11.2 (<https://github.com/neovide/neovide#85234dc3>)`, intermediate artifacts can be found at `/tmp/cargo-installxRn5uk`.
@@ -1387,6 +1386,7 @@ ricing
 * [r/neovim/comments/12xundc/c_dev_environment_in_pure_lua_based_plugins/](https://www.reddit.com/r/neovim/comments/12xundc/c_dev_environment_in_pure_lua_based_plugins/)
 
 { "🭽", "▔", "🭾", "▕", "🭿", "▁", "🭼", "▏" }
+
 * [r/neovim/comments/172uiu1/yazi_a_new_tui_program_combines_rangernnnlf/](https://www.reddit.com/r/neovim/comments/172uiu1/yazi_a_new_tui_program_combines_rangernnnlf/)
 * [r/NixOS/comments/14e57dc/nvim_plugins/](https://www.reddit.com/r/NixOS/comments/14e57dc/nvim_plugins/)
 * [rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/#cargo-power-with-terminal-access](https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/#cargo-power-with-terminal-access)

@@ -541,6 +541,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 
 ## Golang
 
+* [project-template](https://github.com/golang-standards/project-layout)
 * [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 * [golang.org/](https://golang.org/)
 * [digitalocean.com/community/tutorial_series/how-to-code-in-go](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)

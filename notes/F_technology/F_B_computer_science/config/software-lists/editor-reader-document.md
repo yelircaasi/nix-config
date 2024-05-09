@@ -21,36 +21,42 @@
 (N) - Ready to package for Nix
 (R) - Read!
 
-* (2) [emacs](https://www.gnu.org/software/emacs/)
-* (3) [qtconsole](https://github.com/jupyter/qtconsole)
-* (4) [zettlr](...)
-   | ( ) [remarkable](https://github.com/jamiemcg/Remarkable)
-* (3) [nano](...)
-* (6) [vim](...) -> decided to always use nvim with different configs -> [michaeluloth.com/neovim-switch-configs/](https://michaeluloth.com/neovim-switch-configs/)
-* (4) [cosmic-editor](...)
-* (4) [zed](https://zed.dev/)
-* (4) [lem](https://github.com/lem-project/lem)
-
 ## GUI Editors
 
-* ( ) [zed language extensions](https://zed.dev/blog/language-extensions-part-1)
-* ( ) [androidstudio](https://developer.android.com/studio)
-* ( ) [emacs](https://www.gnu.org/software/emacs/)
-* ( ) [helix](https://helix-editor.com/)
-* ( ) [helix/tree/new-daily-driver](https://github.com/SoraTenshi/helix/tree/new-daily-driver)
-* ( ) [imhex](https://imhex.werwolv.net/)
-* ( ) [kakoune](https://kakoune.org/)
-* ( ) [Micro - Home](https://micro-editor.github.io/)
-* ( ) [micro](https://micro-editor.github.io/)
-* ( ) [ne, the nice editor](https://ne.di.unimi.it/)
-* ( ) [What Are The Benefits Of Emacs Over Vim? - YouTube](https://www.youtube.com/watch?v=kRkp-uJTK7s)
+* (2) [androidstudio](https://developer.android.com/studio)
 * (2) [appflowy](https://www.appflowy.io/)
-* (2) [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
-* (4) [rstudio](https://www.rstudio.com/products/RStudio)
-* (3) [FeatherEditor](https://github.com/0xBaca/FeatherEditor)
 * (2) [azuredatastudio](https://github.com/Microsoft/azuredatastudio): A data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
-* ( ) [vscode + azure](https://code.visualstudio.com/docs/azure/extensions)
-* ( ) [diffuse](https://mightycreak.github.io/diffuse/) diff editor
+* (2) [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
+* (2) [diffuse](https://mightycreak.github.io/diffuse/) diff editor
+* (2) [emacs](https://www.gnu.org/software/emacs/)
+* (2) [emacs](https://www.gnu.org/software/emacs/) -> [emacs books](https://libgen.rs/search.php?&req=emacs&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+* (2) [Frescobaldi: Edit LilyPond sheet music with ease!](https://frescobaldi.org/)
+* (2) [imhex](https://imhex.werwolv.net/)
+* (2) [nano](https://www.nano-editor.org/) - also read code
+* (2) [pop-os/cosmic-edit: COSMIC Text Editor](https://github.com/pop-os/cosmic-edit) [Pop!_OS is Working on a New Text Editor, Taking Cues from Vim and VS Code](https://news.itsfoss.com/cosmic-text-editor/)
+* (2) [TeX Mode (GNU Emacs Manual)](https://www.gnu.org/software/emacs/manual/html_node/emacs/TeX-Mode.html)
+* (2) [vscode + azure](https://code.visualstudio.com/docs/azure/extensions)
+* (3) [FeatherEditor](https://github.com/0xBaca/FeatherEditor)
+* (3) [qtconsole](https://github.com/jupyter/qtconsole)
+* (4) [lem](https://github.com/lem-project/lem)
+* (4) [rstudio](https://www.rstudio.com/products/RStudio)
+* (4) [zed](https://zed.dev/)
+* (6) [vim](https://www.vim.org/) -> decided to always use nvim with different configs -> [michaeluloth.com/neovim-switch-configs/](https://michaeluloth.com/neovim-switch-configs/)
+* (R) [aura-text](https://github.com/rohankishore/Aura-Text) → example of Nuitka build
+* (R) [nyxtext](https://github.com/parazeeknova/nyxtext)
+* (R) [vis](https://github.com/martanne/vis)
+* (R) [viz](https://github.com/sagemathinc/viz)
+* (R) [What Are The Benefits Of Emacs Over Vim? - YouTube](https://www.youtube.com/watch?v=kRkp-uJTK7s)
+* (T) [cosmic-editor](https://github.com/pop-os/cosmic-edit)
+* (T) [Cursor - The AI-first Code Editor](https://cursor.sh/)
+* (T) [helix: remove outdated comment · nix-community/home-manager@652fda4](https://github.com/nix-community/home-manager/commit/652fda4ca6dafeb090943422c34ae9145787af37) [lisp plugin system for Heix](https://www.reddit.com/r/neovim/s/KDJAKvV48K) Lisp plugin system for Helix - [Helix lang support](https://docs.helix-editor.com/lang-support.html)
+* (T) [helix](https://helix-editor.com/) -> (R) [helix/tree/new-daily-driver](https://github.com/SoraTenshi/helix/tree/new-daily-driver)
+* (T) [kakoune](https://kakoune.org/)
+* (T) [KDevelop - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP](https://kdevelop.org/)
+* (T) [micro](https://micro-editor.github.io/)
+* (T) [ne, the nice editor](https://ne.di.unimi.it/)
+* (T) [SwitchAxe/clean-mode.el: A Concurrent Clean (or just Clean) language mode for GNU Emacs.](https://github.com/SwitchAxe/clean-mode.el)
+* (T) [zed](https://zed.dev/blog/zed-is-now-open-source) [article](https://devclass.com/2024/01/25/rust-based-zed-editor-now-open-source-with-built-in-support-for-openai-and-github-copilot/) + [zed language extensions](https://zed.dev/blog/language-extensions-part-1) - [There’s a fast new code editor in town - YouTube](https://www.youtube.com/watch?v%3DJGz7Ou0Nwo8)
 
 ## Web IDE / Notebook
 
@@ -69,6 +75,12 @@
 * (4) [codebox](https://github.com/CodeboxIDE/codebox) - just ack around with, check out
 * (4) [CoCalc](https://cocalc.com/): Lots of free software pre-installed, to chat, collaborate, develop, program, publish, research, share, teach, in C++, HTML, Julia, Jupyter, LaTeX, Markdown, Python, R, SageMath, Scala, … - just check out
 
+### Browser Integration
+
+* -> see firenvim
+* (2) [ghosttext](https://github.com/fregante/GhostText)
+* (R) [withExEditor](https://github.com/asamuzaK/withExEditor) and [withExEditorHost](https://github.com/asamuzaK/withExEditorHost)
+
 ## Editing, Document Creation
 
 * (4) [Manuskript – Open-source tool for writers](https://www.theologeek.ch/manuskript/) [gh](https://github.com/olivierkes/manuskript) ?
@@ -84,56 +96,55 @@
 
 ### Reference Management
 
-* ( ) [scholarref](https://src.adamsgaard.dk/scholarref/) ([post](https://adamsgaard.dk/scholarref.html))
-* ( ) [bibrefer](https://github.com/stormvirux/bibrefer)
-* ( ) [papis](https://github.com/papis/papis)
-* editor * ( ) [...](https://devclass.com/2024/01/25/rust-based-zed-editor-now-open-source-with-built-in-support-for-openai-and-github-copilot/)
-* ( ) [...](https://docs.helix-editor.com/lang-support.html)
-* ( ) [...](https://libgen.rs/search.php?&req=emacs&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
-* ( ) [...](https://www.reddit.com/r/neovim/s/KDJAKvV48K) Lisp plugin system for Helix
-* ( ) [...](https://zed.dev/blog/zed-is-now-open-source)
-* ( ) [Aura-Text](https://github.com/rohankishore/Aura-Text) → example of Nuitka build
-* ( ) [Cursor - The AI-first Code Editor](https://cursor.sh/)
-* ( ) [helix: remove outdated comment · nix-community/home-manager@652fda4](https://github.com/nix-community/home-manager/commit/652fda4ca6dafeb090943422c34ae9145787af37)
-* ( ) [KDevelop - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP](https://kdevelop.org/)
-* ( ) [nyxtext](https://github.com/parazeeknova/nyxtext)
-* ( ) [pop-os/cosmic-edit: COSMIC Text Editor](https://github.com/pop-os/cosmic-edit) [Pop!_OS is Working on a New Text Editor, Taking Cues from Vim and VS Code](https://news.itsfoss.com/cosmic-text-editor/)
-* ( ) [TeX Mode (GNU Emacs Manual)](https://www.gnu.org/software/emacs/manual/html_node/emacs/TeX-Mode.html)
-* ( ) [There’s a fast new code editor in town - YouTube](https://www.youtube.com/watch?v%3DJGz7Ou0Nwo8)
-* {editor emacs} ( ) [SwitchAxe/clean-mode.el: A Concurrent Clean (or just Clean) language mode for GNU Emacs.](https://github.com/SwitchAxe/clean-mode.el)
-* {editor music} ( ) [Frescobaldi: Edit LilyPond sheet music with ease!](https://frescobaldi.org/)
-editor neovim-related* ( ) [behansa](https://github.com/las-nish/Behansa)
+* (2.5) [scholarref](https://src.adamsgaard.dk/scholarref/) ([post](https://adamsgaard.dk/scholarref.html))
+* (2.5) [bibrefer](https://github.com/stormvirux/bibrefer)
+* (2.5) [papis](https://github.com/papis/papis)
 
 ## Documents
 
-* Markdown
-* ( ) [markdownlint](https://github.com/markdownlint/markdownlint)
-* ( ) [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
-* ( ) [pymarkdown](https://github.com/jackdewinter/pymarkdown)
-* ( ) [marktext](https://itsfoss.com/marktext-editor/)
-* ( ) [panwriter](https://panwriter.com/)
-* ( ) [markdown-novel-template](https://github.com/8bitbuddhist/markdown-novel-template)
-* ( ) [chameleon](https://github.com/life4/chameleon)
-* ( ) [typst](https://github.com/typst/typst)
-* ( ) [markdeep](https://casual-effects.com/markdeep/)
-* ( ) [mdvtbl](https://github.com/karino2/mdvtbl) - GUI GFM markdown table editor with stdin-stdout
+### GUI Markdown Editor
+
+* (5) [panwriter](https://panwriter.com/)
+* (2) [markdeep](https://casual-effects.com/markdeep/)
+* (5) [zettlr](https://www.zettlr.com/) $$$$$$$
+* (5) [remarkable](https://github.com/jamiemcg/Remarkable)
+* (2) [mdvtbl](https://github.com/karino2/mdvtbl) - GUI GFM markdown table editor with stdin-stdout
+* (5) [zettlr](https://github.com/Zettlr/Zettlr) [site](https://www.zettlr.com/)  * looks phenomenal
+* (5) [remarkable](https://github.com/jamiemcg/Remarkable) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM). - fork and update (call Markdawn? Markdon?)
+* (5) [marktext](https://github.com/marktext/marktext) → advanced features, look at them and copy where possible - [marktext](https://itsfoss.com/marktext-editor/) -> [nvim-marktext](https://github.com/Iron-E/nvim-marktext)
+* (5) [Ghost Writer](https://ghostwriter.kde.org/) - A distraction-free Markdown editor for Windows and Linux.
+* (5) [marker](https://github.com/fabiocolacio/Marker) - Marker is a markdown editor for linux made with GTK+-3.0.
+* (5) [retext](https://github.com/retext-project/retext) - A Simple but powerful editor for Markdown and reStructuredText.
+* (6) [Typora](https://typora.io/) - minimal, CSS styling beautiful, but not FOSS
+
+#### Command-Line
+
+* (2) [markdownlint](https://github.com/markdownlint/markdownlint)
+* (2) [pymarkdown](https://github.com/jackdewinter/pymarkdown)
+* (T) [markdown-novel-template](https://github.com/8bitbuddhist/markdown-novel-template)
+* (5) [chameleon](https://github.com/life4/chameleon)
 
 ### epub
 
-* ( ) [epr](https://github.com/wustho/epr)
+* (5) [epr](https://github.com/wustho/epr) $$$
 
-### TeX & Co. ([read](https://tex.stackexchange.com/questions/584529/setting-up-synctex-with-vim-and-zathura), [read](https://tex.stackexchange.com/questions/2941/how-to-setup-synctex-with-vim-pdflatex-and-an-open-source-pdf-viewer-under-linu/412366#412366), [read](https://github.com/CaesarOG/Vim-Latex-Zathura), [read](https://rossknapman.com/posts/nvimvimtexzathura/)
+### TeX & Co
 
-* ( ) [friendly-snippets/snippets/latex at main · rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets/tree/main/snippets/latex)
-* ( ) [LyX](https://en.wikipedia.org/wiki/LyX )
-* ( ) [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system.
+-> [read](https://tex.stackexchange.com/questions/584529/setting-up-synctex-with-vim-and-zathura), [read](https://tex.stackexchange.com/questions/2941/how-to-setup-synctex-with-vim-pdflatex-and-an-open-source-pdf-viewer-under-linu/412366#412366), [read](https://github.com/CaesarOG/Vim-Latex-Zathura), [read](https://rossknapman.com/posts/nvimvimtexzathura/)
+
+* (2) [nvim + vimtex](https://castel.dev/post/lecture-notes-1/)
+* (2) [friendly-snippets/snippets/latex at main · rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets/tree/main/snippets/latex)
+* (2.5) [LyX](https://en.wikipedia.org/wiki/LyX )
+* (1) [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system.
 * (2) [typst](https://github.com/typst/typst)
-* ( ) [latexmk](https://www.cantab.net/users/johncollins/latexmk/)
-* ( ) [...]([simtex](https://github.com/iaacornus/simtex) - simtex (simplified LaTeX) allows you to convert your markdown or text lectures into LaTeX file with one command, configured with simple .json file.
-* ( ) [tectonic](https://github.com/tectonic-typesetting/tectonic)
-* ( ) [tinytex](https://yihui.org/tinytex/)
-* ( ) [tlmgrlookup](https://github.com/jpfairbanks/tlmgrlookup)
+* (1) [latexmk](https://www.cantab.net/users/johncollins/latexmk/)
+* (5) [simtex](https://github.com/iaacornus/simtex) - simtex (simplified LaTeX) allows you to convert your markdown or text lectures into LaTeX file with one command, configured with simple .json file.
+* (2.5) [tectonic](https://github.com/tectonic-typesetting/tectonic)
+* (2.5) [tinytex](https://yihui.org/tinytex/)
+* (5) [tlmgrlookup](https://github.com/jpfairbanks/tlmgrlookup)
 * (4) [contextgarden](https://wiki.contextgarden.net/Main_Page)
+* (2) [typst](https://github.com/typst/typst)
+* (T) [latexstudio](https://www.texstudio.org)
 
 ### Jupyter & Notebook-related
 
@@ -154,30 +165,27 @@ editor neovim-related* ( ) [behansa](https://github.com/las-nish/Behansa)
 
 ### Presentation
 
-* ( ) [wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
-* ( ) [blessed-contrib](https://github.com/yaronn/blessed-contrib)
-* ( ) [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
-* ( ) [mdp](https://github.com/visit1985/mdp) - A markdown presentation tool.
-* ( ) [sent](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/tools.suckless.org/sent) - Simple plaintext presentation tool.
-* ( ) [slides](https://github.com/maaslalani/slides) - A markdown presentation tool.
-* ( ) [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
-* ( ) [hacker-slides](https://github.com/msoedov/hacker-slides))[hacker-slides,](https://github.com/rga2/hacker-slides,) - Reveal.js based presentation tool
-* ( ) [impress.js](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
-* ( ) [mithril-slides](https://github.com/wulab/mithril-slides) - A Keynote-inspired presentation app written with Mithril
-* ( ) [...](https://mithril.js.org/)
-* ( ) [remark](https://github.com/gnab/remark) - markdown based presentation on your browser
-* ( ) [reveal.js](https://github.com/hakimel/reveal.js/) - markdown based presentation on your browser
-* ( ) [deck.js](https://github.com/imakewebthings/deck.js) - markdown based presentation on your browser
-* ( ) [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
-* ( ) [WebSlides](https://github.com/jlantunez/webslides) - Making HTML presentations easy
-* ( ) [Slides](https://github.com/maaslalani/slides) - Terminal based presentation tool.
-* ( ) [DeckTape](https://github.com/astefanutti/decktape) - DeckTape is a high-quality PDF exporter for HTML presentation frameworks.
-* ( ) [sent](https://git.suckless.org/sent/log.html) - Simple plaintext presentation tool.
-* ( ) [tpp](http://www.ngolde.de/tpp.html)
+* (2) [wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
+* (2.5) [blessed-contrib](https://github.com/yaronn/blessed-contrib)
+* (2) [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
+* (2.5) [mdp](https://github.com/visit1985/mdp) - A markdown presentation tool.
+* (2.5) [slides](https://github.com/maaslalani/slides) - A markdown presentation tool.
+* (2.5) [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
+* (2.5) [hacker-slides](https://github.com/msoedov/hacker-slides))[hacker-slides,](https://github.com/rga2/hacker-slides,) - Reveal.js based presentation tool
+* (2.5) [impress.js](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
+* (2.5) [mithril-slides](https://github.com/wulab/mithril-slides) - A Keynote-inspired presentation app written with Mithril
+* (2.5) [mithril.js](https://mithril.js.org/)
+* (2.5) [remark](https://github.com/gnab/remark) - markdown based presentation on your browser
+* (2.5) [reveal.js](https://github.com/hakimel/reveal.js/) - markdown based presentation on your browser
+* (2.5) [deck.js](https://github.com/imakewebthings/deck.js) - markdown based presentation on your browser
+* (2.5) [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+* (2.5) [WebSlides](https://github.com/jlantunez/webslides) - Making HTML presentations easy
+* (5) [sent](https://git.suckless.org/sent/log.html) - Simple plaintext presentation tool. -> port away from X11
+* (2.5) [tpp](http://www.ngolde.de/tpp.html)
 
 ## Books and Reading
 
-* (2.5) [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) -> [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build), * ( ) [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html) 
+* (2.5) [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) -> [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build), [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html) 
    | (2.5) [sioyek](https://github.com/ahrm/sioyek) PDF viewer with a focus on textbooks and research papers
    | (2.5) [apvlv](https://github.com/naihe2010/apvlv)
    | (2.5) [llpp](https://repo.or.cz/w/llpp.git) (supports synctex, in ocaml)

@@ -5,12 +5,7 @@
 * (1) [hyprland](https://github.com/hyprwm/Hyprland) - nvidia info [here](https://wiki.hyprland.org/Nvidia/)
    | (2) [sway](https://github.com/swaywm/sway) - nvidia info [here](https://github.com/swaywm/sway/wiki)
    | (2.5) [riverwm](...)
-* (2) [rofi-wayland](...)
-   | ( ) [wofi](...)
 * (2) [swww](...)
-* (2.5) [mako](...)
-   | (2.5) [avizo](https://github.com/misterdanb/avizo)
-   | ( ) [dunst](...)
 * (2) [libnotify](...)
 * (2) [networkmanagerapplet](...)
 * (2) [et](https://github.com/oxzi/et)
@@ -22,8 +17,6 @@
    | (2.5) [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
    | (2.5) [yank](https://github.com/mptre/yank)
 * (2.5)
-* (2.5) [kanshi](https://sr.ht/~emersion/kanshi/) ([autorandr](https://github.com/phillipberndt/autorandr) for x)
-* (6) [cosmic-randr](https://github.com/pop-os/cosmic-randr) ([xrandr](https://xorg-team.pages.debian.net/xorg/howto/use-xrandr.html) for x)
 
 ## Legend
 
@@ -63,7 +56,7 @@
 * libnotify
 * xdg portal
 * swww, hyprpaper, swaybg, wpaperd, mpvpaper
-* rofi-wayland, wofi, bemenu, fuzzel, tofi.
+* rofi-wayland, wofi, bemenu, fuzzel, tofi
 * Display Manager, Login, Lockscreen, Boot, etc.
 * How to place one window on top of another, like floating but always keeping smaller one on top? → PiP functionality with a tiling WM?
 * -> scrollable window manager
@@ -87,9 +80,8 @@
 
 ## Desktop Environment
 
-* ( ) [pop-os/cosmic-epoch: Next generation Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch)
-  * ( ) [Pop!OS Shell](https://github.com/pop-os/shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.
-  * ( ) [pop-os/cosmic-randr at 88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c](https://github.com/pop-os/cosmic-randr/tree/88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c)
+* (2) [pop-os/cosmic-epoch: Next generation Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch)
+      + (2) [Pop!OS Shell](https://github.com/pop-os/shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.
 * * (6)  [Budgie](https://blog.buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
 * * (6)  [Cinnamon](https://linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
 * * (6)  [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
@@ -122,71 +114,68 @@
   * * (6)  [Kröhnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
   * * (6)  [userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
 * (3) [desq](https://gitlab.com/DesQ)
-* ( ) Arcan + suite
-  * ( ) [arcan-fe.com/](https://arcan-fe.com/)
-  * ( ) [letoram](https://github.com/letoram)
-  * ( ) [letoram/cat9](https://github.com/letoram/cat9)
-  * ( ) [letoram/durden](https://github.com/letoram/durden)
-  * ( ) [arcan](https://github.com/letoram/arcan)
-  * ( ) [arcan-fe.com/](https://arcan-fe.com/)
-  * ( ) [durden.arcan-fe.com/](http://durden.arcan-fe.com/)
-  * Arcan on Nix 2020: [gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392](https://gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392)
-  * ( ) [egasimus/arcan-nix](https://github.com/egasimus/arcan-nix)
-  * ( ) [gTile](https://github.com/gTile/gTile)
+* (3) Arcan + suite
+  * (R) [arcan-fe.com/](https://arcan-fe.com/)
+  * (3) [letoram](https://github.com/letoram)
+  * (3) [letoram/cat9](https://github.com/letoram/cat9)
+  * (3) [letoram/durden](https://github.com/letoram/durden)
+  * (3) [arcan](https://github.com/letoram/arcan)
+  * (R) [durden.arcan-fe.com/](http://durden.arcan-fe.com/)
+  * (R) Arcan on Nix 2020: [gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392](https://gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392)
+  * (5) [egasimus/arcan-nix](https://github.com/egasimus/arcan-nix)
+  * (2) [gTile](https://github.com/gTile/gTile)
 
 ### Desktop Environment Ricing and Mixing
 
-* ( ) [r/gnome/comments/tptfg6/theme_kde_apps_on_gnome/](https://www.reddit.com/r/gnome/comments/tptfg6/theme_kde_apps_on_gnome/)
+* (R) [r/gnome/comments/tptfg6/theme_kde_apps_on_gnome/](https://www.reddit.com/r/gnome/comments/tptfg6/theme_kde_apps_on_gnome/)
 * WMs on Xubuntu and Lubuntu? → Lubuntu integrates well with KDE apps
-* ( ) [askubuntu.com/questions/24780/how-to-make-kde-applications-look-native-in-gnome](https://askubuntu.com/questions/24780/how-to-make-kde-applications-look-native-in-gnome)
-* ( ) [debugpoint.com/customize-gnome-clean-look-2022-1/](https://www.debugpoint.com/customize-gnome-clean-look-2022-1/)
+* (R) [askubuntu.com/questions/24780/how-to-make-kde-applications-look-native-in-gnome](https://askubuntu.com/questions/24780/how-to-make-kde-applications-look-native-in-gnome)
+* (R) [debugpoint.com/customize-gnome-clean-look-2022-1/](https://www.debugpoint.com/customize-gnome-clean-look-2022-1/)
 * search: gnome theme for kde apps
-* ( ) [r/kde/comments/11mghkl/guide_theme_dolphin_qt_apps_on_gnome/](https://www.reddit.com/r/kde/comments/11mghkl/guide_theme_dolphin_qt_apps_on_gnome/)
+* (R) [r/kde/comments/11mghkl/guide_theme_dolphin_qt_apps_on_gnome/](https://www.reddit.com/r/kde/comments/11mghkl/guide_theme_dolphin_qt_apps_on_gnome/)
 
 ## WM/Compositor
 
 * (5) [stratawm](https://github.com/StrataWM/strata) $$$
 * (5) [pinnaclewm](https://github.com/pinnacle-comp/pinnacle) $$$
 * (5) [magmawm](https://github.com/MagmaWM/MagmaWM)
-* ( ) [awesome-hyprland#plugins](https://github.com/hyprland-community/awesome-hyprland#plugins)
-* ( ) [cage-kiosk/cage: A Wayland kiosk](https://github.com/cage-kiosk/cage)
+* (->) [awesome-hyprland#plugins](https://github.com/hyprland-community/awesome-hyprland#plugins)
+* (2) [cage-kiosk/cage: A Wayland kiosk](https://github.com/cage-kiosk/cage)
 * (5) [dwl-guile](https://github.com/engstrand-config/dwl-guile) + [dwl-guile home service](https://github.com/engstrand-config/home-service-dwl-guile)
-* ( ) [dwl](https://github.com/denisdubochevalier/dwl)
-   |  ( ) [dwl](https://github.com/djpohly/dwl)
-* ( ) [ezmonad](https://github.com/QuillFlash/ezmonad)
-* ( ) [gamescope](https://github.com/Plagman/gamescope) - Gamescope is a micro-compositor that provides a sandboxed Xwayland desktop with independent input, resolution, and refresh rate.
-* ( ) [way-cooler](https://github.com/OmegaRogue/way-cooler)
-* ( ) [home-service-dwl-guile](https://github.com/engstrand-config/home-service-dwl-guile)
-* ( ) [hy3](https://github.com/outfoxxed/hy3)
-* ( ) [Hyprland](https://hyprland.org/) - [awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) Hyprland is a dynamic tiling Wayland compositor that doesn’t sacrifice on its looks. [So you want to learn hyprland? LONG VERSION... install and m0re.](https://www.youtube.com/watch?v=iE99GrcZzhs) -> [Never knew Hyprland had different animations than the default!](https://www.youtube.com/watch?v=UOniMj7bkh4) [Monitors | Hyprland Wiki](https://wiki.hyprland.org/Configuring/Monitors/)
-* ( ) [kiwmi (fork)](https://github.com/kuruczgy/kiwmi)
-* ( ) [kiwmi](https://github.com/buffet/kiwmi)
-* ( ) [mahogany](https://github.com/stumpwm/mahogany) (Wayland, CL)
-* ( ) [monroeclinton/mwm: My Window Manager](https://github.com/monroeclinton/mwm)
-* ( ) [newm-atha](https://sr.ht/~atha/newm-atha/)
-* ( ) [newm: Wayland compositor](https://github.com/jbuchermn/newm)
-* ( ) [newM](https://github.com/jbuchermn/newm)
-* ( ) [niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri) $$$
-* ( ) [noway](https://github.com/mora-unie-youer/noway)
-* ( ) [papersway](https://spwhitton.name/tech/code/papersway/)
-* ( ) [river](https://github.com/riverwm/river) | ( ) [river-luatile](https://github.com/MaxVerevkin/river-luatile) | ( ) [kile](https://gitlab.com/snakedye/kile) - layout generator for RiverWM
+* (2.5) [dwl](https://github.com/denisdubochevalier/dwl)
+   |  (2.5) [dwl](https://github.com/djpohly/dwl)
+* (2) [ezmonad](https://github.com/QuillFlash/ezmonad)
+* (6) [gamescope](https://github.com/Plagman/gamescope) - Gamescope is a micro-compositor that provides a sandboxed Xwayland desktop with independent input, resolution, and refresh rate.
+* (5) [way-cooler](https://github.com/OmegaRogue/way-cooler)
+* (2) [home-service-dwl-guile](https://github.com/engstrand-config/home-service-dwl-guile)
+* (2.5) [hy3](https://github.com/outfoxxed/hy3)
+* (1) [Hyprland](https://hyprland.org/) - [awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) Hyprland is a dynamic tiling Wayland compositor that doesn’t sacrifice on its looks. [So you want to learn hyprland? LONG VERSION... install and m0re.](https://www.youtube.com/watch?v=iE99GrcZzhs) -> [Never knew Hyprland had different animations than the default!](https://www.youtube.com/watch?v=UOniMj7bkh4) [Monitors | Hyprland Wiki](https://wiki.hyprland.org/Configuring/Monitors/)
+* (2.5) [kiwmi (fork)](https://github.com/kuruczgy/kiwmi)
+* (2.5) [kiwmi](https://github.com/buffet/kiwmi)
+* (2) [mahogany](https://github.com/stumpwm/mahogany) (Wayland, CL)
+* (5) [monroeclinton/mwm: My Window Manager](https://github.com/monroeclinton/mwm)
+* (5) [newm-atha](https://sr.ht/~atha/newm-atha/)
+      + (5) [pywm-atha](https://git.sr.ht/~atha/pywm-atha)
+* (5) [newm: Wayland compositor](https://github.com/jbuchermn/newm) [newM](https://github.com/jbuchermn/newm)
+* (2) [niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri) $$$
+* (5) [noway](https://github.com/mora-unie-youer/noway)
+* (2) [river](https://github.com/riverwm/river) | (2) [river-luatile](https://github.com/MaxVerevkin/river-luatile) | (2) [kile](https://gitlab.com/snakedye/kile) - layout generator for RiverWM
       + (2.5) [algae](https://github.com/amirography/algae) RiverWM config in Rust
       + (2.5) [algae](https://github.com/prmadev/algae) - river in rust
-* ( ) [simplewc](https://www.reddit.com/r/unixporn/s/7BK4nY4pV3) [github](https://github.com/kcirick/simplewc)
-* ( ) [strata](https://github.com/StrataWM/strata)
-* ( ) [sway useful add-ons](https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway)
-* ( ) [Sway](https://swaywm.org/) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11. [i3 to Sway :: The Curator](https://julioln.com/posts/from-i3-to-sway/)
-* ( ) [swayfx: SwayFX: Sway, but with eye candy!](https://github.com/WillPower3309/swayfx)
-* ( ) [swaywm](https://swaywm.org/) [swayWM First Impressions - Is it Good? - YouTube](https://www.youtube.com/watch?v=FmEaMntQDzM)
-* ( ) [taiwins](https://github.com/taiwins/taiwins)
-* ( ) [vivarium](https://github.com/inclement/vivarium)
-* ( ) [way-cooler](http://way-cooler.org/)
-* ( ) [wayfire](https://github.com/WayfireWM/wayfire)
-* ( ) [wayfire](https://wayfire.org/) - Wayfire is a wayland compositor based on wlroots. It aims to create a customizable, extendable and lightweight environment without sacrificing its appearance.
-* ( ) [waymonad](https://github.com/waymonad/waymonad)
-* ( ) [waymonader](https://github.com/ardek66/waymonader)
-* ( ) [wmoon](https://github.com/Natchuz/wmoon)
-* ( ) [Qtile](http://www.qtile.org/) - Qtile is a full-featured, hackable tiling window manager written and configured in Python. + ( ) [elParaguayo/qtile-widget-livefootballscores: Qtile widget to display live football scores](https://github.com/elParaguayo/qtile-widget-livefootballscores)
+* (2) [simplewc](https://www.reddit.com/r/unixporn/s/7BK4nY4pV3) [github](https://github.com/kcirick/simplewc)
+* (->) [sway useful add-ons](https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway)
+* (2) [sway](https://swaywm.org/) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11. [i3 to Sway :: The Curator](https://julioln.com/posts/from-i3-to-sway/)
+* (2) [swayfx: SwayFX: Sway, but with eye candy!](https://github.com/WillPower3309/swayfx)
+* (2) [swaywm](https://swaywm.org/) [swayWM First Impressions - Is it Good? - YouTube](https://www.youtube.com/watch?v=FmEaMntQDzM)
+      + (2) [papersway](https://spwhitton.name/tech/code/papersway/)
+* (5) [taiwins](https://github.com/taiwins/taiwins)
+* (5) [vivarium](https://github.com/inclement/vivarium) -> good illustrations
+* (5) [way-cooler](http://way-cooler.org/)
+* (2) [wayfire](https://github.com/WayfireWM/wayfire) [wayfire](https://wayfire.org/) - Wayfire is a wayland compositor based on wlroots. It aims to create a customizable, extendable and lightweight environment without sacrificing its appearance.
+* (5) [waymonad](https://github.com/waymonad/waymonad)
+   | (5) [waymonader](https://github.com/ardek66/waymonader)
+* (5) [wmoon](https://github.com/Natchuz/wmoon)
+* (2) [qtile](http://www.qtile.org/) - Qtile is a full-featured, hackable tiling window manager written and configured in Python. + (2) [elParaguayo/qtile-widget-livefootballscores: Qtile widget to display live football scores](https://github.com/elParaguayo/qtile-widget-livefootballscores)
 
 ### Stacking Window Managers
 
@@ -210,31 +199,31 @@
 * -> [Configuring Xmonad and Polybar (It's Not THAT Difficult!) - YouTube](https://www.youtube.com/watch?v=cOehuALOQy4)
 * (x11) [dwm](https://github.com/PurpleAce88/dwm-bar-in-rust-)
 * for i3
-  * (x11 ) [i3bar](https://www.reddit.com/r/i3wm/comments/adjhd0/can_i_hide_i3bar_at_all_times_except_when_i/ )
-  * (x11 ) [i3status-rust](https://github.com/greshake/i3status-rust)
-* (x11 ) [Lemonbar](https://github.com/LemonBoy/bar) - Super fast, lightweight, and mnml status bar for Linux.
-* (x11 ) [polybar](https://github.com/polybar/polybar) [polybar site](https://polybar.github.io/) - Fast and easy-to-use status bar.
-* (x11 ) [xmobar](https://codeberg.org/xmobar/xmobar) [xmobar](https://codeberg.org/xmobar/xmobar/src/branch/master/doc/quick-start.org) + [Pomobar](https://github.com/rlcintra/pomobar) -> [r/unixporn - [Xmonad / Taffybar] A minimalist & blue RICE!](https://www.reddit.com/r/unixporn/comments/stsstb/xmonad_taffybar_a_minimalist_blue_rice/), [beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html](https://beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html)
-* (x11 ) [taffybar](https://github.com/taffybar/taffybar) - [r/unixporn - [taffybar/XMonad] Gtk+3 Updates to Taffybar](https://www.reddit.com/r/unixporn/comments/78zwek/taffybarxmonad_gtk3_updates_to_taffybar/) - [taffybarXMonad](https://www.reddit.com/r/unixporn/comments/8l40iu/taffybarxmonad_a_little_bit_too_much_transparency/), [r/unixporn - [XMonad] Dynamic Workspace Naming with Taffybar](https://www.reddit.com/r/unixporn/comments/59y6uf/xmonad_dynamic_workspace_naming_with_taffybar/)
-  * (x11 ) [gtk-sni-tray](https://github.com/taffybar/gtk-sni-tray)
+  * (6) [i3bar](https://www.reddit.com/r/i3wm/comments/adjhd0/can_i_hide_i3bar_at_all_times_except_when_i/ )
+  * (6) [i3status-rust](https://github.com/greshake/i3status-rust)
+* (6) [Lemonbar](https://github.com/LemonBoy/bar) - Super fast, lightweight, and mnml status bar for Linux.
+* (6) [polybar](https://github.com/polybar/polybar) [polybar site](https://polybar.github.io/) - Fast and easy-to-use status bar.
+* (6) [xmobar](https://codeberg.org/xmobar/xmobar) [xmobar](https://codeberg.org/xmobar/xmobar/src/branch/master/doc/quick-start.org) + [Pomobar](https://github.com/rlcintra/pomobar) -> [r/unixporn - [Xmonad / Taffybar] A minimalist & blue RICE!](https://www.reddit.com/r/unixporn/comments/stsstb/xmonad_taffybar_a_minimalist_blue_rice/), [beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html](https://beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html)
+* (6) [taffybar](https://github.com/taffybar/taffybar) - [r/unixporn - [taffybar/XMonad] Gtk+3 Updates to Taffybar](https://www.reddit.com/r/unixporn/comments/78zwek/taffybarxmonad_gtk3_updates_to_taffybar/) - [taffybarXMonad](https://www.reddit.com/r/unixporn/comments/8l40iu/taffybarxmonad_a_little_bit_too_much_transparency/), [r/unixporn - [XMonad] Dynamic Workspace Naming with Taffybar](https://www.reddit.com/r/unixporn/comments/59y6uf/xmonad_dynamic_workspace_naming_with_taffybar/)
+  * (6) [gtk-sni-tray](https://github.com/taffybar/gtk-sni-tray)
 * -> investigate polybar vs qtile bar
-* (x11 ) [dzen](https://robm.github.io/dzen/)
-* (x11 ) [cnx](https://github.com/mjkillough/cnx)
-* (x11 ) [trayer](https://github.com/sargon/trayer-srg)
-* (x11 ) [stalonetray](https://kolbusa.github.io/stalonetray/)
+* (6) [dzen](https://robm.github.io/dzen/)
+* (6) [cnx](https://github.com/mjkillough/cnx)
+* (6) [trayer](https://github.com/sargon/trayer-srg)
+* (6) [stalonetray](https://kolbusa.github.io/stalonetray/)
 
 ### Bar Inputs
 
-* ( ) [luastatus](https://github.com/shdown/luastatus)
+* (2.5) [luastatus](https://github.com/shdown/luastatus)
 
 ### Widgets
 
-* ( ) [SwayOSD](https://github.com/ErikReider/SwayOSD)
-* ( ) [mixxc](https://github.com/Elvyria/Mixxc) minimalistic volume mixer
-* ( ) [waybar-weather](https://github.com/RiScJ/waybar-weather)
-* ( ) [playerctl-polybar](https://yarmo.eu/blog/playerctl-polybar/)
-* ( ) [wmname](https://tools.suckless.org/x/wmname/)
-* ( ) [Reddit - [ wms ] alternating border color as low battery alert](https://www.reddit.com/r/unixporn/comments/1239m15/wms_alternating_border_color_as_low_battery_alert/)
+* (2.5) [SwayOSD](https://github.com/ErikReider/SwayOSD)
+* (2.5) [mixxc](https://github.com/Elvyria/Mixxc) minimalistic volume mixer
+* (2) [waybar-weather](https://github.com/RiScJ/waybar-weather)
+* (5) [playerctl-polybar](https://yarmo.eu/blog/playerctl-polybar/)
+* (2) [wmname](https://tools.suckless.org/x/wmname/)
+* (2) [Reddit - [ wms ] alternating border color as low battery alert](https://www.reddit.com/r/unixporn/comments/1239m15/wms_alternating_border_color_as_low_battery_alert/)
 
 ## Desktop Managers + Greeters
 
@@ -254,32 +243,32 @@
    | (3) [cosmic-greeter](https://github.com/pop-os/cosmic-greeter)
    | (3) [greetd + gtkgreet](https://man.sr.ht/~kennylevinsen/greetd/#styling-gtkgreet)
    | (4) [wlgreet](https://git.sr.ht/~kennylevinsen/wlgreet)
-   | ( ) [dlm - The Dumb Login Manager, an fbdev greeter for greetd - sourcehut git](https://git.sr.ht/~kennylevinsen/dlm)
-   | ( ) [gtkgreet - Gtk greeter for greetd - sourcehut git](https://git.sr.ht/~kennylevinsen/gtkgreet)
-   | ( ) [tuigreet: Graphical console greeter for greetd](https://github.com/apognu/tuigreet)
-   | ( ) [Greetd - NixOS Wiki](https://nixos.wiki/wiki/Greetd)
-   | ( ) [Marcus Britanicus / QtGreet · GitLab](https://gitlab.com/marcusbritanicus/QtGreet)
-   -> package: ( ) [Vawlpe/hgreet: Haskell package to interact with the greetd daemon trough it's IPC protocol.](https://github.com/Vawlpe/hgreet) - [hgreet/hgreet-example at main · Vawlpe/hgreet](https://github.com/Vawlpe/hgreet/tree/main/hgreet-example)
+   | (2.5) [dlm - The Dumb Login Manager, an fbdev greeter for greetd - sourcehut git](https://git.sr.ht/~kennylevinsen/dlm)
+   | (2.5) [gtkgreet - Gtk greeter for greetd - sourcehut git](https://git.sr.ht/~kennylevinsen/gtkgreet)
+   | (2) [tuigreet: Graphical console greeter for greetd](https://github.com/apognu/tuigreet)
+   | (R) [Greetd - NixOS Wiki](https://nixos.wiki/wiki/Greetd)
+   | (2) [Marcus Britanicus / QtGreet · GitLab](https://gitlab.com/marcusbritanicus/QtGreet)
+   | (2) [Vawlpe/hgreet: Haskell package to interact with the greetd daemon trough it's IPC protocol.](https://github.com/Vawlpe/hgreet) - [hgreet/hgreet-example at main · Vawlpe/hgreet](https://github.com/Vawlpe/hgreet/tree/main/hgreet-example) -> update
 * (2) [sddm](https://github.com/sddm/sddm)
    | (2) [SDDM Chili](https://www.opendesktop.org/p/1240784)
    | (2) [where-is-my-sddm-theme](https://github.com/stepanzubkov/where-is-my-sddm-theme)
-   | ( ) [sddm/issues/1316](https://github.com/sddm/sddm/issues/1316)
-   | ( ) [sddm/issues/1713](https://github.com/sddm/sddm/issues/1713)
-   | ( ) [genshin-sddm-theme](https://github.com/nicefaa6waa/genshin-sddm-theme)
+   | (R) [sddm/issues/1316](https://github.com/sddm/sddm/issues/1316)
+   | (R) [sddm/issues/1713](https://github.com/sddm/sddm/issues/1713)
+   | (R) [genshin-sddm-theme](https://github.com/nicefaa6waa/genshin-sddm-theme)
 * (2) [lemurs](https://github.com/coastalwhite/lemurs)
-* ( ) [Entrance](https://enlightenment.org/) - An EFL based display manager, highly experimental.
-* ( ) [GDM](https://wiki.gnome.org/Projects/GDM) - The GNOME display manager. [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) - A settings app for GNOME’s Login Manager, GDM.
-* ( ) [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - A cross-desktop display manager, can use various front-ends written in any toolkit.
-* ( ) [LXDM](http://sourceforge.net/projects/lxdm/) - The LXDE display manager. Can be used independent of the LXDE desktop environment.
-* ( ) [MDM](https://github.com/linuxmint/mdm) - The MDM display manager, used in Linux Mint, a fork of GDM 2.
-* ( ) [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - The X display manager with support for XDMCP, and host chooser.
+* (6) [Entrance](https://enlightenment.org/) - An EFL based display manager, highly experimental.
+* (6) [GDM](https://wiki.gnome.org/Projects/GDM) - The GNOME display manager. [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) - A settings app for GNOME’s Login Manager, GDM.
+* (6) [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - A cross-desktop display manager, can use various front-ends written in any toolkit.
+* (6) [LXDM](http://sourceforge.net/projects/lxdm/) - The LXDE display manager. Can be used independent of the LXDE desktop environment.
+* (6) [MDM](https://github.com/linuxmint/mdm) - The MDM display manager, used in Linux Mint, a fork of GDM 2.
+* (6) [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - The X display manager with support for XDMCP, and host chooser.
 
 ### Display manager - Console
 
-* ( ) [CDM](https://github.com/evertiro/cdm) - A ultra-minimalistic, yet full-featured login manager written in Bash.
-* ( ) [Console TDM](https://github.com/dopsi/console-tdm) - An extension for xinit written in pure Bash.
-* ( ) [Ly](https://github.com/cylgom/ly) - Ly is a lightweight, TUI (ncurses-like) display manager for Linux.
-* ( ) [nodm](https://github.com/spanezz/nodm) - A minimalistic display manager for automatic logins.
+* (5) [CDM](https://github.com/evertiro/cdm) - A ultra-minimalistic, yet full-featured login manager written in Bash.
+* (6) [Console TDM](https://github.com/dopsi/console-tdm) - An extension for xinit written in pure Bash.
+* (2) [Ly](https://github.com/cylgom/ly) - Ly is a lightweight, TUI (ncurses-like) display manager for Linux.
+* (6) [nodm](https://github.com/spanezz/nodm) - A minimalistic display manager for automatic logins.
 
 ### Color Picker
 
@@ -288,147 +277,135 @@
 
 ## Logout Menu
 
-* ( ) [wlogout](https://github.com/ArtsyMacaw/wlogout) [wlogout/blob/master/layout](https://github.com/ArtsyMacaw/wlogout/blob/master/layout)
-* ( ) [waylogout](https://github.com/loserMcloser/waylogout)
-* ( ) [wleave](https://github.com/AMNatty/wleave)
+* (1) [wlogout](https://github.com/ArtsyMacaw/wlogout) [wlogout/blob/master/layout](https://github.com/ArtsyMacaw/wlogout/blob/master/layout)
+* (2.5) [wleave](https://github.com/AMNatty/wleave)
+* (2.5) [waylogout](https://github.com/loserMcloser/waylogout)
 
 ## Lock Screen
 
-* ( ) [slock](https://github.com/BachoSeven/slock)
-* ( ) [slock-flexipatch](https://github.com/bakkeby/slock-flexipatch)
-* ( ) [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen)
-* ( ) [display3d](https://github.com/redpenguinyt/display3d) lock screen
-* ( ) [Paulo-Murilo-Dev/42screensaver](https://github.com/Paulo-Murilo-Dev/42screensaver)
-* ( ) [xsecurelock](https://github.com/google/xsecurelock)
+* (2) [gtklock](https://github.com/jovanlanik/gtklock)
+* (2) [waylock](https://github.com/ifreund/waylock)
+* (6) [slock](https://github.com/BachoSeven/slock)
+* (6) [slock-flexipatch](https://github.com/bakkeby/slock-flexipatch)
+* (5) [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - needs porting to Wayland stack
+* (5) [display3d](https://github.com/redpenguinyt/display3d) lock screen
+* (5) [Paulo-Murilo-Dev/42screensaver](https://github.com/Paulo-Murilo-Dev/42screensaver)
+* (6) [xsecurelock](https://github.com/google/xsecurelock)
+* (2.5) [swaylock-effects](https://github.com/mortie/swaylock-effects)
+* (2.5) [swaylock](https://github.com/swaywm/swaylock)
 
 ## Launcher, Menu
 
-* ( ) [albert](https://albertlauncher.github.io/) - An awesome keyboard launcher for the Linux desktop.
-* ( ) [albert](https://github.com/albertlauncher/albert,) [site](https://albertlauncher.github.io/) - An awesome keyboard launcher for the Linux desktop. [albertlauncher.github.io/https://albertlauncher.github.io/reference/](https://albertlauncher.github.io/https://albertlauncher.github.io/reference/) - ( ) [albert fork](https://github.com/ManuelSchneid3r/albert)
-* ( ) [appImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of “entry point” for running and integrating AppImages.
-* ( ) [bashrun](http://bashrun.sourceforge.net/)
-* ( ) [bashrun2](http://henning-bekel.de/bashrun2/)
-* ( ) [bemenu](https://github.com/Cloudef/bemenu)
-* ( ) [blisslauncher](https://f-droid.org/packages/foundation.e.blisslauncher/)
-* ( ) [catfish](https://docs.xfce.org/apps/catfish/start) - Catfish is a versatile file searching tool.
-* ( ) [cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative.
-* ( ) [dmenu_run](http://tools.suckless.org/dmenu/)
-* ( ) [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland)
-* ( ) [dmenu](https://tools.suckless.org/dmenu/) - dmenu is a dynamic menu for X, originally designed for dwm. It manages large numbers of user-defined menu items
-* ( ) [dmenu2](https://bitbucket.org/melek/dmenu2)
-* ( ) [fsearch](https://github.com/cboxdoerfer/fsearch) A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.
-* ( ) [fuzzel](https://codeberg.org/dnkl/fuzzel) - rofi for wayland
-* ( ) [fzf](https://github.com/junegunn/fzf)
-* ( ) [fzy](https://github.com/jhawthorn/fzy)
-* ( ) [gauntlet](https://github.com/project-gauntlet/gauntlet) - Application launcher with React-based plugins
-* ( ) [gmrun](http://sourceforge.net/projects/gmrun/)
-* ( ) [gof](https://github.com/mattn/gof)
-* ( ) [gpicker](http://www.nongnu.org/gpicker/)
-* ( ) [handlr-regex](https://github.com/Anomalocaridid/handlr-regex)
-* ( ) [Heatseeker](https://github.com/rschmitt/heatseeker)
-* ( ) [hex](https://github.com/Twins-Divyanshu-Sharma/Hex)
-* ( ) [hmenu](https://github.com/sulami/hmenu)
-* ( ) [Icepick](https://github.com/felipesere/icepick)
-* ( ) [ilia](...)
-* ( ) [kando-menu/kando](https://github.com/kando-menu/kando)
-* ( ) [kando](https://github.com/kando-menu/kando/blob/main/docs/configuring.md)
-* ( ) [kupfer](http://engla.github.io/kupfer/)
-* ( ) [kupfer](https://github.com/kupferlauncher/kupfer)
-* ( ) [lighthouse](https://github.com/emgram769/lighthouse)
-* ( ) [loungy](https://github.com/MatthiasGrandl/Loungy)
-* ( ) [mkcron](https://github.com/keshavbhatt/mkcron) - cron editor for desktop
-* ( ) [onagre-launcher/onagre](https://github.com/onagre-launcher/onagre)
-* ( ) [PathPicker](https://facebook.github.io/PathPicker/)
-* ( ) [peco](https://github.com/peco/peco)
-* ( ) [percol](https://github.com/mooz/percol)
-* ( ) [pick](https://github.com/thoughtbot/pick)
-* ( ) [picom - ArchWiki](https://wiki.archlinux.org/title/picom) TODO
-* ( ) [pmenu](https://github.com/sgtpep/pmenu) - A dynamic terminal-based menu inspired by dmenu.
-* ( ) [ppick](https://github.com/alanbork/ppick)
-* ( ) [rglauncher](https://github.com/aeghn/rglauncher)
-* ( ) [rofi(1) — Arch manual pages](https://man.archlinux.org/man/community/rofi/rofi.1.en)
-* ( ) [rofi](https://davatorium.github.io/rofi/) → [gist.github.com/MilesMcBain/0e6f449c3f8e07ed1b06aa785b0726ff](https://gist.github.com/MilesMcBain/0e6f449c3f8e07ed1b06aa785b0726ff) -> vs dmenu
-* ( ) [rofi](https://github.com/adi1090x/rofi)
-   | ( ) [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
-   | ( ) [rofi](https://github.com/DaveDavenport/rofi)
-* ( ) [rrun](https://github.com/buster/rrun) (Rust)
-* ( ) [Selecta](https://github.com/garybernhardt/selecta)
-* ( ) [selector](http://fleuret.org/cgi-bin/gitweb/gitweb.cgi?p=selector)
-* ( ) [shellex](https://github.com/Merovius/shellex)
-* ( ) [slmenu](https://bitbucket.org/rafaelgg/slmenu)
-* ( ) [smenu](https://github.com/p-gen/smenu)
-* ( ) [sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop)
-* ( ) [tmenu](https://github.com/dhamidi/tmenu)
-* ( ) [tofi](https://github.com/philj56/tofi)
-* ( ) [tpick](https://github.com/smblott-github/tpick)
-* ( ) [ulauncher](https://ulauncher.io/) - Ulauncher is a fast application launcher for Linux. It’s is written in Python, using GTK+.
-* ( ) [vis-menu](http://martanne.github.io/vis/man/vis-menu.1.html)
-* ( ) [walker](https://github.com/abenz1267/walker)
-* ( ) [wofi](https://sr.ht/~scoopta/wofi/)
-* ( ) [xboomx](https://github.com/victorhaggqvist/xboomx)
-* ( ) [xlauncher](https://github.com/vatriani/xlauncher)
+### GUI Launcher
+
+* (2) [albert](https://albertlauncher.github.io/) - An awesome keyboard launcher for the Linux desktop. [albert](https://github.com/albertlauncher/albert,) [site](https://albertlauncher.github.io/) - An awesome keyboard launcher for the Linux desktop. [albertlauncher.github.io/https://albertlauncher.github.io/reference/](https://albertlauncher.github.io/https://albertlauncher.github.io/reference/)
+   | (2.5) [albert fork](https://github.com/ManuelSchneid3r/albert)
+* (2) [appImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of “entry point” for running and integrating AppImages.
+* (2.5) [bashrun](http://bashrun.sourceforge.net/)
+   | (2.5) [bashrun2](http://henning-bekel.de/bashrun2/)
+* (5) [lighthouse](https://github.com/emgram769/lighthouse)
+* (N) [loungy](https://github.com/MatthiasGrandl/Loungy) $$$$$$$$$
+* (4.5) [mkcron](https://github.com/keshavbhatt/mkcron) - cron editor for desktop - update for use on non-NixOS, perhaps
+* (2) [onagre-launcher/onagre](https://github.com/onagre-launcher/onagre)
+* (2) [rglauncher](https://github.com/aeghn/rglauncher)
+* (1) [fuzzel](https://codeberg.org/dnkl/fuzzel) - rofi for wayland
+* (2.5) [bemenu](https://github.com/Cloudef/bemenu)
+* (2.5) [catfish](https://docs.xfce.org/apps/catfish/start) - Catfish is a versatile file searching tool.
+* (2.5) [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland)
+* (2.5) [fsearch](https://github.com/cboxdoerfer/fsearch) A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.
+* (2.5) [Heatseeker](https://github.com/rschmitt/heatseeker)
+* (2.5) [kupfer](https://kupferlauncher.github.io/) [kupfer](https://github.com/kupferlauncher/kupfer)
+* (2) [cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative.
+* (2) [gauntlet](https://github.com/project-gauntlet/gauntlet) - Application launcher with React-based plugins
+* (2) [handlr-regex](https://github.com/Anomalocaridid/handlr-regex)
+* (2) [kando-menu/kando](https://github.com/kando-menu/kando) [kando](https://github.com/kando-menu/kando/blob/main/docs/configuring.md)
+* (2) [PathPicker](https://facebook.github.io/PathPicker/)
+* (5) [hex](https://github.com/Twins-Divyanshu-Sharma/Hex)
+* (5) [hmenu](https://github.com/sulami/hmenu)
+* (5) [Icepick](https://github.com/felipesere/icepick)
+* (6) [dmenu_run](http://tools.suckless.org/dmenu/)
+* (6) [dmenu](https://tools.suckless.org/dmenu/) - dmenu is a dynamic menu for X, originally designed for dwm. It manages large numbers of user-defined menu items
+* (6) [dmenu2](https://bitbucket.org/melek/dmenu2)
+* (6) [handlr](https://github.com/chmln/handlr)
+* (6) [rofi](https://davatorium.github.io/rofi/) → [gist.github.com/MilesMcBain/0e6f449c3f8e07ed1b06aa785b0726ff](https://gist.github.com/MilesMcBain/0e6f449c3f8e07ed1b06aa785b0726ff) * (R) [rofi(1) — Arch manual pages](https://man.archlinux.org/man/community/rofi/rofi.1.en) -> vs dmenu
+   | (6) [rofi](https://github.com/DaveDavenport/rofi)
+* (2) [rofi-wayland](https://github.com/lbonn/rofi) + [rofi extensions](https://github.com/adi1090x/rofi)
+* (5) [sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop)
+* (R) [tmenu](https://github.com/dhamidi/tmenu)
+* (2.5) [tofi](https://github.com/philj56/tofi)
+* (R) [tpick](https://github.com/smblott-github/tpick)
+* (2.5) [ulauncher](https://ulauncher.io/) - Ulauncher is a fast application launcher for Linux. It’s is written in Python, using GTK+.
+* (6) [vis-menu](http://martanne.github.io/vis/man/vis-menu.1.html)
+* (2.5) [walker](https://github.com/abenz1267/walker)
+* (2.5) [wofi](https://sr.ht/~scoopta/wofi/)
+* (6) [xboomx](https://github.com/victorhaggqvist/xboomx)
+* (6) [xlauncher](https://github.com/vatriani/xlauncher)
 
 ### Misc / plugins
 
-* ( ) [rofi-calc](https://github.com/svenstaro/rofi-calc)
-* ( ) [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu)
-* ( ) [...](https://www.reddit.com/r/unixporn/s/DoOlUPlMjw)  rofi plugin for nerdfonts
+* (5) [rofi-calc](https://github.com/svenstaro/rofi-calc) $$$
+* (2) [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) $$$
+* (5) [...](https://github.com/rolv-apneseth/rofi-nerdy)  rofi plugin for nerdfonts $$$
+* (5) [keepmenu](https://github.com/firecat53/keepmenu)
 
 ## Notification
 
-* ( ) [dunst](https://github.com/dunst-project/dunst)
-* ( ) [tiramisu](https://github.com/Sweets/tiramisu)
-* ( ) [mako](https://github.com/emersion/mako)
-* ( ) [linux_notification_center](https://github.com/phuhl/linux_notification_center)
-* ( ) [dunst](https://github.com/dunst-project/dunst)
-* ( ) [noti](https://github.com/variadico/noti) Monitor a process and trigger a notification.
-* ( ) [ntfy](https://github.com/dschep/ntfy) Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
-* ( ) [undistract-me](https://github.com/jml/undistract-me) - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
-* ( ) [keep](https://github.com/keephq/keep) - Simple alerting tool, with declarative syntax and builtin providers.
-* ( ) [catlight](https://catlight.io/) - status notifier for developers. Checks the status of continuous delivery builds and shows desktop notifications.
-* ( ) [sysm](https://github.com/jafarlihi/sysm) - Makes your system play custom sounds when any configured system or external event happens.
-* ( ) [Welcome to Notifiers documentation! — notifiers 1.3.0 documentation](https://notifiers.readthedocs.io/en/latest/)
+* (2) [dunst](https://github.com/dunst-project/dunst)
+* (2.5) [tiramisu](https://github.com/Sweets/tiramisu)
+* (2) [mako](https://github.com/emersion/mako)
+* (2.5) [avizo](https://github.com/misterdanb/avizo)
+* (2) [linux_notification_center](https://github.com/phuhl/linux_notification_center) - in Haskell!
+* (2) [noti](https://github.com/variadico/noti) Monitor a process and trigger a notification.
+* (5) [ntfy](https://github.com/dschep/ntfy) Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
+* (5) [undistract-me](https://github.com/jml/undistract-me) - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
+* (2) [keep](https://github.com/keephq/keep) - Simple alerting tool, with declarative syntax and builtin providers.
+* (2.5) [catlight](https://catlight.io/) - status notifier for developers. Checks the status of continuous delivery builds and shows desktop notifications.
+* (2) [sysm](https://github.com/jafarlihi/sysm) - Makes your system play custom sounds when any configured system or external event happens.
+* (2) [Welcome to Notifiers documentation! — notifiers 1.3.0 documentation](https://notifiers.readthedocs.io/en/latest/)
 
 ## Wallpaper
 
-* ( ) [todowalp](https://github.com/linuxdotexe/todowalp)
-* ( ) [caydence](https://github.com/joshcbrown/caydence)
-* ( ) [lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
-* ( ) [pscircle](https://gitlab.com/mildlyparallel/pscircle/blob/master/examples/pscircle.service)
+* (5) [todowalp](https://github.com/linuxdotexe/todowalp) $$$$$$$$$
+* (N) [caydence](https://github.com/joshcbrown/caydence)
+* (N) [lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
 * (5) [Daily Reddit Wallpaper](https://federicotorrielli.github.io/Daily-Reddit-Wallpaper/) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup.
-* ( ) [smoothpaper](https://github.com/matjam/smoothpaper) Smoothly transitioning wallpaper daemon for X11 Window Managers
+* (5) [smoothpaper](https://github.com/matjam/smoothpaper) Smoothly transitioning wallpaper daemon for X11 Window Managers
 
 ### Monitoring Wallpaper
 
-* ( ) [MangoHud](https://github.com/flightlessmango/MangoHud)
-* ( ) [victorconky](https://github.com/kushall09/victorconky)
+* (2) [MangoHud](https://github.com/flightlessmango/MangoHud)
+* (5) [victorconky](https://github.com/kushall09/victorconky)
+* (2) [pscircle](https://gitlab.com/mildlyparallel/pscircle)
 
 ## Miscellaneous
 
 ### Hyprland Apps
 
-* ( ) [hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
-* ( ) [hyprwm/hyprland-welcome: Hyprland's welcome app, written in qt.](https://github.com/hyprwm/hyprland-welcome) - Hyprland's welcome app, written in qt
-* ( ) [hyprkool](https://github.com/thrombe/hyprkool) - Hyprland plugin to replicate the feel of kde activities and desktop grid layout
-* ( ) [hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
+* (2) [hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
+* (2) [hyprwm/hyprland-welcome: Hyprland's welcome app, written in qt.](https://github.com/hyprwm/hyprland-welcome) - Hyprland's welcome app, written in qt
+* (2) [hyprkool](https://github.com/thrombe/hyprkool) - Hyprland plugin to replicate the feel of kde activities and desktop grid layout
+* (2) [hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 
 ### Window Management Tools
 
-* ( ) [~emersion/wlr-randr - An xrandr clone for wlroots compositors - sourcehut git](https://git.sr.ht/~emersion/wlr-randr)
+* (2.5) [~emersion/wlr-randr - An xrandr clone for wlroots compositors - sourcehut git](https://git.sr.ht/~emersion/wlr-randr)
+* (2.5) [kanshi](https://sr.ht/~emersion/kanshi/) ([autorandr](https://github.com/phillipberndt/autorandr) for x)
+* (2.5) [cosmic-randr](https://github.com/pop-os/cosmic-randr) ([xrandr](https://xorg-team.pages.debian.net/xorg/howto/use-xrandr.html) for x)
+(2) [pop-os/cosmic-randr at 88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c](https://github.com/pop-os/cosmic-randr/tree/88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c)
 
 #### X11-Only
 
-* (x11 ) [xbanish](https://github.com/jcs/xbanish)
-* (x11 ) [unclutter-xfixes](https://github.com/Airblader/unclutter-xfixes)
+* (6) [xbanish](https://github.com/jcs/xbanish)
+* (6) [unclutter-xfixes](https://github.com/Airblader/unclutter-xfixes)
 
 ### Brightness
 
-* ( ) [dim](https://github.com/marcelohdez/dim)
-* ( ) brightnessctl
+* (2.5) [dim](https://github.com/marcelohdez/dim)
+* (2.5) brightnessctl
 
 ### Clipboard
 
-* ( ) [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
+* (2) [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 
 ### Drag and Drop
 
@@ -436,38 +413,38 @@
 
 ### Openers (like xdg-open)
 
-* (2) [handlr](https://github.com/chmln/handlr)
 * (5) [mimi](https://github.com/BachoSeven/mimi) $$$
 * (5) [open-in-editor](https://github.com/dandavison/open-in-editor)
+* (2.5) [gof](https://github.com/mattn/gof)
 
 ### Theme Switcher
 
-* ( ) [nChain](https://github.com/Nocxium/nChain) theme switcher
+* (5N) [nChain](https://github.com/Nocxium/nChain) theme switcher
 
 ## Comparison
 
-* ( ) [Comparison of extensible window managers | Sawfish | Fandom](https://sawfish.fandom.com/wiki/Comparison_of_extensible_window_managers)
-* ( ) [My Tier List For Tiling Window Managers - YouTube](https://www.youtube.com/watch?v=xysISs0mcj8)
-* ( ) [Qtile Versus i3 Window Manager](https://www.youtube.com/watch?v=vXFuhNbGgZg)
+* (R) [Comparison of extensible window managers | Sawfish | Fandom](https://sawfish.fandom.com/wiki/Comparison_of_extensible_window_managers)
+* (R) [My Tier List For Tiling Window Managers - YouTube](https://www.youtube.com/watch?v=xysISs0mcj8)
+* (R) [Qtile Versus i3 Window Manager](https://www.youtube.com/watch?v=vXFuhNbGgZg)
 * compare i3/sway vs qtile
-* ( ) [video](https://www.youtube.com/watch?v=pY9HPm1N16Y)
-* ( ) [481 - ¿PROBAR UN TILING WINDOW MANAGER?¿REGOLITH, I3 O CUAL?](https://atareao.es/podcast/probar-un-tiling-window-managerregolith-i3-o-cual/)
-* ( ) [tecmint.com/best-tiling-window-managers-for-linux/](https://www.tecmint.com/best-tiling-window-managers-for-linux/)
-* ( ) [Reddit - Best WM to start with](https://www.reddit.com/r/unixporn/comments/11m9ggz/best_wm_to_start_with/)
+* (R) [video](https://www.youtube.com/watch?v=pY9HPm1N16Y)
+* (R) [481 - ¿PROBAR UN TILING WINDOW MANAGER?¿REGOLITH, I3 O CUAL?](https://atareao.es/podcast/probar-un-tiling-window-managerregolith-i3-o-cual/)
+* (R) [tecmint.com/best-tiling-window-managers-for-linux/](https://www.tecmint.com/best-tiling-window-managers-for-linux/)
+* (R) [Reddit - Best WM to start with](https://www.reddit.com/r/unixporn/comments/11m9ggz/best_wm_to_start_with/)
 
 ## Screenshot
 
 * -> [debian wayland screenshot tool discussion](https://forums.debian.net/viewtopic.php?p%3D794502) CLI screenshot tool
 * (4.5) [flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
-* ( ) [grimblast](https://github.com/hyprwm/contrib/tree/main/grimblast)
-* ( ) [shutter on wayland](https://www.omgubuntu.co.uk/2024/01/shutter-on-wayland)
-* ( ) [flameshot](https://flameshot.org/)
-* ( ) [grimcap](https://ithub.com/wick3dr0se/grimcap)
+* (2.5) [grimblast](https://github.com/hyprwm/contrib/tree/main/grimblast)
+* (2.5) [shutter on wayland](https://www.omgubuntu.co.uk/2024/01/shutter-on-wayland)
+* (6) [flameshot](https://flameshot.org/)
+* (2.5) [grimcap](https://ithub.com/wick3dr0se/grimcap)
 * (2.5) [watershot](https://github.com/Kirottu/watershot) - A simple wayland native screenshot tool
-* ( ) [pyscreenshot 3.1 on PyPI - Libraries.io](https://libraries.io/pypi/pyscreenshot)
-* ( ) [screenshot-to-code](https://github.com/abi/screenshot-to-code)
-* ( ) [sss](https://github.com/SergioRibera/sss) - SSS (Super ScreenShot) is a WIP: CLI/Lib to take amazing screenshot of code or screen
-* ( ) [swappy](https://github.com/jtheoof/swappy)
+* (2.5) [pyscreenshot 3.1 on PyPI - Libraries.io](https://libraries.io/pypi/pyscreenshot)
+* (2.5) [screenshot-to-code](https://github.com/abi/screenshot-to-code)
+* (2.5) [sss](https://github.com/SergioRibera/sss) - SSS (Super ScreenShot) is a WIP: CLI/Lib to take amazing screenshot of code or screen $$$
+* (2.5) [swappy](https://github.com/jtheoof/swappy)
 * (2.5) [grim](https://sr.ht/~emersion/grim/)
 
 ### Screenshot Annotation
@@ -487,7 +464,7 @@
   | (6) [picom-shaders](https://github.com/ikz87/picom-shaders)
 * (6) [compton](https://github.com/yshui/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
 * (6) [xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency.
-* ( )[picom-shaders](https://github.com/ikz87/picom-shaders/wiki/Shader-gallery)
+* (6) [picom-shaders](https://github.com/ikz87/picom-shaders/wiki/Shader-gallery)
 * (6) [glassit-linux](https://github.com/Fmstrat/glassit-linux) - not needed due to picom*
 
 ## X11 WM Tools
@@ -564,7 +541,7 @@
 * (R) [smithay](https://github.com/Smithay/smithay)
 * (R) [wlroots](https://gitlab.freedesktop.org/wlroots/wlroots/)
 * weston*
-* ( ) [wayflan: From-scratch Wayland client for Common Lisp](https://sr.ht/~shunter/wayflan/)
+* (5) [wayflan: From-scratch Wayland client for Common Lisp](https://sr.ht/~shunter/wayflan/)
 
 ### Graphics and System Libraries
 
@@ -591,7 +568,6 @@
 * * (R)  [askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*](https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*)
 * * (R)  [unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts](https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts)
 * * (R)  [I wonder what will happen to XMonad as the Wayland future actually seems to be a... | Hacker News](https://news.ycombinator.com/item?id=28794901)
-* * (R)  [swhkd](https://github.com/waycrate/swhkd)
 * * (R)  [A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s) 
 * * (R)  [xwinman.org/](http://www.xwinman.org/)
 * * (R)  X Protocol Reference Manual for X11, Release 6 (Definitive Guide to X Window System, Vol. 0) (Definitive Guides to the X Window System)

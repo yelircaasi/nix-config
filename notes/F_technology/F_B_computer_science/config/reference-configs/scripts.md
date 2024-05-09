@@ -13,3 +13,4 @@ script perl [http://libgen.is/book/index.php?md5=3E343930F940A39296D35869A5525D4
 script perl [trizen/perl-scripts](https://github.com/trizen/perl-scripts) 5 great Perl scripts to keep in your sysadmin toolbox
 script perl [redhat.com/sysadmin/perl-scripts](https://www.redhat.com/sysadmin/perl-scripts)
 scripts: write utility scripts to list contents of all nvim-relevant directories, such as those on packpath and rtp -> require first running headless nvim redir commands
+Steve Oualline - Wicked Cool Perl Scripts : Useful Perl Scripts That Solve Difficult Problems

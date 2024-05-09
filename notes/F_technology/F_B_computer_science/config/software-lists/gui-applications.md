@@ -64,17 +64,7 @@
 * (5) [ConvertAll](https://github.com/doug-101/ConvertAll) [👉](http://convertall.bellz.org/) - A program that can convert many units of measurement to other units.
 * (5) [Geogebra](https://github.com/geogebra/geogebra)
 
-### GUI Markdown Editor
-
-* (5) [zettlr](https://github.com/Zettlr/Zettlr) [site](https://www.zettlr.com/)  * looks phenomenal
-* (5) [remarkable](https://github.com/jamiemcg/Remarkable) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM). - fork and update (call Markdawn? Markdon?)
-* (5) [marktext](https://github.com/marktext/marktext) → advanced features, look at them and copy where possible
-* (5) [Ghost Writer](https://ghostwriter.kde.org/) - A distraction-free Markdown editor for Windows and Linux.
-* (5) [marker](https://github.com/fabiocolacio/Marker) - Marker is a markdown editor for linux made with GTK+-3.0.
-* (5) [retext](https://github.com/retext-project/retext) - A Simple but powerful editor for Markdown and reStructuredText.
-* (6) [Typora](https://typora.io/) - minimal, CSS styling beautiful, but not FOSS
-
-#### GUI Markdown Viewer
+### GUI Markdown Viewer
 
 * (2) [litemdview](https://notabug.org/g0tsu/litemdview) (suckless md viewer) $$$ -> integrate into nvim workflow
 

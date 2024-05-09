@@ -536,13 +536,13 @@
 * (_) [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 * (_) [Cataclysm-DDA](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 * (_) [?](https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png)
-* ( ) [pokete](https://github.com/lxgr-linux/pokete)) - Pokemon-like.
+* (_) [pokete](https://github.com/lxgr-linux/pokete)) - Pokemon-like.
 * (_) [veloren/veloren](https://github.com/veloren/veloren)
 * (_) [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 * (_) [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 * (_) [IP2Trace](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
 * Movies
-* ( ) [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies.
+* (_) [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies.
 * (_) [movie](https://github.com/mayankchd/movie)) - Get movie info or compare movies.
 * (_) [linuxbrew](https://linuxbrew.sh/) - The Homebrew package manager for Linux.
 * (_) [pkgin](http://pkgin.net/) - Aimed at being an apt / yum like tool for managing pkgsrc binary packages.
@@ -574,10 +574,10 @@
 * (_) [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 * (_) [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 * (_) [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
-* ( ) [pm2](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
+* (_) [pm2](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
 * (_) [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 * (_) [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
-* ( ) [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
+* (_) [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 
 ### Npm
 

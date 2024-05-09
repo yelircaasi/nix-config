@@ -82,37 +82,37 @@
 
 * (2) [pop-os/cosmic-epoch: Next generation Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch)
       + (2) [Pop!OS Shell](https://github.com/pop-os/shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.
-* * (6)  [Budgie](https://blog.buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
-* * (6)  [Cinnamon](https://linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
-* * (6)  [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
-* * (6)  [Enlightenment](https://www.enlightenment.org/about) - A lightweight and pretty desktop environment that is designed to run fast and look good, while retaining a large degree of customization.
-* * (6)  [LXDE](https://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment.
-* * (6)  [LXQt](https://lxqt-project.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment.
-* * (6)  [Mate](https://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2.
-* * (6)  [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution.
-* * (6)  [UKUI](https://www.ukui.org/) - UKUI is a desktop environment for Linux distributions and other UNIX-like operating systems, originally developed for Ubuntu Kylin, and written using the Qt framework.
-* * (6)  [Unity](https://unity8.io/) - Unity is a shell for GNOME designed by Canonical for Ubuntu.
-* * (6)  [Xfce](https://www.xfce.org/) - [how_to_customize_xfce4panel/](https://www.reddit.com/r/unixporn/comments/12zboi0/xfce_decided_to_learn_how_to_customize_xfce4panel/)
-* * (6)  [GNOME](https://www.gnome.org/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session.
-  * * (6)  [GNOME Extensions](https://extensions.gnome.org/) - Extensions for the GNOME Desktop Environment.
-  * * (6)  [omglinux.com/space-bar-gnome-extension/](https://www.omglinux.com/space-bar-gnome-extension/)
-  * * (6)  [GNOME Look](https://www.gnome-look.org/) - A website that hosts a Large amounts of community created icons, shell themes, fonts, and many more assets that can be used to customize your GNOME desktop environment.
-  * * (6)  [Gradience](https://gradienceteam.github.io/) - Gradience is a tool for customizing Libadwaita applications and the adw-gtk3 theme.
-  * * (6)  [Extension Manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
-  * * (6)  [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - a shell for GNOME 3 which was initially called GNOME fallback mode. The desktop layout and the underlying technology is similar to GNOME 2
-* * (6)  [KDE Plasma](https://www.kde.org/plasma-desktop) - offers all the tools required for a modern desktop computing experience so you can be productive right from the start.
-  * * (6)  [KDE Plasma DT](https://youtu.be/S6Zf16gYzIY)
-  * * (6)  [docs.kde.org/*](https://docs.kde.org/)
-  * * (6)  [invent.kde.org/plasma](https://invent.kde.org/plasma) [en.wikipedia.org/wiki/KDE_Plasma_5](https://en.wikipedia.org/wiki/KDE_Plasma_5)
-  * * (6)  [userbase.kde.org/Tutorials*](https://userbase.kde.org/Tutorials) [userbase.kde.org/Welcome_to_KDE_UserBase](https://userbase.kde.org/Welcome_to_KDE_UserBase)
-  * * (6)  [userbase.kde.org/Websites*](https://userbase.kde.org/Websites) [docs.kde.org/](https://docs.kde.org/)
-  * * (6)  [docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html](https://docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html)
-  * * (6)  [[ KDE + Bismuth ] Am I doing it right? : r/unixporn - Reddit](https://www.reddit.com/r/unixporn/comments/vz6oyi/kde_bismuth_am_i_doing_it_right/)
-  * * (6)  [[KDE] Plasma with Bismuth tiling extension is just perfect. The ...](https://www.reddit.com/r/unixporn/comments/q55e8f/kde_plasma_with_bismuth_tiling_extension_is_just/)
-  * * (6)  [[KDE + Bismuth] Tartarus : r/unixporn - Reddit](https://www.reddit.com/r/unixporn/comments/x001ij/kde_bismuth_tartarus/)
-  * * (6)  [Bismuth](https://bismuth-forge.github.io/bismuth/) - Making tiling window management easy. On KDE Plasma.
-  * * (6)  [Kröhnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
-  * * (6)  [userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
+* (6)  [Budgie](https://blog.buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
+* (6)  [Cinnamon](https://linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
+* (6)  [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
+* (6)  [Enlightenment](https://www.enlightenment.org/about) - A lightweight and pretty desktop environment that is designed to run fast and look good, while retaining a large degree of customization.
+* (6)  [LXDE](https://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment.
+* (6)  [LXQt](https://lxqt-project.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment.
+* (6)  [Mate](https://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2.
+* (6)  [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution.
+* (6)  [UKUI](https://www.ukui.org/) - UKUI is a desktop environment for Linux distributions and other UNIX-like operating systems, originally developed for Ubuntu Kylin, and written using the Qt framework.
+* (6)  [Unity](https://unity8.io/) - Unity is a shell for GNOME designed by Canonical for Ubuntu.
+* (6)  [Xfce](https://www.xfce.org/) - [how_to_customize_xfce4panel/](https://www.reddit.com/r/unixporn/comments/12zboi0/xfce_decided_to_learn_how_to_customize_xfce4panel/)
+* (6)  [GNOME](https://www.gnome.org/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session.
+  * (6)  [GNOME Extensions](https://extensions.gnome.org/) - Extensions for the GNOME Desktop Environment.
+  * (6)  [omglinux.com/space-bar-gnome-extension/](https://www.omglinux.com/space-bar-gnome-extension/)
+  * (6)  [GNOME Look](https://www.gnome-look.org/) - A website that hosts a Large amounts of community created icons, shell themes, fonts, and many more assets that can be used to customize your GNOME desktop environment.
+  * (6)  [Gradience](https://gradienceteam.github.io/) - Gradience is a tool for customizing Libadwaita applications and the adw-gtk3 theme.
+  * (6)  [Extension Manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
+  * (6)  [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - a shell for GNOME 3 which was initially called GNOME fallback mode. The desktop layout and the underlying technology is similar to GNOME 2
+* (6)  [KDE Plasma](https://www.kde.org/plasma-desktop) - offers all the tools required for a modern desktop computing experience so you can be productive right from the start.
+  * (6)  [KDE Plasma DT](https://youtu.be/S6Zf16gYzIY)
+  * (6)  [docs.kde.org/*](https://docs.kde.org/)
+  * (6)  [invent.kde.org/plasma](https://invent.kde.org/plasma) [en.wikipedia.org/wiki/KDE_Plasma_5](https://en.wikipedia.org/wiki/KDE_Plasma_5)
+  * (6)  [userbase.kde.org/Tutorials*](https://userbase.kde.org/Tutorials) [userbase.kde.org/Welcome_to_KDE_UserBase](https://userbase.kde.org/Welcome_to_KDE_UserBase)
+  * (6)  [userbase.kde.org/Websites*](https://userbase.kde.org/Websites) [docs.kde.org/](https://docs.kde.org/)
+  * (6)  [docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html](https://docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html)
+  * (6)  [[ KDE + Bismuth ] Am I doing it right? : r/unixporn - Reddit](https://www.reddit.com/r/unixporn/comments/vz6oyi/kde_bismuth_am_i_doing_it_right/)
+  * (6)  [[KDE] Plasma with Bismuth tiling extension is just perfect. The ...](https://www.reddit.com/r/unixporn/comments/q55e8f/kde_plasma_with_bismuth_tiling_extension_is_just/)
+  * (6)  [[KDE + Bismuth] Tartarus : r/unixporn - Reddit](https://www.reddit.com/r/unixporn/comments/x001ij/kde_bismuth_tartarus/)
+  * (6)  [Bismuth](https://bismuth-forge.github.io/bismuth/) - Making tiling window management easy. On KDE Plasma.
+  * (6)  [Kröhnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
+  * (6)  [userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
 * (3) [desq](https://gitlab.com/DesQ)
 * (3) Arcan + suite
   * (R) [arcan-fe.com/](https://arcan-fe.com/)
@@ -179,11 +179,11 @@
 
 ### Stacking Window Managers
 
-* * (6)  [2bwm](https://github.com/venam/2bwm) - A fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm.
-* * (6)  [Blackbox](https://github.com/bbidulock/blackboxwm) - A fast, lightweight window manager for the X Window System, without all those annoying library dependencies.
-* * (6)  [Fluxbox](http://fluxbox.org/) - A window manager for X that was based on the Blackbox 0.61.1 code.
-* * (6)  [IceWM](https://ice-wm.org/) - A window manager for the X Window System. The goal of IceWM is speed, simplicity, and not getting in the user’s way.
-* * (6)  [Openbox](http://openbox.org/) - A highly configurable, next generation window manager with extensive standards support.
+* (6)  [2bwm](https://github.com/venam/2bwm) - A fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm.
+* (6)  [Blackbox](https://github.com/bbidulock/blackboxwm) - A fast, lightweight window manager for the X Window System, without all those annoying library dependencies.
+* (6)  [Fluxbox](http://fluxbox.org/) - A window manager for X that was based on the Blackbox 0.61.1 code.
+* (6)  [IceWM](https://ice-wm.org/) - A window manager for the X Window System. The goal of IceWM is speed, simplicity, and not getting in the user’s way.
+* (6)  [Openbox](http://openbox.org/) - A highly configurable, next generation window manager with extensive standards support.
 
 ## Bar, etc
 
@@ -345,7 +345,7 @@
 
 * (5) [rofi-calc](https://github.com/svenstaro/rofi-calc) $$$
 * (2) [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) $$$
-* (5) [...](https://github.com/rolv-apneseth/rofi-nerdy)  rofi plugin for nerdfonts $$$
+* (5) [rofi-nerdy](https://github.com/rolv-apneseth/rofi-nerdy)  rofi plugin for nerdfonts $$$
 * (5) [keepmenu](https://github.com/firecat53/keepmenu)
 
 ## Notification
@@ -553,36 +553,36 @@
 ### Wayland, X11, WM Information
 
 * -> guake for wayland?
-* * (R)  [wayland.app/protocols/](https://wayland.app/protocols/)
-* * (R)  [wayland.freedesktop.org/docs/html/](https://wayland.freedesktop.org/docs/html/)
-* * (R)  [cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11](https://www.cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11)
-* * (R)  [Thesis](https://www.cs.ru.nl/bachelors-theses/2019/Max_van_Deurzen___4581903___The_anatomy_of_the_modern_window_manager_-_a_case_study_for_X_in_an_Agile_manner.pdf)
+* (R)  [wayland.app/protocols/](https://wayland.app/protocols/)
+* (R)  [wayland.freedesktop.org/docs/html/](https://wayland.freedesktop.org/docs/html/)
+* (R)  [cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11](https://www.cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11)
+* (R)  [Thesis](https://www.cs.ru.nl/bachelors-theses/2019/Max_van_Deurzen___4581903___The_anatomy_of_the_modern_window_manager_-_a_case_study_for_X_in_an_Agile_manner.pdf)
 * Wayland vs X*
-* * (R)  [bbs.archlinux.org/viewtopic.php?id=238376](https://bbs.archlinux.org/viewtopic.php?id=238376)
-* * (R)  [Wayland vs X11](https://youtu.be/nPz5TAGYgzA)
-* * (R)  [en.wikipedia.org/wiki/Wayland_(protocol)](https://en.wikipedia.org/wiki/Wayland_(protocol)) vs X11?*
+* (R)  [bbs.archlinux.org/viewtopic.php?id=238376](https://bbs.archlinux.org/viewtopic.php?id=238376)
+* (R)  [Wayland vs X11](https://youtu.be/nPz5TAGYgzA)
+* (R)  [en.wikipedia.org/wiki/Wayland_(protocol)](https://en.wikipedia.org/wiki/Wayland_(protocol)) vs X11?*
   * Wayland Apps
-* * (R)  [wtype](https://github.com/atx/wtype)
-* * (R)  [ydotool](https://github.com/ReimuNotMoe/ydotool)
-* * (R)  [LeftWM - A Fast and Simple Xmonad Alternative - YouTube](https://www.youtube.com/watch?v=jvfk380Pses)
-* * (R)  [askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*](https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*)
-* * (R)  [unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts](https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts)
-* * (R)  [I wonder what will happen to XMonad as the Wayland future actually seems to be a... | Hacker News](https://news.ycombinator.com/item?id=28794901)
-* * (R)  [A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s) 
-* * (R)  [xwinman.org/](http://www.xwinman.org/)
-* * (R)  X Protocol Reference Manual for X11, Release 6 (Definitive Guide to X Window System, Vol. 0) (Definitive Guides to the X Window System)
-* * (R)  [The anatomy of the modern window manager](http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57)
-* * (R)  [eirenicon.org/implementing-linux-window-managers-tutorial/](https://eirenicon.org/implementing-linux-window-managers-tutorial/)
-* * (R)  [xwinman.org/others.php](http://www.xwinman.org/others.php)
-* * (R)  [userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
+* (R)  [wtype](https://github.com/atx/wtype)
+* (R)  [ydotool](https://github.com/ReimuNotMoe/ydotool)
+* (R)  [LeftWM - A Fast and Simple Xmonad Alternative - YouTube](https://www.youtube.com/watch?v=jvfk380Pses)
+* (R)  [askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*](https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*)
+* (R)  [unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts](https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts)
+* (R)  [I wonder what will happen to XMonad as the Wayland future actually seems to be a... | Hacker News](https://news.ycombinator.com/item?id=28794901)
+* (R)  [A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s) 
+* (R)  [xwinman.org/](http://www.xwinman.org/)
+* (R)  X Protocol Reference Manual for X11, Release 6 (Definitive Guide to X Window System, Vol. 0) (Definitive Guides to the X Window System)
+* (R)  [The anatomy of the modern window manager](http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57)
+* (R)  [eirenicon.org/implementing-linux-window-managers-tutorial/](https://eirenicon.org/implementing-linux-window-managers-tutorial/)
+* (R)  [xwinman.org/others.php](http://www.xwinman.org/others.php)
+* (R)  [userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
 * → Xorg vs Wayland vs Arcan
 * How to set up dropdown windows with a tiling window manager?
-* * (R)  [A Look Inside Mutter / GNOME Shell](https://lpc.events/event/7/contributions/834/attachments/684/1263/A_Look_Inside_Mutter.pdf)
-* * (R)  [x.org/releases/X11R7.5/doc/man/man1/xprop.1.html](https://www.x.org/releases/X11R7.5/doc/man/man1/xprop.1.html)
-* * (R)  [wiki.archlinux.org/title/Xorg#Composite](https://wiki.archlinux.org/title/Xorg#Composite)
-* * (R)  [How to build a window manager in Python](https://monroeclinton.com/build-your-own-window-manager/)
-* * (R)  [xorg documentation](https://www.x.org/wiki/Documentation/)
-* * (R)  [wiki.archlinux.org/title/Window_manager](https://wiki.archlinux.org/title/Window_manager)
-* * (R)  [Why I Use Tiling Window Managers - And Why You Should Too - YouTube](https://www.youtube.com/watch?v=K_W0ia2QjU8)
-* * (R)  [wayland](https://wayland.freedesktop.org/)
-* * (R)  [wayland protocols](https://wayland.app/protocols/)
+* (R)  [A Look Inside Mutter / GNOME Shell](https://lpc.events/event/7/contributions/834/attachments/684/1263/A_Look_Inside_Mutter.pdf)
+* (R)  [x.org/releases/X11R7.5/doc/man/man1/xprop.1.html](https://www.x.org/releases/X11R7.5/doc/man/man1/xprop.1.html)
+* (R)  [wiki.archlinux.org/title/Xorg#Composite](https://wiki.archlinux.org/title/Xorg#Composite)
+* (R)  [How to build a window manager in Python](https://monroeclinton.com/build-your-own-window-manager/)
+* (R)  [xorg documentation](https://www.x.org/wiki/Documentation/)
+* (R)  [wiki.archlinux.org/title/Window_manager](https://wiki.archlinux.org/title/Window_manager)
+* (R)  [Why I Use Tiling Window Managers - And Why You Should Too - YouTube](https://www.youtube.com/watch?v=K_W0ia2QjU8)
+* (R)  [wayland](https://wayland.freedesktop.org/)
+* (R)  [wayland protocols](https://wayland.app/protocols/)

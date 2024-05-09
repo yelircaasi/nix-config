@@ -137,6 +137,7 @@
 * (2.5) [LyX](https://en.wikipedia.org/wiki/LyX )
 * (1) [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system.
 * (2) [typst](https://github.com/typst/typst)
+* (T) [lihaoyi.com/Scalatex/](https://www.lihaoyi.com/Scalatex/)
 * (1) [latexmk](https://www.cantab.net/users/johncollins/latexmk/)
 * (5) [simtex](https://github.com/iaacornus/simtex) - simtex (simplified LaTeX) allows you to convert your markdown or text lectures into LaTeX file with one command, configured with simple .json file.
 * (2.5) [tectonic](https://github.com/tectonic-typesetting/tectonic)

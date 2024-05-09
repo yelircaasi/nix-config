@@ -34,7 +34,7 @@
 * (5) [Tin Browser](https://github.com/Wervice/Codelink/blob/main/tin/tin.md)
 * (1) [nyxt](https://nyxt.atlas.engineer/)
 * (1) [qutebrowser](https://github.com/qutebrowser/qutebrowser)
-* (2) [luakit](https://luakit.github.io/) + [duane-r/luakit-styles](https://github.com/duane-r/luakit-styles) * ( ) [luakit/commits/develop](https://github.com/luakit/luakit/commits/develop/) [Luakit Web Browser](https://luakit.github.io/#sec-download) [Luakit Web Browser](https://luakit.github.io/) [luakit/luakit: Fast, small, webkit based browser framework extensible by Lua.](https://github.com/luakit/luakit)
+* (2) [luakit](https://luakit.github.io/) + [duane-r/luakit-styles](https://github.com/duane-r/luakit-styles) [luakit/commits/develop](https://github.com/luakit/luakit/commits/develop/) [Luakit Web Browser](https://luakit.github.io/#sec-download) [Luakit Web Browser](https://luakit.github.io/) [luakit/luakit: Fast, small, webkit based browser framework extensible by Lua.](https://github.com/luakit/luakit)
 * (4,5) [Vimb - A Minimal Browser with Vim like Bindings - YouTube](https://www.youtube.com/watch?v=26xWK35pinA)
    | (5) [wyeb | a vim-like webkit2gtk web browser](https://wyeb.org/)
 * (4) [vieb](https://vieb.dev/)
@@ -55,7 +55,7 @@
 
 #### Mobile Browser
 
-* ( ) [epicbrowser.com/privacy-policy](https://epicbrowser.com/privacy-policy)
+* (2.5) [epicbrowser.com/privacy-policy](https://epicbrowser.com/privacy-policy)
 * (1) Firefox Focus
 * (1) Adblock Browser
 * (2.5) [cromite](https://github.com/uazo/cromite)
@@ -298,7 +298,7 @@
 
 * (2.5) [vimium](https://vimium.github.io/)
 * (2.5) [vimium-c](https://github.com/gdh1995/vimium-c)
-* (2)   [Surfingkeys](https://github.com/brookhong/Surfingkeys) $$$$$$$$$ + (2) [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) -> (R)) [how-to-use-surfingkeys](https://www.neoevolutions.com/post/how-to-use-surfingkeys-less-mice-more-efficient-web-browsing-with-vi-style-shortcuts) -> * ( ) [Surfingkeys vim editor](https://github.com/brookhong/Surfingkeys#vim-editor-and-emacs-editor) (apparently based on [ace](https://ace.c9.io/))
+* (2)   [Surfingkeys](https://github.com/brookhong/Surfingkeys) $$$$$$$$$ + (2) [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) -> (R)) [how-to-use-surfingkeys](https://www.neoevolutions.com/post/how-to-use-surfingkeys-less-mice-more-efficient-web-browsing-with-vi-style-shortcuts) -> [Surfingkeys vim editor](https://github.com/brookhong/Surfingkeys#vim-editor-and-emacs-editor) (apparently based on [ace](https://ace.c9.io/))
 * (2.5) [Link Hints](https://lydell.github.io/LinkHints/) (hinting only)
 * (2.5) [Vimmatic](https://github.com/ueokande/vimmatic)
 
@@ -348,53 +348,42 @@
 * (6) [darkreader](https://github.com/darkreader/darkreader) -
 * (6) [simplyread](https://njw.name/simplyread/)
 
-### Miscellaneous
-
-* ( ) [gloc](https://github.com/kas-elvirov/gloc)
-
 ## Webapps and Websites
 
 -> [InBrowser.App](https://inbrowser.app/)
 
-* ( ) [strangeloopcanon.com/](https://www.strangeloopcanon.com/)
-* ( ) [directory.fsf.org/wiki/Main_Page](https://directory.fsf.org/wiki/Main_Page)
-* ( ) [tweag.io/blog/](https://www.tweag.io/blog/)
-* ( ) [git.wtf](https://git.wtf/)
-* ( ) [Atlas: wikipedia-20231101-en](https://atlas.nomic.ai/map/475c26d7-b142-4795-9887-02b6eeb18dc0/0d312be6-a3bb-4586-b6b7-53dcd0cbefa5)
-* ( ) [Collaboration costs less with Coda, we price differently - Coda](https://coda.io/product/collaboration-costs-less-with-coda)
-* ( ) [For news junkies: The easiest ways to get through any article paywall (that I know of) : r/Piracy](https://www.reddit.com/r/Piracy/comments/stws33/for_news_junkies_the_easiest_ways_to_get_through/)
-* ( ) [FrontPage](http://www.fitnesse.org/)
-* ( ) [Raise and spend money with full transparency. - Open Collective](https://opencollective.com/)
-* ( ) [Startseite - rheinneckar.social](https://rheinneckar.social/home)
-* ( ) [Troubleshooters.Com](http://troubleshooters.com/troubleshooters.htm%23x10021)
-* ( ) [bibli-open.heidelberg.de/Mein-Konto](https://bibli-open.heidelberg.de/Mein-Konto)
-* ( ) [bibliotheken.komm.one/mannheim/de-de/Mein-Konto](https://bibliotheken.komm.one/mannheim/de-de/Mein-Konto)
-* ( ) [blueskyweb.xyz/](https://blueskyweb.xyz/)
-* ( ) [codestats.net/](https://codestats.net/)
-* ( ) [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
-* ( ) [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* ( ) [imgupscaler.com/](https://imgupscaler.com/)
-* ( ) [google.com/search?client=firefox-b-d&q=free+ai+upscale+image+resolution](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dfree%2Bai%2Bupscale%2Bimage%2Bresolution)
-* ( ) [upscale.media/](https://www.upscale.media/) →* ( ) [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
-* ( ) [canva](https://www.canva.com/free/)
-* ( ) [profanity.dev](https://www.profanity.dev/)
-* ( ) [cobalt](https://github.com/wukko/cobalt)
-* ( ) [figlet](http://www.figlet.org/)
-* ( ) [githubwrapped](https://www.githubwrapped.io/)
-* ( ) [overapi](https://overapi.com/)
-* ( ) [webshell](https://github.com/nasan016/webshell)
-* ( ) [wbo](https://wbo.ophir.dev/) $$$
+* (2) [scribe.rip](https://scribe.rip/) alternative frontend or medium
+* (2) [directory.fsf.org/wiki/Main_Page](https://directory.fsf.org/wiki/Main_Page)
+* (2) [tweag.io/blog/](https://www.tweag.io/blog/)
+* (2) [git.wtf](https://git.wtf/)
+* (2) [Atlas: wikipedia-20231101-en](https://atlas.nomic.ai/map/475c26d7-b142-4795-9887-02b6eeb18dc0/0d312be6-a3bb-4586-b6b7-53dcd0cbefa5)
+* (4.5) [Collaboration costs less with Coda, we price differently - Coda](https://coda.io/product/collaboration-costs-less-with-coda)
+* (R) [For news junkies: The easiest ways to get through any article paywall (that I know of) : r/Piracy](https://www.reddit.com/r/Piracy/comments/stws33/for_news_junkies_the_easiest_ways_to_get_through/)
+* (4.5) [FrontPage](http://www.fitnesse.org/)
+* (R) [Troubleshooters.Com](http://troubleshooters.com/troubleshooters.htm%23x10021)
+* (2) [bibli-open.heidelberg.de/Mein-Konto](https://bibli-open.heidelberg.de/Mein-Konto)
+* (2) [bibliotheken.komm.one/mannheim/de-de/Mein-Konto](https://bibliotheken.komm.one/mannheim/de-de/Mein-Konto)
+* (2) [codestats.net/](https://codestats.net/) (built with phoenix)
+* (5) [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
+* (R) [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* (2) [imgupscaler.com/](https://imgupscaler.com/)
+   | (R) [google.com/search?client=firefox-b-d&q=free+ai+upscale+image+resolution](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dfree%2Bai%2Bupscale%2Bimage%2Bresolution)
+   | (2) [upscale.media/](https://www.upscale.media/) →* (2.5) [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
+* (2.5) [canva](https://www.canva.com/free/)
+* (4.5) [profanity.dev](https://www.profanity.dev/)
+* (2) [cobalt](https://cobalt.tools/) - [source](https://github.com/wukko/cobalt)
+* (2) [figlet](http://www.figlet.org/)
+* (2) [githubwrapped](https://www.githubwrapped.io/)
+* (2) [overapi](https://overapi.com/)
+* (2) [webshell](https://github.com/nasan016/webshell)
 * (2) [Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension) [site](https://medium-parser-ext.vercel.app/) $$$
 * How does mirroring between git servers work?
-* ( ) [puter.com/app/terminal](https://puter.com/app/terminal) [puter](https://github.com/HeyPuter)
-* ( ) [yacy.de/](https://yacy.de/)
-* ( ) [Openwords (Openwords)](https://github.com/Openwords)
-* ( ) [browserling.com/](https://www.browserling.com/)
-* ( ) [Open-Source Application Development :: add0n.com](https://add0n.com/index.html)
-* ( ) [webextension.org/](https://webextension.org/)
-* ( ) [farside](https://farside.link/)
-* ( ) [strato.de](http://strato.de) V-Server Linux
-* ( ) [1337x.to/](https://1337x.to/) torrent search
+* (2) [puter.com/app/terminal](https://puter.com/app/terminal) [puter](https://github.com/HeyPuter)
+* (2) [yacy.de/](https://yacy.de/)
+* (5) [Openwords (Openwords)](https://github.com/Openwords) - still need to contribute
+* (2) [Open-Source Application Development :: webextension.org](https://webextension.org/) formerly [add0n](https://add0n.com/index.html)
+* (2) [strato.de](http://strato.de) V-Server Linux
+* (2) [1337x.to/](https://1337x.to/) torrent search
 
 ### Directories, Collections
 
@@ -407,11 +396,11 @@
 ### Locally-Hosted / In-Browser Webapps
 
 * (2) [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
-* ( ) [gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger)
+* (2) [gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger)
 
 ### Self-Hosted
 
-* ( ) [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely.
+* (2) [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely.
 
 ### Coding Reference
 
@@ -420,14 +409,13 @@
 
 ### Web Drive
 
-* ( ) [Nextcloud](https://nextcloud.com/de/)
-* Proton Drive
+* (2) [Nextcloud](https://nextcloud.com/de/)
+* (2) [Proton Drive](https://proton.me/drive)
 * Google Drive [api](https://developers.google.com/drive/api/guides/search-files%23java) → list all drive files
 
 ### Language Learning
 
-* ( ) [openwords](https://github.com/Openwords)
-* ( ) [otakar-smrz/elixir-fm: ElixirFM Functional Arabic Morphology](https://github.com/otakar-smrz/elixir-fm)
+* (2) [otakar-smrz/elixir-fm: ElixirFM Functional Arabic Morphology](https://github.com/otakar-smrz/elixir-fm) - [Thesis](https://elixir-fm.sourceforge.net/elixir-thesis.pdf)
 
 ### Security
 
@@ -435,85 +423,87 @@
 
 ### Misc Web
 
-* ( ) [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
+* (6) [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 * (7) [Servo, the parallel browser engine](https://servo.org/)
-* ( ) [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
-* ( ) [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
-* ( ) [readability](https://github.com/mozilla/readability)
-* ( ) [firenvim](https://github.com/glacambre/firenvim)
-* ( ) [vim.js](https://wang-lu.com/vim.js/emterpreter/vim.html)
-* ( ) [wasavi](https://github.com/akahuku/wasavi)
-* ( ) [vim.wasm](https://github.com/rhysd/vim.wasm)
-* ( ) [Codemirror vim bindings](https://codemirror.net/demo/vim.html)
-* ( ) [lite-websites](https://github.com/p3nguin-kun/lite-websites)
-* ( ) [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs – too many password failures, seeking for exploits, etc.
-* ( ) [feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
-* ( ) [OWASP ZAP](https://www.zaproxy.org/) - OWASP Zed Attack Proxy (ZAP) web security testing tool.
-* ( ) [Update-IPsets](https://iplists.firehol.org/) - A manager for all cybercrime IP feeds that can download, convert and install netfilter `ipsets`.
+* (2) [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
+* (2) [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
+* (2) [readability](https://github.com/mozilla/readability)
+* (5) [vim.js](https://wang-lu.com/vim.js/emterpreter/vim.html)
+* (5) [vim.wasm](https://github.com/rhysd/vim.wasm)
+* (3) [Codemirror vim bindings](https://codemirror.net/demo/vim.html)
+* (2->) [lite-websites](https://github.com/mdibaiee/awesome-lite-websites)
+* (2) [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs – too many password failures, seeking for exploits, etc.
+* (2) [feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
+* (2) [OWASP ZAP](https://www.zaproxy.org/) - OWASP Zed Attack Proxy (ZAP) web security testing tool.
+* (2) [Update-IPsets](https://iplists.firehol.org/) - A manager for all cybercrime IP feeds that can download, convert and install netfilter `ipsets`.
 
 ### AI Tools and Information Resources
 
-* ( ) [ChatG_](https://chat.openai.com/chat) ([read](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html))
-* ( ) [phind](...)
-* ( ) [YouChat](https://youchat.com/)
+* (2) [ChatG_](https://chat.openai.com/chat) ([read](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html))
+* (2) [phind](https://www.phind.com/search)
+* (2) [YouChat](https://youchat.com/)
 
 ### Monitoring / Hooks
 
-* ( ) [webhook](https://github.com/adnanh/webhook)
-* ( ) [shell2http](https://github.com/msoap/shell2http)
-* ( ) [healthchecks.io](https://healthchecks.io/)
+* (2) [webhook](https://github.com/adnanh/webhook)
+* (2) [shell2http](https://github.com/msoap/shell2http)
+* (2.5) [healthchecks.io](https://healthchecks.io/)
 
 ### Mobile Connection
 
-* ( ) [kdeconnect](https://apps.kde.org/kdeconnect/) | ( ) [gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)
+* (2.5) [kdeconnect](https://apps.kde.org/kdeconnect/) 
+   | (2.5) [gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)
 
 ### Maps
 
-* ( ) [openstreetmap](https://www.openstreetmap.org/)
+* (2) [openstreetmap](https://www.openstreetmap.org/)
 
 ### Coding Instruction
 
-* ( ) [exercism](...)
-* ( ) [next.texh](https://next.tech/)
-* ( ) [katacoda](https://www.katacoda.com/)
-* ( ) [coderpad](https://coderpad.io/)
-* ( ) [codecademy](https://codecademy.com/)
-* ( ) [codeinterview](https://codeinterview.io/)
-* ( ) [hack.courses](https://hack.courses/)
-* ( ) [cratecode](https://cratecode.com/)
-* ( ) [intervuew](https://www.intervue.io/)
-* ( ) [flowgorithm](http://www.flowgorithm.org/)
-* ( ) [teachcode](https://github.com/madlabsinc/teachcode)
+* (2) [exercism](https://exercism.org/)
+* (2) [coderpad](https://coderpad.io/interview-questions/), also [here](https://coderpad.io/resources/docs/for-candidates/)
+* (2) [codecademy](https://codecademy.com/)
+* (6) [codeinterview](https://codeinterview.io/)
+* (T) [cratecode](https://cratecode.com/)
+* (5) [teachcode](https://github.com/madlabsinc/teachcode) - use to teach coding -> browser-only option? such as replit, or xterm.js
+
+### Donations
+
+* (2.5) [liberapay](https://liberapay.com/)
+* (2.5) [bmac](https://buymeacoffee.com/)
+* (2.5) [Raise and spend money with full transparency. - Open Collective](https://opencollective.com/)
 
 ### Media
 
-* ( ) [annas-archive](https://annas-archive.org/)
-* ( ) [artemislena](https://yt.artemislena.eu/)
-* ( ) [imginn](https://imginn.com/)
+* (2) [farside](https://farside.link/)
+* (2) [annas-archive](https://annas-archive.org/)
+* (2) [artemislena](https://yt.artemislena.eu/)
+* (2) [imginn](https://imginn.com/) - instagram image downloader
 * (2) [invidious](https://github.com/iv-org/invidious) [Invidious](https://invidious.io/)
-* ( ) [libre.fm](https://libre.fm/)
-* ( ) [Mediagoblin](http://mediagoblin.org/)
-* ( ) [nitter instances](https://github.com/zedeus/nitter/wiki/Instances)
-* (2) [Odysee](https://odysee.com/)
-* (2) [PeerTube](https://framagit.org/chocobozzz/PeerTube)
-* ( ) [piped.video](https://piped.video/trending)
-* ( ) [redlib instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)
-* ( ) [rumble.com](https://rumble.com/)
-* ( ) [status site](https://stats.uptimerobot.com/mpmqAs1G2Q)
+   | (2) [rumble.com](https://rumble.com/)
+   | (2) [Odysee](https://odysee.com/)
+   | (2) [PeerTube](https://framagit.org/chocobozzz/PeerTube)
+   | (2) [piped.video](https://piped.video/trending)
+* (2) [libre.fm](https://libre.fm/)
+* (2) [Mediagoblin](http://mediagoblin.org/)
+* (2) [nitter instances](https://github.com/zedeus/nitter/wiki/Instances)
+* (2) [redlib status site](https://stats.uptimerobot.com/mpmqAs1G2Q) [redlib instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)
 * (2) [tube.cadence.mode](https://tube.cadence.moe/)
 * (2) [tubo](https://migalmoreno.com/projects/tubo.html)
+* (2) [nitter](https://status.d420.de/)
 
 ### Search
 
-* ( ) [MetaGer](https://metager.de/en) - Private search engine created by a non-profit that uses green electricity for its servers.
-* ( ) [Qwant](https://www.qwant.com/?l=en)
-* ( ) [Startpage](https://www.startpage.com/)
-* ( ) [Swisscows](https://swisscows.com/en)
-* ( ) [Mojeek](https://www.mojeek.com/)
+* (2.5) [MetaGer](https://metager.de) - Private search engine created by a non-profit that uses green electricity for its servers.
+   | (2.5) [Qwant](https://www.qwant.com/?l=en)
+   | (2.5) [Startpage](https://www.startpage.com/)
+   | (2.5) [Swisscows](https://swisscows.com/en)
+   | (2.5) [Mojeek](https://www.mojeek.com/)
+   | (2.5) [Peekier](https://peekier.com/)
+   | (2.5) [Ecosia](https://www.ecosia.org/)
+   | (2.5) [Brave Search](https://search.brave.com/)
 * (2) [searX](https://searx.info/)
-* ( ) [Peekier](https://peekier.com/)
-* ( ) [Ecosia](https://www.ecosia.org/)
-* ( ) [Brave Search](https://search.brave.com/)
+
 * → [Saying Goodbye to DuckDuckGo... Here's some Alternatives! - YouTube](https://www.youtube.com/watch?v=g--hr4F1S4w)
 * → [opensource.com/article/20/2/open-source-search-engine](https://opensource.com/article/20/2/open-source-search-engine)
 * → [comparitech.com/blog/vpn-privacy/best-private-search-engine/](https://www.comparitech.com/blog/vpn-privacy/best-private-search-engine/)
@@ -537,64 +527,68 @@
 
 ### Misc
 
+* (2) [goodreads](https://www.goodreads.com/)
 * (2) [Weblate](https://weblate.org/) - Translation management system with version control integration.
-* ( ) [wordmark](https://wordmark.it/) - web tool (Chrome) for font recognition on device
-* ( ) [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)  (also works locally offline)
-* ( ) [convertall.js](http://convertall-js.bellz.org/)
-* ( ) [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface.
-* ( ) [cli](https://github.com/cloverleaf/cli)
-* ( ) [favicon](https://favicon.io/)
-* ( ) [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities.
-* ( ) [web3os](https://web3os.sh/): A decentralized operating system for the next web
-* ( ) [mockitt](https://mockitt.wondershare.com/home.html)
-* ( ) [archive](https://archive.is/) ([alt](https://archive.ph/)
-* ( ) [alt](https://archive.ph/)
-* ( ) [alt](https://archive.today/))
-* ( ) [overtime-cli](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
-* ( ) [typelit](https://www.typelit.io/)
-* ( ) [LibreTranslate - Free and Open Source Machine Translation API](https://libretranslate.com/)
-* ( ) [owasp](https://owasp.org/)
-* ( ) [clcalc](https://github.com/ovk/clcalc)
-* ( ) [site](https://clcalc.net/)
-* ( ) [learn-anything](https://github.com/learn-anything/learn-anything.xyz)
-* ( ) [site](https://learn-anything.xyz/)
+* (2) [wordmark](https://wordmark.it/) - web tool (Chrome) for font recognition on device
+* (1) [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)  (also works locally offline) $$$
+* (2) [convertall.js](http://convertall-js.bellz.org/)
+* (2) [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface.
+* (5) [cloverleaf cli](https://github.com/cloverleaf/cli)
+* (2) [favicon](https://favicon.io/)
+* (2) [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities.
+* (2) [web3os](https://web3os.sh/): A decentralized operating system for the next web
+* (R) [mockitt](https://mockitt.wondershare.com/home.html)
+* (2) [archive](https://archive.is/) ([alt](https://archive.ph/) [alt](https://archive.ph/) [alt](https://archive.today/))
+* (5) [overtime-cli](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
+* (2) [typelit](https://www.typelit.io/)
+* (2) [LibreTranslate - Free and Open Source Machine Translation API](https://libretranslate.com/)
+* (2) [owasp](https://owasp.org/)
+* (2) [clcalc](https://github.com/ovk/clcalc) [site](https://clcalc.net/) $$$$$$$$$
+* (2) [learn-anything](https://github.com/learn-anything/learn-anything.xyz) [site](https://learn-anything.xyz/)
 
 ### Document Editing, Wiki Software (Web)
 
-* ( ) [Overleaf](https://www.overleaf.com/)
-* ( ) [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
-* ( ) [typst](https://typst.app/)
+* (2) [Overleaf](https://www.overleaf.com/)
+* (2) [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
+* (2) [typst](https://typst.app/)
 
 ## Web Development
 
 * (2) [serverracket.com/](https://serverracket.com/)
-* ( ) [kitten](https://codeberg.org/kitten/app)
-* ( ) [raji](https://federicoterzi.com/raji/) [github](https://github.com/federico-terzi/raji)
-* ( ) [loco](https://www.shuttle.rs/blog/2023/12/20/loco-rust-rails) the Rails of Rust
-* ( ) [rawjs](https://www.squaresapp.org/rawjs/)
-* ( ) [bootplus](http://aozora.github.io/bootplus/)
-* ( ) [dBug](https://github.com/ospinto/dBug) - PHP tool
-* ( ) [ebpf article](https://thenewstack.io/what-is-ebpf/)
-* ( ) [ebpf](https://thenewstack.io/what-is-ebpf/)
-* ( ) [http-party/http-server](https://github.com/http-party/http-server)
-* ( ) [http-server](https://github.com/http-party/http-server)
-* ( ) [inox](https://github.com/inoxlang/inox)
-* ( ) [kitten/kittens.small-web.org: Kitten distribution management place. Handles uploads and downloads of Kitten distributions. - kittens.small-web.org - Codeberg.org](https://codeberg.org/kitten/kittens.small-web.org)
-* ( ) [kuto](https://ithub.com/samthor/kuto) Faster updates for big JS projects
-* ( ) [ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building dynamic HTML pages in pure Python.
+* (3) [raji](https://federicoterzi.com/raji/) [github](https://github.com/federico-terzi/raji)
+* (6) [dBug](https://github.com/ospinto/dBug) - PHP tool
+* (2) [ebpf](https://thenewstack.io/what-is-ebpf/) [ebpf article](https://thenewstack.io/what-is-ebpf/)
+* (2.5) [http-server](https://github.com/http-party/http-server)
+* (2) [inox](https://github.com/inoxlang/inox) $$$$$$$$$
+* (2) [kitten/kittens.small-web.org: Kitten distribution management place. Handles uploads and downloads of Kitten distributions. - kittens.small-web.org - Codeberg.org](https://codeberg.org/kitten/kittens.small-web.org)
+* (3) [kuto](https://ithub.com/samthor/kuto) Faster updates for big JS projects
+* (2) [ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building dynamic HTML pages in pure Python.
+* (2) [network_inventory](https://github.com/Nebucatnetzer/network_inventory) - solution for keeping an inventory over my various servers and other network equipment.
+* (3) [QuickJS Javascript Engine](https://bellard.org/quickjs/)
+* (2) [simple-http-server](https://github.com/TheWaWaR/simple-http-server) -> read and contribute (in Rust)
+* (R) [What it’s like to run HTMX in Production - Stories from Experienced Software Engineers](https://www.youtube.com/watch?v=Ec_ovkHHuZ8)
+* (R) [->](https://mastodon.social/@matthiasott/111447516296786143)
+* (R) [🦀 RUST y HTMX | Creamos una web con Rust | Parte 1](https://www.youtube.com/watch?v%3Dfcc5KRmHZgI)
+* (2) [html-first.com/](https://html-first.com/)
+* (2) [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Search caniuse.com about browser support of features.
+
+[What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM) - YouTube
+
+### Single-Language / Single-File
+
+* (2) [mint-lang](https://mint-lang.com/)
 * (2.5) [qwik](https://qwik.dev/)
-* ( ) [network_inventory](https://github.com/Nebucatnetzer/network_inventory) - solution for keeping an inventory over my various servers and other network equipment.
-* ( ) [prismjs](https://prismjs.com/)
-* ( ) [QuickJS Javascript Engine](https://bellard.org/quickjs/)
-* ( ) [simple-http-server](https://github.com/TheWaWaR/simple-http-server)
-* ( ) [toast](https://ui.toast.com/) web UI components
-* ( ) [What it’s like to run HTMX in Production - Stories from Experienced Software Engineers](https://www.youtube.com/watch?v=Ec_ovkHHuZ8)
-* ( ) [winterjs](https://www.heise.de/news/JavaScript-Server-in-Rust-WinterJS-is-Coming-9653110.html)
-* ( ) [...](https://mastodon.social/@matthiasott/111447516296786143)
-* ( ) [🦀 RUST y HTMX | Creamos una web con Rust | Parte 1](https://www.youtube.com/watch?v%3Dfcc5KRmHZgI)
-* ( ) [slimerjs](https://slimerjs.org/)
-* ( ) [html-first.com/](https://html-first.com/)
-* ( ) [caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Search [caniuse.com](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/caniuse.com) about browser support of features.
+
+### Frameworks / Components
+
+* (2) [kitten](https://codeberg.org/kitten/app) $$$
+* (2.5) [slimerjs](https://slimerjs.org/)
+* (2.5) [loco](https://www.shuttle.rs/blog/2023/12/20/loco-rust-rails) the Rails of Rust
+* (2.5) [rawjs](https://www.squaresapp.org/rawjs/)
+* (2.5) [bootplus](http://aozora.github.io/bootplus/)
+* (2.5) [prismjs](https://prismjs.com/)
+* (2.5) [toast](https://ui.toast.com/) web UI components* (2.5) [prismjs](https://prismjs.com/)
+* (2.5) [winterjs](https://www.heise.de/news/JavaScript-Server-in-Rust-WinterJS-is-Coming-9653110.html)
 
 ### Static Site Generators
 
@@ -608,32 +602,32 @@
 
 #### Geneal/Miscellaneous Network Tech
 
-* ssh
-* ssl
-* Lightweight Directory Access Protocol
-* ( ) [curlie](https://github.com/rs/curlie)
-* ( ) [xh](https://github.com/ducaale/xh)
-* ( ) [gping](https://github.com/orf/gping) - ping, but with a graph
-* ( ) [cli](https://github.com/httpie/cli) (httpie) - CLI HTTP client
-* ( ) [http-prompt](https://github.com/httpie/http-prompt)
-* ( ) [monolith](https://github.com/Y2Z/monolith) - save webpage as single file
-* ( ) [dog](https://github.com/ogham/dog) - CLI DNS
-* ( ) [trurl](https://github.com/curl/trurl)
-* ( ) [wireshark](https://gitlab.com/wireshark/wireshark) - Wireshark is the world’s foremost network protocol analyzer. It lets you see what’s happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
-* ( ) [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
+* (2) ssh
+* (2) ssl
+* (2) Lightweight Directory Access Protocol
+* (2) [curlie](https://github.com/rs/curlie)
+* (2) [gping](https://github.com/orf/gping) - ping, but with a graph
+* (2.5) [cli](https://github.com/httpie/cli) (httpie) - CLI HTTP client
+   |c (2.5) [xh](https://github.com/ducaale/xh)
+* (2) [http-prompt](https://github.com/httpie/http-prompt)
+* (2) [monolith](https://github.com/Y2Z/monolith) - save webpage as single file $$$$$$$$$
+* (2) [dog](https://github.com/ogham/dog) - CLI DNS
+* (2) [trurl](https://github.com/curl/trurl)
+* (2) [wireshark](https://gitlab.com/wireshark/wireshark) - Wireshark is the world’s foremost network protocol analyzer. It lets you see what’s happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions. [Wireshark](https://www.wireshark.org/)
+* (2) [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 
 #### SSH Web Interface / Admin Tools
 
-* ( ) [WebSSH2](https://github.com/billchurch/WebSSH2): A web based SSH2 client using xterm.js, socket.io, and ssh2.
-* ( ) [TermPair](https://github.com/cs01/termpair): View and control terminals from your browser with end-to-end encryption
-* ( ) [webssh](https://github.com/huashengdun/webssh): Web based ssh client.
-* ( ) [Go SSH Web Client](https://github.com/wuchihsu/go-ssh-web-client): A simple SSH web client using Go, WebSocket and Xterm.js.
-* ( ) [SSH Web Client](https://github.com/roke22/PHP-SSH2-Web-Client): SSH Web Client with PHP.
-* ( ) [Bastillion](https://www.bastillion.io/): Bastillion is an open-source web-based SSH console that centrally manages administrative access to systems.
-* ( ) [Selenoid UI](https://github.com/aerokube/selenoid-ui): Simple UI for the scalable golang implementation of Selenium Hub named Selenoid. We use XTerm for streaming logs over websockets from docker containers.
-* ( ) [SSHy](https://github.com/stuicey/SSHy): HTML5 Based SSHv2 Web Client with E2E encryption utilising xterm.js, SJCL & websockets. - old and unmaintained
-* ( ) [Laravel Ssh Web Client](https://github.com/roke22/Laravel-ssh-client): Laravel server inventory with ssh web client to connect at server using xterm.js
-* ( ) [Render](https://render.com/): Platform-as-a-service for your apps, websites, and databases using xterm.js to provide a command prompt for user containers and for streaming build and runtime logs. (Freemium)
+* (2.5) [WebSSH2](https://github.com/billchurch/WebSSH2): A web based SSH2 client using xterm.js, socket.io, and ssh2.
+   | (2.5) [TermPair](https://github.com/cs01/termpair): View and control terminals from your browser with end-to-end encryption
+   | (2.5) [webssh](https://github.com/huashengdun/webssh): Web based ssh client.
+   | (2.5) [Go SSH Web Client](https://github.com/wuchihsu/go-ssh-web-client): A simple SSH web client using Go, WebSocket and Xterm.js.
+   | (6) [SSH Web Client](https://github.com/roke22/PHP-SSH2-Web-Client): SSH Web Client with PHP.
+* (6) [Bastillion](https://www.bastillion.io/): Bastillion is an open-source web-based SSH console that centrally manages administrative access to systems.
+* (4) [Selenoid UI](https://github.com/aerokube/selenoid-ui): Simple UI for the scalable golang implementation of Selenium Hub named Selenoid. We use XTerm for streaming logs over websockets from docker containers.
+* (5) [SSHy](https://github.com/stuicey/SSHy): HTML5 Based SSHv2 Web Client with E2E encryption utilising xterm.js, SJCL & websockets. - old and unmaintained
+* (6) [Laravel Ssh Web Client](https://github.com/roke22/Laravel-ssh-client): Laravel server inventory with ssh web client to connect at server using xterm.js
+* (6) [Render](https://render.com/): Platform-as-a-service for your apps, websites, and databases using xterm.js to provide a command prompt for user containers and for streaming build and runtime logs. (Freemium)
 
 #### Adblocking, Security, Privacy Tools
 
@@ -678,21 +672,17 @@
 
 ##### Security etc
 
-* (->)
-* ( ) [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* (2) [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * (4) [TRASA](https://trasa.io/): Zero trust access to Web, SSH, RDP, and Database services
 * (2) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 
 ##### Firewalls
 
-* (PG)
-* ( ) [FireHOL](https://firehol.org/) - Linux firewall (`iptables`) manager for humans.
-* (PG)[firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
-* (PG)
-* ( ) [GuFW](https://gufw.org/) - One of the easiest firewalls in the world of Linux.
-* (PG)[opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
-* (PG)
-* ( ) [Portmaster](https://safing.io/) - Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer’s network activity.
+* (2.5) [FireHOL](https://firehol.org/) - Linux firewall (`iptables`) manager for humans.
+* (2.5)[firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
+* (2.5) [GuFW](https://gufw.org/) - One of the easiest firewalls in the world of Linux.
+* (2.5) [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
+* (2.5) [Portmaster](https://safing.io/) - Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer’s network activity.
 
 #### Networking, SSH
 
@@ -751,24 +741,22 @@
 
 ##### Miscellaneous Networking, SSH
 
-* ( ) [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
-* ( ) [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
-* ( ) [desktop](https://github.com/httpie/desktop) (httpie)
-* ( ) [geoip-api-c](https://github.com/maxmind/geoip-api-c) - A little application to find geographical and network information of an IP address based no the geoip C API.
+* (3) [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
+* (3) [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
+* (2) [desktop](https://github.com/httpie/desktop) (httpie)
 * (5) [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
 * (3) [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in -nix systems.
 * (5) [histstat](https://github.com/vesche/histstat) - History for netstat
-* ( ) [ipcalc](https://github.com/kjokjo/ipcalc) - Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
-* ( ) [ngrep/](https://github.com/jpr5/ngrep/) - (Network grep) applies the `grep` logic to the network layer, allowing to match regular expressions against data payloads of packets; it recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces.
-* ( ) [Nmap](https://nmap.org/) - Nmap is a free, open-source tool for network exploration, management, and security auditing.
-* ( ) [optic](https://github.com/opticdev/optic) - Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
-* ( ) [redive](https://github.com/neelkarma/redive) - Trace URL redirections in the terminal.
-* ( ) [rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
-* ( ) [Tcpdump](https://www.tcpdump.org/) - TCP Debugging/Capture Tool.
-* ( ) [USB network gate](https://www.eltima.com/products/usb-over-ip-linux/) - Allows you to share USB ports over a Network on Linux.
-* ( ) [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
-* ( ) [http Toolkit](https://httptoolkit.tech/) - an HTTP inspection & debugging desktop application
-* ( ) [sslh](https://github.com/yrutschle/sslh)
+* (2) [ipcalc](https://github.com/kjokjo/ipcalc) - Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
+* (2) [ngrep/](https://github.com/jpr5/ngrep/) - (Network grep) applies the `grep` logic to the network layer, allowing to match regular expressions against data payloads of packets; it recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces.
+* (2) [Nmap](https://nmap.org/) - Nmap is a free, open-source tool for network exploration, management, and security auditing.
+* (2) [optic](https://github.com/opticdev/optic) - Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
+* (2) [redive](https://github.com/neelkarma/redive) - Trace URL redirections in the terminal.
+* (2) [rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
+* (3) [Tcpdump](https://www.tcpdump.org/) - TCP Debugging/Capture Tool.
+* (2) [USB network gate](https://www.eltima.com/products/usb-over-ip-linux/) - Allows you to share USB ports over a Network on Linux
+* (2) [http Toolkit](https://httptoolkit.tech/) - an HTTP inspection & debugging desktop application
+* (2) [sslh](https://github.com/yrutschle/sslh)
 
 ##### Crawling, Scraping, Downloading
 
@@ -790,7 +778,8 @@
 
 -> [nlnet](https://nlnet.nl/project/)
 
-* (2) [Home — Bluesky](https://staging.bsky.app/)
+* (2) [Startseite - rheinneckar.social](https://rheinneckar.social/home)
+* (2) [Home — Bluesky](https://staging.bsky.app/) [blueskyweb.xyz/](https://blueskyweb.xyz/)
 * (4.5) [Dimillian/IceCubesApp: A SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
 * (2) [Castopod](https://castopod.org/)
 * (2) [ForgeFed](https://forgefed.org/)
@@ -831,15 +820,13 @@
 * (5) [isync](https://github.com/gburd/isync)
 * (2) [Mailcow Email Server](https://mailcow.email/) - Fully feature email server (for avarage use cases @lmtr0 recommends this one)
 * (R) [skiff](https://skiff.com/) -  discussed [here](<find video>) (along with Proton)
-* ( ) [Sylpheed](https://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client.
 * (5) [tmpmail](https://github.com/sdushantha/tmpmail) - A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address. -> update for wayland (xclip dependency)
-* ( ) [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
+* (2.5) [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
 * (5) [Vmail](http://danielchoi.com/software/vmail.html) - Vim-like Gmail client.
 * (2) [Himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management.
 * (2) [mbsync](https://github.com/toolleeo/cli-apps/blob/master) - Mailboxes synchronization tool; allows to download email locally; MailDir format supported.
 * (2) [neomutt](https://github.com/neomutt/neomutt)- [neomutt.org/](https://neomutt.org/)
-* (2) [proton](https://proton.me/pricing)
-* (2) [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
+* (2) [proton](https://proton.me/pricing) [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
 * (2) [tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh.
 * (4) [Claws](https://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.
 * (4) [ElectronMail](https://github.com/vladimiry/ElectronMail) - ElectronMail is an Electron-based unofficial desktop client for ProtonMail and Tutanota end-to-end encrypted email providers.
@@ -867,7 +854,7 @@
 
 * (2.5) [betterbird](https://www.betterbird.eu/)
    | (2.5) [Thunderbird](https://www.thunderbird.net/en-US/)
-   | ( ) [claws-mail](https://www.claws-mail.org/)
+   | (2.5) [claws-mail](https://www.claws-mail.org/)
    | (2.5) [Mailspring](https://getmailspring.com/) - A beautiful, fast and maintained fork of Nylas Mail ([dead](https://github.com/nylas/nylas-mail)) by one of the original authors.
 * (2.5) [Trojita](https://apps.kde.org/trojita/) - A super fast desktop email client for Linux.
 

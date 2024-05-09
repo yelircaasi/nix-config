@@ -1,5 +1,6 @@
 # Leseliste
 
+* (2) [strangeloopcanon.com/](https://www.strangeloopcanon.com/)
 * A
 * A Very Short Introduction to ... [en.wikipedia.org/wiki/Very_Short_Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)
 * An Incomplete Education

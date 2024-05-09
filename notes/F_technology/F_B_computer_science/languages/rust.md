@@ -18,3 +18,20 @@
 * exa
 * [rust-unofficial.github.io/too-many-lists/](https://rust-unofficial.github.io/too-many-lists/)
 * [macroquad](https://github.com/musjj/macroquad)
+
+## Excellent Software Libraries
+
+* -> [r/rust/s/QqfsULxF1c](https://www.reddit.com/r/rust/s/QqfsULxF1c) rust dev env
+* ( ) [ratatui](https://ratatui.rs/)
+* ( ) [rust service foundation library](https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library)
+* ( ) [evcxr](https://github.com/evcxr/evcxr)
+* ( ) [rinf](https://github.com/cunarist/rinf) - framework - Rust for native business logic, Flutter for flexible and beautiful GUI
+* ( ) [Rust Desktop App Video](https://www.youtube.com/watch?v%3D7aFgeUG9TK4)
+* ( ) [Rust Full-Stack Web App](https://www.youtube.com/watch?v%3Dtq3-M7QJiWg) wifi manager discussion
+* ( ) [slint](https://slint.dev/) - GUI framework
+* ( ) [rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
+* ( ) [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm)
+* ( ) [synoptic](https://lib.rs/crates/synoptic) syntax highlighting
+* ( ) [min-sized-rust](https://github.com/johnthagen/min-sized-rust)
+* ( ) [pdf-writer](https://github.com/typst/pdf-writer) (rust library)
+* ( ) [gemini-rust](https://github.com/redpenguinyt/gemini-rust)

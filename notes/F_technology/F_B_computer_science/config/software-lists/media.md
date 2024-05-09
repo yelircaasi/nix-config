@@ -87,6 +87,7 @@
 #### Boards
 
 * (2) [excalidraw](https://excalidraw.com/) ([read](https://offbyone.us/posts/why-is-excalidraw-so-good/))
+* (2) [wbo](https://wbo.ophir.dev/) $$$
 
 #### Cool Software - Needs Theming Fixes
 

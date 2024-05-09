@@ -53,7 +53,6 @@
 * {github                                             } <|> [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq)
 * {github                                             } <|> [flashlight/flashlight](https://github.com/flashlight/flashlight)
 * {github                                             } <|> [gabrielgarza/Mask_RCNN](https://github.com/gabrielgarza/Mask_RCNN)
-* {github                                             } <|> [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript)
 * {github                                             } <|> [guanlongzhao/tensor2tensor](https://github.com/guanlongzhao/tensor2tensor)
 * {github                                             } <|> [hasktorch/hasktorch](https://github.com/hasktorch/hasktorch)
 * {github                                             } <|> [inessus/CMU_11785_Deep_Learning_Code](https://github.com/inessus/CMU_11785_Deep_Learning_Code)

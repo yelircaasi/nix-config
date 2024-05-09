@@ -25,7 +25,6 @@
 * [Nickel](https://nickel-lang.org/user-manual/typing/)
 * [Wren](https://wren.io/)
 * [Unisay/purescript-lua](https://github.com/Unisay/purescript-lua)
-* [flyde.dev/](https://www.flyde.dev/) - visual programming language for developers
 * [roc-lang.org/tutorial](https://www.roc-lang.org/tutorial)
 * [rosettacode.org/wiki/Category:Plain_English](https://rosettacode.org/wiki/Category:Plain_English)
 * [r/Julia/s/Dnj9U2mYqz](https://www.reddit.com/r/Julia/s/Dnj9U2mYqz)
@@ -561,6 +560,19 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Getting Started with Go Programming](https://www.programiz.com/golang/getting-started)
 * [Safari, an O'Reilly Media Company.; Torres, Aaron - Go Programming Cookbook: Over 85 recipes to build modular, readable, and testable Golang applications across various domains - Second Edition](https://libgen.is/book/index.php?md5=AE4C2DC519B526BDA45F0709C15CE769)
 
+## JS / TS
+
+### Excellent Software
+
+* ( ) [vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice)
+* ( ) [bprusinowski/plotteus: 🦋 Plotteus is a JavaScript data visualization library designed to help you tell better stories.](https://github.com/bprusinowski/plotteus)
+* ( ) [nodejs_21](https://nodejs.org/en)
+* ( ) [bun](https://bun.sh/)
+* ( ) [nodemon](https://www.npmjs.com/package/nodemon)
+* (4) [marked-terminal](https://github.com/mikaelbr/marked-terminal)
+* ( ) [facebook/hermes: A JavaScript engine optimized for running React Native.](https://github.com/facebook/hermes)
+* ( ) [toast](https://ui.toast.com/)
+
 ## Lisps
 
 * [janet.guide/](https://janet.guide/)
@@ -704,6 +716,17 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Ken Kousen - Kotlin Cookbook: A Problem-Focused Approach](https://libgen.is/book/index.php?md5=868921840C4AAC2726F63F3A28F3E70D)
 
 ## Lua
+
+### Excellent Lua Software
+
+* ( ) [luarocks-build-rust-binary](https://github.com/vhyrro/luarocks-build-rust-binary)
+* ( ) [busted](https://lunarmodules.github.io/busted/) elegant lua testing
+* ( ) [fengari](https://github.com/fengari-lua/fengari) φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
+* ( ) [Introduction — Lua Functional 0.1.3 documentation](https://luafun.github.io/intro.html)
+* ( ) [luafun/luafun: Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.](https://github.com/luafun/luafun)
+* ( ) [luvit](https://luvit.io/docs.html)
+
+### Other (unsorted)
 
 * [lua.org/manual/5.1/pt/](https://www.lua.org/manual/5.1/pt/)
 * [erde-lang.github.io/](https://erde-lang.github.io/)

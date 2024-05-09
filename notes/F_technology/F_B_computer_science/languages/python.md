@@ -19,6 +19,24 @@
 * [sarge.readthedocs.io/en/latest/](https://sarge.readthedocs.io/en/latest/)
 * [stefaniemolin.com/articles/devx/pre-commit/setup-guide/](https://stefaniemolin.com/articles/devx/pre-commit/setup-guide/)
 
+## Excellent Software
+
+* ( ) [great-tables](https://github.com/posit-dev/great-tables)
+* ( ) [taichi-dev/taichi: Productive & portable high-performance programming in Python (GPU)](https://github.com/taichi-dev/taichi)
+* ( ) [ward](https://ward.readthedocs.io/en/latest/)
+* ( ) [cattrs](https://catt.rs/en/stable/index.html)
+* -> idea: package pipx natively, without python and pip dependencies
+* (1) [matplotlib-backend-wezterm](https://pypi.org/project/matplotlib-backend-wezterm/)
+* (2) [poetry](https://python-poetry.org/)
+* (2) [pypi-command-line](https://wasi-master.github.io/pypi-command-line/) (see also alternatives listed in the docs)
+* (2) [cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) Software Bill of Materials (SBOM) generator for Python projects and environments
+* ( ) [line-profiler · PyPI](https://pypi.org/project/line-profiler/)
+* ( ) [pipx](https://github.com/pypa/pipx) try Debian? Gentoo?
+* ( ) [pyx-project/pyx](https://github.com/pyx-project/pyx)
+* ( ) [humanfriendly: Human friendly input/output in Python — humanfriendly 10.0 documentation](https://humanfriendly.readthedocs.io/en/latest/)
+* ( ) [pyte](https://pyte.readthedocs.io/en/latest/tutorial.html) terminal
+* (2) [plumbum](https://github.com/tomerfiliba/plumbum)
+
 ## Resources
 
 ## Newsletters

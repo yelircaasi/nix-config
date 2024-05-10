@@ -1,5 +1,7 @@
 import re
 import sys
+
+'''
 * p = sys.argv[1]
 * with open(p) as f:
     doc = f.read()
@@ -62,3 +64,5 @@ for k,v in counts.items():
 * newpath = p.replace(".md", "_.md")
 with open(newpath, 'w') as f:
     f.write(doc)
+
+'''

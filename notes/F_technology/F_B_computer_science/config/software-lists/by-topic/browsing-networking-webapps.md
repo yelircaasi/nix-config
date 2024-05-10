@@ -451,7 +451,7 @@
 
 ### Mobile Connection
 
-* (2.5) [kdeconnect](https://apps.kde.org/kdeconnect/) 
+* (2.5) [kdeconnect](https://apps.kde.org/kdeconnect/)
    | (2.5) [gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)
 
 ### Maps

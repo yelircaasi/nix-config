@@ -284,3 +284,32 @@ Fandom": {"class": "R", "link": "https://sawfish.fandom.com/wiki/Comparison_of_e
                                           "xtermwm": {"class": "6", "link": "https://xtermwm.sourceforge.io/", "notes": ""}
                                     },
 
+
+"X11 Only": {
+                    "dwm": {"class": "x11", "link": "https://github.com/PurpleAce88/dwm-bar-in-rust-", "notes": ""},
+                    "i3bar": {"status": "decided against", "link": "https://www.reddit.com/r/i3wm/comments/adjhd0/can_i_hide_i3bar_at_all_times_except_when_i/ ", "notes": ""},
+                    "i3status-rust": {"status": "decided against", "link": "https://github.com/greshake/i3status-rust", "notes": ""},
+                    "Lemonbar": {"status": "decided against", "link": "https://github.com/LemonBoy/bar", "notes": "Super fast, lightweight, and mnml status bar for Linux."},
+                    "polybar": {"status": "decided against", "link": "https://github.com/polybar/polybar", "notes": "[polybar site](https://polybar.github.io/) - Fast and easy-to-use status bar."},
+                    "xmobar": {"status": "decided against", "link": "https://codeberg.org/xmobar/xmobar", "notes": "[xmobar](https://codeberg.org/xmobar/xmobar/src/branch/master/doc/quick-start.org) + [Pomobar](https://github.com/rlcintra/pomobar) -> [r/unixporn - [Xmonad / Taffybar] A minimalist & blue RICE!](https://www.reddit.com/r/unixporn/comments/stsstb/xmonad_taffybar_a_minimalist_blue_rice/), [beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html](https://beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html)"},
+                    "taffybar": {"status": "decided against", "link": "https://github.com/taffybar/taffybar", "notes": "[r/unixporn - [taffybar/XMonad] Gtk+3 Updates to Taffybar](https://www.reddit.com/r/unixporn/comments/78zwek/taffybarxmonad_gtk3_updates_to_taffybar/) - [taffybarXMonad](https://www.reddit.com/r/unixporn/comments/8l40iu/taffybarxmonad_a_little_bit_too_much_transparency/), [r/unixporn - [XMonad] Dynamic Workspace Naming with Taffybar](https://www.reddit.com/r/unixporn/comments/59y6uf/xmonad_dynamic_workspace_naming_with_taffybar/)"},
+                    "gtk-sni-tray": {"status": "decided against", "link": "https://github.com/taffybar/gtk-sni-tray", "notes": ""},
+                    "dzen": {"status": "decided against", "link": "https://robm.github.io/dzen/", "notes": ""},
+                    "cnx": {"status": "decided against", "link": "https://github.com/mjkillough/cnx", "notes": ""},
+                    "trayer": {"status": "decided against", "link": "https://github.com/sargon/trayer-srg", "notes": ""},
+                    "stalonetray": {"status": "decided against", "link": "https://kolbusa.github.io/stalonetray/", "notes": ""}
+                },
+
+
+"Mixed / Miscellaneous ###########################################################################################################################################################3": {
+                    "nikp123/xava": {"class": "U \u2190 X11", "link": "https://github.com/nikp123/xava", "notes": ""}
+                },
+                
+
+"Stacking Window Managers": {
+                        " [2bwm](https://github.com/venam/2bwm) - A fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm.": {"status": "decided against", "link": "", "notes": ""},
+                        " [Blackbox](https://github.com/bbidulock/blackboxwm) - A fast, lightweight window manager for the X Window System, without all those annoying library dependencies.": {"status": "decided against", "link": "", "notes": ""},
+                        " [Fluxbox](http://fluxbox.org/) - A window manager for X that was based on the Blackbox 0.61.1 code.": {"status": "decided against", "link": "", "notes": ""},
+                        " [IceWM](https://ice-wm.org/) - A window manager for the X Window System. The goal of IceWM is speed, simplicity, and not getting in the user\u2019s way.": {"status": "decided against", "link": "", "notes": ""},
+                        " [Openbox](http://openbox.org/) - A highly configurable, next generation window manager with extensive standards support.": {"status": "decided against", "link": "", "notes": ""}
+                    }

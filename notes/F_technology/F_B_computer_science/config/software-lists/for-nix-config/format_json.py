@@ -12,7 +12,7 @@ with open(tmp, "w") as f:
     json.dump(dicti, f, indent=2)
 
 s = json.dumps(dicti, indent=4)
-s = re.sub("\{\n +\"class", "{\"class", s)
+s = re.sub("\{\n +\"status", "{\"status", s)
 s = re.sub(",\n +\"link\"", ", \"link\"", s)
 s = re.sub(",\n +\"notes\"", ", \"notes\"", s)
 s = re.sub(",\n +\"complements\"", ", \"complements\"", s)

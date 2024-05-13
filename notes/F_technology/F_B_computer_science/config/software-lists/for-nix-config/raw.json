@@ -15,7 +15,7 @@
                     "librewolf": {"status": "not decided yet", "link": "...", "language": "", "notes": ""},
                     "firefox": {"status": "added", "link": "...", "language": "", "notes": ""},
                     "floorp": {"status": "selected", "link": "...", "language": "", "notes": ""},
-                    "firedragon $$$": {"status": "selected for later", "link": "https://github.com/dr460nf1r3/firedragon-browser", "language": "", "notes": "custom branding for Garuda Linux, but looks amazing"},
+                    "firedragon !!!": {"status": "selected for later", "link": "https://github.com/dr460nf1r3/firedragon-browser", "language": "", "notes": "custom branding for Garuda Linux, but looks amazing"},
                     "waterfox": {"status": "not decided yet", "link": "...", "language": "", "notes": ""},
                     "ungoogled-chromium": {"status": "added", "link": "...", "language": "", "notes": ""},
                     "chromium": {"status": "decided against", "link": "...", "language": "", "notes": ""},
@@ -38,7 +38,7 @@
                         "neosurf": {"status": "selected; needs nix packaging", "link": "https://github.com/CobaltBSD/neosurf", "language": "", "notes": "+ [visurf](https://sr.ht/~sircmpwn/visurf/)"}
                     },
                     "Non-Vim": {
-                        "textbrowser/dooble": {"status": "needs work", "link": "https://github.com/textbrowser/dooble", "language": "", "notes": "$$$"},
+                        "textbrowser/dooble": {"status": "needs work", "link": "https://github.com/textbrowser/dooble", "language": "", "notes": "!!!"},
                         "dillo-browser.github.io/": {"status": "needs work", "link": "https://dillo-browser.github.io/", "language": "", "notes": "Extensible with plugins written in any language (see the list of plugins)."},
                         "ladybird": {"status": "needs work", "link": "https://ladybird.dev/", "language": "", "notes": ""},
                         "min": {"status": "needs work", "link": "https://github.com/minbrowser/min", "language": "", "notes": ""},
@@ -226,7 +226,7 @@
                 "Addons for Firefox and Chromium": {
                     "vimium": {"status": "TODO: decide between alternatives", "link": "https://vimium.github.io/", "language": "", "notes": ""},
                     "vimium-c": {"status": "TODO: decide between alternatives", "link": "https://github.com/gdh1995/vimium-c", "language": "", "notes": ""},
-                    "Surfingkeys": {"status": "selected", "link": "https://github.com/brookhong/Surfingkeys", "language": "", "notes": "$$$$$$$$$ https://github.com/b0o/surfingkeys-conf -> (R)) [how-to-use-surfingkeys](https://www.neoevolutions.com/post/how-to-use-surfingkeys-less-mice-more-efficient-web-browsing-with-vi-style-shortcuts) -> [Surfingkeys vim editor](https://github.com/brookhong/Surfingkeys#vim-editor-and-emacs-editor) (apparently based on [ace](https://ace.c9.io/))"},
+                    "Surfingkeys": {"status": "selected", "link": "https://github.com/brookhong/Surfingkeys", "language": "", "notes": "!!!!!!!!! https://github.com/b0o/surfingkeys-conf -> (R)) [how-to-use-surfingkeys](https://www.neoevolutions.com/post/how-to-use-surfingkeys-less-mice-more-efficient-web-browsing-with-vi-style-shortcuts) -> [Surfingkeys vim editor](https://github.com/brookhong/Surfingkeys#vim-editor-and-emacs-editor) (apparently based on [ace](https://ace.c9.io/))"},
                     "Link Hints": {"status": "TODO: decide between alternatives", "link": "https://lydell.github.io/LinkHints/", "language": "", "notes": "(hinting only)"},
                     "Vimmatic": {"status": "TODO: decide between alternatives", "link": "https://github.com/ueokande/vimmatic", "language": "", "notes": ""}
                 }
@@ -265,13 +265,13 @@
                 "pocket": {"status": "TODO: decide between alternatives", "link": "https://getpocket.com", "language": "", "notes": ""}
             },
             "Reader": {
-                "columnate": {"status": "needs work", "link": "https://github.com/anoved/Columnate", "language": "", "notes": "$$$"},
+                "columnate": {"status": "needs work", "link": "https://github.com/anoved/Columnate", "language": "", "notes": "!!!"},
                 "darkreader": {"status": "decided against", "link": "https://github.com/darkreader/darkreader", "language": "", "notes": "-"},
                 "simplyread": {"status": "decided against", "link": "https://njw.name/simplyread/", "language": "", "notes": ""}
             }
         }
     },
-    "Webapps and Websites": {
+    "web[apps|sites]": {
         "miscellaneous": {
             "screenshottocode": {"status": "selected", "link": "https://screenshottocode.com/", "language": "python, typescript", "notes": ""},
             "scribe.rip": {"status": "selected", "link": "https://scribe.rip/", "language": "", "notes": "alternative frontend or medium"},
@@ -298,7 +298,7 @@
             "githubwrapped": {"status": "selected", "link": "https://www.githubwrapped.io/", "language": "", "notes": ""},
             "overapi": {"status": "selected", "link": "https://overapi.com/", "language": "", "notes": ""},
             "webshell": {"status": "selected", "link": "https://github.com/nasan016/webshell", "language": "", "notes": ""},
-            "Xatta-Trone/medium-parser-extension": {"status": "selected", "link": "https://github.com/Xatta-Trone/medium-parser-extension", "language": "", "notes": "[site](https://medium-parser-ext.vercel.app/) $$$"},
+            "Xatta-Trone/medium-parser-extension": {"status": "selected", "link": "https://github.com/Xatta-Trone/medium-parser-extension", "language": "", "notes": "[site](https://medium-parser-ext.vercel.app/) !!!"},
             "puter.com/app/terminal": {"status": "selected", "link": "https://puter.com/app/terminal", "language": "", "notes": "[puter](https://github.com/HeyPuter)"},
             "yacy.de/": {"status": "selected", "link": "https://yacy.de/", "language": "", "notes": ""},
             "Openwords (Openwords)": {"status": "needs work", "link": "https://github.com/Openwords", "language": "", "notes": "still need to contribute"},
@@ -333,7 +333,7 @@
             "otakar-smrz/elixir-fm: ElixirFM Functional Arabic Morphology": {"status": "selected", "link": "https://github.com/otakar-smrz/elixir-fm", "language": "", "notes": "[Thesis](https://elixir-fm.sourceforge.net/elixir-thesis.pdf)"}
         },
         "Security": {
-            "digital-defense": {"status": "selected", "link": "https://digital-defense.io/", "language": "", "notes": "$$$$$$$$$"}
+            "digital-defense": {"status": "selected", "link": "https://digital-defense.io/", "language": "", "notes": "!!!!!!!!!"}
         },
         "Misc Web": {
             "kill-tabs": {"status": "decided against", "link": "https://github.com/sindresorhus/kill-tabs", "language": "", "notes": "Kill all Chrome tabs."},
@@ -414,7 +414,7 @@
             "arch-wiki": {"status": "selected", "link": "https://github.com/deadhead420/arch-wiki", "language": "", "notes": "Search the Arch Wiki anywhere from the command line."},
             "awesome-cli": {"status": "selected", "link": "https://github.com/umutphp/awesome-cli", "language": "", "notes": "Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists. "},
             "awesome-finder": {"status": "needs work", "link": "https://github.com/mingrammer/awesome-finder", "language": "", "notes": "Search the awesome lists from the command line."},
-            "sherlock": {"status": "selected", "link": "https://github.com/sherlock-project/sherlock", "language": "", "notes": " $$$Hunt down social media accounts by username across social networks"},
+            "sherlock": {"status": "selected", "link": "https://github.com/sherlock-project/sherlock", "language": "", "notes": " !!!Hunt down social media accounts by username across social networks"},
             "socialscan": {"status": "selected", "link": "https://github.com/iojw/socialscan", "language": "", "notes": "Python library and CLI for accurately querying username and email usage on online platforms."},
             "cli-arxiv": {"status": "selected", "link": "https://github.com/knguyenanhoa/cli-arxiv", "language": "", "notes": "CLI tool for exploring arXiv."},
             "ddgr": {"status": "selected", "link": "https://github.com/jarun/ddgr", "language": "", "notes": "DuckDuckGo from the terminal"},
@@ -430,7 +430,7 @@
             "goodreads": {"status": "selected", "link": "https://www.goodreads.com/", "language": "", "notes": ""},
             "Weblate": {"status": "selected", "link": "https://weblate.org/", "language": "", "notes": "Translation management system with version control integration."},
             "wordmark": {"status": "selected", "link": "https://wordmark.it/", "language": "", "notes": "web tool (Chrome) for font recognition on device"},
-            "gh-profile-readme-generator": {"status": "added", "link": "https://rahuldkjain.github.io/gh-profile-readme-generator/", "language": "", "notes": "(also works locally offline) $$$"},
+            "gh-profile-readme-generator": {"status": "added", "link": "https://rahuldkjain.github.io/gh-profile-readme-generator/", "language": "", "notes": "(also works locally offline) !!!"},
             "convertall.js": {"status": "selected", "link": "http://convertall-js.bellz.org/", "language": "", "notes": ""},
             "Dnote": {"status": "selected", "link": "https://www.getdnote.com/", "language": "", "notes": "A simple command line notebook with multi-device sync and web interface."},
             "cloverleaf cli": {"status": "needs work", "link": "https://github.com/cloverleaf/cli", "language": "", "notes": ""},
@@ -443,7 +443,7 @@
             "typelit": {"status": "selected", "link": "https://www.typelit.io/", "language": "", "notes": ""},
             "LibreTranslate - Free and Open Source Machine Translation API": {"status": "selected", "link": "https://libretranslate.com/", "language": "", "notes": ""},
             "owasp": {"status": "selected", "link": "https://owasp.org/", "language": "", "notes": ""},
-            "clcalc": {"status": "selected", "link": "https://github.com/ovk/clcalc", "language": "", "notes": "[site](https://clcalc.net/) $$$$$$$$$"},
+            "clcalc": {"status": "selected", "link": "https://github.com/ovk/clcalc", "language": "", "notes": "[site](https://clcalc.net/) !!!!!!!!!"},
             "learn-anything": {"status": "selected", "link": "https://github.com/learn-anything/learn-anything.xyz", "language": "", "notes": "[site](https://learn-anything.xyz/)"}
         },
         "Document Editing, Wiki Software (Web)": {
@@ -452,14 +452,14 @@
             "typst": {"status": "selected", "link": "https://typst.app/", "language": "", "notes": ""}
         }
     },
-    "Web Development": {
+    "webdev": {
         "miscellaneous": {
             "serverracket.com/": {"status": "selected", "link": "https://serverracket.com/", "language": "", "notes": ""},
             "raji": {"status": "selected for later", "link": "https://federicoterzi.com/raji/", "language": "", "notes": "[github](https://github.com/federico-terzi/raji)"},
             "dBug": {"status": "decided against", "link": "https://github.com/ospinto/dBug", "language": "", "notes": "PHP tool"},
             "ebpf": {"status": "selected", "link": "https://thenewstack.io/what-is-ebpf/", "language": "", "notes": "[ebpf article](https://thenewstack.io/what-is-ebpf/)"},
             "http-server": {"status": "selected", "link": "https://github.com/http-party/http-server", "language": "", "notes": ""},
-            "inox": {"status": "selected", "link": "https://github.com/inoxlang/inox", "language": "", "notes": "$$$$$$$$$"},
+            "inox": {"status": "selected", "link": "https://github.com/inoxlang/inox", "language": "", "notes": "!!!!!!!!!"},
             "kitten/kittens.small-web.org: Kitten distribution management place. Handles uploads and downloads of Kitten distributions. - kittens.small-web.org - Codeberg.org": {"status": "selected", "link": "https://codeberg.org/kitten/kittens.small-web.org", "language": "", "notes": ""},
             "kuto": {"status": "selected for later", "link": "https://ithub.com/samthor/kuto", "language": "", "notes": "Faster updates for big JS projects"},
             "ludic": {"status": "selected", "link": "https://github.com/paveldedik/ludic", "language": "", "notes": "Lightweight framework for building dynamic HTML pages in pure Python."},
@@ -477,7 +477,7 @@
             "qwik": {"status": "TODO: decide between alternatives", "link": "https://qwik.dev/", "language": "", "notes": ""}
         },
         "Frameworks / Components": {
-            "kitten": {"status": "selected", "link": "https://codeberg.org/kitten/app", "language": "", "notes": "$$$"},
+            "kitten": {"status": "selected", "link": "https://codeberg.org/kitten/app", "language": "", "notes": "!!!"},
             "loco": {"status": "back pocket; may be useful someday", "link": "https://loco.rs/ | https://www.shuttle.rs/blog/2023/12/20/loco-rust-rails", "language": "", "notes": "the Rails of Rust; see also https://github.com/shuttle-hq/shuttle"},
             "rawjs": {"status": "back pocket; may be useful someday", "link": "https://www.squaresapp.org/rawjs/", "language": "", "notes": ""},
             "bootplus": {"status": "back pocket; may be useful someday", "link": "http://aozora.github.io/bootplus/", "language": "", "notes": ""},
@@ -500,7 +500,7 @@
             "cli": {"status": "TODO: decide between alternatives", "link": "https://github.com/httpie/cli", "language": "", "notes": "(httpie) - CLI HTTP client"},
             "[xh](https://github.com/ducaale/xh)": {"status": "TODO: decide between alternatives", "link": "", "language": "", "notes": ""},
             "http-prompt": {"status": "selected", "link": "https://github.com/httpie/http-prompt", "language": "", "notes": ""},
-            "monolith": {"status": "selected", "link": "https://github.com/Y2Z/monolith", "language": "", "notes": "save webpage as single file $$$$$$$$$"},
+            "monolith": {"status": "selected", "link": "https://github.com/Y2Z/monolith", "language": "", "notes": "save webpage as single file !!!!!!!!!"},
             "dog": {"status": "selected", "link": "https://github.com/ogham/dog", "language": "", "notes": "CLI DNS"},
             "trurl": {"status": "selected", "link": "https://github.com/curl/trurl", "language": "", "notes": ""},
             "wireshark": {"status": "selected", "link": "https://gitlab.com/wireshark/wireshark", "language": "", "notes": "Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions. [Wireshark](https://www.wireshark.org/)"},
@@ -703,7 +703,7 @@
         },
         "CLI / TUI Email": {
             "Mailnag": {"status": "needs work", "link": "https://launchpad.net/~pulb/+archive/ubuntu/mailnag", "language": "", "notes": "Mailnag is a daemon program that checks POP3 and IMAP servers for new mail."},
-            "meli": {"status": "selected", "link": "https://git.meli.delivery/meli/meli", "language": "", "notes": "BSD/Linux terminal email client with support for multiple accounts and Maildir / mbox / notmuch / IMAP / JMAP. $$$$$$$"},
+            "meli": {"status": "selected", "link": "https://git.meli.delivery/meli/meli", "language": "", "notes": "BSD/Linux terminal email client with support for multiple accounts and Maildir / mbox / notmuch / IMAP / JMAP. !!!!!!$"},
             "alot": {"status": "selected", "link": "https://github.com/pazz/alot", "language": "", "notes": "MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend; MailDir format support."},
             "alpine": {"status": "selected", "link": "https://repo.or.cz/alpine.git/tree", "language": "", "notes": "https://alpineapp.email/ Mail client which aims at being 'fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users'"},
             "rspamd": {"status": "selected", "link": "https://rspamd.com/", "language": "", "notes": ""},
@@ -790,7 +790,7 @@
             "PingMe": {"status": "selected", "link": "https://github.com/kha7iq/pingme", "language": "", "notes": "Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat and others."},
             "Shift": {"status": "decided against", "link": "https://shift.com/apps/messenger/", "language": "", "notes": ""},
             "electronim": {"status": "TODO: decide between alternatives", "link": "https://github.com/manusa/electronim", "language": "", "notes": " all-in-one messging $"},
-            "ferdium": {"status": "selected", "link": "https://ferdium.org/", "language": "", "notes": "$$$"},
+            "ferdium": {"status": "selected", "link": "https://ferdium.org/", "language": "", "notes": "!!!"},
             "finch": {"status": "selected", "link": "https://www.pidgin.im/", "language": "", "notes": "IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project."},
             "hamsket": {"status": "needs work", "link": "https://github.com/TheGoddessInari/hamsket", "language": "", "notes": ""},
             "pidgin": {"status": "selected", "link": "https://pidgin.im/", "language": "", "notes": ""},
@@ -857,57 +857,56 @@
             "r/kde/comments/11mghkl/guide_theme_dolphin_qt_apps_on_gnome/": {"status": "TODO: read", "link": "https://www.reddit.com/r/kde/comments/11mghkl/guide_theme_dolphin_qt_apps_on_gnome/", "language": "", "notes": ""}
         },
         "WM/Compositor": {
-            "stratawm": {"status": "needs work", "link": "https://github.com/StrataWM/strata", "language": "", "notes": "$$$"},
-            "pinnaclewm": {"status": "needs work", "link": "https://github.com/pinnacle-comp/pinnacle", "language": "", "notes": "$$$"},
+            "stratawm": {"status": "needs work", "link": "https://github.com/StrataWM/strata", "language": "", "notes": "!!!"},
+            "pinnaclewm": {"status": "needs work", "link": "https://github.com/pinnacle-comp/pinnacle", "language": "", "notes": "!!!"},
             "magmawm": {"status": "needs work", "link": "https://github.com/MagmaWM/MagmaWM", "language": "", "notes": ""},
             "awesome-hyprland#plugins": {"status": "selected for later", "link": "https://github.com/hyprland-community/awesome-hyprland#plugins", "language": "", "notes": ""},
             "cage-kiosk/cage: A Wayland kiosk": {"status": "selected", "link": "https://github.com/cage-kiosk/cage", "language": "", "notes": ""},
             "dwl-guile": {"status": "needs work", "link": "https://github.com/engstrand-config/dwl-guile", "language": "", "notes": "+ [dwl-guile home service](https://github.com/engstrand-config/home-service-dwl-guile)"},
             "dwl": {"status": "TODO: decide between alternatives", "link": "https://github.com/denisdubochevalier/dwl", "language": "", "notes": "", "complements": {
                     "dwl": {"status": "TODO: decide between alternatives", "link": "https://github.com/djpohly/dwl", "language": "", "notes": ""}
-                },
-                "ezmonad": {"status": "selected", "link": "https://github.com/QuillFlash/ezmonad", "language": "", "notes": ""},
-                "gamescope": {"status": "decided against", "link": "https://github.com/Plagman/gamescope", "language": "", "notes": "Gamescope is a micro-compositor that provides a sandboxed Xwayland desktop with independent input, resolution, and refresh rate."},
-                "way-cooler": {"status": "needs work", "link": "https://github.com/OmegaRogue/way-cooler", "language": "", "notes": ""},
-                "home-service-dwl-guile": {"status": "selected", "link": "https://github.com/engstrand-config/home-service-dwl-guile", "language": "", "notes": ""},
-                "hy3": {"status": "TODO: decide between alternatives", "link": "https://github.com/outfoxxed/hy3", "language": "", "notes": ""},
-                "Hyprland": {"status": "added", "link": "https://hyprland.org/", "language": "", "notes": "[awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. [So you want to learn hyprland? LONG VERSION... install and m0re.](https://www.youtube.com/watch?v=iE99GrcZzhs) -> [Never knew Hyprland had different animations than the default!] Monitors Hyprland Wiki https://www.youtube.com/watch?v=UOniMj7bkh4 https://wiki.hyprland.org/Configuring/Monitors/"},
-                "kiwmi (fork)": {"status": "TODO: decide between alternatives", "link": "https://github.com/kuruczgy/kiwmi", "language": "", "notes": ""},
-                "kiwmi": {"status": "TODO: decide between alternatives", "link": "https://github.com/buffet/kiwmi", "language": "", "notes": ""},
-                "mahogany": {"status": "selected", "link": "https://github.com/stumpwm/mahogany", "language": "", "notes": "(Wayland, CL)"},
-                "monroeclinton/mwm: My Window Manager": {"status": "needs work", "link": "https://github.com/monroeclinton/mwm", "language": "", "notes": ""},
-                "newm-atha": {"status": "needs work", "link": "https://sr.ht/~atha/newm-atha/", "language": "", "notes": "", "complements": {
-                        "pywm-atha": {"status": "needs work", "link": "https://git.sr.ht/~atha/pywm-atha", "language": "", "notes": ""}
-                    }
-                },
-                "newm: Wayland compositor": {"status": "needs work", "link": "https://github.com/jbuchermn/newm", "language": "", "notes": "[newM](https://github.com/jbuchermn/newm)"},
-                "niri: A scrollable-tiling Wayland compositor.": {"status": "selected", "link": "https://github.com/YaLTeR/niri", "language": "", "notes": "$$$"},
-                "noway": {"status": "needs work", "link": "https://github.com/mora-unie-youer/noway", "language": "", "notes": ""},
-                "river": {"status": "selected", "link": "https://github.com/riverwm/river", "language": "", "notes": ""},
-                "river-luatile": {"status": "selected", "link": "https://github.com/MaxVerevkin/river-luatile", "language": "", "notes": ""},
-                "kile": {"status": "selected", "link": "https://gitlab.com/snakedye/kile", "language": "", "notes": "layout generator for RiverWM", "complements": {
-                        "algae": {"status": "TODO: decide between alternatives", "link": "https://github.com/amirography/algae", "language": "", "notes": "RiverWM config in Rust"},
-                        "algae (alt)": {"status": "TODO: decide between alternatives", "link": "https://github.com/prmadev/algae", "language": "", "notes": "river in rust"}
-                    },
-                    "simplewc": {"status": "selected", "link": "https://www.reddit.com/r/unixporn/s/7BK4nY4pV3", "language": "", "notes": "[github](https://github.com/kcirick/simplewc)"},
-                    "sway useful add-ons": {"status": "selected for later", "link": "https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway", "language": "", "notes": ""},
-                    "sway": {"status": "selected", "link": "https://swaywm.org/", "language": "", "notes": "Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11. [i3 to Sway :: The Curator](https://julioln.com/posts/from-i3-to-sway/)"},
-                    "swayfx: SwayFX: Sway, but with eye candy!": {"status": "selected", "link": "https://github.com/WillPower3309/swayfx", "language": "", "notes": ""},
-                    "swaywm": {"status": "selected", "link": "https://swaywm.org/", "language": "", "notes": "[swayWM First Impressions - Is it Good? - YouTube](https://www.youtube.com/watch?v=FmEaMntQDzM)", "complements": {
-                            "papersway": {"status": "selected", "link": "https://spwhitton.name/tech/code/papersway/", "language": "", "notes": ""}
-                        },
-                        "taiwins": {"status": "needs work", "link": "https://github.com/taiwins/taiwins", "language": "", "notes": ""},
-                        "vivarium": {"status": "needs work", "link": "https://github.com/inclement/vivarium", "language": "", "notes": "-> good illustrations"},
-                        "way-cooler": {"status": "needs work", "link": "http://way-cooler.org/", "language": "", "notes": ""},
-                        "wayfire": {"status": "selected", "link": "https://github.com/WayfireWM/wayfire", "language": "", "notes": "[wayfire](https://wayfire.org/) - Wayfire is a wayland compositor based on wlroots. It aims to create a customizable, extendable and lightweight environment without sacrificing its appearance."},
-                        "waymonad": {"status": "needs work", "link": "https://github.com/waymonad/waymonad", "language": "", "notes": ""},
-                        "waymonader": {"status": "needs work", "link": "https://github.com/ardek66/waymonader", "language": "", "notes": ""},
-                        "wmoon": {"status": "needs work", "link": "https://github.com/Natchuz/wmoon", "language": "", "notes": ""},
-                        "qtile": {"status": "selected", "link": "http://www.qtile.org/", "language": "", "notes": "Qtile is a full-featured, hackable tiling window manager written and configured in Python. + elParaguayo/qtile-widget-livefootballscores: Qtile widget to display live football scores", "complements": {
-                                "qtile-widget-livefootballscores": {"status": "selected", "link": "https: //github.com/elParaguayo/qtile-widget-livefootballscores", "language": "", "notes": ""}
-                            }
-                        }
-                    }
+                }
+            },
+            "ezmonad": {"status": "selected", "link": "https://github.com/QuillFlash/ezmonad", "language": "", "notes": ""},
+            "gamescope": {"status": "decided against", "link": "https://github.com/Plagman/gamescope", "language": "", "notes": "Gamescope is a micro-compositor that provides a sandboxed Xwayland desktop with independent input, resolution, and refresh rate."},
+            "home-service-dwl-guile": {"status": "selected", "link": "https://github.com/engstrand-config/home-service-dwl-guile", "language": "", "notes": ""},
+            "hy3": {"status": "TODO: decide between alternatives", "link": "https://github.com/outfoxxed/hy3", "language": "", "notes": ""},
+            "Hyprland": {"status": "added", "link": "https://hyprland.org/", "language": "", "notes": "[awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. [So you want to learn hyprland? LONG VERSION... install and m0re.](https://www.youtube.com/watch?v=iE99GrcZzhs) -> [Never knew Hyprland had different animations than the default!] Monitors Hyprland Wiki https://www.youtube.com/watch?v=UOniMj7bkh4 https://wiki.hyprland.org/Configuring/Monitors/"},
+            "kiwmi (fork)": {"status": "TODO: decide between alternatives", "link": "https://github.com/kuruczgy/kiwmi", "language": "", "notes": ""},
+            "kiwmi": {"status": "TODO: decide between alternatives", "link": "https://github.com/buffet/kiwmi", "language": "", "notes": ""},
+            "mahogany": {"status": "selected", "link": "https://github.com/stumpwm/mahogany", "language": "", "notes": "(Wayland, CL)"},
+            "monroeclinton/mwm: My Window Manager": {"status": "needs work", "link": "https://github.com/monroeclinton/mwm", "language": "", "notes": ""},
+            "newm-atha": {"status": "needs work", "link": "https://sr.ht/~atha/newm-atha/", "language": "", "notes": "", "complements": {
+                    "pywm-atha": {"status": "needs work", "link": "https://git.sr.ht/~atha/pywm-atha", "language": "", "notes": ""}
+                }
+            },
+            "newm: Wayland compositor": {"status": "needs work", "link": "https://github.com/jbuchermn/newm", "language": "", "notes": "[newM](https://github.com/jbuchermn/newm)"},
+            "niri: A scrollable-tiling Wayland compositor.": {"status": "selected", "link": "https://github.com/YaLTeR/niri", "language": "", "notes": "!!!"},
+            "noway": {"status": "needs work", "link": "https://github.com/mora-unie-youer/noway", "language": "", "notes": ""},
+            "river": {"status": "selected", "link": "https://github.com/riverwm/river", "language": "", "notes": ""},
+            "river-luatile": {"status": "selected", "link": "https://github.com/MaxVerevkin/river-luatile", "language": "", "notes": ""},
+            "kile": {"status": "selected", "link": "https://gitlab.com/snakedye/kile", "language": "", "notes": "layout generator for RiverWM", "complements": {
+                    "algae": {"status": "TODO: decide between alternatives", "link": "https://github.com/amirography/algae", "language": "", "notes": "RiverWM config in Rust"},
+                    "algae (alt)": {"status": "TODO: decide between alternatives", "link": "https://github.com/prmadev/algae", "language": "", "notes": "river in rust"}
+                }
+            },
+            "simplewc": {"status": "selected", "link": "https://www.reddit.com/r/unixporn/s/7BK4nY4pV3", "language": "", "notes": "[github](https://github.com/kcirick/simplewc)"},
+            "sway useful add-ons": {"status": "selected for later", "link": "https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway", "language": "", "notes": ""},
+            "sway": {"status": "selected", "link": "https://swaywm.org/", "language": "", "notes": "Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11. [i3 to Sway :: The Curator](https://julioln.com/posts/from-i3-to-sway/)"},
+            "swayfx: SwayFX: Sway, but with eye candy!": {"status": "selected", "link": "https://github.com/WillPower3309/swayfx", "language": "", "notes": ""},
+            "swaywm": {"status": "selected", "link": "https://swaywm.org/", "language": "", "notes": "[swayWM First Impressions - Is it Good? - YouTube](https://www.youtube.com/watch?v=FmEaMntQDzM)", "complements": {
+                    "papersway": {"status": "selected", "link": "https://spwhitton.name/tech/code/papersway/", "language": "", "notes": ""}
+                }
+            },
+            "taiwins": {"status": "needs work", "link": "https://github.com/taiwins/taiwins", "language": "", "notes": ""},
+            "vivarium": {"status": "needs work", "link": "https://github.com/inclement/vivarium", "language": "", "notes": "-> good illustrations"},
+            "way-cooler": {"status": "needs work", "link": "http://way-cooler.org/", "language": "", "notes": ""},
+            "wayfire": {"status": "selected", "link": "https://github.com/WayfireWM/wayfire", "language": "", "notes": "[wayfire](https://wayfire.org/) - Wayfire is a wayland compositor based on wlroots. It aims to create a customizable, extendable and lightweight environment without sacrificing its appearance."},
+            "waymonad": {"status": "needs work", "link": "https://github.com/waymonad/waymonad", "language": "", "notes": ""},
+            "waymonader": {"status": "needs work", "link": "https://github.com/ardek66/waymonader", "language": "", "notes": ""},
+            "wmoon": {"status": "needs work", "link": "https://github.com/Natchuz/wmoon", "language": "", "notes": ""},
+            "qtile": {"status": "selected", "link": "http://www.qtile.org/", "language": "", "notes": "Qtile is a full-featured, hackable tiling window manager written and configured in Python. + elParaguayo/qtile-widget-livefootballscores: Qtile widget to display live football scores", "complements": {
+                    "qtile-widget-livefootballscores": {"status": "selected", "link": "https: //github.com/elParaguayo/qtile-widget-livefootballscores", "language": "", "notes": ""}
                 }
             },
             "Bar, etc": {
@@ -983,7 +982,7 @@
                     "bashrun": {"status": "TODO: decide between alternatives", "link": "http://bashrun.sourceforge.net/", "language": "", "notes": ""},
                     "bashrun2": {"status": "TODO: decide between alternatives", "link": "http://henning-bekel.de/bashrun2/", "language": "", "notes": ""},
                     "lighthouse": {"status": "needs work", "link": "https://github.com/emgram769/lighthouse", "language": "", "notes": ""},
-                    "loungy": {"status": "selected; needs nix packaging", "link": "https://github.com/MatthiasGrandl/Loungy", "language": "", "notes": "$$$$$$$$$"},
+                    "loungy": {"status": "selected; needs nix packaging", "link": "https://github.com/MatthiasGrandl/Loungy", "language": "", "notes": "!!!!!!!!!"},
                     "mkcron": {"status": "back pocket; may be useful someday", "link": "https://github.com/keshavbhatt/mkcron", "language": "", "notes": "cron editor for desktop - update for use on non-NixOS, perhaps"},
                     "onagre": {"status": "selected", "link": "https://github.com/onagre-launcher/onagre", "language": "", "notes": ""},
                     "rglauncher": {"status": "selected", "link": "https://github.com/aeghn/rglauncher", "language": "", "notes": ""},
@@ -1021,9 +1020,9 @@
                     "xlauncher": {"status": "decided against", "link": "https://github.com/vatriani/xlauncher", "language": "", "notes": ""}
                 },
                 "Misc / plugins": {
-                    "rofi-calc": {"status": "needs work", "link": "https://github.com/svenstaro/rofi-calc", "language": "", "notes": "$$$"},
-                    "networkmanager-dmenu": {"status": "selected", "link": "https://github.com/firecat53/networkmanager-dmenu", "language": "", "notes": "$$$"},
-                    "rofi-nerdy": {"status": "needs work", "link": "https://github.com/rolv-apneseth/rofi-nerdy", "language": "", "notes": "rofi plugin for nerdfonts $$$"},
+                    "rofi-calc": {"status": "needs work", "link": "https://github.com/svenstaro/rofi-calc", "language": "", "notes": "!!!"},
+                    "networkmanager-dmenu": {"status": "selected", "link": "https://github.com/firecat53/networkmanager-dmenu", "language": "", "notes": "!!!"},
+                    "rofi-nerdy": {"status": "needs work", "link": "https://github.com/rolv-apneseth/rofi-nerdy", "language": "", "notes": "rofi plugin for nerdfonts !!!"},
                     "keepmenu": {"status": "needs work", "link": "https://github.com/firecat53/keepmenu", "language": "", "notes": ""}
                 }
             },
@@ -1049,7 +1048,7 @@
                 "waypaper": {"status": "selected for later", "link": "https://github.com/anufrievroman/waypaper", "language": "python", "notes": ""},
                 "swww": {"status": "selected", "link": "https://github.com/LGFae/swww", "language": "", "notes": "use with ags"},
                 "mpvpaper": {"status": "selected for later", "link": "https://github.com/GhostNaN/mpvpaper", "language": "", "notes": ""},
-                "todowalp": {"status": "needs work", "link": "https://github.com/linuxdotexe/todowalp", "language": "", "notes": "$$$$$$$$$"},
+                "todowalp": {"status": "needs work", "link": "https://github.com/linuxdotexe/todowalp", "language": "", "notes": "!!!!!!!!!"},
                 "caydence": {"status": "selected for later", "link": "https://github.com/joshcbrown/caydence", "language": "", "notes": "needs nix packaging"},
                 "lwp": {"status": "selected for later", "link": "https://github.com/jszczerbinsky/lwp", "language": "", "notes": "Multi-platform parallax wallpaper engine - needs nix packaging"},
                 "Daily-Reddit-Wallpaper": {"status": "needs work", "link": "https://federicotorrielli.github.io/Daily-Reddit-Wallpaper/", "language": "", "notes": "Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup."},
@@ -1090,7 +1089,7 @@
                     "nik012003/ripdrag: Drag and Drop utilty written in Rust and GTK4": {"status": "selected", "link": "https://github.com/nik012003/ripdrag", "language": "", "notes": ""}
                 },
                 "Openers (like xdg-open)": {
-                    "mimi": {"status": "needs work", "link": "https://github.com/BachoSeven/mimi", "language": "", "notes": "$$$"},
+                    "mimi": {"status": "needs work", "link": "https://github.com/BachoSeven/mimi", "language": "", "notes": "!!!"},
                     "open-in-editor": {"status": "needs work", "link": "https://github.com/dandavison/open-in-editor", "language": "", "notes": ""},
                     "gof": {"status": "honorable mention", "link": "https://github.com/mattn/gof", "language": "", "notes": ""},
                     "jaro": {"status": "needs work", "link": "https://github.com/isamert/jaro", "language": "scheme", "notes": ""}
@@ -1108,7 +1107,7 @@
                 "watershot": {"status": "selected", "link": "https://github.com/Kirottu/watershot", "language": "rust", "notes": "A simple wayland native screenshot tool"},
                 "pyscreenshot": {"status": "back pocket; may be useful someday", "link": "https://libraries.io/pypi/pyscreenshot", "language": "", "notes": ""},
                 "screenshot-to-code": {"status": "selected", "link": "https://github.com/abi/screenshot-to-code", "language": "", "notes": ""},
-                "sss": {"status": "selected", "link": "https://github.com/SergioRibera/sss", "language": "", "notes": "SSS (Super ScreenShot) is a WIP: CLI/Lib to take amazing screenshot of code or screen $$$"},
+                "sss": {"status": "selected", "link": "https://github.com/SergioRibera/sss", "language": "", "notes": "SSS (Super ScreenShot) is a WIP: CLI/Lib to take amazing screenshot of code or screen !!!"},
                 "grim": {"status": "selected", "link": "https://sr.ht/~emersion/grim/", "language": "", "notes": ""},
                 "slurp": {"status": "selected", "link": "https://github.com/emersion/slurp", "language": "c", "notes": ""}
             },
@@ -1143,7 +1142,7 @@
                     " [askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*](https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*)": {"status": "TODO: read", "link": "", "language": "", "notes": ""},
                     " [unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts](https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts)": {"status": "TODO: read", "link": "", "language": "", "notes": ""},
                     " [I wonder what will happen to XMonad as the Wayland future actually seems to be a... | Hacker News](https://news.ycombinator.com/item?id=28794901)": {"status": "TODO: read", "link": "", "language": "", "notes": ""},
-                    " [\uf005A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s) $$$": {"status": "TODO: read", "link": "", "language": "", "notes": ""},
+                    " [\uf005A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s) !!!": {"status": "TODO: read", "link": "", "language": "", "notes": ""},
                     " [xwinman.org/](http://www.xwinman.org/)": {"status": "TODO: read", "link": "", "language": "", "notes": ""},
                     " X Protocol Reference Manual for X11, Release 6 (Definitive Guide to X Window System, Vol. 0) (Definitive Guides to the X Window System)": {"status": "TODO: read", "link": "", "language": "", "notes": ""},
                     " [The anatomy of the modern window manager](http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57)": {"status": "TODO: read", "link": "", "language": "", "notes": ""},
@@ -1184,7 +1183,7 @@
         },
         "Specific Programming Languages": {
             "Haskell": {
-                "SoccerFun": {"status": "TODO: read", "link": "https://hackage.haskell.org/package/SoccerFun", "language": "", "notes": "$$$$$$$$$"},
+                "SoccerFun": {"status": "TODO: read", "link": "https://hackage.haskell.org/package/SoccerFun", "language": "", "notes": "!!!!!!!!!"},
                 "parsing - Writing a parser from scratch in Haskell - Stack Overflow": {"status": "TODO: read", "link": "https://stackoverflow.com/questions/20660782/writing-a-parser-from-scratch-in-haskell", "language": "", "notes": ""},
                 "slim: Functional reactive user interface programming": {"status": "selected", "link": "https://hackage.haskell.org/package/slim", "language": "", "notes": ""},
                 "Dhall/Parser.hs": {"status": "selected", "link": "https://hackage.haskell.org/package/dhall-1.6.0/docs/src/Dhall-Parser.html", "language": "", "notes": ""}
@@ -1205,7 +1204,7 @@
                 "flyde.dev": {"status": "selected", "link": "https://www.flyde.dev", "language": "", "notes": "visual programming language for developers"}
             },
             "Typing": {
-                "quicktype": {"status": "selected", "link": "https://github.com/glideapps/quicktype", "language": "", "notes": "$$$$$$$$$ [site](https://app.quicktype.io/)"}
+                "quicktype": {"status": "selected", "link": "https://github.com/glideapps/quicktype", "language": "", "notes": "!!!!!!!!! [site](https://app.quicktype.io/)"}
             },
             "Config and Serialization Languages": {
                 "vstakhov/libucl: Universal configuration library parser": {"status": "selected", "link": "https://github.com/vstakhov/libucl", "language": "", "notes": "for [ucl](https://rspamd.com/doc/configuration/ucl.html)"},
@@ -1288,7 +1287,7 @@
                 "Doxygen": {"status": "selected", "link": "https://www.doxygen.nl/index.html", "language": "", "notes": ""},
                 "MkDocs": {"status": "selected", "link": "https://www.mkdocs.org/", "language": "", "notes": "Material for MkDocs (2.5) https://squidfunk.github.io/mkdocs-material/"},
                 "sunaku/dasht": {"status": "selected", "link": "https://github.com/sunaku/dasht", "language": "", "notes": ""},
-                "slatedocs/slate": {"status": "selected", "link": "https://github.com/slatedocs/slate", "language": "", "notes": "$$$ looks really good"},
+                "slatedocs/slate": {"status": "selected", "link": "https://github.com/slatedocs/slate", "language": "", "notes": "!!! looks really good"},
                 "Docusaurus": {"status": "selected", "link": "https://docusaurus.io/", "language": "", "notes": ""},
                 "Daux.io": {"status": "decided against", "link": "https://dauxio.github.io/", "language": "", "notes": "uses PHP and Composer"},
                 "GitBook": {"status": "need to try", "link": "https://www.gitbook.com/", "language": "", "notes": ""},
@@ -1297,8 +1296,7 @@
                 "docutils": {"status": "selected", "link": "https://docutils.sourceforge.io/", "language": "python", "notes": ""}
             },
             "Documentation Browsers": {
-                "rtfm": {
-                    "class": "honorable mention", "link": "https://github.com/hugopl/rtfm/", "language": "crystal", "notes": "no support for keyboard shortcuts"},
+                "rtfm": {"status": "honorable mention", "link": "https://github.com/hugopl/rtfm/", "language": "crystal", "notes": "no support for keyboard shortcuts"},
                 "zeal": {"status": "selected", "link": "https://zealdocs.org/", "language": "c++ qt", "notes": "-> https://doc.qt.io/qt-5/stylesheet.html Zeal is an offline documentation browser for software developers. - GUI"}
             },
             "Regex": {
@@ -1328,9 +1326,9 @@
             },
             "Hosting, Connectivity, Net App Programming": {
                 "untitledgoosetool": {"status": "back pocket; may be useful someday", "link": "https://github.com/cisagov/untitledgoosetool", "language": "", "notes": ""},
-                "Disroot": {"status": "selected", "link": "https://disroot.org/", "language": "", "notes": "Hosted versions of many of the services on this list. (Multiple licenses) $$$$$$$$$"},
+                "Disroot": {"status": "selected", "link": "https://disroot.org/", "language": "", "notes": "Hosted versions of many of the services on this list. (Multiple licenses) !!!!!!!!!"},
                 "Apache HTTP Server": {"status": "need to try", "link": "https://httpd.apache.org/", "language": "", "notes": "Secure, efficient, and extensible web server. ([Apache License 2.0](http://www.apache.org/licenses/))"},
-                "uberspace.de/en/": {"status": "selected", "link": "https://uberspace.de/en/", "language": "", "notes": "Uberlab \u2014 UberLab 7 documentation https://lab.uberspace.de/ $$$$$$$$$"},
+                "uberspace.de/en/": {"status": "selected", "link": "https://uberspace.de/en/", "language": "", "notes": "Uberlab \u2014 UberLab 7 documentation https://lab.uberspace.de/ !!!!!!!!!"},
                 "linode": {"status": "need to try", "link": "https://www.linode.com/", "language": "", "notes": ", [linode/linode-cli](https://github.com/linode/linode-cli)"},
                 "adnanh/webhook": {"status": "selected", "link": "https://github.com/adnanh/webhook", "language": "", "notes": ""},
                 "proton drive": {"status": "selected", "link": "https://proton.me/drive/download", "language": "", "notes": ""},
@@ -1420,7 +1418,7 @@
                 "strip-css-comments-cli": {"status": "needs work", "link": "https://github.com/sindresorhus/strip-css-comments-cli", "language": "", "notes": "Strip comments from CSS."},
                 "fractarchy-cms": {"status": "selected", "link": "https://github.com/fractarchy/fractarchy-cms", "language": "", "notes": ""},
                 "urlhunter": {"status": "selected", "link": "https://github.com/utkusen/urlhunter", "language": "", "notes": "Recon tool that allows searching on URLs that are exposed via shortener services."},
-                "todomvc.com/": {"status": "selected", "link": "https://todomvc.com/", "language": "", "notes": "use in RosettaProjects $$$$$$$$$ [repo](https://github.com/tastejs/todomvc)"},
+                "todomvc.com/": {"status": "selected", "link": "https://todomvc.com/", "language": "", "notes": "use in RosettaProjects !!!!!!!!! [repo](https://github.com/tastejs/todomvc)"},
                 "localtunnel": {"status": "selected", "link": "https://github.com/localtunnel/localtunnel", "language": "", "notes": "Expose your localhost to the world for easy testing and sharing."},
                 "ergo": {"status": "selected", "link": "https://github.com/cristianoliveira/ergo", "language": "", "notes": "The management of multiple local services running over different ports made easy."},
                 "ngrok.com/": {"status": "decided against", "link": "https://ngrok.com/", "language": "", "notes": "[ngrok](https://github.com/ngrok) - Secure introspectable tunnels to localhost."},
@@ -1443,12 +1441,12 @@
                 "dmlc/xgboost": {"status": "selected", "link": "https://github.com/dmlc/xgboost", "language": "", "notes": ""},
                 "lmql": {"status": "selected", "link": "https://github.com/eth-sri/lmql", "language": "", "notes": "language for constraint-guided and efficient LLM programming"},
                 "gptscript": {"status": "selected", "link": "https://github.com/gptscript-ai/gptscript", "language": "", "notes": ""},
-                "nlp-service": {"status": "selected", "link": "https://github.com/recap-utr/nlp-service", "language": "", "notes": "$$$$$$$$$"},
-                "quivr": {"status": "selected", "link": "https://github.com/StanGirard/quivr", "language": "", "notes": "Your GenAI Second Brain \ud83e\udde0 A personal productivity assistant (RAG) \u26a1\ufe0f\ud83e\udd16 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,  VertexAI, Ollama, LLMs, Groq that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation. $$$$$$$$$"},
+                "nlp-service": {"status": "selected", "link": "https://github.com/recap-utr/nlp-service", "language": "", "notes": "!!!!!!!!!"},
+                "quivr": {"status": "selected", "link": "https://github.com/StanGirard/quivr", "language": "", "notes": "Your GenAI Second Brain \ud83e\udde0 A personal productivity assistant (RAG) \u26a1\ufe0f\ud83e\udd16 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,  VertexAI, Ollama, LLMs, Groq that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation. !!!!!!!!!"},
                 "speechify": {"status": "selected", "link": "https://www.speechify.com/mobile/", "language": "", "notes": ""},
                 "surya": {"status": "selected", "link": "https://github.com/VikParuchuri/surya", "language": "", "notes": "OCR"},
                 "Stevenic/codepilot: Codepilot is a programming buddy that is an expert on your codebase.": {"status": "needs work", "link": "https://github.com/Stevenic/codepilot", "language": "", "notes": ""},
-                "micr0-dev/lexido": {"status": "selected", "link": "https://github.com/micr0-dev/lexido", "language": "", "notes": "A terminal assistant, powered by Generative AI $$$$$$$$$"},
+                "micr0-dev/lexido": {"status": "selected", "link": "https://github.com/micr0-dev/lexido", "language": "", "notes": "A terminal assistant, powered by Generative AI !!!!!!!!!"},
                 "alphawave": {"status": "needs work", "link": "https://github.com/Stevenic/alphawave-py", "language": "", "notes": "and [promptrix](https://github.com/Stevenic/promptrix-py) -> see also ts versions"}
             },
             "CLI / TUi Development": {
@@ -1519,9 +1517,9 @@
         },
         "Editing, Document Creation": {
             "Manuskript - Open-source tool for writers": {"status": "not decided yet", "link": "https://www.theologeek.ch/manuskript/", "language": "", "notes": "[gh](https://github.com/olivierkes/manuskript) \uf005?"},
-            "scribus": {"status": "not decided yet", "link": "https://github.com/scribusproject/scribus", "language": "", "notes": "$$$?"},
-            "xournalpp": {"status": "selected", "link": "https://xournalpp.github.io/", "language": "", "notes": "$$$?"},
-            "sigil": {"status": "not decided yet", "link": "https://sigil-ebook.com/", "language": "", "notes": "$$$?"},
+            "scribus": {"status": "not decided yet", "link": "https://github.com/scribusproject/scribus", "language": "", "notes": "!!!?"},
+            "xournalpp": {"status": "selected", "link": "https://xournalpp.github.io/", "language": "", "notes": "!!!?"},
+            "sigil": {"status": "not decided yet", "link": "https://sigil-ebook.com/", "language": "", "notes": "!!!?"},
             "libreoffice": {"status": "not decided yet", "link": "https://search.nixos.org/packages?channel=23.11&show=libreoffice&from=0&size=50&buckets=%7B%22package_attr_set%22%3A%5B%22No%20package%20set%22%5D%2C%22package_license_set%22%3A%5B%5D%2C%22package_maintainers_set%22%3A%5B%5D%2C%22package_platforms%22%3A%5B%5D%7D&sort=relevance&type=packages&query=libreoffice+draw", "language": "", "notes": "[LibreOffice Draw videos](https://de.libreoffice.org/get-help/neue-seite-2/videoanleitungendraw)"},
             "ONLYOFFICE - Secure Online Office | ONLYOFFICE": {"status": "not decided yet", "link": "https://www.onlyoffice.com/", "language": "", "notes": ""},
             "pdfslicer": {"status": "TODO: decide between alternatives", "link": "https://junrrein.github.io/pdfslicer/", "language": "", "notes": ""},
@@ -1536,7 +1534,7 @@
         "GUI Markdown Editor": {
             "panwriter": {"status": "needs work", "link": "https://panwriter.com/", "language": "", "notes": ""},
             "markdeep": {"status": "selected", "link": "https://casual-effects.com/markdeep/", "language": "", "notes": ""},
-            "zettlr": {"status": "needs work", "link": "https://github.com/Zettlr/Zettlr", "language": "", "notes": "$$$$$$$ https://www.zettlr.com/ looks phenomenal"},
+            "zettlr": {"status": "needs work", "link": "https://github.com/Zettlr/Zettlr", "language": "", "notes": "!!!!!!$ https://www.zettlr.com/ looks phenomenal"},
             "mdvtbl": {"status": "selected", "link": "https://github.com/karino2/mdvtbl", "language": "", "notes": "GUI GFM markdown table editor with stdin-stdout"},
             "remarkable": {"status": "needs work", "link": "https://github.com/jamiemcg/Remarkable", "language": "", "notes": "A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM). - fork and update (call Markdawn? Markdon?)"},
             "marktext": {"status": "needs work", "link": "https://github.com/marktext/marktext", "language": "", "notes": "-> advanced features, look at them and copy where possible - [marktext](https://itsfoss.com/marktext-editor/) -> [nvim-marktext](https://github.com/Iron-E/nvim-marktext)"},
@@ -1553,7 +1551,7 @@
             "chameleon": {"status": "needs work", "link": "https://github.com/life4/chameleon", "language": "", "notes": ""}
         },
         "epub": {
-            "epr": {"status": "needs work", "link": "https://github.com/wustho/epr", "language": "", "notes": "$$$"}
+            "epr": {"status": "needs work", "link": "https://github.com/wustho/epr", "language": "", "notes": "!!!"}
         },
         "TeX & Co": {
             "nvim + vimtex": {"status": "selected", "link": "https://castel.dev/post/lecture-notes-1/", "language": "", "notes": ""},
@@ -1602,21 +1600,21 @@
             "tpp": {"status": "selected", "link": "http://www.ngolde.de/tpp.html", "language": "", "notes": ""}
         },
         "Books and Reading": {
-            "zathura": {"status": "selected", "link": "https://pwmt.org/projects/zathura/", "language": "", "notes": "+ [mupdf](https://mupdf.com/) -> [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build), [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html) $$$ "},
+            "zathura": {"status": "selected", "link": "https://pwmt.org/projects/zathura/", "language": "", "notes": "+ [mupdf](https://mupdf.com/) -> [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build), [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html) !!! "},
             "sioyek": {"status": "selected", "link": "https://github.com/ahrm/sioyek", "language": "", "notes": "PDF viewer with a focus on textbooks and research papers"},
             "apvlv": {"status": "selected", "link": "https://github.com/naihe2010/apvlv", "language": "", "notes": ""},
             "llpp": {"status": "selected", "link": "https://repo.or.cz/w/llpp.git", "language": "", "notes": "(supports synctex, in ocaml)"},
             "qpdfview": {"status": "decided against", "link": "https://launchpad.net/qpdfview", "language": "", "notes": "(also supports synctex)"},
             "wike": {"status": "needs work", "link": "https://github.com/hugolabe/Wike", "language": "", "notes": ""},
-            "koreader": {"status": "selected", "link": "https://koreader.rocks/", "language": "", "notes": "$$$ "},
+            "koreader": {"status": "selected", "link": "https://koreader.rocks/", "language": "", "notes": "!!! "},
             "bookworm": {"status": "decided against", "link": "https://babluboy.github.io/bookworm/", "language": "", "notes": ""},
             "foliate": {"status": "decided against", "link": "https://johnfactotum.github.io/foliate/", "language": "", "notes": ""},
             "calibre": {"status": "decided against", "link": "https://calibre-ebook.com/", "language": "", "notes": "+ [calibre-web](https://github.com/janeczku/calibre-web)"},
             "okular": {"status": "decided against", "link": "https://okular.kde.org/", "language": "", "notes": ""},
             "evince": {"status": "decided against", "link": "https://wiki.gnome.org/Apps/Evince", "language": "", "notes": ""},
-            "pockyt": {"status": "needs work", "link": "https://github.com/arvindch/pockyt", "language": "", "notes": "\uf441\uf441\uf441"}
+            "pockyt": {"status": "needs work", "link": "https://github.com/arvindch/pockyt", "language": "", "notes": "0_0"}
         },
-        "R\u00e9sum\u00e9": {
+        "Resume": {
             "przpiw/PDFResumeBuilder": {"status": "selected", "link": "https://github.com/przpiw/PDFResumeBuilder", "language": "", "notes": ""},
             "jsonresume.org/": {"status": "selected", "link": "https://jsonresume.org/", "language": "", "notes": ""},
             "ancv": {"status": "selected", "link": "https://github.com/alexpovel/ancv", "language": "", "notes": "Renders your (JSON) resume/CV for online & pretty terminal display."}
@@ -1624,7 +1622,7 @@
     },
     "File Management": {
         "TUI File Managers": {
-            "superfile": {"status": "selected", "link": "https://github.com/MHNightCat/superfile", "language": "", "notes": "$$$"},
+            "superfile": {"status": "selected", "link": "https://github.com/MHNightCat/superfile", "language": "", "notes": "!!!"},
             "xplr": {"status": "added", "link": "https://github.com/sayanarijit/xplr", "language": "", "notes": ""},
             "yazi": {"status": "added", "link": "https://github.com/sxyazi/yazi", "language": "", "notes": "[yazi-rs.github](https://yazi-rs.github.io/)"},
             "nnn": {"status": "added", "link": "https://github.com/jarun/nnn", "language": "", "notes": ""},
@@ -1658,7 +1656,8 @@
             "mmv-c": {"status": "use as reference", "link": "https://github.com/mcauley-penney/mmv-c", "language": "", "notes": "add to RosettaProjects"},
             "mmv": {"status": "decided against", "link": "https://github.com/itchyny/mmv", "language": "", "notes": ""},
             "massren": {"status": "honorable mention", "link": "https://github.com/laurent22/massren", "language": "", "notes": ""},
-            "moove": {"status": "honorable mention", "link": "https://github.com/urin/moove", "language": "", "notes": ""}
+            "moove": {"status": "honorable mention", "link": "https://github.com/urin/moove", "language": "", "notes": ""},
+            "vimv": {"status": "honorable mention", "link": "https://github.com/dmulholl/vimv", "language": "rust", "notes": ""}
         },
         "Launcher-Based": {
             "marvinkreis/rofi-file-browser-extended: Use rofi to quickly open files": {"status": "selected", "link": "https://github.com/marvinkreis/rofi-file-browser-extended", "language": "", "notes": "-> use with rofi-wayland -> re-write for other launcher?"}
@@ -1700,26 +1699,26 @@
         "File Hooks and Daemons": {
             "watchexec": {"status": "TODO: decide between alternatives", "link": "https://github.com/watchexec/watchexec", "language": "", "notes": ""},
             "entr": {"status": "TODO: decide between alternatives", "link": "https://github.com/eradman/entr", "language": "", "notes": "[entr site](https://eradman.com/entrproject/)"},
-            "watchman": {"status": "TODO: decide between alternatives", "link": "https://github.com/facebook/watchman", "language": "", "notes": "[site](https://facebook.github.io/watchman/) $$$$$$$$$"},
+            "watchman": {"status": "TODO: decide between alternatives", "link": "https://github.com/facebook/watchman", "language": "", "notes": "[site](https://facebook.github.io/watchman/) !!!!!!!!!"},
             "watch": {"status": "needs work", "link": "https://github.com/tj/watch", "language": "", "notes": ""},
             "chokidar-cli": {"status": "TODO: decide between alternatives", "link": "https://github.com/JoseGoncalves/chokidar-cli", "language": "", "notes": ""},
             "gaze": {"status": "TODO: decide between alternatives", "link": "https://github.com/wtetsu/gaze", "language": "", "notes": ""},
-            "guard": {"status": "TODO: decide between alternatives", "link": "https://github.com/guard/guard", "language": "", "notes": "see amazing [plugins](https://github.com/guard/guard/wiki/Guard-Plugins) $$$$$$$"},
+            "guard": {"status": "TODO: decide between alternatives", "link": "https://github.com/guard/guard", "language": "", "notes": "see amazing [plugins](https://github.com/guard/guard/wiki/Guard-Plugins) !!!!!!$"},
             "inotify-tools": {"status": "selected", "link": "https://github.com/inotify-tools/inotify-tools", "language": "", "notes": ""},
             "viddy": {"status": "selected", "link": "https://github.com/sachaos/viddy", "language": "", "notes": ""},
             "bacon": {"status": "needs work", "link": "https://github.com/troykinsella/bacon", "language": "", "notes": ""},
             "fswatch": {"status": "needs work", "link": "https://github.com/alandipert/fswatch", "language": "", "notes": ""},
             "watcher": {"status": "needs work", "link": "https://github.com/sethigeet/watcher", "language": "", "notes": ""},
-            "wfh": {"status": "needs work", "link": "https://github.com/kzys/wfh", "language": "", "notes": "$$$"}
+            "wfh": {"status": "needs work", "link": "https://github.com/kzys/wfh", "language": "", "notes": "!!!"}
         },
         "Synchronization": {
             "foldersync": {"status": "TODO: decide between alternatives", "link": "https://foldersync.io/", "language": "", "notes": "seems like a good mobile solution"},
             "rclone": {"status": "selected", "link": "https://rclone.org/", "language": "", "notes": ""},
             "rclone-tui": {"status": "selected", "link": "https://github.com/darkhz/rclone-tui", "language": "", "notes": ""},
             "celeste": {"status": "selected", "link": "https://github.com/hwittenborn/celeste", "language": "", "notes": ""},
-            "syncthing": {"status": "selected", "link": "https://syncthing.net/", "language": "", "notes": "$$$"},
+            "syncthing": {"status": "selected", "link": "https://syncthing.net/", "language": "", "notes": "!!!"},
             "Zaloha2.sh": {"status": "TODO: decide between alternatives", "link": "https://github.com/Fitus/Zaloha2.sh", "language": "", "notes": ""},
-            "rsync": {"status": "selected", "link": "https://github.com/WayneD/rsync", "language": "", "notes": "$$$ + [rsync-tui](https: //gitlab.com/KKlochko/tui-rsync)"},
+            "rsync": {"status": "selected", "link": "https://github.com/WayneD/rsync", "language": "", "notes": "!!! + [rsync-tui](https: //gitlab.com/KKlochko/tui-rsync)"},
             "bitpocket": {"status": "TODO: decide between alternatives", "link": "https://github.com/sickill/bitpocket", "language": "", "notes": ""}
         },
         "Backup": {
@@ -1749,27 +1748,25 @@
             "flareget": {"status": "decided against", "link": "https://flareget.com/", "language": "", "notes": ""},
             "freedownloadmanager": {"status": "decided against", "link": "https://www.freedownloadmanager.org/", "language": "", "notes": ""},
             "jdownloader": {"status": "decided against", "link": "https://jdownloader.org/", "language": "", "notes": ""},
-            "ugetdm": {"status": "TODO: decide between alternatives", "link": "https://ugetdm.com/", "language": "", "notes": "$$$ "},
+            "ugetdm": {"status": "TODO: decide between alternatives", "link": "https://ugetdm.com/", "language": "", "notes": "!!! "},
             "motrix": {"status": "TODO: decide between alternatives", "link": "https://motrix.app/", "language": "", "notes": ""},
-            "aria2": {"status": "TODO: decide between alternatives", "link": "https://aria2.github.io/", "language": "", "notes": "$$$"},
+            "aria2": {"status": "TODO: decide between alternatives", "link": "https://aria2.github.io/", "language": "", "notes": "!!!"},
             "xdm": {"status": "TODO: decide between alternatives", "link": "https://github.com/subhra74/xdm", "language": "", "notes": "([xtremedownloadmanager](https://xtremedownloadmanager.com/))"},
             "ArrowDL": {"status": "TODO: decide between alternatives", "link": "https://github.com/setvisible/ArrowDL", "language": "", "notes": ""},
             "kget": {"status": "TODO: decide between alternatives", "link": "https://apps.kde.org/kget/", "language": "", "notes": ""}
         },
-        "File Transfer, Up- and Download": {
+        "File Transfer, Up- and Download, Remote File Management": {
             "curl": {"status": "selected", "link": "https://github.com/curl/curl", "language": "", "notes": ""},
             "Warp": {"status": "selected", "link": "https://apps.gnome.org/app/app.drey.Warp/", "language": "", "notes": ""},
             "unison": {"status": "selected", "link": "https://github.com/bcpierce00/unison", "language": "", "notes": "in OCaml!"},
-            "airpaste": {"status": "TODO: decide between alternatives", "link": "https://github.com/mafintosh/airpaste", "language": "", "notes": ""},
-            "croc": {"status": "TODO: decide between alternatives", "link": "https://github.com/schollz/croc", "language": "", "notes": ""},
-            "croc6": {"status": "TODO: decide between alternatives", "link": "https://schollz.com/blog/croc6/", "language": "", "notes": ""},
-            "crossftp": {"status": "TODO: decide between alternatives", "link": "https://www.crossftp.com/ftp-client.htm", "language": "", "notes": ""},
-            "d-lan": {"status": "TODO: decide between alternatives", "link": "http://www.d-lan.net/", "language": "", "notes": ""},
-            "feuille": {"status": "TODO: decide between alternatives", "link": "https://basedwa.re/tmtt/feuille", "language": "", "notes": ""},
-            "ffsend": {"status": "TODO: decide between alternatives", "link": "https://github.com/timvisee/ffsend", "language": "", "notes": ""},
-            "filestash": {"status": "TODO: decide between alternatives", "link": "http://www.filestash.app/", "language": "", "notes": ""},
-            "filezilla": {"status": "TODO: decide between alternatives", "link": "https://filezilla-project.org/", "language": "", "notes": ""},
-            "jitter": {"status": "TODO: decide between alternatives", "link": "https://github.com/sharpcdf/jitter", "language": "", "notes": ""},
+            "airpaste": {"status": "needs work", "link": "https://github.com/mafintosh/airpaste", "language": "", "notes": ""},
+            "croc": {"status": "selected", "link": "https://github.com/schollz/croc", "language": "go", "notes": "https://schollz.com/blog/croc6/"},
+            "feuille": {"status": "selected", "link": "https://basedwa.re/tmtt/feuille", "language": "", "notes": ""},
+            "send": {"status": "selected", "link": "https://github.com/timvisee/send", "language": "javascript", "notes": ""},
+            "ffsend": {"status": "selected", "link": "https://github.com/timvisee/ffsend", "language": "rust", "notes": ""},
+            "filestash": {"status": "selected", "link": "http://www.filestash.app/", "language": "javascript, go", "notes": ""},
+            "filezilla": {"status": "decided against", "link": "https://filezilla-project.org/", "language": "", "notes": ""},
+            "jitter": {"status": "use as reference", "link": "https://github.com/sharpcdf/jitter", "language": "nim", "notes": "archived"},
             "lftp": {"status": "TODO: decide between alternatives", "link": "https://github.com/lavv17/lftp", "language": "", "notes": ""},
             "magic-wormhole": {"status": "TODO: decide between alternatives", "link": "https://github.com/warner/magic-wormhole", "language": "", "notes": ""},
             "nitroshare": {"status": "TODO: decide between alternatives", "link": "https://nitroshare.net/", "language": "", "notes": ""},
@@ -1787,7 +1784,7 @@
             "tran": {"status": "TODO: decide between alternatives", "link": "https://github.com/abdfnx/tran", "language": "", "notes": ""},
             "transfer.sh": {"status": "TODO: decide between alternatives", "link": "https://transfer.sh/", "language": "", "notes": ""},
             "warpinator": {"status": "TODO: decide between alternatives", "link": "https://github.com/linuxmint/warpinator", "language": "", "notes": ""},
-            "woof/": {"status": "TODO: decide between alternatives", "link": "https://github.com/simon-budig/woof/", "language": "", "notes": ""},
+            "woof": {"status": "TODO: decide between alternatives", "link": "https://github.com/simon-budig/woof/", "language": "", "notes": ""},
             "xh": {"status": "TODO: decide between alternatives", "link": "https://github.com/ducaale/xh", "language": "", "notes": ""}
         },
         "QR": {
@@ -1875,7 +1872,7 @@
             "Geogebra": {"status": "needs work", "link": "https://github.com/geogebra/geogebra", "language": "", "notes": ""}
         },
         "GUI Markdown Viewer": {
-            "litemdview": {"status": "selected", "link": "https://notabug.org/g0tsu/litemdview", "language": "", "notes": "(suckless md viewer) $$$ -> integrate into nvim workflow"}
+            "litemdview": {"status": "selected", "link": "https://notabug.org/g0tsu/litemdview", "language": "", "notes": "(suckless md viewer) !!! -> integrate into nvim workflow"}
         },
         "GUI LaTeX Editor": {
             "vim-latex": {"status": "selected", "link": "https://vim-latex.sourceforge.net/", "language": "", "notes": "try to re-create what I like in Neovim"},
@@ -1960,12 +1957,12 @@
                 },
                 "Boards": {
                     "excalidraw": {"status": "selected", "link": "https://excalidraw.com/", "language": "", "notes": "([read](https://offbyone.us/posts/why-is-excalidraw-so-good/))"},
-                    "wbo": {"status": "selected", "link": "https://wbo.ophir.dev/", "language": "", "notes": "$$$"}
+                    "wbo": {"status": "selected", "link": "https://wbo.ophir.dev/", "language": "", "notes": "!!!"}
                 },
                 "Cool Software - Needs Theming Fixes": {
-                    "vym": {"status": "needs work", "link": "https://github.com/insilmaril/vym", "language": "", "notes": "$$$"},
-                    "freeplane": {"status": "needs work", "link": "https://github.com/freeplane/freeplane", "language": "", "notes": "[docs.freeplane.org/](https://docs.freeplane.org/) $$$"},
-                    "heimer": {"status": "needs work", "link": "https://github.com/juzzlin/Heimer", "language": "", "notes": "$$$"}
+                    "vym": {"status": "needs work", "link": "https://github.com/insilmaril/vym", "language": "", "notes": "!!!"},
+                    "freeplane": {"status": "needs work", "link": "https://github.com/freeplane/freeplane", "language": "", "notes": "[docs.freeplane.org/](https://docs.freeplane.org/) !!!"},
+                    "heimer": {"status": "needs work", "link": "https://github.com/juzzlin/Heimer", "language": "", "notes": "!!!"}
                 },
                 "Ascii Art": {
                     "ASCII_Art_Paint": {"status": "selected", "link": "https://github.com/Kirilllive/ASCII_Art_Paint", "language": "", "notes": ""},
@@ -2107,7 +2104,7 @@
                     "Celluloid": {"status": "selected", "link": "https://celluloid-player.github.io/ | https://github.com/celluloid-player/celluloid", "language": "c gtk", "notes": " - Simple GTK+ frontend for mpv."},
                     "Clapper": {"status": "honorable mention", "link": "https://rafostar.github.io/clapper/", "language": "", "notes": "A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering."},
                     "Clementine": {"status": "honorable mention", "link": "https://www.clementine-player.org/", "language": "c++", "notes": "Play numerous lossy and lossless audio formats."},
-                    "DeaDBeeF": {"status": "honorable mention", "link": "https://deadbeef.sourceforge.io/", "language": "", "notes": "DeaDBeeF is a modular audio player for GNU/Linux, BSD, OpenSolaris, macOS, and other UNIX-like systems. $$$"},
+                    "DeaDBeeF": {"status": "honorable mention", "link": "https://deadbeef.sourceforge.io/", "language": "", "notes": "DeaDBeeF is a modular audio player for GNU/Linux, BSD, OpenSolaris, macOS, and other UNIX-like systems. !!!"},
                     "Deepin Music": {"status": "honorable mention", "link": "https://www.deepin.org/en/original/deepin-music/", "language": "", "notes": "An application, developed by Deepin Technology Team, which focused on local music playing."},
                     "ElectronPlayer": {"status": "decided against", "link": "https://github.com/oscartbeaumont/ElectronPlayer", "language": "", "notes": ""},
                     "MPlayer": {"status": "honorable mention", "link": "http://www.mplayerhq.hu/design7/news.html", "language": "", "notes": "MPlayer is a movie player which runs on many systems, play any kind of videos."},
@@ -2120,18 +2117,18 @@
                     "sonata": {"status": "honorable mention", "link": "https://github.com/multani/sonata", "language": "", "notes": "A Music player that is designed to be an elegant and intuitive interface for your music collection via the Music Player Daemon (MPD)."},
                     "Strawberry": {"status": "honorable mention", "link": "https://www.strawberrymusicplayer.org/", "language": "", "notes": "Strawberry is a fork of Clementine aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit."},
                     "swingmusic": {"status": "honorable mention", "link": "https://github.com/swing-opensource/swingmusic", "language": "", "notes": ""},
-                    "Harmonoid": {"status": "selected; needs nix packaging", "link": "https://harmonoid.com/", "language": "", "notes": "Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more. $$$$$$$$$ - just needs keyboard shortcuts, maybe improved configuration"},
+                    "Harmonoid": {"status": "selected; needs nix packaging", "link": "https://harmonoid.com/", "language": "", "notes": "Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more. !!!!!!!!! - just needs keyboard shortcuts, maybe improved configuration"},
                     "tauon": {"status": "honorable mention", "link": "https://tauonmusicbox.rocks/", "language": "", "notes": ""},
                     "JuK": {"status": "decided against", "link": "https://juk.kde.org/", "language": "", "notes": "Jukebox music player for managing audio and editing metadata."},
                     "amberol": {"status": "honorable mention", "link": "https://gitlab.gnome.org/World/amberol", "language": "", "notes": "A small and simple sound and music player that is well integrated with GNOME."},
                     "Audacious": {"status": "honorable mention", "link": "https://audacious-media-player.org/", "language": "", "notes": "An open source audio player that plays your music how you want it, without stealing away your computer's resources from other tasks."},
                     "Elisa": {"status": "honorable mention", "link": "https://elisa.kde.org/", "language": "", "notes": "Elisa is a music player developed by the KDE community that strives to be simple and nice to use. - full color theming possible"},
-                    "G4Music": {"status": "needs work", "link": "https://gitlab.gnome.org/neithern/g4music", "language": "", "notes": "A fast, fluent, light weight music player written in GTK4. $$$ just needs keyboard shortcuts"},
+                    "G4Music": {"status": "needs work", "link": "https://gitlab.gnome.org/neithern/g4music", "language": "", "notes": "A fast, fluent, light weight music player written in GTK4. !!! just needs keyboard shortcuts"},
                     "Jellyfin Media Player": {"status": "honorable mention", "link": "https://github.com/jellyfin/jellyfin-media-player", "language": "", "notes": "Jellyfin Desktop Client based on Plex Media Player."},
                     "Lollypop": {"status": "honorable mention", "link": "https://wiki.gnome.org/Apps/Lollypop", "language": "", "notes": "A GNOME music playing application."},
                     "musicpod": {"status": "honorable mention", "link": "https://github.com/ubuntu-flutter-community/musicpod", "language": "flutter", "notes": ""},
-                    "lyssa": {"status": "selected; needs nix packaging", "link": "https://github.com/cococry/lyssa", "language": "", "notes": "$$$"},
-                    "Mellow Player": {"status": "decided against", "link": "https://colinduquesnoy.gitlab.io/MellowPlayer/", "language": "qt", "notes": "Cloud music integration for your desktop. $$$ - all the services!"}
+                    "lyssa": {"status": "selected; needs nix packaging", "link": "https://github.com/cococry/lyssa", "language": "", "notes": "!!!"},
+                    "Mellow Player": {"status": "decided against", "link": "https://colinduquesnoy.gitlab.io/MellowPlayer/", "language": "qt", "notes": "Cloud music integration for your desktop. !!! - all the services!"}
                 },
                 "Video Player": {
                     "quark-player": {"status": "selected", "link": "https://github.com/Alex313031/quark-player", "language": "", "notes": "An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!"},
@@ -2200,8 +2197,8 @@
                     "napari": {"status": "selected", "link": "https://napari.org/stable/index.html", "language": "", "notes": ""},
                     "feh": {"status": "decided against", "link": "https://feh.finalrewind.org/", "language": "", "notes": ""},
                     "ojo": {"status": "needs work", "link": "https://github.com/peterlevi/ojo", "language": "", "notes": "A fast and pretty image viewer - exif is great; just need to vimify the keybinds and make sure color theming is good"},
-                    "qView": {"status": "needs work", "link": "https://github.com/jurplel/qView", "language": "", "notes": "Practical and minimal image viewer $$$ - looks great, just needs the Oryzotropheo treatment"},
-                    "qimgv": {"status": "needs work", "link": "https://github.com/easymodo/qimgv", "language": "", "notes": "$$$ - figure out how exactly config works and make it perfect"},
+                    "qView": {"status": "needs work", "link": "https://github.com/jurplel/qView", "language": "", "notes": "Practical and minimal image viewer !!! - looks great, just needs the Oryzotropheo treatment"},
+                    "qimgv": {"status": "needs work", "link": "https://github.com/easymodo/qimgv", "language": "", "notes": "!!! - figure out how exactly config works and make it perfect"},
                     "ueberzugpp": {"status": "selected", "link": "https://github.com/jstkdng/ueberzugpp", "language": "", "notes": ""},
                     "resvg": {"status": "selected", "link": "https://github.com/RazrFalcon/resvg", "language": "", "notes": ""}
                 },
@@ -2297,7 +2294,7 @@
                 },
                 "Library / API": {
                     "audioFlux": {"status": "selected for later", "link": "https://github.com/libAudioFlux/audioFlux", "language": "", "notes": "A library for audio and music analysis, feature extraction."},
-                    "kord": {"status": "selected for later", "link": "https://github.com/synestematic/kord", "language": "", "notes": "A python framework that provides programmers with a simple api for the creation of music-based applications. $$$"}
+                    "kord": {"status": "selected for later", "link": "https://github.com/synestematic/kord", "language": "", "notes": "A python framework that provides programmers with a simple api for the creation of music-based applications. !!!"}
                 },
                 "TTS / ASR": {
                     "espeak-ng": {"status": "selected", "link": "https://github.com/espeak-ng/espeak-ng", "language": "", "notes": "([espeak](https://sourceforge.net/p/espeak/code/HEAD/tree/)) - A compact open source software speech synthesizer for English and other languages."}
@@ -2488,9 +2485,9 @@
     },
     "Terminal-Native Software": {
         "Best Terminal Development Environment": {
-            "jrnl": {"status": "selected", "link": "https://jrnl.sh/en/stable/", "language": "", "notes": "command-line notepad $$$"},
-            "wtf": {"status": "selected", "link": "https://github.com/wtfutil/wtf", "language": "", "notes": "personal information dashboard for the terminal $$$"},
-            "khard": {"status": "selected", "link": "https://github.com/lucc/khard", "language": "", "notes": "TUI vcard (contact book) manager (in Python) $$$"},
+            "jrnl": {"status": "selected", "link": "https://jrnl.sh/en/stable/", "language": "", "notes": "command-line notepad !!!"},
+            "wtf": {"status": "selected", "link": "https://github.com/wtfutil/wtf", "language": "", "notes": "personal information dashboard for the terminal !!!"},
+            "khard": {"status": "selected", "link": "https://github.com/lucc/khard", "language": "", "notes": "TUI vcard (contact book) manager (in Python) !!!"},
             "peaclock": {"status": "selected", "link": "https://github.com/octobanana/peaclock", "language": "", "notes": "nice terminal clock"},
             "neovim": {"status": "added", "link": "https://neovim.io/", "language": "", "notes": ""},
             "wezterm": {"status": "added", "link": "https://github.com/wez/wezterm", "language": "", "notes": ""},
@@ -2700,21 +2697,21 @@
         },
         "Project Templates and Generation": {
             "SunGodRamen/task-driven-development: Project template that enforces documentation and project lifecycle across tools; nvim, taskwarrior, drawio, using githooks to enforce and automate tracking.": {"status": "TODO: decide between alternatives", "link": "https://github.com/SunGodRamen/task-driven-development", "language": "", "notes": ""},
-            "copier": {"status": "selected", "link": "https://github.com/copier-org/copier", "language": "", "notes": "\uf441\uf441\uf441 "},
-            "yeoman": {"status": "selected", "link": "https://yeoman.io/", "language": "", "notes": "\uf441\uf441\uf441"},
-            "kickstart": {"status": "selected", "link": "https://github.com/Keats/kickstart", "language": "", "notes": "\uf441\uf441\uf441"},
+            "copier": {"status": "selected", "link": "https://github.com/copier-org/copier", "language": "", "notes": "0_0 "},
+            "yeoman": {"status": "selected", "link": "https://yeoman.io/", "language": "", "notes": "0_0"},
+            "kickstart": {"status": "selected", "link": "https://github.com/Keats/kickstart", "language": "", "notes": "0_0"},
             "cookiecutter": {"status": "added", "link": "https://github.com/audreyr/cookiecutter", "language": "", "notes": ""},
             "proji": {"status": "needs work", "link": "https://github.com/nikoksr/proji", "language": "", "notes": "(in Go, old)"},
             "boilr": {"status": "needs work", "link": "https://github.com/tmrts/boilr", "language": "", "notes": "(in Go, even older)"}
         },
         "Task Scripting": {
             "makesure": {"status": "selected", "link": "https://github.com/xonixx/makesure", "language": "", "notes": ""},
-            "make": {"status": "selected", "link": "https://www.gnu.org/software/make/", "language": "", "notes": "$$$"},
-            "just": {"status": "selected", "link": "https://github.com/casey/just", "language": "", "notes": "$$$ "},
+            "make": {"status": "selected", "link": "https://www.gnu.org/software/make/", "language": "", "notes": "!!!"},
+            "just": {"status": "selected", "link": "https://github.com/casey/just", "language": "", "notes": "!!! "},
             "taskfile": {"status": "TODO: decide between alternatives", "link": "https://taskfile.dev/", "language": "", "notes": ""},
             "fmake": {"status": "honorable mention", "link": "https://github.com/bharatvaj/fmake", "language": "", "notes": ""},
             "mk": {"status": "selected", "link": "https://github.com/pycontribs/mk", "language": "", "notes": ""},
-            "mxflow-cli": {"status": "selected", "link": "https://github.com/metaory/mxflow-cli", "language": "", "notes": "\uf441\uf441\uf441"},
+            "mxflow-cli": {"status": "selected", "link": "https://github.com/metaory/mxflow-cli", "language": "", "notes": "0_0"},
             "projectdo": {"status": "selected", "link": "https://ithub.com/paldepind/projectdo", "language": "", "notes": "Context-aware single-letter project commands to speed up your terminal workflow."}
         },
         "Command Running and Automation": {
@@ -2728,7 +2725,7 @@
         },
         "Miscellaneous Coding Utils": {
             "autocomplete": {"status": "back pocket; may be useful someday", "link": "https://github.com/withfig/autocomplete", "language": "", "notes": "\uf05e\uf05e\uf05e"},
-            "todocheck": {"status": "selected", "link": "https://github.com/preslavmihaylov/todocheck", "language": "", "notes": "Static code analyzer for annotated TODO comments. $$$"},
+            "todocheck": {"status": "selected", "link": "https://github.com/preslavmihaylov/todocheck", "language": "", "notes": "Static code analyzer for annotated TODO comments. !!!"},
             "detect-indent-cli": {"status": "needs work", "link": "https://github.com/sindresorhus/detect-indent-cli", "language": "", "notes": "Detect the indentation of code - probably unnecessary, but add to RosettaProjects"}
         },
         "License": {
@@ -2766,26 +2763,25 @@
             "readme-generator": {"status": "needs work", "link": "https://github.com/jfisher396/readme-generator", "language": "", "notes": "RosettaProjects"},
             "profile-readme-generator": {"status": "TODO: decide between alternatives", "link": "https://rahuldkjain.github.io/gh-profile-readme-generator/", "language": "", "notes": ""}
         },
-        "Formatting": {
-            "treefmt": {"status": "selected", "link": "https://github.com/numtide/treefmt", "language": "", "notes": "$$$"},
-            "treefmt-nix": {"status": "selected", "link": "https://github.com/numtide/treefmt-nix", "language": "", "notes": "$$$"},
-            "uncrustify": {"status": "not decided yet", "link": "https://github.com/uncrustify/uncrustify/", "language": "", "notes": "$$$"}
+        "Formatting, Code Quality": {
+            "treefmt": {"status": "selected", "link": "https://github.com/numtide/treefmt", "language": "", "notes": "!!!"},
+            "treefmt-nix": {"status": "selected", "link": "https://github.com/numtide/treefmt-nix", "language": "", "notes": "!!!"},
+            "uncrustify": {"status": "selected", "link": "https://github.com/uncrustify/uncrustify/", "language": "c++, c, d", "notes": "!!!"},
+            "precious": {"status": "selected", "link": "https://github.com/houseabsolute/precious", "language": "rust", "notes": ""}
         },
         "Moving and Renaming": {
-            "rnr": {"status": "selected", "link": "https://github.com/ismaelgv/rnr", "language": "", "notes": ""},
-            "vimv": {"status": "selected", "link": "https://github.com/dmulholl/vimv", "language": "rust", "notes": ""},
-            "f2": {"status": "selected", "link": "https://github.com/ayoisaiah/f2", "language": "", "notes": ""},
-            "nomino": {"status": "selected", "link": "https://github.com/yaa110/nomino", "language": "", "notes": ""},
+            "f2": {"status": "needs work", "link": "https://github.com/ayoisaiah/f2", "language": "", "notes": "change box characters!"},
+            "nomino": {"status": "needs work", "link": "https://github.com/yaa110/nomino", "language": "", "notes": "change box characters! also make colors configurable"},
             "tempren": {"status": "selected", "link": "https://github.com/idle-code/tempren", "language": "", "notes": ""},
             "node-rename-cli": {"status": "needs work", "link": "https://github.com/jhotmann/node-rename-cli", "language": "", "notes": ""},
             "repren": {"status": "decided against", "link": "https://github.com/jlevy/repren", "language": "", "notes": ""},
-            "rename": {"status": "honorable mention", "link": "https://github.com/pstray/rename", "language": "perl", "notes": "add to RosettaProjects"}
+            "rename": {"status": "honorable mention", "link": "https://github.com/pstray/rename", "language": "perl", "notes": "add to RosettaProjects"},
+            "rnr": {"status": "selected", "link": "https://github.com/ismaelgv/rnr", "language": "", "notes": ""}
         },
         "Other Command-Line Tools": {
             "vale": {"status": "selected", "link": "https://vale.sh/", "language": "", "notes": "use as an LSP for prose in nvim"},
             "hunspell": {"status": "selected", "link": "https://github.com/hunspell/hunspell", "language": "", "notes": ""},
             "alex": {"status": "selected", "link": "https://github.com/wooorm/alex", "language": "", "notes": ""},
-            "pick": {"status": "TODO: decide between alternatives", "link": "https://github.com/mptre/pick", "language": "", "notes": ""},
             "choose": {"status": "TODO: decide between alternatives", "link": "https://github.com/jagprog5/choose", "language": "", "notes": ""},
             "shmenu": {"status": "decided against", "link": "https://github.com/duclos-cavalcanti/shmenu", "language": "", "notes": ""},
             "atuin": {"status": "selected", "link": "https://github.com/atuinsh/atuin", "language": "", "notes": "-> [shell history article](https://martinheinz.dev/blog/110) - supports nushell and xonsh as well "},
@@ -2804,23 +2800,23 @@
             "cscope": {"status": "decided against", "link": "http://cscope.sourceforge.net/", "language": "", "notes": ""}
         },
         "Core Command-Line Tools TODO": {
-            "coreutils": {"status": "TODO: decide between alternatives", "link": "https://github.com/uutils/coreutils", "language": "", "notes": "-> read as an example of good Rust code -> RosettaCode"},
-            "uutils-coreutils-noprefix": {"status": "selected", "link": "...", "language": "", "notes": "([source](https://github.com/uutils/coreutils)) $$$"},
-            "moreutils": {"status": "selected", "link": "https://joeyh.name/code/moreutils/", "language": "", "notes": "$$$"},
-            "util-linux": {"status": "selected", "link": "...", "language": "", "notes": "$$$"},
+            "coreutils": {"status": "added", "link": "https://github.com/uutils/coreutils", "language": "", "notes": "-> read as an example of good Rust code -> RosettaCode"},
+            "uutils-coreutils-noprefix": {"status": "selected", "link": "...", "language": "", "notes": "([source](https://github.com/uutils/coreutils)) !!!"},
+            "moreutils": {"status": "selected", "link": "https://joeyh.name/code/moreutils/", "language": "", "notes": "!!!"},
+            "util-linux": {"status": "selected", "link": "...", "language": "", "notes": "!!!"},
             "toybox": {"status": "not decided yet", "link": "...", "language": "", "notes": ""},
             "xc": {"status": "selected", "link": "https://github.com/joerdav/xc", "language": "", "notes": ""},
-            "make": {"status": "selected", "link": "...", "language": "", "notes": "$$$"},
-            "eza": {"status": "selected", "link": "https://github.com/eza-community/eza", "language": "", "notes": "$$$"},
+            "make": {"status": "selected", "link": "...", "language": "", "notes": "!!!"},
+            "eza": {"status": "selected", "link": "https://github.com/eza-community/eza", "language": "", "notes": "!!!"},
             "lsd": {"status": "honorable mention", "link": "https://github.com/lsd-rs/lsd", "language": "", "notes": ""},
             "colorls": {"status": "decided against", "link": "https://github.com/athityakumar/colorls", "language": "", "notes": "ruby"},
             "nat": {"status": "decided against", "link": "https://github.com/willdoescode/nat", "language": "", "notes": ""},
-            "tre": {"status": "selected", "link": "https://github.com/dduan/tre", "language": "", "notes": "$$$"},
+            "tre": {"status": "selected", "link": "https://github.com/dduan/tre", "language": "", "notes": "!!!"},
             "tree": {"status": "honorable mention", "link": "https://gitlab.com/OldManProgrammer/unix-tree", "language": "", "notes": "use in RosettaProjects"},
             "termtree": {"status": "selected", "link": "https://github.com/rust-cli/termtree", "language": "", "notes": ""},
             "as-tree": {"status": "selected", "link": "https://github.com/jez/as-tree", "language": "", "notes": ""},
             "ictree": {"status": "selected", "link": "https://github.com/NikitaIvanovV/ictree", "language": "", "notes": ""},
-            "ckit": {"status": "needs work", "link": "https://github.com/fpgmaas/ckit", "language": "", "notes": ""},
+            "ckit": {"status": "selected", "link": "https://github.com/fpgmaas/ckit", "language": "", "notes": ""},
             "runner": {"status": "needs work", "link": "https://github.com/sudoerp/runner", "language": "", "notes": ""},
             "coderun": {"status": "needs work", "link": "https://www.reddit.com/r/commandline/comments/lo1m6u/coderun_code_runner_cli_that_can_automatically/", "language": "", "notes": "code runner CLI that can automatically detect run any languages"},
             "ea": {"status": "selected", "link": "https://github.com/dduan/ea", "language": "", "notes": ""},
@@ -2916,7 +2912,7 @@
             "fzf": {"status": "selected", "link": "https://github.com/junegunn/fzf", "language": "", "notes": "+ fzf-lua (2) https://github.com/ibhagwan/fzf-lua in nvim) - add stripped-down version to RosettaProjects"},
             "zf": {"status": "selected", "link": "https://github.com/natecraddock/zf", "language": "", "notes": "(zig) add to RosettaProjects"},
             "fzy": {"status": "honorable mention", "link": "https://github.com/jhawthorn/fzy", "language": "", "notes": "add to RosettaProjects"},
-            "pick": {"status": "honorable mention", "link": "https://github.com/thoughtbot/pick", "language": "", "notes": "add to RosettaProjects"},
+            "pick": {"status": "honorable mention", "link": "https://github.com/mptre/pick", "language": "", "notes": "add to RosettaProjects"},
             "luneta": {"status": "honorable mention", "link": "https://github.com/fbeline/luneta", "language": "", "notes": "(written in D!)"},
             "skim": {"status": "selected", "link": "https://github.com/lotabout/skim", "language": "", "notes": ""},
             "fz.sh": {"status": "decided against", "link": "https://github.com/mrjohannchang/fz.sh", "language": "", "notes": "(for zsh)"},
@@ -2938,13 +2934,13 @@
         },
         "Data Wrangling": {
             "pandoc": {"status": "selected", "link": "https://pandoc.org/", "language": "", "notes": "+ pandoc extras (2) https://pandoc.org/extras.html, pandoc-ext/info (2) https://github.com/pandoc-ext/info"},
-            "ebook-converter": {"status": "needs work", "link": "https://github.com/gryf/ebook-converter", "language": "", "notes": "$$$ Commandline tool for converting between several e-books formats, based on Calibre project"},
+            "ebook-converter": {"status": "needs work", "link": "https://github.com/gryf/ebook-converter", "language": "", "notes": "!!! Commandline tool for converting between several e-books formats, based on Calibre project"},
             "latexml": {"status": "selected", "link": "https://github.com/brucemiller/LaTeXML", "language": "", "notes": ""},
             "teip": {"status": "selected", "link": "https://github.com/greymd/teip", "language": "", "notes": ""},
             "each": {"status": "selected", "link": "https://github.com/arraypad/each", "language": "rust", "notes": ""},
             "grex": {"status": "selected", "link": "https://github.com/pemistahl/grex", "language": "", "notes": ""},
             "exrex": {"status": "selected", "link": "https://github.com/asciimoo/exrex", "language": "", "notes": ""},
-            "randexp.js": {"status": "needs work", "link": "https://github.com/fent/randexp.js", "language": "", "notes": "$$$"},
+            "randexp.js": {"status": "needs work", "link": "https://github.com/fent/randexp.js", "language": "", "notes": "!!!"},
             "difftastic": {"status": "selected", "link": "https://github.com/Wilfred/difftastic", "language": "", "notes": ""},
             "huniq": {"status": "selected", "link": "https://github.com/koraa/huniq", "language": "", "notes": ""},
             "jid": {"status": "selected", "link": "https://github.com/simeji/jid", "language": "", "notes": ""},
@@ -3132,7 +3128,7 @@
             "arttime": {"status": "selected", "link": "https://github.com/poetaman/arttime", "language": "", "notes": ""},
             "snake": {"status": "selected", "link": "https://github.com/ormai/snake", "language": "", "notes": ""},
             "display3d": {"status": "selected", "link": "https://github.com/redpenguinyt/display3d", "language": "", "notes": ""},
-            "pipes-rs": {"status": "selected", "link": "https://github.com/lhvy/pipes-rs", "language": "", "notes": "$$$ RosettaProjects -> [Pipeseroni](https://pipeseroni.github.io/) RosettaProjects "},
+            "pipes-rs": {"status": "selected", "link": "https://github.com/lhvy/pipes-rs", "language": "", "notes": "!!! RosettaProjects -> [Pipeseroni](https://pipeseroni.github.io/) RosettaProjects "},
             "pipes.sh": {"status": "needs work", "link": "http://pipes.sh/", "language": "", "notes": "add to RosettaProjects"},
             "pipes.js": {"status": "selected", "link": "https://github.com/Oman395/pipes.js", "language": "", "notes": "RosettaProjects"},
             "pipes.c": {"status": "needs work", "link": "https://github.com/pipeseroni/pipes.c", "language": "", "notes": "add to RosettaProjects"},
@@ -3140,14 +3136,14 @@
             "pipesX": {"status": "selected", "link": "https://github.com/pipeseroni/pipesX.sh", "language": "", "notes": ""},
             "maze.py": {"status": "selected", "link": "https://github.com/pipeseroni/maze.py", "language": "", "notes": ""},
             "weave.sh": {"status": "selected", "link": "https://github.com/pipeseroni/weave.sh", "language": "", "notes": ""},
-            "dna_bash": {"status": "selected", "link": "https://github.com/clyde80/dna_bash", "language": "", "notes": "$$$"},
-            "cmatrix": {"status": "selected", "link": "https://github.com/abishekvashok/cmatrix", "language": "", "notes": "$$$"},
-            "fetch-master-6000": {"status": "selected", "link": "https://github.com/anhsirk0/fetch-master-6000", "language": "", "notes": "$$$"},
+            "dna_bash": {"status": "selected", "link": "https://github.com/clyde80/dna_bash", "language": "", "notes": "!!!"},
+            "cmatrix": {"status": "selected", "link": "https://github.com/abishekvashok/cmatrix", "language": "", "notes": "!!!"},
+            "fetch-master-6000": {"status": "selected", "link": "https://github.com/anhsirk0/fetch-master-6000", "language": "", "notes": "!!!"},
             "LinuxLogo": {"status": "decided against", "link": "https://sourceforge.net/projects/linuxlogo/", "language": "", "notes": ""},
-            "cbonsai": {"status": "selected", "link": "https://gitlab.com/jallbrit/cbonsai", "language": "", "notes": "$$$"},
-            "gof-rs": {"status": "selected", "link": "https://github.com/omagdy7/gof-rs", "language": "", "notes": "$$$"},
-            "cool-retro-term": {"status": "selected", "link": "https://github.com/Swordfish90/cool-retro-term", "language": "", "notes": "$$$"},
-            " [edex-ui](https://github.com/GitSquared/edex-ui) \uf441\uf441\uf441": {"status": "not decided yet", "link": "", "language": "", "notes": ""},
+            "cbonsai": {"status": "selected", "link": "https://gitlab.com/jallbrit/cbonsai", "language": "", "notes": "!!!"},
+            "gof-rs": {"status": "selected", "link": "https://github.com/omagdy7/gof-rs", "language": "", "notes": "!!!"},
+            "cool-retro-term": {"status": "selected", "link": "https://github.com/Swordfish90/cool-retro-term", "language": "", "notes": "!!!"},
+            " [edex-ui](https://github.com/GitSquared/edex-ui) 0_0": {"status": "not decided yet", "link": "", "language": "", "notes": ""},
             "gambit": {"status": "selected", "link": "https://github.com/maaslalani/gambit", "language": "", "notes": ""},
             "matrix-webcam": {"status": "needs work", "link": "https://github.com/joschuck/matrix-webcam", "language": "", "notes": "Take your video conference from within the matrix. -> USE FOR TEAMS, CONTRIBUTE TO NEXT STEPS -> package for NixOS ->  v4l2loopback https://github.com/umlaeute/v4l2loopback -> gstreamer use https://gstreamer.freedesktop.org/documentation/installing/on-linux.html?gi-language=c -> https://blog.ghaiklor.com/2020/07/27/high-performant-2d-renderer-in-a-terminal/"},
             "terminal-canvas": {"status": "needs work", "link": "https://github.com/ghaiklor/terminal-canvas", "language": "", "notes": ""},
@@ -3245,23 +3241,26 @@
                 "cointop": {"status": "not decided yet", "link": "https://github.com/miguelmota/cointop", "language": "", "notes": ""}
             },
             "Code Analysis / Refactoring / Formatting Tools": {
-                "Sourcegraph": {"status": "TODO: decide between alternatives", "link": "https://sourcegraph.com/search", "language": "", "notes": "-> Cody $$$"},
-                "tokei": {"status": "selected", "link": "https://github.com/XAMPPRocky/tokei", "language": "", "notes": "code summarizer $$$"},
-                "cloc": {"status": "TODO: decide between alternatives", "link": "https://github.com/AlDanial/cloc", "language": "", "notes": "Count Lines of Code  compare with tokei \uf441\uf441\uf441"},
-                "scc": {"status": "TODO: decide between alternatives", "link": "https://github.com/boyter/scc", "language": "", "notes": "a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go \uf441\uf441\uf441"},
-                "ripsecrets": {"status": "selected", "link": "https://github.com/sirwart/ripsecrets", "language": "", "notes": "A command-line tool to prevent committing secret keys into your source code $$$"},
-                "fastmod": {"status": "selected", "link": "https://github.com/facebookincubator/fastmod", "language": "", "notes": "A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case 'I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere. $$$"},
-                "codemod": {"status": "TODO: decide between alternatives", "link": "Codemod - probably not, just compare with fastmod", "language": "", "notes": ""},
+                "Sourcegraph": {"status": "selected", "link": "https://sourcegraph.com/search https://sourcegraph.com/cody/manage", "language": "", "notes": "-> cody.nvim !!!"},
+                "tokei": {"status": "selected", "link": "https://github.com/XAMPPRocky/tokei", "language": "", "notes": "code summarizer !!!"},
+                "tokei-pie": {"status": "selected", "link": "https://github.com/laixintao/tokei-pie", "language": "python", "notes": ""},
+                "polyglot": {"status": "use as reference", "link": "https://github.com/vmchale/polyglot", "language": "ats", "notes": ""},
+                "cloc": {"status": "honorable mention", "link": "https://github.com/AlDanial/cloc", "language": "perl", "notes": "Count Lines of Code  compare with tokei 0_0"},
+                "scc": {"status": "selected", "link": "https://github.com/boyter/scc", "language": "", "notes": "a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go !!!"},
+                "ripsecrets": {"status": "selected", "link": "https://github.com/sirwart/ripsecrets", "language": "", "notes": "A command-line tool to prevent committing secret keys into your source code !!!"},
+                "fastmod": {"status": "selected", "link": "https://github.com/facebookincubator/fastmod", "language": "", "notes": "A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case 'I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere. !!!"},
+                "codemod": {"status": "decided against", "link": "Codemod - probably not, just compare with fastmod", "language": "python2", "notes": ""},
+                "codemod2": {"status": "selected", "link": "https://github.com/mdrohmann/codemod2", "language": "python", "notes": ""},
                 "tag": {"status": "needs work", "link": "https://github.com/aykamko/tag", "language": "", "notes": "Instantly jump to your ag matches. Abandoned; fork and update and package for Nix \udb85\udc0b\udb85\udc0b\udb85\udc0b"},
-                "Gource": {"status": "selected", "link": "https://github.com/acaudwell/Gource", "language": "", "notes": "\uf441\uf441\uf441 [on YouTube](https://www.youtube.com/@gourceryt/featured)"},
+                "Gource": {"status": "selected", "link": "https://github.com/acaudwell/Gource", "language": "", "notes": "0_0 [on YouTube](https://www.youtube.com/@gourceryt/featured)"},
                 "lexis": {"status": "needs work", "link": "https://github.com/k4m4/lexis", "language": "", "notes": "word counting made easy. Retrieve the number of words in a string or stdin."},
-                "cppcheck": {"status": "TODO: decide between alternatives", "link": "https://github.com/danmar/cppcheck/", "language": "", "notes": "Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs."},
+                "cppcheck": {"status": "selected", "link": "https://github.com/danmar/cppcheck/", "language": "", "notes": "Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs."},
                 "restructor": {"status": "needs work", "link": "https://strlen.com/restructor/", "language": "", "notes": "probably not usable, but very interesting conceptually"},
-                "cspell": {"status": "TODO: decide between alternatives", "link": "https://cspell.org/", "language": "", "notes": ""},
-                "Frama-C": {"status": "TODO: decide between alternatives", "link": "https://git.frama-c.com/pub/frama-c/", "language": "ocaml, c", "notes": "Open-source extensible and collaborative platform dedicated to source-code analysis of C software. Frama-C can assist from the navigation through unfamiliar projects up to the certification of critical software. (OCAML) - experimental C++ support"},
-                "Codecov": {"status": "TODO: decide between alternatives", "link": "https://codecov.io/", "language": "", "notes": "Continuous Code Coverage"},
-                "Deepsource": {"status": "TODO: decide between alternatives", "link": "https://deepsource.com/", "language": "", "notes": "the code health platform"},
-                "Sonarqube": {"status": "TODO: decide between alternatives", "link": "https://github.com/SonarSource/sonarqube", "language": "", "notes": "Put your technical debt under control"}
+                "cspell": {"status": "selected", "link": "https://cspell.org/", "language": "", "notes": ""},
+                "Frama-C": {"status": "selected", "link": "https://git.frama-c.com/pub/frama-c/", "language": "ocaml, c", "notes": "Open-source extensible and collaborative platform dedicated to source-code analysis of C software. Frama-C can assist from the navigation through unfamiliar projects up to the certification of critical software. (OCAML) - experimental C++ support"},
+                "Codecov": {"status": "selected", "link": "https://codecov.io/", "language": "", "notes": "Continuous Code Coverage"},
+                "Deepsource": {"status": "selected", "link": "https://deepsource.com/", "language": "", "notes": "the code health platform"},
+                "Sonarqube": {"status": "decided against", "link": "https://github.com/SonarSource/sonarqube", "language": "", "notes": "Put your technical debt under control"}
             },
             "Debugging": {
                 "Valgrind": {"status": "selected for later", "link": "http://valgrind.org/", "language": "", "notes": "Valgrind is a GPL'd system for debugging and profiling Linux programs."},
@@ -3315,7 +3314,7 @@
                 "fclones": {"status": "selected", "link": "https://github.com/pkolaczk/fclones", "language": "", "notes": ""}
             },
             "Testing": {
-                "squ": {"status": "needs work", "link": "https://github.com/opensibyl/squ", "language": "", "notes": "$$$"},
+                "squ": {"status": "needs work", "link": "https://github.com/opensibyl/squ", "language": "", "notes": "!!!"},
                 "pvcheck": {"status": "needs work", "link": "https://github.com/claudio-unipv/pvcheck", "language": "", "notes": ""},
                 "cucumber": {"status": "selected for later", "link": "https://cucumber.io/docs", "language": "", "notes": "",
                     "complement": {
@@ -3476,7 +3475,7 @@
             "rat": {"status": "needs work", "link": "https://github.com/ericfreese/rat", "language": "", "notes": "Compose shell commands to build interactive terminal applications"},
             "tabview": {"status": "needs work", "link": "https://github.com/TabViewer/tabview", "language": "", "notes": "Python curses command line CSV and tabular data viewer."},
             "undollar": {"status": "needs work", "link": "https://github.com/xtyrrell/undollar", "language": "", "notes": "undollar bites the dollar sign off the tip of the command you just pasted into your terminal"},
-            "pacgraph": {"status": "needs work", "link": "https://github.com/keenerd/pacgraph", "language": "", "notes": "port for Nix $$$"},
+            "pacgraph": {"status": "needs work", "link": "https://github.com/keenerd/pacgraph", "language": "", "notes": "port for Nix !!!"},
             "dext": {"status": "needs work", "link": "https://github.com/AfzGit/dext", "language": "", "notes": "install as a simple script"},
             "gcp": {"status": "needs work", "link": "https://github.com/aelafifi/gcp", "language": "", "notes": "maybe update and extend"},
             "process-wallpaper": {"status": "needs work", "link": "https://github.com/anirudhajith/process-wallpaper", "language": "", "notes": "update and modify, add to crontab using Nix"},
@@ -3560,8 +3559,8 @@
             "lefthook": {"status": "selected", "link": "https://github.com/evilmartians/lefthook", "language": "", "notes": "looks really really good"},
             "pre-commit": {"status": "added", "link": "https://pre-commit.com/", "language": "", "notes": "A framework for managing and maintaining multi-language pre-commit hooks - already using; just need to compare with lefthook | Git-Hook-Management mit Pre-Commit https: //www.dev-insider.de/git-hook-management-mit-pre-commit-a-84e48ab4399984ccf6158c0955e10a18/"},
             "Git pre-commit hook in 45 seconds! #Shorts - YouTube": {"status": "TODO: read", "link": "https://www.youtube.com/shorts/d70a8PXbrb8", "language": "", "notes": ""},
-            "overcommit": {"status": "TODO: decide between alternatives", "link": "https://github.com/sds/overcommit", "language": "", "notes": "A fully configurable and extendable Git hook manager - looks good, just need to compare with lefthook and pre-commit"},
-            "husky": {"status": "TODO: decide between alternatives", "link": "https://github.com/typicode/husky", "language": "", "notes": "[Husky - Git hooks](https://typicode.github.io/husky/#/)"}
+            "overcommit": {"status": "honorable mention", "link": "https://github.com/sds/overcommit", "language": "", "notes": "A fully configurable and extendable Git hook manager - looks good, just need to compare with lefthook and pre-commit"},
+            "husky": {"status": "honorable mention", "link": "https://github.com/typicode/husky", "language": "", "notes": "[Husky - Git hooks](https://typicode.github.io/husky/#/)"}
         },
         "Non-Source Version Control -> see also `got` in alternatives": {
             "snowfs": {"status": "need to try", "link": "https://github.com/snowtrack/snowfs", "language": "", "notes": "SnowFS - a fast, scalable version control file storage for graphic files"},
@@ -3616,7 +3615,7 @@
             "git-quick-stats": {"status": "selected", "link": "https://github.com/arzzen/git-quick-stats", "language": "", "notes": "Git quick statistics is a simple and efficient way to access various statistics in git repository. -> could improve interface and rewrite in a faster language"},
             "onefetch": {"status": "selected", "link": "https://github.com/o2sh/onefetch", "language": "", "notes": "Git repository summary on your terminal."},
             "git-stats": {"status": "selected", "link": "https://github.com/IonicaBizau/git-stats", "language": "", "notes": "Local git statistics including GitHub-like contributions calendars. -> make pie chart into square (fibonacci-style tiling!) - need to fork and improve -> shows contribution calendar!!! use for work, too"},
-            "gitsummary": {"status": "needs work", "link": "https://github.com/glenreesor/gitsummary", "language": "", "notes": "A better git status that lists stashes, file statuses, branch list, all nicely formatted with color. $$$"},
+            "gitsummary": {"status": "needs work", "link": "https://github.com/glenreesor/gitsummary", "language": "", "notes": "A better git status that lists stashes, file statuses, branch list, all nicely formatted with color. !!!"},
             "cgit-pink": {"status": "selected", "link": "https://git.causal.agency/cgit-pink/about/", "language": "", "notes": ""},
             "git.zx2c4.com/cgit/": {"status": "decided against", "link": "https://git.zx2c4.com/cgit/", "language": "", "notes": "A hyperfast web frontend for git repositories written in C."},
             "ghcal": {"status": "needs work", "link": "https://github.com/IonicaBizau/ghcal", "language": "", "notes": "nice GH calendar -> hack and inmprove; good JS exercise for me"}
@@ -3632,8 +3631,8 @@
             "git-peek": {"status": "selected", "link": "https://github.com/Jarred-Sumner/git-peek", "language": "", "notes": "git peek is the fastest way to open a remote git repository in your local text editor."},
             "git-secret": {"status": "selected", "link": "https://github.com/sobolevn/git-secret", "language": "", "notes": "A bash tool which stores private data inside a git repo; it uses users' public keys, allowing trusted users to access encrypted data using pgp and their secret keys."},
             "dev-time-cli": {"status": "needs work", "link": "https://github.com/samverschueren/dev-time-cli", "language": "", "notes": "Get the current local time of a GitHub user."},
-            "git-interactive-rebase-tool": {"status": "TODO: decide between alternatives", "link": "https://github.com/MitMaro/git-interactive-rebase-tool", "language": "", "notes": ""},
-            "npmjs.com/package/rebase-editor": {"status": "TODO: decide between alternatives", "link": "https://www.npmjs.com/package/rebase-editor", "language": "", "notes": ""},
+            "git-interactive-rebase-tool": {"status": "selected", "link": "https://github.com/MitMaro/git-interactive-rebase-tool", "language": "", "notes": ""},
+            "npmjs.com/package/rebase-editor": {"status": "honorable mention", "link": "https://www.npmjs.com/package/rebase-editor", "language": "", "notes": ""},
             "git-standup": {"status": "selected", "link": "https://github.com/kamranahmedse/git-standup", "language": "", "notes": "Recall what you did on the last working day. - looks good, great idea, just make compatible with semantic commits and write in a lighter language -> maybe (5)"},
             "scm_breeze": {"status": "selected", "link": "https://github.com/ndbroadbent/scm_breeze", "language": "", "notes": "Streamline your git workflow"},
             "gee": {"status": "selected", "link": "https://github.com/human37/gee", "language": "", "notes": "CLI repository manager and automation tool written in rust."},

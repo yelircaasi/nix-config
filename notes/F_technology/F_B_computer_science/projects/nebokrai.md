@@ -1536,6 +1536,7 @@ Scheduler
 * ( ) [hedgedoc/hedgedoc at blog.cloudron.io](https://github.com/hedgedoc/hedgedoc?ref=blog.cloudron.io)
 * ( ) [znuny.org/de](https://www.znuny.org/de)
 * ( ) [thegist.so/#Pricing](https://www.thegist.so/#Pricing)
+* ( ) [zammad](https://zammad.org/)
 
 ##### Notion Updater
 

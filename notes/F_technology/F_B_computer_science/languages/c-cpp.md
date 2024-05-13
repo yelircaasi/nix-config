@@ -1,5 +1,9 @@
 # C and C++
 
+## Reference
+
+* [kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html)
+
 ## To Sort
 
 * [aartaka.me/oop-c-primer](https://www.aartaka.me/oop-c-primer)
@@ -16,6 +20,7 @@
 
 ## 1s
 
+* [awesome](https://awesomecpp.com/)
 * [nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
 * {cpp} [fox-toolkit.org](http://www.fox-toolkit.org/)
 * {edu} [Let's code a UI in C (Ncurses) - YouTube](https://www.youtube.com/watch?v%3D2Q0jUzhDJp0)

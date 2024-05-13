@@ -1587,3 +1587,8 @@ rice * VanillaOS wallpaper channel
 * [ColorPie](https://github.com/keshavbhatt/ColorPie)
 * ( ) [Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors)
 * [perfect green](https://github.com/supabase-community/postgres_lsp/raw/main/docs/images/pls-github.png)
+
+## Harmonizing QT and GTK, KDE and Gnome
+
+* [possibly the gold-standard article](https://wiki.archlinux.org/title/Uniform_look_for_Qt_and_GTK_applications)
+* [KDE theming](https://www.reddit.com/r/unixporn/comments/1b3prdn/how_do_i_uniformly_theme_qt_and_gtk_apps_please/)

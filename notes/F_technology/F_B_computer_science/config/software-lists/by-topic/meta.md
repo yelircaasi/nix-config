@@ -21,6 +21,7 @@
 
 ## Meta
 
+* [console.dev](https://console.dev/)
 * $$$$$ The New Stack
 * → look at KDE Apps (and Gnome and [...](https://www.xfce.org/projects)
 * (R) [(2) Vim-based desktop apps : vim](https://www.reddit.com/r/vim/comments/zacm9i/vimbased_desktop_apps/)

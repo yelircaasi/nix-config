@@ -1,8 +1,11 @@
 # Linux Resources
 
+## Documentation
+
+* [Linux Kernel Documentation](https://www.kernel.org/doc/html/v6.8/)
+
 ## Community
 
-*Join the CLI lover community.*
 * [/r/commandline](https://www.reddit.com/r/commandline) - This is for anything regarding the command line, in any operating system.
 * [/r/osxterminal](https://www.reddit.com/r/osxterminal) - Tips for using terminal.app in macOS.
 * [/r/zsh/](https://www.reddit.com/r/zsh/) - Everything on zsh.

@@ -2,6 +2,8 @@
 
 ## Recent Linux Reading
 
+* [laptops](https://www.wired.com/story/best-linux-laptops/)
+* [yiffOS](https://yiffos.gay/)
 * [access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/index](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/index)
 * [Home Clear Linux* Project | Clear Linux* Project](https://clearlinux.org/)
 * [Ranking Linux Desktop Environments for 2023 - YouTube](https://www.youtube.com/watch?v=09cYQJBgKEs)

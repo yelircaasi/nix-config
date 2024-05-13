@@ -313,3 +313,29 @@ Fandom": {"class": "R", "link": "https://sawfish.fandom.com/wiki/Comparison_of_e
                         " [IceWM](https://ice-wm.org/) - A window manager for the X Window System. The goal of IceWM is speed, simplicity, and not getting in the user\u2019s way.": {"status": "decided against", "link": "", "notes": ""},
                         " [Openbox](http://openbox.org/) - A highly configurable, next generation window manager with extensive standards support.": {"status": "decided against", "link": "", "notes": ""}
                     }
+
+
+"sddm": {"status": "to be added to config", "link": "https://github.com/sddm/sddm", "language": "", "notes": ""},
+                "SDDM Chili": {"status": "to be added to config", "link": "https://www.opendesktop.org/p/1240784", "language": "", "notes": ""},
+                "where-is-my-sddm-theme": {"status": "to be added to config", "link": "https://github.com/stepanzubkov/where-is-my-sddm-theme", "language": "", "notes": ""},
+                "sddm/issues/1316": {"status": "TODO: read", "link": "https://github.com/sddm/sddm/issues/1316", "language": "", "notes": ""},
+                "sddm/issues/1713": {"status": "TODO: read", "link": "https://github.com/sddm/sddm/issues/1713", "language": "", "notes": ""},
+                "genshin-sddm-theme": {"status": "to be added to config", "link": "https://github.com/nicefaa6waa/genshin-sddm-theme", "language": "", "notes": ""},
+
+"lightdm": {"status": "to be added to config", "link": "https://github.com/canonical/lightdm", "language": "", "notes": "[...](https://github.com/canonical/lightdm?) "},
+                "lightdm-gtk-greeter": {"status": "to be added to config", "link": "https://github.com/Xubuntu/lightdm-gtk-greeter", "language": "", "notes": ""},
+                "slick-greeter": {"status": "to be added to config", "link": "https://github.com/linuxmint/slick-greeter", "language": "", "notes": ""},
+                "greeter": {"status": "to be added later", "link": "https://github.com/elementary/greeter", "language": "", "notes": ""},
+                "Web Greeter": {"status": "not decided yet", "link": "https://jezerm.github.io/web-greeter-page/", "language": "", "notes": ""},
+                "lightdm-webengine-greeter": {"status": "not decided yet", "link": "https://github.com/matijaskala/lightdm-webengine-greeter", "language": "", "notes": ""},
+                "nody-greeter": {"status": "not decided yet", "link": "https://github.com/JezerM/nody-greeter", "language": "", "notes": "(same look as web-greeter, but faster)"},
+                "sea-greeter": {"status": "not decided yet", "link": "https://github.com/JezerM/sea-greeter", "language": "", "notes": ""},
+                "lightdm-mini-greeter": {"status": "decided against", "link": "https://github.com/prikhi/lightdm-mini-greeter", "language": "", "notes": ""},
+                "lightdm-tiny-greeter": {"status": "decided against", "link": "https://github.com/tobiohlala/lightdm-tiny-greeter", "language": "", "notes": ""},
+
+"Linux File Managers": {"status": "TODO: read", "link": "https://www.tecmint.com/linux-file-managers/", "language": "", "notes": ""},
+
+"Libraries": {
+            "LibFM + PCManFM 1.3.2 released! - LXDE Blog": {"status": "TODO: read", "link": "https://blog.lxde.org/2021/02/19/libfm-pcmanfm-1-3-2-released/", "language": "", "notes": ""},
+            "libfm-1.3.2": {"status": "TODO: read", "link": "https://www.linuxfromscratch.org/blfs/view/12.0//lxde/libfm.html", "language": "", "notes": ""}
+        },

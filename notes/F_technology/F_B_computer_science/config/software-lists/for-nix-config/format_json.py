@@ -15,8 +15,15 @@ s = json.dumps(dicti, indent=4)
 s = re.sub("\{\n +\"status", "{\"status", s)
 s = re.sub(",\n +\"link\"", ", \"link\"", s)
 s = re.sub(",\n +\"notes\"", ", \"notes\"", s)
+s = re.sub(",\n +\"language\"", ", \"language\"", s)
 s = re.sub(",\n +\"complements\"", ", \"complements\"", s)
 s = re.sub("\"\n +\}", "\"}", s)
 
 with open(p, "w") as f:
     f.write(s)
+
+stati = re.findall("(?<=\"status\": \")[^\"]+", s)
+unique = list(set(stati))
+counts = sorted([(stati.count(u), u) for u in unique], reverse=True)
+for c, u in counts:
+    print(f"{c:>4} : {u}")

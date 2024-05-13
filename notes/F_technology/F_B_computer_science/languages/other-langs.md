@@ -540,6 +540,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 
 ## Golang
 
+* [CLI for building Go applications](https://github.com/go-nunu/nunu)
 * [project-template](https://github.com/golang-standards/project-layout)
 * [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 * [golang.org/](https://golang.org/)
@@ -1552,3 +1553,4 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * ( ) [golangexample](https://golangexample.com/)
 * [arc](http://arclanguage.org/) [wikipedia](https://en.wikipedia.org/wiki/Arc_(programming_language))
 * [Gradual Typing](https://en.wikipedia.org/wiki/Gradual_typing) -> see examples
+* [kuroko](https://github.com/kuroko-lang/kuroko)

@@ -14,7 +14,7 @@
     ./pazi
     ./ripgrep
     ./silver-searcher
-    ./tree
+    ./tre
     ./zoxide
   ];
 }

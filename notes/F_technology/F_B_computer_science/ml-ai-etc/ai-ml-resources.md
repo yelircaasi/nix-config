@@ -1,7 +1,5 @@
 # AI & ML Resources
 
-* [mosaic research](https://www.databricks.com/research/mosaic)
-
 ## Projects
 
 * [web.archive.org/web/20200731224921/http://vandergoten.ai/2018-09-18-attention-is-all-you-need/](http://web.archive.org/web/20200731224921/http://vandergoten.ai/2018-09-18-attention-is-all-you-need/) → TYPE UP IN LATEX!!!

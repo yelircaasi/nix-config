@@ -15,6 +15,7 @@
 
 * -> see riverwm files on drive
 
+* (2) [grappas](https://github.com/grappas/dotfiles)
 * (1) [nChain-example](https://github.com/Nocxium/nChain-example) $$$$$$$$$
 * ( ) [?](https://www.reddit.com/r/unixporn/comments/1btyy6k/hyprland_green/) great color ideas
 * ( ) [12kc/dotfiles/tree/openbox](https://github.com/12kc/dotfiles/tree/openbox)

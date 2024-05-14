@@ -2,7 +2,7 @@
 import json
 import re
 
-p = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/config/software-lists/for-nix-config/raw.json"
+p = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/config/software-lists/for-nix-config/flat/raw.json"
 tmp = "/tmp/tmp.json"
 
 with open(p) as f:
@@ -29,7 +29,7 @@ for c, u in counts:
     print(f"{c:>4} : {u}")
 
 
-p2 = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/config/software-lists/for-nix-config/flat.json"
+p2 = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/config/software-lists/for-nix-config/flat/flat.json"
 tmp = "/tmp/tmp.json"
 
 with open(p2) as f:
@@ -38,6 +38,9 @@ with open(p2) as f:
 with open(tmp, "w") as f:
     json.dump(dicti, f, indent=2)
 
+print([d for d in dicti if not d.get("status")])
+dicti.sort(key=lambda d: (d["category"], d["status"], d["name"]))
+dicti.sort(key=lambda d: d["status"])
 s = json.dumps(dicti, indent=4)
 s = re.sub("\{\n +\"category", "{\"category", s)
 s = re.sub(",\n +\"name\"", ", \"name\"", s)

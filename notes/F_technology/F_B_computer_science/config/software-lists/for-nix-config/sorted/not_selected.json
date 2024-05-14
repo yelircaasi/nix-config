@@ -1,0 +1,3554 @@
+[
+    {
+        "category": "console.ai_assistant",
+        "name": "Aleph Alpha",
+        "status": "back pocket; may be useful someday",
+        "link": "https://aleph-alpha.com/",
+        "language": "",
+        "notes": ". A company emphasizing that it's a European AI technology company, which has open sourced its code codebase and doesn't use customer data to train models"
+    },
+    {
+        "category": "console.ai_assistant",
+        "name": "CodeComplete",
+        "status": "back pocket; may be useful someday",
+        "link": "https://codecomplete.ai/",
+        "language": "",
+        "notes": "(2023)"
+    },
+    {
+        "category": "console.ai_assistant",
+        "name": "DevGPT",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.devgpt.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.ai_assistant",
+        "name": "GitHub Copilot",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/features/copilot",
+        "language": "",
+        "notes": "(2021)"
+    },
+    {
+        "category": "console.ai_assistant",
+        "name": "MosaicML",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.mosaicml.com/",
+        "language": "",
+        "notes": ". Train large AI models with your company data in a secure environment. Point to an AWS S3 bucket, and that's it!"
+    },
+    {
+        "category": "console.data.document.json",
+        "name": "simdjson",
+        "status": "back pocket; may be useful someday",
+        "link": "",
+        "language": "c++",
+        "notes": ""
+    },
+    {
+        "category": "console.development.changelog",
+        "name": "release-it",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/webpro/release-it",
+        "language": "javascript",
+        "notes": "seems npm-specific"
+    },
+    {
+        "category": "console.development.miscellaneous",
+        "name": "autocomplete",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/withfig/autocomplete",
+        "language": "",
+        "notes": "|f05e|f05e|f05e"
+    },
+    {
+        "category": "console.miscellaneous",
+        "name": "lnbits",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/lnbits/lnbits",
+        "language": "",
+        "notes": "free and open-source Lightning wallet and accounts system"
+    },
+    {
+        "category": "console.miscellaneous",
+        "name": "motioneyeos",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/motioneye-project/motioneyeos",
+        "language": "",
+        "notes": "A Video Surveillance OS For Single-board Computers"
+    },
+    {
+        "category": "console.specific_app",
+        "name": "Dropbox-Uploader",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/andreafabrizi/Dropbox-Uploader",
+        "language": "",
+        "notes": "Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox"
+    },
+    {
+        "category": "console.specific_app",
+        "name": "doclt",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/omgimanerd/doclt",
+        "language": "",
+        "notes": "A command line interface to Digital Ocean"
+    },
+    {
+        "category": "desktop.launcher.gui",
+        "name": "mkcron",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/keshavbhatt/mkcron",
+        "language": "",
+        "notes": "cron editor for desktop - update for use on non-NixOS, perhaps"
+    },
+    {
+        "category": "desktop.screenshot",
+        "name": "flameshot",
+        "status": "back pocket; may be useful someday",
+        "link": "https://flameshot.org/",
+        "language": "",
+        "notes": "Powerful yet simple to use screenshot software."
+    },
+    {
+        "category": "desktop.screenshot",
+        "name": "pyscreenshot",
+        "status": "back pocket; may be useful someday",
+        "link": "https://libraries.io/pypi/pyscreenshot",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "development.apis",
+        "name": "Postman",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.getpostman.com/",
+        "language": "",
+        "notes": "Postman, allows a user to develop and test APIs quickly. "
+    },
+    {
+        "category": "development.apis",
+        "name": "advanced-rest-client",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/advanced-rest-client/arc-electron",
+        "language": "javascript",
+        "notes": ""
+    },
+    {
+        "category": "development.apis",
+        "name": "insomnium",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/ArchGPT/insomnium",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "development.database",
+        "name": "echovault",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/EchoVault/EchoVault",
+        "language": "",
+        "notes": "Embeddable Distributed in-memory data store with an emphasis on speed and reliability."
+    },
+    {
+        "category": "development.proglangs.frameworks",
+        "name": "nuxt",
+        "status": "back pocket; may be useful someday",
+        "link": "https://nuxt.com/blog/introducing-nuxt-devtools",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "development.webdev.hosting_and_networking",
+        "name": "Neocities",
+        "status": "back pocket; may be useful someday",
+        "link": "https://neocities.org/",
+        "language": "",
+        "notes": "GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))"
+    },
+    {
+        "category": "development.webdev.hosting_and_networking",
+        "name": "freenginx",
+        "status": "back pocket; may be useful someday",
+        "link": "https://freenginx.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "development.webdev.hosting_and_networking",
+        "name": "heroku",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.heroku.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "development.webdev.hosting_and_networking",
+        "name": "untitledgoosetool",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/cisagov/untitledgoosetool",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "development.webdev.hosting_and_networking",
+        "name": "vercel.com/pricing",
+        "status": "back pocket; may be useful someday",
+        "link": "https://vercel.com/pricing",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "development.webdev.server_benchmarking",
+        "name": "apachebench",
+        "status": "back pocket; may be useful someday",
+        "link": "https://httpd.apache.org/docs/2.4/programs/ab.html",
+        "language": "",
+        "notes": "(ab)"
+    },
+    {
+        "category": "development.webdev.server_benchmarking",
+        "name": "wrk",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/wg/wrk",
+        "language": "",
+        "notes": "Lua-scripted"
+    },
+    {
+        "category": "file_management.remote",
+        "name": "OwnCloud",
+        "status": "back pocket; may be useful someday",
+        "link": "https://owncloud.com/client/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.remote",
+        "name": "Seafile",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.seafile.com/en/home/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.synchronization",
+        "name": "foldersync",
+        "status": "back pocket; may be useful someday",
+        "link": "https://foldersync.io/",
+        "language": "",
+        "notes": "seems like a good mobile solution"
+    },
+    {
+        "category": "gui.fonts",
+        "name": "getnf",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/ronniedroid/getnf",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.audiovisual.media_server_and_daemon",
+        "name": "Kodi",
+        "status": "back pocket; may be useful someday",
+        "link": "https://kodi.tv/about/",
+        "language": "",
+        "notes": "An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more."
+    },
+    {
+        "category": "media.consumption.audiovisual.media_server_and_daemon",
+        "name": "Plex",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.plex.tv/",
+        "language": "",
+        "notes": "Plex is a media server and streaming platform that organizes, streams, and shares your digital media content. (proprietary)"
+    },
+    {
+        "category": "media.consumption.audiovisual.media_server_and_daemon",
+        "name": "Stremio",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.stremio.com/",
+        "language": "",
+        "notes": "Stremio is a modern media center that's a one-stop solution for your video entertainment."
+    },
+    {
+        "category": "media.consumption.audiovisual.media_server_and_daemon",
+        "name": "jellyfin",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/jellyfin/jellyfin",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.audiovisual.media_server_and_daemon",
+        "name": "mpDris2",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/eonpatapon/mpDris2",
+        "language": "",
+        "notes": "MPRIS V2.1 support for mpd"
+    },
+    {
+        "category": "media.consumption.lyrics",
+        "name": "MusixMatch",
+        "status": "back pocket; may be useful someday",
+        "link": "https://snapcraft.io/musixmatch",
+        "language": "",
+        "notes": "A Capable lyrics app with synchronized lyrics function."
+    },
+    {
+        "category": "media.creation.image.editing_and_management",
+        "name": "GraphicsMagick",
+        "status": "back pocket; may be useful someday",
+        "link": "http://www.graphicsmagick.org/",
+        "language": "",
+        "notes": "GraphicsMagick is the swiss army knife of image processing. "
+    },
+    {
+        "category": "media.creation.image.editing_and_management",
+        "name": "ImageMagick",
+        "status": "back pocket; may be useful someday",
+        "link": "https://imagemagick.org/",
+        "language": "",
+        "notes": "[imagemagick.org/index.php](https://imagemagick.org/index.php) - Gold standard for anything images"
+    },
+    {
+        "category": "media.video.editing",
+        "name": "Olive",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.olivevideoeditor.org/",
+        "language": "c++",
+        "notes": "Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software. https://github.com/olive-editor/olive"
+    },
+    {
+        "category": "messaging.email",
+        "name": "Tutanota",
+        "status": "back pocket; may be useful someday",
+        "link": "https://tutanota.com/",
+        "language": "",
+        "notes": "Encrypted email at no cost with support for business accounts. ([GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))"
+    },
+    {
+        "category": "messaging.miscellaneous",
+        "name": "Dimillian/IceCubesApp: A SwiftUI Mastodon client",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/Dimillian/IceCubesApp",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "messaging.whatsapp",
+        "name": "WBOT",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/vasani-arpit/WBOT",
+        "language": "",
+        "notes": "A simple CLI based BOT for WhatsApp|2122 in NodeJS. reply to your friends quickly and have fun along the way."
+    },
+    {
+        "category": "system.boot.tools",
+        "name": "libreboot",
+        "status": "back pocket; may be useful someday",
+        "link": "https://libreboot.org/docs/",
+        "language": "",
+        "notes": "[libreboot article](https://9to5linux.com/libreboot-open-source-bios-uefi-firmware-adds-more-hardware-support) libreboot"
+    },
+    {
+        "category": "system.disk.partitioning",
+        "name": "clonezilla",
+        "status": "back pocket; may be useful someday",
+        "link": "https://clonezilla.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.input",
+        "name": "fusuma",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/iberianpig/fusuma",
+        "language": "",
+        "notes": "multitouch gestures"
+    },
+    {
+        "category": "system.non_nix_config_management",
+        "name": "ansible",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/j0giwa/ansible",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.system_management",
+        "name": "superd",
+        "status": "back pocket; may be useful someday",
+        "link": "https://sr.ht/~craftyguy/superd/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.system_management",
+        "name": "supervisor",
+        "status": "back pocket; may be useful someday",
+        "link": "http://supervisord.org/ | https://github.com/Supervisor/supervisor",
+        "language": "python",
+        "notes": ""
+    },
+    {
+        "category": "system.tuxedo_only",
+        "name": "TUXEDO Control Center - GNU/Linux.ch",
+        "status": "back pocket; may be useful someday",
+        "link": "https://gnulinux.ch/tuxedo-control-center",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "version_control.git_servers",
+        "name": "beanstalk",
+        "status": "back pocket; may be useful someday",
+        "link": "https://beanstalkapp.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "version_control.git_servers",
+        "name": "gitea",
+        "status": "back pocket; may be useful someday",
+        "link": "https://about.gitea.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "version_control.git_servers",
+        "name": "gogs",
+        "status": "back pocket; may be useful someday",
+        "link": "https://gogs.io/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "version_control.git_servers",
+        "name": "radicle",
+        "status": "back pocket; may be useful someday",
+        "link": "https://radicle.xyz/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "version_control.gui",
+        "name": "GitKraken",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.gitkraken.com/",
+        "language": "",
+        "notes": "The downright luxurious Git GUI client for Windows, Mac & Linux. - will try for the experience, but too proprietary for me"
+    },
+    {
+        "category": "web.internet_related.browsers.extensions.link_hoarding",
+        "name": "pocket",
+        "status": "back pocket; may be useful someday",
+        "link": "https://getpocket.com",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.gui.hacker",
+        "name": "Vimb - A Minimal Browser with Vim like Bindings - YouTube",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.youtube.com/watch?v=26xWK35pinA",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.gui.mobile",
+        "name": "cromite",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/uazo/cromite",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.gui.mobile",
+        "name": "epicbrowser.com/privacy-policy",
+        "status": "back pocket; may be useful someday",
+        "link": "https://epicbrowser.com/privacy-policy",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.related_tools",
+        "name": "Browserling - Online cross-browser testing",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.browserling.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.crawling_scraping_downloading",
+        "name": "clauneck",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/serpapi/clauneck",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.crawling_scraping_downloading",
+        "name": "gallery-dl",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/mikf/gallery-dl",
+        "language": "",
+        "notes": "Command-line program to download image galleries and collections from pixiv, exhentai, danbooru and more."
+    },
+    {
+        "category": "webdev.frameworks_etc",
+        "name": "bootplus",
+        "status": "back pocket; may be useful someday",
+        "link": "http://aozora.github.io/bootplus/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.frameworks_etc",
+        "name": "loco",
+        "status": "back pocket; may be useful someday",
+        "link": "https://loco.rs/ | https://www.shuttle.rs/blog/2023/12/20/loco-rust-rails",
+        "language": "",
+        "notes": "the Rails of Rust; see also https://github.com/shuttle-hq/shuttle"
+    },
+    {
+        "category": "webdev.frameworks_etc",
+        "name": "prismjs",
+        "status": "back pocket; may be useful someday",
+        "link": "https://prismjs.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.frameworks_etc",
+        "name": "rawjs",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.squaresapp.org/rawjs/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.frameworks_etc",
+        "name": "toast",
+        "status": "back pocket; may be useful someday",
+        "link": "https://ui.toast.com/",
+        "language": "",
+        "notes": "web UI components"
+    },
+    {
+        "category": "webdev.frameworks_etc",
+        "name": "winterjs",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/wasmerio/winterjs",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.monitoring_and_hooks",
+        "name": "healthchecks.io",
+        "status": "back pocket; may be useful someday",
+        "link": "https://healthchecks.io/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.server",
+        "name": "cowyo",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/schollz/cowyo",
+        "language": "",
+        "notes": "Feature rich wiki webserver for minimalists. - planager?"
+    },
+    {
+        "category": "webdev.server",
+        "name": "dog",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/ogham/dog",
+        "language": "",
+        "notes": "DNS lookup client; [better `dig`](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#do) "
+    },
+    {
+        "category": "webdev.server",
+        "name": "dog fork",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/vschwaberow/dog",
+        "language": "",
+        "notes": "looks good"
+    },
+    {
+        "category": "webdev.server",
+        "name": "fenix",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/coreybutler/fenix",
+        "language": "",
+        "notes": "[Fenix Web Server](https://fenixwebserver.com/) - A multi-host local static web server with push-button sharing (desktop app)."
+    },
+    {
+        "category": "webdev.server",
+        "name": "openresty/lua-nginx-module",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/openresty/lua-nginx-module",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.server",
+        "name": "simplehttp Fastest",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/snwfdhmp/simplehttp",
+        "language": "",
+        "notes": "Fastest and simplest way to start serving a local directory over http."
+    },
+    {
+        "category": "webdev.server",
+        "name": "vesper - Vesper",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/chris-rock/vesper",
+        "language": "",
+        "notes": "a HTTP framework for Bash/Unix Shell"
+    },
+    {
+        "category": "webdev.server",
+        "name": "xh",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/ducaale/xh",
+        "language": "",
+        "notes": "Friendly and fast tool for sending HTTP requests - like Httpie, but faster"
+    },
+    {
+        "category": "webdev.static",
+        "name": "Hugo",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/gohugoio/hugo",
+        "language": "",
+        "notes": "The world's fastest framework for building websites. [gohugo.io](https://gohugo.io/)"
+    },
+    {
+        "category": "webdev.static",
+        "name": "Static Site Generator | Nikola",
+        "status": "back pocket; may be useful someday",
+        "link": "https://getnikola.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.static",
+        "name": "metalsmith",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/metalsmith/metalsmith",
+        "language": "",
+        "notes": "An extremely simple static site generator; all functionalities are provided by plugins that can be combined and chained; written and extendable in Javascript."
+    },
+    {
+        "category": "webdev.static",
+        "name": "nanoc",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/nanoc/nanoc",
+        "language": "",
+        "notes": "Static site generator written in Ruby; extremely powerful and customizable; support many formats to generate HTML content."
+    },
+    {
+        "category": "webdev.streamlined",
+        "name": "qwik",
+        "status": "back pocket; may be useful someday",
+        "link": "https://qwik.dev/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.testing.speed_bandwidth_connectivity_etc",
+        "name": "NetData",
+        "status": "back pocket; may be useful someday",
+        "link": "https://my-netdata.io/",
+        "language": "",
+        "notes": "Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring)."
+    },
+    {
+        "category": "websites.miscellaneous",
+        "name": "Collaboration costs less with Coda, we price differently - Coda",
+        "status": "back pocket; may be useful someday",
+        "link": "https://coda.io/product/collaboration-costs-less-with-coda",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "websites.miscellaneous",
+        "name": "FrontPage",
+        "status": "back pocket; may be useful someday",
+        "link": "http://www.fitnesse.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "websites.miscellaneous",
+        "name": "canva",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.canva.com/free/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "websites.miscellaneous",
+        "name": "profanity.dev",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.profanity.dev/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "websites.mobile_connection",
+        "name": "gsconnect",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/GSConnect/gnome-shell-extension-gsconnect",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "websites.mobile_connection",
+        "name": "kdeconnect",
+        "status": "back pocket; may be useful someday",
+        "link": "https://apps.kde.org/kdeconnect/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.ai_assistant",
+        "name": "Amazon Q Developer",
+        "status": "decided against",
+        "link": "https://aws.amazon.com/q/developer/",
+        "language": "",
+        "notes": "(2022)"
+    },
+    {
+        "category": "console.ai_assistant",
+        "name": "Glean.",
+        "status": "decided against",
+        "link": "https://www.glean.com/",
+        "language": "",
+        "notes": "AI-powered workplace search across the company's apps, powered by deep learning-based large language models (LLM.)"
+    },
+    {
+        "category": "console.best_devenv",
+        "name": "st - NixOS Wiki",
+        "status": "decided against",
+        "link": "https://nixos.wiki/wiki/St",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.calculator_and_spreadsheet",
+        "name": "bc",
+        "status": "decided against",
+        "link": "https://www.gnu.org/software/bc/manual/html_mono/bc.html",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.core",
+        "name": "checksum.sh",
+        "status": "decided against",
+        "link": "https://github.com/gavinuhma/checksum.sh",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.core.tree",
+        "name": "alder - minimal implementation of tree - LinuxLinks",
+        "status": "decided against",
+        "link": "https://www.linuxlinks.com/alder-minimal-implementation-tree/",
+        "language": "",
+        "notes": "-> for RosettaProjects"
+    },
+    {
+        "category": "console.core.tree",
+        "name": "ictree - interactive tree - LinuxLinks",
+        "status": "decided against",
+        "link": "https://www.linuxlinks.com/ictree-interactive-tree/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.data.document.polyglot",
+        "name": "aha",
+        "status": "decided against",
+        "link": "https://github.com/theZiz/aha",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.data.document.polyglot",
+        "name": "gitbook",
+        "status": "decided against",
+        "link": "https://blog.gitbook.com/product-updates/gitbook-3.0-document-everything-from-start-to-ship",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.data.document.toml",
+        "name": "toml-cli (old)",
+        "status": "decided against",
+        "link": "https://github.com/mrijken/toml-cli",
+        "language": "",
+        "notes": "(Python)"
+    },
+    {
+        "category": "console.data.wrangling",
+        "name": "unindenter",
+        "status": "decided against",
+        "link": "https://github.com/BiasedRiot/Unindenter",
+        "language": "",
+        "notes": "RosettaProjects"
+    },
+    {
+        "category": "console.development",
+        "name": "anew",
+        "status": "decided against",
+        "link": "https://github.com/tomnomnom/anew",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.development.analysis_refactoring_formatting",
+        "name": "Sonarqube",
+        "status": "decided against",
+        "link": "https://github.com/SonarSource/sonarqube",
+        "language": "",
+        "notes": "Put your technical debt under control"
+    },
+    {
+        "category": "console.development.analysis_refactoring_formatting",
+        "name": "codemod",
+        "status": "decided against",
+        "link": "Codemod - probably not, just compare with fastmod",
+        "language": "python2",
+        "notes": ""
+    },
+    {
+        "category": "console.development.code_navigaion",
+        "name": "cscope",
+        "status": "decided against",
+        "link": "http://cscope.sourceforge.net/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.devshell",
+        "name": "lorelei",
+        "status": "decided against",
+        "link": "https://github.com/shajra/direnv-nix-lorelei",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.educational.reading",
+        "name": "rtv",
+        "status": "decided against",
+        "link": "https://github.com/michael-lazar/rtv",
+        "language": "",
+        "notes": "Browse Reddit from your terminal."
+    },
+    {
+        "category": "console.educational.reading",
+        "name": "tuir",
+        "status": "decided against",
+        "link": "https://gitlab.com/ajak/tuir",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.fun",
+        "name": "LinuxLogo",
+        "status": "decided against",
+        "link": "https://sourceforge.net/projects/linuxlogo/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.fun.cowsay_family",
+        "name": "cowsay",
+        "status": "decided against",
+        "link": "https://github.com/piuccio/cowsay",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.fun.cowsay_family",
+        "name": "cowsay alt 2",
+        "status": "decided against",
+        "link": "https://github.com/sckott/cowsay",
+        "language": "",
+        "notes": "(R)"
+    },
+    {
+        "category": "console.fun.cowsay_family",
+        "name": "ponysay",
+        "status": "decided against",
+        "link": "https://github.com/erkin/ponysay",
+        "language": "",
+        "notes": "Pony rewrite of cowsay."
+    },
+    {
+        "category": "console.fun.cowsay_family",
+        "name": "rank-amateur-cowsay",
+        "status": "decided against",
+        "link": "https://github.com/tnalpgge/rank-amateur-cowsay",
+        "language": "",
+        "notes": "A program that generates a ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable)."
+    },
+    {
+        "category": "console.fun.cowsay_family",
+        "name": "ricksay",
+        "status": "decided against",
+        "link": "https://github.com/roma-guru/ricksay",
+        "language": "",
+        "notes": "Quotes from Rick and Morty."
+    },
+    {
+        "category": "console.fun.cowsay_family",
+        "name": "yosay",
+        "status": "decided against",
+        "link": "https://github.com/yeoman/yosay",
+        "language": "",
+        "notes": "Like cowsay, but for yeoman."
+    },
+    {
+        "category": "console.fun.eye_candy",
+        "name": "pokeget",
+        "status": "decided against",
+        "link": "https://github.com/talwat/pokeget",
+        "language": "",
+        "notes": "A bash script you can use to display cool sprites of pokemon in your terminal."
+    },
+    {
+        "category": "console.fun.eye_candy",
+        "name": "pokeget-rs",
+        "status": "decided against",
+        "link": "https://github.com/talwat/pokeget-rs",
+        "language": "",
+        "notes": "[pokeget](https://github.com/talwat/pokeget)- Display sprites of pokemon."
+    },
+    {
+        "category": "console.fun.eye_candy",
+        "name": "pokeshell",
+        "status": "decided against",
+        "link": "https://github.com/acxz/pokeshell",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.fun.eye_candy",
+        "name": "screensaver",
+        "status": "decided against",
+        "link": "https://github.com/gillstrom/screensaver",
+        "language": "",
+        "notes": "Start the screensaver."
+    },
+    {
+        "category": "console.fun.messages_quotes_welcomes",
+        "name": "fortune",
+        "status": "decided against",
+        "link": "https://github.com/bmc/fortune",
+        "language": "",
+        "notes": "Generates random messages feched from a quotation database."
+    },
+    {
+        "category": "console.help",
+        "name": "how2",
+        "status": "decided against",
+        "link": "https://github.com/santinic/how2",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.help",
+        "name": "howdoi",
+        "status": "decided against",
+        "link": "https://github.com/gleitz/howdoi",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.help",
+        "name": "outfieldr",
+        "status": "decided against",
+        "link": "https://gitlab.com/ve-nt/outfieldr",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.help",
+        "name": "tldr-sh-client",
+        "status": "decided against",
+        "link": "https://github.com/raylee/tldr-sh-client",
+        "language": "",
+        "notes": "A fully-functional bash client for tldr, simplified and community-driven man pages -> read shell code"
+    },
+    {
+        "category": "console.illustration",
+        "name": "blessed-contrib (orig)",
+        "status": "decided against",
+        "link": "https://github.com/yaronn/blessed-contrib",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.miscellaneous",
+        "name": "shmenu",
+        "status": "decided against",
+        "link": "https://github.com/duclos-cavalcanti/shmenu",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.miscellaneous.weather",
+        "name": "python-forecast.io",
+        "status": "decided against",
+        "link": "https://github.com/ZeevG/python-forecast.io",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.multiplexer",
+        "name": "dtach",
+        "status": "decided against",
+        "link": "https://github.com/crigler/dtach",
+        "language": "",
+        "notes": "A program written in C that emulates the detach feature of screen."
+    },
+    {
+        "category": "console.renaming",
+        "name": "repren",
+        "status": "decided against",
+        "link": "https://github.com/jlevy/repren",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "fz.sh",
+        "status": "decided against",
+        "link": "https://github.com/mrjohannchang/fz.sh",
+        "language": "",
+        "notes": "(for zsh)"
+    },
+    {
+        "category": "console.search",
+        "name": "sift",
+        "status": "decided against",
+        "link": "https://github.com/svent/sift",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.sets.core",
+        "name": "colorls",
+        "status": "decided against",
+        "link": "https://github.com/athityakumar/colorls",
+        "language": "",
+        "notes": "ruby"
+    },
+    {
+        "category": "console.sets.core",
+        "name": "nat",
+        "status": "decided against",
+        "link": "https://github.com/willdoescode/nat",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.sets.core",
+        "name": "pycp",
+        "status": "decided against",
+        "link": "https://github.com/your-tools/pycp",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.shells",
+        "name": "zsh",
+        "status": "decided against",
+        "link": "...",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.shells.scripting",
+        "name": "beautysh",
+        "status": "decided against",
+        "link": "https://github.com/lovesegfault/beautysh",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.sleep_and_eyes",
+        "name": "f.lux",
+        "status": "decided against",
+        "link": "https://justgetflux.com/linux.html",
+        "language": "",
+        "notes": "A program that reddens your display to help you sleep better."
+    },
+    {
+        "category": "console.specific_app",
+        "name": "go-jira",
+        "status": "decided against",
+        "link": "https://github.com/go-jira/jira",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.task_scripting",
+        "name": "cron",
+        "status": "decided against",
+        "link": "https://opensource.com/article/21/7/cron-linux",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.translation",
+        "name": "trino",
+        "status": "decided against",
+        "link": "https://github.com/eneserdogan/trino",
+        "language": "",
+        "notes": "Translation of words and phrases."
+    },
+    {
+        "category": "desktop.compositor",
+        "name": "gamescope",
+        "status": "decided against",
+        "link": "https://github.com/Plagman/gamescope",
+        "language": "",
+        "notes": "Gamescope is a micro-compositor that provides a sandboxed Xwayland desktop with independent input, resolution, and refresh rate."
+    },
+    {
+        "category": "desktop.compositor.miscellaneous.x11_only",
+        "name": "unclutter-xfixes",
+        "status": "decided against",
+        "link": "https://github.com/Airblader/unclutter-xfixes",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.compositor.miscellaneous.x11_only",
+        "name": "xbanish",
+        "status": "decided against",
+        "link": "https://github.com/jcs/xbanish",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.greeter.console",
+        "name": "Console TDM",
+        "status": "decided against",
+        "link": "https://github.com/dopsi/console-tdm",
+        "language": "",
+        "notes": "An extension for xinit written in pure Bash."
+    },
+    {
+        "category": "desktop.greeter.console",
+        "name": "nodm",
+        "status": "decided against",
+        "link": "https://github.com/spanezz/nodm",
+        "language": "",
+        "notes": "A minimalistic display manager for automatic logins."
+    },
+    {
+        "category": "desktop.greeter.gui",
+        "name": "Entrance",
+        "status": "decided against",
+        "link": "https://enlightenment.org/",
+        "language": "",
+        "notes": "An EFL based display manager, highly experimental."
+    },
+    {
+        "category": "desktop.greeter.gui",
+        "name": "GDM",
+        "status": "decided against",
+        "link": "https://wiki.gnome.org/Projects/GDM",
+        "language": "",
+        "notes": "The GNOME display manager. [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) - A settings app for GNOME's Login Manager, GDM."
+    },
+    {
+        "category": "desktop.greeter.gui",
+        "name": "LXDM",
+        "status": "decided against",
+        "link": "http://sourceforge.net/projects/lxdm/",
+        "language": "",
+        "notes": "The LXDE display manager. Can be used independent of the LXDE desktop environment."
+    },
+    {
+        "category": "desktop.greeter.gui",
+        "name": "LightDM",
+        "status": "decided against",
+        "link": "http://www.freedesktop.org/wiki/Software/LightDM",
+        "language": "",
+        "notes": "A cross-desktop display manager, can use various front-ends written in any toolkit."
+    },
+    {
+        "category": "desktop.greeter.gui",
+        "name": "MDM",
+        "status": "decided against",
+        "link": "https://github.com/linuxmint/mdm",
+        "language": "",
+        "notes": "The MDM display manager, used in Linux Mint, a fork of GDM 2."
+    },
+    {
+        "category": "desktop.greeter.gui",
+        "name": "XDM",
+        "status": "decided against",
+        "link": "http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html",
+        "language": "",
+        "notes": "The X display manager with support for XDMCP, and host chooser."
+    },
+    {
+        "category": "desktop.launcher.gui",
+        "name": "bashrun",
+        "status": "decided against",
+        "link": "http://bashrun.sourceforge.net/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.launcher.gui",
+        "name": "dmenu",
+        "status": "decided against",
+        "link": "https://tools.suckless.org/dmenu/",
+        "language": "",
+        "notes": "dmenu is a dynamic menu for X, originally designed for dwm. It manages large numbers of user-defined menu items"
+    },
+    {
+        "category": "desktop.launcher.gui",
+        "name": "dmenu2",
+        "status": "decided against",
+        "link": "https://bitbucket.org/melek/dmenu2",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.launcher.gui",
+        "name": "dmenu_run",
+        "status": "decided against",
+        "link": "http://tools.suckless.org/dmenu/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.launcher.gui",
+        "name": "handlr",
+        "status": "decided against",
+        "link": "https://github.com/chmln/handlr",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.launcher.gui",
+        "name": "rofi",
+        "status": "decided against",
+        "link": "https://davatorium.github.io/rofi/",
+        "language": "",
+        "notes": "-> [gist.github.com/MilesMcBain/0e6f449c3f8e07ed1b06aa785b0726ff](https://gist.github.com/MilesMcBain/0e6f449c3f8e07ed1b06aa785b0726ff) rofi(1) |2014 Arch manual pages https: //man.archlinux.org/man/community/rofi/rofi.1.en"
+    },
+    {
+        "category": "desktop.launcher.gui",
+        "name": "rofi (alt)",
+        "status": "decided against",
+        "link": "https://github.com/DaveDavenport/rofi",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.launcher.gui",
+        "name": "vis-menu",
+        "status": "decided against",
+        "link": "http://martanne.github.io/vis/man/vis-menu.1.html",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.launcher.gui",
+        "name": "xboomx",
+        "status": "decided against",
+        "link": "https://github.com/victorhaggqvist/xboomx",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.launcher.gui",
+        "name": "xlauncher",
+        "status": "decided against",
+        "link": "https://github.com/vatriani/xlauncher",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.lockscreen",
+        "name": "slock",
+        "status": "decided against",
+        "link": "https://github.com/BachoSeven/slock",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.lockscreen",
+        "name": "slock-flexipatch",
+        "status": "decided against",
+        "link": "https://github.com/bakkeby/slock-flexipatch",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.lockscreen",
+        "name": "xsecurelock",
+        "status": "decided against",
+        "link": "https://github.com/google/xsecurelock",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.notifications",
+        "name": "catlight",
+        "status": "decided against",
+        "link": "https://catlight.io/",
+        "language": "",
+        "notes": "status notifier for developers. Checks the status of continuous delivery builds and shows desktop notifications - closed source and proprietary"
+    },
+    {
+        "category": "desktop.utils.internet_connectivity_manager",
+        "name": "wicd-curses",
+        "status": "decided against",
+        "link": "https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode",
+        "language": "",
+        "notes": "Command line WiFi connection manager."
+    },
+    {
+        "category": "development.documentation",
+        "name": "Daux.io",
+        "status": "decided against",
+        "link": "https://dauxio.github.io/",
+        "language": "",
+        "notes": "uses PHP and Composer"
+    },
+    {
+        "category": "development.editor.gui",
+        "name": "vim",
+        "status": "decided against",
+        "link": "https://www.vim.org/",
+        "language": "",
+        "notes": "-> decided to always use nvim with different configs -> [michaeluloth.com/neovim-switch-configs/](https://michaeluloth.com/neovim-switch-configs/)"
+    },
+    {
+        "category": "development.editor.gui.in_browser",
+        "name": "idx",
+        "status": "decided against",
+        "link": "https://idx.dev/",
+        "language": "",
+        "notes": "* follow"
+    },
+    {
+        "category": "development.editor.gui.in_browser",
+        "name": "monaco-editor",
+        "status": "decided against",
+        "link": "https://github.com/microsoft/monaco-editor",
+        "language": "",
+        "notes": "Github code repository for underlying browser-based editor - hack around with"
+    },
+    {
+        "category": "development.editor.markdown.gui",
+        "name": "Typora",
+        "status": "decided against",
+        "link": "https://typora.io/",
+        "language": "",
+        "notes": "minimal, CSS styling beautiful, but not FOSS"
+    },
+    {
+        "category": "development.editor.tex.gui",
+        "name": "GNOME LaTeX",
+        "status": "decided against",
+        "link": "https://gitlab.gnome.org/swilmet/gnome-latex",
+        "language": "",
+        "notes": "GNOME LaTeX is a LaTeX editor for the GNOME desktop."
+    },
+    {
+        "category": "development.editor.tex.gui",
+        "name": "Gummi",
+        "status": "decided against",
+        "link": "https://github.com/alexandervdm/gummi",
+        "language": "",
+        "notes": "Simple latex editor with templates, spell check, and wizards."
+    },
+    {
+        "category": "development.editor.tex.gui",
+        "name": "TeXstudio",
+        "status": "decided against",
+        "link": "https://www.texstudio.org/",
+        "language": "",
+        "notes": "TeXstudio's goal is to make writing LaTeX documents as easy and comfortable as possible. [link](https://github.com/texstudio-org/texstudio)"
+    },
+    {
+        "category": "development.misc",
+        "name": "ngrok.com/",
+        "status": "decided against",
+        "link": "https://ngrok.com/",
+        "language": "",
+        "notes": "[ngrok](https://github.com/ngrok) - Secure introspectable tunnels to localhost."
+    },
+    {
+        "category": "development.proglangs.frameworks",
+        "name": "Devilbox",
+        "status": "decided against",
+        "link": "https://github.com/cytopia/devilbox",
+        "language": "",
+        "notes": "The devilbox is a modern and highly customisable dockerized PHP stack supporting full LAMP and MEAN and running on all major platforms. The main goal is to easily switch and combine any version required for local development."
+    },
+    {
+        "category": "development.tools.snap",
+        "name": "io12/nix-snapd |2022 FlakeHub",
+        "status": "decided against",
+        "link": "https://flakehub.com/flake/io12/nix-snapd",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "development.webdev.hosting_and_networking",
+        "name": "pushbullet.com/",
+        "status": "decided against",
+        "link": "https://www.pushbullet.com/",
+        "language": "",
+        "notes": " [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API - requires Facebook or Google -> see [alternatives](https://alternativeto.net/software/pushbullet/?license=opensource) + pushblast (4) https://github.com/alebcay/pushblast - Get PushBullet notifications when a shell program exits"
+    },
+    {
+        "category": "file_management.download",
+        "name": "flareget",
+        "status": "decided against",
+        "link": "https://flareget.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.download",
+        "name": "freedownloadmanager",
+        "status": "decided against",
+        "link": "https://www.freedownloadmanager.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.download",
+        "name": "jdownloader",
+        "status": "decided against",
+        "link": "https://jdownloader.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.editor_based",
+        "name": "mmv",
+        "status": "decided against",
+        "link": "https://github.com/itchyny/mmv",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.editor_based",
+        "name": "vidir",
+        "status": "decided against",
+        "link": "https://linux.die.net/man/1/vidir",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.gui",
+        "name": "IgnorantGuru/spacefm",
+        "status": "decided against",
+        "link": "https://github.com/IgnorantGuru/spacefm",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.gui",
+        "name": "elementary",
+        "status": "decided against",
+        "link": "https://github.com/elementary/files/",
+        "language": "",
+        "notes": "[Why I use the Enlightenment file manager on Linux | Opensource.com](https://opensource.com/article/22/12/linux-file-manager-enlightenment)"
+    },
+    {
+        "category": "file_management.remote",
+        "name": "Dropbox",
+        "status": "decided against",
+        "link": "https://www.dropbox.com/install?os=lnx",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.torrent",
+        "name": "tixati",
+        "status": "decided against",
+        "link": "https://www.tixati.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.torrent",
+        "name": "transgui",
+        "status": "decided against",
+        "link": "https://sourceforge.net/projects/transgui/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.torrent",
+        "name": "transmission-cli",
+        "status": "decided against",
+        "link": "https://github.com/popstas/transmission-cli",
+        "language": "php",
+        "notes": ""
+    },
+    {
+        "category": "file_management.torrent",
+        "name": "vuze",
+        "status": "decided against",
+        "link": "https://www.vuze.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.transfer_and_remote",
+        "name": "PB for Desktop",
+        "status": "decided against",
+        "link": "https://sidneys.github.io/pb-for-desktop/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.transfer_and_remote",
+        "name": "filezilla",
+        "status": "decided against",
+        "link": "https://filezilla-project.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.transfer_and_remote",
+        "name": "quazaa",
+        "status": "decided against",
+        "link": "https://sourceforge.net/projects/quazaa/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.tui",
+        "name": "dmenufm",
+        "status": "decided against",
+        "link": "https://github.com/huijunchen9260/dmenufm",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.tui",
+        "name": "fff",
+        "status": "decided against",
+        "link": "https://github.com/dylanaraps/fff",
+        "language": "",
+        "notes": "inactive"
+    },
+    {
+        "category": "gui.productivity.timer",
+        "name": "solanum",
+        "status": "decided against",
+        "link": "https://apps.gnome.org/Solanum/",
+        "language": "rust gtk",
+        "notes": "GUI pomodoro - use as reference for Rust Gnome"
+    },
+    {
+        "category": "gui.reading",
+        "name": "bookworm",
+        "status": "decided against",
+        "link": "https://babluboy.github.io/bookworm/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.reading",
+        "name": "calibre",
+        "status": "decided against",
+        "link": "https://calibre-ebook.com/",
+        "language": "",
+        "notes": "+ [calibre-web](https://github.com/janeczku/calibre-web)"
+    },
+    {
+        "category": "gui.reading",
+        "name": "evince",
+        "status": "decided against",
+        "link": "https://wiki.gnome.org/Apps/Evince",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.reading",
+        "name": "foliate",
+        "status": "decided against",
+        "link": "https://johnfactotum.github.io/foliate/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.reading",
+        "name": "okular",
+        "status": "decided against",
+        "link": "https://okular.kde.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.reading",
+        "name": "qpdfview",
+        "status": "decided against",
+        "link": "https://launchpad.net/qpdfview",
+        "language": "",
+        "notes": "(also supports synctex)"
+    },
+    {
+        "category": "gui.remote_desktop",
+        "name": "Pushbullet",
+        "status": "decided against",
+        "link": "https://www.pushbullet.com/",
+        "language": "",
+        "notes": "only works with facebook or google account"
+    },
+    {
+        "category": "gui.remote_desktop",
+        "name": "TeamViewer",
+        "status": "decided against",
+        "link": "https://www.teamviewer.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.remote_desktop",
+        "name": "anydesk",
+        "status": "decided against",
+        "link": "https://anydesk.com/en",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.audio.console",
+        "name": "MOC",
+        "status": "decided against",
+        "link": "https://moc.daper.net/",
+        "language": "",
+        "notes": "(music on console) is a powerful and easy to use console audio player; user interface a la Midnight Commander; plenty of features; fully controllable from the keyboard."
+    },
+    {
+        "category": "media.consumption.audio.console",
+        "name": "mp3blaster",
+        "status": "decided against",
+        "link": "https://sourceforge.net/projects/mp3blaster/",
+        "language": "",
+        "notes": "Audio player for the text console."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Bomi Player",
+        "status": "decided against",
+        "link": "https://bomi-player.github.io/",
+        "language": "",
+        "notes": "A powerful and easy-to-use multimedia player."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "ElectronPlayer",
+        "status": "decided against",
+        "link": "https://github.com/oscartbeaumont/ElectronPlayer",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "JuK",
+        "status": "decided against",
+        "link": "https://juk.kde.org/",
+        "language": "",
+        "notes": "Jukebox music player for managing audio and editing metadata."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Mellow Player",
+        "status": "decided against",
+        "link": "https://colinduquesnoy.gitlab.io/MellowPlayer/",
+        "language": "qt",
+        "notes": "Cloud music integration for your desktop. !!! - all the services!"
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "cantata",
+        "status": "decided against",
+        "link": "https://github.com/CDrummond/cantata",
+        "language": "",
+        "notes": "Qt5 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS."
+    },
+    {
+        "category": "media.consumption.audio.podcast_and_audiobook",
+        "name": "cpod",
+        "status": "decided against",
+        "link": "https://github.com/z-------------/CPod",
+        "language": "javascript electron",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.audio.song_id",
+        "name": "music-radar",
+        "status": "decided against",
+        "link": "https://github.com/keshavbhatt/music-radar",
+        "language": "",
+        "notes": "like shazam"
+    },
+    {
+        "category": "media.consumption.image",
+        "name": "feh",
+        "status": "decided against",
+        "link": "https://feh.finalrewind.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.image",
+        "name": "nsxiv",
+        "status": "decided against",
+        "link": "https://github.com/nsxiv/nsxiv",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.image",
+        "name": "sxiv",
+        "status": "decided against",
+        "link": "https://github.com/xyb3rt/sxiv",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.video",
+        "name": "Emby Theater",
+        "status": "decided against",
+        "link": "https://emby.media/emby-theater-linux.html",
+        "language": "",
+        "notes": "Emby Server's official media player."
+    },
+    {
+        "category": "media.consumption.video",
+        "name": "SVP",
+        "status": "decided against",
+        "link": "https://www.svp-team.com/w/index.php?title=Main_Page",
+        "language": "",
+        "notes": "SVP allows you to watch any video on your desktop computer using frame interpolation as it is available on high-end TVs and projectors."
+    },
+    {
+        "category": "media.consumption.video",
+        "name": "feh",
+        "status": "decided against",
+        "link": "https://git.finalrewind.org/feh",
+        "language": "",
+        "notes": "X11 image viewer aimed mostly at console users (cit.); with no fancy GUI, it is controlled via commandline arguments and configurable key/mouse actions."
+    },
+    {
+        "category": "media.consumption.video.youtube",
+        "name": "red",
+        "status": "decided against",
+        "link": "https://github.com/keshavbhatt/red",
+        "language": "",
+        "notes": "YouTube desktop client; apparently not open-source"
+    },
+    {
+        "category": "media.consumption.video.youtube",
+        "name": "smtube",
+        "status": "decided against",
+        "link": "https://github.com/smplayer-dev/smtube",
+        "language": "",
+        "notes": "for smplayer - insecure in nixpkgs"
+    },
+    {
+        "category": "media.consumption.video.youtube",
+        "name": "youtube-viewer",
+        "status": "decided against",
+        "link": "https://github.com/trizen/youtube-viewer",
+        "language": "",
+        "notes": "(GTK+) in Perl; requires an API key and a video player (MPV, VLC); prefer apps that do not require an API key"
+    },
+    {
+        "category": "media.consumption.youtube",
+        "name": "clipgrab",
+        "status": "decided against",
+        "link": "https://clipgrab.org/",
+        "language": "",
+        "notes": "A friendly downloader for YouTube and other sites."
+    },
+    {
+        "category": "media.creation.audio.editing",
+        "name": "pulsemixer",
+        "status": "decided against",
+        "link": "https://github.com/GeorgeFilipkin/pulsemixer",
+        "language": "",
+        "notes": "CLI and curses mixer for PulseAudio."
+    },
+    {
+        "category": "media.creation.gif_creation",
+        "name": "gifex",
+        "status": "decided against",
+        "link": "https://github.com/keshavbhatt/gifex",
+        "language": "",
+        "notes": "GIF recorder - appears to be X11-only"
+    },
+    {
+        "category": "media.creation.image.editing_and_management",
+        "name": "PhotoGIMP",
+        "status": "decided against",
+        "link": "https://github.com/Diolinux/PhotoGIMP",
+        "language": "",
+        "notes": "A patch for optimizing GIMP 2.10+ for Adobe Photoshop users."
+    },
+    {
+        "category": "media.creation.specific_platforms",
+        "name": "orange",
+        "status": "decided against",
+        "link": "https://github.com/keshavbhatt/orange",
+        "language": "",
+        "notes": "Soundcloud desktop"
+    },
+    {
+        "category": "messaging.email",
+        "name": "Geary",
+        "status": "decided against",
+        "link": "https://wiki.gnome.org/Apps/Geary",
+        "language": "",
+        "notes": "Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface."
+    },
+    {
+        "category": "messaging.email",
+        "name": "Mutt",
+        "status": "decided against",
+        "link": "http://www.mutt.org/",
+        "language": "",
+        "notes": "A terminal based mail client with vim keybindings and great flexibility and customizability."
+    },
+    {
+        "category": "messaging.email",
+        "name": "offlineimap",
+        "status": "decided against",
+        "link": "https://www.offlineimap.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "messaging.fediverse",
+        "name": "Rainbow Stream",
+        "status": "decided against",
+        "link": "https://github.com/orakaro/rainbowstream",
+        "language": "",
+        "notes": "A smart and nice Twitter client on terminal written in Python."
+    },
+    {
+        "category": "messaging.slack",
+        "name": "ripcord",
+        "status": "decided against",
+        "link": "https://cancel.fm/ripcord/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "messaging.slack",
+        "name": "slack",
+        "status": "decided against",
+        "link": "https://slack.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "messaging.slack",
+        "name": "slack-cli",
+        "status": "decided against",
+        "link": "https://github.com/candrholdings/slack-cli",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "messaging.slack",
+        "name": "slackcat",
+        "status": "decided against",
+        "link": "https://github.com/rlister/slackcat",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "messaging.slack",
+        "name": "slacktee",
+        "status": "decided against",
+        "link": "https://github.com/coursehero/slacktee",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "messaging.unfree",
+        "name": "Skype",
+        "status": "decided against",
+        "link": "https://www.skype.com/en/",
+        "language": "",
+        "notes": "Skype keeps the world talking, for free."
+    },
+    {
+        "category": "system.boot.iso_creation",
+        "name": "etcher",
+        "status": "decided against",
+        "link": "https://www.balena.io/etcher/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.boot.iso_creation",
+        "name": "multibootusb",
+        "status": "decided against",
+        "link": "https://github.com/Death259/multibootusb",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.boot.iso_creation",
+        "name": "unetbootin",
+        "status": "decided against",
+        "link": "https://unetbootin.github.io/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.boot.iso_creation",
+        "name": "ventoy",
+        "status": "decided against",
+        "link": "https://www.ventoy.net/en/index.html",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.debianoid_only",
+        "name": "uktools",
+        "status": "decided against",
+        "link": "https://github.com/usbkey9/uktools",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.input",
+        "name": "screenkey",
+        "status": "decided against",
+        "link": "https://github.com/larsbrinkhoff/screenkey",
+        "language": "",
+        "notes": "screencast tool"
+    },
+    {
+        "category": "system.system_management",
+        "name": "JDiskReport",
+        "status": "decided against",
+        "link": "http://www.jgoodies.com/freeware/jdiskreport/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.system_management",
+        "name": "SysMonTask",
+        "status": "decided against",
+        "link": "https://github.com/KrispyCamel4u/SysMonTask/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.system_management",
+        "name": "cdu",
+        "status": "decided against",
+        "link": "https://sourceforge.net/projects/cdu/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.system_management",
+        "name": "gdmap",
+        "status": "decided against",
+        "link": "https://gdmap.sourceforge.net/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "version_control.visualization",
+        "name": "git.zx2c4.com/cgit/",
+        "status": "decided against",
+        "link": "https://git.zx2c4.com/cgit/",
+        "language": "",
+        "notes": "A hyperfast web frontend for git repositories written in C."
+    },
+    {
+        "category": "web.internet_related.browsers.extensions",
+        "name": "Tile Tabs WE :: Add-ons for Firefox",
+        "status": "decided against",
+        "link": "https://web.archive.org/web/20170821233327/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs-we/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.extensions",
+        "name": "adnauseam.io/",
+        "status": "decided against",
+        "link": "https://adnauseam.io/",
+        "language": "",
+        "notes": "read [Engineering Privacy and Protest: a Case Study of AdNauseam](https://ceur-ws.org/Vol-1873/IWPE17_paper_23.pdf)"
+    },
+    {
+        "category": "web.internet_related.browsers.extensions.adblock",
+        "name": "Ghostery - Privacy Ad Blocker",
+        "status": "decided against",
+        "link": "",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.extensions.reader",
+        "name": "darkreader",
+        "status": "decided against",
+        "link": "https://github.com/darkreader/darkreader",
+        "language": "",
+        "notes": "-"
+    },
+    {
+        "category": "web.internet_related.browsers.extensions.reader",
+        "name": "simplyread",
+        "status": "decided against",
+        "link": "https://njw.name/simplyread/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.extensions.vim.chromium",
+        "name": "wasavi",
+        "status": "decided against",
+        "link": "https://github.com/akahuku/wasavi | https://chrome.google.com/webstore/detail/wasavi/dgogifpkoilgiofhhhodbodcfgomelhe",
+        "language": "",
+        "notes": ")"
+    },
+    {
+        "category": "web.internet_related.browsers.gui.esoteric.nonvim",
+        "name": "epiphany",
+        "status": "decided against",
+        "link": "https://gitlab.gnome.org/GNOME/epiphany",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.gui.esoteric.nonvim",
+        "name": "falkon",
+        "status": "decided against",
+        "link": "https://www.falkon.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.gui.esoteric.nonvim",
+        "name": "lrrh",
+        "status": "decided against",
+        "link": "https://github.com/aarnt/lrrh",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.gui.esoteric.nonvim",
+        "name": "midori",
+        "status": "decided against",
+        "link": "https://github.com/goastian/midori-desktop",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.gui.esoteric.nonvim",
+        "name": "raphael",
+        "status": "decided against",
+        "link": "https://github.com/MidnightBSD/raphael",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.gui.mobile",
+        "name": "bromite",
+        "status": "decided against",
+        "link": "https://www.bromite.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.gui.normie",
+        "name": "chromium",
+        "status": "decided against",
+        "link": "...",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.gui.normie",
+        "name": "thorium",
+        "status": "decided against",
+        "link": "https://thorium.rocks/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.gui.normie",
+        "name": "vivaldi",
+        "status": "decided against",
+        "link": "...",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.ricing.reference_extensions",
+        "name": "RaitaroH/YouTube-DeepDark: Videos should only be watched in the dark. May the dark be kinder on thine eyes. (YouTube dark theme)",
+        "status": "decided against",
+        "link": "https://github.com/RaitaroH/YouTube-DeepDark",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.ricing.userscripting",
+        "name": "firemonkey",
+        "status": "decided against",
+        "link": "https://addons.mozilla.org/en-CA/firefox/addon/firemonkey/",
+        "language": "",
+        "notes": "[guide](https://www.ilovefreesoftware.com/11/windows/internet/plugins/how-to-use-userscripts-userstyles-firemonkey-firefox.html), [review](https://www.ghacks.net/2019/09/10/firemonkey-uses-firefoxs-official-api-for-userscripts-and-userstyles/)"
+    },
+    {
+        "category": "web.internet_related.browsers.ricing.userscripting",
+        "name": "tampermonkey",
+        "status": "decided against",
+        "link": "https://www.tampermonkey.net/",
+        "language": "",
+        "notes": "proprietary license - [fcc article](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/#how-to-install-tampermonkey)"
+    },
+    {
+        "category": "webdev.crawling_scraping_downloading",
+        "name": "Coursaros",
+        "status": "decided against",
+        "link": "https://github.com/SpyridonLaz/Coursaros",
+        "language": "",
+        "notes": "[Download videos and subtitles from edx to your computer easily.](https://github.com/SpyridonLaz/Coursaros)"
+    },
+    {
+        "category": "webdev.crawling_scraping_downloading",
+        "name": "scrapeghost/",
+        "status": "decided against",
+        "link": "https://github.com/jamesturk/scrapeghost/",
+        "language": "",
+        "notes": "extend with other LLMs"
+    },
+    {
+        "category": "webdev.miscellaneous",
+        "name": "dBug",
+        "status": "decided against",
+        "link": "https://github.com/ospinto/dBug",
+        "language": "",
+        "notes": "PHP tool"
+    },
+    {
+        "category": "webdev.multiple",
+        "name": "Shift",
+        "status": "decided against",
+        "link": "https://shift.com/apps/messenger/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.security.firewalls",
+        "name": "Portmaster",
+        "status": "decided against",
+        "link": "https://safing.io/",
+        "language": "",
+        "notes": "Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer's network activity."
+    },
+    {
+        "category": "webdev.ssh_web_interface",
+        "name": "Bastillion",
+        "status": "decided against",
+        "link": "https://www.bastillion.io/",
+        "language": "",
+        "notes": ": Bastillion is an open-source web-based SSH console that centrally manages administrative access to systems."
+    },
+    {
+        "category": "webdev.ssh_web_interface",
+        "name": "Laravel Ssh Web Client",
+        "status": "decided against",
+        "link": "https://github.com/roke22/Laravel-ssh-client",
+        "language": "",
+        "notes": ": Laravel server inventory with ssh web client to connect at server using xterm.js"
+    },
+    {
+        "category": "webdev.ssh_web_interface",
+        "name": "Render",
+        "status": "decided against",
+        "link": "https://render.com/",
+        "language": "",
+        "notes": ": Platform-as-a-service for your apps, websites, and databases using xterm.js to provide a command prompt for user containers and for streaming build and runtime logs. (Freemium)"
+    },
+    {
+        "category": "webdev.ssh_web_interface",
+        "name": "SSH Web Client",
+        "status": "decided against",
+        "link": "https://github.com/roke22/PHP-SSH2-Web-Client",
+        "language": "",
+        "notes": ": SSH Web Client with PHP."
+    },
+    {
+        "category": "webdev.vpn",
+        "name": "ExpressVPN",
+        "status": "decided against",
+        "link": "https://www.expressvpn.com/",
+        "language": "",
+        "notes": "ExpressVPN is the worlds fastest VPN service. It is both safe and reliable to watch and stream movies abroad, or simply access your favourite sites."
+    },
+    {
+        "category": "webdev.vpn",
+        "name": "NordVPN",
+        "status": "decided against",
+        "link": "https://nordvpn.com/",
+        "language": "",
+        "notes": "NordVPN gives you military-grade protection online, and you can access all your favorite sites without restriction."
+    },
+    {
+        "category": "websites.prog_edu",
+        "name": "codeinterview",
+        "status": "decided against",
+        "link": "https://codeinterview.io/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "websites.webdev",
+        "name": "Servo, the parallel browser engine",
+        "status": "decided against",
+        "link": "https://servo.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "websites.webdev",
+        "name": "kill-tabs",
+        "status": "decided against",
+        "link": "https://github.com/sindresorhus/kill-tabs",
+        "language": "",
+        "notes": "Kill all Chrome tabs."
+    },
+    {
+        "category": "console.data.document.json",
+        "name": "gron",
+        "status": "honorable mention",
+        "link": "https://github.com/tomnomnom/gron",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.data.document.markdown",
+        "name": "tmv",
+        "status": "honorable mention",
+        "link": "https://github.com/axiros/terminal_markdown_viewer",
+        "language": "python",
+        "notes": "may have some options missing from glow; revisit after using glow for some time"
+    },
+    {
+        "category": "console.data.document.polyglot",
+        "name": "ansi2html (alt)",
+        "status": "honorable mention",
+        "link": "https://hackage.haskell.org/package/Ansi2Html",
+        "language": "perl",
+        "notes": "add to RosettaProjects; see also https://github.com/theZiz/aha (C), https://metacpan.org/dist/HTML-FromANSI"
+    },
+    {
+        "category": "console.data.document.polyglot",
+        "name": "json2yaml",
+        "status": "honorable mention",
+        "link": "https://github.com/bronze1man/json2yaml",
+        "language": "go",
+        "notes": "add to RosettaProjects"
+    },
+    {
+        "category": "console.data.document.polyglot",
+        "name": "yaml2json",
+        "status": "honorable mention",
+        "link": "https://github.com/bronze1man/yaml2json",
+        "language": "go",
+        "notes": "add to RosettaProjects"
+    },
+    {
+        "category": "console.data.document.slideshow",
+        "name": "mithril-slides",
+        "status": "honorable mention",
+        "link": "https://github.com/wulab/mithril-slides",
+        "language": "",
+        "notes": "A Keynote-inspired presentation app written with Mithril https://mithril.js.org/ - supports embeedding content"
+    },
+    {
+        "category": "console.data.document.tabular",
+        "name": "textql",
+        "status": "honorable mention",
+        "link": "https://github.com/dinedal/textql",
+        "language": "go",
+        "notes": "add to RosettaProjects"
+    },
+    {
+        "category": "console.data.document.tabular",
+        "name": "tsv-utils",
+        "status": "honorable mention",
+        "link": "https://github.com/eBay/tsv-utils",
+        "language": "d",
+        "notes": ""
+    },
+    {
+        "category": "console.development.analysis_refactoring_formatting",
+        "name": "cloc",
+        "status": "honorable mention",
+        "link": "https://github.com/AlDanial/cloc",
+        "language": "perl",
+        "notes": "Count Lines of Code  compare with tokei 0_0"
+    },
+    {
+        "category": "console.development.changelog",
+        "name": "release",
+        "status": "honorable mention",
+        "link": "https://github.com/vercel/release",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.development.task_scripting",
+        "name": "fmake",
+        "status": "honorable mention",
+        "link": "https://github.com/bharatvaj/fmake",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.development.task_scripting",
+        "name": "taskfile",
+        "status": "honorable mention",
+        "link": "https://taskfile.dev/",
+        "language": "go",
+        "notes": "looks really good, but `just` is better"
+    },
+    {
+        "category": "console.devshell",
+        "name": "mise",
+        "status": "honorable mention",
+        "link": "https://github.com/jdx/mise",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.fetch",
+        "name": "archey4",
+        "status": "honorable mention",
+        "link": "https://github.com/HorlogeSkynet/archey4",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.fetch",
+        "name": "bfetch",
+        "status": "honorable mention",
+        "link": "https://github.com/nnbnh/bfetch",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.fetch",
+        "name": "bunnyfetch",
+        "status": "honorable mention",
+        "link": "https://github.com/Rosettea/bunnyfetch",
+        "language": "guile scheme",
+        "notes": ""
+    },
+    {
+        "category": "console.fetch",
+        "name": "fet.sh",
+        "status": "honorable mention",
+        "link": "https://github.com/eepykate/fet.sh",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.fetch",
+        "name": "neofetch",
+        "status": "honorable mention",
+        "link": "https://github.com/dylanaraps/neofetch",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.fetch",
+        "name": "nerdfetch",
+        "status": "honorable mention",
+        "link": "https://codeberg.org/thatonecalculator/nerdfetch",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.fetch",
+        "name": "pfetch",
+        "status": "honorable mention",
+        "link": "https://github.com/dylanaraps/pfetch",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.fetch",
+        "name": "yafetch",
+        "status": "honorable mention",
+        "link": "https://github.com/kira64xyz/yafetch",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.help",
+        "name": "tealdeer",
+        "status": "honorable mention",
+        "link": "https://github.com/dbrgn/tealdeer",
+        "language": "rust",
+        "notes": ""
+    },
+    {
+        "category": "console.help",
+        "name": "tinytldr",
+        "status": "honorable mention",
+        "link": "https://github.com/kovmir/tinytldr",
+        "language": "c",
+        "notes": ""
+    },
+    {
+        "category": "console.illustration.modeling_and_visualization",
+        "name": "ModelioOpenSource/Modelio",
+        "status": "honorable mention",
+        "link": "https://github.com/ModelioOpenSource/Modelio",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.illustration.modeling_and_visualization",
+        "name": "invent.kde.org/sdk/umbrello",
+        "status": "honorable mention",
+        "link": "https://invent.kde.org/sdk/umbrello",
+        "language": "c++ php",
+        "notes": "[apps.kde.org/umbrello/](https://apps.kde.org/umbrello/)"
+    },
+    {
+        "category": "console.illustration.modeling_and_visualization",
+        "name": "umlet/umlet",
+        "status": "honorable mention",
+        "link": "https://github.com/umlet/umlet",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.renaming",
+        "name": "rename",
+        "status": "honorable mention",
+        "link": "https://github.com/pstray/rename",
+        "language": "perl",
+        "notes": "add to RosettaProjects"
+    },
+    {
+        "category": "console.search",
+        "name": "Heatseeker",
+        "status": "honorable mention",
+        "link": "https://github.com/rschmitt/heatseeker",
+        "language": "rust",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "fzy",
+        "status": "honorable mention",
+        "link": "https://github.com/jhawthorn/fzy",
+        "language": "",
+        "notes": "add to RosettaProjects"
+    },
+    {
+        "category": "console.search",
+        "name": "luneta",
+        "status": "honorable mention",
+        "link": "https://github.com/fbeline/luneta",
+        "language": "d",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "pick",
+        "status": "honorable mention",
+        "link": "https://github.com/mptre/pick",
+        "language": "",
+        "notes": "add to RosettaProjects"
+    },
+    {
+        "category": "console.sets.core",
+        "name": "bd",
+        "status": "honorable mention",
+        "link": "https://github.com/vigneshwaranr/bd",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.sets.core",
+        "name": "ikill (could use updating)",
+        "status": "honorable mention",
+        "link": "https://github.com/pombadev/ikill",
+        "language": "rust",
+        "notes": ""
+    },
+    {
+        "category": "console.sets.core",
+        "name": "lsd",
+        "status": "honorable mention",
+        "link": "https://github.com/lsd-rs/lsd",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.sets.core",
+        "name": "pm",
+        "status": "honorable mention",
+        "link": "https://github.com/Angelmmiguel/pm",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.sets.core",
+        "name": "safe-rm",
+        "status": "honorable mention",
+        "link": "https://code.launchpad.net/safe-rm",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.sets.core",
+        "name": "smartcd",
+        "status": "honorable mention",
+        "link": "https://github.com/CodesOfRishi/smartcd",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.sets.core",
+        "name": "trash-cli",
+        "status": "honorable mention",
+        "link": "https://github.com/andreafrancia/trash-cli",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.sets.core",
+        "name": "tree",
+        "status": "honorable mention",
+        "link": "https://gitlab.com/OldManProgrammer/unix-tree",
+        "language": "",
+        "notes": "use in RosettaProjects"
+    },
+    {
+        "category": "console.sets.core",
+        "name": "z",
+        "status": "honorable mention",
+        "link": "https://github.com/rupa/z",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.sets.core",
+        "name": "z.lua",
+        "status": "honorable mention",
+        "link": "https://github.com/skywind3000/z.lua",
+        "language": "",
+        "notes": "add to RosettaProjects"
+    },
+    {
+        "category": "console.sleep_and_eyes",
+        "name": "Workrave",
+        "status": "honorable mention",
+        "link": "http://www.workrave.org/ | https://github.com/rcaelers/workrave",
+        "language": "c++",
+        "notes": "A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI) - an impressive tool, but I prefer a daemon / cli, rather than a GUI"
+    },
+    {
+        "category": "console.sleep_and_eyes",
+        "name": "resto",
+        "status": "honorable mention",
+        "link": "https://github.com/Justyna-JustCode/Resto",
+        "language": "c++, qml",
+        "notes": ""
+    },
+    {
+        "category": "console.sleep_and_eyes",
+        "name": "rsibreak",
+        "status": "honorable mention",
+        "link": "https://apps.kde.org/rsibreak/",
+        "language": "c++",
+        "notes": ""
+    },
+    {
+        "category": "console.snippets",
+        "name": "the-way",
+        "status": "honorable mention",
+        "link": "https://github.com/out-of-cheese-error/the-way",
+        "language": "",
+        "notes": "really looks excellent and ins inspired by pets, but pets is more actively maintained; also seels to only support x11 (via xclip)"
+    },
+    {
+        "category": "console.translation",
+        "name": "gdict",
+        "status": "honorable mention",
+        "link": "https://github.com/Lodobo/gdict",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.bar.widgets",
+        "name": "SwayOSD",
+        "status": "honorable mention",
+        "link": "https://github.com/ErikReider/SwayOSD",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.bar.widgets",
+        "name": "mixxc",
+        "status": "honorable mention",
+        "link": "https://github.com/Elvyria/Mixxc",
+        "language": "",
+        "notes": "minimalistic volume mixer"
+    },
+    {
+        "category": "desktop.compositor",
+        "name": "kiwmi",
+        "status": "honorable mention",
+        "link": "https://github.com/buffet/kiwmi",
+        "language": "",
+        "notes": "rejected in favor of the fork"
+    },
+    {
+        "category": "desktop.launcher.gui.filesearch",
+        "name": "catfish",
+        "status": "honorable mention",
+        "link": "https://docs.xfce.org/apps/catfish/start",
+        "language": "",
+        "notes": "Catfish is a versatile file searching tool."
+    },
+    {
+        "category": "desktop.launcher.gui.filesearch",
+        "name": "fsearch",
+        "status": "honorable mention",
+        "link": "https://github.com/cboxdoerfer/fsearch",
+        "language": "",
+        "notes": "A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support."
+    },
+    {
+        "category": "desktop.lockscreen",
+        "name": "swaylock",
+        "status": "honorable mention",
+        "link": "https://github.com/swaywm/swaylock",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.lockscreen",
+        "name": "swaylock-effects",
+        "status": "honorable mention",
+        "link": "https://github.com/mortie/swaylock-effects",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.openers",
+        "name": "gof",
+        "status": "honorable mention",
+        "link": "https://github.com/mattn/gof",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.screenshot",
+        "name": "grimblast",
+        "status": "honorable mention",
+        "link": "https://github.com/hyprwm/contrib/tree/main/grimblast",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "desktop.screenshot.annotation",
+        "name": "swappy",
+        "status": "honorable mention",
+        "link": "https://github.com/jtheoof/swappy",
+        "language": "",
+        "notes": "A Wayland native snapshot editing tool, inspired by Snappy on macOS - good enough to use, but using satty for now"
+    },
+    {
+        "category": "development.documentation.browsers",
+        "name": "rtfm",
+        "status": "honorable mention",
+        "link": "https://github.com/hugopl/rtfm/",
+        "language": "crystal",
+        "notes": "no support for keyboard shortcuts"
+    },
+    {
+        "category": "development.editor.pdf",
+        "name": "pdfslicer",
+        "status": "honorable mention",
+        "link": "https://junrrein.github.io/pdfslicer/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.backup",
+        "name": "borg",
+        "status": "honorable mention",
+        "link": "https://github.com/borgbackup",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.backup",
+        "name": "bup",
+        "status": "honorable mention",
+        "link": "https://github.com/bup/bup",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.backup",
+        "name": "bupstash",
+        "status": "honorable mention",
+        "link": "https://github.com/andrewchambers/bupstash",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.backup",
+        "name": "duplicity",
+        "status": "honorable mention",
+        "link": "https://gitlab.com/duplicity/duplicity",
+        "language": "",
+        "notes": "+ [duply](https://github.com/Oefenweb/duply)"
+    },
+    {
+        "category": "file_management.backup",
+        "name": "restic",
+        "status": "honorable mention",
+        "link": "https://github.com/restic/restic",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.backup",
+        "name": "rsnapshot",
+        "status": "honorable mention",
+        "link": "https://github.com/rsnapshot/rsnapshot",
+        "language": "perl",
+        "notes": "GUI for rsync"
+    },
+    {
+        "category": "file_management.backup",
+        "name": "vorta",
+        "status": "honorable mention",
+        "link": "https://vorta.borgbase.com/",
+        "language": "",
+        "notes": "GUI for Borg"
+    },
+    {
+        "category": "file_management.download",
+        "name": "kget",
+        "status": "honorable mention",
+        "link": "https://apps.kde.org/kget/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.download",
+        "name": "motrix",
+        "status": "honorable mention",
+        "link": "https://motrix.app/",
+        "language": "",
+        "notes": "looks great (javascript)"
+    },
+    {
+        "category": "file_management.download",
+        "name": "xdm",
+        "status": "honorable mention",
+        "link": "https://github.com/subhra74/xdm",
+        "language": "c#",
+        "notes": "([xtremedownloadmanager](https://xtremedownloadmanager.com/))"
+    },
+    {
+        "category": "file_management.editor_based",
+        "name": "massren",
+        "status": "honorable mention",
+        "link": "https://github.com/laurent22/massren",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.editor_based",
+        "name": "moove",
+        "status": "honorable mention",
+        "link": "https://github.com/urin/moove",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.editor_based",
+        "name": "vimv",
+        "status": "honorable mention",
+        "link": "https://github.com/dmulholl/vimv",
+        "language": "rust",
+        "notes": ""
+    },
+    {
+        "category": "file_management.hooks_and_watchers",
+        "name": "chokidar-cli",
+        "status": "honorable mention",
+        "link": "https://github.com/JoseGoncalves/chokidar-cli",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.torrent",
+        "name": "Fragments",
+        "status": "honorable mention",
+        "link": "https://apps.gnome.org/app/de.haeckerfelix.Fragments/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.torrent",
+        "name": "ktorrent",
+        "status": "honorable mention",
+        "link": "https://www.kde.org/applications/internet/ktorrent/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.torrent",
+        "name": "qBittorrent-Enhanced-Edition",
+        "status": "honorable mention",
+        "link": "https://github.com/c0re100/qBittorrent-Enhanced-Edition",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.torrent",
+        "name": "qbittorrent",
+        "status": "honorable mention",
+        "link": "https://www.qbittorrent.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.tui",
+        "name": "felix",
+        "status": "honorable mention",
+        "link": "https://github.com/kyoheiu/felix",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.tui",
+        "name": "fm",
+        "status": "honorable mention",
+        "link": "https://github.com/mistakenelf/fm",
+        "language": "",
+        "notes": "built on a high-quality golang stack; nice interface; one of the next-best after superfile, xplr, yazi, and nnn"
+    },
+    {
+        "category": "file_management.tui",
+        "name": "fman",
+        "status": "honorable mention",
+        "link": "https://github.com/nore-dev/fman",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.tui",
+        "name": "hunter",
+        "status": "honorable mention",
+        "link": "https://github.com/rabite0/hunter",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.tui",
+        "name": "joshuto",
+        "status": "honorable mention",
+        "link": "https://github.com/kamiyaa/joshuto",
+        "language": "",
+        "notes": "clean and simple interface"
+    },
+    {
+        "category": "file_management.tui",
+        "name": "lf",
+        "status": "honorable mention",
+        "link": "https://github.com/gokcehan/lf",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.tui",
+        "name": "mc",
+        "status": "honorable mention",
+        "link": "https://www.midnight-commander.org/",
+        "language": "c",
+        "notes": ""
+    },
+    {
+        "category": "file_management.tui",
+        "name": "ranger",
+        "status": "honorable mention",
+        "link": "https://github.com/ranger/ranger",
+        "language": "",
+        "notes": "one of the more popular options; extensible in Python, which is nice (see https://github.com/bulletmark/edir)"
+    },
+    {
+        "category": "file_management.tui",
+        "name": "rnr",
+        "status": "honorable mention",
+        "link": "https://github.com/bugnano/rnr",
+        "language": "",
+        "notes": "especially good for copying"
+    },
+    {
+        "category": "file_management.tui",
+        "name": "twf",
+        "status": "honorable mention",
+        "link": "https://github.com/wvanlint/twf",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "file_management.tui",
+        "name": "vifm",
+        "status": "honorable mention",
+        "link": "https://github.com/vifm/vifm",
+        "language": "",
+        "notes": "one of the very best vim-like file managers; possibly next-best in this list after superfile, xplr, yazi, and nnn"
+    },
+    {
+        "category": "gui.reading.rss",
+        "name": "Akregator",
+        "status": "honorable mention",
+        "link": "https://apps.kde.org/akregator/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.audio.console",
+        "name": "mocp",
+        "status": "honorable mention",
+        "link": "https://github.com/bartekbrak/mocp",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Audacious",
+        "status": "honorable mention",
+        "link": "https://audacious-media-player.org/",
+        "language": "",
+        "notes": "An open source audio player that plays your music how you want it, without stealing away your computer's resources from other tasks."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Clapper",
+        "status": "honorable mention",
+        "link": "https://rafostar.github.io/clapper/",
+        "language": "",
+        "notes": "A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Clementine",
+        "status": "honorable mention",
+        "link": "https://www.clementine-player.org/",
+        "language": "c++",
+        "notes": "Play numerous lossy and lossless audio formats."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "DeaDBeeF",
+        "status": "honorable mention",
+        "link": "https://deadbeef.sourceforge.io/",
+        "language": "",
+        "notes": "DeaDBeeF is a modular audio player for GNU/Linux, BSD, OpenSolaris, macOS, and other UNIX-like systems. !!!"
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Deepin Music",
+        "status": "honorable mention",
+        "link": "https://www.deepin.org/en/original/deepin-music/",
+        "language": "",
+        "notes": "An application, developed by Deepin Technology Team, which focused on local music playing."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Elisa",
+        "status": "honorable mention",
+        "link": "https://elisa.kde.org/",
+        "language": "",
+        "notes": "Elisa is a music player developed by the KDE community that strives to be simple and nice to use. - full color theming possible"
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Jellyfin Media Player",
+        "status": "honorable mention",
+        "link": "https://github.com/jellyfin/jellyfin-media-player",
+        "language": "",
+        "notes": "Jellyfin Desktop Client based on Plex Media Player."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Lollypop",
+        "status": "honorable mention",
+        "link": "https://wiki.gnome.org/Apps/Lollypop",
+        "language": "",
+        "notes": "A GNOME music playing application."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "MPlayer",
+        "status": "honorable mention",
+        "link": "http://www.mplayerhq.hu/design7/news.html",
+        "language": "",
+        "notes": "MPlayer is a movie player which runs on many systems, play any kind of videos."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Museeks",
+        "status": "honorable mention",
+        "link": "https://museeks.io/",
+        "language": "",
+        "notes": "A simple, clean and cross-platform music player."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Quod Libet",
+        "status": "honorable mention",
+        "link": "https://quodlibet.readthedocs.io/",
+        "language": "",
+        "notes": "GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Rhythmbox",
+        "status": "honorable mention",
+        "link": "https://wiki.gnome.org/Apps/Rhythmbox",
+        "language": "",
+        "notes": "Music player from GNOME."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "Strawberry",
+        "status": "honorable mention",
+        "link": "https://www.strawberrymusicplayer.org/",
+        "language": "",
+        "notes": "Strawberry is a fork of Clementine aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "amberol",
+        "status": "honorable mention",
+        "link": "https://gitlab.gnome.org/World/amberol",
+        "language": "",
+        "notes": "A small and simple sound and music player that is well integrated with GNOME."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "musicpod",
+        "status": "honorable mention",
+        "link": "https://github.com/ubuntu-flutter-community/musicpod",
+        "language": "flutter",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "sonata",
+        "status": "honorable mention",
+        "link": "https://github.com/multani/sonata",
+        "language": "",
+        "notes": "A Music player that is designed to be an elegant and intuitive interface for your music collection via the Music Player Daemon (MPD)."
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "swingmusic",
+        "status": "honorable mention",
+        "link": "https://github.com/swing-opensource/swingmusic",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.audio.gui",
+        "name": "tauon",
+        "status": "honorable mention",
+        "link": "https://tauonmusicbox.rocks/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.audio.podcast_and_audiobook",
+        "name": "Gpodder",
+        "status": "honorable mention",
+        "link": "https://gpodder.github.io/",
+        "language": "",
+        "notes": "Media aggregator and podcast client. "
+    },
+    {
+        "category": "media.consumption.audio.podcast_and_audiobook",
+        "name": "Kasts",
+        "status": "honorable mention",
+        "link": "https://apps.kde.org/kasts/",
+        "language": "",
+        "notes": "Feature-rich, convergent podcast client for Linux Desktop and Mobile."
+    },
+    {
+        "category": "media.consumption.audio.podcast_and_audiobook",
+        "name": "Vocal",
+        "status": "honorable mention",
+        "link": "https://vocalproject.net/",
+        "language": "",
+        "notes": "Podcast client for the modern desktop. (currently being re-written)"
+    },
+    {
+        "category": "media.consumption.audio.podcast_and_audiobook",
+        "name": "gnome-podcasts",
+        "status": "honorable mention",
+        "link": "https://gitlab.gnome.org/World/podcasts",
+        "language": "rust gtk",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.image",
+        "name": "imv",
+        "status": "honorable mention",
+        "link": "https://git.sr.ht/~exec64/imv",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "media.consumption.video",
+        "name": "Haruna",
+        "status": "honorable mention",
+        "link": "https://haruna.kde.org/",
+        "language": "",
+        "notes": "Open source video player built with Qt/QML and libmpv."
+    },
+    {
+        "category": "media.consumption.video",
+        "name": "smplayer",
+        "status": "honorable mention",
+        "link": "https://github.com/smplayer-dev/smplayer",
+        "language": "",
+        "notes": "[site](https://www.smplayer.info/) - Free Media Player with built-in codecs. Play all audio and video formats."
+    },
+    {
+        "category": "media.consumption.video.youtube.music",
+        "name": "AudioTube",
+        "status": "honorable mention",
+        "link": "https://apps.kde.org/audiotube/",
+        "language": "",
+        "notes": "Feature-rich YouTube Music client for KDE, built with Kirigami."
+    },
+    {
+        "category": "media.consumption.youtube",
+        "name": "video-downloader",
+        "status": "honorable mention",
+        "link": "https://github.com/Unrud/video-downloader",
+        "language": "",
+        "notes": "(Gnome GUI) Download videos from websites like YouTube and many others (based on yt-dlp) (GUI) "
+    },
+    {
+        "category": "media.creation.audio",
+        "name": "Soundconverter",
+        "status": "honorable mention",
+        "link": "http://soundconverter.org/",
+        "language": "",
+        "notes": "Leading audio file converter. Aims to be simple to use, and very fast."
+    },
+    {
+        "category": "media.creation.audio.file_tagging",
+        "name": "Kid3",
+        "status": "honorable mention",
+        "link": "https://kid3.kde.org/",
+        "language": "",
+        "notes": "Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album. "
+    },
+    {
+        "category": "media.creation.camera",
+        "name": "Kamoso",
+        "status": "honorable mention",
+        "link": "https://apps.kde.org/kamoso/",
+        "language": "",
+        "notes": "Kamoso is a simple and friendly program to use your camera. Use it to take pictures and make videos to share."
+    },
+    {
+        "category": "media.creation.image.editing_and_management",
+        "name": "Darktable",
+        "status": "honorable mention",
+        "link": "https://www.darktable.org/",
+        "language": "",
+        "notes": "Darktable is an open source photography workflow application and RAW developer. "
+    },
+    {
+        "category": "media.creation.image.editing_and_management",
+        "name": "Digikam",
+        "status": "honorable mention",
+        "link": "https://www.digikam.org/",
+        "language": "",
+        "notes": "DigiKam is an advanced digital photo management application for Linux."
+    },
+    {
+        "category": "media.creation.image.vector",
+        "name": "Karbon",
+        "status": "honorable mention",
+        "link": "https://www.calligra.org/karbon/",
+        "language": "",
+        "notes": "An open source vector drawing program."
+    },
+    {
+        "category": "media.music.spotify.gui",
+        "name": "Spot",
+        "status": "honorable mention",
+        "link": "https://github.com/xou816/spot",
+        "language": "rust gtk",
+        "notes": "Native Spotify client for the GNOME desktop."
+    },
+    {
+        "category": "media.video.editing",
+        "name": "OpenShot",
+        "status": "honorable mention",
+        "link": "https://www.openshot.org/",
+        "language": "",
+        "notes": "OpenShot is a free, simple-to-use, feature-rich video editor for Linux. https://github.com/OpenShot/openshot-qt"
+    },
+    {
+        "category": "media.video.editing",
+        "name": "Pitivi",
+        "status": "honorable mention",
+        "link": "http://www.pitivi.org/",
+        "language": "python gnome",
+        "notes": "A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community."
+    },
+    {
+        "category": "media.video.editing",
+        "name": "Shotcut",
+        "status": "honorable mention",
+        "link": "https://github.com/mltframework/shotcut",
+        "language": "c++ qt",
+        "notes": "https://www.shotcut.org/ Shotcut is a free, open source, cross-platform video editor with support for hundreds of audio and video formats and codecs and a sleek, intuitive interface."
+    },
+    {
+        "category": "media.video.editing",
+        "name": "openshot",
+        "status": "honorable mention",
+        "link": "",
+        "language": "c++ qt",
+        "notes": "an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world"
+    },
+    {
+        "category": "media.video.editing",
+        "name": "plumber",
+        "status": "honorable mention",
+        "link": "https://github.com/keshavbhatt/plumber",
+        "language": "",
+        "notes": "video editor"
+    },
+    {
+        "category": "messaging.discord",
+        "name": "ripcord",
+        "status": "honorable mention",
+        "link": "https://cancel.fm/ripcord/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "messaging.matrix",
+        "name": "NeoChat",
+        "status": "honorable mention",
+        "link": "https://apps.kde.org/neochat/",
+        "language": "",
+        "notes": "NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol."
+    },
+    {
+        "category": "system.security_cryptography_etc",
+        "name": "Secrets",
+        "status": "honorable mention",
+        "link": "https://apps.gnome.org/Secrets/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.security_cryptography_etc",
+        "name": "SpicyPass",
+        "status": "honorable mention",
+        "link": "https://github.com/JFreegman/SpicyPass",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.security_cryptography_etc",
+        "name": "keepassxc",
+        "status": "honorable mention",
+        "link": "https://github.com/keepassxreboot/keepassxc",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.security_cryptography_etc",
+        "name": "keeweb",
+        "status": "honorable mention",
+        "link": "https://keeweb.info/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.security_cryptography_etc",
+        "name": "keydex",
+        "status": "honorable mention",
+        "link": "https://github.com/shikaan/keydex",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.security_cryptography_etc",
+        "name": "needs work",
+        "status": "honorable mention",
+        "link": "https://github.com/biox/pa",
+        "language": "",
+        "notes": "worth reading"
+    },
+    {
+        "category": "system.system_management",
+        "name": "Baobab",
+        "status": "honorable mention",
+        "link": "https://wiki.gnome.org/Apps/DiskUsageAnalyzer",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.system_management",
+        "name": "Filelight",
+        "status": "honorable mention",
+        "link": "https://apps.kde.org/filelight/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "system.system_management",
+        "name": "dfc",
+        "status": "honorable mention",
+        "link": "https://github.com/rolinh/dfc",
+        "language": "c",
+        "notes": ""
+    },
+    {
+        "category": "system.system_management",
+        "name": "diskus",
+        "status": "honorable mention",
+        "link": "https://github.com/sharkdp/diskus",
+        "language": "rust",
+        "notes": ""
+    },
+    {
+        "category": "system.system_management",
+        "name": "tdu",
+        "status": "honorable mention",
+        "link": "https://github.com/josephpaul0/tdu",
+        "language": "go",
+        "notes": ""
+    },
+    {
+        "category": "system.system_management",
+        "name": "tin-summer",
+        "status": "honorable mention",
+        "link": "https://github.com/vmchale/tin-summer",
+        "language": "rust",
+        "notes": ""
+    },
+    {
+        "category": "version_control.commitmsg_and_versioning",
+        "name": "git-cz",
+        "status": "honorable mention",
+        "link": "https://github.com/streamich/git-cz",
+        "language": "",
+        "notes": "Semantic Git commits."
+    },
+    {
+        "category": "version_control.commitmsg_and_versioning",
+        "name": "node-semantic-git-commit-cli",
+        "status": "honorable mention",
+        "link": "https://github.com/JPeer264/node-semantic-git-commit-cli",
+        "language": "",
+        "notes": "Ensure semantic commits messages. With emoji support. - supports per-project rules"
+    },
+    {
+        "category": "version_control.gitignore",
+        "name": "add-gitignore",
+        "status": "honorable mention",
+        "link": "https://github.com/TejasQ/add-gitignore",
+        "language": "",
+        "notes": "An interactive CLI that generates a .gitignore for your project based on your needs. -> [nectar.js.org/,](https://nectar.js.org/)[pkg,](https://github.com/vercel/pkg,)[link](https://stackoverflow.com/questions/70662886/how-to-compile-node-js-to-binary-release-with-native-modules) "
+    },
+    {
+        "category": "version_control.gitignore",
+        "name": "gig",
+        "status": "honorable mention",
+        "link": "https://github.com/shihanng/gig",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "version_control.gui",
+        "name": "GitCola",
+        "status": "honorable mention",
+        "link": "https://git-cola.github.io/",
+        "language": "python qt",
+        "notes": "attractive and with extensive keyboard shortcuts"
+    },
+    {
+        "category": "version_control.gui",
+        "name": "gitahead",
+        "status": "honorable mention",
+        "link": "https://github.com/gitahead/gitahead",
+        "language": "c++, lua",
+        "notes": "continued by gittyup"
+    },
+    {
+        "category": "version_control.gui",
+        "name": "gitbreeze",
+        "status": "honorable mention",
+        "link": "https://gitbreeze.dev/",
+        "language": "",
+        "notes": "Vershd is the free for personal use effortless Git GUI for Windows, Mac, & Linux. - not FOSS, but interesting (Python)"
+    },
+    {
+        "category": "version_control.gui",
+        "name": "gitg",
+        "status": "honorable mention",
+        "link": "https://wiki.gnome.org/Apps/Gitg/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "version_control.gui",
+        "name": "rabbitvcs",
+        "status": "honorable mention",
+        "link": "https://github.com/rabbitvcs/rabbitvcs",
+        "language": "",
+        "notes": "[Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use."
+    },
+    {
+        "category": "version_control.hooks",
+        "name": "husky",
+        "status": "honorable mention",
+        "link": "https://github.com/typicode/husky",
+        "language": "",
+        "notes": "[Husky - Git hooks](https://typicode.github.io/husky/#/)"
+    },
+    {
+        "category": "version_control.hooks",
+        "name": "overcommit",
+        "status": "honorable mention",
+        "link": "https://github.com/sds/overcommit",
+        "language": "",
+        "notes": "A fully configurable and extendable Git hook manager - looks good, just need to compare with lefthook and pre-commit"
+    },
+    {
+        "category": "version_control.qol",
+        "name": "npmjs.com/package/rebase-editor",
+        "status": "honorable mention",
+        "link": "https://www.npmjs.com/package/rebase-editor",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.extensions.vim.ecumenical",
+        "name": "Vimmatic",
+        "status": "honorable mention",
+        "link": "https://github.com/ueokande/vimmatic",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.extensions.vim.ecumenical",
+        "name": "vimium",
+        "status": "honorable mention",
+        "link": "https://vimium.github.io/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.extensions.vim.ecumenical",
+        "name": "vimium-c",
+        "status": "honorable mention",
+        "link": "https://github.com/gdh1995/vimium-c",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.extensions.vim.firefox",
+        "name": "VimFX",
+        "status": "honorable mention",
+        "link": "https://github.com/akhodakivskiy/VimFx",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "web.internet_related.browsers.extensions.vim.firefox",
+        "name": "tridactyl",
+        "status": "honorable mention",
+        "link": "https://tridactyl.xyz/",
+        "language": "",
+        "notes": "[tridactyl/tridactyl](https://github.com/tridactyl/tridactyl)"
+    },
+    {
+        "category": "webdev.messaging.email.gui",
+        "name": "Mailspring",
+        "status": "honorable mention",
+        "link": "https://getmailspring.com/",
+        "language": "",
+        "notes": "(freemium) A beautiful, fast and maintained fork of Nylas Mail ([dead](https://github.com/nylas/nylas-mail)) by one of the original authors."
+    },
+    {
+        "category": "webdev.messaging.email.gui",
+        "name": "Thunderbird",
+        "status": "honorable mention",
+        "link": "https://www.thunderbird.net/en-US/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.messaging.email.gui",
+        "name": "Trojita",
+        "status": "honorable mention",
+        "link": "https://apps.kde.org/trojita/",
+        "language": "",
+        "notes": "A super fast desktop email client for Linux."
+    },
+    {
+        "category": "webdev.messaging.email.gui",
+        "name": "claws-mail",
+        "status": "honorable mention",
+        "link": "https://www.claws-mail.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "webdev.multiple",
+        "name": "Choqok",
+        "status": "honorable mention",
+        "link": "https://apps.kde.org/choqok/",
+        "language": "",
+        "notes": "Choqok is a Qt5 client for Twitter, GNU Social, Friendica and Pump.IO."
+    }
+]

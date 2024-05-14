@@ -21,6 +21,8 @@
 
 ## Meta
 
+* [file watching tools](https://anarc.at/blog/2019-11-20-file-monitoring-tools/)
+* [ai](https://theresanaiforthat.com)
 * [console.dev](https://console.dev/)
 * $$$$$ The New Stack
 * → look at KDE Apps (and Gnome and [...](https://www.xfce.org/projects)

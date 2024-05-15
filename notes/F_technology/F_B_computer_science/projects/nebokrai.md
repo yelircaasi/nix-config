@@ -1,6 +1,6 @@
-# Nebokrai
+# Nebokrai TODO: CLEANUP
 
-## Design and Development Notes
+## Design and Development Notes TODO: CLEANUP
 
 * use the concept of satisfiability -> [libsolv](https://github.com/openSUSE/libsolv)
 * → make nebokrai usable as a plugin/integration for smos?
@@ -15,7 +15,7 @@
 * learn about plugin architecture - neovim, qutebrowser, anki, qtile, xplr, emacs, awesome, hilbish, vim, wezterm, kitty, other lua-configurable apps, etc
 * name ideas: teclado, accordo, keycritic
 
-### Discord Discussion
+### Discord Discussion TODO: CLEANUP
 
 * ( ) [discord.com/channels/834325286664929280/877666474888675368/1222613062796705862](https://discord.com/channels/834325286664929280/877666474888675368/1222613062796705862)
 Can I workshop an idea with you people? Seems like as good a place as any
@@ -152,9 +152,9 @@ Maybe it’s just that I don’t know enough nix
 yelircaasi — 27/03/2024 20:19
 I'm certainly not pretending to be an expert. Just an amateur skilled in the art of ethical plagiarism
 
-## Notes to Sort
+## Notes to Sort TODO: CLEANUP
 
-### Overall Notes - Sort
+### Overall Notes - Sort TODO: CLEANUP
 
 * make signal-based or matrix-based apps for sending links to myself without email or notion → or use email client? XMPP, Matrix, SMTP, POP3, IMAP, IRC
 * CLI “Digital Assistant”
@@ -274,7 +274,7 @@ Regardless of which option you choose, it's important to make sure that you keep
   * routines, projects, and settings as input, schedule & summary statistics as output
   * schedule + tracking as input → log and performance metrics as output
 
-### Planning
+### Planning TODO: CLEANUP
 
 * Planning Features
   * day maximum (from calendar) and rollover when this max is exceeded
@@ -283,7 +283,7 @@ Regardless of which option you choose, it's important to make sure that you keep
   * Planning Algorithm (Vanilla):
         1. get all tasks (via roadmaps
 
-### Tasks
+### Tasks TODO: CLEANUP
 
 * Task definition entry points:
   * nvim
@@ -294,7 +294,7 @@ Regardless of which option you choose, it's important to make sure that you keep
   * from project editing
   * manual add
 
-### Scheduling
+### Scheduling TODO: CLEANUP
 
 calendar is direct parent of schedules, containing appointments and day     parameters -> calendar folder containing a file for each day
 
@@ -427,7 +427,7 @@ adhoc is counterpart to plan, containing tasks (but one-off, non-derivable) -> a
 * ( ) impossible: immovable on top of immovable
 * ( ) [ ]
 
-### Scheduler Notes
+### Scheduler Notes TODO: CLEANUP
 
 Scheduler
 
@@ -446,7 +446,7 @@ Scheduler
 * ( ) [teamdoapp.com/inspiration/increase-productivity-with-effective-task-scheduling/](https://teamdoapp.com/inspiration/increase-productivity-with-effective-task-scheduling/)
 * ( ) [Machine learning and optimization for production rescheduling in Industry 4.0](https://link.springer.com/article/10.1007/s00170-020-05850-5)
 
-### Entries
+### Entries TODO: CLEANUP
 
 * Ways to add an entry
         1. from calendar
@@ -461,7 +461,7 @@ Scheduler
   * from AdHoc, from adhoc file
   * from Routines, from routines file
 
-### Planning and Scheduling (shared)
+### Planning and Scheduling (shared) TODO: CLEANUP
 
 * Project and Task Dependency Logic
   * use only `.after` attribute; `.before` superfluous
@@ -486,7 +486,7 @@ Scheduler
 * ( ) rollover required (with priorities)
 * ( ) with dependencies
 
-### Tracking
+### Tracking TODO: CLEANUP
 
 * Habits to track:
   * all foods (with times)
@@ -552,7 +552,7 @@ Scheduler
 * ( ) [pulse](https://github.com/creativecreature/pulse) like a fitness tracker for your coding sessions
 * (5) [node-did](https://github.com/chrisallenlane/node-did) - maybe fork and update, or better yet, port to another language
 
-### Sync, Multi-Device, Etc
+### Sync, Multi-Device, Etc TODO: CLEANUP
 
 * sync
   * preferred method: manual sync
@@ -583,7 +583,7 @@ Scheduler
         5. writing a tracked norg file results in pushing tasks back to the taskwarrior database and a sync with the server
         6. editing elsewhere triggers a sync with Notion; pulling from another app triggers a sync pulling from Notion, with optional manual trigger to sync with Notion
 
-### Signal Integration
+### Signal Integration TODO: CLEANUP
 
 * Signal module:
 
@@ -599,7 +599,7 @@ Scheduler
     4. display (upon query) some (subset of) roadmap, plan, task, schedule, etc.
     5. show tracker information: streaks, percentage, habit strength, progress toward goals, …
 
-### To Sort
+### To Sort TODO: CLEANUP
 
 * distinguish between naive plan and calendar-adjusted plan
 * Add desirability -> eating frogs idea
@@ -617,7 +617,7 @@ Scheduler
 * tracking: collect texting statistics
 * self-daily: presentation about yesterday and plans for today
 
-### Old Notes
+### Old Notes TODO: CLEANUP
 
 * old: Entity Types
   * roadmap: a 'master plan' for some area such as "Rust programing language" or "muscular flexibility" involving multiple steps or projects
@@ -630,8 +630,8 @@ Scheduler
 ```python
 
         class AdjustmentType(Enum):
-            AUTO = 0  # methods figure it out, based on priority and properties
-            CLIP = 1  # higher-priority entry takes precedence and lower-priority activity makes way
+            AUTO = 0  # methods figure it out, based on priority and properties TODO: CLEANUP
+            CLIP = 1  # higher-priority entry takes precedence and lower-priority activity makes way TODO: CLEANUP
             SHIFT = 2  #
             COMPRESS = 3  #
             COMPROMISE = 4  #
@@ -683,7 +683,7 @@ Scheduler
 
     which cmoponents does my system need? what is their relationship to each other?
 
-### Features
+### Features TODO: CLEANUP
 
 * ( ) Gantt chart (from Roadmaps spreadsheet) → example: [task-gantt](https://github.com/8ware/task-gantt)
   * Features
@@ -731,7 +731,7 @@ Scheduler
   * Features
 * ( ) [syncthing.net/](https://syncthing.net/)
 
-### Roadmap
+### Roadmap TODO: CLEANUP
 
 * Become intimately familiar with the ins and outs of taskwarrior
     1. read the docs
@@ -895,14 +895,14 @@ Scheduler
 * ( ) Read [hamberg.no/gtd,](https://hamberg.no/gtd,) [gettingthingsdone.com/what-is-gtd/,](https://gettingthingsdone.com/what-is-gtd/,) [en.wikipedia.org/wiki/Getting_Things_Done](https://en.wikipedia.org/wiki/Getting_Things_Done)
 * ( ) Map out [structure of system](https://www.notion.so/Design-and-Architecture-Notes-1a0633919e2e45838e3794e4aad4bee4?pvs=21)
 
-## Potential Software Dependencies/ Integrations
+## Potential Software Dependencies/ Integrations TODO: CLEANUP
 
 * (1) brick, optparse-applicative, refined, aeson, aeson-schema -> (2) [quicktype](https://github.com/glideapps/quicktype) $$$$$$$$$ [site](https://app.quicktype.io/) for aeson
 * (1) [nikita-volkov.github.io/refined/](https://nikita-volkov.github.io/refined/)
 * (2) [srid/emanote](https://github.com/srid/emanote) $$$
 * (3) inthe.am
 
-## Inspirations
+## Inspirations TODO: CLEANUP
 
 * (1) [docs.smos.online/](https://docs.smos.online/) $$$$$$$$$ [NorfairKing/smos](https://github.com/NorfairKing/smos)
 * (1) [Intray: An Inbox system](https://intray.cs-syd.eu/) [github](https://github.com/NorfairKing/intray)
@@ -910,16 +910,16 @@ Scheduler
 * (1) [Super Productivity – a to do list to get your head free | Super Productivity](https://super-productivity.com/) [super-productivity](https://super-productivity.com/)  [super-productivity](https://super-productivity.com/) To Do List / Time Tracker with Jira Integration
 * (3) [Q1CHENL/todoism](https://github.com/Q1CHENL/todoism)
 
-## Relevant Software by Category
+## Relevant Software by Category TODO: CLEANUP
 
-### General / Mixed-Category Projects
+### General / Mixed-Category Projects TODO: CLEANUP
 
 * ( ) [Encrypted to-do list, habit and mood tracker, journaling and notes app | Lunatask](https://lunatask.app/)
 * ( ) [openproject](https://github.com/opf/openproject)
 
-### Algorithmic Considerations
+### Algorithmic Considerations TODO: CLEANUP
 
-#### Schedule Generation
+#### Schedule Generation TODO: CLEANUP
 
 * ( ) [->](https://github.com/topics/timetable-generator)
 * ( ) [My Day Is Being Planned by an Algorithm](https://dev.to/mortenolsen/my-day-is-being-planned-by-an-algorithm-46ja) [demo site](https://mortenolsen.pro/bob-the-algorithm/) [source code](https://github.com/morten-olsen/bob-the-algorithm)
@@ -934,7 +934,7 @@ Scheduler
 * ( ) [](https://stackoverflow.com/questions/2177836/algorithm-for-creating-a-school-timetable)
 * ( ) [](https://www.reddit.com/r/computerscience/comments/ucqyd2/schedule_maker_algorithm/)
 
-### To-Do / Task Management Software
+### To-Do / Task Management Software TODO: CLEANUP
 
 * ( ) [fokus](https://github.com/icabetong/fokus-android)
 * ( ) [condution](https://www.condution.com/)
@@ -967,18 +967,18 @@ Scheduler
 * ( ) [Todo.txt](http://todotxt.com/) - Todo.txt is a set of focused editors which help you manage your tasks with as few keystrokes and taps possible.
 * ( ) [manyids2/taskwar.nvim](https://github.com/manyids2/taskwar.nvim)
 
-#### Luxury
+#### Luxury TODO: CLEANUP
 
 * (5) [todowalp](https://github.com/linuxdotexe/todowalp) $$$$$$$$$
 
-#### Xit
+#### Xit TODO: CLEANUP
 
 * (5) [xit](https://github.com/jotaen/xit)<https://xit.jotaen.net/>
 * (5) [nomxit](https://github.com/sum12/nomxit) (rust parser)
 * (5) [stage-left](https://github.com/chris48s/stage-left)
 * (5) [xit2md](https://github.com/chris48s/xit2md)
 
-### Kanban
+### Kanban TODO: CLEANUP
 
 * ( ) [kanboard](https://github.com/kanboard/kanboard)
 * ( ) [Lyaaaaaaaaaaaaaaa/Project_Kanban: A lightweight desktop software, under the MIT licence to create and manage your Kanbans boards for your personal projects](https://github.com/Lyaaaaaaaaaaaaaaa/Project_Kanban)
@@ -991,7 +991,7 @@ Scheduler
 * ( ) [taskwarrior-terminal-kanban](https://github.com/contrun/taskwarrior-terminal-kanban)
 * ( ) [vim-taskwarrior-kanban](https://github.com/j-jith/vim-taskwarrior-kanban)
 
-### Gantt
+### Gantt TODO: CLEANUP
 
 * ( ) [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY)
 * ( )  name idea: ganttstopme, ganttstopmenow
@@ -999,7 +999,7 @@ Scheduler
 * ( ) [ganttouchthis/LICENSE at main · yelircaasi/ganttouchthis](https://github.com/yelircaasi/ganttouchthis/blob/main/LICENSE)
 * ( ) [google.com/search?client=firefox-b-d&q=open+source+web+gantt+viewer](https://www.google.com/search?client=firefox-b-d&q=open+source+web+gantt+viewer)
 
-#### TW
+#### TW TODO: CLEANUP
 
 * Elevate Your Task Management With Ease - YouTube [video](https://www.youtube.com/watch?v=U4pGz4KI1J0&t=12s&pp=2AEMkAIB)
 * ( ) [vit-project/vit](https://github.com/vit-project/vit)
@@ -1067,16 +1067,16 @@ Scheduler
 * ( ) [Ninlives/taskwarrior-telegram-bot](https://github.com/Ninlives/taskwarrior-telegram-bot)
 * ( ) [rhnvrm/tg-taskwarrior-bot](https://github.com/rhnvrm/tg-taskwarrior-bot)
 
-##### Bash/Shell
+##### Bash/Shell TODO: CLEANUP
 
 * ( ) [gitlab.com/doronbehar/taskwarrior-fzf](https://gitlab.com/doronbehar/taskwarrior-fzf)
 * ( ) [quandangv/polybar-warrior](https://github.com/quandangv/polybar-warrior)
 
-##### C
+##### C TODO: CLEANUP
 
 * ( ) [initBasti/context-switch-warrior](https://github.com/initBasti/context-switch-warrior)
 
-##### Python
+##### Python TODO: CLEANUP
 
 * ( ) [GothenburgBitFactory/tasklib](https://github.com/GothenburgBitFactory/tasklib)
 * ( ) [tools-life/taskwiki](https://github.com/tools-life/taskwiki)
@@ -1138,15 +1138,15 @@ Scheduler
 * ( ) [keigezellig/kanbanwarrior](https://github.com/keigezellig/kanbanwarrior) [blog.joosten-industries.nl/posts/Kanban-Warrior/](https://blog.joosten-industries.nl/posts/Kanban-Warrior/)
 * ( ) [jrabbit/taskd-redshirt](https://github.com/jrabbit/taskd-redshirt)
 
-##### Julia
+##### Julia TODO: CLEANUP
 
 * ( ) [ak202/Taskwarrior.jl](https://github.com/ak202/Taskwarrior.jl)
 
-##### Kotlin
+##### Kotlin TODO: CLEANUP
 
 * ( ) [bgregos/foreground](https://github.com/bgregos/foreground)
 
-##### Perl
+##### Perl TODO: CLEANUP
 
 * ( ) [hashref/rectasks](https://github.com/hashref/rectasks) → export to Neorg format
 * ( ) [8ware/task-gantt](https://github.com/8ware/task-gantt) → read and understand, see if at all useful; otherwise, just learn some perl
@@ -1163,24 +1163,24 @@ Scheduler
 * ( ) [import-todo.sh.pl](https://taskwarrior.org/download/import-todo.sh.pl)
 * ( ) [import-yaml.pl](https://taskwarrior.org/download/import-yaml.pl)
 
-##### Dart
+##### Dart TODO: CLEANUP
 
 * ( ) [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)
 * ( ) [bradyt/taskw-dart](https://github.com/bradyt/taskw-dart)
 
-##### Elixir
+##### Elixir TODO: CLEANUP
 
 * ( ) [linduxed/taskwarrior.ex](https://github.com/linduxed/taskwarrior.ex)
 
-##### Ruby
+##### Ruby TODO: CLEANUP
 
 * ( ) [nerab/twdeps](https://github.com/nerab/twdeps)
 
-##### Go
+##### Go TODO: CLEANUP
 
 * ( ) [jubnzv/go-taskwarrior](https://github.com/jubnzv/go-taskwarrior)
 
-##### Rust
+##### Rust TODO: CLEANUP
 
 [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui)
 
@@ -1209,11 +1209,11 @@ Scheduler
 * ( ) [template_rust](https://github.com/SunGodRamen/template_rust)
 * ( ) [twtodo-rs](https://github.com/simachri/twtodo-rs)
 
-##### Lisp
+##### Lisp TODO: CLEANUP
 
 * ( ) [projectwarrior](https://github.com/jonathanabennett/projectwarrior)
 
-##### Docker
+##### Docker TODO: CLEANUP
 
 * ( ) [taskd](https://github.com/pztrn/taskd)
 * ( ) [dock-warrior](https://github.com/codehivetx/dock-warrior)
@@ -1224,38 +1224,38 @@ Scheduler
 * ( ) [taskwarrior-ui-container](https://github.com/jessedearing/taskwarrior-ui-container)
 * ( ) [taskwarrior_rest_api](https://github.com/jeka1331/taskwarrior_rest_api)
 
-##### C++
+##### C++ TODO: CLEANUP
 
 * ( ) [AhmedHoss/TaskServer](https://github.com/AhmedHoss/TaskServer)
 
-##### CS
+##### CS TODO: CLEANUP
 
 * ( ) [ForNeVeR/taskomatic](https://github.com/ForNeVeR/taskomatic)
 
-##### Haskell
+##### Haskell TODO: CLEANUP
 
 * ( ) [maralorn/haskell-taskwarrior](https://github.com/maralorn/haskell-taskwarrior)
 * ( ) [maralorn/taskwarrior-git-backend](https://github.com/maralorn/taskwarrior-git-backend)
 * ( ) [DCsunset/taskwarrior-webui](https://github.com/DCsunset/taskwarrior-webui)
 
-##### JS
+##### JS TODO: CLEANUP
 
 * ( ) [abesto/gtd](https://github.com/abesto/gtd)
 * ( ) [gkssjovi/trackwarrior](https://github.com/gkssjovi/trackwarrior)
 * ( ) [cinatic/taskwhisperer](https://github.com/cinatic/taskwhisperer)
 
-##### Nim
+##### Nim TODO: CLEANUP
 
 * ( ) [taskopen](https://github.com/jschlatow/taskopen)
 * ( ) [trev-dev/timew-billable](https://github.com/trev-dev/timew-billable)
 
-##### Timer, Pomodoro
+##### Timer, Pomodoro TODO: CLEANUP
 
 * ( ) [coddingtonbear/taskwarrior-pomodoro](https://github.com/coddingtonbear/taskwarrior-pomodoro)
 
-### Interface / Infrastructure Development -------
+### Interface / Infrastructure Development ------- TODO: CLEANUP
 
-#### cli development
+#### cli development TODO: CLEANUP
 
 * ( ) [python-poetry/cleo](https://github.com/python-poetry/cleo)
 * ( ) [rich.readthedocs.io/en/stable/introduction.html](https://rich.readthedocs.io/en/stable/introduction.html)
@@ -1264,7 +1264,7 @@ Scheduler
 * ( ) [Egnod/karakurt: Cookiecuttrer-template for python cli app](https://github.com/Egnod/karakurt)
 * ( ) [10 Best Free and Open Source Command-Line Python Application Development Tools - LinuxLinks](https://www.linuxlinks.com/best-free-open-source-command-line-python-application-development-tools/)
 
-#### TUI Development
+#### TUI Development TODO: CLEANUP
 
 * ( ) [Textualize/textual](https://github.com/Textualize/textual)
 * → [Textualize/textual/discussions/165](https://github.com/Textualize/textual/discussions/165)
@@ -1315,11 +1315,11 @@ Scheduler
 * ( ) [Cubified/tuibox](https://github.com/Cubified/tuibox)
 * ( ) [mrossinek.gitlab.io/programming/testing-tui-applications-in-python/](https://mrossinek.gitlab.io/programming/testing-tui-applications-in-python/)
 
-#### GUI
+#### GUI TODO: CLEANUP
 
 * ( ) [develop.kde.org/frameworks/kirigami//](https://develop.kde.org/frameworks/kirigami//)
 
-#### Hosting
+#### Hosting TODO: CLEANUP
 
 * ( ) [dashboard.heroku.com/account](https://dashboard.heroku.com/account) heroku backup XY047RVTHX H0RYMIZ36C VTU7G4K6YO IMDP455R7S P7EN0W7BZP NDWZ0FMG1L ECTT2W4552 ZTICQNARDY 7SUJG65VN8 J1B78S0QOR
 * ( ) [Install Ubuntu Server | Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-server#6-choose-your-install)
@@ -1336,7 +1336,7 @@ Scheduler
 * ( ) [hosttest.de/vergleich/cloudserver-linux.html](https://www.hosttest.de/vergleich/cloudserver-linux.html)
 * ( ) [linuxhandbook.com/free-linux-cloud-servers/](https://linuxhandbook.com/free-linux-cloud-servers/)
 
-### Mobile Connection, Sync
+### Mobile Connection, Sync TODO: CLEANUP
 
 * (2) [PingMe](https://github.com/kha7iq/pingme) - Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat and others.
 * (2) [Pushbullet](https://www.pushbullet.com/)
@@ -1380,12 +1380,12 @@ Scheduler
 * Best Secure Messaging App | FBI Document Leaked - YouTube [video](https://www.youtube.com/watch?v=wj-aR96FOA0&pp=ygUPU2lnbmFsIGNoYXQgYm90)
 * (Telegram inline keyboard? Add [custom keyboard](https://www.google.com/search?q=add+custom+keyboard+to+android&sxsrf=APwXEde_qAYevpIXgyBDpVjjtVpsAK4Huw:1682273314975&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjvrOq6zMD-AhUCsaQKHZB0BsEQpwV6BAgBEAs&biw=1717&bih=845&dpr=1) for Telegram to include slash and numbers on basic keyboard? → not highest priority)
 
-#### webhooks etc
+#### webhooks etc TODO: CLEANUP
 
 * ( ) [adnanh/webhook](https://github.com/adnanh/webhook)
 * ( ) [r/Notion/comments/nd76ec/notion_api_webhooks/](https://www.reddit.com/r/Notion/comments/nd76ec/notion_api_webhooks/)
 
-#### Signal Tools
+#### Signal Tools TODO: CLEANUP
 
 * ( ) [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs)
 * ( ) [AsamK/signal-cli](https://github.com/AsamK/signal-cli)
@@ -1394,7 +1394,7 @@ Scheduler
 * ( ) [lwesterhof/semaphore](https://github.com/lwesterhof/semaphore)
 * ( ) [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api)
 
-#### Telegram Notes
+#### Telegram Notes TODO: CLEANUP
 
 * ( ) [console.cloud.google.com/compute/instances?project=telegram-routines-bot](https://console.cloud.google.com/compute/instances?project=telegram-routines-bot)
 * ( ) [RemindMeLater/remindmelater.py at main · 22TNT/RemindMeLater](https://github.com/22TNT/RemindMeLater/blob/main/remindmelater.py)
@@ -1422,14 +1422,14 @@ Scheduler
 * ( ) [thepythoncorner.com/posts/2021-01-16-how-create-telegram-bot-in-python/](https://thepythoncorner.com/posts/2021-01-16-how-create-telegram-bot-in-python/)
 * ( ) [dspyt.com/simple-telegram-bot-in-python-hosted-easily-on-heroku](https://dspyt.com/simple-telegram-bot-in-python-hosted-easily-on-heroku)
 
-#### Home Assistant
+#### Home Assistant TODO: CLEANUP
 
 * ( ) [...](https://www.home-assistant.io/integrations/matrix/) Autogen video
 * ( ) [Home Assistant](https://www.home-assistant.io/)
 * ( ) [home-assistant](https://github.com/home-assistant)
 * ( ) [home-assistant](https://www.home-assistant.io/)
 
-### Note-Taking Tools -------
+### Note-Taking Tools ------- TODO: CLEANUP
 
 * (T) [jrnl](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * (2) [Org mode](https://git.savannah.gnu.org/cgit/emacs/org-mode.git) - Super-powerful [Emacs](https://www.gnu.org/software/emacs/) plugin to manage outlines with associated timestamps, priorities, labels, etc.; available views grouped by time (agenda), tags, etc.; plain text storage format.
@@ -1483,13 +1483,13 @@ Scheduler
 * ( ) [srid/emanote](https://github.com/srid/emanote)
 * ( ) [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)
 
-#### Obsidian
+#### Obsidian TODO: CLEANUP
 
 * best tasks plugin in obsidian [video](https://www.youtube.com/watch?v=quXNtjTe5WE)
 * ( ) [obsidian.md/](https://obsidian.md/)
 * ( ) [lifehacker.com/tech/best-obsidian-plugins](https://lifehacker.com/tech/best-obsidian-plugins)
 
-#### Wiki / 2nd Brain
+#### Wiki / 2nd Brain TODO: CLEANUP
 
 * ( ) [gitit: Wiki using happstack, git or darcs, and pandoc.](https://hackage.haskell.org/package/gitit)
 * ( ) [brunocbr/zettel-composer](https://github.com/brunocbr/zettel-composer)
@@ -1516,7 +1516,7 @@ Scheduler
 * ( ) [qownnotes.org/](https://www.qownnotes.org/)
 * →  [Video on 2nd Brain Selection](https://www.youtube.com/watch?v=XRpHIa-2XCE)
 
-#### Notion, Appflowy, Jira, etc
+#### Notion, Appflowy, Jira, etc TODO: CLEANUP
 
 * ( ) [My integrations | Notion Developers](https://www.notion.so/my-integrations) [notion.so/my-integrations](https://www.notion.so/my-integrations)
 * ( ) [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
@@ -1538,11 +1538,11 @@ Scheduler
 * ( ) [thegist.so/#Pricing](https://www.thegist.so/#Pricing)
 * ( ) [zammad](https://zammad.org/)
 
-##### Notion Updater
+##### Notion Updater TODO: CLEANUP
 
 * ( ) [zenrows.com/blog/headless-browser-python](https://www.zenrows.com/blog/headless-browser-python)
 
-##### AppFlowy and Related
+##### AppFlowy and Related TODO: CLEANUP
 
 * ( ) [Self-hosting AppFlowy for free Using Supabase - AppFlowy Docs](https://docs.appflowy.io/docs/guides/appflowy/self-hosting-appflowy-using-supabase)
 * ( ) [itsfoss.com/appflowy/](https://itsfoss.com/appflowy/)
@@ -1554,7 +1554,7 @@ Scheduler
 * → migrate Notion to AppFlowy?
 * ( ) [(1) Town Square - yelircaasi.mattermost.com Mattermost](https://yelircaasimattermostcom.cloud.mattermost.com/main/channels/town-square)
 
-#### Neovim, Neorg
+#### Neovim, Neorg TODO: CLEANUP
 
 * ( ) [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 * ( ) [nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157](https://github.com/nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157)
@@ -1566,7 +1566,7 @@ Scheduler
 * ( ) [Live* Server plugin for *vim*/*nvim* : r/*neovim* - Reddit](https://www.reddit.com/r/neovim/comments/w86ash/live_server_plugin_for_vimnvim/)
 * ( ) [orenskl/pico-jvm](https://github.com/orenskl/pico-jvm)
 
-##### Neovim Plugins
+##### Neovim Plugins TODO: CLEANUP
 
 * ( ) [jackMort/pommodoro-clock.nvim](https://github.com/jackMort/pommodoro-clock.nvim)
 * ( ) [nfrid/due.nvim](https://github.com/nfrid/due.nvim)
@@ -1574,9 +1574,9 @@ Scheduler
 * ( ) [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim)
 * ( ) [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 
-### Tracking -------
+### Tracking ------- TODO: CLEANUP
 
-### Finance
+### Finance TODO: CLEANUP
 
 * ( ) [GnuCash](https://www.gnucash.org/) - GnuCash is a free software accounting program that implements a double-entry bookkeeping system. It was initially aimed at developing capabilities similar to Intuit, Inc.’s Quicken application, but also has features for small business accounting.
 * ( ) [hledger](https://hledger.org/) - Easy-to-use command-line/curses/web plaintext accounting tool.
@@ -1607,7 +1607,7 @@ Scheduler
 * ( ) [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 * ( ) [GNUKhata](https://gnukhata.org/) - Open source accounting software.
 
-### Time Tracking and Timers
+### Time Tracking and Timers TODO: CLEANUP
 
 * ( ) [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - A time tracking utility that offers simple stopwatch features as well as sophisticated calendar-based backfill, along with flexible reporting.
 *interface ideas: [moro](https://github.com/omidfi/moro)) - Simple tool for tracking work hours.
@@ -1647,14 +1647,13 @@ Scheduler
 * ( ) [arbtt.nomeata.de/#what](https://arbtt.nomeata.de/#what) [nomeata/arbtt](https://github.com/nomeata/arbtt) - automatic rule-based time tracker
 * ( ) [viseshrp/workedon](https://github.com/viseshrp/workedon)
 
-#### Habit Trackers
+#### Habit Trackers TODO: CLEANUP
 
 * (5) [dijo](https://github.com/nerdypepper/dijo) - scriptable curses-bases habit tracker in Rust [current repo](https://git.peppe.rs/cli/dijo/) $$$$$$$$$
 * ( ) [schmee/habu](https://github.com/schmee/habu) - A TUI habit tracker
 * ( ) [habu](https://github.com/wakatara/harsh) - 🐨 Habu it's a minimalistic startpage made with the essence of neovim dashboard with the catppuccin mocha palette. Fully customizable and easy to setup.
 * (5) [uhabits](https://github.com/iSoron/uhabits) -> borrow ideas and elements for Nebokrai / fork and adapt / integrate
 * ( ) [habitmap](https://github.com/shuu-wasseo/habitmap) - A command-line app to track your habits and visualise how committed you are to making or maintaining them with colorful heatmaps.
-
 * ( ) [Habitscipline: A habit manager](https://github.com/NorfairKing/habitscipline)
 * ( ) [schmee/habu](https://github.com/schmee/habu)
 * ( ) [fschlz/habit-tracker: simple streamlit app to keep track of the essentials](https://github.com/fschlz/habit-tracker)
@@ -1667,7 +1666,7 @@ Scheduler
 * ( ) [qba73/habit: Habit tracker is a CLI app for tracking daily habits.](https://github.com/qba73/habit)
 * ( ) [Encrypted to-do list, habit and mood tracker, journaling and notes app | Lunatask](https://lunatask.app/)
 
-#### Time Tracking
+#### Time Tracking TODO: CLEANUP
 
 * (1) [timewarrior](https://timewarrior.net/)
 * (5) [arbtt](https://github.com/nomeata/arbtt) - in Haskell! $$$ -> seems to need more Wayland work
@@ -1685,33 +1684,33 @@ Scheduler
 * ( ) [watson](https://tailordev.github.io/Watson/)
 * ( ) [doing](https://github.com/ttscoff/doing/)
 
-#### Pomodoro
+#### Pomodoro TODO: CLEANUP
 
 * ( ) [pickfire/spt](https://github.com/pickfire/spt)
 * ( ) [jakethekoenig/tmux-pom](https://github.com/jakethekoenig/tmux-pom) ?
 * ( ) [dbinagi/nomodoro](https://github.com/dbinagi/nomodoro)
 * ( ) [gist.github.com/tomordonez/afc9633c4c9a8f649155bf083ef040cf#file-pomodorotimer-py](https://gist.github.com/tomordonez/afc9633c4c9a8f649155bf083ef040cf#file-pomodorotimer-py)
 
-### Dashboard
+### Dashboard TODO: CLEANUP
 
 * ( ) [gethomepage](https://gethomepage.dev/latest/) A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery.
 
-## Sort Below Here
+## Sort Below Here TODO: CLEANUP
 
-### Fitness Tracking
+### Fitness Tracking TODO: CLEANUP
 
 -> [AlternativeTo](https://alternativeto.net/category/sport-and-health/all/?license=opensource)
 
 * ( ) [Body Weight Planner - NIDDK](https://www.niddk.nih.gov/bwp)
 * ( ) [cl fitness tracker](https://labs.tomasino.org/command-line-fitness-tracker/)
 
-#### Food Tracking
+#### Food Tracking TODO: CLEANUP
 
 * ( ) [hranoprovod-cli](https://github.com/aquilax/hranoprovod-cli)
 * ( ) [dietcli](https://github.com/hstsethi/dietcli)
 * ( ) [calories](https://github.com/zupzup/calories)
 
-#### Workout Tracking / Planning
+#### Workout Tracking / Planning TODO: CLEANUP
 
 * (1) [wger](https://wger.readthedocs.io/en/latest/index.html) [source](https://github.com/wger-project/wger) [organization](https://github.com/wger-project) - also excellent [wiki](https://wger.de/en-gb/exercise/overview/)
 * (1) [feeel](https://gitlab.com/enjoyingfoss/feeel) A cross-platform Flutter home workout app that respects your privacy
@@ -1741,7 +1740,7 @@ Scheduler
 * ( ) [Kailona (Nextcloud app)](https://docs.kailona.org/)
 * ( ) [LiftLog](https://github.com/LiamMorrow/LiftLog)
 
-### Food Planning / Analysis
+### Food Planning / Analysis TODO: CLEANUP
 
 * ( ) [kitchenowl](https://github.com/TomBursch/kitchenowl)
 * ( ) [nextcloud-cookbook](https://github.com/lneugebauer/nextcloud-cookbook)
@@ -1749,11 +1748,11 @@ Scheduler
 * ( ) [recipesage](https://github.com/julianpoy/recipesage)
 * (5) [chef](...) - application to plan meals using a database of recipes and an inventory list -> search "github chef application to plan meals using a database of recipes and an inventory list"
 
-### discussion
+### discussion TODO: CLEANUP
 
 * ( ) [discord.com/channels/834325286664929280/877666474888675368/1222613062796705862](https://discord.com/channels/834325286664929280/877666474888675368/1222613062796705862)
 
-### →
+### → TODO: CLEANUP
 
 * ( ) [OPEN SOURCE alternatives to the MOST POPULAR productivity apps!](https://www.youtube.com/watch?v%3DP8accXNcwjs)
 * ( ) [awesome-productivity-software](https://github.com/areknawo/awesome-productivity-software)
@@ -1765,23 +1764,17 @@ Scheduler
 * ( ) [I haven’t found a decent ToDo list with this killer feature: dependencies. I wan… | Hacker News](https://news.ycombinator.com/item?id=11352791) [news.ycombinator.com/item?id=11352791](https://news.ycombinator.com/item?id=11352791)
 * ( ) [Stuff I did - The stuff I do](https://www.statox.fr/projects/#) [statox.fr/projects/#](https://www.statox.fr/projects/#)
 
-### doc formats
+### doc formats TODO: CLEANUP
 
 * ( ) [chris48s/stage-left](https://github.com/chris48s/stage-left) ([x]it)
+* ( ) create haxit: haskell equivalent of stage-left ([x]it parser and writer)
 
-### matrix
+### Data Management (db, dvc, etc.)
 
-* ( ) [gitlab.com/jpypi/rustix](https://gitlab.com/jpypi/rustix)
-* ( ) [poljar/matrix-nio](https://github.com/poljar/matrix-nio)
-
-### db, dvc
-
-* ( ) [Welcome to TinyDB! — TinyDB 4.7.1 documentation](https://tinydb.readthedocs.io/en/latest/)
 * ( ) [set up dvc with google drive - Google Search](https://www.google.com/search?client=firefox-b-d&q=set+up+dvc+with+google+drive)
-* ( ) [msiemens/tinydb: TinyDB is a lightweight document oriented database optimized for your happiness :)](https://github.com/msiemens/tinydb)
-* ( ) [tinydb.readthedocs.io/en/latest/](https://tinydb.readthedocs.io/en/latest/)
+* ( ) [tinydb](https://github.com/msiemens/tinydb) - [tinydb.readthedocs.io/en/latest/](https://tinydb.readthedocs.io/en/latest/) - a lightweight document oriented database optimized for your happiness :)
 
-### web
+### web TODO: CLEANUP
 
 * ( ) [SSH and GPG keys](https://github.com/settings/keys)
 * ( ) [adnanh/webhook](https://github.com/adnanh/webhook)
@@ -1803,7 +1796,7 @@ Scheduler
 * I use markdown-*preview*.*nvim* for getting a *live preview* when editing Markdown files. But is there something similar for web development?
 * ( ) [dev.to/fidelve/using-vim-as-your-main-editor-for-web-development-5a73](https://dev.to/fidelve/using-vim-as-your-main-editor-for-web-development-5a73)
 
-### ? (apps)
+### ? (apps) TODO: CLEANUP
 
 * ( ) [https://www.superlist.com/](https://www.superlist.com/)
 * (5) [kuskus](https://github.com/kuskusapp/kuskus) [kuskus.app/](https://kuskus.app/)
@@ -1833,19 +1826,19 @@ Scheduler
 * (productivity) [matthiasn/lotti](https://github.com/matthiasn/lotti)  $$$
 * ( ) [foambubble.github.io/foam/](https://foambubble.github.io/foam/)
 
-### misc software to use
+### misc software to use TODO: CLEANUP
 
 * ( ) [freedesktop.org/wiki/Software/dbus/](https://www.freedesktop.org/wiki/Software/dbus/)
 
-### Multi / Mixed
+### Multi / Mixed TODO: CLEANUP
 
 * ( ) [arttime](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
 
-### Other
+### Other TODO: CLEANUP
 
 * (-1) [Neat Idea!](https://sindresorhus.com/one-thing)
 
-### calendar
+### calendar TODO: CLEANUP
 
 * ( ) [anufrievroman/calcure](https://github.com/anufrievroman/calcure)
 * ( ) [julian.digital/2023/07/06/multi-layered-calendars/](https://julian.digital/2023/07/06/multi-layered-calendars/)
@@ -1855,7 +1848,7 @@ Scheduler
 * ( ) [khal](https://github.com/pimutils/khal)
 * ( ) [neorg calendar](https://github.com/nvim-neorg/neorg/wiki/Calendar)
 
-### J, theory
+### J, theory TODO: CLEANUP
 
 * ( ) [gtd books](http://libgen.rs/search.php?req=getting+things+done+David+allen&open=0&res=25&view=simple&phrase=1&column=def) [libgen.rs/search.php?req=getting+things+done+David+allen&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.rs/search.php?req=getting+things+done+David+allen&open=0&res=25&view=simple&phrase=1&column=def)
 * ( ) [BOOKSTORES: How to Read More Books in the Golden Age of Content](https://youtu.be/lIW5jBrrsS0)
@@ -1865,11 +1858,11 @@ Scheduler
 * ( ) [jamesclear.com/how-to-stop-procrastinating](https://jamesclear.com/how-to-stop-procrastinating)
 * ( ) [jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning/](https://www.jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning/)
 
-### historical
+### historical TODO: CLEANUP
 
 * ( ) [TaskMaster](http://www.kevra.org/TheBestOfNext/ThirdPartyProducts/ThirdPartySoftware/InformationManagement/TaskMaster/TaskMaster.html)
 
-### video / blog explaining personal system
+### video / blog explaining personal system TODO: CLEANUP
 
 * ( ) [my productivity workflow 2023!](https://youtu.be/IZX-cDR6IQM)
 * ( ) [my productivity workflow 2023!](https://youtu.be/IZX-cDR6IQM)
@@ -1878,7 +1871,7 @@ Scheduler
 * ( ) [My efficient and effective Productivity Setup With Emacs, Org Mode and Org Agenda](https://youtu.be/oG9jP0SsPqQ)
 * My GTD Emacs Workflow (Getting Things Done) - YouTube [...](https://m.youtube.com/watch?v=92PCxH29UCo)
 
-### → export
+### → export TODO: CLEANUP
 
 * ( ) [kala13x/libxutils](https://github.com/kala13x/libxutils)
 * ( ) [JasonShin/fp-core.rs: A library for functional programming in Rust](https://github.com/JasonShin/fp-core.rs)
@@ -1904,7 +1897,7 @@ Scheduler
 * ( ) [GitHub - rdbo/sigma-linux: Sigma Linux - Σlite Operating System](https://github.com/rdbo/sigma-linux)
 * ( ) [Create a Bootable Device - Alpine Linux](https://wiki.alpinelinux.org/wiki/Create_a_Bootable_Device)
 
-### formats
+### formats TODO: CLEANUP
 
 * ( ) [xit.jotaen.net/](https://xit.jotaen.net/)
 * ( ) [stackoverflow.com/questions/35250621/recursive-self-referencing-json-schema](https://stackoverflow.com/questions/35250621/recursive-self-referencing-json-schema)
@@ -1916,16 +1909,16 @@ Scheduler
 * ( ) [Live* markdown *preview* to PDF : r/*neovim* - Reddit](https://www.reddit.com/r/neovim/comments/w7ki77/live_markdown_preview_to_pdf/)
 * ( ) [djot](https://github.com/jgm/djot)
 
-### scheduling
+### scheduling TODO: CLEANUP
 
 * ( ) [PROxZIMA/TimetableScheduler](https://github.com/PROxZIMA/TimetableScheduler)
 * ( ) [topics/timetable-generator](https://github.com/topics/timetable-generator)
 
-### List Management
+### List Management TODO: CLEANUP
 
 * (3) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
 
-### other
+### other TODO: CLEANUP
 
 * ( ) [Python 3.12 Generic Types Explained ArjanCodes ArjanCodes Verificada • • 5,2 K visualizaciones hace 5 horas Nuevo](https://www.youtube.com/watch?v=q6ujWWaRdbA)
 * ( ) [Protocols in Python: Why You Need Them - GoDataDriven](https://godatadriven.com/blog/protocols-in-python-why-you-need-them/)
@@ -1939,7 +1932,7 @@ Scheduler
 * Read [neovim.io/doc/user/lua.html](https://neovim.io/doc/user/lua.html)
 * Read [lua.org/manual/5.1/1](https://www.lua.org/manual/5.1/1)
 
-### Diff
+### Diff TODO: CLEANUP
 
 * ( ) [GitPython/git/diff.py at main · gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython/blob/main/git/diff.py)
 * ( ) [hackage.haskell.org/package/Diff](https://hackage.haskell.org/package/Diff)
@@ -1955,9 +1948,9 @@ Scheduler
 * ( ) [hoogle.haskell.org › ?hoogle=diff](https://hoogle.haskell.org/?hoogle=diff)
 * ( ) [difflib — Helpers for computing deltas — Python 3.12.0 documentation](https://docs.python.org/3/library/difflib.html)
 
-### To-Do Apps
+### To-Do Apps TODO: CLEANUP
 
-### Mobile Connection
+### Mobile Connection TODO: CLEANUP
 
 * (1) [GadgetBridge](https://gadgetbridge.org/) - Gadgetbridge is a free and open source Android application that allows you to pair and manage various gadgets such as smart watches, bands, headphones, and more without the need for the vendor application. So in short, you can use Gadgetbridge instead of relying on your gadget's own proprietary app.
 * ( ) [zulip.com/plans/](https://zulip.com/plans/)
@@ -1965,7 +1958,7 @@ Scheduler
 * ( ) [rocket.chat/pricing](https://www.rocket.chat/pricing)
 * ( ) [gotify.net/](https://gotify.net/)
 
-#### inthe.am
+#### inthe.am TODO: CLEANUP
 
 * ( ) [inthe.am](https://inthe.am/configure/synchronization) + [foreground](https://github.com/bgregos/foreground)
 * ( ) [taskwarrior-inthe.am](https://github.com/coddingtonbear/taskwarrior-inthe.am)
@@ -1975,7 +1968,7 @@ Scheduler
 * ( ) [docs](https://intheam.readthedocs.io/en/latest/api/index.html)
 * ( ) [inthe.am/configure/email](https://inthe.am/configure/email)
 
-#### Signal
+#### Signal TODO: CLEANUP
 
 * ( ) [lwesterhof/semaphore: A simple (rule-based) bot library for Signal Private Messenger.](https://github.com/lwesterhof/semaphore)
 * ( ) [filipre/signalbot](https://github.com/filipre/signalbot)
@@ -1984,13 +1977,15 @@ Scheduler
 * ( ) [nixos.wiki/wiki/Signald](https://nixos.wiki/wiki/Signald)
 * ( ) [AsamK/signal-cli](https://github.com/AsamK/signal-cli)
 
-#### Matrix Tools
+#### Matrix Tools TODO: CLEANUP
 
-* ( ) [docs.rs/matrix_bot_api/latest/matrix_bot_api/](https://docs.rs/matrix_bot_api/latest/matrix_bot_api/) 
+* ( ) [matrix_bot_api (Rust)](https://docs.rs/matrix_bot_api/latest/matrix_bot_api/) 
+* ( ) [rustix](https://gitlab.com/jpypi/rustix) - Matrix chat bot written in Rust.
+* ( ) [matrix-nio](https://github.com/poljar/matrix-nio) - A Python Matrix client library, designed according to sans I/O ([link](http://sans-io.readthedocs.io/)) principles
 
-### Convenience, Media, Learning Tools (GUI)
+### Convenience, Media, Learning Tools (GUI) TODO: CLEANUP
 
-#### Spaced Repitition
+#### Spaced Repitition TODO: CLEANUP
 
 * Spaced repetition systems can be used to program attention [notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv](https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv)
 * ( ) [Spaced out: A spaced repetition tool](https://github.com/NorfairKing/sparep)
@@ -1999,19 +1994,19 @@ Scheduler
 * (2) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
 * (2)[fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)-  [open-spaced-repetition/fsrs4anki/wiki](https://github.com/open-spaced-repetition/fsrs4anki/wiki)
 
-### Other Categories
+### Other Categories TODO: CLEANUP
 
-#### ->
+#### -> TODO: CLEANUP
 
 [medevel.com/tag/productivity/](https://medevel.com/tag/productivity/)
 
-#### Database for ganttouchthis
+#### Database for ganttouchthis TODO: CLEANUP
 
 * tinydb
 * sqlite3?
 * postgresql?
 
-#### Calendar
+#### Calendar TODO: CLEANUP
 
 * ( ) Theory: [julian.digital/2023/07/06/multi-layered-calendars/](https://julian.digital/2023/07/06/multi-layered-calendars/)
 * Calendar: [remind](https://git.skoll.ca/Skollsoft-Public/Remind) with [wyrd](https://gitlab.com/wyrd-calendar/wyrd/)
@@ -2032,13 +2027,13 @@ Scheduler
 * ( ) [avail](https://github.com/mufeez-amjad/avail) - Find available times between all your calendars.
 * ( ) [conrad](https://github.com/vinayak-mehta/conrad) - Track conferences and meetups.
 
-### Contacts
+### Contacts TODO: CLEANUP
 
 * ( ) [khard](https://github.com/lucc/khard) - Console carddav client written in Pyhton.
 * ( ) [addrb](https://github.com/mrusme/addrb) - A lightweight CLI / TUI address book that supports CardDAV.
 * ( ) [ppl addressbook](https://github.com/henrycatalinismith/ppl) - `ppl` is free software made out of other free software. It's built on top of Ruby and Git, and the completely free vcard address book format.
 
-#### Cryptography
+#### Cryptography TODO: CLEANUP
 
 * ( ) [HASHA CLI](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
 * ( ) [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
@@ -2049,24 +2044,24 @@ Scheduler
   *    [stegcloak](https://github.com/kurolabs/stegcloak)) - Hide secrets with invisible characters in plain text securely.
 * ( ) [Age](https://github.com/FiloSottile/age) - Simple, Modern, Secure encryption tool.
 
-#### Haskell Stuff
+#### Haskell Stuff TODO: CLEANUP
 
 * ( ) [nikivazou.github.io/lh-course/book.pdf](https://nikivazou.github.io/lh-course/book.pdf)
 * ( ) [nikivazou.github.io/lh-course/](https://nikivazou.github.io/lh-course/)
 * ( ) [typeclasses.com/phrasebook](https://typeclasses.com/phrasebook)
 
-#### Haskell Constraint Programming
+#### Haskell Constraint Programming TODO: CLEANUP
 
 * ( ) [logict](https://github.com/Bodigrim/logict)
 * ( ) [optaplanner](https://github.com/kiegroup/optaplanner) [upstream](https://github.com/apache/incubator-kie-optaplanner)
 * ( ) [GNU LPK](https://www.gnu.org/software/glpk/)
 
-#### Bookmarks
+#### Bookmarks TODO: CLEANUP
 
 * (2)[Buku -](https://github.com/jarun/Buku) - Powerful command-line bookmark manager → fork [peterjschroeder/bukut](https://github.com/peterjschroeder/bukut)
 * (5)[linksnatch](https://github.com/amitmerchant1990/linksnatch)[amitmerchant1990/linksnatch/blob/main/README.md →](https://github.com/amitmerchant1990/linksnatch/blob/main/README.md)[docker-linksnatch](https://github.com/varunsridharan/docker-linksnatch)(bookmark saving tool)
 
-### For Roadmaps
+### For Roadmaps TODO: CLEANUP
 
 * ( ) [google.com/search?channel=fs&client=ubuntu&q=leet+code+solutions](https://www.google.com/search?channel=fs&client=ubuntu&q=leet+code+solutions)
 * ( ) [leetcode.com/problemset/all/](https://leetcode.com/problemset/all/)

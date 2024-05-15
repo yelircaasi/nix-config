@@ -1,5 +1,67 @@
 # Haskell
 
+## Exemplary Software
+
+-> search all notes files for "haskell"
+-> https://github.com/uhub/awesome-haskell
+-> https://wiki.haskell.org/Web/Frameworks
+
+https://github.com/NorfairKing/template-tui
+https://github.com/NorfairKing/template-optparse
+https://github.com/NorfairKing/template-cli
+https://github.com/NorfairKing/smos
+https://github.com/NorfairKing/intray
+https://github.com/NorfairKing/template-web-server
+
+pandoc
+aeson
+optparse-applicative
+postgrest
+purescript
+simplex-chat
+haxl
+ihp
+shellcheck
+
+https://github.com/tweag/ormolu
+https://github.com/ndmitchell/hoogle
+https://haskell-language-server.readthedocs.io/en/latest/configuration.html
+https://github.com/soupi/learn-haskell-blog-generator
+https://hackage.haskell.org/package/dhall",
+https://github.com/zohl/pomodoro
+https://github.com/Vawlpe/hgreet
+https://lettier.github.io/movie-monad
+https://github.com/passy/givegif
+https://hackage.haskell.org/package/git-vogue
+https://github.com/smallhadroncollider/brok
+https://github.com/b3nj5m1n/xdg-ninja
+https://github.com/2mol/pboy
+https://github.com/NorfairKing/bevel
+https://github.com/Gabriella439/turtle
+https://gitlab.com/kocielnik/monadoro
+https://github.com/phuhl/linux_notification_center
+https://github.com/dhall-lang/dhall-haskell
+hustle: Haskell implementation of the KDL Document Language](https://github.com/fuzzypixelz/Hustle) -> has KDLQL, schema language, official specification"
+https://hackage.haskell.org/package/dhall-1.6.0/docs/src/Dhall-Parser.html",
+https://hackage.haskell.org/package/slim
+https://lettier.github.io/gifcurry/
+https://github.com/kmonad/kmonad
+http://source.git-annex.branchable.com/?p=source.git;a=tree
+https://github.com/jonschoning/espial
+https://jaspervdj.be/hakyll/
+https://hackage.haskell.org/package/SoccerFun
+https://stackoverflow.com/questions/20660782/writing-a-parser-from-scratch-in-haskell",
+https://xmonad.org/
+ezmonad
+https://github.com/NorfairKing/sydtest
+https://github.com/NorfairKing/vcard
+https://github.com/NorfairKing/upcheck
+https://github.com/ndmitchell/hlint
+https://github.com/ndmitchell/shake https://shakebuild.com/
+https://www.yesodweb.com/
+
+## SORT
+
 * excellent: [jonascarpay/template-haskell](https://github.com/jonascarpay/template-haskell) [jonascarpay/template-haskell](https://github.com/jonascarpay/template-haskell)
 * [haskell-via-sokoban.nomeata.de/](https://haskell-via-sokoban.nomeata.de/)
 * [haskell-for-readers.nomeata.de/](http://haskell-for-readers.nomeata.de/)
@@ -23,7 +85,7 @@
 * Learning about GHC(i) Internals - r/haskell
 * GHC(STG,Cmm,asm) illustrated - takenobu-hs.github.io
 * 7. Extending and using GHC as a library
-* [discord.com/channels/834325286664929280/902554373094252554/1198694610436882590](https://discord.com/channels/834325286664929280/902554373094252554/1198694610436882590) Haskell tools & sources:Sources:*Haskell for imperative programmers*
+* [discord.com/channels/834325286664929280/902554373094252554/1198694610436882590](https://discord.com/channels/834325286664929280/902554373094252554/1198694610436882590) Haskell tools & sources:Sources: *Haskell for imperative programmers*
 * ghc internals - Google Search
 * [video](https://www.youtube.com/results?sp=mAEA&search_query=ghc+internals)
 * [stackoverflow.com/questions/18808258/what-does-the-just-syntax-mean-in-haskell](https://stackoverflow.com/questions/18808258/what-does-the-just-syntax-mean-in-haskell)

@@ -3188,7 +3188,7 @@
         "name": "git-vogue: A framework for pre-commit checks.",
         "status": "needs work",
         "link": "https://hackage.haskell.org/package/git-vogue",
-        "language": "",
+        "language": "haskell",
         "notes": ""
     },
     {

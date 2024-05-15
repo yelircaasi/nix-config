@@ -96,6 +96,14 @@
         "notes": "add to RosettaProjects"
     },
     {
+        "category": "console.calculator_and_spreadsheet",
+        "name": "texel",
+        "status": "needs work",
+        "link": "https://github.com/Lauriat/texel",
+        "language": "",
+        "notes": "Command line interface for reading spreadsheets inside terminal."
+    },
+    {
         "category": "console.cleanup",
         "name": "classifier",
         "status": "needs work",

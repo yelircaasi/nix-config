@@ -17,35 +17,11 @@
     },
     {
         "category": "development.documentation",
-        "name": "GitBook",
-        "status": "back pocket; may be useful someday",
-        "link": "https://www.gitbook.com/",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "development.documentation",
         "name": "docsify/",
         "status": "need to try",
         "link": "https://github.com/docsifyjs/docsify/",
         "language": "",
         "notes": "[Docsify](https://docsify.js.org/)"
-    },
-    {
-        "category": "development.editor.gui",
-        "name": "Cursor - The AI-first Code Editor",
-        "status": "back pocket; may be useful someday",
-        "link": "https://cursor.sh/",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "development.editor.gui",
-        "name": "KDevelop - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP",
-        "status": "back pocket; may be useful someday",
-        "link": "https://kdevelop.org/",
-        "language": "",
-        "notes": ""
     },
     {
         "category": "development.editor.gui",

@@ -20,12 +20,23 @@ files = {
     "selected; needs nix packaging": "selected_needs_nix",
     "need to try": "need_to_try",
 }
-files = {k: p / f"{name}.json" for k, name in file.items()}
+files = {k: p / f"{name}.json" for k, name in files.items()}
+print(files)
 
 combined = []
-for status, file in files.items():
+for file in set(files.values()):
+    print(file)
     with open(file) as f:
         combined.extend(json.load(f))
+
+categories = set([d["category"] for d in combined])
+print("\n".join(sorted(categories)))
+print()
+stati = [d["status"] for d in combined]
+print("\n".join(sorted([f"{stati.count(stat):>4} {stat}" for stat in set(stati)])))
+
 for status, file in files.items():
     with open(file, "w") as f:
-
+        subjson = [d for d in combined if d["status"] == status]
+        subjson.sort(key=lambda d: (d["category"], d["name"]))
+        json.dump(subjson, f, indent=4)

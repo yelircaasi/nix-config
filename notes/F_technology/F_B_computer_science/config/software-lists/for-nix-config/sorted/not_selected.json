@@ -48,6 +48,14 @@
         "notes": ""
     },
     {
+        "category": "console.database",
+        "name": "echovault",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/EchoVault/EchoVault",
+        "language": "",
+        "notes": "Embeddable Distributed in-memory data store with an emphasis on speed and reliability."
+    },
+    {
         "category": "console.development.changelog",
         "name": "release-it",
         "status": "back pocket; may be useful someday",
@@ -142,14 +150,6 @@
         "link": "https://github.com/ArchGPT/insomnium",
         "language": "",
         "notes": ""
-    },
-    {
-        "category": "development.database",
-        "name": "echovault",
-        "status": "back pocket; may be useful someday",
-        "link": "https://github.com/EchoVault/EchoVault",
-        "language": "",
-        "notes": "Embeddable Distributed in-memory data store with an emphasis on speed and reliability."
     },
     {
         "category": "development.documentation",
@@ -262,6 +262,46 @@
         "link": "https://foldersync.io/",
         "language": "",
         "notes": "seems like a good mobile solution"
+    },
+    {
+        "category": "gui.browser.extensions.link_hoarding",
+        "name": "pocket",
+        "status": "back pocket; may be useful someday",
+        "link": "https://getpocket.com",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.hacker",
+        "name": "Vimb - A Minimal Browser with Vim like Bindings - YouTube",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.youtube.com/watch?v=26xWK35pinA",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.mobile",
+        "name": "cromite",
+        "status": "back pocket; may be useful someday",
+        "link": "https://github.com/uazo/cromite",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.mobile",
+        "name": "epicbrowser.com/privacy-policy",
+        "status": "back pocket; may be useful someday",
+        "link": "https://epicbrowser.com/privacy-policy",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.related_tools",
+        "name": "Browserling - Online cross-browser testing",
+        "status": "back pocket; may be useful someday",
+        "link": "https://www.browserling.com/",
+        "language": "",
+        "notes": ""
     },
     {
         "category": "gui.fonts",
@@ -462,46 +502,6 @@
         "link": "https://www.gitkraken.com/",
         "language": "",
         "notes": "The downright luxurious Git GUI client for Windows, Mac & Linux. - will try for the experience, but too proprietary for me"
-    },
-    {
-        "category": "web.internet_related.browsers.extensions.link_hoarding",
-        "name": "pocket",
-        "status": "back pocket; may be useful someday",
-        "link": "https://getpocket.com",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.hacker",
-        "name": "Vimb - A Minimal Browser with Vim like Bindings - YouTube",
-        "status": "back pocket; may be useful someday",
-        "link": "https://www.youtube.com/watch?v=26xWK35pinA",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.mobile",
-        "name": "cromite",
-        "status": "back pocket; may be useful someday",
-        "link": "https://github.com/uazo/cromite",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.mobile",
-        "name": "epicbrowser.com/privacy-policy",
-        "status": "back pocket; may be useful someday",
-        "link": "https://epicbrowser.com/privacy-policy",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.related_tools",
-        "name": "Browserling - Online cross-browser testing",
-        "status": "back pocket; may be useful someday",
-        "link": "https://www.browserling.com/",
-        "language": "",
-        "notes": ""
     },
     {
         "category": "webdev.crawling_scraping_downloading",

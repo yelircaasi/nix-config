@@ -64,7 +64,31 @@
         "notes": ""
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.browser.cli",
+        "name": "graphene",
+        "status": "needs work",
+        "link": "https://github.com/atsepkov/Graphene",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.browser.cli",
+        "name": "hget",
+        "status": "needs work",
+        "link": "https://github.com/bevacqua/hget",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.browser.tui",
+        "name": "w3m-mee",
+        "status": "needs work",
+        "link": "http://pub.ks-and-ks.ne.jp/prog/w3mmee/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.calculator-conversion-date",
         "name": "cash-cli",
         "status": "needs work",
         "link": "https://github.com/xxczaki/cash-cli",
@@ -72,7 +96,7 @@
         "notes": ""
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "mdlt",
         "status": "needs work",
         "link": "https://github.com/metadelta/mdlt",
@@ -80,7 +104,7 @@
         "notes": "add to RosettaProjects"
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "nota",
         "status": "needs work",
         "link": "https://github.com/pouyakary/Nota",
@@ -88,7 +112,7 @@
         "notes": ""
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "pdd",
         "status": "needs work",
         "link": "https://github.com/jarun/pdd",
@@ -96,7 +120,7 @@
         "notes": "add to RosettaProjects"
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "texel",
         "status": "needs work",
         "link": "https://github.com/Lauriat/texel",
@@ -2072,6 +2096,158 @@
         "notes": ""
     },
     {
+        "category": "gui.browser.esoteric.maximal_privacy",
+        "name": "icecatbrowser.org/",
+        "status": "needs work",
+        "link": "https://icecatbrowser.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.esoteric.nonvim",
+        "name": "badwolf",
+        "status": "needs work",
+        "link": "https://hacktivis.me/projects/badwolf",
+        "language": "",
+        "notes": "interesting and lightweight, but no vi mode"
+    },
+    {
+        "category": "gui.browser.esoteric.nonvim",
+        "name": "dillo",
+        "status": "needs work",
+        "link": "https://dillo-browser.github.io/",
+        "language": "",
+        "notes": "Extensible with plugins written in any language (see the list of plugins)."
+    },
+    {
+        "category": "gui.browser.esoteric.nonvim",
+        "name": "dooble",
+        "status": "needs work",
+        "link": "https://github.com/textbrowser/dooble",
+        "language": "",
+        "notes": "!!!"
+    },
+    {
+        "category": "gui.browser.esoteric.nonvim",
+        "name": "hskit",
+        "status": "needs work",
+        "link": "https://github.com/isovector/hskit",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.esoteric.nonvim",
+        "name": "ladybird",
+        "status": "needs work",
+        "link": "https://ladybird.dev/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.esoteric.nonvim",
+        "name": "min",
+        "status": "needs work",
+        "link": "https://github.com/minbrowser/min",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.esoteric.nonvim",
+        "name": "webkitten",
+        "status": "needs work",
+        "link": "https://github.com/kattrali/webkitten",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.extensions",
+        "name": "keyx",
+        "status": "needs work",
+        "link": "https://github.com/susumuota/nostr-keyx",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.extensions",
+        "name": "modded-darkreader",
+        "status": "needs work",
+        "link": "https://github.com/no-venv/modded-darkreader",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.extensions.reader",
+        "name": "columnate",
+        "status": "needs work",
+        "link": "https://github.com/anoved/Columnate",
+        "language": "",
+        "notes": "!!!"
+    },
+    {
+        "category": "gui.browser.hacker",
+        "name": "Tin Browser",
+        "status": "needs work",
+        "link": "https://github.com/Wervice/Codelink/blob/main/tin/tin.md",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.hacker",
+        "name": "wyeb - a vim-like webkit2gtk web browser",
+        "status": "needs work",
+        "link": "https://wyeb.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.ricing.reference_extensions",
+        "name": "Change-Colors",
+        "status": "needs work",
+        "link": "https://github.com/srndpty/Change-Colors",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.ricing.reference_extensions",
+        "name": "Midnight-Lizard/Midnight-Lizard",
+        "status": "needs work",
+        "link": "https://github.com/Midnight-Lizard/Midnight-Lizard",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.ricing.reference_extensions",
+        "name": "paxmod",
+        "status": "needs work",
+        "link": "https://github.com/numirias/paxmod",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.ricing.reference_extensions",
+        "name": "treestyletab",
+        "status": "needs work",
+        "link": "https://github.com/piroor/treestyletab",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.ricing.reference_extensions",
+        "name": "web-extension-color-changer",
+        "status": "needs work",
+        "link": "https://github.com/rokit/web-extension-color-changer",
+        "language": "",
+        "notes": "[chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp](https://chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp)"
+    },
+    {
+        "category": "gui.browser.terminal_gui",
+        "name": "carbonyl",
+        "status": "needs work",
+        "link": "https://github.com/fathyb/carbonyl",
+        "language": "",
+        "notes": ""
+    },
+    {
         "category": "gui.calculator",
         "name": "ConvertAll",
         "status": "needs work",
@@ -3070,182 +3246,6 @@
         "link": "https://github.com/s-p-k/foxy",
         "language": "",
         "notes": "Plain text bookmarks for Firefox and surf browsers. -> make for qb?"
-    },
-    {
-        "category": "web.internet_related.browsers.cli",
-        "name": "graphene",
-        "status": "needs work",
-        "link": "https://github.com/atsepkov/Graphene",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.cli",
-        "name": "hget",
-        "status": "needs work",
-        "link": "https://github.com/bevacqua/hget",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.extensions",
-        "name": "keyx",
-        "status": "needs work",
-        "link": "https://github.com/susumuota/nostr-keyx",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.extensions",
-        "name": "modded-darkreader",
-        "status": "needs work",
-        "link": "https://github.com/no-venv/modded-darkreader",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.extensions.reader",
-        "name": "columnate",
-        "status": "needs work",
-        "link": "https://github.com/anoved/Columnate",
-        "language": "",
-        "notes": "!!!"
-    },
-    {
-        "category": "web.internet_related.browsers.gui.esoteric.maximal_privacy",
-        "name": "icecatbrowser.org/",
-        "status": "needs work",
-        "link": "https://icecatbrowser.org/",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.esoteric.nonvim",
-        "name": "badwolf",
-        "status": "needs work",
-        "link": "https://hacktivis.me/projects/badwolf",
-        "language": "",
-        "notes": "interesting and lightweight, but no vi mode"
-    },
-    {
-        "category": "web.internet_related.browsers.gui.esoteric.nonvim",
-        "name": "dillo",
-        "status": "needs work",
-        "link": "https://dillo-browser.github.io/",
-        "language": "",
-        "notes": "Extensible with plugins written in any language (see the list of plugins)."
-    },
-    {
-        "category": "web.internet_related.browsers.gui.esoteric.nonvim",
-        "name": "dooble",
-        "status": "needs work",
-        "link": "https://github.com/textbrowser/dooble",
-        "language": "",
-        "notes": "!!!"
-    },
-    {
-        "category": "web.internet_related.browsers.gui.esoteric.nonvim",
-        "name": "hskit",
-        "status": "needs work",
-        "link": "https://github.com/isovector/hskit",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.esoteric.nonvim",
-        "name": "ladybird",
-        "status": "needs work",
-        "link": "https://ladybird.dev/",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.esoteric.nonvim",
-        "name": "min",
-        "status": "needs work",
-        "link": "https://github.com/minbrowser/min",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.esoteric.nonvim",
-        "name": "webkitten",
-        "status": "needs work",
-        "link": "https://github.com/kattrali/webkitten",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.hacker",
-        "name": "Tin Browser",
-        "status": "needs work",
-        "link": "https://github.com/Wervice/Codelink/blob/main/tin/tin.md",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.hacker",
-        "name": "wyeb - a vim-like webkit2gtk web browser",
-        "status": "needs work",
-        "link": "https://wyeb.org/",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.ricing.reference_extensions",
-        "name": "Change-Colors",
-        "status": "needs work",
-        "link": "https://github.com/srndpty/Change-Colors",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.ricing.reference_extensions",
-        "name": "Midnight-Lizard/Midnight-Lizard",
-        "status": "needs work",
-        "link": "https://github.com/Midnight-Lizard/Midnight-Lizard",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.ricing.reference_extensions",
-        "name": "paxmod",
-        "status": "needs work",
-        "link": "https://github.com/numirias/paxmod",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.ricing.reference_extensions",
-        "name": "treestyletab",
-        "status": "needs work",
-        "link": "https://github.com/piroor/treestyletab",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.ricing.reference_extensions",
-        "name": "web-extension-color-changer",
-        "status": "needs work",
-        "link": "https://github.com/rokit/web-extension-color-changer",
-        "language": "",
-        "notes": "[chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp](https://chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp)"
-    },
-    {
-        "category": "web.internet_related.browsers.terminal_gui",
-        "name": "carbonyl",
-        "status": "needs work",
-        "link": "https://github.com/fathyb/carbonyl",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.tui",
-        "name": "w3m-mee",
-        "status": "needs work",
-        "link": "http://pub.ks-and-ks.ne.jp/prog/w3mmee/",
-        "language": "",
-        "notes": ""
     },
     {
         "category": "webdev.crawling_scraping_downloading",

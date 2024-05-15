@@ -1,11 +1,35 @@
 [
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "123elf",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/taviso/123elf",
         "language": "",
         "notes": "A native port of Lotus 1-2-3 Release 3 to Linux."
+    },
+    {
+        "category": "console.cleanup",
+        "name": "FileSorterX",
+        "status": "selected; needs nix packaging",
+        "link": "https://github.com/Zephira58/FileSorterX",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "antidot",
+        "status": "selected; needs nix packaging",
+        "link": "https://github.com/doron-cohen/antidot",
+        "language": "",
+        "notes": "clean up HOME"
+    },
+    {
+        "category": "console.cleanup",
+        "name": "organize-rt",
+        "status": "selected; needs nix packaging",
+        "link": "https://gitlab.com/simonsan/organize-rt",
+        "language": "",
+        "notes": ""
     },
     {
         "category": "console.data.document.json",
@@ -100,6 +124,30 @@
         "name": "lxroot",
         "status": "selected; needs nix packaging",
         "link": "try out and potentially package for NixOS",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.esoteric.vim",
+        "name": "neosurf",
+        "status": "selected; needs nix packaging",
+        "link": "https://github.com/CobaltBSD/neosurf",
+        "language": "",
+        "notes": "+ [visurf](https://sr.ht/~sircmpwn/visurf/)"
+    },
+    {
+        "category": "gui.browser.esoteric.vim",
+        "name": "surf-wayland",
+        "status": "selected; needs nix packaging",
+        "link": "https://github.com/Michasze/surf-wayland",
+        "language": "",
+        "notes": "Suckless surf browser that runs on Wayland compositors"
+    },
+    {
+        "category": "gui.browser.extensions.adblock",
+        "name": "Enhancer for YouTube",
+        "status": "selected; needs nix packaging",
+        "link": "https://github.com/YouTube-Enhancer/extension",
         "language": "",
         "notes": ""
     },
@@ -238,29 +286,5 @@
         "link": "https://github.com/bigH/git-fuzzy",
         "language": "",
         "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.extensions.adblock",
-        "name": "Enhancer for YouTube",
-        "status": "selected; needs nix packaging",
-        "link": "https://github.com/YouTube-Enhancer/extension",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.esoteric.vim",
-        "name": "neosurf",
-        "status": "selected; needs nix packaging",
-        "link": "https://github.com/CobaltBSD/neosurf",
-        "language": "",
-        "notes": "+ [visurf](https://sr.ht/~sircmpwn/visurf/)"
-    },
-    {
-        "category": "web.internet_related.browsers.gui.esoteric.vim",
-        "name": "surf-wayland",
-        "status": "selected; needs nix packaging",
-        "link": "https://github.com/Michasze/surf-wayland",
-        "language": "",
-        "notes": "Suckless surf browser that runs on Wayland compositors"
     }
 ]

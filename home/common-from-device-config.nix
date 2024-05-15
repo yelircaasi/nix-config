@@ -10,26 +10,43 @@
     if nameBool
     then [namePath]
     else [];
-  appendIfIn = nameString: nameList: namePath:
+  listIf = nameList: nameString: namePath:
     if (builtins.elem nameString nameList)
     then [namePath]
     else [];
 in {
   imports = builtins.concatLists [
     [
-      ./applications/development/git
-      ./applications/development/cli-utils/core
-      ./applications/development/cli-utils/tui-file-browser/nnn
-      ./applications/development/cli-utils/tui-file-browser/xplr
-      ./applications/development/cli-utils/tui-file-browser/yazi
-      ./applications/development/shell
+      ./applications/console/git
+      ./applications/console/core
+      ./applications/console/file-browser/nnn
+      ./applications/console/file-browser/xplr
+      ./applications/console/file-browser/yazi
+      ./applications/console/shell
+
+      # ./applications/console/calculator-conversion-date
+      # ./applications/console/data-wrangling
+      # ./applications/console/dev-utils
+      # ./applications/console/educational
+      # ./applications/console/fun
+      # ./applications/console/organization-cleanup
+      # ./applications/console/quality-of-life
+      # ./applications/console/spreadsheet
+      # ./applications/console/
+      # ./applications/console/
+      # ./applications/console/
+      # ./applications/console/
+      # ./applications/console/
+      # ./applications/console/
+
+
     ]
-    (appendIfIn "neovim" deviceConfig.editors ./applications/development/neovim)
-    (appendIfIn "wezterm" deviceConfig.terminal-emulators ./applications/gui/terminal-emulator/wezterm)
-    (appendIfIn "nyxt" deviceConfig.browsers ./applications/gui/browser/nyxt)
-    (appendIfIn "qutebrowser" deviceConfig.browsers ./applications/gui/browser/qutebrowser)
-    (appendIfIn "ungoogle-chromium" deviceConfig.browsers ./applications/gui/browser/ungoogled-chromium)
-    (appendIfIn "vieb" deviceConfig.browsers ./applications/gui/browser/vieb)
-    (appendIfIn "firefox" deviceConfig.browsers ./applications/gui/browser/firefox)
+    (listIf "neovim" deviceConfig.editors ./applications/development/neovim)
+    (listIf "wezterm" deviceConfig.terminal-emulators ./applications/gui/terminal-emulator/wezterm)
+    (listIf "nyxt" deviceConfig.browsers ./applications/gui/browser/nyxt)
+    (listIf "qutebrowser" deviceConfig.browsers ./applications/gui/browser/qutebrowser)
+    (listIf "ungoogle-chromium" deviceConfig.browsers ./applications/gui/browser/ungoogled-chromium)
+    (listIf "vieb" deviceConfig.browsers ./applications/gui/browser/vieb)
+    (listIf "firefox" deviceConfig.browsers ./applications/gui/browser/firefox)
   ];
 }

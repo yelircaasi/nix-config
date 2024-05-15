@@ -551,6 +551,70 @@
         "notes": ""
     },
     {
+        "category": "gui.browser.extensions",
+        "name": "bug: chromium.extensions don't work for brave or ungoogled-chromium | Issue #2216 | nix-community/home-manager",
+        "status": "TODO: read",
+        "link": "https://github.com/nix-community/home-manager/issues/2216%23issuecomment-917507881",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.extensions.reader",
+        "name": "(2) What is the best browser + plugin for vim navigation while browsing sites? : vim",
+        "status": "TODO: read",
+        "link": "https://www.reddit.com/r/vim/comments/o5xsu2/what_is_the_best_browser_plugin_for_vim/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.extensions.reader",
+        "name": "->",
+        "status": "TODO: read",
+        "link": "https://www.google.com/search?client=firefox-b-m&sxsrf=AJOqlzW96kwIy8oB7xeBTSBuV6u0Mm33Jw%3A1675729858394&q=navigate+google+chrome+without+a+mouse+vim&oq=navigate+google+chrome+without+a+mouse+vim&aqs=heirloom-srp",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.extensions.reader",
+        "name": "Reddit - How Use firefox without mouse?",
+        "status": "TODO: read",
+        "link": "https://www.reddit.com/r/firefox/comments/l1d69d/how_use_firefox_without_mouse/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.extensions.reader",
+        "name": "best Vim extension? -> allow to still Ctrl + F",
+        "status": "TODO: read",
+        "link": "",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.extensions.theory",
+        "name": "MDN Site",
+        "status": "TODO: read",
+        "link": "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.related_tools",
+        "name": "todomvc showdown",
+        "status": "TODO: read",
+        "link": "https://wickstrom.tech/2020-07-02-the-todomvc-showdown-testing-with-webcheck.html",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.ricing.userscripting",
+        "name": "greasemonkey CSS",
+        "status": "TODO: read",
+        "link": "https://superuser.com/questions/1337469/grasemonkey-change-design-css",
+        "language": "",
+        "notes": "[documentation here](https://wiki.greasespot.net/Main_Page), [code here](https://github.com/greasemonkey/greasemonkey)"
+    },
+    {
         "category": "gui.inspection",
         "name": "Gnome Developer Documentation",
         "status": "TODO: read",
@@ -669,70 +733,6 @@
         "link": "https://www.reddit.com/r/neovim/s/ABJNQ1S1ux",
         "language": "",
         "notes": "lazygit vs neogit"
-    },
-    {
-        "category": "web.internet_related.browsers.extensions",
-        "name": "bug: chromium.extensions don't work for brave or ungoogled-chromium | Issue #2216 | nix-community/home-manager",
-        "status": "TODO: read",
-        "link": "https://github.com/nix-community/home-manager/issues/2216%23issuecomment-917507881",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.extensions.reader",
-        "name": "(2) What is the best browser + plugin for vim navigation while browsing sites? : vim",
-        "status": "TODO: read",
-        "link": "https://www.reddit.com/r/vim/comments/o5xsu2/what_is_the_best_browser_plugin_for_vim/",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.extensions.reader",
-        "name": "->",
-        "status": "TODO: read",
-        "link": "https://www.google.com/search?client=firefox-b-m&sxsrf=AJOqlzW96kwIy8oB7xeBTSBuV6u0Mm33Jw%3A1675729858394&q=navigate+google+chrome+without+a+mouse+vim&oq=navigate+google+chrome+without+a+mouse+vim&aqs=heirloom-srp",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.extensions.reader",
-        "name": "Reddit - How Use firefox without mouse?",
-        "status": "TODO: read",
-        "link": "https://www.reddit.com/r/firefox/comments/l1d69d/how_use_firefox_without_mouse/",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.extensions.reader",
-        "name": "best Vim extension? -> allow to still Ctrl + F",
-        "status": "TODO: read",
-        "link": "",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.extensions.theory",
-        "name": "MDN Site",
-        "status": "TODO: read",
-        "link": "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.related_tools",
-        "name": "todomvc showdown",
-        "status": "TODO: read",
-        "link": "https://wickstrom.tech/2020-07-02-the-todomvc-showdown-testing-with-webcheck.html",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.ricing.userscripting",
-        "name": "greasemonkey CSS",
-        "status": "TODO: read",
-        "link": "https://superuser.com/questions/1337469/grasemonkey-change-design-css",
-        "language": "",
-        "notes": "[documentation here](https://wiki.greasespot.net/Main_Page), [code here](https://github.com/greasemonkey/greasemonkey)"
     },
     {
         "category": "webdev.miscellaneous",

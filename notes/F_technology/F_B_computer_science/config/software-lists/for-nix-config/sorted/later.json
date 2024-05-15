@@ -192,6 +192,30 @@
         "notes": ""
     },
     {
+        "category": "console.database",
+        "name": "iredis",
+        "status": "selected for later",
+        "link": "https://github.com/laixintao/iredis",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.database",
+        "name": "redis-viewer",
+        "status": "selected for later",
+        "link": "https://github.com/SaltFishPr/redis-viewer",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.database",
+        "name": "soul",
+        "status": "selected for later",
+        "link": "https://github.com/thevahidal/soul",
+        "language": "",
+        "notes": ""
+    },
+    {
         "category": "console.development.debugging",
         "name": "Valgrind",
         "status": "selected for later",
@@ -600,30 +624,6 @@
         "notes": ""
     },
     {
-        "category": "development.database",
-        "name": "iredis",
-        "status": "selected for later",
-        "link": "https://github.com/laixintao/iredis",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "development.database",
-        "name": "redis-viewer",
-        "status": "selected for later",
-        "link": "https://github.com/SaltFishPr/redis-viewer",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "development.database",
-        "name": "soul",
-        "status": "selected for later",
-        "link": "https://github.com/thevahidal/soul",
-        "language": "",
-        "notes": ""
-    },
-    {
         "category": "development.editor.gui",
         "name": "FeatherEditor",
         "status": "selected for later",
@@ -776,6 +776,22 @@
         "notes": ""
     },
     {
+        "category": "gui.browser.esoteric.vim",
+        "name": "netsurf",
+        "status": "selected for later",
+        "link": "https://www.netsurf-browser.org/",
+        "language": "",
+        "notes": "+ [visurf](https://sr.ht/~sircmpwn/visurf/)"
+    },
+    {
+        "category": "gui.browser.normie",
+        "name": "firedragon !!!",
+        "status": "selected for later",
+        "link": "https://github.com/dr460nf1r3/firedragon-browser",
+        "language": "",
+        "notes": "custom branding for Garuda Linux, but looks amazing"
+    },
+    {
         "category": "gui.editor.spreadsheet",
         "name": "baserow",
         "status": "selected for later",
@@ -918,22 +934,6 @@
         "link": "https://github.com/storaged-/nnn",
         "language": "",
         "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.esoteric.vim",
-        "name": "netsurf",
-        "status": "selected for later",
-        "link": "https://www.netsurf-browser.org/",
-        "language": "",
-        "notes": "+ [visurf](https://sr.ht/~sircmpwn/visurf/)"
-    },
-    {
-        "category": "web.internet_related.browsers.gui.normie",
-        "name": "firedragon !!!",
-        "status": "selected for later",
-        "link": "https://github.com/dr460nf1r3/firedragon-browser",
-        "language": "",
-        "notes": "custom branding for Garuda Linux, but looks amazing"
     },
     {
         "category": "webdev.adblocking_etc",

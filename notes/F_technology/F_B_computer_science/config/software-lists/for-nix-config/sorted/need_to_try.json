@@ -112,6 +112,22 @@
         "notes": ", [linode/linode-cli](https://github.com/linode/linode-cli)"
     },
     {
+        "category": "gui.browser.extensions",
+        "name": "ff command line",
+        "status": "need to try",
+        "link": "https://addons.mozilla.org/en-US/firefox/addon/quick-commands/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.extensions.bookmarks",
+        "name": "Better than Bookmarks",
+        "status": "need to try",
+        "link": "https://www.gettoby.com/",
+        "language": "",
+        "notes": ""
+    },
+    {
         "category": "version_control.git_alternatives_and_complements",
         "name": "Bazaar",
         "status": "need to try",
@@ -166,22 +182,6 @@
         "link": "https://github.com/snowtrack/snowfs",
         "language": "",
         "notes": "SnowFS - a fast, scalable version control file storage for graphic files"
-    },
-    {
-        "category": "web.internet_related.browsers.extensions",
-        "name": "ff command line",
-        "status": "need to try",
-        "link": "https://addons.mozilla.org/en-US/firefox/addon/quick-commands/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.extensions.bookmarks",
-        "name": "Better than Bookmarks",
-        "status": "need to try",
-        "link": "https://www.gettoby.com/",
-        "language": "",
-        "notes": ""
     },
     {
         "category": "websites.prog_edu",

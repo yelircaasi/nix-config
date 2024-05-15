@@ -24,7 +24,15 @@
         "notes": ""
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.best_devenv",
+        "name": "wtf",
+        "status": "added",
+        "link": "https://github.com/wtfutil/wtf",
+        "language": "",
+        "notes": "personal information dashboard for the terminal !!!"
+    },
+    {
+        "category": "console.calculator-conversion-date",
         "name": "bcal",
         "status": "added",
         "link": "https://github.com/jarun/bcal",
@@ -32,7 +40,7 @@
         "notes": ""
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "bitwise",
         "status": "added",
         "link": "https://github.com/mellowcandle/bitwise",
@@ -40,7 +48,7 @@
         "notes": ""
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "dateutils",
         "status": "added",
         "link": "https://github.com/hroptatyr/dateutils",
@@ -48,7 +56,7 @@
         "notes": ""
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "dtool",
         "status": "added",
         "link": "https://github.com/guoxbin/dtool",
@@ -56,7 +64,7 @@
         "notes": ""
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "eva",
         "status": "added",
         "link": "https://github.com/nerdypepper/eva",
@@ -64,7 +72,7 @@
         "notes": ""
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "kalker",
         "status": "added",
         "link": "https://kalker.xyz/",
@@ -72,7 +80,7 @@
         "notes": ""
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "libqalculate",
         "status": "added",
         "link": "https://github.com/Qalculate/libqalculate",
@@ -80,7 +88,7 @@
         "notes": ""
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "programmer-calculator",
         "status": "added",
         "link": "https://github.com/alt-romes/programmer-calculator",
@@ -88,7 +96,7 @@
         "notes": ""
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "sc-im",
         "status": "added",
         "link": "https://github.com/andmarti1424/sc-im",
@@ -96,7 +104,7 @@
         "notes": "[andmarti1424/sc-im: sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)"
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "tv",
         "status": "added",
         "link": "https://github.com/alexhallam/tv",
@@ -104,10 +112,82 @@
         "notes": "Cross-platform CSV pretty printer made to maximize viewer enjoyment."
     },
     {
-        "category": "console.calculator_and_spreadsheet",
+        "category": "console.calculator-conversion-date",
         "name": "units",
         "status": "added",
         "link": "https://manpage.me/?q=units",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "backdown",
+        "status": "added",
+        "link": "https://github.com/Canop/backdown",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "fclones",
+        "status": "added",
+        "link": "https://github.com/pkolaczk/fclones",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "mat2",
+        "status": "added",
+        "link": "https://0xacab.org/jvoisin/mat2",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "rmlint",
+        "status": "added",
+        "link": "https://rmlint.readthedocs.io/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "symlinks",
+        "status": "added",
+        "link": "https://github.com/brandt/symlinks",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "tmsu",
+        "status": "added",
+        "link": "https://tmsu.org/",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.dashboard",
+        "name": "wtf",
+        "status": "added",
+        "link": "https://github.com/wtfutil/wtf",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.database",
+        "name": "mongosh",
+        "status": "added",
+        "link": "https://www.mongodb.com/try/download/shell",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.database",
+        "name": "pgcli",
+        "status": "added",
+        "link": "https://github.com/dbcli/pgcli",
         "language": "",
         "notes": ""
     },
@@ -124,6 +204,38 @@
         "name": "home-manager",
         "status": "added",
         "link": "https://github.com/nix-community/home-manager",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.file-browser",
+        "name": "nnn",
+        "status": "added",
+        "link": "https://github.com/jarun/nnn",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.file-browser",
+        "name": "xplr",
+        "status": "added",
+        "link": "https://github.com/sayanarijit/xplr",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "console.file-browser",
+        "name": "yazi",
+        "status": "added",
+        "link": "https://github.com/sxyazi/yazi",
+        "language": "",
+        "notes": "[yazi-rs.github](https://yazi-rs.github.io/)"
+    },
+    {
+        "category": "console.help",
+        "name": "thefuck",
+        "status": "added",
+        "link": "https://github.com/nvbn/thefuck",
         "language": "",
         "notes": ""
     },
@@ -200,22 +312,6 @@
         "notes": "read [this](https://blog.while-true-do.io/podman-graphical-interfaces/)"
     },
     {
-        "category": "development.database",
-        "name": "mongosh",
-        "status": "added",
-        "link": "https://www.mongodb.com/try/download/shell",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "development.database",
-        "name": "pgcli",
-        "status": "added",
-        "link": "https://github.com/dbcli/pgcli",
-        "language": "",
-        "notes": ""
-    },
-    {
         "category": "development.documentation",
         "name": "sphinx",
         "status": "added",
@@ -240,28 +336,52 @@
         "notes": ""
     },
     {
-        "category": "file_management.tui",
-        "name": "nnn",
+        "category": "gui.browser.hacker",
+        "name": "nyxt",
         "status": "added",
-        "link": "https://github.com/jarun/nnn",
+        "link": "https://nyxt.atlas.engineer/",
         "language": "",
         "notes": ""
     },
     {
-        "category": "file_management.tui",
-        "name": "xplr",
+        "category": "gui.browser.hacker",
+        "name": "qutebrowser",
         "status": "added",
-        "link": "https://github.com/sayanarijit/xplr",
+        "link": "https://github.com/qutebrowser/qutebrowser",
         "language": "",
         "notes": ""
     },
     {
-        "category": "file_management.tui",
-        "name": "yazi",
+        "category": "gui.browser.mobile",
+        "name": "Adblock Browser",
         "status": "added",
-        "link": "https://github.com/sxyazi/yazi",
+        "link": "",
         "language": "",
-        "notes": "[yazi-rs.github](https://yazi-rs.github.io/)"
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.mobile",
+        "name": "Firefox Focus",
+        "status": "added",
+        "link": "",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.normie",
+        "name": "firefox",
+        "status": "added",
+        "link": "...",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "gui.browser.normie",
+        "name": "ungoogled-chromium",
+        "status": "added",
+        "link": "...",
+        "language": "",
+        "notes": ""
     },
     {
         "category": "messaging.lemmy",
@@ -318,54 +438,6 @@
         "link": "https://dvc.org/",
         "language": "",
         "notes": "already using; compare to dolt"
-    },
-    {
-        "category": "web.internet_related.browsers.gui.hacker",
-        "name": "nyxt",
-        "status": "added",
-        "link": "https://nyxt.atlas.engineer/",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.hacker",
-        "name": "qutebrowser",
-        "status": "added",
-        "link": "https://github.com/qutebrowser/qutebrowser",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.mobile",
-        "name": "Adblock Browser",
-        "status": "added",
-        "link": "",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.mobile",
-        "name": "Firefox Focus",
-        "status": "added",
-        "link": "",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.normie",
-        "name": "firefox",
-        "status": "added",
-        "link": "...",
-        "language": "",
-        "notes": ""
-    },
-    {
-        "category": "web.internet_related.browsers.gui.normie",
-        "name": "ungoogled-chromium",
-        "status": "added",
-        "link": "...",
-        "language": "",
-        "notes": ""
     },
     {
         "category": "websites.miscellaneous",

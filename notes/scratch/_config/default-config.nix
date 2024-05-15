@@ -46,7 +46,7 @@
     "training"
     "tree-file-browser"
     "treesitter-and-extensions"
-    "tui-file-browser"
+    "file-browser"
     "ui"
   ];
   languages = [

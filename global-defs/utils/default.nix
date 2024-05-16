@@ -4,7 +4,7 @@
   findAllPlaceholders = fileString: getMatches (splitFileString fileString);
 
   getNewValues = globalSet: placeholderList: b.map (lookUpPlaceholder globalSet) placeholderList;
-
+  
   splitFileString = fileString: (b.split "(<[|] [[:alnum:]_\\.]* [|]>)" fileString);
 
   getMatches = splitList: b.map b.head (filterMatches splitList);

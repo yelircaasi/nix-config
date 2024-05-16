@@ -1,5 +1,6 @@
 # SORT
 
+* [hackster](https://www.hackster.io/)
 * [performance blog for developers](https://simpleprogrammer.com/)
 * [Practical System Programming for Rust Developers: Build fast and secure software for Linux/Unix systems with the help of practical examples](https://libgen.rs/book/index.php?md5=46C9B5B1BED7E89C1326087FB6224676)
 * [Effective Software Testing: A developer's guide](http://libgen.rs/book/index.php?md5=4D46EA435A8FF063AB9FBFA8C22F5328)

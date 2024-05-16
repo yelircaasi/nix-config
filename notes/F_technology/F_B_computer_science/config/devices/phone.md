@@ -347,3 +347,4 @@
 * {phone sync} [librera-sync](https://github.com/jumper047/librera-sync)
 * ( ) [localsend](https://f-droid.org/packages/org.localsend.localsend_app/)
 * ( ) [blisslauncher](https://f-droid.org/packages/foundation.e.blisslauncher/)
+* ( ) [...](https://williamvds.me/blog/nixos-on-librem-5/)

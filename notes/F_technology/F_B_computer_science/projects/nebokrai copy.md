@@ -14,6 +14,7 @@
 * IRC?
 * learn about plugin architecture - neovim, qutebrowser, anki, qtile, xplr, emacs, awesome, hilbish, vim, wezterm, kitty, other lua-configurable apps, etc
 * name ideas: teclado, accordo, keycritic
+* name ideas: taskifist, consilium, nebokrai, haskwarrior
 
 ### Discord Discussion TODO: CLEANUP
 
@@ -205,9 +206,9 @@ E (Express)
   * planager-frontend
   * planager-signal → semaphore of signal-cli or signal-api-rest-api or signal-bot (java) or libsignal or signal-server?
   * requirements
-                1. notify of start/end of schedule entries
-                2. record (as response to prompts) status of tasks, including sub-items of routines
-                3.
+    1. notify of start/end of schedule entries
+    2. record (as response to prompts) status of tasks, including sub-items of routines
+    3.
   * planager.nvim - from nvim with Neorg, or as neorg module?
   * planager-tui - bubbletea, rich, textual, or Ratatui?
   * planager-django - prototying for backend → alternatives: flask, cherry-py, fastapi?
@@ -237,23 +238,12 @@ E (Express)
   [Appflowy](https://appflowy.io/) - just needs cloud setup, vim keybindings, and customizable colors → on the way? [shortcuts](https://docs.appflowy.io/docs/appflowy/community/appflowy-mentorship-program/mentorship-2022/mentee-projects/shortcuts-and-customized-hotkeys-for-appflowy) and [color themes](https://docs.appflowy.io/docs/appflowy/community/appflowy-mentorship-program/mentorship-2022/mentee-projects/custom-themes) - shortcuts may require further hacking, or maybe just a kanata/other layer on top [...](https://blog.appflowy.io/appflowy-2nd-anniversary-and-2023-roundup/)
 * ( ) get Android build for AppFlowy working → [AppFlowy-IO/AppFlowy/actions/runs/4582846778/jobs/8093324716](https://github.com/AppFlowy-IO/AppFlowy/actions/runs/4582846778/jobs/8093324716)
 * ( ) [docs.flutter.dev/deployment/android](https://docs.flutter.dev/deployment/android)
-* ( ) [orgs/AppFlowy-IO/projects](https://github.com/orgs/AppFlowy-IO/projects)
+* ( ) [AppFlowy-IO projects](https://github.com/orgs/AppFlowy-IO/projects)
 * ( ) eventually add vim keybindings (<https://appflowy.gitbook.io/docs/essential-documentation/shortcuts>)
       * ChatGPT on hosting
 
-```txt
-
-AppFlowy is a web application, which means that you can use it on any device that has a web browser. To host it so that you can use it on your Android device and desktop, there are a few options:
-
-1. Host it on a server and access it through a web browser on your desktop and Android device: You can host AppFlowy on a server and access it through a web browser on your desktop or Android device. This way, you can use AppFlowy on any device that has a web browser.
-2. Install a local server on your desktop and access it through a web browser on your desktop and Android device: You can install a local server on your desktop and access AppFlowy through a web browser on your desktop or Android device. This way, you can use AppFlowy on your desktop without an internet connection, and access it on your Android device through a local network.
-3. Use a cloud-based service that allows you to host web applications: There are several cloud-based services, such as AWS, DigitalOcean, and Heroku, that allow you to host web applications. You can host AppFlowy on one of these services and access it through a web browser on your desktop or Android device. This way, you can use AppFlowy on any device that has a web browser, and you don't need to worry about managing a server.
-
-Regardless of which option you choose, it's important to make sure that you keep your AppFlowy account secure by using a strong and unique password, and enabling two-factor authentication if possible.
-
-                search “hosting” [discord.com/channels/903549834160635914/903553722804748309](https://discord.com/channels/903549834160635914/903553722804748309)
-
-  * advice
+```sh
+  * General advice
 
                 Here are some best practices for planning, organizing, and tracking your time:
 
@@ -429,8 +419,6 @@ adhoc is counterpart to plan, containing tasks (but one-off, non-derivable) -> a
 
 ### Scheduler Notes TODO: CLEANUP
 
-Scheduler
-
 * ( ) [medium.com/@thegapfill/productivity-article-eb1df36d4dbf](https://medium.com/@thegapfill/productivity-article-eb1df36d4dbf) 
 * ( ) [researchgate.net/publication/341780522_Task_Scheduling_in_Cloud_Computing_A_Survey/link/5f37b224458515b729221960/download](https://www.researchgate.net/publication/341780522_Task_Scheduling_in_Cloud_Computing_A_Survey/link/5f37b224458515b729221960/download)
 * ( ) [Algorithms for Scheduling Problems](http://library.lol/main/5E75C506698832A19DCF51915EA014A4)
@@ -443,7 +431,7 @@ Scheduler
 * ( ) [Constraint-Based Scheduling: Applying Constraint Programming to Scheduling Problems *[1 ed.]*](http://libgen.rs/book/index.php?md5=9D333284F1AF9D661620AD274CF113B7)
 * ( ) [web-static.stern.nyu.edu/om/faculty/pinedo/scheduling/sched.pdf](https://web-static.stern.nyu.edu/om/faculty/pinedo/scheduling/sched.pdf)
 * ( ) [javatpoint.com/activity-or-task-scheduling-problem](https://www.javatpoint.com/activity-or-task-scheduling-problem)
-* ( ) [teamdoapp.com/inspiration/increase-productivity-with-effective-task-scheduling/](https://teamdoapp.com/inspiration/increase-productivity-with-effective-task-scheduling/)
+* ( ) [teamdoapp.com/inspiration/increase-productivity-with-effective-task-scheduling](https://teamdoapp.com/inspiration/increase-productivity-with-effective-task-scheduling/)
 * ( ) [Machine learning and optimization for production rescheduling in Industry 4.0](https://link.springer.com/article/10.1007/s00170-020-05850-5)
 
 ### Entries TODO: CLEANUP
@@ -543,14 +531,6 @@ Scheduler
  manually via neorg, or via semaphore. One file per metric for easy
 * tracking; move dates more than 30 days old to the old store (more
 * efficient format?)
-
-* (1) [ryot](https://github.com/IgnisDa/ryot) $$$$$$$$$
-* (1) [tf-viewer](https://github.com/danielalvsaaker/tf-viewer) $$$$$$
-* ( ) [track-time-cli](https://github.com/f3rno64/track-time-cli)
-* ( ) [omgwdyd](https://github.com/timmybytes/OMGWDYD) -> see also git-standup
-* ( ) [bartib](https://github.com/nikolassv/bartib) A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
-* ( ) [pulse](https://github.com/creativecreature/pulse) like a fitness tracker for your coding sessions
-* (5) [node-did](https://github.com/chrisallenlane/node-did) - maybe fork and update, or better yet, port to another language
 
 ### Sync, Multi-Device, Etc TODO: CLEANUP
 
@@ -659,7 +639,7 @@ Scheduler
 * ( ) dead tree Rust book in German → roadmaps
 * ( ) → Implement scheduling module in polyglot-projects, also corresponding visualizer
 * ( ) TRACKING: manually via neorg, or via semaphore. One file per metric for easy tracking; move dates more than 30 days old to the old store (more efficient format?)
-* ( ) [packaging.python.org/en/latest/guides/creating-and-discovering-plugins/](https://packaging.python.org/en/latest/guides/creating-and-discovering-plugins/)
+* ( ) [packaging.python.org/en/latest/guides/creating-and-discovering-plugins](https://packaging.python.org/en/latest/guides/creating-and-discovering-plugins/)
 * Idea Sources, Inspirations, Libraries, Tools, Dependencies
 
     Personal Kanban
@@ -685,7 +665,7 @@ Scheduler
 
 ### Features TODO: CLEANUP
 
-* ( ) Gantt chart (from Roadmaps spreadsheet) → example: [task-gantt](https://github.com/8ware/task-gantt)
+* ( ) Gantt chart (from Roadmaps spreadsheet)
   * Features
 * ( ) support for different roadmaps, zipped together
 * ( ) support for adding a project (e.g. book) with a list/range of sub-projects (e.g. chapters)
@@ -723,13 +703,13 @@ Scheduler
 * ( ) [Notifications via Telegram](https://core.telegram.org/bots/api)
   * Features
   * examples / to use
-* ( ) [Ninlives/taskwarrior-telegram-bot](https://github.com/Ninlives/taskwarrior-telegram-bot)
-* ( ) [rhnvrm/tg-taskwarrior-bot](https://github.com/rhnvrm/tg-taskwarrior-bot)
-* ( ) [cedricbousmanne/telegram-taskwarrior](https://github.com/cedricbousmanne/telegram-taskwarrior)
+* ( ) [taskwarrior-telegram-bot](https://github.com/Ninlives/taskwarrior-telegram-bot)
+* ( ) [tg-taskwarrior-bot](https://github.com/rhnvrm/tg-taskwarrior-bot)
+* ( ) [telegram-taskwarrior](https://github.com/cedricbousmanne/telegram-taskwarrior)
 * ( ) [ ]
 * ( ) [Notion integration](https://developers.notion.com/reference/intro)?
   * Features
-* ( ) [syncthing.net/](https://syncthing.net/)
+* ( ) [syncthing.net](https://syncthing.net/)
 
 ### Roadmap TODO: CLEANUP
 
@@ -743,9 +723,9 @@ Scheduler
     3. read the codebase
     4. read the additional module code as well
 * Become intimately familiar with the structure of lua plugins in neovim
-    1. [neovim.io/doc/user/](https://neovim.io/doc/user/)
+    1. [neovim.io/doc/user](https://neovim.io/doc/user/)
     2. read [neovim.io/doc/user/develop.html](https://neovim.io/doc/user/develop.html)
-    3. skim [neovim/neovim/wiki#developers](https://github.com/neovim/neovim/wiki#developers)
+    3. skim [neovim wiki for developers](https://github.com/neovim/neovim/wiki#developers)
     4. browse [sourcegraph.com/github.com/neovim/neovim](https://sourcegraph.com/github.com/neovim/neovim)
     5. pick 6 interesting plugins and review their code
 * done
@@ -786,8 +766,8 @@ Scheduler
 * ( ) [x]  add colorful logging for easier debugging
 * ( ) [x]  find script to convert ansi output to html
 * ( ) [metacpan.org/release/NUFFIN/HTML-FromANSI-2.03](https://metacpan.org/release/NUFFIN/HTML-FromANSI-2.03)
-* ( ) [theZiz/aha](https://github.com/theZiz/aha)
-* ( ) [x]  [pycontribs/ansi2html](https://github.com/pycontribs/ansi2html)
+* ( ) [aha](https://github.com/theZiz/aha)
+* ( ) [x]  [ansi2html](https://github.com/pycontribs/ansi2html)
 * ( ) [x]  refactor plan gantt code in Planager - make run as a method of plan, taking an iterable of projects - just re-write the whole thing?
 * ( ) [x]  write code to read plan and schedule from derivation.json → will make development much easier → instead just overhaul entire serde for everything, with i-roved dictionary types
 * ( ) [x]  add coverage plugin to pytest
@@ -799,15 +779,17 @@ Scheduler
 * ( ) [x]  organize CLI commands in hierarchical families → declaration …, derivation … (view, edit, add), validate [docs.python.org/3/library/argparse.html#sub-commands](https://docs.python.org/3/library/argparse.html#sub-commands)
 * ( ) [x]  switch from argparse to sys.argv
 * ( ) [x]  add “summary” command to get a good overview of all
-* ( ) ~~add parsim properties to entities for logging and debugging~~- [ ]  ~~add types for CLI to ensure coverage and correctness~~- [ ]  ~~add declaration class for easy interaction with declaration JSON files~~
+* ( ) add parsim properties to entities for logging and debugging- [ ]  add types for CLI to ensure coverage and correctness- [ ]  add declaration class for easy interaction with declaration JSON files
 * ( ) calendar
 * ( ) deserialization
 * ( ) serialization
 * ( ) editing
 * ( ) search
-* ( ) …- [ ]  ~~do the same as above, but for derivation~~- [ ]  ~~same as above for tracking~~- [ ]  ~~add help command~~
+* ( ) [ ]  do the same as above, but for derivation
+      - [ ]  same as above for tracking
+      - [ ]  add help command
 * ( ) [x]  add command aliases
-* ( ) ~~test all possible command-line options with dummy output~~- [ ]  ~~prompt tests:~~
+* ( ) test all possible command-line options with dummy output- [ ]  prompt tests:
 * ( ) config from dicts
 * ( ) subitem
 * ( ) components
@@ -845,12 +827,11 @@ Scheduler
 * ( ) write basic, minimal tests for opening, planning, scheduling, and tracking
 * ( ) add LaTeX generation for plans and schedules!!!- [ ]  add beautiful image code generation for logs
 * ( ) revise declaration and get back in the saddle
-* ( ) add export and import for:
-* ( ) * ( ) [jotaen/xit](https://github.com/jotaen/xit) [xit.jotaen.net/](https://xit.jotaen.net/)
-* ( ) .ics (calendar standard) → [collective/icalendar,](https://github.com/collective/icalendar,) [ics-py/ics-py](https://github.com/ics-py/ics-py)
-* (2) [vdirsyncer,](https://github.com/pimutils/vdirsyncer)
-* ( ) CalDav [pypi.org/project/khalorg/](https://pypi.org/project/khalorg/)
-* ( ) [khal](https://github.com/pimutils/khal)→ integrate with Nebokrai (in Python) → same developer | (2.5) [calcurse](https://github.com/lfos/calcurse)- [calcurse.org/](https://calcurse.org/) - good-looking interface (2.5) [girok](https://github.com/noisrucer/girok)- nice TUI, written in Python → look at codebase, use with planager? also[girokserver](https://github.com/noisrucer/girokserver)- even makes me rethink whether Python might me a good productivity app / TUI language, after all - nothing about color configs → fork and add config settings, then MR
+* ( ) add export and import for [x]it, khal, girok (my fork), calcurse, caldav, etc
+* ( ) * ( ) [xit](https://github.com/jotaen/xit) [xit.jotaen.net](https://xit.jotaen.net/)
+Python might me a good productivity app / TUI language, after all - nothing about color configs → fork and add config settings, then MR -> first fork & modify to remove login requirement!
+* [alt cal](https://github.com/frossm/cal)
+* ( ) [tui example C++](https://github.com/ggerganov/wtf-tui?tab=readme-ov-file)
 * ( ) neorg
 * ( ) orgmode -> * {prod org} [...](https://www.reddit.com/r/emacs/s/HJemdxK4sd) reorg
 * ( ) todo.txt
@@ -868,7 +849,7 @@ Scheduler
 * ( ) deploy on home server
 * ( ) make home server accessible from outside network
 * old - go through and sort!
-* ( ) Test creating executable using [exaloop/codon](https://github.com/exaloop/codon) [docs.exaloop.io/codon/](https://docs.exaloop.io/codon/) ; alternatively look at using [cython/cython](https://github.com/cython/cython) [docs](https://cython.readthedocs.io/en/latest/index.html)
+* ( ) Test creating executable using [codon](https://github.com/exaloop/codon) [docs](https://docs.exaloop.io/codon/) ; alternatively look at using [cython](https://github.com/cython/cython) [docs](https://cython.readthedocs.io/en/latest/index.html)
 * ( ) [read](https://blog.paperspace.com/boosting-python-scripts-cython/) (or competitor to cython?)
 * ( ) create subsequent steps related to creating a compiled executable app
 * ( ) add blocks and make work with scheduling
@@ -892,23 +873,23 @@ Scheduler
 * ( ) Basic tests for adding entries to schedule
 * ( ) advanced adding and deleting functionality
 * ( ) write signal package for messaging (& update tests)
-* ( ) Read [hamberg.no/gtd,](https://hamberg.no/gtd,) [gettingthingsdone.com/what-is-gtd/,](https://gettingthingsdone.com/what-is-gtd/,) [en.wikipedia.org/wiki/Getting_Things_Done](https://en.wikipedia.org/wiki/Getting_Things_Done)
+* ( ) Read [gtd article](https://hamberg.no/gtd,) [what-is-gtd](https://gettingthingsdone.com/what-is-gtd/,) [wikipedia](https://en.wikipedia.org/wiki/Getting_Things_Done)
 * ( ) Map out [structure of system](https://www.notion.so/Design-and-Architecture-Notes-1a0633919e2e45838e3794e4aad4bee4?pvs=21)
 
 ## Potential Software Dependencies/ Integrations TODO: CLEANUP
 
 * (1) brick, optparse-applicative, refined, aeson, aeson-schema -> (2) [quicktype](https://github.com/glideapps/quicktype) $$$$$$$$$ [site](https://app.quicktype.io/) for aeson
-* (1) [nikita-volkov.github.io/refined/](https://nikita-volkov.github.io/refined/)
-* (2) [srid/emanote](https://github.com/srid/emanote) $$$
+* (1) [nikita-volkov.github.io/refined](https://nikita-volkov.github.io/refined/)
+* (2) [emanote](https://github.com/srid/emanote) $$$
 * (3) inthe.am
 
 ## Inspirations TODO: CLEANUP
 
-* (1) [docs.smos.online/](https://docs.smos.online/) $$$$$$$$$ [NorfairKing/smos](https://github.com/NorfairKing/smos)
+* (1) [docs.smos.online](https://docs.smos.online/) $$$$$$$$$ [smos](https://github.com/NorfairKing/smos)
 * (1) [Intray: An Inbox system](https://intray.cs-syd.eu/) [github](https://github.com/NorfairKing/intray)
 * (1) [Tickler: A Tickler system](https://tickler.cs-syd.eu/) [github](https://github.com/NorfairKing/tickler)
 * (1) [Super Productivity – a to do list to get your head free | Super Productivity](https://super-productivity.com/) [super-productivity](https://super-productivity.com/)  [super-productivity](https://super-productivity.com/) To Do List / Time Tracker with Jira Integration
-* (3) [Q1CHENL/todoism](https://github.com/Q1CHENL/todoism)
+* (3) [todoism](https://github.com/Q1CHENL/todoism)
 
 ## Relevant Software by Category TODO: CLEANUP
 
@@ -925,47 +906,50 @@ Scheduler
 * ( ) [My Day Is Being Planned by an Algorithm](https://dev.to/mortenolsen/my-day-is-being-planned-by-an-algorithm-46ja) [demo site](https://mortenolsen.pro/bob-the-algorithm/) [source code](https://github.com/morten-olsen/bob-the-algorithm)
 * ( ) [interesting considerations](https://help.usemotion.com/motion-overview/whats-motion/ai-auto-scheduling-explained-harness-the-power-of-intelligent-task-management)
 * ( ) [AGILE-Planner-Lite](https://github.com/AGILE-Systems/AGILE-Planner-Lite)
-* ( ) [](https://en.wikipedia.org/wiki/Nurse_scheduling_problem)
-* ( ) [](https://en.wikipedia.org/wiki/Employee_scheduling_software)
-* ( ) [](https://en.wikipedia.org/wiki/Gantt_chart)
-* ( ) [](https://en.wikipedia.org/wiki/Constraint_programming)
-* ( ) [](https://en.wikipedia.org/wiki/Automated_planning_and_scheduling)
-* ( ) [](https://softwareengineering.stackexchange.com/questions/293607/calendar-planning-algorithm)
-* ( ) [](https://stackoverflow.com/questions/2177836/algorithm-for-creating-a-school-timetable)
-* ( ) [](https://www.reddit.com/r/computerscience/comments/ucqyd2/schedule_maker_algorithm/)
+* ( ) [Nurse_scheduling_problem](https://en.wikipedia.org/wiki/Nurse_scheduling_problem)
+* ( ) [Employee_scheduling_software](https://en.wikipedia.org/wiki/Employee_scheduling_software)
+* ( ) [Gantt_chart](https://en.wikipedia.org/wiki/Gantt_chart)
+* ( ) [Constraint_programming](https://en.wikipedia.org/wiki/Constraint_programming)
+* ( ) [Automated_planning_and_scheduling](https://en.wikipedia.org/wiki/Automated_planning_and_scheduling)
+* ( ) [calendar-planning-algorithm](https://softwareengineering.stackexchange.com/questions/293607/calendar-planning-algorithm)
+* ( ) [algorithm-for-creating-a-school-timetable](https://stackoverflow.com/questions/2177836/algorithm-for-creating-a-school-timetable)
+* ( ) [schedule_maker_algorithm](https://www.reddit.com/r/computerscience/comments/ucqyd2/schedule_maker_algorithm/)
 
 ### To-Do / Task Management Software TODO: CLEANUP
 
-* ( ) [fokus](https://github.com/icabetong/fokus-android)
-* ( ) [condution](https://www.condution.com/)
-* (2) [vikunja](https://vikunja.io/) $$$
-* (5) [ttdl](https://github.com/VladimirMarkelov/ttdl)→ integrate with planager
-* (2) [GothenburgBitFactory/taskwarrior: Taskwarrior - Command line Task Management](https://github.com/GothenburgBitFactory/taskwarrior) [GothenburgBitFactory/tasklib](<https://github.com/GothenburgBitFactory/timewarrior>](<https://github.com/GothenburgBitFactory/tasklib>](<https://github.com/GothenburgBitFactory/timewarrior>) [GothenburgBitFactory/tasklib)→](https://github.com/GothenburgBitFactory/tasklib)→) integrate with planager? [taskwarrior,](https://github.com/GothenburgBitFactory/taskwarrior,)<https://github.com/GothenburgBitFactory/taskserver.[timewarrior>
-* (5) [taskell](https://github.com/smallhadroncollider/taskell)→ interesting because of codebase; kanban interface also nice → integrate with planager
-* (2) [todoman](https://github.com/pimutils/todoman) → see](<https://datatracker.ietf.org/doc/html/rfc5545>) -> integrate with Nebokrai
-* (5) [todo](https://github.com/Axarva/todo) A simple todo list program in Haskell
-* ( ) [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
-* ( ) [todotxt.org/](http://todotxt.org/) → integrate with planager
-* [tasklite](https://tasklite.org/) [TaskLite: A CLI task manager built with Haskell and SQLite : r/commandline](https://www.reddit.com/r/commandline/comments/f8io2v/tasklite_a_cli_task_manager_built_with_haskell/)
-* ( ) [dooit](https://github.com/kraanzu/dooit) Elevate Your Task Management With Ease [Keep Your TODO List & Notes Simple With Dooit](https://www.youtube.com/watch?v=hI4On2HPElc)
+-> https://tasklite.org/related.html $$$
+
 * ( ) [cafe](https://github.com/zbeaver/cafe) Keep Your TODO List & Notes Simple With Dooit - YouTube
-* ( ) [prioritize](https://github.com/ralphbean/prioritize)
-* ( ) [skylist](https://github.com/Skyost/SkyList) - A small but powerful To-Do & Task list for Android
-* ( ) [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager → [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) with [vit](https://github.com/vit-project/vit) or taskwarrior-tui (look at [klaussinani/taskbook](https://github.com/klaussinani/taskbook) interface)
-* other sources of ideas:
-* ( ) [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
-* ( ) [taskell](https://taskell.app/) - Command-line Trello-like kanban-board/TODO lists.
-* ( ) [Everdo](https://everdo.net/) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.
-* ( ) [Super Productivity](https://super-productivity.com/) - The simple free flexible ToDo List / Time Tracker / personal Jira and Github Task Manager.
-* ( ) [sleek](https://github.com/ransome1/sleek) - Cross platform todo manager based on the todo.txt syntax.
-* ( ) [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based) → almost usable; incorporate ideas into gtt
-* ( ) [kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings. → excellent interface: use? or adopt ideas?
+* ( ) [condution](https://www.condution.com/)
+* ( ) [dooit](https://github.com/kraanzu/dooit) Elevate Your Task Management With Ease [Keep Your TODO List & Notes Simple With Dooit](https://www.youtube.com/watch?v=hI4On2HPElc)
 * ( ) [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task → keep taskwarrior, but look at this for ideas
-* ( ) [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task. → idea
-* ( ) [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
-* ( ) [Planner](https://useplanner.com/) - Planner keeps track of all your tasks, projects, and goals in one beautifully simple place. → borrow interface ideas?
-* ( ) [Todo.txt](http://todotxt.com/) - Todo.txt is a set of focused editors which help you manage your tasks with as few keystrokes and taps possible.
-* ( ) [manyids2/taskwar.nvim](https://github.com/manyids2/taskwar.nvim)
+* ( ) [everdo](https://everdo.net/) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.
+* ( ) [fokus](https://github.com/icabetong/fokus-android)
+* ( ) [go for it](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task. → idea
+* ( ) [planner](https://useplanner.com/) - Planner keeps track of all your tasks, projects, and goals in one beautifully simple place. → borrow interface ideas?
+* ( ) [prioritize](https://github.com/ralphbean/prioritize)
+* ( ) [redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
+* ( ) [skylist](https://github.com/Skyost/SkyList) - A small but powerful To-Do & Task list for Android
+* ( ) [sleek](https://github.com/ransome1/sleek) - Cross platform todo manager based on the todo.txt syntax.
+* ( ) [super productivity](https://super-productivity.com/) - The simple free flexible ToDo List / Time Tracker / personal Jira and Github Task Manager.
+* ( ) [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
+* ( ) [taskbook](https://github.com/klaussinani/taskbook) - look at interface
+* ( ) [tasklib](https://github.com/GothenburgBitFactory/tasklib) - Python library for TW database interaction
+* ( ) [tasklite](https://tasklite.org/) [comparison](https://tasklite.org/differences_taskwarrior.html) - A CLI task manager built with Haskell and SQLite
+* ( ) [taskserver](https://github.com/GothenburgBitFactory/taskserver)
+* ( ) [taskwar.nvim](https://github.com/manyids2/taskwar.nvim)
+* ( ) [vit](https://github.com/vit-project/vit)
+* ( ) [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui)
+* ( ) [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
+* ( ) [todo.txt](http://todotxt.com/) - Todo.txt is a set of focused editors which help you manage your tasks with as few keystrokes and taps possible.
+* ( ) [todotxt.org](http://todotxt.org/) → integrate with planager
+* (1) [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
+* (2) [todoman](https://github.com/pimutils/todoman) → see [iCalendar spec](https://datatracker.ietf.org/doc/html/rfc5545) -> integrate with Nebokrai
+* (2) [vikunja](https://vikunja.io/) $$$
+* (5) [taskell](https://github.com/smallhadroncollider/taskell)→ interesting because of codebase; kanban interface also nice → integrate with planager
+* (5) [todo](https://github.com/Axarva/todo) A simple todo list program in Haskell
+* (5) [ttdl](https://github.com/VladimirMarkelov/ttdl)→ integrate with planager
+* (propr) [smartsheet](https://www.smartsheet.com/pricing) - worth trying to see the interface
 
 #### Luxury TODO: CLEANUP
 
@@ -980,9 +964,11 @@ Scheduler
 
 ### Kanban TODO: CLEANUP
 
+* ( ) [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based) → almost usable; incorporate ideas into gtt
+* ( ) [kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings. → excellent interface: use? or adopt ideas?
 * ( ) [kanboard](https://github.com/kanboard/kanboard)
-* ( ) [Lyaaaaaaaaaaaaaaa/Project_Kanban: A lightweight desktop software, under the MIT licence to create and manage your Kanbans boards for your personal projects](https://github.com/Lyaaaaaaaaaaaaaaa/Project_Kanban)
-* ( ) [Hirschiii/tw-Kanban](https://github.com/Hirschiii/tw-Kanban)
+* ( ) [Project_Kanban: A lightweight desktop software, under the MIT licence to create and manage your Kanbans boards for your personal projects](https://github.com/Lyaaaaaaaaaaaaaaa/Project_Kanban)
+* ( ) [tw-Kanban](https://github.com/Hirschiii/tw-Kanban)
 * ( ) [taskwarrior-kanban](https://github.com/j-jith/taskwarrior-kanban)
 * ( ) [kanbanwarrior](https://github.com/keigezellig/kanbanwarrior)
 * ( ) [taskban](https://github.com/lyz-code/taskban)
@@ -993,41 +979,54 @@ Scheduler
 
 ### Gantt TODO: CLEANUP
 
-* ( ) [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY)
+* ( ) [GanTTY](https://github.com/timeopochin/GanTTY)
 * ( )  name idea: ganttstopme, ganttstopmenow
-* ( ) [timeopochin/GanTTY: Project planning from the terminal](https://github.com/timeopochin/GanTTY)
-* ( ) [ganttouchthis/LICENSE at main · yelircaasi/ganttouchthis](https://github.com/yelircaasi/ganttouchthis/blob/main/LICENSE)
+* ( ) [GanTTY: Project planning from the terminal](https://github.com/timeopochin/GanTTY)
+* ( ) [ganttouchthis](https://github.com/yelircaasi/ganttouchthis)
 * ( ) [google.com/search?client=firefox-b-d&q=open+source+web+gantt+viewer](https://www.google.com/search?client=firefox-b-d&q=open+source+web+gantt+viewer)
 
-#### TW TODO: CLEANUP
+#### TW Gantt TODO: CLEANUP
 
-* Elevate Your Task Management With Ease - YouTube [video](https://www.youtube.com/watch?v=U4pGz4KI1J0&t=12s&pp=2AEMkAIB)
-* ( ) [vit-project/vit](https://github.com/vit-project/vit)
-* ( ) [syncall/readme-tw-notion.md at master · bergercookie/syncall](https://github.com/bergercookie/syncall/blob/master/readme-tw-notion.md)
-* ( ) [f-droid.org/packages/me.bgregos.brighttask/](https://f-droid.org/packages/me.bgregos.brighttask/)
-* ( ) [hugginsio/twig.nvim](https://github.com/hugginsio/twig.nvim) , also a nvim plugin
+* ( ) [gantt.png (task-gantt)](https://github.com/8ware/task-gantt/blob/master/doc/gantt.png)
+* ( ) [task-gantt](https://github.com/8ware/task-gantt) → read and understand, see if at all useful; otherwise, just learn some perl - "Generating Gantt charts from Taskwarrior entries"
+
+#### Database for ganttouchthis TODO: CLEANUP
+
+* tinydb
+* sqlite3?
+* postgresql?
+
+#### Taskwarrior TODO: CLEANUP
+
+* (read) [3rd-party Application Guidelines](https://taskwarrior.org/docs/3rd-party/)
+* (read) [rfcs](https://github.com/GothenburgBitFactory/taskwarrior/tree/develop/doc/devel/rfcs)
+* ( ) [Elevate Your Task Management With Ease](https://www.youtube.com/watch?v=U4pGz4KI1J0&t=12s&pp=2AEMkAIB)
+* ( ) [vit](https://github.com/vit-project/vit)
+* ( ) [readme-tw-notion.md at master · bergercookie/syncall](https://github.com/bergercookie/syncall/blob/master/readme-tw-notion.md)
+* ( ) [Foreground](https://f-droid.org/packages/me.bgregos.brighttask/)
+* ( ) [twig.nvim](https://github.com/hugginsio/twig.nvim) , also a nvim plugin
 * ( ) [Task management with Taskwarrior and Taskell](https://tallguyjenks.github.io/blog/task-management-with-taskwarrior-and-taskell.html)
 * ( ) [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui)
-* ( ) [yanick/nvim-taskwarrior](https://github.com/yanick/nvim-taskwarrior)
-* ( ) [ribelo/taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim)
-* ( ) [tools-life/taskwiki](https://github.com/tools-life/taskwiki)
-* ( ) language bindings: [jubnzv/go-taskwarrior,](https://github.com/jubnzv/go-taskwarrior,)  [ralphbean/taskw,](https://github.com/ralphbean/taskw,) [coddingtonbear/python-taskwarrior](https://github.com/coddingtonbear/python-taskwarrior)
-* ( ) hooks: [mrVanDalo/taskwarrior-hooks](https://github.com/mrVanDalo/taskwarrior-hooks) *, [bergercookie/tw-hooks](https://github.com/bergercookie/tw-hooks)
+* ( ) [nvim-taskwarrior](https://github.com/yanick/nvim-taskwarrior)
+* ( ) [taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim)
+* ( ) [taskwiki](https://github.com/tools-life/taskwiki)
+* ( ) language bindings: [go-taskwarrior,](https://github.com/jubnzv/go-taskwarrior,)  [taskw,](https://github.com/ralphbean/taskw,) [python-taskwarrior](https://github.com/coddingtonbear/python-taskwarrior)
+* ( ) hooks: [taskwarrior-hooks](https://github.com/mrVanDalo/taskwarrior-hooks) *, [tw-hooks](https://github.com/bergercookie/tw-hooks)
 * ( ) [Taskwarrior](https://taskwarrior.org/)
 * ( ) [taskwiki](https://github.com/tools-life/taskwiki)
 * ( ) [tasklib](https://github.com/GothenburgBitFactory/tasklib/)
-* ( ) ⇒ [timewarrior.net/](https://timewarrior.net/)
+* ( ) ⇒ [timewarrior.net](https://timewarrior.net/)
 * ( ) → [taskwarrior.org/tools/#services](https://taskwarrior.org/tools/#services)
-* ( ) → [taskwarrior.org/tools/](https://taskwarrior.org/tools/)
+* ( ) → [](https://taskwarrior.org/tools/)
 * ( ) [powerline-taskwarrior](https://github.com/Zebradil/powerline-taskwarrior)
-* ( ) [bugwarrior](https://github.com/ralphbean/bugwarrior)** ( ) [ralphbean/bugwarrior](https://github.com/ralphbean/bugwarrior)
+* ( ) [bugwarrior](https://github.com/ralphbean/bugwarrior)** ( ) [bugwarrior](https://github.com/ralphbean/bugwarrior)
 * ( ) [taskwarrior-web](https://github.com/theunraveler/taskwarrior-web)
 * ( ) [vim-taskwarrior](https://github.com/blindFS/vim-taskwarrior)
 * ( ) [taskopen](https://github.com/jschlatow/taskopen)
 * ( ) [foreground](https://github.com/bgregos/foreground)
 * ( ) [taskwarrior-notifications](https://github.com/flickerfly/taskwarrior-notifications)
 * ( ) [taskwarrior-time-tracking-hook](https://github.com/kostajh/taskwarrior-time-tracking-hook)
-* ( ) [taskwhisperer](https://github.com/cinatic/taskwhisperer)
+* ( ) [taskwhisperer](https://github.com/cinatic/taskwhisperer) -> add to ags
 * ( ) [task-dashboard](https://github.com/8ware/task-dashboard)
 * ( ) [gnome-extension-taskwarrior](https://github.com/sgaraud/gnome-extension-taskwarrior)
 * ( ) [pomodoro-warriors](https://github.com/cf020031308/pomodoro-warriors)
@@ -1039,146 +1038,143 @@ Scheduler
 * ( ) [Taskwarrior is THE task ma](https://www.youtube.com/watch?v=rRTnF-EMey0&t=406s)nagement system you need
 * ( ) [A Dive into Taskwarrior Ec](https://www.youtube.com/watch?v=tijnc65soEI)osystem with Tomas Babej
 * ( ) [Command Line Task Management With Taskwarrior an Taskell](https://www.youtube.com/watch?v=Z3FtJ9xzn0g&t=1067s)
-* ( ) [redhat.com/sysadmin/timewarrior-command-line](https://www.redhat.com/sysadmin/timewarrior-command-line)
+* ( ) [tutorial: timewarrior-command-line](https://www.redhat.com/sysadmin/timewarrior-command-line)
 * ( ) [My Sweet Task Manager Setup (taskwarrior/timewarrior)](https://www.youtube.com/live/ElsF5SqzdIY?feature=share)
 * ( ) [My Get Things Done (GTD) Task Management System Using TaskWarrior](https://youtu.be/8I7nQmKAWpM)
 * ( ) [duckduckgo.com/?q=taskwarrior%20telegram&ko=-1&ia=web](https://duckduckgo.com/?q=taskwarrior%20telegram&ko=-1&ia=web)
-* ( ) [timewarrior.net/docs/taskwarrior/](https://timewarrior.net/docs/taskwarrior/)
+* ( ) [taskwarrior](https://timewarrior.net/docs/taskwarrior/)
 * ( ) [Taskwarrior - What's next? - Taskwarrior](https://taskwarrior.org/docs/start/)
-* ( ) [GothenburgBitFactory/taskwarrior: Taskwarrior - Command line Task Management](https://github.com/GothenburgBitFactory/taskwarrior)
+* ( ) [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
 * ( ) [To-Do Lists for Hackers!](https://www.youtube.com/watch?v=5wmcn9-IQE4&t=179s)
 * ( ) [Taskwarrior Lessons](https://www.youtube.com/watch?v=3iyaS5WwcuQ&list=PLI4gKGOkRTj37BHpZnFBVHDsa3J-dAUVF)
-* Front End To Taskwarrior
-* TaskWarrior - mark.george/Wiki [isgb.otago.ac.nz/infosci/mark.george/Wiki/wiki/TaskWarrior](https://isgb.otago.ac.nz/infosci/mark.george/Wiki/wiki/TaskWarrior)
-* ( ) [8ware/task-gantt: Generating Gantt charts from Taskwarrior entries](https://github.com/8ware/task-gantt)
-* ( ) [task-gantt/gantt.png at master · 8ware/task-gantt](https://github.com/8ware/task-gantt/blob/master/doc/gantt.png)
+
+##### Front End To Taskwarrior
+
+* ( ) [article on TaskWarrior](https://isgb.otago.ac.nz/infosci/mark.george/Wiki/wiki/TaskWarrior)
 * ( ) [Timewarrior - timew-charts - Timewarrior](https://timewarrior.net/docs/charts/)
 * ( ) [Manage tasks and projects on Fedora with Taskwarrior - Fedora Magazine](https://fedoramagazine.org/manage-tasks-and-projects-on-fedora-with-taskwarrior/)
 * ( ) [TaskWarrior, Taskjuggler, Planner and Well Planning Things Part 2](https://blog.x-rayman.co.uk/2013/04/10/taskwarrior-taskjuggler-planner-and-well-planning-things-part-2/)
-* ( ) good-looking nvim plugin [ribelo/taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim) (keep an eye on [dzintars/taskwarrior.nvim)](https://github.com/dzintars/taskwarrior.nvim))
+* ( ) good-looking nvim plugin [taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim) (keep an eye on [taskwarrior.nvim)](https://github.com/dzintars/taskwarrior.nvim))
 * ( ) [taskw](https://github.com/ralphbean/taskw)
-* ( ) [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) → build on top of by creating an extension / extensions?
-* Next: write nvim plugin/library/neorg module for taskwarrior (’taskifist’)
-* ( ) [taskwarrior.org/tools/](https://taskwarrior.org/tools/) → check ‘lua’ box
-* ( ) [r-pufky.github.io/docs/apps/taskwarrior.html](https://r-pufky.github.io/docs/apps/taskwarrior.html)
-* ( ) [ribelo/taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim)
-* ( ) [bgregos/foreground](https://github.com/bgregos/foreground)
-* ( ) [cedricbousmanne/telegram-taskwarrior](https://github.com/cedricbousmanne/telegram-taskwarrior)
-* ( ) [Ninlives/taskwarrior-telegram-bot](https://github.com/Ninlives/taskwarrior-telegram-bot)
-* ( ) [rhnvrm/tg-taskwarrior-bot](https://github.com/rhnvrm/tg-taskwarrior-bot)
+* ( ) [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) → build on top of by creating an extension / extensions?
 
-##### Bash/Shell TODO: CLEANUP
+##### Next: write nvim plugin/library/neorg module for taskwarrior (’taskifist’)
 
-* ( ) [gitlab.com/doronbehar/taskwarrior-fzf](https://gitlab.com/doronbehar/taskwarrior-fzf)
-* ( ) [quandangv/polybar-warrior](https://github.com/quandangv/polybar-warrior)
+* ( ) [taskwarrior tools](https://taskwarrior.org/tools/) → check ‘lua’ box
+* ( ) [taskwarrior config](https://r-pufky.github.io/docs/apps/taskwarrior.html)
+* ( ) [taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim)
+* ( ) [foreground](https://github.com/bgregos/foreground)
+* ( ) [telegram-taskwarrior](https://github.com/cedricbousmanne/telegram-taskwarrior)
+* ( ) [taskwarrior-telegram-bot](https://github.com/Ninlives/taskwarrior-telegram-bot)
+* ( ) [tg-taskwarrior-bot](https://github.com/rhnvrm/tg-taskwarrior-bot)
 
-##### C TODO: CLEANUP
+##### Taskwarrior GTD TODO: CLEANUP
 
-* ( ) [initBasti/context-switch-warrior](https://github.com/initBasti/context-switch-warrior)
+* ( ) [](https://github.com/jonathanabennett/projectwarrior)
+* ( ) [](https://github.com/abesto/gtd)
+* ( ) [](https://github.com/hamlinux/taskwarrior-GTD)
+* ( ) [](https://github.com/Liberationtech/taskpacifist)
+* ( ) [](https://github.com/Pete-Hamlin/gtd-rust-taskwarrior)
+* ( ) [](https://github.com/martin-sukany/geekwarrior)
+* ( ) [](https://github.com/sunnaren/CustomVIT)
+* ( ) [](https://github.com/blaisegarant/pythongtdwarrior)
+* ( ) [](https://github.com/jahagirdar/tw-pm)
+* ( ) [](https://github.com/functioncreep/twgtd)
 
-##### Python TODO: CLEANUP
+##### Taskwarrior Plugins TODO: CLEANUP
 
-* ( ) [GothenburgBitFactory/tasklib](https://github.com/GothenburgBitFactory/tasklib)
-* ( ) [tools-life/taskwiki](https://github.com/tools-life/taskwiki)
-* ( ) [vit-project/vit](https://github.com/vit-project/vit)
-* ( ) [bergercookie/syncall](https://github.com/bergercookie/syncall)
-* ( ) [jokerdino/taskwarrior-flask](https://github.com/jokerdino/taskwarrior-flask)
-* ( ) [AliGhahraei/just-start](https://github.com/AliGhahraei/just-start) (see [okraits/omodoro)](https://github.com/okraits/omodoro))
-* ( ) [mrschyte/taskwarrior-hooks/](https://github.com/mrschyte/taskwarrior-hooks/)
-* ( ) [nnist/taskschedule](https://github.com/nnist/taskschedule)
-* ( ) [alkim0/task-attach](https://github.com/alkim0/task-attach) 
-* ( ) [Hatoris/taskwarrior_jrnl_hook](https://github.com/Hatoris/taskwarrior_jrnl_hook)
-* ( ) [mokrunka/taskwarrior-capsules](https://github.com/mokrunka/taskwarrior-capsules)
-* ( ) [mokrunka/taskwarrior-subtask-capsule](https://github.com/mokrunka/taskwarrior-subtask-capsule) - good extension
-* ( ) [mokrunka/taskwarrior-context-capsule](https://github.com/mokrunka/taskwarrior-context-capsule)
-* ( ) [mokrunka/taskwarrior-EXAMPLE-capsule](https://github.com/mokrunka/taskwarrior-EXAMPLE-capsule)
-* ( ) [mokrunka/taskwarrior-blocks-capsule](https://github.com/mokrunka/taskwarrior-blocks-capsule)
-* ( ) [Aerex/icaltask](https://github.com/Aerex/icaltask)
-* ( ) [bergercookie/item_synchronizer](https://github.com/bergercookie/item_synchronizer)
-* ( ) [neingeist/mail2taskwarrior](https://github.com/neingeist/mail2taskwarrior)
-* ( ) [Zebradil/taskwarrior-hooks](https://github.com/Zebradil/taskwarrior-hooks)
-* ( ) [contrun/taskwarrior-terminal-kanban](https://github.com/contrun/taskwarrior-terminal-kanban)
-* ( ) [rmonico/itask](https://github.com/rmonico/itask) (includes rofi)
-* ( ) [cakira/subtaskwarrior](https://github.com/cakira/subtaskwarrior)
-* ( ) [spencermamer/task-graphdeps](https://github.com/spencermamer/task-graphdeps)
-* ( ) [spencermamer/task-graphdeps](https://github.com/spencermamer/task-graphdeps)
-* ( ) [CourrierGui/kanbanwarrior](https://github.com/CourrierGui/kanbanwarrior)
-* ( ) [clemux/task-matrix-bot](https://github.com/clemux/task-matrix-bot)
-* ( ) [chess-seventh/TaskKhalReschedulWarrior](https://github.com/chess-seventh/TaskKhalReschedulWarrior)
-* ( ) [scmbradley/taskw-i3blocks](https://github.com/scmbradley/taskw-i3blocks)
-* ( ) [voidcase/taskseq](https://github.com/voidcase/taskseq)
-* ( ) [Fongshway/twpm](https://github.com/Fongshway/twpm)
-* ( ) [sorrowless/twsyncer](https://github.com/sorrowless/twsyncer)
-* ( ) [strawpants/kanboard_taskwarrior](https://github.com/strawpants/kanboard_taskwarrior)
-* ( ) [zhangfeng/taskli](https://github.com/zhangfeng/taskli) (?)
-* ( ) [RicardoRodriguesCosta/TaskHelper](https://github.com/RicardoRodriguesCosta/TaskHelper) (?)
-* ( ) [radarsymphony/taskwarrior-hooks](https://github.com/radarsymphony/taskwarrior-hooks)
-* ( ) [leifdenby/twdep](https://github.com/leifdenby/twdep) - dependency tree in the terminal
-* ( ) [yulqen/twremind](https://github.com/yulqen/twremind) - hook script with remote sync
-* ( ) [RvstFyth/rofi-taskwarrior](https://github.com/RvstFyth/rofi-taskwarrior)
-* ( ) [neingeist/task-recurring-delete](https://github.com/neingeist/task-recurring-delete)
-* ( ) [almostnobody/task2org](https://github.com/almostnobody/task2org)
-* ( ) [youzark/taskmanager](https://github.com/youzark/taskmanager)
-* ( ) [claudiomattera/taskreminder](https://github.com/claudiomattera/taskreminder)
-* ( ) [sstallion/taskwarrior-hooks](https://github.com/sstallion/taskwarrior-hooks)
-* ( ) [guludo/taskwarrior-autotagger](https://github.com/guludo/taskwarrior-autotagger)
-* ( ) [KarstenSchulz/tasktual](https://github.com/KarstenSchulz/tasktual)
-* ( ) [Ninlives/taskwarrior-telegram-bot](https://github.com/Ninlives/taskwarrior-telegram-bot)
-* ( ) [kevinstadler/taskwarrior-vit-config](https://github.com/kevinstadler/taskwarrior-vit-config)
-* ( ) [kevinstadler/taskwarrior-vit-config-old](https://github.com/kevinstadler/taskwarrior-vit-config-old)
-* ( ) [ABeehive/TaskWarrior-recur-with-until](https://github.com/ABeehive/TaskWarrior-recur-with-until)
-* ( ) [yulqen/tw-date-tools](https://github.com/yulqen/tw-date-tools)
-* ( ) [DerHabicht/twinput](https://github.com/DerHabicht/twinput)
-* ( ) [fplourde/Taskwarrior-habitica-hooks](https://github.com/fplourde/Taskwarrior-habitica-hooks) → [habitica.com/static/features](https://habitica.com/static/features)
-* ( ) [andrey-utkin/taskdb](https://github.com/andrey-utkin/taskdb)
-* ( ) [garykl/task2dot](https://github.com/garykl/task2dot)
-* ( ) [tbabej/taskpirate](https://github.com/tbabej/taskpirate)
-* ( ) [jrabbit/taskd-client-py](https://github.com/jrabbit/taskd-client-py)
-* ( ) [thehunmonkgroup/onenote](https://github.com/thehunmonkgroup/onenote)
-* ( ) [keigezellig/kanbanwarrior](https://github.com/keigezellig/kanbanwarrior) [blog.joosten-industries.nl/posts/Kanban-Warrior/](https://blog.joosten-industries.nl/posts/Kanban-Warrior/)
-* ( ) [jrabbit/taskd-redshirt](https://github.com/jrabbit/taskd-redshirt)
+* ( ) * ( ) [twplugin::sh] [gitlab.com/doronbehar/taskwarrior-fzf](https://gitlab.com/doronbehar/taskwarrior-fzf)
+* ( ) * ( ) [twplugin::sh] [polybar-warrior](https://github.com/quandangv/polybar-warrior)
 
-##### Julia TODO: CLEANUP
+* ( ) * ( ) [twplugin::c] [context-switch-warrior](https://github.com/initBasti/context-switch-warrior)
 
-* ( ) [ak202/Taskwarrior.jl](https://github.com/ak202/Taskwarrior.jl)
+* (1) * ( ) [twplugin::commonlisp] [projectwarrior](https://github.com/jonathanabennett/projectwarrior) - A suite of tools to guide a user through a thorough weekly review in the GTD format.
 
-##### Kotlin TODO: CLEANUP
+* ( ) [twplugin::python] [tasklib](https://github.com/GothenburgBitFactory/tasklib)
+* ( ) [twplugin::python] [tools-life/taskwiki](https://github.com/tools-life/taskwiki)
+* ( ) [twplugin::python] [vit-project/vit](https://github.com/vit-project/vit)
+* ( ) [twplugin::python] [syncall](https://github.com/bergercookie/syncall)
+* ( ) [twplugin::python] [taskwarrior-flask](https://github.com/jokerdino/taskwarrior-flask)
+* ( ) [twplugin::python] [just-start](https://github.com/AliGhahraei/just-start) (see [omodoro)](https://github.com/okraits/omodoro))
+* ( ) [twplugin::python] [taskwarrior-hooks](https://github.com/mrschyte/taskwarrior-hooks/)
+* ( ) [twplugin::python] [taskschedule](https://github.com/nnist/taskschedule)
+* ( ) [twplugin::python] [task-attach](https://github.com/alkim0/task-attach) 
+* ( ) [twplugin::python] [taskwarrior_jrnl_hook](https://github.com/Hatoris/taskwarrior_jrnl_hook)
+* ( ) [twplugin::python] [taskwarrior-capsules](https://github.com/mokrunka/taskwarrior-capsules)
+* ( ) [twplugin::python] [taskwarrior-subtask-capsule](https://github.com/mokrunka/taskwarrior-subtask-capsule) - good extension
+* ( ) [twplugin::python] [taskwarrior-context-capsule](https://github.com/mokrunka/taskwarrior-context-capsule)
+* ( ) [twplugin::python] [taskwarrior-EXAMPLE-capsule](https://github.com/mokrunka/taskwarrior-EXAMPLE-capsule)
+* ( ) [twplugin::python] [taskwarrior-blocks-capsule](https://github.com/mokrunka/taskwarrior-blocks-capsule)
+* ( ) [twplugin::python] [icaltask](https://github.com/Aerex/icaltask)
+* ( ) [twplugin::python] [item_synchronizer](https://github.com/bergercookie/item_synchronizer)
+* ( ) [twplugin::python] [mail2taskwarrior](https://github.com/neingeist/mail2taskwarrior)
+* ( ) [twplugin::python] [taskwarrior-hooks](https://github.com/Zebradil/taskwarrior-hooks)
+* ( ) [twplugin::python] [taskwarrior-terminal-kanban](https://github.com/contrun/taskwarrior-terminal-kanban)
+* ( ) [twplugin::python] [itask](https://github.com/rmonico/itask) (includes rofi)
+* ( ) [twplugin::python] [subtaskwarrior](https://github.com/cakira/subtaskwarrior)
+* ( ) [twplugin::python] [task-graphdeps](https://github.com/spencermamer/task-graphdeps)
+* ( ) [twplugin::python] [task-graphdeps](https://github.com/spencermamer/task-graphdeps)
+* ( ) [twplugin::python] [kanbanwarrior](https://github.com/CourrierGui/kanbanwarrior)
+* ( ) [twplugin::python] [task-matrix-bot](https://github.com/clemux/task-matrix-bot)
+* ( ) [twplugin::python] [chess-seventh/TaskKhalReschedulWarrior](https://github.com/chess-seventh/TaskKhalReschedulWarrior)
+* ( ) [twplugin::python] [taskw-i3blocks](https://github.com/scmbradley/taskw-i3blocks)
+* ( ) [twplugin::python] [taskseq](https://github.com/voidcase/taskseq)
+* ( ) [twplugin::python] [twpm](https://github.com/Fongshway/twpm)
+* ( ) [twplugin::python] [twsyncer](https://github.com/sorrowless/twsyncer)
+* ( ) [twplugin::python] [kanboard_taskwarrior](https://github.com/strawpants/kanboard_taskwarrior)
+* ( ) [twplugin::python] [taskli](https://github.com/zhangfeng/taskli) (?)
+* ( ) [twplugin::python] [TaskHelper](https://github.com/RicardoRodriguesCosta/TaskHelper) (?)
+* ( ) [twplugin::python] [taskwarrior-hooks](https://github.com/radarsymphony/taskwarrior-hooks)
+* ( ) [twplugin::python] [twdep](https://github.com/leifdenby/twdep) - dependency tree in the terminal
+* ( ) [twplugin::python] [twremind](https://github.com/yulqen/twremind) - hook script with remote sync
+* ( ) [twplugin::python] [rofi-taskwarrior](https://github.com/RvstFyth/rofi-taskwarrior)
+* ( ) [twplugin::python] [task-recurring-delete](https://github.com/neingeist/task-recurring-delete)
+* ( ) [twplugin::python] [task2org](https://github.com/almostnobody/task2org)
+* ( ) [twplugin::python] [taskmanager](https://github.com/youzark/taskmanager)
+* ( ) [twplugin::python] [taskreminder](https://github.com/claudiomattera/taskreminder)
+* ( ) [twplugin::python] [taskwarrior-hooks](https://github.com/sstallion/taskwarrior-hooks)
+* ( ) [twplugin::python] [taskwarrior-autotagger](https://github.com/guludo/taskwarrior-autotagger)
+* ( ) [twplugin::python] [tasktual](https://github.com/KarstenSchulz/tasktual)
+* ( ) [twplugin::python] [taskwarrior-telegram-bot](https://github.com/Ninlives/taskwarrior-telegram-bot)
+* ( ) [twplugin::python] [taskwarrior-vit-config](https://github.com/kevinstadler/taskwarrior-vit-config)
+* ( ) [twplugin::python] [taskwarrior-vit-config-old](https://github.com/kevinstadler/taskwarrior-vit-config-old)
+* ( ) [twplugin::python] [TaskWarrior-recur-with-until](https://github.com/ABeehive/TaskWarrior-recur-with-until)
+* ( ) [twplugin::python] [tw-date-tools](https://github.com/yulqen/tw-date-tools)
+* ( ) [twplugin::python] [twinput](https://github.com/DerHabicht/twinput)
+* ( ) [twplugin::python] [Taskwarrior-habitica-hooks](https://github.com/fplourde/Taskwarrior-habitica-hooks) → [habitica.com/static/features](https://habitica.com/static/features)
+* ( ) [twplugin::python] [andrey-utkin/taskdb](https://github.com/andrey-utkin/taskdb)
+* ( ) [twplugin::python] [task2dot](https://github.com/garykl/task2dot)
+* ( ) [twplugin::python] [taskpirate](https://github.com/tbabej/taskpirate)
+* ( ) [twplugin::python] [taskd-client-py](https://github.com/jrabbit/taskd-client-py)
+* ( ) [twplugin::python] [onenote](https://github.com/thehunmonkgroup/onenote)
+* ( ) [twplugin::python] [kanbanwarrior](https://github.com/keigezellig/kanbanwarrior) [blog.joosten-industries.nl/posts/Kanban-Warrior](https://blog.joosten-industries.nl/posts/Kanban-Warrior/)
+* ( ) [twplugin::python] [taskd-redshirt](https://github.com/jrabbit/taskd-redshirt)
 
-* ( ) [bgregos/foreground](https://github.com/bgregos/foreground)
+* ( ) * ( ) [twplugin::julia] [Taskwarrior.jl](https://github.com/ak202/Taskwarrior.jl)
 
-##### Perl TODO: CLEANUP
+* ( ) * ( ) [twplugin::kotlin] [foreground](https://github.com/bgregos/foreground)
 
-* ( ) [hashref/rectasks](https://github.com/hashref/rectasks) → export to Neorg format
-* ( ) [8ware/task-gantt](https://github.com/8ware/task-gantt) → read and understand, see if at all useful; otherwise, just learn some perl
-* ( ) [export-csv.pl](https://taskwarrior.org/download/export-csv.pl)
-* ( ) [export-html.pl](https://taskwarrior.org/download/export-html.pl)
-* ( ) [export-ical.pl](https://taskwarrior.org/download/export-ical.pl)
-* ( ) [export-sql.py](https://taskwarrior.org/download/export-sql.py)
-* ( ) [export-tsv.pl](https://taskwarrior.org/download/export-tsv.pl)
-* ( ) [export-xml.pl](https://taskwarrior.org/download/export-xml.pl)
-* ( ) [export-xml.py](https://taskwarrior.org/download/export-xml.py)
-* ( ) [export-xml.rb](https://taskwarrior.org/download/export-xml.rb)
-* ( ) [export-yad.pl](https://taskwarrior.org/download/export-yad.pl)
-* ( ) [export-yaml.pl](https://taskwarrior.org/download/export-yaml.pl)
-* ( ) [import-todo.sh.pl](https://taskwarrior.org/download/import-todo.sh.pl)
-* ( ) [import-yaml.pl](https://taskwarrior.org/download/import-yaml.pl)
+* ( ) [twplugin::perl] [rectasks](https://github.com/hashref/rectasks) → export to Neorg format
+* ( ) [twplugin::perl] [export-csv.pl](https://taskwarrior.org/download/export-csv.pl)
+* ( ) [twplugin::perl] [export-html.pl](https://taskwarrior.org/download/export-html.pl)
+* ( ) [twplugin::perl] [export-ical.pl](https://taskwarrior.org/download/export-ical.pl)
+* ( ) [twplugin::perl] [export-sql.py](https://taskwarrior.org/download/export-sql.py)
+* ( ) [twplugin::perl] [export-tsv.pl](https://taskwarrior.org/download/export-tsv.pl)
+* ( ) [twplugin::perl] [export-xml.pl](https://taskwarrior.org/download/export-xml.pl)
+* ( ) [twplugin::python] [export-xml.py](https://taskwarrior.org/download/export-xml.py)
+* ( ) [twplugin::ruby] [export-xml.rb](https://taskwarrior.org/download/export-xml.rb)
+* ( ) [twplugin::perl] [export-yad.pl](https://taskwarrior.org/download/export-yad.pl)
+* ( ) [twplugin::perl] [export-yaml.pl](https://taskwarrior.org/download/export-yaml.pl)
+* ( ) [twplugin::perl] [import-todo.sh.pl](https://taskwarrior.org/download/import-todo.sh.pl)
+* ( ) [twplugin::perl] [import-yaml.pl](https://taskwarrior.org/download/import-yaml.pl)
 
 ##### Dart TODO: CLEANUP
 
-* ( ) [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)
-* ( ) [bradyt/taskw-dart](https://github.com/bradyt/taskw-dart)
-
-##### Elixir TODO: CLEANUP
-
-* ( ) [linduxed/taskwarrior.ex](https://github.com/linduxed/taskwarrior.ex)
-
-##### Ruby TODO: CLEANUP
-
-* ( ) [nerab/twdeps](https://github.com/nerab/twdeps)
-
-##### Go TODO: CLEANUP
-
-* ( ) [jubnzv/go-taskwarrior](https://github.com/jubnzv/go-taskwarrior)
+* (1) [twplugin::flutter-dart] [taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)
+* (1) [twplugin::taskw-dart](https://github.com/bradyt/taskw-dart)
+* ( ) [twplugin::elixir] [taskwarrior.ex](https://github.com/linduxed/taskwarrior.ex)
+* ( ) [twplugin::ruby] [twdeps](https://github.com/nerab/twdeps)
+* ( ) [twplugin::go] [go-taskwarrior](https://github.com/jubnzv/go-taskwarrior)
 
 ##### Rust TODO: CLEANUP
 
@@ -1209,115 +1205,108 @@ Scheduler
 * ( ) [template_rust](https://github.com/SunGodRamen/template_rust)
 * ( ) [twtodo-rs](https://github.com/simachri/twtodo-rs)
 
-##### Lisp TODO: CLEANUP
+* ( ) [twplugin::docker] [taskd](https://github.com/pztrn/taskd)
+* ( ) [twplugin::docker] [dock-warrior](https://github.com/codehivetx/dock-warrior)
+* ( ) [twplugin::docker] [docker-taskd](https://github.com/jigish/docker-taskd)
+* ( ) [twplugin::docker] [taskserver_docker](https://github.com/Ellana42/taskserver_docker)
+* ( ) [twplugin::docker] [taskwarrior-container](https://github.com/gistella/taskwarrior-container)
+* ( ) [twplugin::docker] [taskwarrior-deployment](https://github.com/csams/taskwarrior-deployment)
+* ( ) [twplugin::docker] [taskwarrior-ui-container](https://github.com/jessedearing/taskwarrior-ui-container)
+* ( ) [twplugin::docker] [taskwarrior_rest_api](https://github.com/jeka1331/taskwarrior_rest_api)
 
-* ( ) [projectwarrior](https://github.com/jonathanabennett/projectwarrior)
+* ( ) [twplugin::c++] [TaskServer](https://github.com/AhmedHoss/TaskServer)
 
-##### Docker TODO: CLEANUP
+* ( ) [twplugin::c#] [taskomatic](https://github.com/ForNeVeR/taskomatic)
 
-* ( ) [taskd](https://github.com/pztrn/taskd)
-* ( ) [dock-warrior](https://github.com/codehivetx/dock-warrior)
-* ( ) [docker-taskd](https://github.com/jigish/docker-taskd)
-* ( ) [taskserver_docker](https://github.com/Ellana42/taskserver_docker)
-* ( ) [taskwarrior-container](https://github.com/gistella/taskwarrior-container)
-* ( ) [taskwarrior-deployment](https://github.com/csams/taskwarrior-deployment)
-* ( ) [taskwarrior-ui-container](https://github.com/jessedearing/taskwarrior-ui-container)
-* ( ) [taskwarrior_rest_api](https://github.com/jeka1331/taskwarrior_rest_api)
+* (1) [twplugin::haskell] [haskell-taskwarrior](https://github.com/maralorn/haskell-taskwarrior)
+* (use - needs work) [twplugin::haskell] [taskwarrior-git-backend](https://github.com/maralorn/taskwarrior-git-backend)
+* ( ) [twplugin::haskell] [TaskWarriorWeb](https://github.com/jonsterling/TaskWarriorWeb) - A quick & dirty Yesod-based local web interface to TaskWarrior (old)
+* ( ) [twplugin::haskell] [taskwarrior-habitica-bridge](https://github.com/robwhitaker/taskwarrior-habitica-bridge) - Sync Taskwarrior tasks with Habitica - use as reference for syncing with other apps
+* ( ) [twplugin::haskell] [kassandra](https://github.com/maralorn/kassandra) - A not yet recommended for public use taskwarrior frontend build with Haskell and reflex-frp
+* ( ) [twplugin::haskell] [taskmonad](https://github.com/arzano/taskmonad) - TaskMonad: xmonad + taskwarrior
+* ( ) [twplugin::haskell] [hasknote](https://github.com/robwhitaker/hasknote) - Add notes to your Taskwarrior tasks.
+* ( ) [twplugin::haskell] [wunderlist-to-taskwarrior](https://github.com/bernardosulzbach/wunderlist-to-taskwarrior) - Fetch your tasks from Wunderlist and add them to TaskWarrior (old)
+* ( ) [twplugin::haskell] [taskwarrior-to-dot](https://github.com/wrvsrx/taskwarrior-to-dot) - Visualize tasks dependencies in taskwarrior via graphviz.
 
-##### C++ TODO: CLEANUP
+* ( ) [twplugin::javascript] [gtd](https://github.com/abesto/gtd)
+* ( ) [twplugin::javascript] [trackwarrior](https://github.com/gkssjovi/trackwarrior)
+* ( ) [twplugin::javascript] [taskwhisperer](https://github.com/cinatic/taskwhisperer)
+* ( ) [twplugin::javascript] [taskwarrior-webui](https://github.com/DCsunset/taskwarrior-webui)
 
-* ( ) [AhmedHoss/TaskServer](https://github.com/AhmedHoss/TaskServer)
-
-##### CS TODO: CLEANUP
-
-* ( ) [ForNeVeR/taskomatic](https://github.com/ForNeVeR/taskomatic)
-
-##### Haskell TODO: CLEANUP
-
-* ( ) [maralorn/haskell-taskwarrior](https://github.com/maralorn/haskell-taskwarrior)
-* ( ) [maralorn/taskwarrior-git-backend](https://github.com/maralorn/taskwarrior-git-backend)
-* ( ) [DCsunset/taskwarrior-webui](https://github.com/DCsunset/taskwarrior-webui)
-
-##### JS TODO: CLEANUP
-
-* ( ) [abesto/gtd](https://github.com/abesto/gtd)
-* ( ) [gkssjovi/trackwarrior](https://github.com/gkssjovi/trackwarrior)
-* ( ) [cinatic/taskwhisperer](https://github.com/cinatic/taskwhisperer)
-
-##### Nim TODO: CLEANUP
-
-* ( ) [taskopen](https://github.com/jschlatow/taskopen)
-* ( ) [trev-dev/timew-billable](https://github.com/trev-dev/timew-billable)
+* ( ) [twplugin::nim] [taskopen](https://github.com/jschlatow/taskopen)
+* ( ) [twplugin::nim] [trev-dev/timew-billable](https://github.com/trev-dev/timew-billable)
 
 ##### Timer, Pomodoro TODO: CLEANUP
 
-* ( ) [coddingtonbear/taskwarrior-pomodoro](https://github.com/coddingtonbear/taskwarrior-pomodoro)
+* ( ) [taskwarrior-pomodoro](https://github.com/coddingtonbear/taskwarrior-pomodoro)
 
 ### Interface / Infrastructure Development ------- TODO: CLEANUP
 
-#### cli development TODO: CLEANUP
+#### CLI Development
 
-* ( ) [python-poetry/cleo](https://github.com/python-poetry/cleo)
-* ( ) [rich.readthedocs.io/en/stable/introduction.html](https://rich.readthedocs.io/en/stable/introduction.html)
-* ( ) [click.palletsprojects.com/en/8.1.x/](https://click.palletsprojects.com/en/8.1.x/)  ← looks really good
-* ( ) [docs.python.org/3.11/library/argparse.html#module-argparse](https://docs.python.org/3.11/library/argparse.html#module-argparse)
-* ( ) [Egnod/karakurt: Cookiecuttrer-template for python cli app](https://github.com/Egnod/karakurt)
+##### Python CLI
+
+* ( ) [cleo](https://github.com/python-poetry/cleo)
+* ( ) [rich.readthedocs.io](https://rich.readthedocs.io/en/stable/introduction.html)
+* ( ) [click.palletsprojects.com](https://click.palletsprojects.com/en/8.1.x/)  ← looks really good
+* ( ) [argparse](https://docs.python.org/3.11/library/argparse.html#module-argparse)
+* ( ) [karakurt](https://github.com/Egnod/karakurt) - Cookiecuttrer-template for python cli app
 * ( ) [10 Best Free and Open Source Command-Line Python Application Development Tools - LinuxLinks](https://www.linuxlinks.com/best-free-open-source-command-line-python-application-development-tools/)
 
 #### TUI Development TODO: CLEANUP
 
-* ( ) [Textualize/textual](https://github.com/Textualize/textual)
-* → [Textualize/textual/discussions/165](https://github.com/Textualize/textual/discussions/165)
-* ( ) [Curses Programming with Python — Python 3.11.2 documentation](https://docs.python.org/3/howto/curses.html)
-* ( ) [Introduction - Textual](https://textual.textualize.io/)
-* ( ) [How To Use VIT The Curses Based](https://www.youtube.com/watch?v=wY3DJVSWdeI&t=363s)
+* ( ) [All books bundle](https://learnbyexample.gumroad.com/l/all-books/)
+* ( ) [arttime](https://github.com/poetaman/arttime)
+* ( ) [awesome-go#advanced-console-uis](https://github.com/avelino/awesome-go#advanced-console-uis)
+* ( ) [blessed-contrib](https://github.com/yaronn/blessed-contrib)
 * ( ) [brick: A declarative terminal user interface library](https://hackage.haskell.org/package/brick)
+* ( ) [brick](https://github.com/jtdaugherty/brick)
+* ( ) [Click | The Pallets Projects](https://palletsprojects.com/p/click/)
 * ( ) [curses — Terminal handling for character-cell displays — Python 3.11.2 documentation](https://docs.python.org/3/library/curses.html#module-curses)
 * ( ) [curses (programming library) - Wikipedia](https://en.wikipedia.org/wiki/Curses_(programming_library))
-* ( ) [avelino/awesome-go#advanced-console-uis](https://github.com/avelino/awesome-go#advanced-console-uis)
-* ( ) [poetaman/arttime](https://github.com/poetaman/arttime)
-* ( ) [saulpw/visidata](https://github.com/saulpw/visidata)
-* ( ) [actuday6418/Diary](https://github.com/actuday6418/Diary)
-* ( ) [max-niederman/ttyper](https://github.com/max-niederman/ttyper)
-* ( ) [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim)
-* ( ) [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)
-* ( ) [xplr](https://xplr.dev/)
-* ( ) [Typer](https://typer.tiangolo.com/)
-* ( ) [Click | The Pallets Projects](https://palletsprojects.com/p/click/)
-* ( ) [Programmer s Guide to Ncurses](https://books.google.gr/books?id=Htff8VRO-UEC&printsec=frontcover&hl=el&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
-* ( ) [Reddit - Which is Best TUI file manager](https://www.reddit.com/r/commandline/comments/11d74x1/which_is_best_tui_file_manager/)
-* ( ) [LTUI v2.2 released, A cross-platform terminal ui library based on Lua](https://tboox.org/2020/11/19/ltui-v2.2/)
-* ( ) [learnbyexample/TUI-apps: Terminal User Interface (TUI) apps](https://github.com/learnbyexample/TUI-apps)
-* ( ) [All books bundle](https://learnbyexample.gumroad.com/l/all-books/)
+* ( ) [Curses Programming with Python — Python 3.11.2 documentation](https://docs.python.org/3/howto/curses.html)
+* ( ) [Diary](https://github.com/actuday6418/Diary)
+* ( ) [FTXUI](https://github.com/ArthurSonzogni/FTXUI)
+* ( ) [gocui](https://github.com/jroimartin/gocui)
 * ( ) [How to create dialog boxes in an interactive shell script](https://www.xmodulo.com/create-dialog-boxes-interactive-shell-script.html)
-* ( ) [tvix - depot - Sourcegraph](https://cs.tvl.fyi/depot/-/tree/tvix)
-* ( ) [NLnet; Tvix](https://nlnet.nl/project/Tvix/)
+* ( ) [How To Use VIT The Curses Based](https://www.youtube.com/watch?v=wY3DJVSWdeI&t=363s)
+* ( ) [imtui](https://github.com/ggerganov/imtui?tab=readme-ov-file)
+* ( ) [Introduction - Textual](https://textual.textualize.io/)
 * ( ) [libsdl-org/SDL](https://github.com/libsdl-org/SDL)
+* ( ) [LTUI v2.2 released, A cross-platform terminal ui library based on Lua](https://tboox.org/2020/11/19/ltui-v2.2/)
+* ( ) [max-niederman/ttyper](https://github.com/max-niederman/ttyper)
+* ( ) [mrossinek.gitlab.io/programming/testing-tui-applications-in-python](https://mrossinek.gitlab.io/programming/testing-tui-applications-in-python/)
 * ( ) [ncurses guide](https://jbwyatt.com/ncurses.html)
-* ( ) [wiki.libsdl.org/](https://wiki.libsdl.org/)
-* ( ) [tldp.org/HOWTO/NCURSES-Programming-HOWTO/](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
-* ( ) [fdehau/tui-rs](https://github.com/fdehau/tui-rs) → [orhun/rust-tui-template](https://github.com/orhun/rust-tui-template)
-* ( ) [rivo/tview/](https://github.com/rivo/tview/)
-* ( ) [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
-* ( ) [Textualize/textual](https://github.com/Textualize/textual)
-* ( ) [willmcgugan.com/blog/tech/post/textual-progress/](https://www.willmcgugan.com/blog/tech/post/textual-progress/)
+* ( ) [nimwave](https://github.com/ansiwave/nimwave)
+* ( ) [NLnet; Tvix](https://nlnet.nl/project/Tvix/)
+* ( ) [notcurses](https://github.com/dankamongmen/notcurses)
+* ( ) [Programmer s Guide to Ncurses](https://books.google.gr/books?id=Htff8VRO-UEC&printsec=frontcover&hl=el&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+* ( ) [py_cui](https://github.com/jwlodek/py_cui)
+* ( ) [pytermgui](https://github.com/bczsalba/pytermgui)
+* ( ) [pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk)
+* ( ) [Reddit - Which is Best TUI file manager](https://www.reddit.com/r/commandline/comments/11d74x1/which_is_best_tui_file_manager/)
+* ( ) [stylish.nvim](https://github.com/sunjon/stylish.nvim)
+* ( ) [tcell](https://github.com/gdamore/tcell)
+* ( ) [textual](https://github.com/Textualize/textual)
+* ( ) [textual](https://github.com/Textualize/textual)
+* ( ) [tldp.org/HOWTO/NCURSES-Programming-HOWTO](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
+* ( ) [TUI-apps: Terminal User Interface (TUI) apps](https://github.com/learnbyexample/TUI-apps)
+* ( ) [tui-rs](https://github.com/fdehau/tui-rs) → [rust-tui-template](https://github.com/orhun/rust-tui-template)
+* ( ) [tuibox](https://github.com/Cubified/tuibox)
+* ( ) [tview](https://github.com/rivo/tview/)
+* ( ) [tvix - depot - Sourcegraph](https://cs.tvl.fyi/depot/-/tree/tvix)
+* ( ) [Typer](https://typer.tiangolo.com/)
 * ( ) [video](https://www.youtube.com/@WillMcGugan)
-* ( ) [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses)
-* ( ) [jroimartin/gocui](https://github.com/jroimartin/gocui)
-* ( ) [jwlodek/py_cui](https://github.com/jwlodek/py_cui)
-* ( ) [jtdaugherty/brick](https://github.com/jtdaugherty/brick)
-* ( ) [ansiwave/nimwave](https://github.com/ansiwave/nimwave)
-* ( ) [gdamore/tcell](https://github.com/gdamore/tcell)
-* ( ) [Cubified/tuibox](https://github.com/Cubified/tuibox)
-* ( ) [ceccopierangiolieugenio/pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk)
-* ( ) [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib)
-* ( ) [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui)
-* ( ) [Cubified/tuibox](https://github.com/Cubified/tuibox)
-* ( ) [mrossinek.gitlab.io/programming/testing-tui-applications-in-python/](https://mrossinek.gitlab.io/programming/testing-tui-applications-in-python/)
+* ( ) [vimwiki](https://github.com/vimwiki/vimwiki)
+* ( ) [visidata](https://github.com/saulpw/visidata)
+* ( ) [wiki.libsdl.org](https://wiki.libsdl.org/)
+* ( ) [willmcgugan.com/blog/tech/post/textual-progress](https://www.willmcgugan.com/blog/tech/post/textual-progress/)
+* ( ) [xplr](https://xplr.dev/)
+* (→) [textual discussions](https://github.com/Textualize/textual/discussions/165)
 
 #### GUI TODO: CLEANUP
 
-* ( ) [develop.kde.org/frameworks/kirigami//](https://develop.kde.org/frameworks/kirigami//)
+* ( ) [develop.kde.org/frameworks/kirigami/](https://develop.kde.org/frameworks/kirigami//)
 
 #### Hosting TODO: CLEANUP
 
@@ -1325,56 +1314,56 @@ Scheduler
 * ( ) [Install Ubuntu Server | Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-server#6-choose-your-install)
 * ( ) [nearlyfreespeech.net/services/hosting](https://www.nearlyfreespeech.net/services/hosting)
 * ( ) [slant.co/options/16947/alternatives/~netlify-alternatives](https://www.slant.co/options/16947/alternatives/~netlify-alternatives)
-* ( ) [netlify.com/pricing/](https://www.netlify.com/pricing/)
-* ( ) [fly.io/](https://fly.io/)
-* ( ) [linode.com/pricing/](https://www.linode.com/pricing/)
+* ( ) [netlify.com/pricing](https://www.netlify.com/pricing/)
+* ( ) [fly.io](https://fly.io/)
+* ( ) [linode.com/pricing](https://www.linode.com/pricing/)
 * ( ) [ionos.de/cloud/cloud-server](https://www.ionos.de/cloud/cloud-server)
-* ( ) [codeless.co/heroku-alternatives/](https://codeless.co/heroku-alternatives/)
-* ( ) [freedombox.org/](https://freedombox.org/)
+* ( ) [codeless.co/heroku-alternatives](https://codeless.co/heroku-alternatives/)
+* ( ) [freedombox.org](https://freedombox.org/)
 * ( ) [nextcloud.com/install/#instructions-server](https://nextcloud.com/install/#instructions-server)
-* ( ) [freecodecamp.org/news/how-to-host-lightweight-apps-for-free-a29773e5f39e/](https://www.freecodecamp.org/news/how-to-host-lightweight-apps-for-free-a29773e5f39e/)
+* ( ) [freecodecamp.org/news/how-to-host-lightweight-apps-for-free-a29773e5f39e](https://www.freecodecamp.org/news/how-to-host-lightweight-apps-for-free-a29773e5f39e/)
 * ( ) [hosttest.de/vergleich/cloudserver-linux.html](https://www.hosttest.de/vergleich/cloudserver-linux.html)
-* ( ) [linuxhandbook.com/free-linux-cloud-servers/](https://linuxhandbook.com/free-linux-cloud-servers/)
+* ( ) [linuxhandbook.com/free-linux-cloud-servers](https://linuxhandbook.com/free-linux-cloud-servers/)
 
 ### Mobile Connection, Sync TODO: CLEANUP
 
 * (2) [PingMe](https://github.com/kha7iq/pingme) - Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat and others.
 * (2) [Pushbullet](https://www.pushbullet.com/)
-* ( ) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
-* ( ) [wireapp/lithium](https://github.com/wireapp/lithium)  [wire.com/en](https://wire.com/en)
+* ( ) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma](https://z411.github.io/trackma/)
+* ( ) [lithium](https://github.com/wireapp/lithium)  [wire.com/en](https://wire.com/en)
 * ( ) [d-k-bo/gotify-rs](https://github.com/d-k-bo/gotify-rs)
-* ( ) [gotify/server](https://github.com/gotify/server)
-* ( ) [keep.imfreedom.org/pidgin/pidgin/](https://keep.imfreedom.org/pidgin/pidgin/)
-* ( ) [tinode/chat](https://github.com/tinode/chat)
+* ( ) [server](https://github.com/gotify/server)
+* ( ) [keep.imfreedom.org/pidgin/pidgin](https://keep.imfreedom.org/pidgin/pidgin/)
+* ( ) [chat](https://github.com/tinode/chat)
 * ( ) [twilio-labs/receptionist-bot-rs](https://github.com/twilio-labs/receptionist-bot-rs)
-* ( ) [slack-rust.abdolence.dev/](https://slack-rust.abdolence.dev/)
-* ( ) [pushbits.io/](https://www.pushbits.io/)
-* ( ) [matrix.org/ecosystem/bridges/signal/](https://matrix.org/ecosystem/bridges/signal/)
+* ( ) [slack-rust.abdolence.dev](https://slack-rust.abdolence.dev/)
+* ( ) [pushbits.io](https://www.pushbits.io/)
+* ( ) [matrix.org/ecosystem/bridges/signal](https://matrix.org/ecosystem/bridges/signal/)
 * ( ) [matrix-org/matrix-rust-sdk#readme](https://github.com/matrix-org/matrix-rust-sdk#readme)
-* ( ) [matrix.org/ecosystem/sdks/](https://matrix.org/ecosystem/sdks/)
-* ( ) [f-droid.org/packages/com.github.gotify/](https://f-droid.org/packages/com.github.gotify/)
-* ( ) [matrix.org/ecosystem/integrations/](https://matrix.org/ecosystem/integrations/)
+* ( ) [matrix.org/ecosystem/sdks](https://matrix.org/ecosystem/sdks/)
+* ( ) [f-droid.org/packages/com.github.gotify](https://f-droid.org/packages/com.github.gotify/)
+* ( ) [matrix.org/ecosystem/integrations](https://matrix.org/ecosystem/integrations/)
 * ( ) [gitlab.com/jpypi/rustix](https://gitlab.com/jpypi/rustix)
 * ( ) [gitlab.com/signald/signald](https://gitlab.com/signald/signald)
-* ( ) [signald.org/](https://signald.org/)
-* ( ) [signalapp/libsignal](https://github.com/signalapp/libsignal)
-* ( ) [AsamK/signal-cli](https://github.com/AsamK/signal-cli)
-* ( ) [jquku/Matrix-Chatbot](https://github.com/jquku/Matrix-Chatbot)
-* ( ) [ergochat/ergo](https://github.com/ergochat/ergo)
-* ( ) [sopel.chat/](https://sopel.chat/)
+* ( ) [signald.org](https://signald.org/)
+* ( ) [libsignal](https://github.com/signalapp/libsignal)
+* ( ) [signal-cli](https://github.com/AsamK/signal-cli)
+* ( ) [Matrix-Chatbot](https://github.com/jquku/Matrix-Chatbot)
+* ( ) [ergo](https://github.com/ergochat/ergo)
+* ( ) [sopel.chat](https://sopel.chat/)
 * ( ) [libera.chat/guides/clients](https://libera.chat/guides/clients)
-* ( ) [f-droid.org/packages/io.mrarm.irc/](https://f-droid.org/packages/io.mrarm.irc/)
-* ( ) [topics/irc-bot](https://github.com/topics/irc-bot)
-* ( ) [sr.ht/~emersion/gamja/](https://sr.ht/~emersion/gamja/)
-* ( ) [sr.ht/~emersion/goguma/](https://sr.ht/~emersion/goguma/)
-* ( ) [bgregos/foreground](https://github.com/bgregos/foreground)
-* ( ) [lwesterhof/semaphore](https://github.com/lwesterhof/semaphore)
+* ( ) [f-droid.org/packages/io.mrarm.irc](https://f-droid.org/packages/io.mrarm.irc/)
+* ( ) [irc-bot](https://github.com/topics/irc-bot)
+* ( ) [sr.ht/~emersion/gamja](https://sr.ht/~emersion/gamja/)
+* ( ) [sr.ht/~emersion/goguma](https://sr.ht/~emersion/goguma/)
+* ( ) [foreground](https://github.com/bgregos/foreground)
+* ( ) [semaphore](https://github.com/lwesterhof/semaphore)
 * ( ) [matrix-org/matrix-hookshot](https://github.com/matrix-org/matrix-hookshot)
 * ( ) [play.google.com/store/apps/details?id=com.countercultured.irc4android](https://play.google.com/store/apps/details?id=com.countercultured.irc4android)
-* ( ) [f-droid.org/packages/com.madlonkay.orgro/](https://f-droid.org/packages/com.madlonkay.orgro/) → make for neorg
+* ( ) [f-droid.org/packages/com.madlonkay.orgro](https://f-droid.org/packages/com.madlonkay.orgro/) → make for neorg
 * ( ) [simplex-chat/simplex-chat/blob/stable/apps/simplex-bot-advanced/Main.hs](https://github.com/simplex-chat/simplex-chat/blob/stable/apps/simplex-bot-advanced/Main.hs)
-* ( ) [teloxide/teloxide](https://github.com/teloxide/teloxide)
-* SchildiChat [f-droid.org/packages/de.spiritcroc.riotx/](https://f-droid.org/packages/de.spiritcroc.riotx/)
+* ( ) [teloxide](https://github.com/teloxide/teloxide)
+* SchildiChat [f-droid.org/packages/de.spiritcroc.riotx](https://f-droid.org/packages/de.spiritcroc.riotx/)
 * ( ) [simplex-chat/simplex-chat/tree/stable/apps](https://github.com/simplex-chat/simplex-chat/tree/stable/apps)
 * ( ) [simplex.chat/blog/20231125-simplex-chat-v5-4-link-mobile-desktop-quantum-resistant-better-groups.html](https://simplex.chat/blog/20231125-simplex-chat-v5-4-link-mobile-desktop-quantum-resistant-better-groups.html)
 * Best Secure Messaging App | FBI Document Leaked - YouTube [video](https://www.youtube.com/watch?v=wj-aR96FOA0&pp=ygUPU2lnbmFsIGNoYXQgYm90)
@@ -1382,23 +1371,23 @@ Scheduler
 
 #### webhooks etc TODO: CLEANUP
 
-* ( ) [adnanh/webhook](https://github.com/adnanh/webhook)
-* ( ) [r/Notion/comments/nd76ec/notion_api_webhooks/](https://www.reddit.com/r/Notion/comments/nd76ec/notion_api_webhooks/)
+* ( ) [webhook](https://github.com/adnanh/webhook)
+* ( ) [Notion/comments/nd76ec/notion_api_webhooks](https://www.reddit.com/r/Notion/comments/nd76ec/notion_api_webhooks/)
 
 #### Signal Tools TODO: CLEANUP
 
-* ( ) [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs)
-* ( ) [AsamK/signal-cli](https://github.com/AsamK/signal-cli)
-* ( ) [filipre/signalbot](https://github.com/filipre/signalbot)
-* ( ) [filipre/signalbot-example](https://github.com/filipre/signalbot-example)
-* ( ) [lwesterhof/semaphore](https://github.com/lwesterhof/semaphore)
-* ( ) [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api)
+* ( ) [gurk-rs](https://github.com/boxdot/gurk-rs)
+* ( ) [signal-cli](https://github.com/AsamK/signal-cli)
+* ( ) [signalbot](https://github.com/filipre/signalbot)
+* ( ) [signalbot-example](https://github.com/filipre/signalbot-example)
+* ( ) [semaphore](https://github.com/lwesterhof/semaphore)
+* ( ) [signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api)
 
 #### Telegram Notes TODO: CLEANUP
 
 * ( ) [console.cloud.google.com/compute/instances?project=telegram-routines-bot](https://console.cloud.google.com/compute/instances?project=telegram-routines-bot)
-* ( ) [RemindMeLater/remindmelater.py at main · 22TNT/RemindMeLater](https://github.com/22TNT/RemindMeLater/blob/main/remindmelater.py)
-* ( ) [reminder_bot/main.py at master · aminsaedi/reminder_bot](https://github.com/aminsaedi/reminder_bot/blob/master/main.py)
+* ( ) [remindmelater.py at main · 22TNT/RemindMeLater](https://github.com/22TNT/RemindMeLater/blob/main/remindmelater.py)
+* ( ) [main.py at master · aminsaedi/reminder_bot](https://github.com/aminsaedi/reminder_bot/blob/master/main.py)
 * ( ) [Deploy Telegram Bot on Google Cloud Platform](https://programmingforgood.medium.com/deploy-telegram-bot-on-google-cloud-platform-74f1f531f65e)
 
     ssh-keygen -t rsa
@@ -1408,18 +1397,18 @@ Scheduler
     → copy to gh
 
     Passphrase: github
-* ( ) [codecapsules.io/docs/comparisons/comparing-telegram-bot-hosting-providers/](https://codecapsules.io/docs/comparisons/comparing-telegram-bot-hosting-providers/)
+* ( ) [codecapsules.io/docs/comparisons/comparing-telegram-bot-hosting-providers](https://codecapsules.io/docs/comparisons/comparing-telegram-bot-hosting-providers/)
 * ( ) [blog.devgenius.io/create-and-deploy-your-telegram-bot-here-entirely-free-757d5d5e8099](https://blog.devgenius.io/create-and-deploy-your-telegram-bot-here-entirely-free-757d5d5e8099)
 * ( ) [towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2](https://towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2)
 * ( ) [dashboard.heroku.com/apps](https://dashboard.heroku.com/apps)
 * ( ) [towardsdatascience.com/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3](https://towardsdatascience.com/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3)
 * ( ) [core.telegram.org/bots/samples](https://core.telegram.org/bots/samples)
 * ( ) [core.telegram.org/bots/api](https://core.telegram.org/bots/api)
-* ( ) [rhnvrm/tg-taskwarrior-bot](https://github.com/rhnvrm/tg-taskwarrior-bot)
-* ( ) [cedricbousmanne/telegram-taskwarrior](https://github.com/cedricbousmanne/telegram-taskwarrior)
-* ( ) [Ninlives/taskwarrior-telegram-bot](https://github.com/Ninlives/taskwarrior-telegram-bot)
-* ( ) [freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
-* ( ) [thepythoncorner.com/posts/2021-01-16-how-create-telegram-bot-in-python/](https://thepythoncorner.com/posts/2021-01-16-how-create-telegram-bot-in-python/)
+* ( ) [tg-taskwarrior-bot](https://github.com/rhnvrm/tg-taskwarrior-bot)
+* ( ) [telegram-taskwarrior](https://github.com/cedricbousmanne/telegram-taskwarrior)
+* ( ) [taskwarrior-telegram-bot](https://github.com/Ninlives/taskwarrior-telegram-bot)
+* ( ) [freecodecamp.org/news/how-to-create-a-telegram-bot-using-python](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
+* ( ) [thepythoncorner.com/posts/2021-01-16-how-create-telegram-bot-in-python](https://thepythoncorner.com/posts/2021-01-16-how-create-telegram-bot-in-python/)
 * ( ) [dspyt.com/simple-telegram-bot-in-python-hosted-easily-on-heroku](https://dspyt.com/simple-telegram-bot-in-python-hosted-easily-on-heroku)
 
 #### Home Assistant TODO: CLEANUP
@@ -1460,80 +1449,80 @@ Scheduler
 * ( ) [Trilium Notes](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
 * ( ) [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux
 * ( ) [Turtl](https://turtlapp.com/) - The secure, collaborative notebook.
-* ( ) [umangv/indicator-stickynotes](https://github.com/umangv/indicator-stickynotes)
+* ( ) [indicator-stickynotes](https://github.com/umangv/indicator-stickynotes)
 * ( ) [Simplenote](https://simplenote.com/) - A Cross platform notetaking app and Evernote competitor.
 * ( ) [QOwnNotes](https://www.qownnotes.org/) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 * ( ) [dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
 * ( ) [eureka](https://github.com/simeg/eureka/) -  CLI tool to input and store your ideas without leaving the terminal
 * ( ) [Polar](https://getpolarized.io/) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
-* → example: [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH)
-* ( ) [dnote/dnote](https://github.com/dnote/dnote)
-* ( ) [xwmx/nb](https://github.com/xwmx/nb)
-* ( ) [vhp.github.io/terminal_velocity/](https://vhp.github.io/terminal_velocity/)
+* → example: [NoteSH](https://github.com/Cvaniak/NoteSH)
+* ( ) [dnote](https://github.com/dnote/dnote)
+* ( ) [nb](https://github.com/xwmx/nb)
+* ( ) [vhp.github.io/terminal_velocity](https://vhp.github.io/terminal_velocity/)
 * ( ) [notable.app/#features](https://notable.app/#features)
 * ( ) [onthesamepage.online/about](https://onthesamepage.online/about)
 * ( ) [note templates](https://jacobzelko.com/08032021134232-notes-template/#example_of_actual_note)
-* ( ) [usememos/memos](https://github.com/usememos/memos)
-* ( ) [xwmx/nb](https://github.com/xwmx/nb)  
+* ( ) [memos](https://github.com/usememos/memos)
+* ( ) [nb](https://github.com/xwmx/nb)  
 * ( ) [manuscript](https://wervice.github.io/manuscript/)
 * ( ) [Daniele-rolli/Beaver-Notes](https://github.com/Daniele-rolli/Beaver-Notes)
 * ( ) [primenote](https://www.primenote.cc/)
 * ( ) [flotes](https://flotes.app/home/notebooks/getting-started/edit_notes/introduction)
 * ( ) [srid.ca/neuron-announce](https://srid.ca/neuron-announce)
-* ( ) [srid/emanote](https://github.com/srid/emanote)
+* ( ) [emanote](https://github.com/srid/emanote)
 * ( ) [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)
 
 #### Obsidian TODO: CLEANUP
 
 * best tasks plugin in obsidian [video](https://www.youtube.com/watch?v=quXNtjTe5WE)
-* ( ) [obsidian.md/](https://obsidian.md/)
+* ( ) [obsidian.md](https://obsidian.md/)
 * ( ) [lifehacker.com/tech/best-obsidian-plugins](https://lifehacker.com/tech/best-obsidian-plugins)
 
 #### Wiki / 2nd Brain TODO: CLEANUP
 
 * ( ) [gitit: Wiki using happstack, git or darcs, and pandoc.](https://hackage.haskell.org/package/gitit)
-* ( ) [brunocbr/zettel-composer](https://github.com/brunocbr/zettel-composer)
+* ( ) [zettel-composer](https://github.com/brunocbr/zettel-composer)
 * ( ) [I Should Have Just Used Vimwiki From The Start](https://youtu.be/vBJj7YMVn6I)
 * ( ) [VIMKipedia: Or How I Built My Second Brain Using Vim - YouTube](https://www.youtube.com/watch?v=q80hXvorl0o)
 * search: vimwiki for android
 * ( ) [TiddlyWiki — a non-linear personal web notebook](https://tiddlywiki.com/)
-* ( ) [zadam/trilium: Build your personal knowledge base with Trilium Notes](https://github.com/zadam/trilium)
-* ( ) [fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem/](https://fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem/)
-* ( ) [phaazon/mind](https://github.com/phaazon/mind) → also look at how keymaps are handled and represented
+* ( ) [trilium: Build your personal knowledge base with Trilium Notes](https://github.com/zadam/trilium)
+* ( ) [fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem](https://fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem/)
+* ( ) [mind](https://github.com/phaazon/mind) → also look at how keymaps are handled and represented
 * ( ) [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 * (2.5) [jrnl](https://github.com/jrnl-org/jrnl)→ integrate with planager
-   | [xwmx.github.io/nb/](https://xwmx.github.io/nb/)
-   | [dnote/dnote](https://github.com/dnote/dnote)
-* ( ) [wiki.dendron.so/](https://wiki.dendron.so/) → [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron)
+   | [xwmx.github.io/nb](https://xwmx.github.io/nb/)
+   | [dnote](https://github.com/dnote/dnote)
+* ( ) [wiki.dendron.so](https://wiki.dendron.so/) → [awesome-dendron](https://github.com/dendronhq/awesome-dendron)
 * ( ) [mickael-menu/zk](https://github.com/mickael-menu/zk)
-* ( )[Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten)- [zettelkasten.danielluedecke.de/](http://zettelkasten.danielluedecke.de/)  (GUI)
+* ( )[Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten)- [zettelkasten.danielluedecke.de](http://zettelkasten.danielluedecke.de/)  (GUI)
 * ( )[TreeTag](https://github.com/doug-101/TreeTag)<https://github.com/doug-101/TreeLine_mobile>
         [doug-101/TreeLine](https://github.com/doug-101/TreeLine) (GUI)
 * ( ) [Freemind](https://freemind.sourceforge.io/wiki/index.php/Main_Page)
-* ( ) [joplinapp.org/](https://joplinapp.org/) - [johnfactotum.github.io/foliate/](https://johnfactotum.github.io/foliate/)
-* ( ) [tiddlywiki.com/](https://tiddlywiki.com/)
-* ( ) [gitjournal.io/pricing/](https://gitjournal.io/pricing/) [gitjournal.io/](https://gitjournal.io/)
-* ( ) [qownnotes.org/](https://www.qownnotes.org/)
+* ( ) [joplinapp.org](https://joplinapp.org/) - [johnfactotum.github.io/foliate](https://johnfactotum.github.io/foliate/)
+* ( ) [tiddlywiki.com](https://tiddlywiki.com/)
+* ( ) [gitjournal.io/pricing](https://gitjournal.io/pricing/) [gitjournal.io](https://gitjournal.io/)
+* ( ) [qownnotes.org](https://www.qownnotes.org/)
 * →  [Video on 2nd Brain Selection](https://www.youtube.com/watch?v=XRpHIa-2XCE)
 
 #### Notion, Appflowy, Jira, etc TODO: CLEANUP
 
 * ( ) [My integrations | Notion Developers](https://www.notion.so/my-integrations) [notion.so/my-integrations](https://www.notion.so/my-integrations)
-* ( ) [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-* ( ) [ramnes.github.io/notion-sdk-py/](https://ramnes.github.io/notion-sdk-py/)
-* ( ) [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+* ( ) [AFFiNE](https://github.com/toeverything/AFFiNE)
+* ( ) [ramnes.github.io/notion-sdk-py](https://ramnes.github.io/notion-sdk-py/)
+* ( ) [AFFiNE](https://github.com/toeverything/AFFiNE)
 * ( ) [Reddit - Here! Some USEFUL date formulas for your Notion’s Setup!](https://www.reddit.com/r/Notion/comments/fsnmmg/here_some_useful_date_formulas_for_your_notions/)
 * ( ) [notion.so/my-integrations](https://www.notion.so/my-integrations)
 * ( ) [ecosystem.atlassian.net/wiki/spaces/JRJC/overview](https://ecosystem.atlassian.net/wiki/spaces/JRJC/overview)
 * via Trello?
-* ( ) [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js)
-* ( ) [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py)
-* ( ) [getsyncr/notion-sdk](https://github.com/getsyncr/notion-sdk) (deprecated)
-* ( ) [makenotion/notion-sdk-typescript-starter](https://github.com/makenotion/notion-sdk-typescript-starter)
-* → switch to [focalboard.com/](https://www.focalboard.com/)  ?
+* ( ) [notion-sdk-js](https://github.com/makenotion/notion-sdk-js)
+* ( ) [notion-sdk-py](https://github.com/ramnes/notion-sdk-py)
+* ( ) [notion-sdk](https://github.com/getsyncr/notion-sdk) (deprecated)
+* ( ) [notion-sdk-typescript-starter](https://github.com/makenotion/notion-sdk-typescript-starter)
+* → switch to [focalboard.com](https://www.focalboard.com/)  ?
 * ( ) [HedgeDoc - The best platform to write and share markdown.](https://hedgedoc.org/)
 * ( ) [Whimsical - Work Better, Faster, Together](https://whimsical.com/)
-* ( ) [hedgedoc/hedgedoc at blog.cloudron.io](https://github.com/hedgedoc/hedgedoc?ref=blog.cloudron.io)
+* ( ) [hedgedoc at blog.cloudron.io](https://github.com/hedgedoc/hedgedoc?ref=blog.cloudron.io)
 * ( ) [znuny.org/de](https://www.znuny.org/de)
 * ( ) [thegist.so/#Pricing](https://www.thegist.so/#Pricing)
 * ( ) [zammad](https://zammad.org/)
@@ -1544,11 +1533,24 @@ Scheduler
 
 ##### AppFlowy and Related TODO: CLEANUP
 
+```txt
+
+AppFlowy is a web application, which means that you can use it on any device that has a web browser. To host it so that you can use it on your Android device and desktop, there are a few options:
+
+1. Host it on a server and access it through a web browser on your desktop and Android device: You can host AppFlowy on a server and access it through a web browser on your desktop or Android device. This way, you can use AppFlowy on any device that has a web browser.
+2. Install a local server on your desktop and access it through a web browser on your desktop and Android device: You can install a local server on your desktop and access AppFlowy through a web browser on your desktop or Android device. This way, you can use AppFlowy on your desktop without an internet connection, and access it on your Android device through a local network.
+3. Use a cloud-based service that allows you to host web applications: There are several cloud-based services, such as AWS, DigitalOcean, and Heroku, that allow you to host web applications. You can host AppFlowy on one of these services and access it through a web browser on your desktop or Android device. This way, you can use AppFlowy on any device that has a web browser, and you don't need to worry about managing a server.
+
+Regardless of which option you choose, it's important to make sure that you keep your AppFlowy account secure by using a strong and unique password, and enabling two-factor authentication if possible.
+
+                search “hosting” [discord.com/channels/903549834160635914/903553722804748309](https://discord.com/channels/903549834160635914/903553722804748309)
+```
+
 * ( ) [Self-hosting AppFlowy for free Using Supabase - AppFlowy Docs](https://docs.appflowy.io/docs/guides/appflowy/self-hosting-appflowy-using-supabase)
-* ( ) [itsfoss.com/appflowy/](https://itsfoss.com/appflowy/)
+* ( ) [itsfoss.com/appflowy](https://itsfoss.com/appflowy/)
 * ( ) [appflowy.gitbook.io/docs/essential-documentation/readme](https://appflowy.gitbook.io/docs/essential-documentation/readme)
 * ( ) [AppFlowy.IO](https://appflowy.io/)
-* ( ) [itsfoss.com/appflowy/](https://itsfoss.com/appflowy/)
+* ( ) [itsfoss.com/appflowy](https://itsfoss.com/appflowy/)
 * ( ) [AppFlowy-IO/AppFlowy-Server: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.](https://github.com/AppFlowy-IO/AppFlowy-Server)
 * ( ) [How to host on a website · AppFlowy-IO/AppFlowy · Discussion #283](https://github.com/AppFlowy-IO/AppFlowy/discussions/283)
 * → migrate Notion to AppFlowy?
@@ -1557,22 +1559,22 @@ Scheduler
 #### Neovim, Neorg TODO: CLEANUP
 
 * ( ) [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
-* ( ) [nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157](https://github.com/nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157)
-* ( ) [Klafyvel/Norg.jl](https://github.com/Klafyvel/Norg.jl)
-* ( ) roadmap of a neorg integration: [skbolton/neorg-taskwarrior/blob/main/roadmap.norg](https://github.com/skbolton/neorg-taskwarrior/blob/main/roadmap.norg)
-* ( ) [skbolton/neorg-taskwarrior](https://github.com/skbolton/neorg-taskwarrior)
+* ( ) [neorg GTD-Queries](https://github.com/nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157)
+* ( ) [Norg.jl](https://github.com/Klafyvel/Norg.jl)
+* ( ) roadmap of a neorg integration: [neorg-taskwarrior roadmap](https://github.com/skbolton/neorg-taskwarrior/blob/main/roadmap.norg)
+* ( ) [neorg-taskwarrior](https://github.com/skbolton/neorg-taskwarrior)
 * ( ) [From No Org to Neorg - YouTube](https://www.youtube.com/playlist?list=PLx2ksyallYzVI8CN1JMXhEf62j2AijeDa)
-* ( ) [phenax/neorg-hop-extras](https://github.com/phenax/neorg-hop-extras)
+* ( ) [neorg-hop-extras](https://github.com/phenax/neorg-hop-extras)
 * ( ) [Live* Server plugin for *vim*/*nvim* : r/*neovim* - Reddit](https://www.reddit.com/r/neovim/comments/w86ash/live_server_plugin_for_vimnvim/)
-* ( ) [orenskl/pico-jvm](https://github.com/orenskl/pico-jvm)
+* ( ) [pico-jvm](https://github.com/orenskl/pico-jvm)
 
 ##### Neovim Plugins TODO: CLEANUP
 
-* ( ) [jackMort/pommodoro-clock.nvim](https://github.com/jackMort/pommodoro-clock.nvim)
-* ( ) [nfrid/due.nvim](https://github.com/nfrid/due.nvim)
-* ( ) [wthollingsworth/pomodoro.nvim](https://github.com/wthollingsworth/pomodoro.nvim)
-* ( ) [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim)
-* ( ) [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+* ( ) [pommodoro-clock.nvim](https://github.com/jackMort/pommodoro-clock.nvim)
+* ( ) [due.nvim](https://github.com/nfrid/due.nvim)
+* ( ) [pomodoro.nvim](https://github.com/wthollingsworth/pomodoro.nvim)
+* ( ) [hologram.nvim](https://github.com/edluffy/hologram.nvim)
+* ( ) [silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
 
 ### Tracking ------- TODO: CLEANUP
 
@@ -1610,73 +1612,74 @@ Scheduler
 ### Time Tracking and Timers TODO: CLEANUP
 
 * ( ) [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - A time tracking utility that offers simple stopwatch features as well as sophisticated calendar-based backfill, along with flexible reporting.
-*interface ideas: [moro](https://github.com/omidfi/moro)) - Simple tool for tracking work hours.
-* interface ideas: [Timetrap](https://github.com/samg/timetrap) - A simple command line time tracker written in Ruby. It provides an easy to use command line interface for tracking what you spend your time on.
-* ( ) [bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
-* ( ) [ActivityWatch](https://activitywatch.net/) - ActivityWatch is an app that automatically tracks how you spend time on your devices.
-* ( ) [Time Cop](https://timecop.app/en/) - A time tracking app that respects your privacy and gets the job done without getting too fancy.
-* ( ) [Toggl Track](https://flathub.org/apps/details/com.toggl.TogglDesktop/) - Simple and Intuitive Time Tracking Software with cloud sync.
-* ( ) [MyTimer](https://github.com/sepandhaghighi/mytimer) - Simple timer for the terminal with timer-mode and alarm.
-* ( ) [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent.
-* ( ) [GNOME Pomodoro](http://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME.
-* ( ) [Break Timer](https://wiki.gnome.org/Apps/BreakTimer) - A break timer application for GNOME.
-* ( ) [BreakTimer](https://breaktimer.app/) - BreakTimer is a cross platform desktop application with nice UI for managing and enforcing periodic breaks.
-* ( ) [RSIBreak](https://apps.kde.org/rsibreak/) - RSIBreak takes care of your health and regularly breaks your work to avoid repetitive strain injury.
-* ( ) [Taskade](https://www.taskade.com/downloads) - Real-time organization and collaboration tool for getting things done. Taskade is a unified workspace for team tasks, notes, with integrated video chat available cross-platform and free to use.
-* ( ) [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/) - A pomodoro timer for the GNOME desktop.
-* ( ) [Timetrap](https://github.com/samg/timetrap)) - Simple timetracker.
-* ( ) [Watson](https://github.com/TailorDev/Watson)) - Generate reports for clients and manage your time.
-* ( ) [utt](https://github.com/larose/utt)) - Simple time tracking tool.
-* ( ) [doing](https://github.com/ttscoff/doing/)) - Keep track of what you’re doing and track what you’ve done.
-* ( ) [arbtt](https://github.com/nomeata/arbtt) - (automatic, rule-based time tracker) runs in background, collecting information regarding open windows, focussed ones, etc.; it can be configured to display statistics on the collected data, e.g., figuring out the time spent on one specific window.
-* ( ) [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
-* ( ) [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
-* ( ) [habitctl](https://github.com/blinry/habitctl) - Minimalist command line tool you can use to track and examine your habits.
-* ( ) [utt](https://github.com/larose/utt) - Ultimate Time Tracker - A simple command-line time tracker written in Python.
-* ( ) [doing](https://github.com/ttscoff/doing/) - A command line tool for remembering what you were doing and tracking what you've done.
-* ( ) [zeitkatze](https://github.com/leonmavr/zeitkatze) - Simplest stopwatch in a linux console.
-* ( ) [Watson](https://github.com/TailorDev/Watson) - Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
-* ( ) [Moro](https://github.com/omidfi/moro) - A command line tool for tracking work hours, as simple as it can get.
 -> [wikipedia](https://en.wikipedia.org/wiki/Time-tracking_software)
-* ( ) [kstenschke/tictac-track](https://github.com/kstenschke/tictac-track)
-* ( ) [TheRolfFR/activity-tracker](https://github.com/TheRolfFR/activity-tracker)
-* ( ) [activitywatch.net/](https://activitywatch.net/)
-* ( ) [AlphabetsAlphabets/actt](https://github.com/AlphabetsAlphabets/actt)
-* ( ) [irq0/whatidid: what I do and what I did](https://github.com/irq0/whatidid)
-* ( ) [kquick/mywork: Tool to keep track of what you have been working on, and where and when work should continue](https://github.com/kquick/mywork)
-* ( ) [arbtt.nomeata.de/#what](https://arbtt.nomeata.de/#what) [nomeata/arbtt](https://github.com/nomeata/arbtt) - automatic rule-based time tracker
-* ( ) [viseshrp/workedon](https://github.com/viseshrp/workedon)
+* ( ) [activity-tracker](https://github.com/TheRolfFR/activity-tracker)
+* ( ) [activitywatch.net](https://activitywatch.net/)
+* ( ) [ActivityWatch](https://activitywatch.net/) - ActivityWatch is an app that automatically tracks how you spend time on your devices.
+* ( ) [actt](https://github.com/AlphabetsAlphabets/actt)
+* ( ) [alarm clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent.
+* ( ) [arbtt.nomeata.de/#what](https://arbtt.nomeata.de/#what) [arbtt](https://github.com/nomeata/arbtt) - automatic rule-based time tracker
+* ( ) [arbtt](https://github.com/nomeata/arbtt) - (automatic, rule-based time tracker) runs in background, collecting information regarding open windows, focussed ones, etc.; it can be configured to display statistics on the collected data, e.g., figuring out the time spent on one specific window - Haskell!
+* (1) [bartib](https://github.com/nikolassv/bartib) - Rust - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
+* ( ) [break Timer](https://wiki.gnome.org/Apps/BreakTimer) - A break timer application for GNOME.
+* ( ) [breakTimer](https://breaktimer.app/) - BreakTimer is a cross platform desktop application with nice UI for managing and enforcing periodic breaks.
+* ( ) [doing](https://github.com/ttscoff/doing/) - A command line tool for remembering what you were doing and tracking what you've done.
+* (selected) [git-standup](https://github.com/kamranahmedse/git-standup)
+* ( ) [gnome Pomodoro](http://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME.
+* ( ) [habitctl](https://github.com/blinry/habitctl) - Minimalist command line tool you can use to track and examine your habits.
+* [moro](https://github.com/omidfi/moro)) - interface ideas - Simple tool for tracking work hours.
+* ( ) [moro](https://github.com/omidfi/moro) - A command line tool for tracking work hours, as simple as it can get.
+* ( ) [mytimer](https://github.com/sepandhaghighi/mytimer) - Simple timer for the terminal with timer-mode and alarm.
+* ( ) [mywork: Tool to keep track of what you have been working on, and where and when work should continue](https://github.com/kquick/mywork)
+* (5) [node-did](https://github.com/chrisallenlane/node-did) - maybe fork and update, or better yet, port to another language
+* ( ) [omgwdyd](https://github.com/timmybytes/OMGWDYD) -> see also git-standup
+* ( ) [pulse](https://github.com/creativecreature/pulse) like a fitness tracker for your coding sessions
+* ( ) [rsibreak](https://apps.kde.org/rsibreak/) - RSIBreak takes care of your health and regularly breaks your work to avoid repetitive strain injury.
+* (1) [ryot](https://github.com/IgnisDa/ryot) $$$$$$$$$
+* (5) [solanum](https://apps.gnome.org/app/org.gnome.Solanum/) - A pomodoro timer for the GNOME desktop.
+* (propr) [taskade](https://www.taskade.com/downloads) - Real-time organization and collaboration tool for getting things done. Taskade is a unified workspace for team tasks, notes, with integrated video chat available cross-platform and free to use.
+* (1) [tf-viewer](https://github.com/danielalvsaaker/tf-viewer) $$$$$$
+* ( ) [tictac-track](https://github.com/kstenschke/tictac-track)
+* ( ) [time cop](https://timecop.app/en/) - A time tracking app that respects your privacy and gets the job done without getting too fancy.
+* ( ) [timetrap](https://github.com/samg/timetrap) - interface ideas - A simple command line time tracker written in Ruby. It provides an easy to use command line interface for tracking what you spend your time on.
+* ( ) [toggl Track](https://flathub.org/apps/details/com.toggl.TogglDesktop/) - Simple and Intuitive Time Tracking Software with cloud sync.
+* ( ) [track-time-cli](https://github.com/f3rno64/track-time-cli)
+* ( ) [utt](https://github.com/larose/utt) - Ultimate Time Tracker - A simple command-line time tracker written in Python.
+* ( ) [watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
+* ( ) [whatidid: what I do and what I did](https://github.com/irq0/whatidid)
+* ( ) [workedon](https://github.com/viseshrp/workedon)
+* ( ) [zeitkatze](https://github.com/leonmavr/zeitkatze) - Simplest stopwatch in a linux console.
 
 #### Habit Trackers TODO: CLEANUP
 
 * (5) [dijo](https://github.com/nerdypepper/dijo) - scriptable curses-bases habit tracker in Rust [current repo](https://git.peppe.rs/cli/dijo/) $$$$$$$$$
-* ( ) [schmee/habu](https://github.com/schmee/habu) - A TUI habit tracker
+* ( ) [habu](https://github.com/schmee/habu) - A TUI habit tracker
 * ( ) [habu](https://github.com/wakatara/harsh) - 🐨 Habu it's a minimalistic startpage made with the essence of neovim dashboard with the catppuccin mocha palette. Fully customizable and easy to setup.
 * (5) [uhabits](https://github.com/iSoron/uhabits) -> borrow ideas and elements for Nebokrai / fork and adapt / integrate
 * ( ) [habitmap](https://github.com/shuu-wasseo/habitmap) - A command-line app to track your habits and visualise how committed you are to making or maintaining them with colorful heatmaps.
 * ( ) [Habitscipline: A habit manager](https://github.com/NorfairKing/habitscipline)
-* ( ) [schmee/habu](https://github.com/schmee/habu)
-* ( ) [fschlz/habit-tracker: simple streamlit app to keep track of the essentials](https://github.com/fschlz/habit-tracker)
+* ( ) [habu](https://github.com/schmee/habu)
+* ( ) [habit-tracker: simple streamlit app to keep track of the essentials](https://github.com/fschlz/habit-tracker)
 * make a habit-building subapp in the scheduling app
-* ( ) [xpavle00/Habo: Habo is an open-source habit tracker. Created in a flutter.](https://github.com/xpavle00/Habo)
-* ( ) [wakatara/harsh: Habit tracking for geeks. A minimalist, command line tool for tracking and understanding your habits.](https://github.com/wakatara/harsh)
-* ( ) [codito/habito: Simple commandline habits tracker.](https://github.com/codito/habito)
-* ( ) [iestynpryce/habit: Command line habit tracker](https://github.com/iestynpryce/habit)
-* ( ) [nerdypepper/dijo: scriptable, curses-based, digital habit tracker](https://github.com/nerdypepper/dijo)
-* ( ) [qba73/habit: Habit tracker is a CLI app for tracking daily habits.](https://github.com/qba73/habit)
+* ( ) [Habo: Habo is an open-source habit tracker. Created in a flutter.](https://github.com/xpavle00/Habo)
+* ( ) [harsh: Habit tracking for geeks. A minimalist, command line tool for tracking and understanding your habits.](https://github.com/wakatara/harsh)
+* ( ) [habito: Simple commandline habits tracker.](https://github.com/codito/habito)
+* ( ) [habit: Command line habit tracker](https://github.com/iestynpryce/habit)
+* ( ) [dijo: scriptable, curses-based, digital habit tracker](https://github.com/nerdypepper/dijo)
+* ( ) [habit: Habit tracker is a CLI app for tracking daily habits.](https://github.com/qba73/habit)
 * ( ) [Encrypted to-do list, habit and mood tracker, journaling and notes app | Lunatask](https://lunatask.app/)
 
 #### Time Tracking TODO: CLEANUP
 
 * (1) [timewarrior](https://timewarrior.net/)
 * (5) [arbtt](https://github.com/nomeata/arbtt) - in Haskell! $$$ -> seems to need more Wayland work
-[traggo/](https://github.com/traggo/)
-* ( ) [](https://gitlab.com/categulario/tiempo-rs)
-* ( ) [](https://github.com/larose/utt)
-* ( ) [](https://dxtime.dxsolutions.org/screenshots.html)
-* ( ) [](https://github.com/Baralga/baralga-app)
-* ( ) [](https://code.ungleich.ch/ungleich-public/ctt)
-* ( ) [](https://github.com/hamaluik/timecop)
+* ( ) [traggo](https://github.com/traggo/)
+* ( ) [tiempo-rs](https://gitlab.com/categulario/tiempo-rs)
+* ( ) [utt](https://github.com/larose/utt)
+* ( ) [dxtime](https://dxtime.dxsolutions.org/screenshots.html)
+* ( ) [baralga-app](https://github.com/Baralga/baralga-app)
+* ( ) [ctt](https://code.ungleich.ch/ungleich-public/ctt)
+* ( ) [timecop](https://github.com/hamaluik/timecop)
 * ( ) [timetrace](https://github.com/dominikbraun/timetrace)
 * ( ) [timetracking](https://github.com/hardliner66/timetracking/)
 * ( ) [timetrap](https://github.com/samg/timetrap)
@@ -1686,9 +1689,9 @@ Scheduler
 
 #### Pomodoro TODO: CLEANUP
 
-* ( ) [pickfire/spt](https://github.com/pickfire/spt)
-* ( ) [jakethekoenig/tmux-pom](https://github.com/jakethekoenig/tmux-pom) ?
-* ( ) [dbinagi/nomodoro](https://github.com/dbinagi/nomodoro)
+* ( ) [spt](https://github.com/pickfire/spt)
+* ( ) [tmux-pom](https://github.com/jakethekoenig/tmux-pom) ?
+* ( ) [nomodoro](https://github.com/dbinagi/nomodoro)
 * ( ) [gist.github.com/tomordonez/afc9633c4c9a8f649155bf083ef040cf#file-pomodorotimer-py](https://gist.github.com/tomordonez/afc9633c4c9a8f649155bf083ef040cf#file-pomodorotimer-py)
 
 ### Dashboard TODO: CLEANUP
@@ -1701,6 +1704,9 @@ Scheduler
 
 -> [AlternativeTo](https://alternativeto.net/category/sport-and-health/all/?license=opensource)
 
+-> [alts](https://alternativeto.net/software/myfitnesspal/?license=opensource)
+
+* ( ) [myfitnesspal](https://www.myfitnesspal.com/premium)
 * ( ) [Body Weight Planner - NIDDK](https://www.niddk.nih.gov/bwp)
 * ( ) [cl fitness tracker](https://labs.tomasino.org/command-line-fitness-tracker/)
 
@@ -1709,6 +1715,9 @@ Scheduler
 * ( ) [hranoprovod-cli](https://github.com/aquilax/hranoprovod-cli)
 * ( ) [dietcli](https://github.com/hstsethi/dietcli)
 * ( ) [calories](https://github.com/zupzup/calories)
+* ( ) [foodtracker](https://f-droid.org/en/packages/org.secuso.privacyfriendlyfoodtracker/)
+* ( ) [waistline](https://github.com/davidhealey/waistline)
+* ( ) [openfoodfacts](https://f-droid.org/en/packages/openfoodfacts.github.scrachx.openfood/)
 
 #### Workout Tracking / Planning TODO: CLEANUP
 
@@ -1758,38 +1767,38 @@ Scheduler
 * ( ) [awesome-productivity-software](https://github.com/areknawo/awesome-productivity-software)
 * ( ) [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
 * ⇒ [wiki.archlinux.org/title/List_of_applications/Other](https://wiki.archlinux.org/title/List_of_applications/Other)
-* ( ) [orgmode.org/worg/org-contrib/](https://orgmode.org/worg/org-contrib/)
-* ( ) [medevel.com/tag/productivity/](https://medevel.com/tag/productivity/)  **
+* ( ) [orgmode.org/worg/org-contrib](https://orgmode.org/worg/org-contrib/)
+* ( ) [medevel.com/tag/productivity](https://medevel.com/tag/productivity/)  **
 * ( ) [NorfairKing](https://github.com/NorfairKing)
 * ( ) [I haven’t found a decent ToDo list with this killer feature: dependencies. I wan… | Hacker News](https://news.ycombinator.com/item?id=11352791) [news.ycombinator.com/item?id=11352791](https://news.ycombinator.com/item?id=11352791)
 * ( ) [Stuff I did - The stuff I do](https://www.statox.fr/projects/#) [statox.fr/projects/#](https://www.statox.fr/projects/#)
 
 ### doc formats TODO: CLEANUP
 
-* ( ) [chris48s/stage-left](https://github.com/chris48s/stage-left) ([x]it)
+* ( ) [stage-left](https://github.com/chris48s/stage-left) ([x]it)
 * ( ) create haxit: haskell equivalent of stage-left ([x]it parser and writer)
 
 ### Data Management (db, dvc, etc.)
 
 * ( ) [set up dvc with google drive - Google Search](https://www.google.com/search?client=firefox-b-d&q=set+up+dvc+with+google+drive)
-* ( ) [tinydb](https://github.com/msiemens/tinydb) - [tinydb.readthedocs.io/en/latest/](https://tinydb.readthedocs.io/en/latest/) - a lightweight document oriented database optimized for your happiness :)
+* ( ) [tinydb](https://github.com/msiemens/tinydb) - [tinydb.readthedocs.io/en/latest](https://tinydb.readthedocs.io/en/latest/) - a lightweight document oriented database optimized for your happiness :)
 
 ### web TODO: CLEANUP
 
 * ( ) [SSH and GPG keys](https://github.com/settings/keys)
-* ( ) [adnanh/webhook](https://github.com/adnanh/webhook)
+* ( ) [webhook](https://github.com/adnanh/webhook)
 * ( ) [Block Elements - Wikipedia](https://en.wikipedia.org/wiki/Block_Elements)
-* ( ) [MahmoudNasser01/django_simple_notification](https://github.com/MahmoudNasser01/django_simple_notification)
-* ( ) [snapframework.com/](http://snapframework.com/)
-* ( ) [spock.li/](http://www.spock.li/)
-* ( ) [yesodweb.com/](https://www.yesodweb.com/)
+* ( ) [django_simple_notification](https://github.com/MahmoudNasser01/django_simple_notification)
+* ( ) [snapframework.com](http://snapframework.com/)
+* ( ) [spock.li](http://www.spock.li/)
+* ( ) [yesodweb.com](https://www.yesodweb.com/)
 * ( ) [hackage.haskell.org/package/warp](https://hackage.haskell.org/package/warp)
-* ( ) [servant.dev/](http://www.servant.dev/)
+* ( ) [servant.dev](http://www.servant.dev/)
 * ( ) [haskell.dev/article/Building_web_applications_with_Haskell_A_beginners_guide.html](https://haskell.dev/article/Building_web_applications_with_Haskell_A_beginners_guide.html)
-* ( ) [happstack.com/](https://www.happstack.com/)
+* ( ) [happstack.com](https://www.happstack.com/)
 * ( ) [haskell.org/haskellwiki/Web](https://www.haskell.org/haskellwiki/Web)
 * ( ) [wiki.haskell.org/Web/Servers](https://wiki.haskell.org/Web/Servers)
-* ( ) [litehtml/litehtml](https://github.com/litehtml/litehtml)
+* ( ) [litehtml](https://github.com/litehtml/litehtml)
 * ( ) [npmjs.com/package/browser-sync](https://www.npmjs.com/package/browser-sync)
 * ( ) [Is there a plugin for *live preview* my web projects on … - Reddit](https://www.reddit.com/r/neovim/comments/uzqx2i/is_there_a_plugin_for_live_preview_my_web/)
 * ( ) [Introducing *live*command.*nvim*: *preview* the norm … - Reddit](https://www.reddit.com/r/neovim/comments/xx5hhp/introducing_livecommandnvim_preview_the_norm/)
@@ -1798,37 +1807,37 @@ Scheduler
 
 ### ? (apps) TODO: CLEANUP
 
-* ( ) [https://www.superlist.com/](https://www.superlist.com/)
-* (5) [kuskus](https://github.com/kuskusapp/kuskus) [kuskus.app/](https://kuskus.app/)
-* ( ) [medevel.com/cuekeeper/](https://medevel.com/cuekeeper/) [talex5/cuekeeper](https://github.com/talex5/cuekeeper)
-* ( ) [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook)
-* ( ) [darrikonn/td-cli](https://github.com/darrikonn/td-cli)
+* ( ) [https://www.superlist.com](https://www.superlist.com/)
+* (5) [kuskus](https://github.com/kuskusapp/kuskus) [kuskus.app](https://kuskus.app/)
+* ( ) [medevel.com/cuekeeper](https://medevel.com/cuekeeper/) [cuekeeper](https://github.com/talex5/cuekeeper)
+* ( ) [taskbook](https://github.com/klaudiosinani/taskbook)
+* ( ) [td-cli](https://github.com/darrikonn/td-cli)
 * ( ) [Pricing - WakaTime](https://wakatime.com/pricing)
-* ( ) [sma.supermemo.wiki/#/](https://sma.supermemo.wiki/#/)
-* ( ) [amiof/todo-list-: a todo list create with js and html & css](https://github.com/amiof/todo-list-)
-* ( ) [Tinycare-Tui](https://www.reddit.com/r/golang/s/fVY4hoTMYY) [DMcP89/tinycare-tui](https://github.com/DMcP89/tinycare-tui)  [r/golang/s/fVY4hoTMYY](https://www.reddit.com/r/golang/s/fVY4hoTMYY)
-* ( ) [notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal)
-* ( ) [organice.200ok.ch/](https://organice.200ok.ch/)
-* ( ) [about.org-note.com/](https://about.org-note.com/)  [artawower/orgnote](https://github.com/artawower/orgnote)
-* ( ) [f-droid.org/packages/com.mhss.app.mybrain/](https://f-droid.org/packages/com.mhss.app.mybrain/)
-* ( ) [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android)
-* ( ) [tasks.org/](https://tasks.org/)  $$$$$$$$$
+* ( ) [sma.supermemo.wiki/#](https://sma.supermemo.wiki/#/)
+* ( ) [todo-list-: a todo list create with js and html & css](https://github.com/amiof/todo-list-)
+* ( ) [Tinycare-Tui](https://www.reddit.com/r/golang/s/fVY4hoTMYY) [tinycare-tui](https://github.com/DMcP89/tinycare-tui)  [golang/s/fVY4hoTMYY](https://www.reddit.com/r/golang/s/fVY4hoTMYY)
+* ( ) [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal)
+* ( ) [organice.200ok.ch](https://organice.200ok.ch/)
+* ( ) [about.org-note.com](https://about.org-note.com/)  [orgnote](https://github.com/artawower/orgnote)
+* ( ) [f-droid.org/packages/com.mhss.app.mybrain](https://f-droid.org/packages/com.mhss.app.mybrain/)
+* ( ) [orgzly-android](https://github.com/orgzly/orgzly-android)
+* ( ) [tasks.org](https://tasks.org/)  $$$$$$$$$
 * ( ) [Taiga 30min Setup - Learn Taiga basics - Taiga Community](https://community.taiga.io/t/taiga-30min-setup/170)
-* ( ) [org-web.org/](https://org-web.org/)
-* ( ) [appwrite.io/](https://appwrite.io/)
-* ( ) [anytype.io/](https://anytype.io/) [orgs/anyproto/repositories](https://github.com/orgs/anyproto/repositories)
-* ( ) [200ok-ch/organice](https://github.com/200ok-ch/organice) [organice.200ok.ch/](https://organice.200ok.ch/)
-* nebokrai $$$$$$$$$ [smos.online/](https://smos.online/)
-* ( ) [pimutils/todoman](https://github.com/pimutils/todoman)
-* ( ) [johannesjo/super-productivity: Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.](https://github.com/johannesjo/super-productivity)
-* ( ) [Nighty3098/FocuseSpace](https://github.com/Nighty3098/FocuseSpace)
+* ( ) [org-web.org](https://org-web.org/)
+* ( ) [appwrite.io](https://appwrite.io/)
+* ( ) [anytype.io](https://anytype.io/) [anyproto/repositories](https://github.com/orgs/anyproto/repositories)
+* ( ) [200ok-ch/organice](https://github.com/200ok-ch/organice) [organice.200ok.ch](https://organice.200ok.ch/)
+* nebokrai $$$$$$$$$ [smos.online](https://smos.online/)
+* ( ) [todoman](https://github.com/pimutils/todoman)
+* ( ) [super-productivity: Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.](https://github.com/johannesjo/super-productivity)
+* ( ) [FocuseSpace](https://github.com/Nighty3098/FocuseSpace)
 * ( ) [tools-life/taskwiki](https://github.com/tools-life/taskwiki)
-* (productivity) [matthiasn/lotti](https://github.com/matthiasn/lotti)  $$$
-* ( ) [foambubble.github.io/foam/](https://foambubble.github.io/foam/)
+* (productivity) [lotti](https://github.com/matthiasn/lotti)  $$$
+* ( ) [foambubble.github.io/foam](https://foambubble.github.io/foam/)
 
 ### misc software to use TODO: CLEANUP
 
-* ( ) [freedesktop.org/wiki/Software/dbus/](https://www.freedesktop.org/wiki/Software/dbus/)
+* ( ) [freedesktop.org/wiki/Software/dbus](https://www.freedesktop.org/wiki/Software/dbus/)
 
 ### Multi / Mixed TODO: CLEANUP
 
@@ -1840,13 +1849,19 @@ Scheduler
 
 ### calendar TODO: CLEANUP
 
-* ( ) [anufrievroman/calcure](https://github.com/anufrievroman/calcure)
-* ( ) [julian.digital/2023/07/06/multi-layered-calendars/](https://julian.digital/2023/07/06/multi-layered-calendars/)
-* ( ) [julian.digital/2023/07/06/multi-layered-calendars/](https://julian.digital/2023/07/06/multi-layered-calendars/)
-* ( ) [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim)
-* ( ) [ds1sqe/Calendar.nvim](https://github.com/ds1sqe/Calendar.nvim)
+* ( ) [calcure](https://github.com/anufrievroman/calcure)
+* ( ) [julian.digital/2023/07/06/multi-layered-calendars](https://julian.digital/2023/07/06/multi-layered-calendars/)
+* ( ) [julian.digital/2023/07/06/multi-layered-calendars](https://julian.digital/2023/07/06/multi-layered-calendars/)
+* ( ) [calendar.vim](https://github.com/itchyny/calendar.vim)
+* ( ) [Calendar.nvim](https://github.com/ds1sqe/Calendar.nvim)
 * ( ) [khal](https://github.com/pimutils/khal)
 * ( ) [neorg calendar](https://github.com/nvim-neorg/neorg/wiki/Calendar)
+* ( ) [icalendar](https://github.com/collective/icalendar,) [ics-py](https://github.com/ics-py/ics-py) - calendar standard
+* (2) [vdirsyncer](https://github.com/pimutils/vdirsyncer)
+* ( ) [alDav](https://github.com/BartSte/khalorg) - An interface between org mode and khal cli calendar
+* (1) [khal](https://github.com/pimutils/khal)→ integrate with Nebokrai (in Python) → same developer
+* (2.5) [calcurse](https://git.calcurse.org/calcurse.git/log/) [gh](https://github.com/lfos/calcurse) - [calcurse.org](https://calcurse.org/) - good-looking interface
+* (2.5) [girok](https://github.com/noisrucer/girok) - nice TUI, written in Python → look at codebase, use with planager? also [girokserver](https://github.com/noisrucer/girokserver) - even makes me rethink whether python might actually be a good TUI language
 
 ### J, theory TODO: CLEANUP
 
@@ -1856,7 +1871,7 @@ Scheduler
 * ( ) [TagTrees: Improving Personal Information Management Using Associative Navigation- on screen version](https://karl-voit.at/tagstore/downloads/Voit2012b.pdf)
 * ( ) [The Tag «pim»](https://karl-voit.at/tags/pim/)
 * ( ) [jamesclear.com/how-to-stop-procrastinating](https://jamesclear.com/how-to-stop-procrastinating)
-* ( ) [jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning/](https://www.jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning/)
+* ( ) [jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning](https://www.jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning/)
 
 ### historical TODO: CLEANUP
 
@@ -1873,24 +1888,24 @@ Scheduler
 
 ### → export TODO: CLEANUP
 
-* ( ) [kala13x/libxutils](https://github.com/kala13x/libxutils)
-* ( ) [JasonShin/fp-core.rs: A library for functional programming in Rust](https://github.com/JasonShin/fp-core.rs)
+* ( ) [libxutils](https://github.com/kala13x/libxutils)
+* ( ) [fp-core.rs: A library for functional programming in Rust](https://github.com/JasonShin/fp-core.rs)
 * ( ) [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter18/)
 * ( ) [Paperspace Blog](https://blog.paperspace.com/)
 * ( ) [python - Combining pyperclip copy-to-clipboard with pyautogui paste? - Stack Overflow](https://stackoverflow.com/questions/47075240/combining-pyperclip-copy-to-clipboard-with-pyautogui-paste)
-* Read [learnxinyminutes.com/docs/fr-fr/lua-fr/,](https://learnxinyminutes.com/docs/fr-fr/lua-fr/,) [learnxinyminutes.com/docs/pt-br/lua-pt/,](https://learnxinyminutes.com/docs/pt-br/lua-pt/,) [learnxinyminutes.com/docs/de-de/lua-de/,](https://learnxinyminutes.com/docs/de-de/lua-de/,) [learnxinyminutes.com/docs/ru-ru/lua-ru/](https://learnxinyminutes.com/docs/ru-ru/lua-ru/)
+* Read [learnxinyminutes.com/docs/fr-fr/lua-fr/,](https://learnxinyminutes.com/docs/fr-fr/lua-fr/,) [learnxinyminutes.com/docs/pt-br/lua-pt/,](https://learnxinyminutes.com/docs/pt-br/lua-pt/,) [learnxinyminutes.com/docs/de-de/lua-de/,](https://learnxinyminutes.com/docs/de-de/lua-de/,) [learnxinyminutes.com/docs/ru-ru/lua-ru](https://learnxinyminutes.com/docs/ru-ru/lua-ru/)
 * algorithm - Evenly space n items over m iterations - Stack Overflow
 * ( ) [Stuff I did - The stuff I do](https://www.statox.fr/projects/#)
 * ( ) [graz.social/@publicvoit/111388551599358628](https://graz.social/@publicvoit/111388551599358628)
-* ( ) [pywal/pywal/backends/wal.py at master · dylanaraps/pywal](https://github.com/dylanaraps/pywal/blob/master/pywal/backends/wal.py)
-* ( ) [Rigellute/spotify-tui/issues/732](https://github.com/Rigellute/spotify-tui/issues/732) for spotify-tui on rpi
+* ( ) [pywal backends](https://github.com/dylanaraps/pywal/blob/master/pywal/backends/wal.py)
+* ( ) [spotify-tui issue](https://github.com/Rigellute/spotify-tui/issues/732) for spotify-tui on rpi
 * ( ) [docs.spotifyd.rs/installation/Raspberry-Pi.html](https://docs.spotifyd.rs/installation/Raspberry-Pi.html)
 * ( ) [accounts.spotify.com/authorize?response_type=code&state=AV5CzOfJ8YxNnEch&client_id=0cd789e4785c4b19ad5a200822b12104&redirect_uri=http:%2F%2Flocalhost:8888%2Fcallback&scope=playlist-read-collaborative playlist-read-private playlist-modify-private playlist-modify-public user-follow-read user-follow-modify user-library-modify user-library-read user-modify-playback-state user-read-currently-playing user-read-playback-state user-read-playback-position user-read-private user-read-recently-played&](https://accounts.spotify.com/authorize?response_type=code&state=AV5CzOfJ8YxNnEch&client_id=0cd789e4785c4b19ad5a200822b12104&redirect_uri=http:%2F%2Flocalhost:8888%2Fcallback&scope=playlist-read-collaborative%20playlist-read-private%20playlist-modify-private%20playlist-modify-public%20user-follow-read%20user-follow-modify%20user-library-modify%20user-library-read%20user-modify-playback-state%20user-read-currently-playing%20user-read-playback-state%20user-read-playback-position%20user-read-private%20user-read-recently-played&)
 * ( ) [developer.spotify.com/dashboard](https://developer.spotify.com/dashboard)
 * ( ) [proglang table](https://www.notion.so/189fb9f08c944ab3ba2c284a4fb09445?pvs=21)
 * ( ) [palette::named - Rust](https://docs.rs/palette/0.4.1/palette/named/index.html#constants)
-* ( ) [rdbo/sigma-linux: Sigma Linux - Σlite Operating System](https://github.com/rdbo/sigma-linux)
-* ( ) [mtkennerly/poetry-dynamic-versioning: Plugin for Poetry to enable dynamic versioning based on VCS tags](https://github.com/mtkennerly/poetry-dynamic-versioning)
+* ( ) [sigma-linux: Sigma Linux - Σlite Operating System](https://github.com/rdbo/sigma-linux)
+* ( ) [poetry-dynamic-versioning: Plugin for Poetry to enable dynamic versioning based on VCS tags](https://github.com/mtkennerly/poetry-dynamic-versioning)
 * ( ) [Colored and Clickable Wrapping URLs in LaTeX and LyX](http://troubleshooters.com/linux/lyx/urlwrap.htm)
 * ( ) [Is there a plugin for seeing a live preview of HTML/CSS/JS?Reddit
         [reddit.com](https://www.reddit.com) › neovim › comments › plggq3](<https://www.reddit.com/r/neovim/comments/plggq3/is_there_a_plugin_for_seeing_a_live_preview_of/>)
@@ -1899,7 +1914,8 @@ Scheduler
 
 ### formats TODO: CLEANUP
 
-* ( ) [xit.jotaen.net/](https://xit.jotaen.net/)
+* (1) [Taskwarrior JSON](https://github.com/GothenburgBitFactory/taskwarrior/blob/develop/doc/devel/rfcs/task.md)
+* ( ) [xit.jotaen.net](https://xit.jotaen.net/)
 * ( ) [stackoverflow.com/questions/35250621/recursive-self-referencing-json-schema](https://stackoverflow.com/questions/35250621/recursive-self-referencing-json-schema)
 * ( ) [stackoverflow.com/questions/20752716/json-schema-recursive-schema-definition](https://stackoverflow.com/questions/20752716/json-schema-recursive-schema-definition)
 * ( ) [JSON Schema](https://json-schema.org/understanding-json-schema)
@@ -1911,12 +1927,12 @@ Scheduler
 
 ### scheduling TODO: CLEANUP
 
-* ( ) [PROxZIMA/TimetableScheduler](https://github.com/PROxZIMA/TimetableScheduler)
-* ( ) [topics/timetable-generator](https://github.com/topics/timetable-generator)
+* ( ) [TimetableScheduler](https://github.com/PROxZIMA/TimetableScheduler)
+* ( ) [timetable-generator](https://github.com/topics/timetable-generator)
 
 ### List Management TODO: CLEANUP
 
-* (3) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
+* (3) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma](https://z411.github.io/trackma/)
 
 ### other TODO: CLEANUP
 
@@ -1927,19 +1943,19 @@ Scheduler
 * ( ) [Welcome to Pydantic - Pydantic](https://docs.pydantic.dev/latest/)
 * ( ) [Pytest With Eric](https://pytest-with-eric.com/)
 * ( ) [Building Implicit Interfaces in Python with Protocol Classes](https://andrewbrookins.com/technology/building-implicit-interfaces-in-python-with-protocol-classes/)
-* ( ) [nebokrai/.envrc at main · yelircaasi/nebokrai](https://github.com/yelircaasi/nebokrai/blob/main/.envrc)
+* ( ) [.envrc at main · yelircaasi/nebokrai](https://github.com/yelircaasi/nebokrai/blob/main/.envrc)
 * ( ) [annotated-types/annotated_types/**init**.py at main · annotated-types/annotated-types](https://github.com/annotated-types/annotated-types/blob/main/annotated_types/__init__.py)
 * Read [neovim.io/doc/user/lua.html](https://neovim.io/doc/user/lua.html)
 * Read [lua.org/manual/5.1/1](https://www.lua.org/manual/5.1/1)
 
 ### Diff TODO: CLEANUP
 
-* ( ) [GitPython/git/diff.py at main · gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython/blob/main/git/diff.py)
+* ( ) [git/diff.py at main · gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython/blob/main/git/diff.py)
 * ( ) [hackage.haskell.org/package/Diff](https://hackage.haskell.org/package/Diff)
 * ( ) [stackoverflow.com/questions/41031207/generic-diff-of-objects-that-include-lists-with-gdiff](https://stackoverflow.com/questions/41031207/generic-diff-of-objects-that-include-lists-with-gdiff)
-* ( ) [r/haskell/comments/kcfpii/recommendation_for_diffing_library_in_haskell/](https://www.reddit.com/r/haskell/comments/kcfpii/recommendation_for_diffing_library_in_haskell/)
-* ( ) [bgamari/diff-utils](https://github.com/bgamari/diff-utils)
-* ( ) [google/diff-match-patch](https://github.com/google/diff-match-patch)
+* ( ) [recommendation_for_diffing_library_in_haskell](https://www.reddit.com/r/haskell/comments/kcfpii/recommendation_for_diffing_library_in_haskell/)
+* ( ) [diff-utils](https://github.com/bgamari/diff-utils)
+* ( ) [diff-match-patch](https://github.com/google/diff-match-patch)
 * ( ) [hackage.haskell.org/package/Diff-0.4.0/docs/Data-Algorithm-Diff.html](https://hackage.haskell.org/package/Diff-0.4.0/docs/Data-Algorithm-Diff.html)
 * ( ) [Data.Generic.Diff](https://hackage.haskell.org/package/gdiff-1.1/docs/Data-Generic-Diff.html)
 * ( ) [Data.Array.Diff](https://www.haskell.org/ghc/docs/6.0/html/base/Data.Array.Diff.html)
@@ -1953,29 +1969,29 @@ Scheduler
 ### Mobile Connection TODO: CLEANUP
 
 * (1) [GadgetBridge](https://gadgetbridge.org/) - Gadgetbridge is a free and open source Android application that allows you to pair and manage various gadgets such as smart watches, bands, headphones, and more without the need for the vendor application. So in short, you can use Gadgetbridge instead of relying on your gadget's own proprietary app.
-* ( ) [zulip.com/plans/](https://zulip.com/plans/)
-* ( ) [sopel.chat/](https://sopel.chat/)
+* ( ) [zulip.com/plans](https://zulip.com/plans/)
+* ( ) [sopel.chat](https://sopel.chat/)
 * ( ) [rocket.chat/pricing](https://www.rocket.chat/pricing)
-* ( ) [gotify.net/](https://gotify.net/)
+* ( ) [gotify.net](https://gotify.net/)
 
 #### inthe.am TODO: CLEANUP
 
 * ( ) [inthe.am](https://inthe.am/configure/synchronization) + [foreground](https://github.com/bgregos/foreground)
 * ( ) [taskwarrior-inthe.am](https://github.com/coddingtonbear/taskwarrior-inthe.am)
-* ( ) [taskwarrior.org/docs/hooks_guide/](https://taskwarrior.org/docs/hooks_guide/) → [inthe.am](http://inthe.am) webhooks?
+* ( ) [taskwarrior.org/docs/hooks_guide](https://taskwarrior.org/docs/hooks_guide/) → [inthe.am](http://inthe.am) webhooks?
 * ( ) [intheam.readthedocs.io/en/latest/api/index.html](https://intheam.readthedocs.io/en/latest/api/index.html)
-* ( ) [inthe.am/](https://inthe.am/)
+* ( ) [inthe.am](https://inthe.am/)
 * ( ) [docs](https://intheam.readthedocs.io/en/latest/api/index.html)
 * ( ) [inthe.am/configure/email](https://inthe.am/configure/email)
 
 #### Signal TODO: CLEANUP
 
-* ( ) [lwesterhof/semaphore: A simple (rule-based) bot library for Signal Private Messenger.](https://github.com/lwesterhof/semaphore)
-* ( ) [filipre/signalbot](https://github.com/filipre/signalbot)
-* ( ) [AsamK/signal-cli: signal-cli provides an unofficial commandline, dbus and JSON-RPC interface for the Signal messenger.](https://github.com/AsamK/signal-cli)
-* ( ) [bbernhard/signal-cli-rest-api: Dockerized Signal Messenger REST API](https://github.com/bbernhard/signal-cli-rest-api)
+* ( ) [semaphore: A simple (rule-based) bot library for Signal Private Messenger.](https://github.com/lwesterhof/semaphore)
+* ( ) [signalbot](https://github.com/filipre/signalbot)
+* ( ) [signal-cli: signal-cli provides an unofficial commandline, dbus and JSON-RPC interface for the Signal messenger.](https://github.com/AsamK/signal-cli)
+* ( ) [signal-cli-rest-api: Dockerized Signal Messenger REST API](https://github.com/bbernhard/signal-cli-rest-api)
 * ( ) [nixos.wiki/wiki/Signald](https://nixos.wiki/wiki/Signald)
-* ( ) [AsamK/signal-cli](https://github.com/AsamK/signal-cli)
+* ( ) [signal-cli](https://github.com/AsamK/signal-cli)
 
 #### Matrix Tools TODO: CLEANUP
 
@@ -1989,7 +2005,7 @@ Scheduler
 
 * Spaced repetition systems can be used to program attention [notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv](https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv)
 * ( ) [Spaced out: A spaced repetition tool](https://github.com/NorfairKing/sparep)
-* ( ) [anki](https://github.com/ankitects/anki) [anki/blob/main/docs/contributing.md](https://github.com/ankitects/anki/blob/main/docs/contributing.md)
+* ( ) [anki](https://github.com/ankitects/anki) [blob/main/docs/contributing.md](https://github.com/ankitects/anki/blob/main/docs/contributing.md)
 * ( ) [mochi](https://mochi.cards/)
 * (2) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
 * (2)[fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)-  [open-spaced-repetition/fsrs4anki/wiki](https://github.com/open-spaced-repetition/fsrs4anki/wiki)
@@ -1998,17 +2014,11 @@ Scheduler
 
 #### -> TODO: CLEANUP
 
-[medevel.com/tag/productivity/](https://medevel.com/tag/productivity/)
-
-#### Database for ganttouchthis TODO: CLEANUP
-
-* tinydb
-* sqlite3?
-* postgresql?
+[medevel.com/tag/productivity](https://medevel.com/tag/productivity/)
 
 #### Calendar TODO: CLEANUP
 
-* ( ) Theory: [julian.digital/2023/07/06/multi-layered-calendars/](https://julian.digital/2023/07/06/multi-layered-calendars/)
+* ( ) Theory: [julian.digital/2023/07/06/multi-layered-calendars](https://julian.digital/2023/07/06/multi-layered-calendars/)
 * Calendar: [remind](https://git.skoll.ca/Skollsoft-Public/Remind) with [wyrd](https://gitlab.com/wyrd-calendar/wyrd/)
 * ( ) [khal](https://github.com/pimutils/khal) - CLI and terminal calendar program, able to synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).
 * ( ) [pal](https://sourceforge.net/p/palcal/code/HEAD/tree/) - Calendar program for Unix/Linux systems that can keep track of events; custom, plain text storage format; interesting and fully functional.
@@ -2047,7 +2057,7 @@ Scheduler
 #### Haskell Stuff TODO: CLEANUP
 
 * ( ) [nikivazou.github.io/lh-course/book.pdf](https://nikivazou.github.io/lh-course/book.pdf)
-* ( ) [nikivazou.github.io/lh-course/](https://nikivazou.github.io/lh-course/)
+* ( ) [nikivazou.github.io/lh-course](https://nikivazou.github.io/lh-course/)
 * ( ) [typeclasses.com/phrasebook](https://typeclasses.com/phrasebook)
 
 #### Haskell Constraint Programming TODO: CLEANUP
@@ -2058,14 +2068,14 @@ Scheduler
 
 #### Bookmarks TODO: CLEANUP
 
-* (2)[Buku -](https://github.com/jarun/Buku) - Powerful command-line bookmark manager → fork [peterjschroeder/bukut](https://github.com/peterjschroeder/bukut)
-* (5)[linksnatch](https://github.com/amitmerchant1990/linksnatch)[amitmerchant1990/linksnatch/blob/main/README.md →](https://github.com/amitmerchant1990/linksnatch/blob/main/README.md)[docker-linksnatch](https://github.com/varunsridharan/docker-linksnatch)(bookmark saving tool)
+* (2)[Buku -](https://github.com/jarun/Buku) - Powerful command-line bookmark manager → fork [bukut](https://github.com/peterjschroeder/bukut)
+* (5)[linksnatch](https://github.com/amitmerchant1990/linksnatch)[linksnatch/blob/main/README.md →](https://github.com/amitmerchant1990/linksnatch/blob/main/README.md)[docker-linksnatch](https://github.com/varunsridharan/docker-linksnatch)(bookmark saving tool)
 
 ### For Roadmaps TODO: CLEANUP
 
 * ( ) [google.com/search?channel=fs&client=ubuntu&q=leet+code+solutions](https://www.google.com/search?channel=fs&client=ubuntu&q=leet+code+solutions)
-* ( ) [leetcode.com/problemset/all/](https://leetcode.com/problemset/all/)
-* ( ) [byucs110.org/](https://byucs110.org/)
+* ( ) [leetcode.com/problemset/all](https://leetcode.com/problemset/all/)
+* ( ) [byucs110.org](https://byucs110.org/)
 * ( ) [Beginning Bazel: Building and Testing for Java, Go, and More](https://en.de1lib.org/book/5397976/f53e23)
 * collect D books and resources, add to Roadmaps and Drive
 * add Software Architecture Patterns book
@@ -2078,11 +2088,11 @@ Scheduler
 * Baggini ethics book in some language to Roadmaps
 * add C++ für Dummies to Roadmaps
 * ( ) [Crafting Interpreters](http://library.lol/main/B91B4DD0DD5A234BD83BE0ED93C28139)
-* ( ) [devguide.python.org/](https://devguide.python.org/)
+* ( ) [devguide.python.org](https://devguide.python.org/)
 * ( ) [The Java Virtual Machine Specification. Java SE 21 Edition](https://docs.oracle.com/javase/specs/jvms/se21/jvms21.pdf)
 * ( ) [en.cppreference.com/w/cpp](https://en.cppreference.com/w/cpp)
 * ( ) [gcc.gnu.org/onlinedocs/gcc-12.1.0/gcc.pdf](https://gcc.gnu.org/onlinedocs/gcc-12.1.0/gcc.pdf)
-* ( ) [shuzhanfan.github.io/](https://shuzhanfan.github.io/)
+* ( ) [shuzhanfan.github.io](https://shuzhanfan.github.io/)
 * ( ) [manning.com/books/how-to-read-java](https://www.manning.com/books/how-to-read-java)
 * ( ) [Learning Cython Programming: Expand your existing legacy applications in C using Python](http://library.lol/main/93706512953BDC218DEC9B08928BA511)
 * ( ) [Learning Object-Oriented Programming: Explore and crack the OOP code in Python, JavaScript, and C#](http://library.lol/main/F485A9E07966E40D96382FF767A0271D)
@@ -2094,7 +2104,7 @@ Scheduler
 * ( ) [Visually Explained](https://www.youtube.com/channel/UCoTo2gtN527CXhe7jbP6hUg)
 * ( ) [Working effectively with legacy code](http://library.lol/main/2C3232C7E7BBC3C19011DD22AD42A873)
 * ( ) [Introduction to numerical programming: a practical guide for scientists and engineers using Python and C/C++](http://library.lol/main/4972CB31DAB7F45914FBA5DB689067AE)
-* ( ) [build2.org/](https://build2.org/)
+* ( ) [build2.org](https://build2.org/)
 * look for books and articles on psychology and stoicism, evolution and why people worry about things they cannot control
 * look for books and articles on the psychology of wealth and inequality
 * Sort through and eventually delete this page

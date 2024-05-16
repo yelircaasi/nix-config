@@ -23,6 +23,7 @@ haxl
 ihp
 shellcheck
 
+https://github.com/alexwl/haskell-code-explorer
 https://github.com/tweag/ormolu
 https://github.com/ndmitchell/hoogle
 https://haskell-language-server.readthedocs.io/en/latest/configuration.html
@@ -62,6 +63,7 @@ https://www.yesodweb.com/
 
 ## SORT
 
+* [explorer](https://github.com/alexwl/haskell-code-explorer)
 * excellent: [jonascarpay/template-haskell](https://github.com/jonascarpay/template-haskell) [jonascarpay/template-haskell](https://github.com/jonascarpay/template-haskell)
 * [haskell-via-sokoban.nomeata.de/](https://haskell-via-sokoban.nomeata.de/)
 * [haskell-for-readers.nomeata.de/](http://haskell-for-readers.nomeata.de/)
@@ -92,6 +94,7 @@ https://www.yesodweb.com/
 * [aveltras/setting-up-a-haskell-development-environment-with-nix](https://github.com/aveltras/setting-up-a-haskell-development-environment-with-nix)
 * [learn-haskell.blog/](https://learn-haskell.blog/) and [videos](https://www.youtube.com/playlist?list=PLxn_Aq3QlOQcXoHWdzxnnuGlGWNXJg43R) -> perfect for learning for proglang-table
 * [Impure Pics](https://www.youtube.com/@impurepics/playlists)
+* [tasklite](https://tasklite.org/)
 
 ## Example Code
 

@@ -20,7 +20,7 @@
 * [Tungsteno | Online Mathematics for Everybody](https://www.tungsteno.io/)
 * [Tungsteno · GitHub](https://github.com/TungstenHub)
 * [eMathZone | From basic to higher mathematics](https://www.emathzone.com/)
-* [mathematik.net - Kostenlose Onlinekurse (Algebra,Analysis,Trigonometrie,Lineare Algebra, Schulbücher)
+* mathematik.net - Kostenlose Onlinekurse (Algebra,Analysis,Trigonometrie,Lineare Algebra, Schulbücher)
 * [samos.univ-paris1.fr/](http://samos.univ-paris1.fr/)
 * [spacemath.xyz/](http://spacemath.xyz/)
 * [stattrek.com/](http://stattrek.com/)

@@ -1,5 +1,7 @@
 # Keymapping
 
+* name ideas: teclado, accordo, keycritic
+
 * key [Hacker's Corner: Complete Guide to Keylogging in Linux - Part 1 | L...](https://linuxsecurity.com/features/complete-guide-to-keylogging-in-linux-part-1)
 * key [Hacker's Corner: Complete Guide to Keylogging in Linux - Part 2 | L...](https://linuxsecurity.com/features/complete-guide-to-keylogging-in-linux-part-2)
 * key [Hacker's Corner: Complete Guide to Keylogging in Linux - Part 3 | L...](https://linuxsecurity.com/features/complete-guide-to-keylogging-in-linux-part-3)

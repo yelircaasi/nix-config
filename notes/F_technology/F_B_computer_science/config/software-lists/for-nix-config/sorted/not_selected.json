@@ -5,6 +5,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://aleph-alpha.com/",
         "language": "",
+        "description": "",
         "notes": ". A company emphasizing that it's a European AI technology company, which has open sourced its code codebase and doesn't use customer data to train models"
     },
     {
@@ -13,6 +14,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://codecomplete.ai/",
         "language": "",
+        "description": "",
         "notes": "(2023)"
     },
     {
@@ -21,6 +23,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.devgpt.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -29,6 +32,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/features/copilot",
         "language": "",
+        "description": "",
         "notes": "(2021)"
     },
     {
@@ -37,6 +41,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.mosaicml.com/",
         "language": "",
+        "description": "",
         "notes": ". Train large AI models with your company data in a secure environment. Point to an AWS S3 bucket, and that's it!"
     },
     {
@@ -45,6 +50,7 @@
         "status": "back pocket; may be useful someday",
         "link": "",
         "language": "c++",
+        "description": "",
         "notes": ""
     },
     {
@@ -53,6 +59,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/EchoVault/EchoVault",
         "language": "",
+        "description": "",
         "notes": "Embeddable Distributed in-memory data store with an emphasis on speed and reliability."
     },
     {
@@ -61,6 +68,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/webpro/release-it",
         "language": "javascript",
+        "description": "",
         "notes": "seems npm-specific"
     },
     {
@@ -69,6 +77,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/withfig/autocomplete",
         "language": "",
+        "description": "",
         "notes": "|f05e|f05e|f05e"
     },
     {
@@ -77,6 +86,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/lnbits/lnbits",
         "language": "",
+        "description": "",
         "notes": "free and open-source Lightning wallet and accounts system"
     },
     {
@@ -85,6 +95,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/motioneye-project/motioneyeos",
         "language": "",
+        "description": "",
         "notes": "A Video Surveillance OS For Single-board Computers"
     },
     {
@@ -93,6 +104,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/andreafabrizi/Dropbox-Uploader",
         "language": "",
+        "description": "",
         "notes": "Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox"
     },
     {
@@ -101,6 +113,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/omgimanerd/doclt",
         "language": "",
+        "description": "",
         "notes": "A command line interface to Digital Ocean"
     },
     {
@@ -109,6 +122,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/keshavbhatt/mkcron",
         "language": "",
+        "description": "",
         "notes": "cron editor for desktop - update for use on non-NixOS, perhaps"
     },
     {
@@ -117,6 +131,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://flameshot.org/",
         "language": "",
+        "description": "",
         "notes": "Powerful yet simple to use screenshot software."
     },
     {
@@ -125,6 +140,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://libraries.io/pypi/pyscreenshot",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -133,6 +149,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.getpostman.com/",
         "language": "",
+        "description": "",
         "notes": "Postman, allows a user to develop and test APIs quickly. "
     },
     {
@@ -141,6 +158,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/advanced-rest-client/arc-electron",
         "language": "javascript",
+        "description": "",
         "notes": ""
     },
     {
@@ -149,6 +167,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/ArchGPT/insomnium",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -157,6 +176,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.gitbook.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -165,6 +185,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://cursor.sh/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -173,6 +194,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://kdevelop.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -181,6 +203,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://nuxt.com/blog/introducing-nuxt-devtools",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -189,6 +212,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://neocities.org/",
         "language": "",
+        "description": "",
         "notes": "GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))"
     },
     {
@@ -197,6 +221,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://freenginx.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -205,6 +230,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.heroku.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -213,6 +239,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/cisagov/untitledgoosetool",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -221,6 +248,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://vercel.com/pricing",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -229,6 +257,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://httpd.apache.org/docs/2.4/programs/ab.html",
         "language": "",
+        "description": "",
         "notes": "(ab)"
     },
     {
@@ -237,6 +266,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/wg/wrk",
         "language": "",
+        "description": "",
         "notes": "Lua-scripted"
     },
     {
@@ -245,6 +275,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://owncloud.com/client/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -253,6 +284,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.seafile.com/en/home/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -261,6 +293,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://foldersync.io/",
         "language": "",
+        "description": "",
         "notes": "seems like a good mobile solution"
     },
     {
@@ -269,6 +302,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://getpocket.com",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -277,6 +311,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.youtube.com/watch?v=26xWK35pinA",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -285,6 +320,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/uazo/cromite",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -293,6 +329,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://epicbrowser.com/privacy-policy",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -301,6 +338,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.browserling.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -309,6 +347,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/ronniedroid/getnf",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -317,6 +356,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://kodi.tv/about/",
         "language": "",
+        "description": "",
         "notes": "An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more."
     },
     {
@@ -325,6 +365,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.plex.tv/",
         "language": "",
+        "description": "",
         "notes": "Plex is a media server and streaming platform that organizes, streams, and shares your digital media content. (proprietary)"
     },
     {
@@ -333,6 +374,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.stremio.com/",
         "language": "",
+        "description": "",
         "notes": "Stremio is a modern media center that's a one-stop solution for your video entertainment."
     },
     {
@@ -341,6 +383,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/jellyfin/jellyfin",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -349,6 +392,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/eonpatapon/mpDris2",
         "language": "",
+        "description": "",
         "notes": "MPRIS V2.1 support for mpd"
     },
     {
@@ -357,6 +401,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://snapcraft.io/musixmatch",
         "language": "",
+        "description": "",
         "notes": "A Capable lyrics app with synchronized lyrics function."
     },
     {
@@ -365,6 +410,7 @@
         "status": "back pocket; may be useful someday",
         "link": "http://www.graphicsmagick.org/",
         "language": "",
+        "description": "",
         "notes": "GraphicsMagick is the swiss army knife of image processing. "
     },
     {
@@ -373,6 +419,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://imagemagick.org/",
         "language": "",
+        "description": "",
         "notes": "[imagemagick.org/index.php](https://imagemagick.org/index.php) - Gold standard for anything images"
     },
     {
@@ -381,6 +428,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.olivevideoeditor.org/",
         "language": "c++",
+        "description": "",
         "notes": "Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software. https://github.com/olive-editor/olive"
     },
     {
@@ -389,6 +437,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://tutanota.com/",
         "language": "",
+        "description": "",
         "notes": "Encrypted email at no cost with support for business accounts. ([GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))"
     },
     {
@@ -397,6 +446,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/Dimillian/IceCubesApp",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -405,6 +455,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/vasani-arpit/WBOT",
         "language": "",
+        "description": "",
         "notes": "A simple CLI based BOT for WhatsApp|2122 in NodeJS. reply to your friends quickly and have fun along the way."
     },
     {
@@ -413,6 +464,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://libreboot.org/docs/",
         "language": "",
+        "description": "",
         "notes": "[libreboot article](https://9to5linux.com/libreboot-open-source-bios-uefi-firmware-adds-more-hardware-support) libreboot"
     },
     {
@@ -421,6 +473,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://clonezilla.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -429,6 +482,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/iberianpig/fusuma",
         "language": "",
+        "description": "",
         "notes": "multitouch gestures"
     },
     {
@@ -437,6 +491,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/j0giwa/ansible",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -445,6 +500,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://sr.ht/~craftyguy/superd/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -453,6 +509,7 @@
         "status": "back pocket; may be useful someday",
         "link": "http://supervisord.org/ | https://github.com/Supervisor/supervisor",
         "language": "python",
+        "description": "",
         "notes": ""
     },
     {
@@ -461,6 +518,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://gnulinux.ch/tuxedo-control-center",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -469,6 +527,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://beanstalkapp.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -477,6 +536,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://about.gitea.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -485,6 +545,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://gogs.io/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -493,6 +554,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://radicle.xyz/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -501,6 +563,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.gitkraken.com/",
         "language": "",
+        "description": "",
         "notes": "The downright luxurious Git GUI client for Windows, Mac & Linux. - will try for the experience, but too proprietary for me"
     },
     {
@@ -509,6 +572,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/serpapi/clauneck",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -517,6 +581,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/mikf/gallery-dl",
         "language": "",
+        "description": "",
         "notes": "Command-line program to download image galleries and collections from pixiv, exhentai, danbooru and more."
     },
     {
@@ -525,6 +590,7 @@
         "status": "back pocket; may be useful someday",
         "link": "http://aozora.github.io/bootplus/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -533,6 +599,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://loco.rs/ | https://www.shuttle.rs/blog/2023/12/20/loco-rust-rails",
         "language": "",
+        "description": "",
         "notes": "the Rails of Rust; see also https://github.com/shuttle-hq/shuttle"
     },
     {
@@ -541,6 +608,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://prismjs.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -549,6 +617,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.squaresapp.org/rawjs/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -557,6 +626,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://ui.toast.com/",
         "language": "",
+        "description": "",
         "notes": "web UI components"
     },
     {
@@ -565,6 +635,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/wasmerio/winterjs",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -573,6 +644,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://healthchecks.io/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -581,6 +653,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/schollz/cowyo",
         "language": "",
+        "description": "",
         "notes": "Feature rich wiki webserver for minimalists. - planager?"
     },
     {
@@ -589,6 +662,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/ogham/dog",
         "language": "",
+        "description": "",
         "notes": "DNS lookup client; [better `dig`](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#do) "
     },
     {
@@ -597,6 +671,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/vschwaberow/dog",
         "language": "",
+        "description": "",
         "notes": "looks good"
     },
     {
@@ -605,6 +680,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/coreybutler/fenix",
         "language": "",
+        "description": "",
         "notes": "[Fenix Web Server](https://fenixwebserver.com/) - A multi-host local static web server with push-button sharing (desktop app)."
     },
     {
@@ -613,6 +689,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/openresty/lua-nginx-module",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -621,6 +698,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/snwfdhmp/simplehttp",
         "language": "",
+        "description": "",
         "notes": "Fastest and simplest way to start serving a local directory over http."
     },
     {
@@ -629,6 +707,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/chris-rock/vesper",
         "language": "",
+        "description": "",
         "notes": "a HTTP framework for Bash/Unix Shell"
     },
     {
@@ -637,6 +716,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/ducaale/xh",
         "language": "",
+        "description": "",
         "notes": "Friendly and fast tool for sending HTTP requests - like Httpie, but faster"
     },
     {
@@ -645,6 +725,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/gohugoio/hugo",
         "language": "",
+        "description": "",
         "notes": "The world's fastest framework for building websites. [gohugo.io](https://gohugo.io/)"
     },
     {
@@ -653,6 +734,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://getnikola.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -661,6 +743,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/metalsmith/metalsmith",
         "language": "",
+        "description": "",
         "notes": "An extremely simple static site generator; all functionalities are provided by plugins that can be combined and chained; written and extendable in Javascript."
     },
     {
@@ -669,6 +752,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/nanoc/nanoc",
         "language": "",
+        "description": "",
         "notes": "Static site generator written in Ruby; extremely powerful and customizable; support many formats to generate HTML content."
     },
     {
@@ -677,6 +761,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://qwik.dev/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -685,6 +770,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://my-netdata.io/",
         "language": "",
+        "description": "",
         "notes": "Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring)."
     },
     {
@@ -693,6 +779,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://coda.io/product/collaboration-costs-less-with-coda",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -701,6 +788,7 @@
         "status": "back pocket; may be useful someday",
         "link": "http://www.fitnesse.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -709,6 +797,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.canva.com/free/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -717,6 +806,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://www.profanity.dev/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -725,6 +815,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://github.com/GSConnect/gnome-shell-extension-gsconnect",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -733,6 +824,7 @@
         "status": "back pocket; may be useful someday",
         "link": "https://apps.kde.org/kdeconnect/",
         "language": "",
+        "description": "",
         "notes": ""
     }
 ]

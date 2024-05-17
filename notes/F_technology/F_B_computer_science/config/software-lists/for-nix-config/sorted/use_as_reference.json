@@ -5,6 +5,7 @@
         "status": "use as reference",
         "link": "https://github.com/vmchale/polyglot",
         "language": "ats",
+        "description": "",
         "notes": ""
     },
     {
@@ -13,6 +14,7 @@
         "status": "use as reference",
         "link": "https://gitlab.com/christosangel/basht",
         "language": "",
+        "description": "",
         "notes": "looks remarkably good for shell"
     },
     {
@@ -21,6 +23,7 @@
         "status": "use as reference",
         "link": "https://github.com/mananapr/cfiles",
         "language": "c",
+        "description": "",
         "notes": "a bit inactive, but one long C file -> add to RosettaProjects"
     },
     {
@@ -29,6 +32,7 @@
         "status": "use as reference",
         "link": "https://github.com/anmitsu/goful",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects; interface a lot like lazygit"
     },
     {
@@ -37,6 +41,7 @@
         "status": "use as reference",
         "link": "https://github.com/joachimschmidt557/nimmm",
         "language": "nim",
+        "description": "",
         "notes": "[nixos](https://github.com/NixOS/nixpkgs/blob/nixos-23.11/pkgs/applications/file-managers/nimmm/default.nix)"
     },
     {
@@ -45,6 +50,7 @@
         "status": "use as reference",
         "link": "https://github.com/mcauley-penney/mmv-c",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -53,6 +59,7 @@
         "status": "use as reference",
         "link": "https://github.com/sharpcdf/jitter",
         "language": "nim",
+        "description": "",
         "notes": "archived"
     },
     {
@@ -61,6 +68,7 @@
         "status": "use as reference",
         "link": "https://github.com/Arsemy/chromium-tokyonight",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -69,6 +77,7 @@
         "status": "use as reference",
         "link": "https://www.reddit.com/r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -77,6 +86,7 @@
         "status": "use as reference",
         "link": "https://github.com/sekuji/mad-darkness",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -85,6 +95,7 @@
         "status": "use as reference",
         "link": "https://github.com/FirefoxBar/xStyle",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -93,6 +104,7 @@
         "status": "use as reference",
         "link": "https://www.hongkiat.com/blog/customize-reader-view-theme-firefox/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -101,6 +113,7 @@
         "status": "use as reference",
         "link": "https://github.com/M4cs/foxify-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -109,6 +122,7 @@
         "status": "use as reference",
         "link": "https://www.youtube.com/watch?v%3DdwZpjKH8nbo",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -117,6 +131,7 @@
         "status": "use as reference",
         "link": "https://addons.mozilla.org/en-US/firefox/addon/re-style/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -125,6 +140,7 @@
         "status": "use as reference",
         "link": "https://github.com/akshat46/FlyingFox",
         "language": "",
+        "description": "",
         "notes": "work with old version of Firefox? fork old version? https://flyingfox.netlify.app/ https://www.reddit.com/r/unixporn/comments/glbl4v/oc_its_not_normal_to_want_my_firefox_to_sit_on_my/"
     },
     {
@@ -133,6 +149,7 @@
         "status": "use as reference",
         "link": "https://github.com/KiKaraage/ArcWTF",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -141,6 +158,7 @@
         "status": "use as reference",
         "link": "https://github.com/safak45xx/Blurfox-MacOS",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -149,6 +167,7 @@
         "status": "use as reference",
         "link": "https://github.com/andreasgrafen/cascade",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -157,6 +176,7 @@
         "status": "use as reference",
         "link": "https://superuser.com/questions/1235975/change-firefox-new-tab-background",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -165,6 +185,7 @@
         "status": "use as reference",
         "link": "https://www.reddit.com/r/NixOS/s/bytkKR3Tvq",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -173,6 +194,7 @@
         "status": "use as reference",
         "link": "https://github.com/ShmakovVladimir/DolphinFox",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -181,6 +203,7 @@
         "status": "use as reference",
         "link": "https://gitlab.com/domsch1988/domfox",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -189,6 +212,7 @@
         "status": "use as reference",
         "link": "https://github.com/davidbecker808/Edge-FFxArc",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -197,6 +221,7 @@
         "status": "use as reference",
         "link": "https://github.com/artsyfriedchicken/EdgyArc-fr",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -205,6 +230,7 @@
         "status": "use as reference",
         "link": "https://github.com/soulhotel/FF-ULTIMA",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -213,6 +239,7 @@
         "status": "use as reference",
         "link": "https://github.com/Godiesc/firefox-gx",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -221,6 +248,7 @@
         "status": "use as reference",
         "link": "https://github.com/EliverLara/firefox-nordic-theme",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -229,6 +257,7 @@
         "status": "use as reference",
         "link": "https://github.com/Godiesc/firefox-one",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -237,6 +266,7 @@
         "status": "use as reference",
         "link": "https://github.com/PENWINthePIRATE/firefox-one-pixelated",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -245,6 +275,7 @@
         "status": "use as reference",
         "link": "https://codeberg.org/Freeplay/Firefox-Onebar",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -253,6 +284,7 @@
         "status": "use as reference",
         "link": "https://github.com/lucaspar/firefox-vertical-tabs",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -261,6 +293,7 @@
         "status": "use as reference",
         "link": "https://github.com/akshat46/FlyingFox",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -269,6 +302,7 @@
         "status": "use as reference",
         "link": "https://github.com/Neikon/Fox11",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -277,6 +311,7 @@
         "status": "use as reference",
         "link": "https://github.com/iansinnott/full-text-tabs-forever",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -285,6 +320,7 @@
         "status": "use as reference",
         "link": "https://github.com/mgastonportillo/gale-for-ff",
         "language": "",
+        "description": "",
         "notes": "(using [sidebery/](https://github.com/mbnuqw/sidebery/))"
     },
     {
@@ -293,6 +329,7 @@
         "status": "use as reference",
         "link": "https://github.com/alan-ar1/greenyfox",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -301,6 +338,7 @@
         "status": "use as reference",
         "link": "https://github.com/HelgiMagic/FirefoxCSS",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -309,6 +347,7 @@
         "status": "use as reference",
         "link": "https://github.com/Jamir-boop/minimalisticfox",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -317,6 +356,7 @@
         "status": "use as reference",
         "link": "https://github.com/muckSponge/MaterialFox",
         "language": "",
+        "description": "",
         "notes": "-> great rreference"
     },
     {
@@ -325,6 +365,7 @@
         "status": "use as reference",
         "link": "https://github.com/p3nguin-kun/penguinFox",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -333,6 +374,7 @@
         "status": "use as reference",
         "link": "https://github.com/p3nguin-kun/penguinFox-Librewolf",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -341,6 +383,7 @@
         "status": "use as reference",
         "link": "https://github.com/soulhotel/Perfection-Firefox-CSS-Theme",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -349,6 +392,7 @@
         "status": "use as reference",
         "link": "https://github.com/soulhotel/Perfection-Firefox-CSS-Theme",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -357,6 +401,7 @@
         "status": "use as reference",
         "link": "https://github.com/RoyalHeart/config/tree/main/chrome",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -365,6 +410,7 @@
         "status": "use as reference",
         "link": "https://github.com/Shina-SG/Shina-Fox",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -373,6 +419,7 @@
         "status": "use as reference",
         "link": "https://github.com/Shina-SG/Shina-Fox",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -381,6 +428,7 @@
         "status": "use as reference",
         "link": "https://github.com/Naezr/ShyFox",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -389,6 +437,7 @@
         "status": "use as reference",
         "link": "https://github.com/soup-bowl/Modoki-Firefox",
         "language": "",
+        "description": "",
         "notes": "[[XFCE4] Chicago95 + Vaporvave = Awesome : unixporn](https://www.reddit.com/r/unixporn/comments/112oexs/xfce4_chicago95_vaporvave_awesome/)"
     },
     {
@@ -397,6 +446,7 @@
         "status": "use as reference",
         "link": "https://github.com/vipintom/stealthFox",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -405,6 +455,7 @@
         "status": "use as reference",
         "link": "https://github.com/PROxZIMA/Sweet-Pop",
         "language": "",
+        "description": "",
         "notes": "Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark."
     },
     {
@@ -413,6 +464,7 @@
         "status": "use as reference",
         "link": "https://www.userchrome.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -421,6 +473,7 @@
         "status": "use as reference",
         "link": "https://github.com/soulhotel/v2-Tabs-alpha-/tree/main",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -429,6 +482,7 @@
         "status": "use as reference",
         "link": "https://github.com/QNetITQ/WaveFox",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -437,6 +491,7 @@
         "status": "use as reference",
         "link": "https://wiki.archlinux.org/title/Firefox/Tweaks",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -445,6 +500,7 @@
         "status": "use as reference",
         "link": "https://github.com/lewisHeart/Floorp-Configs",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -453,6 +509,7 @@
         "status": "use as reference",
         "link": "https://news.itsfoss.com/floorp-firefox/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -461,6 +518,7 @@
         "status": "use as reference",
         "link": "https://www.reddit.com/r/browsers/s/L0sHFRb1RU",
         "language": "",
+        "description": "",
         "notes": "floorp"
     },
     {
@@ -469,6 +527,7 @@
         "status": "use as reference",
         "link": "https://github.com/zDyanTB/ADHD-Floorp",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -477,6 +536,7 @@
         "status": "use as reference",
         "link": "https://github.com/Axenide/StartPage",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -485,6 +545,7 @@
         "status": "use as reference",
         "link": "https://github.com/BachoSeven/startpage",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -493,6 +554,7 @@
         "status": "use as reference",
         "link": "https://github.com/linuxserver/Heimdall",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -501,6 +563,7 @@
         "status": "use as reference",
         "link": "https://github.com/excalith/excalith-start-page",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -509,6 +572,7 @@
         "status": "use as reference",
         "link": "https://github.com/kaloslazo/Habu",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -517,6 +581,7 @@
         "status": "use as reference",
         "link": "https://github.com/PROxZIMA/prism",
         "language": "",
+        "description": "",
         "notes": "A beautiful, minimalist, static startpage"
     },
     {
@@ -525,6 +590,7 @@
         "status": "use as reference",
         "link": "https://github.com/greasemonkey/greasemonkey",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -533,6 +599,7 @@
         "status": "use as reference",
         "link": "https://violentmonkey.github.io/",
         "language": "",
+        "description": "",
         "notes": ", [code here](https://github.com/violentmonkey/violentmonkey)"
     },
     {
@@ -541,6 +608,7 @@
         "status": "use as reference",
         "link": "https://www.conventionalcommits.org/en/v1.0.0/",
         "language": "",
+        "description": "",
         "notes": ""
     }
 ]

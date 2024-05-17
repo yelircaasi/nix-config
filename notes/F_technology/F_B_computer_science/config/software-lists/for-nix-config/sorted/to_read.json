@@ -5,6 +5,7 @@
         "status": "TODO: read",
         "link": "https://sembr.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -13,6 +14,7 @@
         "status": "TODO: read",
         "link": "https://github.com/sgtpep/pmenu",
         "language": "",
+        "description": "",
         "notes": "A dynamic terminal-based menu inspired by dmenu."
     },
     {
@@ -21,6 +23,7 @@
         "status": "TODO: read",
         "link": "https://github.com/alanbork/ppick",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -29,6 +32,7 @@
         "status": "TODO: read",
         "link": "https://www.reddit.com/r/unixporn/s/fvvOslyUxM",
         "language": "",
+        "description": "",
         "notes": "kitty to wezterm"
     },
     {
@@ -37,6 +41,7 @@
         "status": "TODO: read",
         "link": "https://wezfurlong.org/wezterm/config/appearance.html%23defining-your-own-colors",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -45,6 +50,7 @@
         "status": "TODO: read",
         "link": "https://www.sharpwriting.net/project/configuring-wezterm/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -53,6 +59,7 @@
         "status": "TODO: read",
         "link": "https://hackernoon.com/get-the-most-out-of-your-terminal-a-comprehensive-guide-to-wezterm-configuration",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -61,6 +68,7 @@
         "status": "TODO: read",
         "link": "https://www.reddit.com/r/wezterm/comments/12tub66/how_to_configure_workspaces_and_tabs_in_wezterm/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -68,6 +76,7 @@
         "name": " X Protocol Reference Manual for X11, Release 6 (Definitive Guide to X Window System, Vol. 0) (Definitive Guides to the X Window System",
         "status": "TODO: read",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -76,6 +85,7 @@
         "status": "TODO: read",
         "link": "https://lpc.events/event/7/contributions/834/attachments/684/1263/A_Look_Inside_Mutter.pdf",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -84,6 +94,7 @@
         "status": "TODO: read",
         "link": "https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -92,6 +103,7 @@
         "status": "TODO: read",
         "link": "https://bbs.archlinux.org/viewtopic.php?id=238376",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -100,6 +112,7 @@
         "status": "TODO: read",
         "link": "https://www.cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -108,6 +121,7 @@
         "status": "TODO: read",
         "link": "https://eirenicon.org/implementing-linux-window-managers-tutorial/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -116,6 +130,7 @@
         "status": "TODO: read",
         "link": "https://en.wikipedia.org/wiki/Wayland_(protocol)",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -124,6 +139,7 @@
         "status": "TODO: read",
         "link": "",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -132,6 +148,7 @@
         "status": "TODO: read",
         "link": "https://monroeclinton.com/build-your-own-window-manager/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -140,6 +157,7 @@
         "status": "TODO: read",
         "link": "https://news.ycombinator.com/item?id=28794901",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -148,6 +166,7 @@
         "status": "TODO: read",
         "link": "https://www.youtube.com/watch?v=jvfk380Pses",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -156,6 +175,7 @@
         "status": "TODO: read",
         "link": "http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -164,6 +184,7 @@
         "status": "TODO: read",
         "link": "https://www.cs.ru.nl/bachelors-theses/2019/Max_van_Deurzen___4581903___The_anatomy_of_the_modern_window_manager_-_a_case_study_for_X_in_an_Agile_manner.pdf",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -172,6 +193,7 @@
         "status": "TODO: read",
         "link": "https://youtu.be/nPz5TAGYgzA",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -180,6 +202,7 @@
         "status": "TODO: read",
         "link": "https://www.youtube.com/watch?v=K_W0ia2QjU8",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -188,6 +211,7 @@
         "status": "TODO: read",
         "link": "https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -196,6 +220,7 @@
         "status": "TODO: read",
         "link": "https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -204,6 +229,7 @@
         "status": "TODO: read",
         "link": "https://wayland.freedesktop.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -212,6 +238,7 @@
         "status": "TODO: read",
         "link": "https://wayland.app/protocols/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -220,6 +247,7 @@
         "status": "TODO: read",
         "link": "https://wayland.app/protocols/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -228,6 +256,7 @@
         "status": "TODO: read",
         "link": "https://wayland.freedesktop.org/docs/html/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -236,6 +265,7 @@
         "status": "TODO: read",
         "link": "https://wiki.archlinux.org/title/Window_manager",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -244,6 +274,7 @@
         "status": "TODO: read",
         "link": "https://wiki.archlinux.org/title/Xorg#Composite",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -252,6 +283,7 @@
         "status": "TODO: read",
         "link": "https://github.com/atx/wtype",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -260,6 +292,7 @@
         "status": "TODO: read",
         "link": "https://www.x.org/releases/X11R7.5/doc/man/man1/xprop.1.html",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -268,6 +301,7 @@
         "status": "TODO: read",
         "link": "https://www.x.org/wiki/Documentation/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -276,6 +310,7 @@
         "status": "TODO: read",
         "link": "http://www.xwinman.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -284,6 +319,7 @@
         "status": "TODO: read",
         "link": "http://www.xwinman.org/others.php",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -292,6 +328,7 @@
         "status": "TODO: read",
         "link": "https://nixos.wiki/wiki/Greetd",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -300,6 +337,7 @@
         "status": "TODO: read",
         "link": "https://github.com/dhamidi/tmenu",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -308,6 +346,7 @@
         "status": "TODO: read",
         "link": "https://github.com/smblott-github/tpick",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -316,6 +355,7 @@
         "status": "TODO: read",
         "link": "https://learnopengl.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -324,6 +364,7 @@
         "status": "TODO: read",
         "link": "https://askubuntu.com/questions/24780/how-to-make-kde-applications-look-native-in-gnome",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -332,6 +373,7 @@
         "status": "TODO: read",
         "link": "https://www.debugpoint.com/customize-gnome-clean-look-2022-1/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -340,6 +382,7 @@
         "status": "TODO: read",
         "link": "https://www.reddit.com/r/gnome/comments/tptfg6/theme_kde_apps_on_gnome/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -348,6 +391,7 @@
         "status": "TODO: read",
         "link": "https://www.reddit.com/r/kde/comments/11mghkl/guide_theme_dolphin_qt_apps_on_gnome/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -356,6 +400,7 @@
         "status": "TODO: read",
         "link": "",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -364,6 +409,7 @@
         "status": "TODO: read",
         "link": "https://github.com/Smithay/smithay",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -372,6 +418,7 @@
         "status": "TODO: read",
         "link": "https://gitlab.freedesktop.org/wlroots/wlroots/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -380,6 +427,7 @@
         "status": "TODO: read",
         "link": "https://phoenixnap.com/kb/podman-vs-docker",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -388,6 +436,7 @@
         "status": "TODO: read",
         "link": "https://duckduckgo.com/?q%3Ddocker%2Bvs%2Bpodman%26ia%3Dweb",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -396,6 +445,7 @@
         "status": "TODO: read",
         "link": "https://linuxcontainers.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -404,6 +454,7 @@
         "status": "TODO: read",
         "link": "https://www.youtube.com/watch?v=kRkp-uJTK7s",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -412,6 +463,7 @@
         "status": "TODO: read",
         "link": "https://github.com/rohankishore/Aura-Text",
         "language": "",
+        "description": "",
         "notes": "-> example of Nuitka build"
     },
     {
@@ -420,6 +472,7 @@
         "status": "TODO: read",
         "link": "https://github.com/parazeeknova/nyxtext",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -428,6 +481,7 @@
         "status": "TODO: read",
         "link": "https://github.com/martanne/vis",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -436,6 +490,7 @@
         "status": "TODO: read",
         "link": "https://github.com/sagemathinc/viz",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -444,6 +499,7 @@
         "status": "TODO: read",
         "link": "https://github.com/asamuzaK/withExEditor",
         "language": "",
+        "description": "",
         "notes": "and [withExEditorHost](https://github.com/asamuzaK/withExEditorHost)"
     },
     {
@@ -452,6 +508,7 @@
         "status": "TODO: read",
         "link": "https://mrmr.io/til/prettier",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -460,6 +517,7 @@
         "status": "TODO: read",
         "link": "",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -468,6 +526,7 @@
         "status": "TODO: read",
         "link": "https://www.sitepoint.com/data-serialization-comparison-json-yaml-bson-messagepack/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -476,6 +535,7 @@
         "status": "TODO: read",
         "link": "https://hackage.haskell.org/package/SoccerFun",
         "language": "",
+        "description": "",
         "notes": "!!!!!!!!!"
     },
     {
@@ -484,6 +544,7 @@
         "status": "TODO: read",
         "link": "https://stackoverflow.com/questions/20660782/writing-a-parser-from-scratch-in-haskell",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -492,6 +553,7 @@
         "status": "TODO: read",
         "link": "https://github.com/Kyjor/JulGame.jl",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -500,6 +562,7 @@
         "status": "TODO: read",
         "link": "https://discuss.getsol.us/d/9323-how-i-delete-snap-and-all-traces-of-it/3",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -508,6 +571,7 @@
         "status": "TODO: read",
         "link": "https://discourse.nixos.org/t/installing-a-snap-package/11468/4",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -516,6 +580,7 @@
         "status": "TODO: read",
         "link": "https://forum.snapcraft.io/t/snap-d-error-cannot-communicate-with-server-connection-refused/6093/55",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -524,6 +589,7 @@
         "status": "TODO: read",
         "link": "https://serverfault.com/questions/304416/i-cant-delete-files-rm-cannot-remove-x-read-only-file-system",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -532,6 +598,7 @@
         "status": "TODO: read",
         "link": "https://tweag.github.io/kernmantle/scale-by-the-bay-slides.html",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -540,6 +607,7 @@
         "status": "TODO: read",
         "link": "https://my.zerotier.com/",
         "language": "",
+        "description": "",
         "notes": "Zerotier is a program that creates a Virtual Network for only your devices with end to end encryption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer."
     },
     {
@@ -548,6 +616,7 @@
         "status": "TODO: read",
         "link": "https://github.com/simon-budig/woof/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -556,6 +625,7 @@
         "status": "TODO: read",
         "link": "https://github.com/nix-community/home-manager/issues/2216%23issuecomment-917507881",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -564,6 +634,7 @@
         "status": "TODO: read",
         "link": "https://www.reddit.com/r/vim/comments/o5xsu2/what_is_the_best_browser_plugin_for_vim/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -572,6 +643,7 @@
         "status": "TODO: read",
         "link": "https://www.google.com/search?client=firefox-b-m&sxsrf=AJOqlzW96kwIy8oB7xeBTSBuV6u0Mm33Jw%3A1675729858394&q=navigate+google+chrome+without+a+mouse+vim&oq=navigate+google+chrome+without+a+mouse+vim&aqs=heirloom-srp",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -580,6 +652,7 @@
         "status": "TODO: read",
         "link": "https://www.reddit.com/r/firefox/comments/l1d69d/how_use_firefox_without_mouse/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -588,6 +661,7 @@
         "status": "TODO: read",
         "link": "",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -596,6 +670,7 @@
         "status": "TODO: read",
         "link": "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -604,6 +679,7 @@
         "status": "TODO: read",
         "link": "https://wickstrom.tech/2020-07-02-the-todomvc-showdown-testing-with-webcheck.html",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -612,6 +688,7 @@
         "status": "TODO: read",
         "link": "https://superuser.com/questions/1337469/grasemonkey-change-design-css",
         "language": "",
+        "description": "",
         "notes": "[documentation here](https://wiki.greasespot.net/Main_Page), [code here](https://github.com/greasemonkey/greasemonkey)"
     },
     {
@@ -620,6 +697,7 @@
         "status": "TODO: read",
         "link": "https://developer.gnome.org/documentation/index.html",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -628,6 +706,7 @@
         "status": "TODO: read",
         "link": "https://www.linuxfordevices.com/tutorials/linux/watch-youtube-videos-on-mpv-player",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -636,6 +715,7 @@
         "status": "TODO: read",
         "link": "https://jonathanh.co.uk/blog/mutt-setup/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -644,6 +724,7 @@
         "status": "TODO: read",
         "link": "https://skiff.com/",
         "language": "",
+        "description": "",
         "notes": "discussed [here](<find video>) (along with Proton)"
     },
     {
@@ -652,6 +733,7 @@
         "status": "TODO: read",
         "link": "https://signal.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -660,6 +742,7 @@
         "status": "TODO: read",
         "link": "https://www.reddit.com/r/NixOS/s/UhoOeQnx6T",
         "language": "",
+        "description": "",
         "notes": ", see also [first post](https://www.reddit.com/r/NixOS/comments/1aqck9l/systemd_hardening_some_preconfigured_options_d/)"
     },
     {
@@ -668,6 +751,7 @@
         "status": "TODO: read",
         "link": "https://github.com/xkbcommon/libxkbcommon/blob/master/include/xkbcommon/xkbcommon-keysyms.h",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -676,6 +760,7 @@
         "status": "TODO: read",
         "link": "https: //fcitx-im.org/",
         "language": "",
+        "description": "",
         "notes": "Chinese input method"
     },
     {
@@ -684,6 +769,7 @@
         "status": "TODO: read",
         "link": "https://github.com/FiloSottile/age",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -692,6 +778,7 @@
         "status": "TODO: read",
         "link": "https://youtu.be/aolI_Rz0ZqY?si%3DDQSGDv-KVeKOvJkM",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -700,6 +787,7 @@
         "status": "TODO: read",
         "link": "https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks",
         "language": "",
+        "description": "",
         "notes": ", [git-scm.com/docs/githooks](https://git-scm.com/docs/githooks) https://www.youtube.com/watch?v=fMYv6-SZsSo"
     },
     {
@@ -708,6 +796,7 @@
         "status": "TODO: read",
         "link": "https://www.youtube.com/shorts/d70a8PXbrb8",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -716,6 +805,7 @@
         "status": "TODO: read",
         "link": "",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -724,6 +814,7 @@
         "status": "TODO: read",
         "link": "https://github.com/git/git",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -732,6 +823,7 @@
         "status": "TODO: read",
         "link": "https://www.reddit.com/r/neovim/s/ABJNQ1S1ux",
         "language": "",
+        "description": "",
         "notes": "lazygit vs neogit"
     },
     {
@@ -740,6 +832,7 @@
         "status": "TODO: read",
         "link": "https://mastodon.social/@matthiasott/111447516296786143",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -748,6 +841,7 @@
         "status": "TODO: read",
         "link": "https://www.youtube.com/watch?v%3Dfcc5KRmHZgI",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -756,6 +850,7 @@
         "status": "TODO: read",
         "link": "https://www.youtube.com/watch?v=Ec_ovkHHuZ8",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -764,6 +859,7 @@
         "status": "TODO: read",
         "link": "https://www.reddit.com/r/Piracy/comments/stws33/for_news_junkies_the_easiest_ways_to_get_through/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -772,6 +868,7 @@
         "status": "TODO: read",
         "link": "http://troubleshooters.com/troubleshooters.htm%23x10021",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -780,6 +877,7 @@
         "status": "TODO: read",
         "link": "https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dfree%2Bai%2Bupscale%2Bimage%2Bresolution",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -788,6 +886,7 @@
         "status": "TODO: read",
         "link": "https://mockitt.wondershare.com/home.html",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -796,6 +895,7 @@
         "status": "TODO: read",
         "link": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
         "language": "",
+        "description": "",
         "notes": ""
     }
 ]

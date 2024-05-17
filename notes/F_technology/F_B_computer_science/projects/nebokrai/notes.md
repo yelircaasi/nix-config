@@ -724,8 +724,9 @@ search “hosting” [discord.com/channels/903549834160635914/903553722804748309
 * [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 * [TCX](https://en.wikipedia.org/wiki/Training_Center_XML)
 
-### Web-Based Protocol: WebDAV, CalDAV, iCalendar
+### Standards: WebDAV, CalDAV, iCalendar
 
+* [vdir](https://vdirsyncer.readthedocs.io/en/latest/vdir.html)
 * [CalDAV](https://en.wikipedia.org/wiki/CalDAV)
 * [WebDAV](https://en.wikipedia.org/wiki/WebDAV)
 * [iCalendar](https://en.wikipedia.org/wiki/ICalendar)

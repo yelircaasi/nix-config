@@ -716,6 +716,10 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Kotlin: Урок 0. Введение](https://youtu.be/L9k_NdTaMeI)
 * [Ken Kousen - Kotlin Cookbook: A Problem-Focused Approach](https://libgen.is/book/index.php?md5=868921840C4AAC2726F63F3A28F3E70D)
 
+### App Examples
+
+* ( ) [Goodtime](https://github.com/adrcotfas/Goodtime)
+
 ## Lua
 
 ### Excellent Lua Software

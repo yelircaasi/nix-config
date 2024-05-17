@@ -1,5 +1,22 @@
 # Single-App Configs
 
+## Taskwarrior
+
+* ( ) [ulrichschinz](https://github.com/ulrichschinz/taskwarrior)
+* ( ) [00dani](https://github.com/00dani/dot-task)
+* ( ) [markeganfuller](https://github.com/markeganfuller/taskrc/blob/master/taskrc)
+* ( ) [](https://github.com/AidanTilgner/taskwarrior-config)
+* ( ) [](https://github.com/Tylryan/taskwarrior-config)
+* (1) [](https://github.com/kevinstadler/taskwarrior-vit-config)
+* ( ) [](https://github.com/Spreadcat/ansible-role-timewarrior)
+* ( ) []()
+* ( ) []()
+* ( ) []()
+* ( ) []()
+* ( ) []()
+* ( ) []()
+* ( ) []()
+
 ## Sway
 
 * ( ) [sway migration](https://www.reddit.com/r/swaywm/s/uafu7rzdOD)

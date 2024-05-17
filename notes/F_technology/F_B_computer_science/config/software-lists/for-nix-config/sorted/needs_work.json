@@ -5,6 +5,7 @@
         "status": "needs work",
         "link": "https://github.com/boukeversteegh/ai-terminal-assistant",
         "language": "python",
+        "description": "",
         "notes": ""
     },
     {
@@ -13,6 +14,7 @@
         "status": "needs work",
         "link": "https://github.com/nitefood/ai-bash-gpt",
         "language": "",
+        "description": "",
         "notes": "looks very good - A commandline ChatGPT client in BASH with conversation/completion support."
     },
     {
@@ -21,6 +23,7 @@
         "status": "needs work",
         "link": "https://github.com/barthr/commandpilot",
         "language": "",
+        "description": "",
         "notes": "An assistant which uses ChatGPT to aid in constructing commands for bash."
     },
     {
@@ -29,6 +32,7 @@
         "status": "needs work",
         "link": "https://github.com/kris7ian/aido-cli",
         "language": "",
+        "description": "",
         "notes": "Looks another interface to online GPT models to execute command through natural language. Very poor   documentation and readme, though."
     },
     {
@@ -37,6 +41,7 @@
         "status": "needs work",
         "link": "https://github.com/mglantz/chatgpt",
         "language": "",
+        "description": "",
         "notes": "Simple command line integration to Chat GPT."
     },
     {
@@ -45,6 +50,7 @@
         "status": "needs work",
         "link": "https://github.com/yasyf/gpt-do",
         "language": "",
+        "description": "",
         "notes": "This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you."
     },
     {
@@ -53,6 +59,7 @@
         "status": "needs work",
         "link": "https://www.waveterm.dev/",
         "language": "",
+        "description": "",
         "notes": "need to package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/ -> drop-down terminal"
     },
     {
@@ -61,6 +68,7 @@
         "status": "needs work",
         "link": "https://github.com/majestrate/wterm",
         "language": "c",
+        "description": "",
         "notes": ""
     },
     {
@@ -69,6 +77,7 @@
         "status": "needs work",
         "link": "https://github.com/atsepkov/Graphene",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -77,6 +86,7 @@
         "status": "needs work",
         "link": "https://github.com/bevacqua/hget",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -85,6 +95,7 @@
         "status": "needs work",
         "link": "http://pub.ks-and-ks.ne.jp/prog/w3mmee/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -93,6 +104,7 @@
         "status": "needs work",
         "link": "https://github.com/xxczaki/cash-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -101,6 +113,7 @@
         "status": "needs work",
         "link": "https://github.com/metadelta/mdlt",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -109,6 +122,7 @@
         "status": "needs work",
         "link": "https://github.com/pouyakary/Nota",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -117,6 +131,7 @@
         "status": "needs work",
         "link": "https://github.com/jarun/pdd",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -125,6 +140,7 @@
         "status": "needs work",
         "link": "https://github.com/Lauriat/texel",
         "language": "",
+        "description": "",
         "notes": "Command line interface for reading spreadsheets inside terminal."
     },
     {
@@ -133,6 +149,7 @@
         "status": "needs work",
         "link": "https://github.com/bhrigu123/classifier",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -141,6 +158,7 @@
         "status": "needs work",
         "link": "https://github.com/ManrajGrover/organize-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -149,6 +167,7 @@
         "status": "needs work",
         "link": "https://gitlab.gnome.org/aviwad/organizer",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -157,6 +176,7 @@
         "status": "needs work",
         "link": "https://github.com/vv9k/wutag",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -165,6 +185,7 @@
         "status": "needs work",
         "link": "https://github.com/wustho/epr",
         "language": "",
+        "description": "",
         "notes": "!!!"
     },
     {
@@ -173,6 +194,7 @@
         "status": "needs work",
         "link": "https://github.com/bevacqua/hget",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -181,6 +203,7 @@
         "status": "needs work",
         "link": "https://github.com/antonmedv/fx",
         "language": "go",
+        "description": "",
         "notes": "supports yaml; fork to make more configurable: themes and keybinds, text-based config instead of only envvars, but still phenomenal and worth installing"
     },
     {
@@ -189,6 +212,7 @@
         "status": "needs work",
         "link": "https://github.com/ldn-softdev/jtc",
         "language": "",
+        "description": "",
         "notes": "RosettaProjects"
     },
     {
@@ -197,6 +221,7 @@
         "status": "needs work",
         "link": "https://github.com/sindresorhus/strip-json-comments-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -205,6 +230,7 @@
         "status": "needs work",
         "link": "https://github.com/thlorenz/doctoc",
         "language": "",
+        "description": "",
         "notes": "Generates table of contents for markdown files."
     },
     {
@@ -213,6 +239,7 @@
         "status": "needs work",
         "link": "https://github.com/swsnr/mdcat",
         "language": "",
+        "description": "",
         "notes": "on nixpkgs, but recently archived - fork and maintain?"
     },
     {
@@ -221,6 +248,7 @@
         "status": "needs work",
         "link": "https://github.com/robolab-pavia/mdt",
         "language": "python",
+        "description": "",
         "notes": ""
     },
     {
@@ -229,6 +257,7 @@
         "status": "needs work",
         "link": "https://github.com/kpj/pdftty",
         "language": "",
+        "description": "",
         "notes": "[site](https://kpj.github.io/my_projects/pdftty.html)"
     },
     {
@@ -237,6 +266,7 @@
         "status": "needs work",
         "link": "https://github.com/imakewebthings/deck.js",
         "language": "",
+        "description": "",
         "notes": "markdown based presentation on your browser"
     },
     {
@@ -245,6 +275,7 @@
         "status": "needs work",
         "link": "https://github.com/msoedov/hacker-slides",
         "language": "",
+        "description": "",
         "notes": ")[hacker-slides,](https://github.com/rga2/hacker-slides,) - Reveal.js based presentation tool"
     },
     {
@@ -253,6 +284,7 @@
         "status": "needs work",
         "link": "https://git.suckless.org/sent/log.html",
         "language": "",
+        "description": "",
         "notes": "Simple plaintext presentation tool. -> port away from X11"
     },
     {
@@ -261,6 +293,7 @@
         "status": "needs work",
         "link": "https://github.com/BurntSushi/xsv",
         "language": "rust",
+        "description": "",
         "notes": ""
     },
     {
@@ -269,6 +302,7 @@
         "status": "needs work",
         "link": "https://github.com/gnprice/toml-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -277,6 +311,7 @@
         "status": "needs work",
         "link": "https://github.com/clarkgrubb/data-tools",
         "language": "",
+        "description": "",
         "notes": "RosettaProjects"
     },
     {
@@ -285,6 +320,7 @@
         "status": "needs work",
         "link": "https://github.com/gryf/ebook-converter",
         "language": "",
+        "description": "",
         "notes": "!!! Commandline tool for converting between several e-books formats, based on Calibre project"
     },
     {
@@ -293,6 +329,7 @@
         "status": "needs work",
         "link": "https://github.com/sindresorhus/gzip-size-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -301,6 +338,7 @@
         "status": "needs work",
         "link": "https://search.nixos.org/packages?channel=23.11&show=jiq&from=0&size=50&sort=relevance&type=packages&query=jiq",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -309,6 +347,7 @@
         "status": "needs work",
         "link": "https://github.com/raine/ramda-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -317,6 +356,7 @@
         "status": "needs work",
         "link": "https://github.com/fent/randexp.js",
         "language": "",
+        "description": "",
         "notes": "!!!"
     },
     {
@@ -325,6 +365,7 @@
         "status": "needs work",
         "link": "https://github.com/dflemstr/rq",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -333,6 +374,7 @@
         "status": "needs work",
         "link": "https://github.com/anki-code/tokenize-output",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -341,6 +383,7 @@
         "status": "needs work",
         "link": "https://github.com/akavel/up",
         "language": "",
+        "description": "",
         "notes": "(UltimatePlumber)"
     },
     {
@@ -349,6 +392,7 @@
         "status": "needs work",
         "link": "https://github.com/k4m4/lexis",
         "language": "",
+        "description": "",
         "notes": "word counting made easy. Retrieve the number of words in a string or stdin."
     },
     {
@@ -357,6 +401,7 @@
         "status": "needs work",
         "link": "https://strlen.com/restructor/",
         "language": "",
+        "description": "",
         "notes": "probably not usable, but very interesting conceptually"
     },
     {
@@ -365,6 +410,7 @@
         "status": "needs work",
         "link": "https://github.com/aykamko/tag",
         "language": "",
+        "description": "",
         "notes": "Instantly jump to your ag matches. Abandoned; fork and update and package for Nix |db85|dc0b|db85|dc0b|db85|dc0b"
     },
     {
@@ -373,6 +419,7 @@
         "status": "needs work",
         "link": "https://github.com/clog-tool/clog-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -381,6 +428,7 @@
         "status": "needs work",
         "link": "https://github.com/dogoncouch/logdissect/",
         "language": "",
+        "description": "",
         "notes": "CLI utility and Python API for analyzing log files and other data. ([MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE)) - fork, update, and extend!"
     },
     {
@@ -389,6 +437,7 @@
         "status": "needs work",
         "link": "https://github.com/sindresorhus/detect-indent-cli",
         "language": "",
+        "description": "",
         "notes": "Detect the indentation of code - probably unnecessary, but add to RosettaProjects"
     },
     {
@@ -397,6 +446,7 @@
         "status": "needs work",
         "link": "https://github.com/markmcdnyu/README-Generator",
         "language": "",
+        "description": "",
         "notes": "RosettaProjects"
     },
     {
@@ -405,6 +455,7 @@
         "status": "needs work",
         "link": "https://github.com/jfisher396/readme-generator",
         "language": "",
+        "description": "",
         "notes": "RosettaProjects"
     },
     {
@@ -413,6 +464,7 @@
         "status": "needs work",
         "link": "https://github.com/kefranabg/readme-md-generator",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -421,6 +473,7 @@
         "status": "needs work",
         "link": "https://github.com/markchalloner/git-semver",
         "language": "shell",
+        "description": "",
         "notes": "A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier"
     },
     {
@@ -429,6 +482,7 @@
         "status": "needs work",
         "link": "https://github.com/cloudflare/semver_bash",
         "language": "",
+        "description": "",
         "notes": "Semantic Versioning in Bash"
     },
     {
@@ -437,6 +491,7 @@
         "status": "needs work",
         "link": "https://github.com/qzb/sh-semver",
         "language": "",
+        "description": "",
         "notes": "Semver tool for bash - finds versions matching to specified rules"
     },
     {
@@ -445,6 +500,7 @@
         "status": "needs work",
         "link": "https://github.com/tmrts/boilr",
         "language": "",
+        "description": "",
         "notes": "(in Go, even older)"
     },
     {
@@ -453,6 +509,7 @@
         "status": "needs work",
         "link": "https://github.com/nikoksr/proji",
         "language": "",
+        "description": "",
         "notes": "(in Go, old)"
     },
     {
@@ -461,6 +518,7 @@
         "status": "needs work",
         "link": "https://github.com/claudio-unipv/pvcheck",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -469,6 +527,7 @@
         "status": "needs work",
         "link": "https://github.com/opensibyl/squ",
         "language": "",
+        "description": "",
         "notes": "!!!"
     },
     {
@@ -477,6 +536,7 @@
         "status": "needs work",
         "link": "https://github.com/lord63/choosealicense-cli",
         "language": "",
+        "description": "",
         "notes": "-> use, but update -> RosettaProjects?"
     },
     {
@@ -485,6 +545,7 @@
         "status": "needs work",
         "link": "https://github.com/captainsafia/legit",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -493,6 +554,7 @@
         "status": "needs work",
         "link": "https://github.com/nikitavoloboev/license-up",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -501,6 +563,7 @@
         "status": "needs work",
         "link": "https://github.com/dogoncouch/licins",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -509,6 +572,7 @@
         "status": "needs work",
         "link": "https://github.com/cezaraugusto/mklicense",
         "language": "",
+        "description": "",
         "notes": "RosettaProjects"
     },
     {
@@ -517,6 +581,7 @@
         "status": "needs work",
         "link": "https://github.com/kampka/nixify",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -525,6 +590,7 @@
         "status": "needs work",
         "link": "https://github.com/in3rsha/sha256-animation",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -533,6 +599,7 @@
         "status": "needs work",
         "link": "https://github.com/donnemartin/haxor-news",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -541,6 +608,7 @@
         "status": "needs work",
         "link": "https://github.com/djadmin/medium-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -549,6 +617,7 @@
         "status": "needs work",
         "link": "https://github.com/arvindch/pockyt",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -557,6 +626,7 @@
         "status": "needs work",
         "link": "https://github.com/redlib-org/redlib",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -565,6 +635,7 @@
         "status": "needs work",
         "link": "https://git.sr.ht/~skuzzymiglet/greedy",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -573,6 +644,7 @@
         "status": "needs work",
         "link": "https://github.com/sunsations/speed_read",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -581,6 +653,7 @@
         "status": "needs work",
         "link": "https://github.com/pasky/speedread",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -589,6 +662,7 @@
         "status": "needs work",
         "link": "https://github.com/13-CF/afetch",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -597,6 +671,7 @@
         "status": "needs work",
         "link": "https://github.com/ssleert/nitch",
         "language": "",
+        "description": "",
         "notes": "incredibly fast system fetch written in nim"
     },
     {
@@ -605,6 +680,7 @@
         "status": "needs work",
         "link": "https://codeberg.org/DoutorJP/sfetch",
         "language": "c++",
+        "description": "",
         "notes": ""
     },
     {
@@ -613,6 +689,7 @@
         "status": "needs work",
         "link": "https://github.com/manrajgrover/football-cli",
         "language": "",
+        "description": "",
         "notes": "(JS)"
     },
     {
@@ -621,6 +698,7 @@
         "status": "needs work",
         "link": "https://github.com/codeezer/livescore-cli",
         "language": "",
+        "description": "",
         "notes": "(python)"
     },
     {
@@ -629,6 +707,7 @@
         "status": "needs work",
         "link": "https://github.com/joschuck/matrix-webcam",
         "language": "",
+        "description": "",
         "notes": "Take your video conference from within the matrix. -> USE FOR TEAMS, CONTRIBUTE TO NEXT STEPS -> package for NixOS ->  v4l2loopback https://github.com/umlaeute/v4l2loopback -> gstreamer use https://gstreamer.freedesktop.org/documentation/installing/on-linux.html?gi-language=c -> https://blog.ghaiklor.com/2020/07/27/high-performant-2d-renderer-in-a-terminal/"
     },
     {
@@ -637,6 +716,7 @@
         "status": "needs work",
         "link": "https://github.com/pipeseroni/pipes.c",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -645,6 +725,7 @@
         "status": "needs work",
         "link": "http://pipes.sh/",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -653,6 +734,7 @@
         "status": "needs work",
         "link": "https://github.com/raincoats/rainbow",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -661,6 +743,7 @@
         "status": "needs work",
         "link": "https://github.com/architv/soccer-cli",
         "language": "",
+        "description": "",
         "notes": "(python)"
     },
     {
@@ -669,6 +752,7 @@
         "status": "needs work",
         "link": "https://github.com/ghaiklor/terminal-canvas",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -677,6 +761,7 @@
         "status": "needs work",
         "link": "https://github.com/bartobri/no-more-secrets",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -685,6 +770,7 @@
         "status": "needs work",
         "link": "https://github.com/dematerializer/emoji-finder",
         "language": "",
+        "description": "",
         "notes": "Quickly find and copy emoji to the clipboard via the command-line."
     },
     {
@@ -693,6 +779,7 @@
         "status": "needs work",
         "link": "https://github.com/mrowa44/emojify",
         "language": "",
+        "description": "",
         "notes": "Emoji on the command line"
     },
     {
@@ -701,6 +788,7 @@
         "status": "needs work",
         "link": "https://github.com/xxczaki/oji",
         "language": "",
+        "description": "",
         "notes": "Interactive text emoji creator - add to RosettaProjects"
     },
     {
@@ -709,6 +797,7 @@
         "status": "needs work",
         "link": "https://github.com/LachlanArthur/Braille-ASCII-Art",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -717,6 +806,7 @@
         "status": "needs work",
         "link": "https://github.com/koraykzly/braille-ascii-art",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -725,6 +815,7 @@
         "status": "needs work",
         "link": "https://github.com/dolsup/cli-fireplace",
         "language": "",
+        "description": "",
         "notes": "Shows digital fireplace."
     },
     {
@@ -733,6 +824,7 @@
         "status": "needs work",
         "link": "https://github.com/brunobraga/termsaver",
         "language": "",
+        "description": "",
         "notes": "termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens."
     },
     {
@@ -741,6 +833,7 @@
         "status": "needs work",
         "link": "https://github.com/p-e-w/ternimal",
         "language": "",
+        "description": "",
         "notes": "Simulate a lifeform in the terminal."
     },
     {
@@ -749,6 +842,7 @@
         "status": "needs work",
         "link": "https://github.com/Vlamonster/maze_solver_rust",
         "language": "",
+        "description": "",
         "notes": "Generate, display and solve mazes in an animated way in the terminal."
     },
     {
@@ -757,6 +851,7 @@
         "status": "needs work",
         "link": "https://github.com/pafoster/gdir",
         "language": "",
+        "description": "",
         "notes": "A command line tool which queries Google Directions. The tool displays results as human-readable text."
     },
     {
@@ -765,6 +860,7 @@
         "status": "needs work",
         "link": "https://github.com/nogizhopaboroda/iponmap",
         "language": "",
+        "description": "",
         "notes": "Draw point on world map using ip address"
     },
     {
@@ -773,6 +869,7 @@
         "status": "needs work",
         "link": "https://github.com/codesoap/osmf",
         "language": "",
+        "description": "",
         "notes": "OpenStreetMap find - A simple command line tool to explore OSM data."
     },
     {
@@ -781,6 +878,7 @@
         "status": "needs work",
         "link": "https://github.com/sggts04/dankcli",
         "language": "",
+        "description": "",
         "notes": "Add text to meme image templates."
     },
     {
@@ -789,6 +887,7 @@
         "status": "needs work",
         "link": "https://github.com/beatfreaker/text-meme-cli",
         "language": "",
+        "description": "",
         "notes": "Generate text memes."
     },
     {
@@ -797,6 +896,7 @@
         "status": "needs work",
         "link": "https://github.com/riyadhalnur/quote-cli",
         "language": "",
+        "description": "",
         "notes": "Get a random quote or the quote of the day in your CLI."
     },
     {
@@ -805,6 +905,7 @@
         "status": "needs work",
         "link": "https://github.com/G2-Games/welcome.sh",
         "language": "",
+        "description": "",
         "notes": "A nice little script that greets you on every launch, with some helpful (and customizable!) information."
     },
     {
@@ -813,6 +914,7 @@
         "status": "needs work",
         "link": "https://github.com/srsudar/eg",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -821,6 +923,7 @@
         "status": "needs work",
         "link": "https://github.com/gutjuri/fast-tldr",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -829,6 +932,7 @@
         "status": "needs work",
         "link": "https://github.com/psibi/tldr-hs",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -837,6 +941,7 @@
         "status": "needs work",
         "link": "https://github.com/kroitor/asciichart",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -845,6 +950,7 @@
         "status": "needs work",
         "link": "https://github.com/Yardanico/asciigraph",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects; Console ascii line graphs in pure Nim"
     },
     {
@@ -853,6 +959,7 @@
         "status": "needs work",
         "link": "https://github.com/holman/spark",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -861,6 +968,7 @@
         "status": "needs work",
         "link": "https://github.com/jorgebucaran/spark.fish",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -869,6 +977,7 @@
         "status": "needs work",
         "link": "https://github.com/sindresorhus/sparkly-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -877,6 +986,7 @@
         "status": "needs work",
         "link": "https://github.com/garybernhardt/selecta",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -885,6 +995,7 @@
         "status": "needs work",
         "link": "https://github.com/mooz/percol",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -893,6 +1004,7 @@
         "status": "needs work",
         "link": "https://github.com/buster/rrun",
         "language": "",
+        "description": "",
         "notes": "(Rust)"
     },
     {
@@ -901,6 +1013,7 @@
         "status": "needs work",
         "link": "http://fleuret.org/cgi-bin/gitweb/gitweb.cgi?p=selector",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -909,6 +1022,7 @@
         "status": "needs work",
         "link": "https://github.com/Merovius/shellex",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -917,6 +1031,7 @@
         "status": "needs work",
         "link": "https://github.com/joshaw/slmenu",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -925,6 +1040,7 @@
         "status": "needs work",
         "link": "https://github.com/nate-sys/muc",
         "language": "",
+        "description": "",
         "notes": "archived, but recently-still on Nix"
     },
     {
@@ -933,6 +1049,7 @@
         "status": "needs work",
         "link": "https://github.com/koraa/pipe_exec",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -941,6 +1058,7 @@
         "status": "needs work",
         "link": "https://github.com/riyadhalnur/weather-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -949,6 +1067,7 @@
         "status": "needs work",
         "link": "https://github.com/napisani/procmux",
         "language": "",
+        "description": "",
         "notes": "A TUI utility for running multiple commands in parallel in easily switchable terminals."
     },
     {
@@ -957,6 +1076,7 @@
         "status": "needs work",
         "link": "https://github.com/ayoisaiah/f2",
         "language": "",
+        "description": "",
         "notes": "change box characters!"
     },
     {
@@ -965,6 +1085,7 @@
         "status": "needs work",
         "link": "https://github.com/jhotmann/node-rename-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -973,6 +1094,7 @@
         "status": "needs work",
         "link": "https://github.com/yaa110/nomino",
         "language": "",
+        "description": "",
         "notes": "change box characters! also make colors configurable"
     },
     {
@@ -981,6 +1103,7 @@
         "status": "needs work",
         "link": "https://github.com/sindresorhus/find-up-cli",
         "language": "",
+        "description": "",
         "notes": "(shouldn't be too hard to implement in a faster and lighter language)"
     },
     {
@@ -989,6 +1112,7 @@
         "status": "needs work",
         "link": "https://github.com/rauchg/spot",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -997,6 +1121,7 @@
         "status": "needs work",
         "link": "https://github.com/spolu/warp",
         "language": "",
+        "description": "",
         "notes": "Secure and simple terminal sharing. - fork and update?"
     },
     {
@@ -1005,6 +1130,7 @@
         "status": "needs work",
         "link": "https://github.com/PabloLec/RecoverPy",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1013,6 +1139,7 @@
         "status": "needs work",
         "link": "https://github.com/tanrax/terminal-AdvancedNewFile",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1021,6 +1148,7 @@
         "status": "needs work",
         "link": "https://github.com/holman/boom",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1029,6 +1157,7 @@
         "status": "needs work",
         "link": "https://github.com/zakariagatter/brash",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1037,6 +1166,7 @@
         "status": "needs work",
         "link": "https://www.reddit.com/r/commandline/comments/lo1m6u/coderun_code_runner_cli_that_can_automatically/",
         "language": "",
+        "description": "",
         "notes": "code runner CLI that can automatically detect run any languages"
     },
     {
@@ -1045,6 +1175,7 @@
         "status": "needs work",
         "link": "https://github.com/shyiko/commacd",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1053,6 +1184,7 @@
         "status": "needs work",
         "link": "https://github.com/lotrfan/cope",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1061,6 +1193,7 @@
         "status": "needs work",
         "link": "https://github.com/Xfennec/progress",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1069,6 +1202,7 @@
         "status": "needs work",
         "link": "https://github.com/nivekuil/rip",
         "language": "",
+        "description": "",
         "notes": "(rip) "
     },
     {
@@ -1077,6 +1211,7 @@
         "status": "needs work",
         "link": "https://github.com/sudoerp/runner",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1085,6 +1220,7 @@
         "status": "needs work",
         "link": "https://github.com/adamheins/t",
         "language": "",
+        "description": "",
         "notes": "(wraps trash-cli)"
     },
     {
@@ -1093,6 +1229,7 @@
         "status": "needs work",
         "link": "https://github.com/parttimenerd/temci",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1101,6 +1238,7 @@
         "status": "needs work",
         "link": "https://github.com/meteoritt/topalias",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1109,6 +1247,7 @@
         "status": "needs work",
         "link": "https://github.com/ehmicky/unix-permissions",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1117,6 +1256,7 @@
         "status": "needs work",
         "link": "https://github.com/shannonmoeller/up",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1125,6 +1265,7 @@
         "status": "needs work",
         "link": "https://github.com/vaaleyard/gocatgo",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1133,6 +1274,7 @@
         "status": "needs work",
         "link": "https://github.com/binwiederhier/pcopy",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1141,6 +1283,7 @@
         "status": "needs work",
         "link": "https://github.com/SwitchAxe/Rewind",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1149,6 +1292,7 @@
         "status": "needs work",
         "link": "https://github.com/tom-james-watson/breaktimer-app",
         "language": "typescript",
+        "description": "",
         "notes": "really close between this and zenbreak"
     },
     {
@@ -1157,6 +1301,7 @@
         "status": "needs work",
         "link": "https://github.com/alexanderepstein/Sandman-Lite",
         "language": "",
+        "description": "",
         "notes": "(preferred to[Sandman)](https://github.com/alexanderepstein/Sandman))- [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md)) -> [good source](https://sleepopolis.com/calculators/sleep/)"
     },
     {
@@ -1165,7 +1310,17 @@
         "status": "needs work",
         "link": "https://github.com/Giuliopime/ZenBreak | https://zenbreak.app/",
         "language": "kotlin",
+        "description": "",
         "notes": "needs nix packaging; chose breaktimer, but it was close"
+    },
+    {
+        "category": "console.sleep_and_eyes.timer",
+        "name": "pomatez",
+        "status": "needs work",
+        "link": "https://github.com/zidoro/pomatez",
+        "language": "typescript",
+        "description": "",
+        "notes": "Stay Focused. Take a Break."
     },
     {
         "category": "console.snippets",
@@ -1173,6 +1328,7 @@
         "status": "needs work",
         "link": "https://github.com/lemoony/snipkit",
         "language": "",
+        "description": "",
         "notes": "looks really look, interesting concept  (Go)"
     },
     {
@@ -1181,6 +1337,7 @@
         "status": "needs work",
         "link": "https://github.com/srijanshetty/snips",
         "language": "",
+        "description": "",
         "notes": "Command line tool to manage snippets of code. Node"
     },
     {
@@ -1189,6 +1346,7 @@
         "status": "needs work",
         "link": "https://github.com/Jmgr/actiona",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1197,6 +1355,7 @@
         "status": "needs work",
         "link": "https://github.com/clyde80/cli-stopwatch",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -1205,6 +1364,7 @@
         "status": "needs work",
         "link": "https://github.com/TianyiShi2001/clock-cli-rs",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -1213,6 +1373,7 @@
         "status": "needs work",
         "link": "https://github.com/1Blademaster/timer-cli",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -1221,6 +1382,7 @@
         "status": "needs work",
         "link": "https://github.com/sayanarijit/pomo",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1229,6 +1391,7 @@
         "status": "needs work",
         "link": "https://github.com/SebStrug/pomodoro",
         "language": "rust",
+        "description": "",
         "notes": "add to RosettaProjects - see also https://github.com/hatappi/gomodoro"
     },
     {
@@ -1237,6 +1400,7 @@
         "status": "needs work",
         "link": "https://github.com/zohl/pomodoro",
         "language": "haskell",
+        "description": "",
         "notes": ""
     },
     {
@@ -1245,6 +1409,7 @@
         "status": "needs work",
         "link": "https://github.com/Prayag2/pomo",
         "language": "bash",
+        "description": "",
         "notes": "[A simple pomodoro timer written in Bash.](https://github.com/Prayag2/pomo)"
     },
     {
@@ -1253,6 +1418,7 @@
         "status": "needs work",
         "link": "https://github.com/alexanderepstein/Sandman-Lite",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1261,6 +1427,7 @@
         "status": "needs work",
         "link": "...",
         "language": "",
+        "description": "",
         "notes": "(yet to come)"
     },
     {
@@ -1269,6 +1436,7 @@
         "status": "needs work",
         "link": "https://github.com/yelircaasi/nbcat",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1277,6 +1445,7 @@
         "status": "needs work",
         "link": "https://github.com/themoken/canto-curses",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1285,6 +1454,7 @@
         "status": "needs work",
         "link": "https://github.com/rainygirl/rreader",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -1293,6 +1463,7 @@
         "status": "needs work",
         "link": "https://github.com/specious/facebook-cli",
         "language": "",
+        "description": "",
         "notes": "Facebook command line tool"
     },
     {
@@ -1301,6 +1472,7 @@
         "status": "needs work",
         "link": "https://github.com/rafaelrinaldi/hn-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1309,6 +1481,7 @@
         "status": "needs work",
         "link": "https://github.com/djadmin/medium-cli",
         "language": "",
+        "description": "",
         "notes": "Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal."
     },
     {
@@ -1317,6 +1490,7 @@
         "status": "needs work",
         "link": "https://github.com/specious/meetup-cli",
         "language": "",
+        "description": "",
         "notes": "Meetup.com client."
     },
     {
@@ -1325,6 +1499,7 @@
         "status": "needs work",
         "link": "https://github.com/vk-cli/vk",
         "language": "d",
+        "description": "",
         "notes": "there are more maintained alternatives, but I don't think I really need this"
     },
     {
@@ -1333,6 +1508,7 @@
         "status": "needs work",
         "link": "https://yarmo.eu/blog/playerctl-polybar/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1341,6 +1517,7 @@
         "status": "needs work",
         "link": "https://github.com/engstrand-config/dwl-guile",
         "language": "",
+        "description": "",
         "notes": "+ [dwl-guile home service](https://github.com/engstrand-config/home-service-dwl-guile)"
     },
     {
@@ -1349,6 +1526,7 @@
         "status": "needs work",
         "link": "https://github.com/MagmaWM/MagmaWM",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1357,6 +1535,7 @@
         "status": "needs work",
         "link": "https://github.com/monroeclinton/mwm",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1365,6 +1544,7 @@
         "status": "needs work",
         "link": "https://sr.ht/~atha/newm-atha/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1373,6 +1553,7 @@
         "status": "needs work",
         "link": "https://github.com/jbuchermn/newm",
         "language": "",
+        "description": "",
         "notes": "[newM](https://github.com/jbuchermn/newm)"
     },
     {
@@ -1381,6 +1562,7 @@
         "status": "needs work",
         "link": "https://github.com/mora-unie-youer/noway",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1389,6 +1571,7 @@
         "status": "needs work",
         "link": "https://github.com/pinnacle-comp/pinnacle",
         "language": "",
+        "description": "",
         "notes": "!!!"
     },
     {
@@ -1397,6 +1580,7 @@
         "status": "needs work",
         "link": "https://github.com/StrataWM/strata",
         "language": "",
+        "description": "",
         "notes": "!!!"
     },
     {
@@ -1405,6 +1589,7 @@
         "status": "needs work",
         "link": "https://github.com/taiwins/taiwins",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1413,6 +1598,7 @@
         "status": "needs work",
         "link": "https://github.com/inclement/vivarium",
         "language": "",
+        "description": "",
         "notes": "-> good illustrations"
     },
     {
@@ -1421,6 +1607,7 @@
         "status": "needs work",
         "link": "http://way-cooler.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1429,6 +1616,7 @@
         "status": "needs work",
         "link": "https://github.com/waymonad/waymonad",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1437,6 +1625,7 @@
         "status": "needs work",
         "link": "https://github.com/ardek66/waymonader",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1445,6 +1634,7 @@
         "status": "needs work",
         "link": "https://github.com/Natchuz/wmoon",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1453,6 +1643,7 @@
         "status": "needs work",
         "link": "https://github.com/evertiro/cdm",
         "language": "",
+        "description": "",
         "notes": "A ultra-minimalistic, yet full-featured login manager written in Bash."
     },
     {
@@ -1461,6 +1652,7 @@
         "status": "needs work",
         "link": "https://github.com/Vawlpe/hgreet",
         "language": "",
+        "description": "",
         "notes": "Haskell package to interact with the greetd daemon trough it's IPC protocol. https://github.com/Vawlpe/hgreet/tree/main/hgreet-example) -> update"
     },
     {
@@ -1469,6 +1661,7 @@
         "status": "needs work",
         "link": "https://github.com/felipesere/icepick",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1477,6 +1670,7 @@
         "status": "needs work",
         "link": "https://github.com/nyyManni/dmenu-wayland",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1485,6 +1679,7 @@
         "status": "needs work",
         "link": "https://github.com/Twins-Divyanshu-Sharma/Hex",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1493,6 +1688,7 @@
         "status": "needs work",
         "link": "https://github.com/sulami/hmenu",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1501,6 +1697,7 @@
         "status": "needs work",
         "link": "https://github.com/emgram769/lighthouse",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1509,6 +1706,7 @@
         "status": "needs work",
         "link": "https://github.com/chmouel/mounch",
         "language": "python",
+        "description": "",
         "notes": ""
     },
     {
@@ -1517,6 +1715,7 @@
         "status": "needs work",
         "link": "https://github.com/Biont/sway-launcher-desktop",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1525,6 +1724,7 @@
         "status": "needs work",
         "link": "https://github.com/firecat53/keepmenu",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1533,6 +1733,7 @@
         "status": "needs work",
         "link": "https://github.com/svenstaro/rofi-calc",
         "language": "",
+        "description": "",
         "notes": "!!!"
     },
     {
@@ -1541,6 +1742,7 @@
         "status": "needs work",
         "link": "https://github.com/rolv-apneseth/rofi-nerdy",
         "language": "",
+        "description": "",
         "notes": "rofi plugin for nerdfonts !!!"
     },
     {
@@ -1549,6 +1751,7 @@
         "status": "needs work",
         "link": "https://github.com/Paulo-Murilo-Dev/42screensaver",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1557,6 +1760,7 @@
         "status": "needs work",
         "link": "https://github.com/betterlockscreen/betterlockscreen",
         "language": "",
+        "description": "",
         "notes": "needs porting to Wayland stack"
     },
     {
@@ -1565,6 +1769,7 @@
         "status": "needs work",
         "link": "https://github.com/redpenguinyt/display3d",
         "language": "",
+        "description": "",
         "notes": "lock screen"
     },
     {
@@ -1573,6 +1778,7 @@
         "status": "needs work",
         "link": "https://github.com/Nocxium/nChain",
         "language": "",
+        "description": "",
         "notes": "theme switcher"
     },
     {
@@ -1581,6 +1787,7 @@
         "status": "needs work",
         "link": "https://github.com/dschep/ntfy",
         "language": "",
+        "description": "",
         "notes": "Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes."
     },
     {
@@ -1589,6 +1796,7 @@
         "status": "needs work",
         "link": "https://github.com/jml/undistract-me",
         "language": "",
+        "description": "",
         "notes": "A command line program that plays a sound or sends a notification when a long command has finished running in the command line."
     },
     {
@@ -1597,6 +1805,7 @@
         "status": "needs work",
         "link": "https://github.com/isamert/jaro",
         "language": "scheme",
+        "description": "",
         "notes": ""
     },
     {
@@ -1605,6 +1814,7 @@
         "status": "needs work",
         "link": "https://github.com/BachoSeven/mimi",
         "language": "",
+        "description": "",
         "notes": "!!!"
     },
     {
@@ -1613,6 +1823,7 @@
         "status": "needs work",
         "link": "https://github.com/dandavison/open-in-editor",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1621,6 +1832,7 @@
         "status": "needs work",
         "link": "https://github.com/cfhammill/nixGL",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1629,6 +1841,7 @@
         "status": "needs work",
         "link": "https://github.com/mvivarelli/shutter-on-wayland",
         "language": "perl",
+        "description": "",
         "notes": "downstream of [Shutter](https://shutter-project.org/) - written in Perl"
     },
     {
@@ -1637,6 +1850,7 @@
         "status": "needs work",
         "link": "https://github.com/Juve45/batstat",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1645,6 +1859,7 @@
         "status": "needs work",
         "link": "https://federicotorrielli.github.io/Daily-Reddit-Wallpaper/",
         "language": "",
+        "description": "",
         "notes": "Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup."
     },
     {
@@ -1653,6 +1868,7 @@
         "status": "needs work",
         "link": "https://github.com/matjam/smoothpaper",
         "language": "",
+        "description": "",
         "notes": "Smoothly transitioning wallpaper daemon for X11 Window Managers"
     },
     {
@@ -1661,6 +1877,7 @@
         "status": "needs work",
         "link": "https://github.com/hexive/sunpaper",
         "language": "shell",
+        "description": "",
         "notes": ""
     },
     {
@@ -1669,6 +1886,7 @@
         "status": "needs work",
         "link": "https://github.com/linuxdotexe/todowalp",
         "language": "",
+        "description": "",
         "notes": "!!!!!!!!!"
     },
     {
@@ -1677,6 +1895,7 @@
         "status": "needs work",
         "link": "https://github.com/kushall09/victorconky",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1685,6 +1904,7 @@
         "status": "needs work",
         "link": "https://sr.ht/~shunter/wayflan/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1693,6 +1913,7 @@
         "status": "needs work",
         "link": "https://github.com/Stevenic/codepilot",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1701,6 +1922,7 @@
         "status": "needs work",
         "link": "https://github.com/Stevenic/alphawave-py",
         "language": "",
+        "description": "",
         "notes": "and [promptrix](https://github.com/Stevenic/promptrix-py) -> see also ts versions"
     },
     {
@@ -1709,6 +1931,7 @@
         "status": "needs work",
         "link": "https://github.com/RecipeUI/RecipeUI",
         "language": "typescript",
+        "description": "",
         "notes": "archived"
     },
     {
@@ -1717,6 +1940,7 @@
         "status": "needs work",
         "link": "https://github.com/bokub/chalk-animation",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1725,6 +1949,7 @@
         "status": "needs work",
         "link": "https://github.com/christian-korneck/docker-pushrm",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1733,6 +1958,7 @@
         "status": "needs work",
         "link": "https://github.com/zestdocs/zest",
         "language": "",
+        "description": "",
         "notes": "unmaintained, but fork and update?"
     },
     {
@@ -1741,6 +1967,7 @@
         "status": "needs work",
         "link": "https://github.com/ml-tooling/ml-workspace",
         "language": "",
+        "description": "",
         "notes": "All-in-one web-based development environment for machine learning and data science. [ml-tooling/ml-workspace: |d83d|dee0 All-in-one web-based IDE specialized for machine learning and data science.](https://github.com/ml-tooling/ml-workspace) -> fork and update"
     },
     {
@@ -1749,6 +1976,7 @@
         "status": "needs work",
         "link": "https://qtconsole.readthedocs.io/en/stable/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1757,6 +1985,7 @@
         "status": "needs work",
         "link": "https://github.com/life4/chameleon",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1765,6 +1994,7 @@
         "status": "needs work",
         "link": "https://ghostwriter.kde.org/",
         "language": "",
+        "description": "",
         "notes": "A distraction-free Markdown editor for Windows and Linux."
     },
     {
@@ -1773,6 +2003,7 @@
         "status": "needs work",
         "link": "https://apps.gnome.org/Apostrophe/",
         "language": "python gnome",
+        "description": "",
         "notes": "needs shortcuts"
     },
     {
@@ -1781,6 +2012,7 @@
         "status": "needs work",
         "link": "https://github.com/fabiocolacio/Marker",
         "language": "",
+        "description": "",
         "notes": "Marker is a markdown editor for linux made with GTK+-3.0."
     },
     {
@@ -1789,6 +2021,7 @@
         "status": "needs work",
         "link": "https://github.com/marktext/marktext",
         "language": "",
+        "description": "",
         "notes": "-> advanced features, look at them and copy where possible - [marktext](https://itsfoss.com/marktext-editor/) -> [nvim-marktext](https://github.com/Iron-E/nvim-marktext)"
     },
     {
@@ -1797,6 +2030,7 @@
         "status": "needs work",
         "link": "https://panwriter.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1805,6 +2039,7 @@
         "status": "needs work",
         "link": "https://github.com/jamiemcg/Remarkable",
         "language": "",
+        "description": "",
         "notes": "A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM). - fork and update (call Markdawn? Markdon?)"
     },
     {
@@ -1813,6 +2048,7 @@
         "status": "needs work",
         "link": "https://github.com/retext-project/retext",
         "language": "",
+        "description": "",
         "notes": "A Simple but powerful editor for Markdown and reStructuredText."
     },
     {
@@ -1821,6 +2057,7 @@
         "status": "needs work",
         "link": "https://github.com/Zettlr/Zettlr",
         "language": "",
+        "description": "",
         "notes": "!!!!!!$ https://www.zettlr.com/ looks phenomenal"
     },
     {
@@ -1829,6 +2066,7 @@
         "status": "needs work",
         "link": "https://www.lyx.org/",
         "language": "",
+        "description": "",
         "notes": "Mature document editor that renders into LaTeX."
     },
     {
@@ -1837,6 +2075,7 @@
         "status": "needs work",
         "link": "http://www.xm1math.net/texmaker/",
         "language": "",
+        "description": "",
         "notes": "Free cross-platform LaTeX editor. [code](https://www.xm1math.net/texmaker/download.html)"
     },
     {
@@ -1845,6 +2084,7 @@
         "status": "needs work",
         "link": "https://github.com/TeXworks/texworks",
         "language": "",
+        "description": "",
         "notes": "[TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users."
     },
     {
@@ -1853,6 +2093,7 @@
         "status": "needs work",
         "link": "https://en.wikipedia.org/wiki/LyX ",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1861,6 +2102,7 @@
         "status": "needs work",
         "link": "https://github.com/iaacornus/simtex",
         "language": "",
+        "description": "",
         "notes": "simtex (simplified LaTeX) allows you to convert your markdown or text lectures into LaTeX file with one command, configured with simple .json file."
     },
     {
@@ -1869,6 +2111,7 @@
         "status": "needs work",
         "link": "https://www.texstudio.org",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1877,6 +2120,7 @@
         "status": "needs work",
         "link": "https://github.com/jpfairbanks/tlmgrlookup",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1885,6 +2129,7 @@
         "status": "needs work",
         "link": "https://github.com/sindresorhus/strip-css-comments-cli",
         "language": "",
+        "description": "",
         "notes": "Strip comments from CSS."
     },
     {
@@ -1893,6 +2138,7 @@
         "status": "needs work",
         "link": "https://github.com/charmparticle/xpe",
         "language": "",
+        "description": "",
         "notes": "A commandline xpath tool that is easy to use."
     },
     {
@@ -1901,6 +2147,7 @@
         "status": "needs work",
         "link": "https://github.com/jneen/balls",
         "language": "",
+        "description": "",
         "notes": "Bash on Balls"
     },
     {
@@ -1909,6 +2156,7 @@
         "status": "needs work",
         "link": "https://laurikari.net/tre/",
         "language": "c",
+        "description": "",
         "notes": "The free and portable approximate regex matching library."
     },
     {
@@ -1917,6 +2165,7 @@
         "status": "needs work",
         "link": "https://github.com/Gingeh/lust",
         "language": "",
+        "description": "",
         "notes": "A parser, compiler, and virtual machine evaluator for a minimal subset of Lua; written from scratch in Rust."
     },
     {
@@ -1925,6 +2174,7 @@
         "status": "needs work",
         "link": "https://github.com/httperf/httperf",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1933,6 +2183,7 @@
         "status": "needs work",
         "link": "https://github.com/alichtman/shallow-backup",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1941,6 +2192,7 @@
         "status": "needs work",
         "link": "https://github.com/nakabonne/pbgopy",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1949,6 +2201,7 @@
         "status": "needs work",
         "link": "https://github.com/nikvdp/pbproxy",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1957,6 +2210,7 @@
         "status": "needs work",
         "link": "https://sourceforge.net/projects/dfilemanager/",
         "language": "",
+        "description": "",
         "notes": "[probonopd/dfilemanager: File manager written in Qt/C++ for a Mac-like experience](https://github.com/probonopd/dfilemanager?tab%3Dreadme-ov-file)"
     },
     {
@@ -1965,6 +2219,7 @@
         "status": "needs work",
         "link": "https://github.com/pop-os/cosmic-files",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1973,6 +2228,7 @@
         "status": "needs work",
         "link": "https://github.com/Wervice/Codelink?tab=readme-ov-file#filetree",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1981,6 +2237,7 @@
         "status": "needs work",
         "link": "https://github.com/MartinThoma/flitz",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1989,6 +2246,7 @@
         "status": "needs work",
         "link": "https://github.com/kimlimjustin/xplorer",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1997,6 +2255,7 @@
         "status": "needs work",
         "link": "https://github.com/troykinsella/bacon",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2005,6 +2264,7 @@
         "status": "needs work",
         "link": "https://github.com/tinkershack/fluffy",
         "language": "c",
+        "description": "",
         "notes": ""
     },
     {
@@ -2013,6 +2273,7 @@
         "status": "needs work",
         "link": "https://github.com/alandipert/fswatch",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2021,6 +2282,7 @@
         "status": "needs work",
         "link": "https://github.com/tj/watch",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2029,6 +2291,7 @@
         "status": "needs work",
         "link": "https://github.com/sethigeet/watcher",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2037,6 +2300,7 @@
         "status": "needs work",
         "link": "https://github.com/kzys/wfh",
         "language": "",
+        "description": "",
         "notes": "!!!"
     },
     {
@@ -2045,6 +2309,7 @@
         "status": "needs work",
         "link": "https://github.com/sdushantha/qr-filetransfer",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2053,6 +2318,7 @@
         "status": "needs work",
         "link": "https://github.com/Akianonymus/gdrive-downloader",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2061,6 +2327,7 @@
         "status": "needs work",
         "link": "https://github.com/labbots/google-drive-upload",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2069,6 +2336,7 @@
         "status": "needs work",
         "link": "https://github.com/tremc/tremc",
         "language": "python",
+        "description": "",
         "notes": ""
     },
     {
@@ -2077,6 +2345,7 @@
         "status": "needs work",
         "link": "https://github.com/mafintosh/airpaste",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2085,6 +2354,7 @@
         "status": "needs work",
         "link": "https://nitroshare.net/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2093,6 +2363,7 @@
         "status": "needs work",
         "link": "https://github.com/marionebl/share-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2101,6 +2372,7 @@
         "status": "needs work",
         "link": "https://icecatbrowser.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2109,6 +2381,7 @@
         "status": "needs work",
         "link": "https://hacktivis.me/projects/badwolf",
         "language": "",
+        "description": "",
         "notes": "interesting and lightweight, but no vi mode"
     },
     {
@@ -2117,6 +2390,7 @@
         "status": "needs work",
         "link": "https://dillo-browser.github.io/",
         "language": "",
+        "description": "",
         "notes": "Extensible with plugins written in any language (see the list of plugins)."
     },
     {
@@ -2125,6 +2399,7 @@
         "status": "needs work",
         "link": "https://github.com/textbrowser/dooble",
         "language": "",
+        "description": "",
         "notes": "!!!"
     },
     {
@@ -2133,6 +2408,7 @@
         "status": "needs work",
         "link": "https://github.com/isovector/hskit",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2141,6 +2417,7 @@
         "status": "needs work",
         "link": "https://ladybird.dev/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2149,6 +2426,7 @@
         "status": "needs work",
         "link": "https://github.com/minbrowser/min",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2157,6 +2435,7 @@
         "status": "needs work",
         "link": "https://github.com/kattrali/webkitten",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2165,6 +2444,7 @@
         "status": "needs work",
         "link": "https://github.com/susumuota/nostr-keyx",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2173,6 +2453,7 @@
         "status": "needs work",
         "link": "https://github.com/no-venv/modded-darkreader",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2181,6 +2462,7 @@
         "status": "needs work",
         "link": "https://github.com/anoved/Columnate",
         "language": "",
+        "description": "",
         "notes": "!!!"
     },
     {
@@ -2189,6 +2471,7 @@
         "status": "needs work",
         "link": "https://github.com/Wervice/Codelink/blob/main/tin/tin.md",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2197,6 +2480,7 @@
         "status": "needs work",
         "link": "https://wyeb.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2205,6 +2489,7 @@
         "status": "needs work",
         "link": "https://github.com/srndpty/Change-Colors",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2213,6 +2498,7 @@
         "status": "needs work",
         "link": "https://github.com/Midnight-Lizard/Midnight-Lizard",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2221,6 +2507,7 @@
         "status": "needs work",
         "link": "https://github.com/numirias/paxmod",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2229,6 +2516,7 @@
         "status": "needs work",
         "link": "https://github.com/piroor/treestyletab",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2237,6 +2525,7 @@
         "status": "needs work",
         "link": "https://github.com/rokit/web-extension-color-changer",
         "language": "",
+        "description": "",
         "notes": "[chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp](https://chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp)"
     },
     {
@@ -2245,6 +2534,7 @@
         "status": "needs work",
         "link": "https://github.com/fathyb/carbonyl",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2253,6 +2543,7 @@
         "status": "needs work",
         "link": "https://github.com/doug-101/ConvertAll",
         "language": "",
+        "description": "",
         "notes": "[|d83d|dc49](http://convertall.bellz.org/) - A program that can convert many units of measurement to other units."
     },
     {
@@ -2261,6 +2552,7 @@
         "status": "needs work",
         "link": "https://github.com/gumbarros/DevWidgets",
         "language": "",
+        "description": "",
         "notes": "[|d83d|dc49](https://gumbarros.github.io/DevWidgets/#/home)"
     },
     {
@@ -2269,6 +2561,7 @@
         "status": "needs work",
         "link": "https://github.com/geogebra/geogebra",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2277,6 +2570,7 @@
         "status": "needs work",
         "link": "https://github.com/Qalculate/qalculate-qt",
         "language": "",
+        "description": "",
         "notes": "https://stackoverflow.com/questions/1675992/how-do-i-set-a-background-color-for-the-whole-window-of-a-qt-application"
     },
     {
@@ -2285,6 +2579,7 @@
         "status": "needs work",
         "link": "https://github.com/Qalculate/qalculate-gtk",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2293,7 +2588,17 @@
         "status": "needs work",
         "link": "https://github.com/samuelludwig/teapot",
         "language": "",
+        "description": "",
         "notes": "[NixOS/nixpkgs/issues/147213] [syntax-k.de/projekte/teapot/] https://github.com/NixOS/nixpkgs/issues/147213 https://www.syntax-k.de/projekte/teapot/ https://github.com/NixOS/nixpkgs/issues/147213)"
+    },
+    {
+        "category": "gui.editor",
+        "name": "ecode",
+        "status": "needs work",
+        "link": "https://github.com/SpartanJ/ecode",
+        "language": "",
+        "description": "",
+        "notes": "Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance."
     },
     {
         "category": "gui.finances",
@@ -2301,6 +2606,7 @@
         "status": "needs work",
         "link": "https://github.com/emavgl/oinkoin",
         "language": "",
+        "description": "",
         "notes": "Oinkoin is a flutter app for helping you managing your expenses. No internet required. -> currently only android"
     },
     {
@@ -2309,6 +2615,7 @@
         "status": "needs work",
         "link": "https://github.com/costales/anoise",
         "language": "",
+        "description": "",
         "notes": "An ambient noise generator for Linux."
     },
     {
@@ -2317,6 +2624,7 @@
         "status": "needs work",
         "link": "https://github.com/arvindch/pockyt",
         "language": "",
+        "description": "",
         "notes": "0_0"
     },
     {
@@ -2325,6 +2633,7 @@
         "status": "needs work",
         "link": "https://github.com/hugolabe/Wike",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2333,6 +2642,7 @@
         "status": "needs work",
         "link": "https://github.com/jeena/FeedTheMonkey",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2341,6 +2651,7 @@
         "status": "needs work",
         "link": "https://apps.gnome.org/app/com.gitlab.newsflash/",
         "language": "rust gtk",
+        "description": "",
         "notes": "needs keyboard shortcuts"
     },
     {
@@ -2349,6 +2660,7 @@
         "status": "needs work",
         "link": "https://github.com/keshavbhatt/glate",
         "language": "",
+        "description": "",
         "notes": "translator and TTS"
     },
     {
@@ -2357,6 +2669,7 @@
         "status": "needs work",
         "link": "https://github.com/tizonia/tizonia-openmax-il",
         "language": "",
+        "description": "",
         "notes": "Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices."
     },
     {
@@ -2365,6 +2678,7 @@
         "status": "needs work",
         "link": "https://gitlab.gnome.org/neithern/g4music",
         "language": "",
+        "description": "",
         "notes": "A fast, fluent, light weight music player written in GTK4. !!! just needs keyboard shortcuts"
     },
     {
@@ -2373,6 +2687,7 @@
         "status": "needs work",
         "link": "https://github.com/sdushantha/kunst",
         "language": "",
+        "description": "",
         "notes": "rewrite for wayland (wayland stack dependencies)"
     },
     {
@@ -2381,6 +2696,7 @@
         "status": "needs work",
         "link": "https://github.com/jarcode-foss/glava",
         "language": "",
+        "description": "",
         "notes": "OpenGL audio spectrum visualizer - also X11"
     },
     {
@@ -2389,6 +2705,7 @@
         "status": "needs work",
         "link": "https://github.com/peterlevi/ojo",
         "language": "",
+        "description": "",
         "notes": "A fast and pretty image viewer - exif is great; just need to vimify the keybinds and make sure color theming is good"
     },
     {
@@ -2397,6 +2714,7 @@
         "status": "needs work",
         "link": "https://github.com/jurplel/qView",
         "language": "",
+        "description": "",
         "notes": "Practical and minimal image viewer !!! - looks great, just needs the Oryzotropheo treatment"
     },
     {
@@ -2405,6 +2723,7 @@
         "status": "needs work",
         "link": "https://github.com/easymodo/qimgv",
         "language": "",
+        "description": "",
         "notes": "!!! - figure out how exactly config works and make it perfect"
     },
     {
@@ -2413,6 +2732,7 @@
         "status": "needs work",
         "link": "https://github.com/keshavbhatt/lyricpad",
         "language": "",
+        "description": "",
         "notes": "lyrics from the web"
     },
     {
@@ -2421,6 +2741,7 @@
         "status": "needs work",
         "link": "https://github.com/Maato/volumeicon",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2429,6 +2750,7 @@
         "status": "needs work",
         "link": "https://github.com/aaaaaaaalex/mediactl",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects"
     },
     {
@@ -2437,6 +2759,7 @@
         "status": "needs work",
         "link": "https://lettier.github.io/movie-monad",
         "language": "",
+        "description": "",
         "notes": "A free and simple to use video player made with Haskell [movie-monad](https://github.com/lettier/movie-monad)"
     },
     {
@@ -2445,6 +2768,7 @@
         "status": "needs work",
         "link": "https://github.com/posva/catimg",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2453,6 +2777,7 @@
         "status": "needs work",
         "link": "https://github.com/cacalabs/libcaca",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects - A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters."
     },
     {
@@ -2461,6 +2786,7 @@
         "status": "needs work",
         "link": "https://github.com/radare/tiv",
         "language": "",
+        "description": "",
         "notes": "add to RosettaProjects (ideal for it) - [site](https://github.com/radare/tiv)"
     },
     {
@@ -2469,6 +2795,7 @@
         "status": "needs work",
         "link": "https://github.com/FreeTubeApp/FreeTube",
         "language": "",
+        "description": "",
         "notes": "->[FreeTube/issues/1864] -> https://github.com/FreeTubeApp/FreeTube/issues/1864 https://github.com/FreeTubeApp/FreeTube/issues/1864 https://docs.freetubeapp.io/usage/keyboard-shortcuts/) -> need to get working on hyprland"
     },
     {
@@ -2477,6 +2804,7 @@
         "status": "needs work",
         "link": "https://apps.kde.org/plasmatube/",
         "language": "",
+        "description": "",
         "notes": "Kirigami-based YouTube client for Linux Desktop and Mobile with built-in ad-blocking and privacy features. -> server issues; apparently some work needed to get working on NixOS - [plasmatube](https://invent.kde.org/multimedia/plasmatube)"
     },
     {
@@ -2485,6 +2813,7 @@
         "status": "needs work",
         "link": "https://github.com/flaviotordini/minitube",
         "language": "",
+        "description": "",
         "notes": "youtube client, quite a nice app; needs themeability work"
     },
     {
@@ -2493,6 +2822,7 @@
         "status": "needs work",
         "link": "https://kaku.rocks/",
         "language": "",
+        "description": "",
         "notes": "An open source youtube music player for Ubuntu. - not in nixpkgs"
     },
     {
@@ -2501,6 +2831,7 @@
         "status": "needs work",
         "link": "https://github.com/aayush1205/muCLIar",
         "language": "",
+        "description": "",
         "notes": "YouTube automator bringing you your music right on your CLI. - YouTube in CLI via Selenium and Chromedriver"
     },
     {
@@ -2509,6 +2840,7 @@
         "status": "needs work",
         "link": "https://github.com/th-ch/youtube-music",
         "language": "",
+        "description": "",
         "notes": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) -> need to fix Electron issues"
     },
     {
@@ -2517,6 +2849,7 @@
         "status": "needs work",
         "link": "https://github.com/pseudoroot/yt-audio",
         "language": "",
+        "description": "",
         "notes": "A simple, configurable youtube-dl wrapper to download and manage youtube audio. [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites."
     },
     {
@@ -2525,6 +2858,7 @@
         "status": "needs work",
         "link": "https://github.com/woefe/ytcc",
         "language": "",
+        "description": "",
         "notes": "Command line tool to keep track of your favorite playlists on YouTube and many other places"
     },
     {
@@ -2533,6 +2867,7 @@
         "status": "needs work",
         "link": "https://github.com/cybardev/ytpy",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2541,6 +2876,7 @@
         "status": "needs work",
         "link": "https://aewan.sourceforge.net/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2549,6 +2885,7 @@
         "status": "needs work",
         "link": "https://github.com/akirbaes/asciieditor",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2557,6 +2894,7 @@
         "status": "needs work",
         "link": "https://pipewire.org/",
         "language": "",
+        "description": "",
         "notes": "PipeWire is a project that aims to greatly improve handling of audio and video under Linux. [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide)"
     },
     {
@@ -2565,6 +2903,7 @@
         "status": "needs work",
         "link": "https://github.com/keshavbhatt/moviesquare",
         "language": "",
+        "description": "",
         "notes": "tmdb frontend"
     },
     {
@@ -2573,6 +2912,7 @@
         "status": "needs work",
         "link": "https://github.com/freeplane/freeplane",
         "language": "",
+        "description": "",
         "notes": "[docs.freeplane.org/](https://docs.freeplane.org/) !!!"
     },
     {
@@ -2581,6 +2921,7 @@
         "status": "needs work",
         "link": "https://github.com/juzzlin/Heimer",
         "language": "",
+        "description": "",
         "notes": "!!!"
     },
     {
@@ -2589,6 +2930,7 @@
         "status": "needs work",
         "link": "https://github.com/insilmaril/vym",
         "language": "",
+        "description": "",
         "notes": "!!!"
     },
     {
@@ -2597,6 +2939,7 @@
         "status": "needs work",
         "link": "https://github.com/passy/givegif",
         "language": "",
+        "description": "",
         "notes": "GIFs on the command line - in Haskell!"
     },
     {
@@ -2605,6 +2948,7 @@
         "status": "needs work",
         "link": "https://github.com/icholy/ttygif",
         "language": "",
+        "description": "",
         "notes": "Convert terminal recordings to animated gifs."
     },
     {
@@ -2613,6 +2957,7 @@
         "status": "needs work",
         "link": "https://github.com/chjj/ttystudio",
         "language": "",
+        "description": "",
         "notes": "A terminal-to-gif recorder minus the headaches."
     },
     {
@@ -2621,6 +2966,7 @@
         "status": "needs work",
         "link": "https://trimage.org/",
         "language": "",
+        "description": "",
         "notes": "A cross-platform tool for losslessly optimizing PNG and JPG files."
     },
     {
@@ -2629,6 +2975,7 @@
         "status": "needs work",
         "link": "https://github.com/oguzhaninan/korkut",
         "language": "",
+        "description": "",
         "notes": "Quick and simple image processing."
     },
     {
@@ -2637,6 +2984,7 @@
         "status": "needs work",
         "link": "https://github.com/weaming/md2png",
         "language": "",
+        "description": "",
         "notes": "Convert markdown to PNG image"
     },
     {
@@ -2645,6 +2993,7 @@
         "status": "needs work",
         "link": "https://github.com/lxfater/inpaint-web",
         "language": "",
+        "description": "",
         "notes": "active development; cool project"
     },
     {
@@ -2653,6 +3002,7 @@
         "status": "needs work",
         "link": "https://github.com/scantailor/scantailor",
         "language": "",
+        "description": "",
         "notes": "Scan Tailor is an interactive post-processing tool for scanned pages. For a tutorial on how to use it, consult its [User Guide](https://github.com/scantailor/scantailor/wiki/User-Guide)."
     },
     {
@@ -2661,6 +3011,7 @@
         "status": "needs work",
         "link": "https://github.com/scour-project/scour",
         "language": "",
+        "description": "",
         "notes": "An SVG Optimizer / Cleaner"
     },
     {
@@ -2669,6 +3020,7 @@
         "status": "needs work",
         "link": "https://github.com/RazrFalcon/svgcleaner",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2677,6 +3029,7 @@
         "status": "needs work",
         "link": "https://github.com/firatkiral/pypeek",
         "language": "",
+        "description": "",
         "notes": "-> help for Wayland support"
     },
     {
@@ -2685,6 +3038,7 @@
         "status": "needs work",
         "link": "https://github.com/cytopia/ffscreencast",
         "language": "",
+        "description": "",
         "notes": "A ffmpeg screencast with video overlay and multi monitor support."
     },
     {
@@ -2693,6 +3047,7 @@
         "status": "needs work",
         "link": "https://menyoki.cli.rs/",
         "language": "",
+        "description": "",
         "notes": "Screen{shot,cast} and perform ImageOps on the command line."
     },
     {
@@ -2701,6 +3056,7 @@
         "status": "needs work",
         "link": "https://github.com/sindresorhus/pageres-cli",
         "language": "",
+        "description": "",
         "notes": "Capture website screenshots."
     },
     {
@@ -2709,6 +3065,7 @@
         "status": "needs work",
         "link": "https://github.com/ebruck/radiotray-ng",
         "language": "",
+        "description": "",
         "notes": "An Internet radio player for Linux. -> integrate with ags/eww/etc"
     },
     {
@@ -2717,6 +3074,7 @@
         "status": "needs work",
         "link": "https://github.com/rockymadden/somafm-cli",
         "language": "",
+        "description": "",
         "notes": "Listen to SomaFM in your terminal. - old, but SomaFM is interesting"
     },
     {
@@ -2725,6 +3083,7 @@
         "status": "needs work",
         "link": "https://www.getmiro.com/",
         "language": "",
+        "description": "",
         "notes": "Free, and open video, music and internet TV application; it brings video channels from thousands of sources and has more free HD than any other platform."
     },
     {
@@ -2733,6 +3092,7 @@
         "status": "needs work",
         "link": "http://danielchoi.com/software/vmail.html",
         "language": "",
+        "description": "",
         "notes": "Vim-like Gmail client."
     },
     {
@@ -2741,6 +3101,7 @@
         "status": "needs work",
         "link": "https://github.com/gburd/isync",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2749,6 +3110,7 @@
         "status": "needs work",
         "link": "https://github.com/sdushantha/tmpmail",
         "language": "",
+        "description": "",
         "notes": "A temporary email right from your terminal written in POSIX sh."
     },
     {
@@ -2757,6 +3119,7 @@
         "status": "needs work",
         "link": "https://launchpad.net/~pulb/+archive/ubuntu/mailnag",
         "language": "",
+        "description": "",
         "notes": "Mailnag is a daemon program that checks POP3 and IMAP servers for new mail."
     },
     {
@@ -2765,6 +3128,7 @@
         "status": "needs work",
         "link": "https://github.com/toolleeo/pymailgen",
         "language": "",
+        "description": "",
         "notes": "Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client."
     },
     {
@@ -2773,6 +3137,7 @@
         "status": "needs work",
         "link": "https://github.com/LemmurOrg/lemmur",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2781,6 +3146,7 @@
         "status": "needs work",
         "link": "https://github.com/Alex-Rose/fb-messenger-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2789,6 +3155,7 @@
         "status": "needs work",
         "link": "https://github.com/AstroCB/Messenger-CLI",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2797,6 +3164,7 @@
         "status": "needs work",
         "link": "https://github.com/WinterSunset95/WhatsGo",
         "language": "",
+        "description": "",
         "notes": "whatsapp CLI"
     },
     {
@@ -2805,6 +3173,7 @@
         "status": "needs work",
         "link": "https://github.com/tanrax/terminal-AdvancedNewFile",
         "language": "",
+        "description": "",
         "notes": "add Poetry, or port to native-compilable language"
     },
     {
@@ -2813,6 +3182,7 @@
         "status": "needs work",
         "link": "https://github.com/aweary/alder",
         "language": "",
+        "description": "",
         "notes": "(JS) - update, make TypeScript, compile to native?"
     },
     {
@@ -2821,6 +3191,7 @@
         "status": "needs work",
         "link": "https://github.com/wting/autojump",
         "language": "",
+        "description": "",
         "notes": "update & enhance; maybe compile with mypyc?"
     },
     {
@@ -2829,6 +3200,7 @@
         "status": "needs work",
         "link": "https://github.com/bhrigu123/classifier",
         "language": "",
+        "description": "",
         "notes": "fork and update both (JS and Python)"
     },
     {
@@ -2837,6 +3209,7 @@
         "status": "needs work",
         "link": "https://github.com/Lilja/cli-info",
         "language": "",
+        "description": "",
         "notes": "make native & more easily Nix-compatible"
     },
     {
@@ -2845,6 +3218,7 @@
         "status": "needs work",
         "link": "[colorls](https://github.com/athityakumar/colorls",
         "language": "",
+        "description": "",
         "notes": ") - port to Crystal?"
     },
     {
@@ -2853,6 +3227,7 @@
         "status": "needs work",
         "link": "https://github.com/AfzGit/dext",
         "language": "",
+        "description": "",
         "notes": "install as a simple script"
     },
     {
@@ -2861,6 +3236,7 @@
         "status": "needs work",
         "link": "https://domterm.org/index.html",
         "language": "",
+        "description": "",
         "notes": "just try out to see if it is at all usable"
     },
     {
@@ -2869,6 +3245,7 @@
         "status": "needs work",
         "link": "https://github.com/sindresorhus/file-type-cli",
         "language": "",
+        "description": "",
         "notes": "update and compile to native / port to another language"
     },
     {
@@ -2877,6 +3254,7 @@
         "status": "needs work",
         "link": "https://github.com/sindresorhus/find-up-cli",
         "language": "",
+        "description": "",
         "notes": "update and nativify"
     },
     {
@@ -2885,6 +3263,7 @@
         "status": "needs work",
         "link": "https://github.com/xflux-gui/fluxgui",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2893,6 +3272,7 @@
         "status": "needs work",
         "link": "https://github.com/sjl/friendly-find",
         "language": "",
+        "description": "",
         "notes": "fork, update, poetrify, and modify"
     },
     {
@@ -2901,6 +3281,7 @@
         "status": "needs work",
         "link": "https://github.com/aelafifi/gcp",
         "language": "",
+        "description": "",
         "notes": "maybe update and extend"
     },
     {
@@ -2909,6 +3290,7 @@
         "status": "needs work",
         "link": "https://github.com/garabik/grc",
         "language": "",
+        "description": "",
         "notes": "update and maybe compile with mypyc"
     },
     {
@@ -2917,6 +3299,7 @@
         "status": "needs work",
         "link": "https://github.com/gholmes829/Jmp",
         "language": "",
+        "description": "",
         "notes": "update & enhance; maybe compile with mypyc?"
     },
     {
@@ -2925,6 +3308,7 @@
         "status": "needs work",
         "link": "https://github.com/laurikari/tre/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2933,6 +3317,7 @@
         "status": "needs work",
         "link": "https://github.com/dborzov/lsp",
         "language": "",
+        "description": "",
         "notes": "nice interface; may be worth forking and updating"
     },
     {
@@ -2941,6 +3326,7 @@
         "status": "needs work",
         "link": "https://github.com/robolab-pavia/mdt",
         "language": "",
+        "description": "",
         "notes": "see if this is worth updating and modifying"
     },
     {
@@ -2949,6 +3335,7 @@
         "status": "needs work",
         "link": "https://github.com/zpm-zsh/mysql-colorize",
         "language": "",
+        "description": "",
         "notes": "I don't care about MySQL, but this is a nice aesthetic -> adapt for output in general"
     },
     {
@@ -2957,6 +3344,7 @@
         "status": "needs work",
         "link": "https://github.com/jhotmann/node-rename-cli",
         "language": "",
+        "description": "",
         "notes": "looks great, but needs to be updated"
     },
     {
@@ -2965,6 +3353,7 @@
         "status": "needs work",
         "link": "https://github.com/yaa110/nomino",
         "language": "",
+        "description": "",
         "notes": "improve tables with unicode characters"
     },
     {
@@ -2973,6 +3362,7 @@
         "status": "needs work",
         "link": "https://github.com/ManrajGrover/organize-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -2981,6 +3371,7 @@
         "status": "needs work",
         "link": "https://github.com/keenerd/pacgraph",
         "language": "",
+        "description": "",
         "notes": "port for Nix !!!"
     },
     {
@@ -2989,6 +3380,7 @@
         "status": "needs work",
         "link": "https://github.com/mooz/percol",
         "language": "",
+        "description": "",
         "notes": "update"
     },
     {
@@ -2997,6 +3389,7 @@
         "status": "needs work",
         "link": "https://github.com/anirudhajith/process-wallpaper",
         "language": "",
+        "description": "",
         "notes": "update and modify, add to crontab using Nix"
     },
     {
@@ -3005,6 +3398,7 @@
         "status": "needs work",
         "link": "https://github.com/cal2195/q",
         "language": "",
+        "description": "",
         "notes": "update and maybe port to a new language"
     },
     {
@@ -3013,6 +3407,7 @@
         "status": "needs work",
         "link": "https://github.com/raine/ramda-cli",
         "language": "",
+        "description": "",
         "notes": "update?"
     },
     {
@@ -3021,6 +3416,7 @@
         "status": "needs work",
         "link": "https://github.com/ericfreese/rat",
         "language": "",
+        "description": "",
         "notes": "Compose shell commands to build interactive terminal applications"
     },
     {
@@ -3029,6 +3425,7 @@
         "status": "needs work",
         "link": "https://github.com/jlevy/repren",
         "language": "",
+        "description": "",
         "notes": "update and poetrify"
     },
     {
@@ -3037,6 +3434,7 @@
         "status": "needs work",
         "link": "https://github.com/pawamoy/shell-history",
         "language": "",
+        "description": "",
         "notes": "fork, update, and package"
     },
     {
@@ -3045,6 +3443,7 @@
         "status": "needs work",
         "link": "https://github.com/TabViewer/tabview",
         "language": "",
+        "description": "",
         "notes": "Python curses command line CSV and tabular data viewer."
     },
     {
@@ -3053,6 +3452,7 @@
         "status": "needs work",
         "link": "https://github.com/breuleux/terminus",
         "language": "",
+        "description": "",
         "notes": "revive and update (port to TypeScript?)"
     },
     {
@@ -3061,6 +3461,7 @@
         "status": "needs work",
         "link": "https://github.com/xtyrrell/undollar",
         "language": "",
+        "description": "",
         "notes": "undollar bites the dollar sign off the tip of the command you just pasted into your terminal"
     },
     {
@@ -3069,6 +3470,7 @@
         "status": "needs work",
         "link": "https://github.com/akavel/up",
         "language": "",
+        "description": "",
         "notes": "(golang) - update"
     },
     {
@@ -3077,6 +3479,7 @@
         "status": "needs work",
         "link": "https://github.com/lukeingalls/vim-notion",
         "language": "",
+        "description": "",
         "notes": "([see also](https://www.notion.so/help/keyboard-shortcuts))"
     },
     {
@@ -3085,6 +3488,7 @@
         "status": "needs work",
         "link": "https://briancaffey.github.io/2017/10/31/a-binary-clock-written-in-bash.html/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3093,6 +3497,7 @@
         "status": "needs work",
         "link": "https://github.com/teegre/binclock-6bits",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3101,6 +3506,7 @@
         "status": "needs work",
         "link": "https://github.com/nbyouri/cliclock",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3109,6 +3515,7 @@
         "status": "needs work",
         "link": "https://github.com/xorg62/tty-clock",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3117,6 +3524,7 @@
         "status": "needs work",
         "link": "https://launchpad.net/grub-customizer",
         "language": "",
+        "description": "",
         "notes": "Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [tutorial](https://www.linuxfordevices.com/tutorials/linux/grub-customizer-tutorial)"
     },
     {
@@ -3125,6 +3533,7 @@
         "status": "needs work",
         "link": "https://github.com/OzymandiasTheGreat/emoji-keyboard",
         "language": "",
+        "description": "",
         "notes": "Virtual keyboard-like emoji picker for Linux."
     },
     {
@@ -3133,6 +3542,7 @@
         "status": "needs work",
         "link": "https://git.zx2c4.com/password-store/",
         "language": "",
+        "description": "",
         "notes": "worth reading (frontend [cpass](https://github.com/xlucn/cpass), tool [passfzf](https://git.sr.ht/~mlaparie/passfzf)) "
     },
     {
@@ -3141,6 +3551,7 @@
         "status": "needs work",
         "link": "https://github.com/nachoparker/dutree",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3149,6 +3560,7 @@
         "status": "needs work",
         "link": "https://github.com/bexxmodd/vizex",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3157,6 +3569,7 @@
         "status": "needs work",
         "link": "https://github.com/OCamlPro/dirdiff",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3165,6 +3578,7 @@
         "status": "needs work",
         "link": "https://github.com/sindresorhus/leven-cli",
         "language": "",
+        "description": "",
         "notes": "Measure the difference between two strings using the Levenshtein distance algorithm. - look at the code, look for alternatives (JavaScript)"
     },
     {
@@ -3173,6 +3587,7 @@
         "status": "needs work",
         "link": "https://github.com/JetpackDuba/Gitnuro",
         "language": "kotlin",
+        "description": "",
         "notes": "need to fix jvm/opengl-related error on nixos"
     },
     {
@@ -3181,6 +3596,7 @@
         "status": "needs work",
         "link": "https://git.sr.ht/~misterio/scgit",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3189,6 +3605,7 @@
         "status": "needs work",
         "link": "https://hackage.haskell.org/package/git-vogue",
         "language": "haskell",
+        "description": "",
         "notes": ""
     },
     {
@@ -3197,6 +3614,7 @@
         "status": "needs work",
         "link": "https://github.com/samverschueren/dev-time-cli",
         "language": "",
+        "description": "",
         "notes": "Get the current local time of a GitHub user."
     },
     {
@@ -3205,6 +3623,7 @@
         "status": "needs work",
         "link": "https://github.com/michaelklishin/git-wtf",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3213,6 +3632,7 @@
         "status": "needs work",
         "link": "https://github.com/Byron/gitoxide",
         "language": "",
+        "description": "",
         "notes": "-> see video series"
     },
     {
@@ -3221,6 +3641,7 @@
         "status": "needs work",
         "link": "https://github.com/rgburke/grv | https://github.com/justinian/grv",
         "language": "",
+        "description": "",
         "notes": "Text-mode interface for git with customisable vi bindings. current fork [grv](https://github.com/justinian/grv)- looks good, but a bit dormant"
     },
     {
@@ -3229,6 +3650,7 @@
         "status": "needs work",
         "link": "https://github.com/IonicaBizau/ghcal",
         "language": "",
+        "description": "",
         "notes": "nice GH calendar -> hack and inmprove; good JS exercise for me"
     },
     {
@@ -3237,6 +3659,7 @@
         "status": "needs work",
         "link": "https://github.com/glenreesor/gitsummary",
         "language": "",
+        "description": "",
         "notes": "A better git status that lists stashes, file statuses, branch list, all nicely formatted with color. !!!"
     },
     {
@@ -3245,6 +3668,7 @@
         "status": "needs work",
         "link": "https://github.com/s-p-k/foxy",
         "language": "",
+        "description": "",
         "notes": "Plain text bookmarks for Firefox and surf browsers. -> make for qb?"
     },
     {
@@ -3253,6 +3677,7 @@
         "status": "needs work",
         "link": "https://github.com/sananth12/ImageScraper",
         "language": "",
+        "description": "",
         "notes": "A cool command line image scraper with a lot of features."
     },
     {
@@ -3261,6 +3686,7 @@
         "status": "needs work",
         "link": "https://github.com/xxczaki/nasa-cli",
         "language": "",
+        "description": "",
         "notes": "Download NASA Picture of the Day."
     },
     {
@@ -3269,6 +3695,7 @@
         "status": "needs work",
         "link": "https://github.com/sdelements/lets-chat",
         "language": "",
+        "description": "",
         "notes": "Self-hosted chat app for small teams"
     },
     {
@@ -3277,6 +3704,7 @@
         "status": "needs work",
         "link": "https://github.com/TheGoddessInari/hamsket",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3285,6 +3713,7 @@
         "status": "needs work",
         "link": "https://github.com/yfiton/yfiton",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3293,6 +3722,7 @@
         "status": "needs work",
         "link": "https://github.com/sindresorhus/get-port-cli",
         "language": "",
+        "description": "",
         "notes": "Get an available port."
     },
     {
@@ -3301,6 +3731,7 @@
         "status": "needs work",
         "link": "https://github.com/vesche/histstat",
         "language": "",
+        "description": "",
         "notes": "History for netstat"
     },
     {
@@ -3309,6 +3740,7 @@
         "status": "needs work",
         "link": "https://github.com/wuchihsu/go-ssh-web-client",
         "language": "",
+        "description": "",
         "notes": ": A simple SSH web client using Go, WebSocket and Xterm.js."
     },
     {
@@ -3317,6 +3749,7 @@
         "status": "needs work",
         "link": "https://github.com/stuicey/SSHy",
         "language": "",
+        "description": "",
         "notes": ": HTML5 Based SSHv2 Web Client with E2E encryption utilising xterm.js, SJCL & websockets. - old and unmaintained"
     },
     {
@@ -3325,6 +3758,7 @@
         "status": "needs work",
         "link": "https://github.com/cs01/termpair",
         "language": "",
+        "description": "",
         "notes": ": View and control terminals from your browser with end-to-end encryption"
     },
     {
@@ -3333,6 +3767,7 @@
         "status": "needs work",
         "link": "https://github.com/billchurch/WebSSH2",
         "language": "",
+        "description": "",
         "notes": ": A web based SSH2 client using xterm.js, socket.io, and ssh2. "
     },
     {
@@ -3341,6 +3776,7 @@
         "status": "needs work",
         "link": "https://github.com/sintaxi/surge",
         "language": "",
+        "description": "",
         "notes": "Static web publishing on surge.sh CDN."
     },
     {
@@ -3349,6 +3785,7 @@
         "status": "needs work",
         "link": "https://github.com/smallhadroncollider/brok",
         "language": "haskell",
+        "description": "",
         "notes": "Find broken links in text documents."
     },
     {
@@ -3357,6 +3794,7 @@
         "status": "needs work",
         "link": "https://github.com/beatfreaker/is-reachable-cli",
         "language": "",
+        "description": "",
         "notes": "Check if hostnames are reachable or not."
     },
     {
@@ -3365,6 +3803,7 @@
         "status": "needs work",
         "link": "https://github.com/sindresorhus/is-up-cli",
         "language": "",
+        "description": "",
         "notes": "Check if a domain is up."
     },
     {
@@ -3373,6 +3812,7 @@
         "status": "needs work",
         "link": "https://github.com/lord63/isitup",
         "language": "",
+        "description": "",
         "notes": "Check whether a website is up or down"
     },
     {
@@ -3381,6 +3821,7 @@
         "status": "needs work",
         "link": "https://github.com/Openwords",
         "language": "",
+        "description": "",
         "notes": "still need to contribute"
     },
     {
@@ -3389,6 +3830,7 @@
         "status": "needs work",
         "link": "https://github.com/cloverleaf/cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3397,6 +3839,7 @@
         "status": "needs work",
         "link": "https://github.com/mathix420/free-the-web-apps",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3405,6 +3848,7 @@
         "status": "needs work",
         "link": "https://github.com/diit/overtime-cli",
         "language": "",
+        "description": "",
         "notes": "Time-overlap tables for remote teams."
     },
     {
@@ -3413,6 +3857,7 @@
         "status": "needs work",
         "link": "https://github.com/madlabsinc/teachcode",
         "language": "",
+        "description": "",
         "notes": "use to teach coding -> browser-only option? such as replit, or xterm.js"
     },
     {
@@ -3421,6 +3866,7 @@
         "status": "needs work",
         "link": "https://github.com/mingrammer/awesome-finder",
         "language": "",
+        "description": "",
         "notes": "Search the awesome lists from the command line."
     },
     {
@@ -3429,6 +3875,7 @@
         "status": "needs work",
         "link": "https://github.com/Astranno/googlr",
         "language": "swift",
+        "description": "",
         "notes": "Command line tool that lets you search Google from your terminal."
     },
     {
@@ -3437,6 +3884,7 @@
         "status": "needs work",
         "link": "https://wang-lu.com/vim.js/emterpreter/vim.html",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -3445,6 +3893,7 @@
         "status": "needs work",
         "link": "https://github.com/rhysd/vim.wasm",
         "language": "",
+        "description": "",
         "notes": ""
     }
 ]

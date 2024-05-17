@@ -3,6 +3,7 @@
 ## Reference
 
 * [kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html)
+* [memory management](https://www.memorymanagement.org/)
 
 ## To Sort
 

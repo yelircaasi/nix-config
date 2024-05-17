@@ -5,6 +5,7 @@
         "status": "added",
         "link": "https://neovim.io/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -13,6 +14,7 @@
         "status": "added",
         "link": "https://github.com/starship/starship",
         "language": "",
+        "description": "",
         "notes": "-> [A Powerline configuration for Starship.rs](https://gist.github.com/notheotherben/92302a60f8599ba73f1c2840f3c6d455) "
     },
     {
@@ -21,6 +23,7 @@
         "status": "added",
         "link": "https://github.com/wez/wezterm",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -29,6 +32,7 @@
         "status": "added",
         "link": "https://github.com/wtfutil/wtf",
         "language": "",
+        "description": "",
         "notes": "personal information dashboard for the terminal !!!"
     },
     {
@@ -37,6 +41,7 @@
         "status": "added",
         "link": "https://github.com/jarun/bcal",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -45,6 +50,7 @@
         "status": "added",
         "link": "https://github.com/mellowcandle/bitwise",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -53,6 +59,7 @@
         "status": "added",
         "link": "https://github.com/hroptatyr/dateutils",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -61,6 +68,7 @@
         "status": "added",
         "link": "https://github.com/guoxbin/dtool",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -69,6 +77,7 @@
         "status": "added",
         "link": "https://github.com/nerdypepper/eva",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -77,6 +86,7 @@
         "status": "added",
         "link": "https://kalker.xyz/",
         "language": "rust",
+        "description": "",
         "notes": ""
     },
     {
@@ -85,6 +95,7 @@
         "status": "added",
         "link": "https://github.com/Qalculate/libqalculate",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -93,6 +104,7 @@
         "status": "added",
         "link": "https://github.com/alt-romes/programmer-calculator",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -101,6 +113,7 @@
         "status": "added",
         "link": "https://github.com/andmarti1424/sc-im",
         "language": "",
+        "description": "",
         "notes": "[andmarti1424/sc-im: sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)"
     },
     {
@@ -109,6 +122,7 @@
         "status": "added",
         "link": "https://github.com/alexhallam/tv",
         "language": "",
+        "description": "",
         "notes": "Cross-platform CSV pretty printer made to maximize viewer enjoyment."
     },
     {
@@ -117,6 +131,7 @@
         "status": "added",
         "link": "https://manpage.me/?q=units",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -125,6 +140,7 @@
         "status": "added",
         "link": "https://github.com/Canop/backdown",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -133,6 +149,7 @@
         "status": "added",
         "link": "https://github.com/pkolaczk/fclones",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -141,6 +158,7 @@
         "status": "added",
         "link": "https://0xacab.org/jvoisin/mat2",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -149,6 +167,7 @@
         "status": "added",
         "link": "https://rmlint.readthedocs.io/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -157,6 +176,7 @@
         "status": "added",
         "link": "https://github.com/brandt/symlinks",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -165,6 +185,7 @@
         "status": "added",
         "link": "https://tmsu.org/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -173,6 +194,7 @@
         "status": "added",
         "link": "https://github.com/wtfutil/wtf",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -181,6 +203,7 @@
         "status": "added",
         "link": "https://www.mongodb.com/try/download/shell",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -189,6 +212,7 @@
         "status": "added",
         "link": "https://github.com/dbcli/pgcli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -197,6 +221,7 @@
         "status": "added",
         "link": "https://github.com/audreyr/cookiecutter",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -205,6 +230,7 @@
         "status": "added",
         "link": "https://github.com/nix-community/home-manager",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -213,6 +239,7 @@
         "status": "added",
         "link": "https://github.com/jarun/nnn",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -221,6 +248,7 @@
         "status": "added",
         "link": "https://github.com/sayanarijit/xplr",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -229,6 +257,7 @@
         "status": "added",
         "link": "https://github.com/sxyazi/yazi",
         "language": "",
+        "description": "",
         "notes": "[yazi-rs.github](https://yazi-rs.github.io/)"
     },
     {
@@ -237,6 +266,7 @@
         "status": "added",
         "link": "https://github.com/nvbn/thefuck",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -245,6 +275,7 @@
         "status": "added",
         "link": "https://github.com/thebjorn/pydeps",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -253,6 +284,7 @@
         "status": "added",
         "link": "https://github.com/uutils/coreutils",
         "language": "",
+        "description": "",
         "notes": "-> read as an example of good Rust code -> RosettaCode"
     },
     {
@@ -261,6 +293,7 @@
         "status": "added",
         "link": "https://github.com/Alexays/Waybar",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -269,6 +302,7 @@
         "status": "added",
         "link": "https://hyprland.org/",
         "language": "",
+        "description": "",
         "notes": "[awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. [So you want to learn hyprland? LONG VERSION... install and m0re.](https://www.youtube.com/watch?v=iE99GrcZzhs) -> [Never knew Hyprland had different animations than the default!] Monitors Hyprland Wiki https://www.youtube.com/watch?v=UOniMj7bkh4 https://wiki.hyprland.org/Configuring/Monitors/"
     },
     {
@@ -277,6 +311,7 @@
         "status": "added",
         "link": "https://codeberg.org/dnkl/fuzzel",
         "language": "",
+        "description": "",
         "notes": "rofi for wayland"
     },
     {
@@ -285,6 +320,7 @@
         "status": "added",
         "link": "https://github.com/ArtsyMacaw/wlogout",
         "language": "",
+        "description": "",
         "notes": "[wlogout/blob/master/layout](https://github.com/ArtsyMacaw/wlogout/blob/master/layout)"
     },
     {
@@ -293,6 +329,7 @@
         "status": "added",
         "link": "https://github.com/hyprwm/Hyprland",
         "language": "",
+        "description": "",
         "notes": "nvidia info [here](https://wiki.hyprland.org/Nvidia/) "
     },
     {
@@ -301,6 +338,7 @@
         "status": "added",
         "link": "https://www.docker.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -309,6 +347,7 @@
         "status": "added",
         "link": "https://github.com/containers/podman",
         "language": "",
+        "description": "",
         "notes": "read [this](https://blog.while-true-do.io/podman-graphical-interfaces/)"
     },
     {
@@ -317,6 +356,7 @@
         "status": "added",
         "link": "https://www.sphinx-doc.org/en/master/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -325,6 +365,7 @@
         "status": "added",
         "link": "https://www.tug.org/texlive/",
         "language": "",
+        "description": "",
         "notes": "TeX Live is an easy way to get up and running with the TeX document production system."
     },
     {
@@ -333,6 +374,7 @@
         "status": "added",
         "link": "https://www.cantab.net/users/johncollins/latexmk/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -341,6 +383,7 @@
         "status": "added",
         "link": "https://nyxt.atlas.engineer/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -349,6 +392,7 @@
         "status": "added",
         "link": "https://github.com/qutebrowser/qutebrowser",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -357,6 +401,7 @@
         "status": "added",
         "link": "",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -365,6 +410,7 @@
         "status": "added",
         "link": "",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -373,6 +419,7 @@
         "status": "added",
         "link": "...",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -381,6 +428,7 @@
         "status": "added",
         "link": "...",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -389,6 +437,7 @@
         "status": "added",
         "link": "https://github.com/LemmyNet/jerboa",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -397,6 +446,7 @@
         "status": "added",
         "link": "https://github.com/balena-io/balena-cli",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -405,6 +455,7 @@
         "status": "added",
         "link": "https://github.com/volitank/nala",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -413,6 +464,7 @@
         "status": "added",
         "link": "https://github.com/jtroo/kanata",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -421,6 +473,7 @@
         "status": "added",
         "link": "https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/",
         "language": "",
+        "description": "",
         "notes": "vimdiff"
     },
     {
@@ -429,6 +482,7 @@
         "status": "added",
         "link": "https://pre-commit.com/",
         "language": "",
+        "description": "",
         "notes": "A framework for managing and maintaining multi-language pre-commit hooks - already using; just need to compare with lefthook | Git-Hook-Management mit Pre-Commit https: //www.dev-insider.de/git-hook-management-mit-pre-commit-a-84e48ab4399984ccf6158c0955e10a18/"
     },
     {
@@ -437,6 +491,7 @@
         "status": "added",
         "link": "https://dvc.org/",
         "language": "",
+        "description": "",
         "notes": "already using; compare to dolt"
     },
     {
@@ -445,6 +500,7 @@
         "status": "added",
         "link": "https://rahuldkjain.github.io/gh-profile-readme-generator/",
         "language": "",
+        "description": "",
         "notes": "(also works locally offline) !!!"
     }
 ]

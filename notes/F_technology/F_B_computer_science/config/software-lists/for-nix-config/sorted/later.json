@@ -5,6 +5,7 @@
         "status": "selected for later",
         "link": "https://huggingface.co/mrm8488/falcoder-7b",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -13,6 +14,7 @@
         "status": "selected for later",
         "link": "https://github.com/fauxpilot/fauxpilot",
         "language": "",
+        "description": "",
         "notes": "(2023)"
     },
     {
@@ -21,6 +23,7 @@
         "status": "selected for later",
         "link": "https://github.com/atinylittleshell/TerminalOne",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -29,6 +32,7 @@
         "status": "selected for later",
         "link": "...",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -37,6 +41,7 @@
         "status": "selected for later",
         "link": "https://electerm.html5beta.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -45,6 +50,7 @@
         "status": "selected for later",
         "link": "https://codeberg.org/dnkl/foot/",
         "language": "",
+        "description": "",
         "notes": "(wayland-only)"
     },
     {
@@ -53,6 +59,7 @@
         "status": "selected for later",
         "link": "...",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -61,6 +68,7 @@
         "status": "selected for later",
         "link": "https://github.com/raphamorim/rio",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -69,6 +77,7 @@
         "status": "selected for later",
         "link": "http://software.schmorp.de/pkg/rxvt-unicode.html",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -77,6 +86,7 @@
         "status": "selected for later",
         "link": "https://github.com/tdeerenberg/Musort",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -85,6 +95,7 @@
         "status": "selected for later",
         "link": "https://github.com/kaihendry/yyyymmdd",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -93,6 +104,7 @@
         "status": "selected for later",
         "link": "https://nestedtext.org/en/latest/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -101,6 +113,7 @@
         "status": "selected for later",
         "link": "https://github.com/pixelb/crudini",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -109,6 +122,7 @@
         "status": "selected for later",
         "link": "https://hackage.haskell.org/package/dhall",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -117,6 +131,7 @@
         "status": "selected for later",
         "link": "https://github.com/tmccombs/hcl2json",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -125,6 +140,7 @@
         "status": "selected for later",
         "link": "https://github.com/minamijoyo/hcledit",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -133,6 +149,7 @@
         "status": "selected for later",
         "link": "https://github.com/hashicorp/hcl/tree/main/cmd/hclfmt",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -141,6 +158,7 @@
         "status": "selected for later",
         "link": "https://www.gnu.org/software/recutils/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -149,6 +167,7 @@
         "status": "selected for later",
         "link": "https://www.willus.com/k2pdfopt",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -157,6 +176,7 @@
         "status": "selected for later",
         "link": "https://github.com/AndydeCleyre/nestedtextto",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -165,6 +185,7 @@
         "status": "selected for later",
         "link": "https://github.com/radi-cho/datasetGPT",
         "language": "",
+        "description": "",
         "notes": "-> look at alternative, including rule-based and LLM-free"
     },
     {
@@ -173,6 +194,7 @@
         "status": "selected for later",
         "link": "https://github.com/roapi/roapi",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -181,6 +203,7 @@
         "status": "selected for later",
         "link": "https://zed.brimdata.io/",
         "language": "",
+        "description": "",
         "notes": "read [this](https://www.brimdata.io/)"
     },
     {
@@ -189,6 +212,7 @@
         "status": "selected for later",
         "link": "https://search.nixos.org/packages?channel=unstable&show=zed&from=0&size=50&sort=relevance&type=packages&query=zed",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -197,6 +221,7 @@
         "status": "selected for later",
         "link": "https://github.com/laixintao/iredis",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -205,6 +230,7 @@
         "status": "selected for later",
         "link": "https://github.com/SaltFishPr/redis-viewer",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -213,6 +239,7 @@
         "status": "selected for later",
         "link": "https://github.com/thevahidal/soul",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -221,6 +248,7 @@
         "status": "selected for later",
         "link": "http://valgrind.org/",
         "language": "",
+        "description": "",
         "notes": "Valgrind is a GPL'd system for debugging and profiling Linux programs."
     },
     {
@@ -229,6 +257,7 @@
         "status": "selected for later",
         "link": "https://github.com/rr-debugger/rr",
         "language": "",
+        "description": "",
         "notes": "Debug the recording, deterministically, as many times as you want. [rr-project.org/](https://rr-project.org/)"
     },
     {
@@ -237,6 +266,7 @@
         "status": "selected for later",
         "link": "https://github.com/alecthomas/chroma",
         "language": "",
+        "description": "",
         "notes": "(Go)"
     },
     {
@@ -245,6 +275,7 @@
         "status": "selected for later",
         "link": "https://gitlab.com/saalen/highlight",
         "language": "",
+        "description": "",
         "notes": "[andre-simon.de/doku/highlight/highlight.php](http://www.andre-simon.de/doku/highlight/highlight.php) (C++, Lua)"
     },
     {
@@ -253,6 +284,7 @@
         "status": "selected for later",
         "link": "https://highlightjs.org/",
         "language": "",
+        "description": "",
         "notes": "(JavaScript)"
     },
     {
@@ -261,6 +293,7 @@
         "status": "selected for later",
         "link": "https://pygments.org/",
         "language": "",
+        "description": "",
         "notes": "(Python)"
     },
     {
@@ -269,6 +302,7 @@
         "status": "selected for later",
         "link": "https://github.com/curlpipe/synoptic",
         "language": "",
+        "description": "",
         "notes": "(Rust)"
     },
     {
@@ -277,6 +311,7 @@
         "status": "selected for later",
         "link": "https://github.com/trishume/syntect",
         "language": "",
+        "description": "",
         "notes": "(Rust)"
     },
     {
@@ -285,6 +320,7 @@
         "status": "selected for later",
         "link": "https://cucumber.io/docs",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -293,6 +329,7 @@
         "status": "selected for later",
         "link": "https://github.com/dcaribou/transfermarkt-scraper",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -301,6 +338,7 @@
         "status": "selected for later",
         "link": "https://github.com/BryanLunduke/LundukeHoliday",
         "language": "",
+        "description": "",
         "notes": "A simple Bash script that shows some animated, ASCII holiday decorations in your shell."
     },
     {
@@ -309,6 +347,7 @@
         "status": "selected for later",
         "link": "https://github.com/Duroktar/YuleLog",
         "language": "",
+        "description": "",
         "notes": "Christmas Yule Log fireplace."
     },
     {
@@ -317,6 +356,7 @@
         "status": "selected for later",
         "link": "https://github.com/gleich/ctree",
         "language": "",
+        "description": "",
         "notes": "A Christmas tree right from your terminal."
     },
     {
@@ -325,6 +365,7 @@
         "status": "selected for later",
         "link": "https://search.nixos.org/packages?channel=23.11&show=python311Packages.filetype&from=0&size=50&sort=relevance&type=packages&query=file+type",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -333,6 +374,7 @@
         "status": "selected for later",
         "link": "https://github.com/tmux/tmux",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -341,6 +383,7 @@
         "status": "selected for later",
         "link": "https://github.com/zellij-org/zellij",
         "language": "",
+        "description": "",
         "notes": "https: //zellij.dev/news/new-plugin-system/ https://zellij.dev/screencasts/ [A Better Tmux Experience Tmux Configuration & Essential Plugins - YouTube | https://crates.io/crates/zellij-tile-utils/versions"
     },
     {
@@ -349,6 +392,7 @@
         "status": "selected for later",
         "link": "https://github.com/7thSamurai/steganography",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -357,6 +401,7 @@
         "status": "selected for later",
         "link": "https://github.com/kurolabs/stegcloak",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -365,6 +410,7 @@
         "status": "selected for later",
         "link": "https://ithub.com/dwisiswant0/unch",
         "language": "",
+        "description": "",
         "notes": "Hides message with invisible Unicode characters"
     },
     {
@@ -373,6 +419,7 @@
         "status": "selected for later",
         "link": "https://github.com/samuela/crunkurrent",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -381,6 +428,7 @@
         "status": "selected for later",
         "link": "https://github.com/paoloantinori/hhighlighter",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -389,6 +437,7 @@
         "status": "selected for later",
         "link": "https://github.com/intra2net/paperbackup",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -397,6 +446,7 @@
         "status": "selected for later",
         "link": "https://github.com/vars1ty/HybridBar",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -405,6 +455,7 @@
         "status": "selected for later",
         "link": "https://git.sr.ht/~raphi/somebar",
         "language": "",
+        "description": "",
         "notes": "for dwl"
     },
     {
@@ -413,6 +464,7 @@
         "status": "selected for later",
         "link": "https://github.com/shdown/luastatus",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -421,6 +473,7 @@
         "status": "selected for later",
         "link": "https://tools.suckless.org/x/wmname/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -429,6 +482,7 @@
         "status": "selected for later",
         "link": "https://github.com/hyprland-community/awesome-hyprland#plugins",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -437,6 +491,7 @@
         "status": "selected for later",
         "link": "https://github.com/denisdubochevalier/dwl",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -445,6 +500,7 @@
         "status": "selected for later",
         "link": "https://github.com/outfoxxed/hy3",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -453,6 +509,7 @@
         "status": "selected for later",
         "link": "https://github.com/kuruczgy/kiwmi",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -461,6 +518,7 @@
         "status": "selected for later",
         "link": "https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -469,6 +527,7 @@
         "status": "selected for later",
         "link": "https://github.com/thrombe/hyprkool",
         "language": "",
+        "description": "",
         "notes": "Hyprland plugin to replicate the feel of kde activities and desktop grid layout"
     },
     {
@@ -477,6 +536,7 @@
         "status": "selected for later",
         "link": "https://github.com/KZDKM/Hyprspace",
         "language": "",
+        "description": "",
         "notes": "Workspace overview plugin for Hyprland"
     },
     {
@@ -485,6 +545,7 @@
         "status": "selected for later",
         "link": "https://github.com/pop-os/cosmic-greeter",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -493,6 +554,7 @@
         "status": "selected for later",
         "link": "https://man.sr.ht/~kennylevinsen/greetd/#styling-gtkgreet",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -501,6 +563,7 @@
         "status": "selected for later",
         "link": "https://github.com/pdf/hyprpanel",
         "language": "go",
+        "description": "",
         "notes": "needs nix packaging"
     },
     {
@@ -509,6 +572,7 @@
         "status": "selected for later",
         "link": "https://nwg-piotr.github.io/nwg-shell/",
         "language": "go",
+        "description": "",
         "notes": ""
     },
     {
@@ -517,6 +581,7 @@
         "status": "selected for later",
         "link": "https://github.com/ldelossa/way-shell",
         "language": "",
+        "description": "",
         "notes": "selected; needs nix packaging"
     },
     {
@@ -525,6 +590,7 @@
         "status": "selected for later",
         "link": "...",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -533,6 +599,7 @@
         "status": "selected for later",
         "link": "https://github.com/joshcbrown/caydence",
         "language": "",
+        "description": "",
         "notes": "needs nix packaging"
     },
     {
@@ -541,6 +608,7 @@
         "status": "selected for later",
         "link": "https://github.com/jszczerbinsky/lwp",
         "language": "",
+        "description": "",
         "notes": "Multi-platform parallax wallpaper engine - needs nix packaging"
     },
     {
@@ -549,6 +617,7 @@
         "status": "selected for later",
         "link": "https://github.com/GhostNaN/mpvpaper",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -557,6 +626,7 @@
         "status": "selected for later",
         "link": "https://github.com/swaywm/swaybg",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -565,6 +635,7 @@
         "status": "selected for later",
         "link": "https://github.com/anufrievroman/waypaper",
         "language": "python",
+        "description": "",
         "notes": ""
     },
     {
@@ -573,6 +644,7 @@
         "status": "selected for later",
         "link": "",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -581,6 +653,7 @@
         "status": "selected for later",
         "link": "https://github.com/flightlessmango/MangoHud",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -589,6 +662,7 @@
         "status": "selected for later",
         "link": "https://gitlab.com/mildlyparallel/pscircle",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -597,6 +671,7 @@
         "status": "selected for later",
         "link": "https://github.com/arogozhnikov/einops",
         "language": "",
+        "description": "",
         "notes": "[thoughts on einops](https://arogozhnikov.github.io/2023/07/13/retrospective-thoughts-on-einops.html)"
     },
     {
@@ -605,6 +680,7 @@
         "status": "selected for later",
         "link": "https://github.com/cloudtty/cloudtty",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -613,6 +689,7 @@
         "status": "selected for later",
         "link": "https://labs.leaningtech.com/blog/cheerpj-3.0",
         "language": "",
+        "description": "",
         "notes": "A WebAssembly JVM to run real-world applications in the browser"
     },
     {
@@ -621,6 +698,7 @@
         "status": "selected for later",
         "link": "https://docs.wasmtime.dev/cli.html",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -629,6 +707,7 @@
         "status": "selected for later",
         "link": "https://github.com/0xBaca/FeatherEditor",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -637,6 +716,7 @@
         "status": "selected for later",
         "link": "https://github.com/jupyter/qtconsole",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -645,6 +725,7 @@
         "status": "selected for later",
         "link": "https://dagshub.com/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -653,6 +734,7 @@
         "status": "selected for later",
         "link": "https://github.dev/github/dev",
         "language": "",
+        "description": "",
         "notes": "good for github repos"
     },
     {
@@ -661,6 +743,7 @@
         "status": "selected for later",
         "link": "https://phcode.dev/",
         "language": "",
+        "description": "",
         "notes": "* looks good"
     },
     {
@@ -669,6 +752,7 @@
         "status": "selected for later",
         "link": "http://git.savannah.gnu.org/cgit/auctex.git",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -677,6 +761,7 @@
         "status": "selected for later",
         "link": "https://github.com/tectonic-typesetting/tectonic",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -685,6 +770,7 @@
         "status": "selected for later",
         "link": "https://openmaptiles.org/",
         "language": "",
+        "description": "",
         "notes": "Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md) "
     },
     {
@@ -693,6 +779,7 @@
         "status": "selected for later",
         "link": "https://github.com/kosmtik/kosmtik",
         "language": "javascript",
+        "description": "",
         "notes": "more of a toolkit than a ready-to-use app; good for some side projects I have"
     },
     {
@@ -701,6 +788,7 @@
         "status": "selected for later",
         "link": "https://mapnik.org/",
         "language": "c++",
+        "description": "",
         "notes": "more of a toolkit than a ready-to-use app; good for some side projects I have"
     },
     {
@@ -709,6 +797,7 @@
         "status": "selected for later",
         "link": "https://github.com/maptiler",
         "language": "typescript",
+        "description": "",
         "notes": "more of a toolkit than a ready-to-use app; good for some side projects I have"
     },
     {
@@ -717,6 +806,7 @@
         "status": "selected for later",
         "link": "https://github.com/TYPO3/typo3",
         "language": "",
+        "description": "",
         "notes": "[The TYPO3 Project and Community - Open Source CMS](https://typo3.org/)"
     },
     {
@@ -725,6 +815,7 @@
         "status": "selected for later",
         "link": "https://github.com/comradequinn/hflow",
         "language": "",
+        "description": "",
         "notes": "A command-line, debugging http/s proxy server."
     },
     {
@@ -733,6 +824,7 @@
         "status": "selected for later",
         "link": "https://github.com/gchaincl/httplab",
         "language": "",
+        "description": "",
         "notes": "The interactive web server, let you inspect HTTP requests and forge responses."
     },
     {
@@ -741,6 +833,7 @@
         "status": "selected for later",
         "link": "https://github.com/blitzarx1/egui_graphs",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -749,6 +842,7 @@
         "status": "selected for later",
         "link": "https://mockoon.com/",
         "language": "",
+        "description": "",
         "notes": "an API / HTTP REST mocking desktop application"
     },
     {
@@ -757,6 +851,7 @@
         "status": "selected for later",
         "link": "https://github.com/alexfernandez/loadtest",
         "language": "",
+        "description": "",
         "notes": "Run load tests."
     },
     {
@@ -765,6 +860,7 @@
         "status": "selected for later",
         "link": "https://github.com/processone/tsung",
         "language": "",
+        "description": "",
         "notes": "A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers."
     },
     {
@@ -773,6 +869,7 @@
         "status": "selected for later",
         "link": "https://upx.github.io/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -781,6 +878,7 @@
         "status": "selected for later",
         "link": "https://www.netsurf-browser.org/",
         "language": "",
+        "description": "",
         "notes": "+ [visurf](https://sr.ht/~sircmpwn/visurf/)"
     },
     {
@@ -789,6 +887,7 @@
         "status": "selected for later",
         "link": "https://github.com/dr460nf1r3/firedragon-browser",
         "language": "",
+        "description": "",
         "notes": "custom branding for Garuda Linux, but looks amazing"
     },
     {
@@ -797,6 +896,7 @@
         "status": "selected for later",
         "link": "https://gitlab.com/baserow/baserow",
         "language": "",
+        "description": "",
         "notes": ", [site](https://baserow.io)"
     },
     {
@@ -805,6 +905,7 @@
         "status": "selected for later",
         "link": "https://appimage.org/",
         "language": "",
+        "description": "",
         "notes": "+ [appimagepool](https://github.com/prateekmedia/appimagepool)?"
     },
     {
@@ -813,6 +914,7 @@
         "status": "selected for later",
         "link": "https://flatpak.org/",
         "language": "",
+        "description": "",
         "notes": "+ [flatseal](...)"
     },
     {
@@ -821,6 +923,7 @@
         "status": "selected for later",
         "link": "https://github.com/SamTV12345/PodFetch",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -829,6 +932,7 @@
         "status": "selected for later",
         "link": "https://github.com/atanunq/viuer",
         "language": "",
+        "description": "",
         "notes": "Rust library"
     },
     {
@@ -837,6 +941,7 @@
         "status": "selected for later",
         "link": "https://github.com/libAudioFlux/audioFlux",
         "language": "",
+        "description": "",
         "notes": "A library for audio and music analysis, feature extraction."
     },
     {
@@ -845,6 +950,7 @@
         "status": "selected for later",
         "link": "https://github.com/synestematic/kord",
         "language": "",
+        "description": "",
         "notes": "A python framework that provides programmers with a simple api for the creation of music-based applications. !!!"
     },
     {
@@ -853,6 +959,7 @@
         "status": "selected for later",
         "link": "https://streamlink.github.io/streamlink-twitch-gui/",
         "language": "",
+        "description": "",
         "notes": "A multi platform Twitch.tv browser for [Streamlink](https://streamlink.github.io/)."
     },
     {
@@ -861,6 +968,7 @@
         "status": "selected for later",
         "link": "https://github.com/Mastermindzh/tidal-hifi",
         "language": "",
+        "description": "",
         "notes": "The web version of Tidal running in electron with hifi support thanks to widevine."
     },
     {
@@ -869,6 +977,7 @@
         "status": "selected for later",
         "link": "https://libretime.org/",
         "language": "",
+        "description": "",
         "notes": "The open broadcast software for scheduling and remote station management; forked from Airtime - for radio broadcasting and automation"
     },
     {
@@ -877,6 +986,7 @@
         "status": "selected for later",
         "link": "https://jmusicbot.com/",
         "language": "",
+        "description": "",
         "notes": "A Discord music bot that's easy to set up and run yourself."
     },
     {
@@ -885,6 +995,7 @@
         "status": "selected for later",
         "link": "https://index.discord.red/",
         "language": "",
+        "description": "",
         "notes": "Red Discord Bot is a self-hosted music/chat/trivia bot that can run on a Raspberry Pi and a variety of OS's. It's extensible through a system of |201cCogs|201d that allow it to do more."
     },
     {
@@ -893,6 +1004,7 @@
         "status": "selected for later",
         "link": "https://kazar.ma/",
         "language": "",
+        "description": "",
         "notes": "bridge between Matrix and ActivityPub"
     },
     {
@@ -901,6 +1013,7 @@
         "status": "selected for later",
         "link": "https://github.com/sindresorhus/caprine",
         "language": "",
+        "description": "",
         "notes": "Messenger client"
     },
     {
@@ -909,6 +1022,7 @@
         "status": "selected for later",
         "link": "https://github.com/graysky2/modprobed-db",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -917,6 +1031,7 @@
         "status": "selected for later",
         "link": "https://github.com/finfet/kestrel",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -925,6 +1040,7 @@
         "status": "selected for later",
         "link": "https://github.com/coldfix/udiskie",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -933,6 +1049,7 @@
         "status": "selected for later",
         "link": "https://github.com/storaged-/nnn",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -941,6 +1058,7 @@
         "status": "selected for later",
         "link": "https://github.com/PurpleI2P/i2pd",
         "language": "",
+        "description": "",
         "notes": "I2P daemon written in C++."
     },
     {
@@ -949,6 +1067,7 @@
         "status": "selected for later",
         "link": "https://gajim.org/",
         "language": "",
+        "description": "",
         "notes": "XMPP/Jabber client for desktop. ([GNU GPLv3](https://dev.gajim.org/gajim/gajim/blob/master/COPYING))"
     },
     {
@@ -957,6 +1076,7 @@
         "status": "selected for later",
         "link": "https://bellard.org/quickjs/",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -965,6 +1085,7 @@
         "status": "selected for later",
         "link": "https://ring.cx/",
         "language": "",
+        "description": "",
         "notes": "Telephone, teleconferencing, and media sharing through a distributed service. ([GNU GPLv3](https://ring.cx/en/about/practical))"
     },
     {
@@ -973,6 +1094,7 @@
         "status": "selected for later",
         "link": "https://tox.chat/",
         "language": "",
+        "description": "",
         "notes": "Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING))"
     },
     {
@@ -981,6 +1103,7 @@
         "status": "selected for later",
         "link": "https://github.com/azlux/botamusique",
         "language": "",
+        "description": "",
         "notes": "music bot for mumble"
     },
     {
@@ -989,6 +1112,7 @@
         "status": "selected for later",
         "link": "https://ithub.com/samthor/kuto",
         "language": "",
+        "description": "",
         "notes": "Faster updates for big JS projects"
     },
     {
@@ -997,6 +1121,7 @@
         "status": "selected for later",
         "link": "https://federicoterzi.com/raji/",
         "language": "",
+        "description": "",
         "notes": "[github](https://github.com/federico-terzi/raji)"
     },
     {
@@ -1005,6 +1130,7 @@
         "status": "selected for later",
         "link": "https://github.com/diracdeltas/tweets",
         "language": "",
+        "description": "",
         "notes": "Decentralized alternative to twitter that uses git as support tool to manage the tweets."
     },
     {
@@ -1013,6 +1139,7 @@
         "status": "selected for later",
         "link": "https://u.is/en",
         "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -1021,6 +1148,7 @@
         "status": "selected for later",
         "link": "https://www.tcpdump.org/",
         "language": "",
+        "description": "",
         "notes": "TCP Debugging/Capture Tool."
     },
     {
@@ -1029,6 +1157,7 @@
         "status": "selected for later",
         "link": "https://github.com/hlandau/acmetool",
         "language": "",
+        "description": "",
         "notes": "Automatic certificate acquisition for ACME (Let's Encrypt)."
     },
     {
@@ -1037,6 +1166,7 @@
         "status": "selected for later",
         "link": "https://github.com/Hakky54/certificate-ripper",
         "language": "",
+        "description": "",
         "notes": "Extract server certificates."
     },
     {
@@ -1045,6 +1175,7 @@
         "status": "selected for later",
         "link": "https://github.com/allinurl/goaccess",
         "language": "",
+        "description": "",
         "notes": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in -nix systems."
     },
     {
@@ -1053,6 +1184,7 @@
         "status": "selected for later",
         "link": "https://codemirror.net/demo/vim.html",
         "language": "",
+        "description": "",
         "notes": ""
     }
 ]

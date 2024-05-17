@@ -15,6 +15,14 @@
 
 * -> see riverwm files on drive
 
+* ( ) -(https://github.com/Psyhackological/dotfiles)
+* ( ) [dnaaun](https://github.com/dnaaun/dotfiles)
+* ( ) [stefan-radu](https://github.com/Stefan-Radu/dotfiles)
+* ( ) [kaiec](https://github.com/kaiec/dotfiles)
+* ( ) [k4y4k](https://github.com/k4y4k/dotfiles)
+* ( ) [kevcui](https://github.com/KevCui/dotfiles)
+* ( ) [selfhosted](https://github.com/TheBeachLab/selfhosted?tab=readme-ov-file)
+* ( ) [mrusme](https://github.com/mrusme/dotfiles) taskwarrior ...
 * (2) [grappas](https://github.com/grappas/dotfiles)
 * (1) [nChain-example](https://github.com/Nocxium/nChain-example) $$$$$$$$$
 * ( ) [?](https://www.reddit.com/r/unixporn/comments/1btyy6k/hyprland_green/) great color ideas

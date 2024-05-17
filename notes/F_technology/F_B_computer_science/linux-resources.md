@@ -1,5 +1,9 @@
 # Linux Resources
 
+## Good Miscellaneous Sites
+
+* [Make a Linux App](https://makealinux.app/#/)
+
 ## Documentation
 
 * [Linux Kernel Documentation](https://www.kernel.org/doc/html/v6.8/)
@@ -120,7 +124,7 @@
 * [Maxime Lathuilière](https://maxlath.eu/) - Reorganizing information and resources through libre software to enable a free society.
 * [Erik Dubios](https://www.youtube.com/@ErikDubois)
 
-## Linux News, Apps, and more:
+## Linux News, Apps, and more
 
 * [9To5Linux](https://9to5linux.com/)
 * [AllTop](https://linux.alltop.com/)
@@ -269,7 +273,7 @@
 * [Vikings](https://vikings.net/) - Hosting company powered by Libreboot firmware, libre software, and green energy that also sells hardware.
 * [framasoft.org/en/ →](https://framasoft.org/en/) [degooglisons-internet.org/en/](https://degooglisons-internet.org/en/)
 
-## SORT
+## Distro
 
 * {distro } [...](https://github.com/Vanilla-OS/custom-image)
 * {distro} [...](https://github.com/Vanilla-OS/Vib)

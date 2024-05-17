@@ -80,8 +80,17 @@
 * ( ) eventually add vim keybindings (<https://appflowy.gitbook.io/docs/essential-documentation/shortcuts>)
 * ChatGPT on hosting
 
+* add/edit projects & tasks in popup, in command line, or in .norg file
+* input → output principle:
+* routines, projects, and settings as input, schedule & summary statistics as output
+* schedule + tracking as input → log and performance metrics as output
+
 ### Miscellaneous Ideas, Brainstorming
 
+* deadlines in different levels: dream | want| should | must -> severity/goodness
+* nebokrai: add subcommands: track, blame (tool to show origin of some aspect of derived result), edit, add (interactive), sync, dashboard, dryrun {subcommand}, revert -> make (where appropriate) CLI and TUI (= interactive) versions of subcommands
+* nebokrai idea: "sacred" time blocks for flow
+* self-daily: presentation about yesterday and plans for today
 * make a habit-building subapp in the scheduling app
 * use the concept of satisfiability -> [libsolv](https://github.com/openSUSE/libsolv)
 * → make nebokrai usable as a plugin/integration for smos?
@@ -355,6 +364,13 @@ class AdjustmentType(Enum):
     3. get available time per day from calendar
     4. add tasks to day until the day is full
 
+* distinguish between naive plan and calendar-adjusted plan
+* Add desirability -> eating frogs idea
+* Fix planning to have completed tasks have zero time where appropriate and actual time where appropriate.
+* Add extra catch-all roadmap
+* Sort projects in dependency order -> dependency tree structure
+* Support earliest and latest dates, dependencies between tasks/projects/roadmaps -> raise error when declaration is impossible
+
 ## Scheduling
 
 calendar is direct parent of schedules, containing appointments and day parameters -> calendar folder containing a file for each day
@@ -529,6 +545,12 @@ TODO: add `alignend` functionality (but first get it working without)
 
 ## Tracking
 
+* pre-programmed (still configurable) for:
+* food & drink, workout, finances (expenditures), adherence to schedule/time use
+* -> need to access goals via plan
+* add earliest and latest start and end for each level of the roadmap-project-task hierarchy
+* tracking: collect texting statistics
+
 * Habits to track:
   * all foods (with times)
   * time breaking fast
@@ -596,6 +618,10 @@ Regardless of which option you choose, it's important to make sure that you keep
 search “hosting” [discord.com/channels/903549834160635914/903553722804748309](https://discord.com/channels/903549834160635914/903553722804748309)
 ```
 
+### Android App Development
+
+* ( ) [kivy.org/doc/stable/guide/packaging-android.html](https://kivy.org/doc/stable/guide/packaging-android.html) (also suitable for desktop)
+
 ### AppFlowy
 
 * ( ) [appflowy-io/appflowy/issues/3125](https://github.com/AppFlowy-IO/AppFlowy/issues/3125)
@@ -623,6 +649,7 @@ search “hosting” [discord.com/channels/903549834160635914/903553722804748309
 
 ## Sync, Multi-Device, Etc
 
+* possible to have app server and website server on same server VM?
 * sync
   * preferred method: manual sync
 * Features for quick updates
@@ -663,39 +690,42 @@ search “hosting” [discord.com/channels/903549834160635914/903553722804748309
     4. display (upon query) some (subset of) roadmap, plan, task, schedule, etc.
     5. show tracker information: streaks, percentage, habit strength, progress toward goals, …
 
-## SORT BELOW HERE -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Ganttouchthis / Ganttstop
 
-* Miscellaneous
-  * add/edit projects & tasks in popup, in command line, or in .norg file
-  * input → output principle:
-  * routines, projects, and settings as input, schedule & summary statistics as output
-  * schedule + tracking as input → log and performance metrics as output
-
-* distinguish between naive plan and calendar-adjusted plan
-* Add desirability -> eating frogs idea
-* Fix planning to have completed tasks have zero time where appropriate and actual time where appropriate.
-* Add extra catch-all roadmap
-* Sort projects in dependency order
-* Support earliest and latest dates, dependencies between tasks/projects/roadmaps -> raise error when declaration is impossible
-* Nebokrai tracking:
-* pre-programmed (still configurable) for:
-* food & drink, workout, finances (expenditures), adherence to schedule/time use
-* -> need to access goals via plan
-* add earliest and latest start and end for each level of the roadmap-project-task hierarchy
-* nebokrai: add subcommands: track, blame (tool to show origin of some aspect of derived result), edit, add (interactive), sync, dashboard, dryrun {subcommand}, revert -> make (where appropriate) CLI and TUI (= interactive) versions of subcommands
-* nebokrai idea: "sacred" time blocks for flow
-* tracking: collect texting statistics
-* self-daily: presentation about yesterday and plans for today
-
-* Idea Sources, Inspirations, Libraries, Tools, Dependencies
-  * Personal Kanban
-  * scheduling algorithm: what can Taskwarrior do? (builtin), per project and task: relative priority, temporal planning: deadlines in different levels: dream | want| should | must -> severity/goodness
-* ( ) [kivy.org/doc/stable/guide/packaging-android.html](https://kivy.org/doc/stable/guide/packaging-android.html) (also suitable for desktop)
-  * possible to have app server and website server on same server VM?
-  * make cron task to update Notion?
-  * package AppFlowy as FlatPak
-  * change GTT to write only changed tasks / projects / days, but keep in-memory for speed (except backlog and done; unnecessary)
+* change GTT to write only changed tasks / projects / days, but keep in-memory for speed (except backlog and done; unnecessary)
   * crystalize gtt API, database format, object API
   * GTT functionality: add project, edit project, edit task -> done to done DB, project from backlog, add to backlog, adjust task distribution: balanced|rollover|rigid, edit backlog item, project from backlog item, check validity & check data consistency (in memory & in database & between memory and database), exact & fuzzy search, TUI, export as SVG
-  * can a Kanban board be combined with my system -> integrate as a view of the tasks
-  * which cmoponents does my system need? what is their relationship to each other?
+  
+## Kanban View
+
+* can a Kanban board be combined with my system -> integrate as a view of the tasks
+* Personal Kanban
+
+## Data Formats
+
+### JSON-Based
+
+* Nebokrai declaration types:
+  * config
+  * roadmaps
+  * routines
+  * tracking (-> journaling)
+  * calendar
+* Nebokrai derivation types:
+  * plan
+  * schedule
+  * journal
+* [Taskwarrior JSON](https://github.com/GothenburgBitFactory/taskwarrior/blob/develop/doc/devel/rfcs/task.md)
+  -> [export](https://taskwarrior.org/docs/commands/export/)
+
+### Garmin: FIT, GPX, TCX
+
+* [FIT](https://developer.garmin.com/fit/overview/)
+* [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
+* [TCX](https://en.wikipedia.org/wiki/Training_Center_XML)
+
+### Web-Based Protocol: WebDAV, CalDAV, iCalendar
+
+* [CalDAV](https://en.wikipedia.org/wiki/CalDAV)
+* [WebDAV](https://en.wikipedia.org/wiki/WebDAV)
+* [iCalendar](https://en.wikipedia.org/wiki/ICalendar)

@@ -7993,6 +7993,14 @@
     },
     {
         "category": "messaging.miscellaneous",
+        "name": "git share",
+        "status": "selected",
+        "link": "https://gitshare.app",
+        "language": "",
+        "notes": ""
+    },
+    {
+        "category": "messaging.miscellaneous",
         "name": "KBin",
         "status": "selected",
         "link": "https://kbin.social/",
@@ -10998,6 +11006,14 @@
         "link": "https://www.fail2ban.org/wiki/index.php/Main_Page",
         "language": "",
         "notes": "Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs - too many password failures, seeking for exploits, etc."
+    },
+    {
+        "category": "websites.media",
+        "name": "immich",
+        "status": "selected",
+        "link": "https://immich.app/",
+        "language": "",
+        "notes": "Self-hosted photo and video management solution $$$"
     },
     {
         "category": "websites.webdev",

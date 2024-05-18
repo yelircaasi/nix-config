@@ -1558,3 +1558,4 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [arc](http://arclanguage.org/) [wikipedia](https://en.wikipedia.org/wiki/Arc_(programming_language))
 * [Gradual Typing](https://en.wikipedia.org/wiki/Gradual_typing) -> see examples
 * [kuroko](https://github.com/kuroko-lang/kuroko)
+* [pharo](https://pharo.org/features)

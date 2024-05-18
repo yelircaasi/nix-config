@@ -7,12 +7,28 @@ with open(p) as f:
 with open(p.replace(".json", "_backup.json"), "w") as f:
     json.dump(dl, f)
 
-cats = [d["category"] for d in dl]
-counts = {c: cats.count(c) for c in sorted(set(cats))}
-for k, v in counts.items():
-    print(f"{v:>4} {k}")
+
+def display_counts(key: str) -> None:
+    print(f"=== {key} ===")
+    for d in dl:
+        if not key in d:
+            print(d["name"])
+    cats = [d[key] for d in dl]
+    counts = {c: cats.count(c) for c in sorted(set(cats))}
+    for k, v in counts.items():
+        print(f"{v:>4} {k}")
+
+
+# display_counts("category")
+display_counts("status")
+display_counts("rating")
 
 
 dl.sort(key=lambda d: (d["category"], d["name"]))
 with open(p, "w") as f:
     json.dump(dl, f, indent=4)
+
+for i, d in enumerate(dl[:-1]):
+    name = d["name"]
+    if name and (name == dl[i+1]["name"]):
+        print(d["name"])

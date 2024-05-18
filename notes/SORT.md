@@ -5,6 +5,8 @@ on phone: ntodotxt, simpletask, markor https://f-droid.org/packages/de.tnmgl.nto
 http://www.webdav.org/specs/
 [HTTP Extensions for Web Distributed Authoring and Versioning (WebDAV)](http://www.webdav.org/specs/rfc4918.html)
 https://wsgidav.readthedocs.io/en/latest/
+https://ema.srid.ca/
+
 https://yandex.com/support/disk-desktop-linux/
 https://savannah.nongnu.org/projects/davfs2
 https://github.com/drakkan/sftpgo

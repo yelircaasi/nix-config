@@ -730,3 +730,27 @@ search “hosting” [discord.com/channels/903549834160635914/903553722804748309
 * [CalDAV](https://en.wikipedia.org/wiki/CalDAV)
 * [WebDAV](https://en.wikipedia.org/wiki/WebDAV)
 * [iCalendar](https://en.wikipedia.org/wiki/ICalendar)
+
+## Data Conversion
+
+### Converter Project
+
+Idea: Write a Taskwarrior/Timewarrior data conversion util for conversion to and from all relevant data formats:
+
+* JSON
+* YAML
+* TOML
+* Markdown
+* Norg
+* CSV
+* RON
+* Dhall
+* KDL
+* HCL
+* CalDAV
+* WebDAV
+* todo.txt
+* \[x\]it!
+* org
+* LaTeX (variety of templates)
+* Typst (variety of templates)

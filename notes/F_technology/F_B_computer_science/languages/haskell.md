@@ -1,11 +1,14 @@
 # Haskell
 
+https://github.com/srid/haskell-template $$$
+
 ## Exemplary Software
 
 -> search all notes files for "haskell"
 -> https://github.com/uhub/awesome-haskell
 -> https://wiki.haskell.org/Web/Frameworks
 
+https://github.com/srid
 https://github.com/NorfairKing/template-tui
 https://github.com/NorfairKing/template-optparse
 https://github.com/NorfairKing/template-cli

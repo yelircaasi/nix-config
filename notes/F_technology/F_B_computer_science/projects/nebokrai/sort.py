@@ -14,15 +14,16 @@ def display_counts(key: str) -> None:
         if not key in d:
             print(d["name"])
     cats = [d[key] for d in dl]
+    DEPTH = 2
+    cats = [".".join(c.split(".")[:DEPTH]) for c in cats]
     counts = {c: cats.count(c) for c in sorted(set(cats))}
     for k, v in counts.items():
         print(f"{v:>4} {k}")
 
 
-# display_counts("category")
 display_counts("status")
 display_counts("rating")
-
+display_counts("category")
 
 dl.sort(key=lambda d: (d["category"], d["name"]))
 with open(p, "w") as f:

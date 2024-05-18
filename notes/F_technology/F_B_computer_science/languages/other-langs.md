@@ -1559,3 +1559,4 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Gradual Typing](https://en.wikipedia.org/wiki/Gradual_typing) -> see examples
 * [kuroko](https://github.com/kuroko-lang/kuroko)
 * [pharo](https://pharo.org/features)
+* [nativescript](https://v7.docs.nativescript.org/)

@@ -1,7 +1,15 @@
 # Nebokrai
 
-## Roadmap TODO: CLEANUP
+## Roadmap
 
+1. Implement serde for declaration
+2. Minimal example for Aeson
+3. Implement display functions
+4. Write serde tests
+5. Add circular tests: assert input == output
+
+* Build devshells: haskell-docker, nebokrai/haskell/flake.nix, nebokrai/hs-pg/flake.nix when I have the time & bandwidth
+* Find simplest possible haskell+nix setup for starting out
 * ( ) Watch [video on optparse-applicative](https://www.youtube.com/watch?v=mS186vrNleE)
 * ( ) Watch [video 2](https://www.youtube.com/watch?v=RtYWKG_zZrM)
 * ( ) Watch [video 3](https://www.youtube.com/watch?v=KkXe8gSkbuc)

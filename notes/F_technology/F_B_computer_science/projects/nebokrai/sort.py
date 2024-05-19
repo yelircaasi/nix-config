@@ -24,6 +24,7 @@ def display_counts(key: str) -> None:
 display_counts("status")
 display_counts("rating")
 display_counts("category")
+display_counts("language")
 
 dl.sort(key=lambda d: (d["category"], d["name"]))
 with open(p, "w") as f:

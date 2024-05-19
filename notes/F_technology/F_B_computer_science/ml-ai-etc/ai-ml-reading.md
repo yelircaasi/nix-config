@@ -5303,3 +5303,4 @@ google s c framework python based library community vision thi berkeley made int
 * {co huggingface t scratch vs face tuning hugging forum different fine } <|> [RoBERTa from scratch with different vocab vs. fine-tuning - Intermediate - Hugging Face Forums](https://discuss.huggingface.co/t/roberta-from-scratch-with-different-vocab-vs-fine-tuning/569/7)
 * {co huggingface transformer glossary type           } <|> [huggingface.co/transformers/v3.2.0/glossary.html#token-type-ids](https://huggingface.co/transformers/v3.2.0/glossary.html%23token-type-ids)
 * {co huggingface welcome                             } <|> [huggingface.co/welcome](https://huggingface.co/welcome)
+* [100 ML Mental Models](https://www.mindmeister.com/app/map/3268565069?t=KSykw5ZJV2&utm_medium=email&utm_source=substack)

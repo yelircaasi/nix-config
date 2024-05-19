@@ -16,6 +16,7 @@ https://github.com/NorfairKing/smos
 https://github.com/NorfairKing/intray
 https://github.com/NorfairKing/template-web-server
 
+https://hackage.haskell.org/package/parsec
 pandoc
 aeson
 optparse-applicative
@@ -63,6 +64,28 @@ https://github.com/NorfairKing/upcheck
 https://github.com/ndmitchell/hlint
 https://github.com/ndmitchell/shake https://shakebuild.com/
 https://www.yesodweb.com/
+
+## General Reference
+
+https://ksvi.mff.cuni.cz/~dingle/2021-2/npp/haskell_library.html
+
+## Parsing in Haskell
+
+* [Functional Parsers (Paper)](https://www.researchgate.net/profile/Jeroen-Fokker/publication/2426266_Functional_Parsers/links/00b49525d6efe2ff4e000000/Functional-Parsers.pdf)
+* [parsec](https://en.wikipedia.org/wiki/Parsec_(parser))
+* [happy](https://haskell-happy.readthedocs.io/en/latest/)
+* [Intro to Parsing](https://jakewheat.github.io/intro_to_parsing/)
+* [Parsing with Haskell](https://serokell.io/blog/lexing-with-alex)
+* [SO](https://codereview.stackexchange.com/questions/253497/simple-haskell-parser)
+
+## Books
+
+* [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
+* [Drive - Haskell Books](../../../A_general/drive/F.json#L1984)
+
+## CLI
+
+* [optparse-applicative example](https://learn-haskell.blog/05-glue/04-optparse.html)
 
 ## SORT
 
@@ -220,5 +243,5 @@ https://www.yesodweb.com/
 * [Myth of 'Tooling Issue' in Haskell](https://www.youtube.com/watch?v=c7FncTzvpUQ)
 * [Haskell Tooling Is Good Actually](https://www.youtube.com/watch?v=jjuSXbv1nW8)
 * [Haskell Quick Start with Stack](https://www.youtube.com/watch?v=BkPVjvTEeK4&list=PLw5h0DiJ-9PDVbW-6-epbMKz4WCPyA5D3&index=2)
-* [haskell.nix video-9        [...](https://www.youtube.com/watch?v=j71ZkinDeUM))
+* haskell.nix video-9 [...](https://www.youtube.com/watch?v=j71ZkinDeUM))
 * [cmark](https://hackage.haskell.org/package/cmark) - for plt* [fpcomplete.com/haskell/syllabus/*](https://www.fpcomplete.com/haskell/syllabus/*) [fpcomplete.com/haskell/learn/](https://www.fpcomplete.com/haskell/learn/)

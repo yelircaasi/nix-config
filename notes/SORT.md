@@ -1,5 +1,11 @@
 # SORT
 
+https://whhone.com/posts/webdav-syncthing/
+
+https://github.com/emad-elsaid/dirtree
+https://github.com/emad-elsaid/lsgh
+
+https://github.com/andrey-utkin/wearable-computer/wiki
 Improving Table of Contents Recognition Using Layout-Based Features.pdf
 on phone: ntodotxt, simpletask, markor https://f-droid.org/packages/de.tnmgl.ntodotxt/ https://f-droid.org/packages/nl.mpcjanssen.simpletask.webdav/ 
 http://www.webdav.org/specs/

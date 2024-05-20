@@ -1,5 +1,6 @@
 # proglang table
 
+* [item_synchronizer](https://github.com/bergercookie/item_synchronizer)
 * [transpiler](https://jarble.github.io/transpiler/)
 
 * Where to put feature (row) descriptions in the markdown source? -> in italic -> how to separate from language-specific ('in-box') notes?

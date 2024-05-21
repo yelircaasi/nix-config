@@ -1,5 +1,30 @@
 # SORT
 
+https://huggingface.co/juierror/flan-t5-text2sql-with-schema
+https://huggingface.co/juierror/flan-t5-text2sql-with-schema-v2
+https://huggingface.co/support-pvelocity/Code-Llama-2-7B-instruct-text2sql
+https://huggingface.co/docs/transformers/v4.33.0/en/main_classes/quantization#transformers.GPTQConfig
+https://huggingface.co/docs/transformers/v4.33.0/en/main_classes/quantization
+https://huggingface.co/docs/transformers/main/main_classes/quantization#transformers.GPTQConfig
+https://huggingface.co/collections/abneraigc/text-to-sql-65433b4ee48d91b8694e93eb
+[How to Prompt LLMs for Text-to-SQL: A Study in Zero-shot, Single-domain, and Cross-domain Settings](https://arxiv.org/abs/2305.11853)
+[SQL-PaLM: Improved Large Language Model Adaptation for Text-to-SQL (extended)](https://arxiv.org/abs/2306.00739)
+[9 Mar 2024 (this version, v3)]
+PET-SQL: A Prompt-enhanced Two-stage Text-to-SQL Framework with Cross-consistency](https://arxiv.org/abs/2403.09732)
+https://github.com/BrettlyCD/text-to-sql
+https://stackoverflow.com/questions/77630013/how-to-run-any-gguf-model-using-transformers-or-any-other-library
+https://huggingface.co/docs/hub/gguf
+https://huggingface.co/docs/transformers/main/gguf
+https://huggingface.co/jurieyel/Llama3-sqlcoder-8b-4bit-GGUF-q4_K_M
+https://www.analyticsvidhya.com/blog/2024/02/sql-generation-in-text2sql-with-tinyllamas-llm-fine-tuning/
+https://llama-cpp-python.readthedocs.io/en/latest/
+
+https://github.com/zhshLii/PETSQL/tree/master
+https://github.com/taoyds/test-suite-sql-eval
+
+https://developer.wikimedia.org/contribute/by-language/
+https://www.willmcgugan.com/
+https://github.com/DarkKronicle/SpotifyPlaylistGenerator
 https://github.com/NorfairKing/nix-pre-commit-hooks
 https://github.com/ggerganov/whisper.cpp
 https://whhone.com/posts/webdav-syncthing/
@@ -7,7 +32,7 @@ https://github.com/wakatime/repl-python-wakatime
 https://www.well-typed.com/
 https://jacobzelko.com/
 https://jacobzelko.com/01132024210133-category-theory-awodey/
-
+https://blogtrottr.com/about/
 https://github.com/emad-elsaid/dirtree
 https://github.com/emad-elsaid/lsgh
 
@@ -20,7 +45,7 @@ http://www.webdav.org/specs/
 [HTTP Extensions for Web Distributed Authoring and Versioning (WebDAV)](http://www.webdav.org/specs/rfc4918.html)
 https://wsgidav.readthedocs.io/en/latest/
 https://ema.srid.ca/
-
+https://www.hetzner.com/ $$$
 https://yandex.com/support/disk-desktop-linux/
 https://savannah.nongnu.org/projects/davfs2
 https://github.com/drakkan/sftpgo
@@ -373,6 +398,22 @@ youtube watch                                      <|> [...](https://m.youtube.c
 youtube watch                                      <|> [...](https://m.youtube.com/watch?v=GVlPQjkb8SE)
 youtube watch                                      <|> [m.youtube.com/watch?v=kFw64hlJkoI](https://m.youtube.com/watch?v=kFw64hlJkoI)
 youtube watch                                      <|> [www.youtube.com/watch?v=Jsmt4uaL1O8&pp=ygUTaGFza2VsbCBhcHBsaWNhdGl2ZQ%3D%3D](https://www.youtube.com/watch?v=Jsmt4uaL1O8&pp=ygUTaGFza2VsbCBhcHBsaWNhdGl2ZQ%3D%3D)
+
+https://www.jsxc.org/installation.html#nextcloud
+https://github.com/jgraph/drawio-nextcloud
+https://github.com/ACTom/files_mindmap
+https://apps.nextcloud.com/apps/appointments
+https://github.com/nextcloud/fulltextsearch
+https://apps.nextcloud.com/apps/ncdownloader
+https://apps.nextcloud.com/apps/carnet
+https://apps.nextcloud.com/apps/notes
+https://apps.nextcloud.com/apps/files_ebookreader
+https://apps.nextcloud.com/apps/libresign
+https://apps.nextcloud.com/apps/breezedark
+https://github.com/nextcloud/theming_customcss
+
+* [-> Language Server Protocol and Implementation: Supporting Language-Smart Editing and Programming Tools](http://library.lol/main/17784F897F0B546E826B1B92846ECC7A)
+* [-> Mastering JavaScript Functional Programming: Write clean, robust, and maintainable web and server code using functional JavaScript and TypeScript](http://library.lol/main/893641748E984949326D20FB2E64EF95)
 
 ## Notes to Sort
 

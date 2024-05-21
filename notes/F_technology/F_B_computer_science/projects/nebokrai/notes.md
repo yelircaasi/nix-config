@@ -327,6 +327,10 @@ class AdjustmentType(Enum):
     DISPLACE = 5  #
 ```
 
+### Approach to Hierarchical Organization
+
+Switch fom Roadmaps::Project::Task hierarchy to Project::Task; use tags for organizing projects and tasks.
+
 ### Tasks
 
 * Task definition entry points:
@@ -355,6 +359,7 @@ class AdjustmentType(Enum):
 
 ## Planning
 
+* [WBS](https://en.wikipedia.org/wiki/Work_breakdown_structure)
 * Planning Features
   * day maximum (from calendar) and rollover when this max is exceeded
   * use of priority
@@ -654,7 +659,7 @@ search “hosting” [discord.com/channels/903549834160635914/903553722804748309
 * ( ) TRACKING: manually via neorg, or via semaphore. One file per metric for easy tracking; move dates more than 30 days old to the old store (more efficient format?)
 * ( ) [packaging.python.org/en/latest/guides/creating-and-discovering-plugins](https://packaging.python.org/en/latest/guides/creating-and-discovering-plugins/)
 
-## Sync, Multi-Device, Etc
+## Server, Sync, Multi-Device, Etc
 
 * possible to have app server and website server on same server VM?
 * sync
@@ -696,6 +701,24 @@ search “hosting” [discord.com/channels/903549834160635914/903553722804748309
     3. accept request to edit declaration files, then edit & trigger recompute
     4. display (upon query) some (subset of) roadmap, plan, task, schedule, etc.
     5. show tracker information: streaks, percentage, habit strength, progress toward goals, …
+
+### Server Books
+
+* [Web Hosting For Dummies](http://library.lol/main/15AB02F5EE821874E1269F1C1A2C6466)
+* [Linux Server Cookbook: Get Hands-on Recipes to Install, Configure, and Administer a Linux Server Effectively](http://library.lol/main/A9EC0C8B28BC4409DF0AF7BC266F92AC)
+* [KISS Server Virtualization: Server Virtualization](http://library.lol/main/DEA763D00B5C1FB74043E8B792C019C9)
+* [Linux-Server: Das umfassende Handbuch](http://library.lol/main/F438A58DB4F0B06E7B795598648C1F5E)
+* [Mastering Ubuntu Server: Explore the versatile, powerful Linux Server distribution Ubuntu 22.04 with this comprehensive guide](http://library.lol/main/7AFB83DF3236E59C71A4F469A91CDB2B)
+* [Set Up And Manage Your Virtual Private Server: Making System Administration Accessible To Professionals](http://library.lol/main/35C22818EAE9FA0FA5CA4D00C70F3262)
+* [Practical Internet Server Configuration: Learn to Build a Fully Functional and Well-Secured Enterprise Class Internet Server](http://library.lol/main/6662ADAF65D4E07828DEC10CD80FD4E0)
+* [Private Cloud und Home Server mit QNAP NAS Das umfassende Praxis-Handbuch](http://library.lol/main/3926305C3E5A96DCB6245A105FD9841D)
+* [Common Windows, Linux and Web Server Systems Hacking Techniques](http://library.lol/main/C055ADFA562BFC22E8F23D143143957C)
+* [Ansible for DevOps: Server and configuration management for humans](http://library.lol/main/F4488432BBABE7E63112A08B611E2CE0)
+* [Mastering Linux security and hardening: secure your Linux server and protect it from intruders, malware attacks, and other external threats](http://library.lol/main/C835450F069C3CCB1A7EE90F765CA7EF)
+* [Linux-Server Das umfassende Handbuch](http://library.lol/main/EE8242C91DF7F7CC3A836B98684BD222)
+* [Linux Server Hacks, 2: Tips & Tools for Connecting, Monitoring, and Troubleshooting](http://library.lol/main/D77D0EBB208E89EBCF4C10F7FF64B35E)
+* [Linux Server Linux Server Hacks: Los Mejores Trucos the Best Tricks](http://library.lol/main/D65668D1220B40901544827FC45CC753)
+* [Linux Email. Set Up and Run a Small Office Email Server](http://library.lol/main/F2C6BA1A73A964710CB697A968518891)
 
 ## Ganttouchthis / Ganttstop
 

@@ -92,3 +92,40 @@ for i, d in enumerate(dl[:-1]):
     name = d[key]
     if name and (name == dl[i+1][key]):
         print(d[key])
+
+'''
+{ "category": ["https://apps.nextcloud.com/apps/cookbook https://github.com/nextcloud/cookbook/blob/master/docs/user/clients/Index.md",
+    "https://micmun.de/nextcloud-cookbook-english/ | https://codeberg.org/MicMun/nextcloud-cookbook",
+    "https://github.com/Teifun2/nextcloud-cookbook-flutter ",
+    "https://github.com/lneugebauer/nextcloud-cookbook",
+    "https://apps.nextcloud.com/apps/timemanager",
+    "https://apps.nextcloud.com/apps/qownnotesapi",
+    "https://github.com/nextcloud/bookmarks",
+    "https://apps.nextcloud.com/apps/onlyoffice",
+    "https://github.com/mtierltd/timetracker",
+    "https://apps.nextcloud.com/apps/contacts",
+    "https://github.com/nextcloud/integration_google",
+    "https://apps.nextcloud.com/apps/tables",
+    "https://apps.nextcloud.com/apps/mail",
+    "https://github.com/julien-nc/gpxpod",
+    "https://apps.nextcloud.com/apps/calendar",
+    "https://github.com/sigoden/dufs $$$$$",
+    "https://www.cloudron.io/pricing.html",
+    "https://github.com/actualbudget/actual",
+    "-> https://www.cloudron.io/store/index.html"
+    ]
+    },
+    {
+        "category": "",
+        "rating": "",
+        "status": "",
+        "name": "",
+        "link": "",
+        "language": "",
+        "features": "",
+        "notes": "",
+        "description": "",
+        "commits": "",
+        "recency": ""
+    },
+'''

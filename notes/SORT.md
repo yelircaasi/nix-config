@@ -1,6 +1,12 @@
 # SORT
 
+https://github.com/NorfairKing/nix-pre-commit-hooks
+https://github.com/ggerganov/whisper.cpp
 https://whhone.com/posts/webdav-syncthing/
+https://github.com/wakatime/repl-python-wakatime
+https://www.well-typed.com/
+https://jacobzelko.com/
+https://jacobzelko.com/01132024210133-category-theory-awodey/
 
 https://github.com/emad-elsaid/dirtree
 https://github.com/emad-elsaid/lsgh

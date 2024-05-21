@@ -170,6 +170,7 @@ Remember, finding a system that works for you may take some trial and error. Exp
 * [consilium](https://en.wiktionary.org/wiki/consilium)
 * ganttouchthis
 * roadmapper
+* scrumbag
 
 ### Discord Discussion
 
@@ -370,6 +371,12 @@ class AdjustmentType(Enum):
 * Add extra catch-all roadmap
 * Sort projects in dependency order -> dependency tree structure
 * Support earliest and latest dates, dependencies between tasks/projects/roadmaps -> raise error when declaration is impossible
+
+### Dependency Sorting
+
+* need to write function `dependencySort` to put list of tasks in an order satisfying dependency constraints, raising an informative error if dependency constraints are irresoluble
+* need to do a literature/code search to find relevant algorithms, implementations, and resources
+* requires dependency graph data structure
 
 ## Scheduling
 
@@ -730,6 +737,7 @@ search “hosting” [discord.com/channels/903549834160635914/903553722804748309
 * [CalDAV](https://en.wikipedia.org/wiki/CalDAV)
 * [WebDAV](https://en.wikipedia.org/wiki/WebDAV)
 * [iCalendar](https://en.wikipedia.org/wiki/ICalendar)
+* [CardDAV](...)
 
 ## Data Conversion
 

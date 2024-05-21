@@ -11,6 +11,8 @@ https://jacobzelko.com/01132024210133-category-theory-awodey/
 https://github.com/emad-elsaid/dirtree
 https://github.com/emad-elsaid/lsgh
 
+https://github.com/jgm/skylighting
+
 https://github.com/andrey-utkin/wearable-computer/wiki
 Improving Table of Contents Recognition Using Layout-Based Features.pdf
 on phone: ntodotxt, simpletask, markor https://f-droid.org/packages/de.tnmgl.ntodotxt/ https://f-droid.org/packages/nl.mpcjanssen.simpletask.webdav/ 

@@ -738,6 +738,9 @@ search “hosting” [discord.com/channels/903549834160635914/903553722804748309
 * [WebDAV](https://en.wikipedia.org/wiki/WebDAV)
 * [iCalendar](https://en.wikipedia.org/wiki/ICalendar)
 * [CardDAV](...)
+* [vObject](...)
+* [.ics](...)
+* [read](https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementations)
 
 ## Data Conversion
 

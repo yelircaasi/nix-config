@@ -337,7 +337,7 @@
         "link": "https://git.suckless.org/sent/files.html",
         "language": "c",
         "description": "Simple plaintext presentation tool",
-        "notes": "port away from X11 -> use https://github.com/artemsen/swayimg setup or https://nappgui.com/en/home/web/home.html or https://github.com/Immediate-Mode-UI/Nuklear for a minimalistic GUI -> to RosettaProjects; maybe look at https://www.tecgraf.puc-rio.br/iup/, https://sourceforge.net/projects/motif/, https://libui-ng.github.io/libui-ng/, https://github.com/tesch1/turbobadger?tab=readme-ov-file, "
+        "notes": "port away from X11 -> use https://github.com/artemsen/swayimg setup or https://nappgui.com/en/home/web/home.html or https://github.com/Immediate-Mode-UI/Nuklear for a minimalistic GUI -> to RosettaProjects; maybe look at https://www.tecgraf.puc-rio.br/iup/, https://sourceforge.net/projects/motif/, https://libui-ng.github.io/libui-ng/, https://github.com/tesch1/turbobadger?tab=readme-ov-file, https://github.com/libsdl-org/SDL"
     },
     {
         "category": "console.data.document.tabular",

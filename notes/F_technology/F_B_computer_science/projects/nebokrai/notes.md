@@ -2,6 +2,21 @@
 
 ## General
 
+### System Bridge
+
+Write CLI/TUI, probably in Rust, to connect all tools I use as part of my personal organization system.
+
+Name ideas:
+
+* org
+* pm ("personal management")
+* sys
+* glue
+* sb ("system bridge")
+* system
+
+Maybe prototype in Bash, Python, or Julia.
+
 ### Nebokrai Overview
 
 * make signal-based or matrix-based apps for sending links to myself without email or notion → or use email client? XMPP, Matrix, SMTP, POP3, IMAP, IRC

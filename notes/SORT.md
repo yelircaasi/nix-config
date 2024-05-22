@@ -38,6 +38,176 @@ https://github.com/emad-elsaid/lsgh
 
 https://github.com/jgm/skylighting
 
+https://pypi.org/project/pdf4llm/ 
+
+- [ ]  set up https://github.com/yelircaasi/nur-packages https://github.com/yelircaasi/nur-packages to contain all ad hoc packages for my config (→ read [https://discourse.nixos.org/t/introducing-nur-the-nix-user-repostory-share-all-your-nix-expressions/](https://discourse.nixos.org/t/introducing-nur-the-nix-user-repostory-share-all-your-nix-expressions/431/2))
+
+TODO Remove roadmaps from Nebokrai as an organizing unit; change it to a metadata tag. Flatter structure means more adaptability and simpler algorithms. Usong a roadmap tag allows for flexible views.
+
+properties: 
+
+desirability - how good will it be to achieve this?
+
+severity - how bad will it be not to achieve this?
+
+dread - how hard is it to get started?
+
+effort - how demanding is the task?
+
+NoteConverter: convert notes between restricted subsets of different file formats (markdown, json, norg, xit, todo.txt, etc)
+
+nix-software:
+
+https://github.com/viperML/nh
+
+https://github.com/maralorn/nix-output-monitor
+
+https://www.google.com/search?q=bank+mit+online+banking+im+browser&client=firefox-b-d&sca_esv=aabad935989ed720&sca_upv=1&sxsrf=ADLYWIJ6mYmnXjtMvOURKWnLrTId5-IVRA%3A1716037967519&ei=T6lIZuOsH-Xwi-gP9K2K2AE&ved=0ahUKEwijkObLo5eGAxVl-AIHHfSWAhsQ4dUDCBA&uact=5&oq=bank+mit+online+banking+im+browser&gs_lp=Egxnd3Mtd2l6LXNlcnAiImJhbmsgbWl0IG9ubGluZSBiYW5raW5nIGltIGJyb3dzZXIyCBAAGIAEGKIESKwRUJ4FWKQOcAF4AZABAJgBXqABvgWqAQE5uAEDyAEA-AEBmAIKoALQBcICChAAGLADGNYEGEfCAgcQIxiwAhgnmAMAiAYBkAYIkgcCMTCgB_so&sclient=gws-wiz-serp
+
+→ look for German banks that allow 2fa / online banking without the requirement of non-rooted Android
+
+https://www.comdirect.de/
+
+https://github.com/regebro/hovercraft
+
+https://marp.app/ 
+
+https://play.presenta.cc/ 
+
+https://svn.emphy.de/impressive/
+
+https://github.com/divshot/markdeck
+
+https://sozi.baierouge.fr/pages/10-about.html 
+
+https://github.com/romgrk/kui.nvim
+
+https://github.com/romgrk/kirby.nvim
+
+https://github.com/winteriscariot/dotfiles/tree/main/labwc
+
+https://beeware.org/
+
+https://flet.dev/
+
+https://reflex.dev/
+
+https://www.zenflowchart.com/guides/gtd-flowchart
+
+https://github.com/njvack/markdown-to-json
+
+https://hackage.haskell.org/package/Diff
+
+https://ably.com/blog/practical-guide-to-diff-algorithms
+
+https://en.m.wikipedia.org/wiki/Diff
+
+https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/
+
+https://github.com/floccusaddon/floccus
+
+https://github.com/nextcloud/bookmarks
+
+https://ubports.com/en/blog/ubports-news-1/post/android-apps-on-ubuntu-touch-with-anbox-3115
+
+Quillpad
+
+Syncthing-Fork
+
+Nextcloud Dev
+
+mLauncher - Minimal and Clutter Free launcher
+
+Immich
+
+ArityCalc
+
+Android Apps on Ubuntu Touch with Anbox | UBports https://ubports.com/en/blog/ubports-news-1/post/android-apps-on-ubuntu-touch-with-anbox-3115 
+
+https://anbox-cloud.io/
+
+https://waydro.id/
+
+Podverse Android app
+
+https://jami.net/
+
+https://osmand.net/
+
+Money Manager Ex
+
+https://gitlab.com/VALTIELENTINE/dotfiles
+
+https://github.com/ratatui-org/awesome-ratatui
+
+https://github.com/wintermute-cell/ngrrram
+
+https://github.com/Coopydood/HyperFluent-GRUB-Theme
+
+https://codeberg.org/d13g0/dotfiles.git
+
+https://git.disroot.org/d13g0x/Voidlinux_repository
+
+https://retrage.github.io/lkl-js/
+
+https://github.com/VoreckLukas/norg-pandoc-rs/blob/master/.github/workflows/doc.yml
+
+https://github.com/nvim-neorg/tree-sitter-norg
+
+https://github.com/nvim-neorocks/rocks-config.nvim
+
+https://github.com/nvim-neorocks/rocks-binaries
+
+https://github.com/nvim-neorg/neorg/blob/main/ROADMAP.md
+Olga YT UK https://m.youtube.com/watch?v=-Ygs_1ReOn8&t=534s&cbrd=1 
+https://simplex.chat/
+PL Tier List https://www.youtube.com/watch?v=EMO-KcaCX9c
+https://github.com/nvim-neorg/rust-norg
+use the taskifist name for the (haskell) converter (to and from many formats)
+https://clickable-ut.dev/en/latest/install.html
+
+https://clickable-ut.dev/en/latest/index.html
+https://github.com/HigherOrderCO/HVM
+https://ubports.gitlab.io/docs/api-docs/index.html?p=qtqml%2Fqtqml-index.html
+https://forum.aux.computer/t/call-for-python-maintainers/29/4
+https://www.thenewhumanitarian.org/editorial/2023/10/23/media-coverage-israel-and-gaza-double-standards
+
+Sanderson Commencement Speech https://www.youtube.com/watch?v=W3I3kAg2J7w
+
+how should I feel about the genocide my ancestors committed?
+
+Acknowledging Intergenerational Moral Responsibility in the Aftermath of Genocide https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1140&context=gsp
+
+https://cmsmc.org/publications/history-should-make-you-uncomfortable 
+
+https://cwmemory.com/2022/02/16/confronting-the-past-should-make-us-uncomfortable/ 
+
+https://www.saturdayeveningpost.com/2021/11/considering-history-why-learning-about-the-past-should-be-uncomfortable/ 
+
+https://quillette.com/2023/04/27/uncomfortable-history/ 
+
+https://steady.substack.com/p/history-is-not-comfortable
+
+https://github.com/dimkouv/protonmail-cli -> look at as inspiration for proton drive cli
+https://github.com/emersion/hydroxide
+https://github.com/henrybear327/go-proton-api https://github.com/ProtonMail/go-proton-api 
+https://github.com/henrybear327/Proton-API-Bridge -> make proton cli
+https://github.com/ProtonMail ->
+https://github.com/ProtonMail/android-mail
+https://github.com/ProtonMail/gluon 
+https://github.com/ProtonMail/proton-bridge
+https://github.com/ProtonMail/proton-python-client 
+https://github.com/steccas/ProtonClient
+https://protonapps.com/
+https://rclone.org/protondrive/ 
+
+https://github.com/meganz/MEGAcmd/ https://github.com/NixOS/nixpkgs/blob/nixos-23.11/pkgs/applications/misc/megacmd/default.nix#L74 -> use instead of google drive; keep gd as a backup last resort / for experimental hacking around
+megasync https://github.com/NixOS/nixpkgs/blob/nixos-23.11/pkgs/applications/misc/megasync/default.nix#L122 
+
+[Generic type-safe diff and patch for families of datatypes](https://framerusercontent.com/modules/assets/W0FPtOiYB5aHUypMumYlpnG77tY~j726rxGmiVQeNwjJG80vY7DkVkAz8gy1sSA9NjtMODc.pdf)
+https://crates.io/crates/systemctl-tui
+nix-shell -p gdrive3    https://github.com/glotlabs/gdrive
+https://github.com/peterldowns/nix-search-cli
 https://noogle.dev https://github.com/nix-community/noogle
 https://github.com/andrey-utkin/wearable-computer/wiki
 Improving Table of Contents Recognition Using Layout-Based Features.pdf
@@ -423,6 +593,11 @@ dwl install https://www.youtube.com/watch?v=OyXAl_EOAO8
 https://github.com/codedownio/codedown-languages - use for rosettaprojects
 https://birdfont.org/
 https://github.com/artemsen/swayimg $$$$$$$$$
+https://squawkhq.com/  https://github.com/sbdchd/squawk
+https://smxi.org/docs/inxi.htm
+https://www.vultr.com/
+https://github.com/Alecaddd/taxi
+https://github.com/wkentaro/gdown
 
 ## Notes to Sort
 

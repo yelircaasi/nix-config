@@ -8,9 +8,11 @@
     ./common
     ./common-from-device-config.nix
 
-    ./applications/development/database
+    ./applications/console/database
+    ./applications/console/work-garbage/azure
+    ./applications/console/work-garbage/jira
 
-    ./applications/work-garbage
+    ./applications/gui/editor-and-ide/vscode
 
     ./sops
     #./environments/flatpak

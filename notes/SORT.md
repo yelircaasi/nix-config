@@ -171,7 +171,10 @@ https://github.com/HigherOrderCO/HVM
 https://ubports.gitlab.io/docs/api-docs/index.html?p=qtqml%2Fqtqml-index.html
 https://forum.aux.computer/t/call-for-python-maintainers/29/4
 https://www.thenewhumanitarian.org/editorial/2023/10/23/media-coverage-israel-and-gaza-double-standards
-
+https://github.com/adsr/mle
+https://elm-lang.org/
+https://www.roc-lang.org/
+https://github.com/afify/sfm
 Sanderson Commencement Speech https://www.youtube.com/watch?v=W3I3kAg2J7w
 
 how should I feel about the genocide my ancestors committed?

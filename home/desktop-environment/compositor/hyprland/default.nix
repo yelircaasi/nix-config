@@ -38,7 +38,6 @@
       ];
       settings = {
         exec-once = [
-          "wezterm"
           "hyprpaper"
         ];
 
@@ -65,7 +64,7 @@
           drop_shadow = true;
           shadow_range = 4;
           shadow_render_power = 3;
-          "col.shadow" = "$base";
+          # "col.shadow" = "0xee1a1a1a";
         };
 
         animations = {
@@ -93,7 +92,7 @@
           "col.border_locked_active" = "rgb(003366)"; # "0xee$yellowAlpha 0xee$redAlpha 45deg";
           "col.border_locked_inactive" = "rgb(242424)"; # "0xaa$overlay0Alpha 0xaa$redAlpha 45deg";
           groupbar = {
-            text_color = "$text";
+            text_color = "0xffffffff";
           };
         };
 
@@ -115,8 +114,8 @@
           "idleinhibit fullscreen, class:^(FreeTube)$"
         ];
 
-        # "$mainMod" = "SUPER";
-        "$mainMod" = "${g.key.hyprland.mod}";
+        
+        "$mainMod" = "${g.key.hyprland.mod}"; # "$mainMod" = "SUPER";
 
         "$opener" = "handlr launch";
         "$term" = "$opener x-scheme-handler/terminal --";

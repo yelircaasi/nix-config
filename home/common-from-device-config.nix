@@ -10,7 +10,7 @@
     if nameBool
     then [namePath]
     else [];
-  listIf = nameList: nameString: namePath:
+  listIf = nameString: nameList: namePath:
     if (builtins.elem nameString nameList)
     then [namePath]
     else [];
@@ -18,12 +18,22 @@ in {
   imports = builtins.concatLists [
     [
       ./applications/console/git
-      ./applications/console/core
       ./applications/console/file-browser/nnn
       ./applications/console/file-browser/xplr
       ./applications/console/file-browser/yazi
+      ./applications/console/navigation/pazi
+      ./applications/console/navigation/zoxide
+      ./applications/console/search/ack
+      ./applications/console/search/fd
+      ./applications/console/search/fzf
+      ./applications/console/search/ripgrep
+      ./applications/console/search/silver-searcher
       ./applications/console/shell
-
+      ./applications/console/viewing/bat
+      ./applications/console/viewing/eza
+      ./applications/console/viewing/ov
+      ./applications/console/viewing/tre-command
+      
       # ./applications/console/calculator-conversion-date
       # ./applications/console/data-wrangling
       # ./applications/console/dev-utils
@@ -38,10 +48,8 @@ in {
       # ./applications/console/
       # ./applications/console/
       # ./applications/console/
-
-
     ]
-    (listIf "neovim" deviceConfig.editors ./applications/development/neovim)
+    (listIf "neovim" deviceConfig.editors ./applications/console/neovim)
     (listIf "wezterm" deviceConfig.terminal-emulators ./applications/gui/terminal-emulator/wezterm)
     (listIf "nyxt" deviceConfig.browsers ./applications/gui/browser/nyxt)
     (listIf "qutebrowser" deviceConfig.browsers ./applications/gui/browser/qutebrowser)

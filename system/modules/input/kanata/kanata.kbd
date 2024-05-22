@@ -13,9 +13,9 @@ lctl      lmet   lalt             spc                  ralt        rmet         
 
 caps           f1   f2   f3   f4               f5      f6     f7    f8          f9   f10  f11   f12
 grv       1      2    3      4       5       6       7       8     9      0       -      =     bspc       
-tab       q      w    e      r       t       y       u       i     o      p       @aspcl @nspcl   \              
-@hybrctl  a      s    d      f       @german h       j       k     l      @number @punct      enter        
-lsft      z      x    c      @vimnav b       n       m       ,     .      /                    rsft            - 
+tab       q      w    e      r       t       y       u       i     o      @punct  @aspcl @nspcl   \              
+@hybrctl  a      s    d      f       @german h       j       k     l      @vimnav @number      enter        
+lsft      z      x    c      v       b       n       m       ,     .      /                    rsft            - 
 lctl      lmet   lalt             spc                     ralt        rmet                     rctl          - - -
 
 )
@@ -36,7 +36,7 @@ lctl      lmet   lalt             spc                     ralt        rmet      
 -             -     -   -     -             -     -    -     -          -    -    -    -
 -       -      -    -      -      -       -     -      -     -      -      -      -    -       
 -       -      -    -      -      -       -     @u     -     @o     -      -      -    -          
--       @a     -    -      -      -       -     -      -     -      -      -           -        
+-       @a     @sz  -      -      -       -     -      -     -      -      -           -        
 @gshift -      -    -      -      -       -     -      -     -      -                  @gshift   -
 -       -      -             -                                      -      -           -       - - -
 
@@ -110,12 +110,12 @@ lctl      lmet   lalt             spc                     ralt        rmet      
 
 (defalias
     hybrctl (tap-hold-press 200 200 esc lctl)
-    vimnav  (tap-hold-press 200 200 v (layer-toggle vimnav))
+    vimnav  (tap-hold-press 200 200 ; (layer-toggle vimnav))
     german  (tap-hold-press 200 200 g (layer-toggle germanmode))
     gshift  (tap-hold-press 200 200 S-g (layer-toggle germanmodecaps))
     
-    number  (tap-hold-press 200 200 ; (layer-toggle numbers))
-    punct   (tap-hold-press 200 200 ' (layer-toggle punctuationetc))
+    number  (tap-hold-press 200 200 ' (layer-toggle numbers))
+    punct   (tap-hold-press 200 200 p (layer-toggle punctuationetc))
     aspcl    (tap-hold-press 200 200 [ (layer-toggle ascii_special))
     nspcl    (tap-hold-press 200 200 ] (layer-toggle nonascii_special))
     
@@ -125,6 +125,7 @@ lctl      lmet   lalt             spc                     ralt        rmet      
     A (unicode Ä)
     O (unicode Ö)
     U (unicode Ü)
+    sz (unicode ß)
 
     angleL (unicode ⟨)
     angleR (unicode ⟩)

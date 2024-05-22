@@ -38,6 +38,7 @@ https://github.com/emad-elsaid/lsgh
 
 https://github.com/jgm/skylighting
 
+https://noogle.dev https://github.com/nix-community/noogle
 https://github.com/andrey-utkin/wearable-computer/wiki
 Improving Table of Contents Recognition Using Layout-Based Features.pdf
 on phone: ntodotxt, simpletask, markor https://f-droid.org/packages/de.tnmgl.ntodotxt/ https://f-droid.org/packages/nl.mpcjanssen.simpletask.webdav/ 
@@ -420,6 +421,9 @@ https://github.com/adriancable/8086tiny
 dwl install https://www.youtube.com/watch?v=OyXAl_EOAO8
 
 https://github.com/codedownio/codedown-languages - use for rosettaprojects
+https://birdfont.org/
+https://github.com/artemsen/swayimg $$$$$$$$$
+
 ## Notes to Sort
 
 Ideas:

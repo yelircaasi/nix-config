@@ -2,6 +2,7 @@
 
 ## 1-Shot Reading
 
+https://genieframework.com/
 $$$ [proceedings.juliacon.org/https://proceedings.juliacon.org/https://proceedings.juliacon.org/](https://proceedings.juliacon.org/https://proceedings.juliacon.org/https://proceedings.juliacon.org/)
 
 ### > make Open Data Structures Julia Edition

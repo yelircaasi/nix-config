@@ -8,8 +8,8 @@
 }
 @keyframes blink_red {
   to {
-    background-color: "<| color.waybar.blinkRedBg |>";
-    color: "<| color.waybar.blinkRedFg |>";
+    background-color: '<| color.waybar.blinkRedBg |>';
+    color: '<| color.waybar.blinkRedFg |>';
   }
 }
 .warning, .critical, .urgent {
@@ -24,7 +24,7 @@ window#waybar {
 }
 window > box {
   margin: 0 0px;
-  background-color: "<| color.waybar.bgWithTransparency |>";
+  background-color: '<| color.waybar.bgWithTransparency |>';
 }
 #workspaces {
   margin: 0 0px;
@@ -35,60 +35,60 @@ window > box {
   padding: 0 0px;
 }
 #workspaces button.focused {
-  background-color: "<| color.waybar.workspaceFocusedBg |>";
-  color: "<| color.waybar.workspaceFocusedFg |>";
+  background-color: '<| color.waybar.workspaceFocusedBg |>';
+  color: '<| color.waybar.workspaceFocusedFg |>';
 }
 #workspaces button.urgent {
-  color: "<| color.waybar.workspaceUrgentFg |>";
+  color: '<| color.waybar.workspaceUrgentFg |>';
 }
 #workspaces button:hover {
-  background-color: "<| color.waybar.workspaceHoverBg |>";
-  color: "<| color.waybar.workspaceHoverFg |>";
+  background-color: '<| color.waybar.workspaceHoverBg |>';
+  color: '<| color.waybar.workspaceHoverFg |>';
 }
 tooltip {
-  background: "<| color.waybar.tooltipBg |>";
+  background: '<| color.waybar.tooltipBg |>';
 }
 tooltip label {
-  color: "<| color.waybar.tooltipLabelFg |>";
+  color: '<| color.waybar.tooltipLabelFg |>';
 }
 #mode, #clock, #memory, #temperature,#cpu,#custom-music, #idle_inhibitor, #temperature, #backlight, #pulseaudio, #network, #battery, #custom-powermenu, #custom-cava-internal {
   padding-left: 8px;
   padding-right: 8px;
 }
 #memory {
-  color: "<| color.waybar.memory |>";
+  color: '<| color.waybar.memory |>';
 }
 #cpu {
-  color: "<| color.waybar.cpu |>";
+  color: '<| color.waybar.cpu |>';
 }
 #clock {
-  color: "<| color.waybar.clock |>";
+  color: '<| color.waybar.clock |>';
 }
 #idle_inhibitor {
-  color: "<| color.waybar.idleInhibitor |>";
+  color: '<| color.waybar.idleInhibitor |>';
 }
 #temperature {
-  color: "<| color.waybar.temperature |>";
+  color: '<| color.waybar.temperature |>';
 }
 #backlight {
-  color: "<| color.waybar.backlight |>";
+  color: '<| color.waybar.backlight |>';
 }
 #pulseaudio {
-  color: "<| color.waybar.pulseAudio |>";
+  color: '<| color.waybar.pulseAudio |>';
 }
 #network {
-  color: "<| color.waybar.network |>";
+  color: '<| color.waybar.network |>';
 }
 #network.disconnected {
-  color: "<| color.waybar.networkDisconnected |>";
+  color: '<| color.waybar.networkDisconnected |>';
 }
 #tray {
   padding-right: 8px;
   padding-left: 10px;
 }
 #window {
-  color: "<| color.waybar.windowFg |>";
+  color: '<| color.waybar.windowFg |>';
 }
 #custom-music {
-  color: "<| color.waybar.customMusic |>";
+  color: '<| color.waybar.customMusic |>';
 }

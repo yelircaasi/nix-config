@@ -414,7 +414,10 @@ https://github.com/nextcloud/theming_customcss
 
 * [-> Language Server Protocol and Implementation: Supporting Language-Smart Editing and Programming Tools](http://library.lol/main/17784F897F0B546E826B1B92846ECC7A)
 * [-> Mastering JavaScript Functional Programming: Write clean, robust, and maintainable web and server code using functional JavaScript and TypeScript](http://library.lol/main/893641748E984949326D20FB2E64EF95)
+https://github.com/Gabriella439/nix-diff
+https://github.com/standard/standard
 
+https://github.com/codedownio/codedown-languages - use for rosettaprojects
 ## Notes to Sort
 
 Ideas:

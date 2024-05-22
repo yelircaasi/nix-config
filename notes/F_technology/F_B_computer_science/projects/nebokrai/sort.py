@@ -43,7 +43,8 @@ def print_tree(strings):
     from collections import defaultdict
 
     # Nested dictionary to hold tree structure
-    def tree(): return defaultdict(tree)
+    def tree() -> defaultdict: 
+        return defaultdict(tree)
 
     root = tree()
 
@@ -70,16 +71,17 @@ def print_tree(strings):
     # Print the root
     print_subtree(root)
 
-print_tree([d["category"] for d in dl])
 
+# dl = [d for d in dl if d["status"]=="decide"]
+print_tree([d["category"] for d in dl])
 display_counts("status", 2)
 display_counts("rating", 2)
 # display_counts("category", 2)
 display_counts("language", 1)
 display_counts("recency", 1)
 
-dl.sort(key=lambda d: (d["category"], d["name"]))
-dl.sort(key=lambda d: (d["status"]))
+dl.sort(key=lambda d: (d["category"], d["rating"], d["name"]))
+# dl.sort(key=lambda d: (d["status"]))
 with open(p, "w") as f:
     json.dump(dl, f, indent=4)
 
@@ -112,7 +114,8 @@ for i, d in enumerate(dl[:-1]):
     "https://github.com/sigoden/dufs $$$$$",
     "https://www.cloudron.io/pricing.html",
     "https://github.com/actualbudget/actual",
-    "-> https://www.cloudron.io/store/index.html"
+    "-> https://www.cloudron.io/store/index.html",
+    "https://www.reddit.com/r/selfhosted/comments/120uyba/what_is_your_go_to_notification_service/"
     ]
     },
     {

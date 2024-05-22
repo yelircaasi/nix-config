@@ -2,6 +2,7 @@
 
 -> Add "Build Your Own Lisp" to Rosetta Projects
 
+https://github.com/marvincolgin/data-structures-and-algorithms
 * [eldritch-cookie/templates](https://github.com/eldritch-cookie/templates) $$$
 * [RosettaProjects](https://github.com/RosettaProjects) Next Step
 * [x]  Rename: RosettaProjects (Github organization
@@ -744,3 +745,14 @@
 * [ ]  [Sourcetrail](https://www.sourcetrail.com/) - Sourcetrail is a free and open-source cross-platform source explorer that helps you get productive on unfamiliar source code.
 * [examples.raku.org/index.html](https://examples.raku.org/index.html)
 * [yrwq/ccc](https://github.com/yrwq/ccc) - good parallel code project - add similar thing!
+
+## Tree
+
+-> also make it take and output JSON, YAML, lists of paths (with different separators)
+
+https://github.com/quux00/tree
+https://github.com/kddnewton/tree
+https://github.com/a8m/tree
+https://oldmanprogrammer.net/source.php?dir=projects/tree
+https://github.com/dduan/tre
+https://github.com/jberryman/directory-tree

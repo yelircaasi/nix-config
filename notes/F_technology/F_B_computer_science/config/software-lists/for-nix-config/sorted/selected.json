@@ -235,15 +235,6 @@
     },
     {
         "category": "console.browser.tui",
-        "name": "chawan",
-        "status": "selected",
-        "link": "https://sr.ht/~bptato/chawan/",
-        "language": "",
-        "description": "",
-        "notes": "(written in Nim! handles CSS and JS)"
-    },
-    {
-        "category": "console.browser.tui",
         "name": "edbrowse",
         "status": "selected",
         "link": "...",
@@ -392,6 +383,15 @@
         "status": "selected",
         "link": "https://github.com/adamritter/fastgron",
         "language": "c++",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.data.document.json",
+        "name": "json-tui",
+        "status": "selected",
+        "link": "https://github.com/ArthurSonzogni/json-tui",
+        "language": "",
         "description": "",
         "notes": ""
     },

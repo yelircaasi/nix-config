@@ -416,6 +416,8 @@ https://github.com/nextcloud/theming_customcss
 * [-> Mastering JavaScript Functional Programming: Write clean, robust, and maintainable web and server code using functional JavaScript and TypeScript](http://library.lol/main/893641748E984949326D20FB2E64EF95)
 https://github.com/Gabriella439/nix-diff
 https://github.com/standard/standard
+https://github.com/adriancable/8086tiny
+dwl install https://www.youtube.com/watch?v=OyXAl_EOAO8
 
 https://github.com/codedownio/codedown-languages - use for rosettaprojects
 ## Notes to Sort

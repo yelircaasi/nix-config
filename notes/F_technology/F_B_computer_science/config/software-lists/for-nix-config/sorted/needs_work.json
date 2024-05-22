@@ -1,7 +1,18 @@
 [
     {
+        "category": "desktop.launcher.gui",
+        "name": "loungy",
+        "nix_name": "",
+        "status": "selected; needs nix packaging",
+        "link": "https://github.com/MatthiasGrandl/Loungy",
+        "language": "",
+        "description": "",
+        "notes": "!!!!!!!!! needs a bit of work to make fully Linux-compatible, as well as Nix packaging"
+    },
+    {
         "category": "console.ai_assistant",
         "name": " ai-terminal-assistant",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/boukeversteegh/ai-terminal-assistant",
         "language": "python",
@@ -11,6 +22,7 @@
     {
         "category": "console.ai_assistant",
         "name": "AI",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/nitefood/ai-bash-gpt",
         "language": "",
@@ -20,6 +32,7 @@
     {
         "category": "console.ai_assistant",
         "name": "Commandpilot",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/barthr/commandpilot",
         "language": "",
@@ -29,6 +42,7 @@
     {
         "category": "console.ai_assistant",
         "name": "aido-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/kris7ian/aido-cli",
         "language": "",
@@ -38,6 +52,7 @@
     {
         "category": "console.ai_assistant",
         "name": "chatgpt",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/mglantz/chatgpt",
         "language": "",
@@ -47,6 +62,7 @@
     {
         "category": "console.ai_assistant",
         "name": "gpt-do",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/yasyf/gpt-do",
         "language": "",
@@ -56,6 +72,7 @@
     {
         "category": "console.best_devenv",
         "name": "waveterm",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://www.waveterm.dev/",
         "language": "",
@@ -65,6 +82,7 @@
     {
         "category": "console.best_devenv",
         "name": "wterm",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/majestrate/wterm",
         "language": "c",
@@ -74,6 +92,7 @@
     {
         "category": "console.browser.cli",
         "name": "graphene",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/atsepkov/Graphene",
         "language": "",
@@ -83,6 +102,7 @@
     {
         "category": "console.browser.cli",
         "name": "hget",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/bevacqua/hget",
         "language": "",
@@ -92,6 +112,7 @@
     {
         "category": "console.browser.tui",
         "name": "w3m-mee",
+        "nix_name": "",
         "status": "needs work",
         "link": "http://pub.ks-and-ks.ne.jp/prog/w3mmee/",
         "language": "",
@@ -101,6 +122,7 @@
     {
         "category": "console.calculator-conversion-date",
         "name": "cash-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/xxczaki/cash-cli",
         "language": "",
@@ -110,6 +132,7 @@
     {
         "category": "console.calculator-conversion-date",
         "name": "mdlt",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/metadelta/mdlt",
         "language": "",
@@ -119,6 +142,7 @@
     {
         "category": "console.calculator-conversion-date",
         "name": "nota",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/pouyakary/Nota",
         "language": "",
@@ -128,6 +152,7 @@
     {
         "category": "console.calculator-conversion-date",
         "name": "pdd",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jarun/pdd",
         "language": "",
@@ -137,6 +162,7 @@
     {
         "category": "console.calculator-conversion-date",
         "name": "texel",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Lauriat/texel",
         "language": "",
@@ -146,6 +172,7 @@
     {
         "category": "console.cleanup",
         "name": "classifier",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/bhrigu123/classifier",
         "language": "",
@@ -155,6 +182,7 @@
     {
         "category": "console.cleanup",
         "name": "organize-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/ManrajGrover/organize-cli",
         "language": "",
@@ -164,6 +192,7 @@
     {
         "category": "console.cleanup",
         "name": "organizer",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://gitlab.gnome.org/aviwad/organizer",
         "language": "",
@@ -173,6 +202,7 @@
     {
         "category": "console.cleanup",
         "name": "wutag",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/vv9k/wutag",
         "language": "",
@@ -182,6 +212,7 @@
     {
         "category": "console.data.document.epub",
         "name": "epr",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/wustho/epr",
         "language": "",
@@ -191,6 +222,7 @@
     {
         "category": "console.data.document.html",
         "name": "hget",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/bevacqua/hget",
         "language": "",
@@ -200,6 +232,7 @@
     {
         "category": "console.data.document.json",
         "name": "fx",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/antonmedv/fx",
         "language": "go",
@@ -208,7 +241,18 @@
     },
     {
         "category": "console.data.document.json",
+        "name": "pyfx",
+        "nix_name": "",
+        "status": "needs work",
+        "link": "https://github.com/cielong/pyfx",
+        "language": "python",
+        "description": "",
+        "notes": "supports yaml; fork to make more configurable: themes and keybinds, text-based config instead of only envvars, but still phenomenal and worth installing"
+    },
+    {
+        "category": "console.data.document.json",
         "name": "jtc",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/ldn-softdev/jtc",
         "language": "",
@@ -218,6 +262,7 @@
     {
         "category": "console.data.document.json",
         "name": "strip-json-comments-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sindresorhus/strip-json-comments-cli",
         "language": "",
@@ -227,6 +272,7 @@
     {
         "category": "console.data.document.markdown",
         "name": "doctoc",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/thlorenz/doctoc",
         "language": "",
@@ -236,6 +282,7 @@
     {
         "category": "console.data.document.markdown",
         "name": "mdcat",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/swsnr/mdcat",
         "language": "",
@@ -245,6 +292,7 @@
     {
         "category": "console.data.document.markdown",
         "name": "mdt",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/robolab-pavia/mdt",
         "language": "python",
@@ -254,6 +302,7 @@
     {
         "category": "console.data.document.pdf",
         "name": "pdftty",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/kpj/pdftty",
         "language": "",
@@ -263,6 +312,7 @@
     {
         "category": "console.data.document.slideshow",
         "name": "deck.js",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/imakewebthings/deck.js",
         "language": "",
@@ -272,24 +322,27 @@
     {
         "category": "console.data.document.slideshow",
         "name": "hacker-slides",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/msoedov/hacker-slides",
         "language": "",
         "description": "",
-        "notes": ")[hacker-slides,](https://github.com/rga2/hacker-slides,) - Reveal.js based presentation tool"
+        "notes": "[hacker-slides,](https://github.com/rga2/hacker-slides,) - Reveal.js based presentation tool"
     },
     {
         "category": "console.data.document.slideshow",
         "name": "sent",
+        "nix_name": "",
         "status": "needs work",
-        "link": "https://git.suckless.org/sent/log.html",
-        "language": "",
-        "description": "",
-        "notes": "Simple plaintext presentation tool. -> port away from X11"
+        "link": "https://git.suckless.org/sent/files.html",
+        "language": "c",
+        "description": "Simple plaintext presentation tool",
+        "notes": "port away from X11 -> use https://nappgui.com/en/home/web/home.html or https://github.com/Immediate-Mode-UI/Nuklear for a minimalistic GUI -> to RosettaProjects"
     },
     {
         "category": "console.data.document.tabular",
         "name": "xsv",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/BurntSushi/xsv",
         "language": "rust",
@@ -299,6 +352,7 @@
     {
         "category": "console.data.document.toml",
         "name": "toml-cl",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/gnprice/toml-cli",
         "language": "",
@@ -308,6 +362,7 @@
     {
         "category": "console.data.wrangling",
         "name": "data-tools",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/clarkgrubb/data-tools",
         "language": "",
@@ -317,6 +372,7 @@
     {
         "category": "console.data.wrangling",
         "name": "ebook-converter",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/gryf/ebook-converter",
         "language": "",
@@ -326,6 +382,7 @@
     {
         "category": "console.data.wrangling",
         "name": "gzip-size-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sindresorhus/gzip-size-cli",
         "language": "",
@@ -335,6 +392,7 @@
     {
         "category": "console.data.wrangling",
         "name": "jiq",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://search.nixos.org/packages?channel=23.11&show=jiq&from=0&size=50&sort=relevance&type=packages&query=jiq",
         "language": "",
@@ -344,6 +402,7 @@
     {
         "category": "console.data.wrangling",
         "name": "ramda-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/raine/ramda-cli",
         "language": "",
@@ -353,6 +412,7 @@
     {
         "category": "console.data.wrangling",
         "name": "randexp.js",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/fent/randexp.js",
         "language": "",
@@ -362,6 +422,7 @@
     {
         "category": "console.data.wrangling",
         "name": "rq",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/dflemstr/rq",
         "language": "",
@@ -371,6 +432,7 @@
     {
         "category": "console.data.wrangling",
         "name": "tokenize-output",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/anki-code/tokenize-output",
         "language": "",
@@ -380,6 +442,7 @@
     {
         "category": "console.data.wrangling",
         "name": "up",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/akavel/up",
         "language": "",
@@ -389,6 +452,7 @@
     {
         "category": "console.development.analysis_refactoring_formatting",
         "name": "lexis",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/k4m4/lexis",
         "language": "",
@@ -398,6 +462,7 @@
     {
         "category": "console.development.analysis_refactoring_formatting",
         "name": "restructor",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://strlen.com/restructor/",
         "language": "",
@@ -407,6 +472,7 @@
     {
         "category": "console.development.analysis_refactoring_formatting",
         "name": "tag",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/aykamko/tag",
         "language": "",
@@ -416,6 +482,7 @@
     {
         "category": "console.development.changelog",
         "name": "clog-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/clog-tool/clog-cli",
         "language": "",
@@ -425,6 +492,7 @@
     {
         "category": "console.development.logs",
         "name": "logdissect/",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/dogoncouch/logdissect/",
         "language": "",
@@ -434,6 +502,7 @@
     {
         "category": "console.development.miscellaneous",
         "name": "detect-indent-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sindresorhus/detect-indent-cli",
         "language": "",
@@ -443,6 +512,7 @@
     {
         "category": "console.development.readme",
         "name": "README-Generator",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/markmcdnyu/README-Generator",
         "language": "",
@@ -452,6 +522,7 @@
     {
         "category": "console.development.readme",
         "name": "readme-generator",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jfisher396/readme-generator",
         "language": "",
@@ -461,6 +532,7 @@
     {
         "category": "console.development.readme",
         "name": "readme-md-generator",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/kefranabg/readme-md-generator",
         "language": "",
@@ -470,6 +542,7 @@
     {
         "category": "console.development.semver",
         "name": "git-semver",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/markchalloner/git-semver",
         "language": "shell",
@@ -479,6 +552,7 @@
     {
         "category": "console.development.semver",
         "name": "semver_bash",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/cloudflare/semver_bash",
         "language": "",
@@ -488,6 +562,7 @@
     {
         "category": "console.development.semver",
         "name": "sh-semver",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/qzb/sh-semver",
         "language": "",
@@ -497,6 +572,7 @@
     {
         "category": "console.development.templating",
         "name": "boilr",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/tmrts/boilr",
         "language": "",
@@ -506,6 +582,7 @@
     {
         "category": "console.development.templating",
         "name": "proji",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/nikoksr/proji",
         "language": "",
@@ -515,6 +592,7 @@
     {
         "category": "console.development.testing",
         "name": "pvcheck",
+        "nix_name": "pvcheck",
         "status": "needs work",
         "link": "https://github.com/claudio-unipv/pvcheck",
         "language": "",
@@ -524,6 +602,7 @@
     {
         "category": "console.development.testing",
         "name": "squ",
+        "nix_name": "squ",
         "status": "needs work",
         "link": "https://github.com/opensibyl/squ",
         "language": "",
@@ -533,6 +612,7 @@
     {
         "category": "console.developmentl.license",
         "name": "choosealicense",
+        "nix_name": "choosealicense",
         "status": "needs work",
         "link": "https://github.com/lord63/choosealicense-cli",
         "language": "",
@@ -542,6 +622,7 @@
     {
         "category": "console.developmentl.license",
         "name": "legit",
+        "nix_name": "legit",
         "status": "needs work",
         "link": "https://github.com/captainsafia/legit",
         "language": "",
@@ -551,6 +632,7 @@
     {
         "category": "console.developmentl.license",
         "name": "license-up",
+        "nix_name": "license-up",
         "status": "needs work",
         "link": "https://github.com/nikitavoloboev/license-up",
         "language": "",
@@ -560,6 +642,7 @@
     {
         "category": "console.developmentl.license",
         "name": "licins",
+        "nix_name": "licins",
         "status": "needs work",
         "link": "https://github.com/dogoncouch/licins",
         "language": "",
@@ -569,6 +652,7 @@
     {
         "category": "console.developmentl.license",
         "name": "mklicense",
+        "nix_name": "mklicense",
         "status": "needs work",
         "link": "https://github.com/cezaraugusto/mklicense",
         "language": "",
@@ -578,6 +662,7 @@
     {
         "category": "console.devshell",
         "name": "nixify",
+        "nix_name": "nixify",
         "status": "needs work",
         "link": "https://github.com/kampka/nixify",
         "language": "",
@@ -587,6 +672,7 @@
     {
         "category": "console.educational",
         "name": "sha256-animation",
+        "nix_name": "sha256-animation",
         "status": "needs work",
         "link": "https://github.com/in3rsha/sha256-animation",
         "language": "",
@@ -596,6 +682,7 @@
     {
         "category": "console.educational.reading",
         "name": "haxor-news",
+        "nix_name": "haxor-news",
         "status": "needs work",
         "link": "https://github.com/donnemartin/haxor-news",
         "language": "",
@@ -605,6 +692,7 @@
     {
         "category": "console.educational.reading",
         "name": "medium-cli",
+        "nix_name": "medium-cli",
         "status": "needs work",
         "link": "https://github.com/djadmin/medium-cli",
         "language": "",
@@ -614,6 +702,7 @@
     {
         "category": "console.educational.reading",
         "name": "pockyt",
+        "nix_name": "pockyt",
         "status": "needs work",
         "link": "https://github.com/arvindch/pockyt",
         "language": "",
@@ -623,6 +712,7 @@
     {
         "category": "console.educational.reading",
         "name": "redlib",
+        "nix_name": "redlib",
         "status": "needs work",
         "link": "https://github.com/redlib-org/redlib",
         "language": "",
@@ -632,6 +722,7 @@
     {
         "category": "console.educational.speedreading",
         "name": "greedy",
+        "nix_name": "greedy",
         "status": "needs work",
         "link": "https://git.sr.ht/~skuzzymiglet/greedy",
         "language": "",
@@ -641,6 +732,7 @@
     {
         "category": "console.educational.speedreading",
         "name": "speed_read",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sunsations/speed_read",
         "language": "",
@@ -650,6 +742,7 @@
     {
         "category": "console.educational.speedreading",
         "name": "speedread",
+        "nix_name": "speedread",
         "status": "needs work",
         "link": "https://github.com/pasky/speedread",
         "language": "",
@@ -659,6 +752,7 @@
     {
         "category": "console.fetch",
         "name": "afetch",
+        "nix_name": "afetch",
         "status": "needs work",
         "link": "https://github.com/13-CF/afetch",
         "language": "",
@@ -668,6 +762,7 @@
     {
         "category": "console.fetch",
         "name": "nitch",
+        "nix_name": "nitch",
         "status": "needs work",
         "link": "https://github.com/ssleert/nitch",
         "language": "",
@@ -677,6 +772,7 @@
     {
         "category": "console.fetch",
         "name": "sfetch",
+        "nix_name": "sfetch",
         "status": "needs work",
         "link": "https://codeberg.org/DoutorJP/sfetch",
         "language": "c++",
@@ -686,6 +782,7 @@
     {
         "category": "console.fun",
         "name": "football-cli",
+        "nix_name": "football-cli",
         "status": "needs work",
         "link": "https://github.com/manrajgrover/football-cli",
         "language": "",
@@ -695,6 +792,7 @@
     {
         "category": "console.fun",
         "name": "livescore-cli",
+        "nix_name": "livescore",
         "status": "needs work",
         "link": "https://github.com/codeezer/livescore-cli",
         "language": "",
@@ -704,6 +802,7 @@
     {
         "category": "console.fun",
         "name": "matrix-webcam",
+        "nix_name": "matrix-webcam",
         "status": "needs work",
         "link": "https://github.com/joschuck/matrix-webcam",
         "language": "",
@@ -713,6 +812,7 @@
     {
         "category": "console.fun",
         "name": "pipes.c",
+        "nix_name": "pipes-c",
         "status": "needs work",
         "link": "https://github.com/pipeseroni/pipes.c",
         "language": "",
@@ -722,6 +822,7 @@
     {
         "category": "console.fun",
         "name": "pipes.sh",
+        "nix_name": "",
         "status": "needs work",
         "link": "http://pipes.sh/",
         "language": "",
@@ -731,6 +832,7 @@
     {
         "category": "console.fun",
         "name": "rainbow",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/raincoats/rainbow",
         "language": "",
@@ -740,6 +842,7 @@
     {
         "category": "console.fun",
         "name": "soccer-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/architv/soccer-cli",
         "language": "",
@@ -749,6 +852,7 @@
     {
         "category": "console.fun",
         "name": "terminal-canvas",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/ghaiklor/terminal-canvas",
         "language": "",
@@ -758,6 +862,7 @@
     {
         "category": "console.fun.effects",
         "name": "no-more-secrets",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/bartobri/no-more-secrets",
         "language": "",
@@ -767,6 +872,7 @@
     {
         "category": "console.fun.emoji",
         "name": "emoji-finder",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/dematerializer/emoji-finder",
         "language": "",
@@ -776,6 +882,7 @@
     {
         "category": "console.fun.emoji",
         "name": "emojify",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/mrowa44/emojify",
         "language": "",
@@ -785,6 +892,7 @@
     {
         "category": "console.fun.emoji",
         "name": "oji",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/xxczaki/oji",
         "language": "",
@@ -794,6 +902,7 @@
     {
         "category": "console.fun.eye_candy",
         "name": "Braille-ASCII-Art",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/LachlanArthur/Braille-ASCII-Art",
         "language": "",
@@ -803,6 +912,7 @@
     {
         "category": "console.fun.eye_candy",
         "name": "braille-ascii-art",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/koraykzly/braille-ascii-art",
         "language": "",
@@ -812,6 +922,7 @@
     {
         "category": "console.fun.eye_candy",
         "name": "cli-fireplace",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/dolsup/cli-fireplace",
         "language": "",
@@ -821,6 +932,7 @@
     {
         "category": "console.fun.eye_candy",
         "name": "termsaver",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/brunobraga/termsaver",
         "language": "",
@@ -830,6 +942,7 @@
     {
         "category": "console.fun.eye_candy",
         "name": "ternimal",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/p-e-w/ternimal",
         "language": "",
@@ -839,6 +952,7 @@
     {
         "category": "console.fun.games",
         "name": "maze_solver_rust",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Vlamonster/maze_solver_rust",
         "language": "",
@@ -848,6 +962,7 @@
     {
         "category": "console.fun.maps",
         "name": "gdir",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/pafoster/gdir",
         "language": "",
@@ -857,6 +972,7 @@
     {
         "category": "console.fun.maps",
         "name": "iponmap",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/nogizhopaboroda/iponmap",
         "language": "",
@@ -866,6 +982,7 @@
     {
         "category": "console.fun.maps",
         "name": "osmf",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/codesoap/osmf",
         "language": "",
@@ -875,6 +992,7 @@
     {
         "category": "console.fun.meme",
         "name": "dankcli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sggts04/dankcli",
         "language": "",
@@ -884,6 +1002,7 @@
     {
         "category": "console.fun.meme",
         "name": "text-meme-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/beatfreaker/text-meme-cli",
         "language": "",
@@ -893,6 +1012,7 @@
     {
         "category": "console.fun.messages_quotes_welcomes",
         "name": "quote-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/riyadhalnur/quote-cli",
         "language": "",
@@ -902,6 +1022,7 @@
     {
         "category": "console.fun.messages_quotes_welcomes",
         "name": "welcome.sh",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/G2-Games/welcome.sh",
         "language": "",
@@ -911,6 +1032,7 @@
     {
         "category": "console.help",
         "name": "eg",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/srsudar/eg",
         "language": "",
@@ -920,6 +1042,7 @@
     {
         "category": "console.help",
         "name": "fast-tldr",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/gutjuri/fast-tldr",
         "language": "",
@@ -929,6 +1052,7 @@
     {
         "category": "console.help",
         "name": "tldr-hs",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/psibi/tldr-hs",
         "language": "",
@@ -938,6 +1062,7 @@
     {
         "category": "console.illustration",
         "name": "asciichart",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/kroitor/asciichart",
         "language": "",
@@ -947,6 +1072,7 @@
     {
         "category": "console.illustration",
         "name": "asciigraph",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Yardanico/asciigraph",
         "language": "",
@@ -956,6 +1082,7 @@
     {
         "category": "console.illustration",
         "name": "spark",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/holman/spark",
         "language": "",
@@ -965,6 +1092,7 @@
     {
         "category": "console.illustration",
         "name": "spark.fish",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jorgebucaran/spark.fish",
         "language": "",
@@ -974,6 +1102,7 @@
     {
         "category": "console.illustration",
         "name": "sparkly-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sindresorhus/sparkly-cli",
         "language": "",
@@ -983,6 +1112,7 @@
     {
         "category": "console.menu_and-launcher",
         "name": "Selecta",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/garybernhardt/selecta",
         "language": "",
@@ -992,6 +1122,7 @@
     {
         "category": "console.menu_and-launcher",
         "name": "percol",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/mooz/percol",
         "language": "",
@@ -1001,6 +1132,7 @@
     {
         "category": "console.menu_and-launcher",
         "name": "rrun",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/buster/rrun",
         "language": "",
@@ -1010,6 +1142,7 @@
     {
         "category": "console.menu_and-launcher",
         "name": "selector",
+        "nix_name": "",
         "status": "needs work",
         "link": "http://fleuret.org/cgi-bin/gitweb/gitweb.cgi?p=selector",
         "language": "",
@@ -1019,6 +1152,7 @@
     {
         "category": "console.menu_and-launcher",
         "name": "shellex",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Merovius/shellex",
         "language": "",
@@ -1028,6 +1162,7 @@
     {
         "category": "console.menu_and-launcher",
         "name": "slmenu",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/joshaw/slmenu",
         "language": "",
@@ -1037,6 +1172,7 @@
     {
         "category": "console.miscellaneous",
         "name": "muc",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/nate-sys/muc",
         "language": "",
@@ -1046,6 +1182,7 @@
     {
         "category": "console.miscellaneous",
         "name": "pipe_exec",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/koraa/pipe_exec",
         "language": "",
@@ -1055,6 +1192,7 @@
     {
         "category": "console.miscellaneous.weather",
         "name": "weather-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/riyadhalnur/weather-cli",
         "language": "",
@@ -1064,6 +1202,7 @@
     {
         "category": "console.multiplexer",
         "name": "procmux",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/napisani/procmux",
         "language": "",
@@ -1073,6 +1212,7 @@
     {
         "category": "console.renaming",
         "name": "f2",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/ayoisaiah/f2",
         "language": "",
@@ -1082,6 +1222,7 @@
     {
         "category": "console.renaming",
         "name": "node-rename-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jhotmann/node-rename-cli",
         "language": "",
@@ -1091,6 +1232,7 @@
     {
         "category": "console.renaming",
         "name": "nomino",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/yaa110/nomino",
         "language": "",
@@ -1100,6 +1242,7 @@
     {
         "category": "console.search",
         "name": "find-up-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sindresorhus/find-up-cli",
         "language": "",
@@ -1109,6 +1252,7 @@
     {
         "category": "console.search",
         "name": "spot",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/rauchg/spot",
         "language": "",
@@ -1118,6 +1262,7 @@
     {
         "category": "console.session_sharing",
         "name": "warp",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/spolu/warp",
         "language": "",
@@ -1127,6 +1272,7 @@
     {
         "category": "console.sets.core",
         "name": "RecoverPy",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/PabloLec/RecoverPy",
         "language": "",
@@ -1136,6 +1282,7 @@
     {
         "category": "console.sets.core",
         "name": "ad",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/tanrax/terminal-AdvancedNewFile",
         "language": "",
@@ -1145,6 +1292,7 @@
     {
         "category": "console.sets.core",
         "name": "boom",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/holman/boom",
         "language": "",
@@ -1154,6 +1302,7 @@
     {
         "category": "console.sets.core",
         "name": "brash",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/zakariagatter/brash",
         "language": "",
@@ -1163,6 +1312,7 @@
     {
         "category": "console.sets.core",
         "name": "coderun",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://www.reddit.com/r/commandline/comments/lo1m6u/coderun_code_runner_cli_that_can_automatically/",
         "language": "",
@@ -1172,6 +1322,7 @@
     {
         "category": "console.sets.core",
         "name": "commacd",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/shyiko/commacd",
         "language": "",
@@ -1181,6 +1332,7 @@
     {
         "category": "console.sets.core",
         "name": "cope",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/lotrfan/cope",
         "language": "",
@@ -1190,6 +1342,7 @@
     {
         "category": "console.sets.core",
         "name": "progress",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Xfennec/progress",
         "language": "",
@@ -1199,6 +1352,7 @@
     {
         "category": "console.sets.core",
         "name": "rm-improved",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/nivekuil/rip",
         "language": "",
@@ -1208,6 +1362,7 @@
     {
         "category": "console.sets.core",
         "name": "runner",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sudoerp/runner",
         "language": "",
@@ -1217,6 +1372,7 @@
     {
         "category": "console.sets.core",
         "name": "t",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/adamheins/t",
         "language": "",
@@ -1226,6 +1382,7 @@
     {
         "category": "console.sets.core",
         "name": "temci",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/parttimenerd/temci",
         "language": "",
@@ -1235,6 +1392,7 @@
     {
         "category": "console.sets.core",
         "name": "topalias",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/meteoritt/topalias",
         "language": "",
@@ -1244,6 +1402,7 @@
     {
         "category": "console.sets.core",
         "name": "unix-permissions",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/ehmicky/unix-permissions",
         "language": "",
@@ -1253,6 +1412,7 @@
     {
         "category": "console.sets.core",
         "name": "up",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/shannonmoeller/up",
         "language": "",
@@ -1262,6 +1422,7 @@
     {
         "category": "console.sets.maximalist",
         "name": "gocatgo",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/vaaleyard/gocatgo",
         "language": "",
@@ -1271,6 +1432,7 @@
     {
         "category": "console.sets.maximalist",
         "name": "pcopy",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/binwiederhier/pcopy",
         "language": "",
@@ -1280,6 +1442,7 @@
     {
         "category": "console.shells",
         "name": "SwitchAxe/Rewind: A modern functional shell and a programming language",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/SwitchAxe/Rewind",
         "language": "",
@@ -1289,6 +1452,7 @@
     {
         "category": "console.sleep_and_eyes",
         "name": "breaktimer",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/tom-james-watson/breaktimer-app",
         "language": "typescript",
@@ -1298,6 +1462,7 @@
     {
         "category": "console.sleep_and_eyes",
         "name": "randman-Lite",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/alexanderepstein/Sandman-Lite",
         "language": "",
@@ -1307,6 +1472,7 @@
     {
         "category": "console.sleep_and_eyes",
         "name": "zenbreak",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Giuliopime/ZenBreak | https://zenbreak.app/",
         "language": "kotlin",
@@ -1316,6 +1482,7 @@
     {
         "category": "console.sleep_and_eyes.timer",
         "name": "pomatez",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/zidoro/pomatez",
         "language": "typescript",
@@ -1325,6 +1492,7 @@
     {
         "category": "console.snippets",
         "name": "snipkit",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/lemoony/snipkit",
         "language": "",
@@ -1334,6 +1502,7 @@
     {
         "category": "console.snippets",
         "name": "snips",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/srijanshetty/snips",
         "language": "",
@@ -1343,6 +1512,7 @@
     {
         "category": "console.task_scripting",
         "name": "actiona",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Jmgr/actiona",
         "language": "",
@@ -1352,6 +1522,7 @@
     {
         "category": "console.time.clock.special",
         "name": "cli-stopwatch",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/clyde80/cli-stopwatch",
         "language": "",
@@ -1361,6 +1532,7 @@
     {
         "category": "console.time.clock.special",
         "name": "clock-cli-rs",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/TianyiShi2001/clock-cli-rs",
         "language": "",
@@ -1370,6 +1542,7 @@
     {
         "category": "console.time.clock.special",
         "name": "timer-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/1Blademaster/timer-cli",
         "language": "",
@@ -1379,6 +1552,7 @@
     {
         "category": "console.time.pomodoro",
         "name": "pomo (alt)",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sayanarijit/pomo",
         "language": "",
@@ -1388,6 +1562,7 @@
     {
         "category": "console.time.pomodoro",
         "name": "pomodoro",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/SebStrug/pomodoro",
         "language": "rust",
@@ -1397,6 +1572,7 @@
     {
         "category": "console.time.pomodoro",
         "name": "pomodoro (haskell)",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/zohl/pomodoro",
         "language": "haskell",
@@ -1406,6 +1582,7 @@
     {
         "category": "console.time.pomodoro",
         "name": "simple script",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Prayag2/pomo",
         "language": "bash",
@@ -1415,6 +1592,7 @@
     {
         "category": "console.time.sleep",
         "name": "Sandman-Lite",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/alexanderepstein/Sandman-Lite",
         "language": "",
@@ -1424,6 +1602,7 @@
     {
         "category": "console.viewing",
         "name": "nbbat",
+        "nix_name": "",
         "status": "needs work",
         "link": "...",
         "language": "",
@@ -1433,6 +1612,7 @@
     {
         "category": "console.viewing",
         "name": "nbcat",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/yelircaasi/nbcat",
         "language": "",
@@ -1442,6 +1622,7 @@
     {
         "category": "console.web.rss",
         "name": "canto-curses",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/themoken/canto-curses",
         "language": "",
@@ -1451,6 +1632,7 @@
     {
         "category": "console.web.rss",
         "name": "rreader",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/rainygirl/rreader",
         "language": "",
@@ -1460,6 +1642,7 @@
     {
         "category": "console.website_interfaces",
         "name": "facebook-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/specious/facebook-cli",
         "language": "",
@@ -1469,6 +1652,7 @@
     {
         "category": "console.website_interfaces",
         "name": "hn-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/rafaelrinaldi/hn-cli",
         "language": "",
@@ -1478,6 +1662,7 @@
     {
         "category": "console.website_interfaces",
         "name": "medium-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/djadmin/medium-cli",
         "language": "",
@@ -1487,6 +1672,7 @@
     {
         "category": "console.website_interfaces",
         "name": "meetup-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/specious/meetup-cli",
         "language": "",
@@ -1496,6 +1682,7 @@
     {
         "category": "console.website_interfaces",
         "name": "vk-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/vk-cli/vk",
         "language": "d",
@@ -1505,6 +1692,7 @@
     {
         "category": "desktop.bar.widgets",
         "name": "playerctl-polybar",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://yarmo.eu/blog/playerctl-polybar/",
         "language": "",
@@ -1514,6 +1702,7 @@
     {
         "category": "desktop.compositor",
         "name": "dwl-guile",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/engstrand-config/dwl-guile",
         "language": "",
@@ -1523,6 +1712,7 @@
     {
         "category": "desktop.compositor",
         "name": "magmawm",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/MagmaWM/MagmaWM",
         "language": "",
@@ -1532,6 +1722,7 @@
     {
         "category": "desktop.compositor",
         "name": "monroeclinton/mwm: My Window Manager",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/monroeclinton/mwm",
         "language": "",
@@ -1541,6 +1732,7 @@
     {
         "category": "desktop.compositor",
         "name": "newm-atha",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://sr.ht/~atha/newm-atha/",
         "language": "",
@@ -1550,6 +1742,7 @@
     {
         "category": "desktop.compositor",
         "name": "newm: Wayland compositor",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jbuchermn/newm",
         "language": "",
@@ -1559,6 +1752,7 @@
     {
         "category": "desktop.compositor",
         "name": "noway",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/mora-unie-youer/noway",
         "language": "",
@@ -1568,6 +1762,7 @@
     {
         "category": "desktop.compositor",
         "name": "pinnaclewm",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/pinnacle-comp/pinnacle",
         "language": "",
@@ -1577,6 +1772,7 @@
     {
         "category": "desktop.compositor",
         "name": "stratawm",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/StrataWM/strata",
         "language": "",
@@ -1586,6 +1782,7 @@
     {
         "category": "desktop.compositor",
         "name": "taiwins",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/taiwins/taiwins",
         "language": "",
@@ -1595,6 +1792,7 @@
     {
         "category": "desktop.compositor",
         "name": "vivarium",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/inclement/vivarium",
         "language": "",
@@ -1604,6 +1802,7 @@
     {
         "category": "desktop.compositor",
         "name": "way-cooler",
+        "nix_name": "",
         "status": "needs work",
         "link": "http://way-cooler.org/",
         "language": "",
@@ -1613,6 +1812,7 @@
     {
         "category": "desktop.compositor",
         "name": "waymonad",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/waymonad/waymonad",
         "language": "",
@@ -1622,6 +1822,7 @@
     {
         "category": "desktop.compositor",
         "name": "waymonader",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/ardek66/waymonader",
         "language": "",
@@ -1631,6 +1832,7 @@
     {
         "category": "desktop.compositor",
         "name": "wmoon",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Natchuz/wmoon",
         "language": "",
@@ -1640,6 +1842,7 @@
     {
         "category": "desktop.greeter.console",
         "name": "CDM",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/evertiro/cdm",
         "language": "",
@@ -1649,6 +1852,7 @@
     {
         "category": "desktop.greeter.gui",
         "name": "hgreet",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Vawlpe/hgreet",
         "language": "",
@@ -1658,6 +1862,7 @@
     {
         "category": "desktop.launcher.gui",
         "name": "Icepick",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/felipesere/icepick",
         "language": "",
@@ -1667,6 +1872,7 @@
     {
         "category": "desktop.launcher.gui",
         "name": "dmenu-wayland",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/nyyManni/dmenu-wayland",
         "language": "",
@@ -1676,6 +1882,7 @@
     {
         "category": "desktop.launcher.gui",
         "name": "hex",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Twins-Divyanshu-Sharma/Hex",
         "language": "",
@@ -1685,6 +1892,7 @@
     {
         "category": "desktop.launcher.gui",
         "name": "hmenu",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sulami/hmenu",
         "language": "",
@@ -1694,6 +1902,7 @@
     {
         "category": "desktop.launcher.gui",
         "name": "lighthouse",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/emgram769/lighthouse",
         "language": "",
@@ -1703,6 +1912,7 @@
     {
         "category": "desktop.launcher.gui",
         "name": "mounch",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/chmouel/mounch",
         "language": "python",
@@ -1712,6 +1922,7 @@
     {
         "category": "desktop.launcher.gui",
         "name": "sway-launcher-desktop",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Biont/sway-launcher-desktop",
         "language": "",
@@ -1721,6 +1932,7 @@
     {
         "category": "desktop.launcher.plugins",
         "name": "keepmenu",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/firecat53/keepmenu",
         "language": "",
@@ -1730,6 +1942,7 @@
     {
         "category": "desktop.launcher.plugins",
         "name": "rofi-calc",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/svenstaro/rofi-calc",
         "language": "",
@@ -1739,6 +1952,7 @@
     {
         "category": "desktop.launcher.plugins",
         "name": "rofi-nerdy",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/rolv-apneseth/rofi-nerdy",
         "language": "",
@@ -1748,6 +1962,7 @@
     {
         "category": "desktop.lockscreen",
         "name": "Paulo-Murilo-Dev/42screensaver",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Paulo-Murilo-Dev/42screensaver",
         "language": "",
@@ -1757,6 +1972,7 @@
     {
         "category": "desktop.lockscreen",
         "name": "betterlockscreen",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/betterlockscreen/betterlockscreen",
         "language": "",
@@ -1766,6 +1982,7 @@
     {
         "category": "desktop.lockscreen",
         "name": "display3d",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/redpenguinyt/display3d",
         "language": "",
@@ -1775,6 +1992,7 @@
     {
         "category": "desktop.miscellaneous.theme_switcher",
         "name": "nChain",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Nocxium/nChain",
         "language": "",
@@ -1784,6 +2002,7 @@
     {
         "category": "desktop.notifications",
         "name": "ntfy",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/dschep/ntfy",
         "language": "",
@@ -1793,6 +2012,7 @@
     {
         "category": "desktop.notifications",
         "name": "undistract-me",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jml/undistract-me",
         "language": "",
@@ -1802,6 +2022,7 @@
     {
         "category": "desktop.openers",
         "name": "jaro",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/isamert/jaro",
         "language": "scheme",
@@ -1811,6 +2032,7 @@
     {
         "category": "desktop.openers",
         "name": "mimi",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/BachoSeven/mimi",
         "language": "",
@@ -1820,6 +2042,7 @@
     {
         "category": "desktop.openers",
         "name": "open-in-editor",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/dandavison/open-in-editor",
         "language": "",
@@ -1829,6 +2052,7 @@
     {
         "category": "desktop.relevant_system_libraries",
         "name": "nixGL",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/cfhammill/nixGL",
         "language": "",
@@ -1838,6 +2062,7 @@
     {
         "category": "desktop.screenshot",
         "name": "shutter-on-wayland",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/mvivarelli/shutter-on-wayland",
         "language": "perl",
@@ -1847,6 +2072,7 @@
     {
         "category": "desktop.utils.brightness_and_battery",
         "name": "batstat",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Juve45/batstat",
         "language": "",
@@ -1856,6 +2082,7 @@
     {
         "category": "desktop.wallpaper",
         "name": "Daily-Reddit-Wallpaper",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://federicotorrielli.github.io/Daily-Reddit-Wallpaper/",
         "language": "",
@@ -1865,6 +2092,7 @@
     {
         "category": "desktop.wallpaper",
         "name": "smoothpaper",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/matjam/smoothpaper",
         "language": "",
@@ -1874,6 +2102,7 @@
     {
         "category": "desktop.wallpaper",
         "name": "sunpaper",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/hexive/sunpaper",
         "language": "shell",
@@ -1883,6 +2112,7 @@
     {
         "category": "desktop.wallpaper",
         "name": "todowalp",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/linuxdotexe/todowalp",
         "language": "",
@@ -1892,6 +2122,7 @@
     {
         "category": "desktop.wallpaper.monitoring",
         "name": "victorconky",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/kushall09/victorconky",
         "language": "",
@@ -1901,6 +2132,7 @@
     {
         "category": "desktop.wayland_libraries",
         "name": "wayflan: From-scratch Wayland client for Common Lisp",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://sr.ht/~shunter/wayflan/",
         "language": "",
@@ -1910,6 +2142,7 @@
     {
         "category": "development.ai",
         "name": "Stevenic/codepilot: Codepilot is a programming buddy that is an expert on your codebase.",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Stevenic/codepilot",
         "language": "",
@@ -1919,6 +2152,7 @@
     {
         "category": "development.ai",
         "name": "alphawave",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Stevenic/alphawave-py",
         "language": "",
@@ -1928,6 +2162,7 @@
     {
         "category": "development.apis",
         "name": "recipeui",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/RecipeUI/RecipeUI",
         "language": "typescript",
@@ -1937,6 +2172,7 @@
     {
         "category": "development.cli_tui_development",
         "name": "chalk-animation",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/bokub/chalk-animation",
         "language": "",
@@ -1946,6 +2182,7 @@
     {
         "category": "development.containers_orchestration_ci",
         "name": "docker-pushrm",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/christian-korneck/docker-pushrm",
         "language": "",
@@ -1955,6 +2192,7 @@
     {
         "category": "development.documentation",
         "name": "zest",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/zestdocs/zest",
         "language": "",
@@ -1964,6 +2202,7 @@
     {
         "category": "development.editor.gui.in_browser",
         "name": "ml-workspace",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/ml-tooling/ml-workspace",
         "language": "",
@@ -1973,6 +2212,7 @@
     {
         "category": "development.editor.gui.in_browser.notebook.jupyter",
         "name": "qtconsole",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://qtconsole.readthedocs.io/en/stable/",
         "language": "",
@@ -1982,6 +2222,7 @@
     {
         "category": "development.editor.markdown.cli",
         "name": "chameleon",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/life4/chameleon",
         "language": "",
@@ -1991,6 +2232,7 @@
     {
         "category": "development.editor.markdown.gui",
         "name": "Ghost Writer",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://ghostwriter.kde.org/",
         "language": "",
@@ -2000,6 +2242,7 @@
     {
         "category": "development.editor.markdown.gui",
         "name": "apostrophe",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://apps.gnome.org/Apostrophe/",
         "language": "python gnome",
@@ -2009,6 +2252,7 @@
     {
         "category": "development.editor.markdown.gui",
         "name": "marker",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/fabiocolacio/Marker",
         "language": "",
@@ -2018,6 +2262,7 @@
     {
         "category": "development.editor.markdown.gui",
         "name": "marktext",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/marktext/marktext",
         "language": "",
@@ -2027,6 +2272,7 @@
     {
         "category": "development.editor.markdown.gui",
         "name": "panwriter",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://panwriter.com/",
         "language": "",
@@ -2036,6 +2282,7 @@
     {
         "category": "development.editor.markdown.gui",
         "name": "remarkable",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jamiemcg/Remarkable",
         "language": "",
@@ -2045,6 +2292,7 @@
     {
         "category": "development.editor.markdown.gui",
         "name": "retext",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/retext-project/retext",
         "language": "",
@@ -2054,6 +2302,7 @@
     {
         "category": "development.editor.markdown.gui",
         "name": "zettlr",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Zettlr/Zettlr",
         "language": "",
@@ -2063,6 +2312,7 @@
     {
         "category": "development.editor.tex.gui",
         "name": "LyX",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://www.lyx.org/",
         "language": "",
@@ -2072,6 +2322,7 @@
     {
         "category": "development.editor.tex.gui",
         "name": "Texmaker",
+        "nix_name": "",
         "status": "needs work",
         "link": "http://www.xm1math.net/texmaker/",
         "language": "",
@@ -2081,6 +2332,7 @@
     {
         "category": "development.editor.tex.gui",
         "name": "texworks",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/TeXworks/texworks",
         "language": "",
@@ -2090,6 +2342,7 @@
     {
         "category": "development.editor.typesetting.tex",
         "name": "LyX",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://en.wikipedia.org/wiki/LyX ",
         "language": "",
@@ -2099,6 +2352,7 @@
     {
         "category": "development.editor.typesetting.tex",
         "name": "simtex",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/iaacornus/simtex",
         "language": "",
@@ -2108,6 +2362,7 @@
     {
         "category": "development.editor.typesetting.tex",
         "name": "texstudio",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://www.texstudio.org",
         "language": "",
@@ -2117,6 +2372,7 @@
     {
         "category": "development.editor.typesetting.tex",
         "name": "tlmgrlookup",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jpfairbanks/tlmgrlookup",
         "language": "",
@@ -2126,6 +2382,7 @@
     {
         "category": "development.misc",
         "name": "strip-css-comments-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sindresorhus/strip-css-comments-cli",
         "language": "",
@@ -2135,6 +2392,7 @@
     {
         "category": "development.misc",
         "name": "xpe",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/charmparticle/xpe",
         "language": "",
@@ -2144,6 +2402,7 @@
     {
         "category": "development.proglangs.http_server",
         "name": "balls",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jneen/balls",
         "language": "",
@@ -2153,6 +2412,7 @@
     {
         "category": "development.proglangs.regex",
         "name": "tre",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://laurikari.net/tre/",
         "language": "c",
@@ -2162,6 +2422,7 @@
     {
         "category": "development.tools.educational_projects",
         "name": "lust",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Gingeh/lust",
         "language": "",
@@ -2171,6 +2432,7 @@
     {
         "category": "development.webdev.server_benchmarking",
         "name": "httperf/httperf",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/httperf/httperf",
         "language": "",
@@ -2180,6 +2442,7 @@
     {
         "category": "file_management.backup",
         "name": "shallow-backup",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/alichtman/shallow-backup",
         "language": "",
@@ -2189,6 +2452,7 @@
     {
         "category": "file_management.clipboard_sharing",
         "name": "pbgopy",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/nakabonne/pbgopy",
         "language": "",
@@ -2198,6 +2462,7 @@
     {
         "category": "file_management.clipboard_sharing",
         "name": "pbproxy",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/nikvdp/pbproxy",
         "language": "",
@@ -2207,6 +2472,7 @@
     {
         "category": "file_management.gui",
         "name": "DFileManager",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://sourceforge.net/projects/dfilemanager/",
         "language": "",
@@ -2216,6 +2482,7 @@
     {
         "category": "file_management.gui",
         "name": "cosmic-files",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/pop-os/cosmic-files",
         "language": "",
@@ -2225,6 +2492,7 @@
     {
         "category": "file_management.gui",
         "name": "filetree",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Wervice/Codelink?tab=readme-ov-file#filetree",
         "language": "",
@@ -2234,6 +2502,7 @@
     {
         "category": "file_management.gui",
         "name": "flitz",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/MartinThoma/flitz",
         "language": "",
@@ -2243,6 +2512,7 @@
     {
         "category": "file_management.gui",
         "name": "xplorer",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/kimlimjustin/xplorer",
         "language": "",
@@ -2252,6 +2522,7 @@
     {
         "category": "file_management.hooks_and_watchers",
         "name": "bacon",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/troykinsella/bacon",
         "language": "",
@@ -2261,6 +2532,7 @@
     {
         "category": "file_management.hooks_and_watchers",
         "name": "fluffy",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/tinkershack/fluffy",
         "language": "c",
@@ -2270,6 +2542,7 @@
     {
         "category": "file_management.hooks_and_watchers",
         "name": "fswatch",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/alandipert/fswatch",
         "language": "",
@@ -2279,6 +2552,7 @@
     {
         "category": "file_management.hooks_and_watchers",
         "name": "watch",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/tj/watch",
         "language": "",
@@ -2288,6 +2562,7 @@
     {
         "category": "file_management.hooks_and_watchers",
         "name": "watcher",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sethigeet/watcher",
         "language": "",
@@ -2297,6 +2572,7 @@
     {
         "category": "file_management.hooks_and_watchers",
         "name": "wfh",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/kzys/wfh",
         "language": "",
@@ -2306,6 +2582,7 @@
     {
         "category": "file_management.qr",
         "name": "qr-filetransfer",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sdushantha/qr-filetransfer",
         "language": "",
@@ -2315,6 +2592,7 @@
     {
         "category": "file_management.remote",
         "name": "gdrive-downloader",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Akianonymus/gdrive-downloader",
         "language": "",
@@ -2324,6 +2602,7 @@
     {
         "category": "file_management.remote",
         "name": "google-drive-upload",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/labbots/google-drive-upload",
         "language": "",
@@ -2333,6 +2612,7 @@
     {
         "category": "file_management.torrent",
         "name": "tremc",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/tremc/tremc",
         "language": "python",
@@ -2342,6 +2622,7 @@
     {
         "category": "file_management.transfer_and_remote",
         "name": "airpaste",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/mafintosh/airpaste",
         "language": "",
@@ -2351,6 +2632,7 @@
     {
         "category": "file_management.transfer_and_remote",
         "name": "nitroshare",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://nitroshare.net/",
         "language": "",
@@ -2360,6 +2642,7 @@
     {
         "category": "file_management.transfer_and_remote",
         "name": "share-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/marionebl/share-cli",
         "language": "",
@@ -2369,6 +2652,7 @@
     {
         "category": "gui.browser.esoteric.maximal_privacy",
         "name": "icecatbrowser.org/",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://icecatbrowser.org/",
         "language": "",
@@ -2378,6 +2662,7 @@
     {
         "category": "gui.browser.esoteric.nonvim",
         "name": "badwolf",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://hacktivis.me/projects/badwolf",
         "language": "",
@@ -2387,6 +2672,7 @@
     {
         "category": "gui.browser.esoteric.nonvim",
         "name": "dillo",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://dillo-browser.github.io/",
         "language": "",
@@ -2396,6 +2682,7 @@
     {
         "category": "gui.browser.esoteric.nonvim",
         "name": "dooble",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/textbrowser/dooble",
         "language": "",
@@ -2405,6 +2692,7 @@
     {
         "category": "gui.browser.esoteric.nonvim",
         "name": "hskit",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/isovector/hskit",
         "language": "",
@@ -2414,6 +2702,7 @@
     {
         "category": "gui.browser.esoteric.nonvim",
         "name": "ladybird",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://ladybird.dev/",
         "language": "",
@@ -2423,6 +2712,7 @@
     {
         "category": "gui.browser.esoteric.nonvim",
         "name": "min",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/minbrowser/min",
         "language": "",
@@ -2432,6 +2722,7 @@
     {
         "category": "gui.browser.esoteric.nonvim",
         "name": "webkitten",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/kattrali/webkitten",
         "language": "",
@@ -2441,6 +2732,7 @@
     {
         "category": "gui.browser.extensions",
         "name": "keyx",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/susumuota/nostr-keyx",
         "language": "",
@@ -2450,6 +2742,7 @@
     {
         "category": "gui.browser.extensions",
         "name": "modded-darkreader",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/no-venv/modded-darkreader",
         "language": "",
@@ -2459,6 +2752,7 @@
     {
         "category": "gui.browser.extensions.reader",
         "name": "columnate",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/anoved/Columnate",
         "language": "",
@@ -2468,6 +2762,7 @@
     {
         "category": "gui.browser.hacker",
         "name": "Tin Browser",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Wervice/Codelink/blob/main/tin/tin.md",
         "language": "",
@@ -2477,6 +2772,7 @@
     {
         "category": "gui.browser.hacker",
         "name": "wyeb - a vim-like webkit2gtk web browser",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://wyeb.org/",
         "language": "",
@@ -2486,6 +2782,7 @@
     {
         "category": "gui.browser.ricing.reference_extensions",
         "name": "Change-Colors",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/srndpty/Change-Colors",
         "language": "",
@@ -2495,6 +2792,7 @@
     {
         "category": "gui.browser.ricing.reference_extensions",
         "name": "Midnight-Lizard/Midnight-Lizard",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Midnight-Lizard/Midnight-Lizard",
         "language": "",
@@ -2504,6 +2802,7 @@
     {
         "category": "gui.browser.ricing.reference_extensions",
         "name": "paxmod",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/numirias/paxmod",
         "language": "",
@@ -2513,6 +2812,7 @@
     {
         "category": "gui.browser.ricing.reference_extensions",
         "name": "treestyletab",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/piroor/treestyletab",
         "language": "",
@@ -2522,6 +2822,7 @@
     {
         "category": "gui.browser.ricing.reference_extensions",
         "name": "web-extension-color-changer",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/rokit/web-extension-color-changer",
         "language": "",
@@ -2531,6 +2832,7 @@
     {
         "category": "gui.browser.terminal_gui",
         "name": "carbonyl",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/fathyb/carbonyl",
         "language": "",
@@ -2540,6 +2842,7 @@
     {
         "category": "gui.calculator",
         "name": "ConvertAll",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/doug-101/ConvertAll",
         "language": "",
@@ -2549,6 +2852,7 @@
     {
         "category": "gui.calculator",
         "name": "DevWidgets",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/gumbarros/DevWidgets",
         "language": "",
@@ -2558,6 +2862,7 @@
     {
         "category": "gui.calculator",
         "name": "Geogebra",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/geogebra/geogebra",
         "language": "",
@@ -2567,6 +2872,7 @@
     {
         "category": "gui.calculator",
         "name": "qalculate-qt",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Qalculate/qalculate-qt",
         "language": "",
@@ -2576,6 +2882,7 @@
     {
         "category": "gui.calculator",
         "name": "qalqulate-gtk",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Qalculate/qalculate-gtk",
         "language": "",
@@ -2585,6 +2892,7 @@
     {
         "category": "gui.editor.spreadsheet",
         "name": "teapot",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/samuelludwig/teapot",
         "language": "",
@@ -2594,6 +2902,7 @@
     {
         "category": "gui.editor",
         "name": "ecode",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/SpartanJ/ecode",
         "language": "",
@@ -2603,6 +2912,7 @@
     {
         "category": "gui.finances",
         "name": "oinkoin",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/emavgl/oinkoin",
         "language": "",
@@ -2612,6 +2922,7 @@
     {
         "category": "gui.misc.noise",
         "name": "Ambient Noise",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/costales/anoise",
         "language": "",
@@ -2621,6 +2932,7 @@
     {
         "category": "gui.reading",
         "name": "pockyt",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/arvindch/pockyt",
         "language": "",
@@ -2630,6 +2942,7 @@
     {
         "category": "gui.reading",
         "name": "wike",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/hugolabe/Wike",
         "language": "",
@@ -2639,6 +2952,7 @@
     {
         "category": "gui.reading.rss",
         "name": "FeedTheMonkey",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jeena/FeedTheMonkey",
         "language": "",
@@ -2648,6 +2962,7 @@
     {
         "category": "gui.reading.rss",
         "name": "NewsFlash",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://apps.gnome.org/app/com.gitlab.newsflash/",
         "language": "rust gtk",
@@ -2657,6 +2972,7 @@
     {
         "category": "gui.translation",
         "name": "glate",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/keshavbhatt/glate",
         "language": "",
@@ -2666,6 +2982,7 @@
     {
         "category": "media.consumption.audio.console",
         "name": "tizonia-openmax-il",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/tizonia/tizonia-openmax-il",
         "language": "",
@@ -2675,6 +2992,7 @@
     {
         "category": "media.consumption.audio.gui",
         "name": "G4Music",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://gitlab.gnome.org/neithern/g4music",
         "language": "",
@@ -2684,6 +3002,7 @@
     {
         "category": "media.consumption.audio.search_download_library_management_metadata_art_etc",
         "name": "kunst",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sdushantha/kunst",
         "language": "",
@@ -2693,6 +3012,7 @@
     {
         "category": "media.consumption.audio.visualization",
         "name": "glava",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jarcode-foss/glava",
         "language": "",
@@ -2702,6 +3022,7 @@
     {
         "category": "media.consumption.image",
         "name": "ojo",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/peterlevi/ojo",
         "language": "",
@@ -2711,6 +3032,7 @@
     {
         "category": "media.consumption.image",
         "name": "qView",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jurplel/qView",
         "language": "",
@@ -2720,6 +3042,7 @@
     {
         "category": "media.consumption.image",
         "name": "qimgv",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/easymodo/qimgv",
         "language": "",
@@ -2729,6 +3052,7 @@
     {
         "category": "media.consumption.lyrics",
         "name": "lyricpad",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/keshavbhatt/lyricpad",
         "language": "",
@@ -2738,6 +3062,7 @@
     {
         "category": "media.consumption.miscellaneous.volume",
         "name": "volumeicon",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Maato/volumeicon",
         "language": "",
@@ -2747,6 +3072,7 @@
     {
         "category": "media.consumption.player_controller",
         "name": "mediactl",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/aaaaaaaalex/mediactl",
         "language": "",
@@ -2756,6 +3082,7 @@
     {
         "category": "media.consumption.video",
         "name": "Movie Monad",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://lettier.github.io/movie-monad",
         "language": "",
@@ -2765,6 +3092,7 @@
     {
         "category": "media.consumption.video",
         "name": "catimg",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/posva/catimg",
         "language": "",
@@ -2774,6 +3102,7 @@
     {
         "category": "media.consumption.video",
         "name": "libcaca",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/cacalabs/libcaca",
         "language": "",
@@ -2783,6 +3112,7 @@
     {
         "category": "media.consumption.video",
         "name": "tiv",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/radare/tiv",
         "language": "",
@@ -2792,6 +3122,7 @@
     {
         "category": "media.consumption.video.youtube",
         "name": "FreeTube",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/FreeTubeApp/FreeTube",
         "language": "",
@@ -2801,6 +3132,7 @@
     {
         "category": "media.consumption.video.youtube",
         "name": "PlasmaTube",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://apps.kde.org/plasmatube/",
         "language": "",
@@ -2810,6 +3142,7 @@
     {
         "category": "media.consumption.video.youtube",
         "name": "minitube",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/flaviotordini/minitube",
         "language": "",
@@ -2819,6 +3152,7 @@
     {
         "category": "media.consumption.video.youtube.music",
         "name": "Kaku",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://kaku.rocks/",
         "language": "",
@@ -2828,6 +3162,7 @@
     {
         "category": "media.consumption.video.youtube.music",
         "name": "muCLIar",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/aayush1205/muCLIar",
         "language": "",
@@ -2837,6 +3172,7 @@
     {
         "category": "media.consumption.video.youtube.music",
         "name": "youtube-music",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/th-ch/youtube-music",
         "language": "",
@@ -2846,6 +3182,7 @@
     {
         "category": "media.consumption.youtube",
         "name": "yt-audio",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/pseudoroot/yt-audio",
         "language": "",
@@ -2855,6 +3192,7 @@
     {
         "category": "media.consumption.youtube",
         "name": "ytcc",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/woefe/ytcc",
         "language": "",
@@ -2864,6 +3202,7 @@
     {
         "category": "media.consumption.youtube",
         "name": "ytpy",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/cybardev/ytpy",
         "language": "",
@@ -2873,6 +3212,7 @@
     {
         "category": "media.creation.ascii",
         "name": "aewam",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://aewan.sourceforge.net/",
         "language": "",
@@ -2882,6 +3222,7 @@
     {
         "category": "media.creation.ascii",
         "name": "asciieditor",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/akirbaes/asciieditor",
         "language": "",
@@ -2891,6 +3232,7 @@
     {
         "category": "media.creation.audio.editing",
         "name": "PipeWire",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://pipewire.org/",
         "language": "",
@@ -2900,6 +3242,7 @@
     {
         "category": "media.creation.audio.transcription",
         "name": "moviesquare",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/keshavbhatt/moviesquare",
         "language": "",
@@ -2909,6 +3252,7 @@
     {
         "category": "media.creation.cool_software_needs_theming_fixes",
         "name": "freeplane",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/freeplane/freeplane",
         "language": "",
@@ -2918,6 +3262,7 @@
     {
         "category": "media.creation.cool_software_needs_theming_fixes",
         "name": "heimer",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/juzzlin/Heimer",
         "language": "",
@@ -2927,6 +3272,7 @@
     {
         "category": "media.creation.cool_software_needs_theming_fixes",
         "name": "vym",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/insilmaril/vym",
         "language": "",
@@ -2936,6 +3282,7 @@
     {
         "category": "media.creation.gif_creation",
         "name": "givegif",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/passy/givegif",
         "language": "",
@@ -2945,6 +3292,7 @@
     {
         "category": "media.creation.gif_creation",
         "name": "ttygif",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/icholy/ttygif",
         "language": "",
@@ -2954,6 +3302,7 @@
     {
         "category": "media.creation.gif_creation",
         "name": "ttystudio",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/chjj/ttystudio",
         "language": "",
@@ -2963,6 +3312,7 @@
     {
         "category": "media.creation.image.editing",
         "name": "Trimage",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://trimage.org/",
         "language": "",
@@ -2972,6 +3322,7 @@
     {
         "category": "media.creation.image.editing",
         "name": "korkut",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/oguzhaninan/korkut",
         "language": "",
@@ -2981,6 +3332,7 @@
     {
         "category": "media.creation.image.editing",
         "name": "md2png",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/weaming/md2png",
         "language": "",
@@ -2990,6 +3342,7 @@
     {
         "category": "media.creation.image.editing_and_management",
         "name": "inpaint-web",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/lxfater/inpaint-web",
         "language": "",
@@ -2999,6 +3352,7 @@
     {
         "category": "media.creation.image.editing_and_management",
         "name": "scantailor",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/scantailor/scantailor",
         "language": "",
@@ -3008,6 +3362,7 @@
     {
         "category": "media.creation.image.svg",
         "name": "scour",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/scour-project/scour",
         "language": "",
@@ -3017,6 +3372,7 @@
     {
         "category": "media.creation.image.svg",
         "name": "svgcleaner",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/RazrFalcon/svgcleaner",
         "language": "",
@@ -3026,6 +3382,7 @@
     {
         "category": "media.creation.recording_broadcasting_streaming",
         "name": "pypeek",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/firatkiral/pypeek",
         "language": "",
@@ -3035,6 +3392,7 @@
     {
         "category": "media.creation.recording_streaming_etc",
         "name": "ffscreencast",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/cytopia/ffscreencast",
         "language": "",
@@ -3044,6 +3402,7 @@
     {
         "category": "media.creation.recording_streaming_etc",
         "name": "menyoki",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://menyoki.cli.rs/",
         "language": "",
@@ -3053,6 +3412,7 @@
     {
         "category": "media.creation.recording_streaming_etc",
         "name": "pageres-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sindresorhus/pageres-cli",
         "language": "",
@@ -3062,6 +3422,7 @@
     {
         "category": "media.music.radio",
         "name": "RadioTray-NG",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/ebruck/radiotray-ng",
         "language": "",
@@ -3071,6 +3432,7 @@
     {
         "category": "media.music.radio",
         "name": "somafm-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/rockymadden/somafm-cli",
         "language": "",
@@ -3080,6 +3442,7 @@
     {
         "category": "mediaconsumption.video.television",
         "name": "Miro",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://www.getmiro.com/",
         "language": "",
@@ -3089,6 +3452,7 @@
     {
         "category": "messaging.email",
         "name": "Vmail",
+        "nix_name": "",
         "status": "needs work",
         "link": "http://danielchoi.com/software/vmail.html",
         "language": "",
@@ -3098,6 +3462,7 @@
     {
         "category": "messaging.email",
         "name": "isync",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/gburd/isync",
         "language": "",
@@ -3107,6 +3472,7 @@
     {
         "category": "messaging.email",
         "name": "tmpmail",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sdushantha/tmpmail",
         "language": "",
@@ -3116,6 +3482,7 @@
     {
         "category": "messaging.email.tui",
         "name": "Mailnag",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://launchpad.net/~pulb/+archive/ubuntu/mailnag",
         "language": "",
@@ -3125,6 +3492,7 @@
     {
         "category": "messaging.email.tui",
         "name": "pymailgen",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/toolleeo/pymailgen",
         "language": "",
@@ -3134,6 +3502,7 @@
     {
         "category": "messaging.lemmy",
         "name": "lemmur",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/LemmurOrg/lemmur",
         "language": "",
@@ -3143,6 +3512,7 @@
     {
         "category": "messaging.unfree",
         "name": "fb-messenger-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Alex-Rose/fb-messenger-cli",
         "language": "",
@@ -3152,6 +3522,7 @@
     {
         "category": "messaging.unfree",
         "name": "messenger-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/AstroCB/Messenger-CLI",
         "language": "",
@@ -3161,6 +3532,7 @@
     {
         "category": "messaging.whatsapp",
         "name": "WhatsGo",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/WinterSunset95/WhatsGo",
         "language": "",
@@ -3170,6 +3542,7 @@
     {
         "category": "needs_work",
         "name": "ad",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/tanrax/terminal-AdvancedNewFile",
         "language": "",
@@ -3179,6 +3552,7 @@
     {
         "category": "needs_work",
         "name": "alder",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/aweary/alder",
         "language": "",
@@ -3188,6 +3562,7 @@
     {
         "category": "needs_work",
         "name": "autojump",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/wting/autojump",
         "language": "",
@@ -3197,6 +3572,7 @@
     {
         "category": "needs_work",
         "name": "classifier",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/bhrigu123/classifier",
         "language": "",
@@ -3206,6 +3582,7 @@
     {
         "category": "needs_work",
         "name": "cli-info",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Lilja/cli-info",
         "language": "",
@@ -3215,6 +3592,7 @@
     {
         "category": "needs_work",
         "name": "colorls",
+        "nix_name": "",
         "status": "needs work",
         "link": "[colorls](https://github.com/athityakumar/colorls",
         "language": "",
@@ -3224,6 +3602,7 @@
     {
         "category": "needs_work",
         "name": "dext",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/AfzGit/dext",
         "language": "",
@@ -3233,6 +3612,7 @@
     {
         "category": "needs_work",
         "name": "domterm",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://domterm.org/index.html",
         "language": "",
@@ -3242,6 +3622,7 @@
     {
         "category": "needs_work",
         "name": "file-type-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sindresorhus/file-type-cli",
         "language": "",
@@ -3251,6 +3632,7 @@
     {
         "category": "needs_work",
         "name": "find-up-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sindresorhus/find-up-cli",
         "language": "",
@@ -3260,6 +3642,7 @@
     {
         "category": "needs_work",
         "name": "fluxgui",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/xflux-gui/fluxgui",
         "language": "",
@@ -3269,6 +3652,7 @@
     {
         "category": "needs_work",
         "name": "friendly-find",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sjl/friendly-find",
         "language": "",
@@ -3278,6 +3662,7 @@
     {
         "category": "needs_work",
         "name": "gcp",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/aelafifi/gcp",
         "language": "",
@@ -3287,6 +3672,7 @@
     {
         "category": "needs_work",
         "name": "grc",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/garabik/grc",
         "language": "",
@@ -3296,6 +3682,7 @@
     {
         "category": "needs_work",
         "name": "jmp",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/gholmes829/Jmp",
         "language": "",
@@ -3305,6 +3692,7 @@
     {
         "category": "needs_work",
         "name": "laurikari/tre: The approximate regex matching library and agrep command line tool.",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/laurikari/tre/",
         "language": "",
@@ -3314,6 +3702,7 @@
     {
         "category": "needs_work",
         "name": "lsp",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/dborzov/lsp",
         "language": "",
@@ -3323,6 +3712,7 @@
     {
         "category": "needs_work",
         "name": "mdt",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/robolab-pavia/mdt",
         "language": "",
@@ -3332,6 +3722,7 @@
     {
         "category": "needs_work",
         "name": "mysql-colorize",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/zpm-zsh/mysql-colorize",
         "language": "",
@@ -3341,6 +3732,7 @@
     {
         "category": "needs_work",
         "name": "node-rename-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jhotmann/node-rename-cli",
         "language": "",
@@ -3350,6 +3742,7 @@
     {
         "category": "needs_work",
         "name": "nomino",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/yaa110/nomino",
         "language": "",
@@ -3359,6 +3752,7 @@
     {
         "category": "needs_work",
         "name": "organize-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/ManrajGrover/organize-cli",
         "language": "",
@@ -3368,6 +3762,7 @@
     {
         "category": "needs_work",
         "name": "pacgraph",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/keenerd/pacgraph",
         "language": "",
@@ -3377,6 +3772,7 @@
     {
         "category": "needs_work",
         "name": "percol",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/mooz/percol",
         "language": "",
@@ -3386,6 +3782,7 @@
     {
         "category": "needs_work",
         "name": "process-wallpaper",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/anirudhajith/process-wallpaper",
         "language": "",
@@ -3395,6 +3792,7 @@
     {
         "category": "needs_work",
         "name": "q",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/cal2195/q",
         "language": "",
@@ -3404,6 +3802,7 @@
     {
         "category": "needs_work",
         "name": "ramda-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/raine/ramda-cli",
         "language": "",
@@ -3413,6 +3812,7 @@
     {
         "category": "needs_work",
         "name": "rat",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/ericfreese/rat",
         "language": "",
@@ -3422,6 +3822,7 @@
     {
         "category": "needs_work",
         "name": "repren",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/jlevy/repren",
         "language": "",
@@ -3431,6 +3832,7 @@
     {
         "category": "needs_work",
         "name": "shell-history",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/pawamoy/shell-history",
         "language": "",
@@ -3440,6 +3842,7 @@
     {
         "category": "needs_work",
         "name": "tabview",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/TabViewer/tabview",
         "language": "",
@@ -3449,6 +3852,7 @@
     {
         "category": "needs_work",
         "name": "terminus",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/breuleux/terminus",
         "language": "",
@@ -3458,6 +3862,7 @@
     {
         "category": "needs_work",
         "name": "undollar",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/xtyrrell/undollar",
         "language": "",
@@ -3467,6 +3872,7 @@
     {
         "category": "needs_work",
         "name": "up",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/akavel/up",
         "language": "",
@@ -3476,6 +3882,7 @@
     {
         "category": "needs_work",
         "name": "vim-notion",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/lukeingalls/vim-notion",
         "language": "",
@@ -3485,6 +3892,7 @@
     {
         "category": "needs_work.clock",
         "name": "bash clock",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://briancaffey.github.io/2017/10/31/a-binary-clock-written-in-bash.html/",
         "language": "",
@@ -3494,6 +3902,7 @@
     {
         "category": "needs_work.clock",
         "name": "binclock-6bits",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/teegre/binclock-6bits",
         "language": "",
@@ -3503,6 +3912,7 @@
     {
         "category": "needs_work.clock",
         "name": "cliclock",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/nbyouri/cliclock",
         "language": "",
@@ -3512,6 +3922,7 @@
     {
         "category": "needs_work.clock",
         "name": "tty-clock",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/xorg62/tty-clock",
         "language": "",
@@ -3521,6 +3932,7 @@
     {
         "category": "system.boot.tools",
         "name": "GrubCustomizer",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://launchpad.net/grub-customizer",
         "language": "",
@@ -3530,6 +3942,7 @@
     {
         "category": "system.input",
         "name": "emoji-keyboard",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/OzymandiasTheGreat/emoji-keyboard",
         "language": "",
@@ -3539,6 +3952,7 @@
     {
         "category": "system.security_cryptography_etc",
         "name": "pass",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://git.zx2c4.com/password-store/",
         "language": "",
@@ -3548,6 +3962,7 @@
     {
         "category": "system.system_management",
         "name": "dutree",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/nachoparker/dutree",
         "language": "",
@@ -3557,6 +3972,7 @@
     {
         "category": "system.system_management",
         "name": "vizex",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/bexxmodd/vizex",
         "language": "",
@@ -3566,6 +3982,7 @@
     {
         "category": "version_control.diff",
         "name": "dirdiff",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/OCamlPro/dirdiff",
         "language": "",
@@ -3575,6 +3992,7 @@
     {
         "category": "version_control.diff",
         "name": "leven-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sindresorhus/leven-cli",
         "language": "",
@@ -3584,6 +4002,7 @@
     {
         "category": "version_control.gui",
         "name": "Gitnuro",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/JetpackDuba/Gitnuro",
         "language": "kotlin",
@@ -3593,6 +4012,7 @@
     {
         "category": "version_control.gui",
         "name": "scgit",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://git.sr.ht/~misterio/scgit",
         "language": "",
@@ -3602,6 +4022,7 @@
     {
         "category": "version_control.hooks",
         "name": "git-vogue: A framework for pre-commit checks.",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://hackage.haskell.org/package/git-vogue",
         "language": "haskell",
@@ -3611,6 +4032,7 @@
     {
         "category": "version_control.qol",
         "name": "dev-time-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/samverschueren/dev-time-cli",
         "language": "",
@@ -3620,6 +4042,7 @@
     {
         "category": "version_control.qol",
         "name": "git-wtf",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/michaelklishin/git-wtf",
         "language": "",
@@ -3629,6 +4052,7 @@
     {
         "category": "version_control.reimplementations",
         "name": "gitoxide",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Byron/gitoxide",
         "language": "",
@@ -3638,6 +4062,7 @@
     {
         "category": "version_control.tui",
         "name": "grv",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/rgburke/grv | https://github.com/justinian/grv",
         "language": "",
@@ -3647,6 +4072,7 @@
     {
         "category": "version_control.visualization",
         "name": "ghcal",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/IonicaBizau/ghcal",
         "language": "",
@@ -3656,6 +4082,7 @@
     {
         "category": "version_control.visualization",
         "name": "gitsummary",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/glenreesor/gitsummary",
         "language": "",
@@ -3665,6 +4092,7 @@
     {
         "category": "web.internet_related.bookmarks",
         "name": "foxy",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/s-p-k/foxy",
         "language": "",
@@ -3674,6 +4102,7 @@
     {
         "category": "webdev.crawling_scraping_downloading",
         "name": "ImageScraper",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sananth12/ImageScraper",
         "language": "",
@@ -3683,6 +4112,7 @@
     {
         "category": "webdev.crawling_scraping_downloading",
         "name": "nasa-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/xxczaki/nasa-cli",
         "language": "",
@@ -3692,6 +4122,7 @@
     {
         "category": "webdev.miscellaneous",
         "name": "lets chat",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sdelements/lets-chat",
         "language": "",
@@ -3701,6 +4132,7 @@
     {
         "category": "webdev.multiple",
         "name": "hamsket",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/TheGoddessInari/hamsket",
         "language": "",
@@ -3710,6 +4142,7 @@
     {
         "category": "webdev.multiple",
         "name": "yfiton",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/yfiton/yfiton",
         "language": "",
@@ -3719,6 +4152,7 @@
     {
         "category": "webdev.networking_and_ssh",
         "name": "get-port-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sindresorhus/get-port-cli",
         "language": "",
@@ -3728,6 +4162,7 @@
     {
         "category": "webdev.networking_and_ssh",
         "name": "histstat",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/vesche/histstat",
         "language": "",
@@ -3737,6 +4172,7 @@
     {
         "category": "webdev.ssh_web_interface",
         "name": "Go SSH Web Client",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/wuchihsu/go-ssh-web-client",
         "language": "",
@@ -3746,6 +4182,7 @@
     {
         "category": "webdev.ssh_web_interface",
         "name": "SSHy",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/stuicey/SSHy",
         "language": "",
@@ -3755,6 +4192,7 @@
     {
         "category": "webdev.ssh_web_interface",
         "name": "TermPair",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/cs01/termpair",
         "language": "",
@@ -3764,6 +4202,7 @@
     {
         "category": "webdev.ssh_web_interface",
         "name": "WebSSH2",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/billchurch/WebSSH2",
         "language": "",
@@ -3773,6 +4212,7 @@
     {
         "category": "webdev.static",
         "name": "surge",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sintaxi/surge",
         "language": "",
@@ -3782,6 +4222,7 @@
     {
         "category": "webdev.testing.speed_bandwidth_connectivity_etc",
         "name": "brok",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/smallhadroncollider/brok",
         "language": "haskell",
@@ -3791,6 +4232,7 @@
     {
         "category": "webdev.testing.speed_bandwidth_connectivity_etc",
         "name": "is-reachable-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/beatfreaker/is-reachable-cli",
         "language": "",
@@ -3800,6 +4242,7 @@
     {
         "category": "webdev.testing.speed_bandwidth_connectivity_etc",
         "name": "is-up-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/sindresorhus/is-up-cli",
         "language": "",
@@ -3809,6 +4252,7 @@
     {
         "category": "webdev.testing.speed_bandwidth_connectivity_etc",
         "name": "isitup",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/lord63/isitup",
         "language": "",
@@ -3818,6 +4262,7 @@
     {
         "category": "websites.miscellaneous",
         "name": "Openwords (Openwords)",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Openwords",
         "language": "",
@@ -3827,6 +4272,7 @@
     {
         "category": "websites.miscellaneous",
         "name": "cloverleaf cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/cloverleaf/cli",
         "language": "",
@@ -3836,6 +4282,7 @@
     {
         "category": "websites.miscellaneous",
         "name": "mathix420/free-the-web-apps",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/mathix420/free-the-web-apps",
         "language": "",
@@ -3845,6 +4292,7 @@
     {
         "category": "websites.miscellaneous",
         "name": "overtime-cli",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/diit/overtime-cli",
         "language": "",
@@ -3854,6 +4302,7 @@
     {
         "category": "websites.prog_edu",
         "name": "teachcode",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/madlabsinc/teachcode",
         "language": "",
@@ -3863,6 +4312,7 @@
     {
         "category": "websites.search",
         "name": "awesome-finder",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/mingrammer/awesome-finder",
         "language": "",
@@ -3872,6 +4322,7 @@
     {
         "category": "websites.search",
         "name": "googlr",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/Astranno/googlr",
         "language": "swift",
@@ -3881,6 +4332,7 @@
     {
         "category": "websites.webdev",
         "name": "vim.js",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://wang-lu.com/vim.js/emterpreter/vim.html",
         "language": "",
@@ -3890,6 +4342,7 @@
     {
         "category": "websites.webdev",
         "name": "vim.wasm",
+        "nix_name": "",
         "status": "needs work",
         "link": "https://github.com/rhysd/vim.wasm",
         "language": "",

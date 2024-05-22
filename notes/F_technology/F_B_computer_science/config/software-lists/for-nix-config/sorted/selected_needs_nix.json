@@ -1,25 +1,38 @@
 [
     {
+        "category": "console.browser.tui",
+        "name": "chawan",
+        "nix_name": "chawan",
+        "status": "selected",
+        "link": "https://sr.ht/~bptato/chawan/",
+        "language": "nim",
+        "description": "",
+        "notes": "(written in Nim! handles CSS and JS) -> use as packaging reference: https://github.com/NixOS/nixpkgs/blob/nixos-23.11/pkgs/applications/file-managers/nimmm/default.nix#L19"
+    },
+    {
         "category": "console.calculator-conversion-date",
         "name": "123elf",
+        "nix_name": "lotus123",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/taviso/123elf",
-        "language": "",
+        "language": "c",
         "description": "",
         "notes": "A native port of Lotus 1-2-3 Release 3 to Linux."
     },
     {
         "category": "console.cleanup",
         "name": "FileSorterX",
+        "nix_name": "file-sorter-x",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/Zephira58/FileSorterX",
-        "language": "",
+        "language": "rust",
         "description": "",
         "notes": ""
     },
     {
         "category": "console.cleanup",
         "name": "antidot",
+        "nix_name": "antidot",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/doron-cohen/antidot",
         "language": "",
@@ -29,6 +42,7 @@
     {
         "category": "console.cleanup",
         "name": "organize-rt",
+        "nix_name": "organize-rt",
         "status": "selected; needs nix packaging",
         "link": "https://gitlab.com/simonsan/organize-rt",
         "language": "",
@@ -38,6 +52,7 @@
     {
         "category": "console.data.document.json",
         "name": "jj (anki-code)",
+        "nix_name": "enjoy-json",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/anki-code/jj",
         "language": "",
@@ -47,6 +62,7 @@
     {
         "category": "console.data.wrangling",
         "name": "squeeze",
+        "nix_name": "squeeze",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/aymericbeaumet/squeeze",
         "language": "",
@@ -56,6 +72,7 @@
     {
         "category": "console.miscellaneous",
         "name": "choose",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/jagprog5/choose",
         "language": "",
@@ -65,6 +82,7 @@
     {
         "category": "console.miscellaneous.weather",
         "name": "ansiweather",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/fcambus/ansiweather",
         "language": "",
@@ -74,6 +92,7 @@
     {
         "category": "console.sets.core",
         "name": "guesswidth",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/noborus/guesswidth",
         "language": "",
@@ -83,6 +102,7 @@
     {
         "category": "console.sets.core",
         "name": "rebound",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/shobrook/rebound",
         "language": "",
@@ -92,6 +112,7 @@
     {
         "category": "console.time.clock.binary",
         "name": "Binary Clock",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/tom-on-the-internet/binary-clock",
         "language": "",
@@ -101,6 +122,7 @@
     {
         "category": "console.translation",
         "name": "rdict",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/Lodobo/rdict",
         "language": "",
@@ -110,6 +132,7 @@
     {
         "category": "desktop.bar.widgets",
         "name": "waybar-weather",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/RiScJ/waybar-weather",
         "language": "",
@@ -117,17 +140,9 @@
         "notes": ""
     },
     {
-        "category": "desktop.launcher.gui",
-        "name": "loungy",
-        "status": "selected; needs nix packaging",
-        "link": "https://github.com/MatthiasGrandl/Loungy",
-        "language": "",
-        "description": "",
-        "notes": "!!!!!!!!!"
-    },
-    {
         "category": "development.containers_orchestration_ci",
         "name": "conty",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/Kron4ek/Conty",
         "language": "",
@@ -137,6 +152,7 @@
     {
         "category": "development.containers_orchestration_ci",
         "name": "lxroot",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "try out and potentially package for NixOS",
         "language": "",
@@ -146,6 +162,7 @@
     {
         "category": "gui.browser.esoteric.vim",
         "name": "neosurf",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/CobaltBSD/neosurf",
         "language": "",
@@ -155,6 +172,7 @@
     {
         "category": "gui.browser.esoteric.vim",
         "name": "surf-wayland",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/Michasze/surf-wayland",
         "language": "",
@@ -164,6 +182,7 @@
     {
         "category": "gui.browser.extensions.adblock",
         "name": "Enhancer for YouTube",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/YouTube-Enhancer/extension",
         "language": "",
@@ -173,6 +192,7 @@
     {
         "category": "media.consumption.audio.console",
         "name": "siren",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://www.kariliq.nl/git/siren/",
         "language": "",
@@ -182,6 +202,7 @@
     {
         "category": "media.consumption.audio.gui",
         "name": "Harmonoid",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://harmonoid.com/",
         "language": "",
@@ -191,6 +212,7 @@
     {
         "category": "media.consumption.audio.gui",
         "name": "MusicPlayerPlus",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/doctorfree/MusicPlayerPlus",
         "language": "",
@@ -200,6 +222,7 @@
     {
         "category": "media.consumption.audio.gui",
         "name": "lyssa",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/cococry/lyssa",
         "language": "",
@@ -209,6 +232,7 @@
     {
         "category": "media.consumption.audio.gui",
         "name": "olivia",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/keshavbhatt/olivia",
         "language": "",
@@ -218,6 +242,7 @@
     {
         "category": "media.consumption.audio.podcast_and_audiobook",
         "name": "castero",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/xgi/castero",
         "language": "",
@@ -227,6 +252,7 @@
     {
         "category": "media.consumption.youtube",
         "name": "youtube-viewer",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/trizen/youtube-viewer",
         "language": "",
@@ -236,6 +262,7 @@
     {
         "category": "media.creation.image.editing_and_management",
         "name": "PixelFx",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/keshavbhatt/PixelFx",
         "language": "",
@@ -245,6 +272,7 @@
     {
         "category": "messaging.whatsapp",
         "name": "whatsie",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/keshavbhatt/whatsie",
         "language": "",
@@ -254,6 +282,7 @@
     {
         "category": "system.boot.tools",
         "name": "bsol",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/harishnkr/bsol",
         "language": "",
@@ -263,6 +292,7 @@
     {
         "category": "system.boot.tools",
         "name": "rEFInd",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://www.rodsbooks.com/refind/",
         "language": "",
@@ -272,6 +302,7 @@
     {
         "category": "version_control.commitmsg_and_versioning",
         "name": "rcz",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/Cassin01/rcz",
         "language": "rust",
@@ -281,6 +312,7 @@
     {
         "category": "version_control.git.extensions",
         "name": "vmn",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/final-israel/vmn",
         "language": "",
@@ -290,6 +322,7 @@
     {
         "category": "version_control.multi_repo",
         "name": "git-plus",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/tkrajina/git-plus",
         "language": "",
@@ -299,6 +332,7 @@
     {
         "category": "version_control.multi_repo",
         "name": "multi-git-status",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/fboender/multi-git-status",
         "language": "",
@@ -308,6 +342,7 @@
     {
         "category": "version_control.tui",
         "name": "forgit",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/wfxr/forgit",
         "language": "",
@@ -317,6 +352,7 @@
     {
         "category": "version_control.tui",
         "name": "git-fuzzy",
+        "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/bigH/git-fuzzy",
         "language": "",

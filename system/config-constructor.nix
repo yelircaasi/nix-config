@@ -11,16 +11,15 @@
     ./modules/compositor/hyprland.nix
     ./modules/compositor/sway.nix
     ./modules/compositor/swayfx.nix
+    ./modules/container.nix
+    ./modules/database.nix
     ./modules/desktop-environment/gnome
-    ./modules/desktop-environment/xfce
     ./modules/desktop-environment/kde
-    ./modules/gui-file-browser/thunar.nix
-    ./modules/input/kanata
-    ./modules/windowing-protocol/wayland.nix
-    ./modules/windowing-protocol/x11.nix
-    ./modules/containers.nix
+    ./modules/desktop-environment/xfce
     ./modules/display-manager.nix
+    ./modules/gui-file-browser/thunar.nix
     ./modules/hardware.nix
+    ./modules/input/kanata
     ./modules/miscellaneous-services.nix
     ./modules/networking.nix
     ./modules/nvidia.nix
@@ -31,6 +30,8 @@
     ./modules/ui/fonts
     ./modules/users.nix
     ./modules/variables.nix
+    ./modules/windowing-protocol/wayland.nix
+    ./modules/windowing-protocol/x11.nix
   ];
 
   environment.systemPackages = with pkgs; [git home-manager];

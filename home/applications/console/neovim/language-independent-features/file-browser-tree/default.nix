@@ -27,11 +27,11 @@ in
     ];
 
     files = {
-      "./nvim/lua/features/${luaName}.lua".text = 
-        builtins.replaceStrings 
-          pluginStrings 
-          (map (set: ''vim.opt.rtp:prepend("${set.plugin}")'') plugins)
-          (g.utils.readAndInterpolate g ./file_browser_tree.lua);
+      "./nvim/lua/features/${luaName}.lua".text =
+        builtins.replaceStrings
+        pluginStrings
+        (map (set: ''vim.opt.rtp:prepend("${set.plugin}")'') plugins)
+        (g.utils.readAndInterpolate g ./file_browser_tree.lua);
     };
 
     needsPython3 = false;

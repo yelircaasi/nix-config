@@ -1483,8 +1483,21 @@
     },
     {
         "category": "data.format.plaintext_based",
-        "rating": "",
-        "status": "decide",
+        "rating": "$$$$$$",
+        "status": "selected",
+        "name": "jotdown",
+        "link": "https://github.com/hellux/jotdown",
+        "language": "-",
+        "features": "",
+        "notes": "",
+        "description": "A Djot parser library",
+        "commits": "526",
+        "recency": "0"
+    },
+    {
+        "category": "data.format.plaintext_based",
+        "rating": "$$$$$$",
+        "status": "selected",
         "name": "djot",
         "link": "https://github.com/jgm/djot",
         "language": "-",
@@ -5617,7 +5630,7 @@
     },
     {
         "category": "tool.note",
-        "rating": "$$$$$",
+        "rating": "$$$$$$",
         "status": "selected",
         "name": "jot",
         "link": "https://github.com/araekiel/jot",

@@ -114,7 +114,6 @@
           "idleinhibit fullscreen, class:^(FreeTube)$"
         ];
 
-        
         "$mainMod" = "${g.key.hyprland.mod}"; # "$mainMod" = "SUPER";
 
         "$opener" = "handlr launch";

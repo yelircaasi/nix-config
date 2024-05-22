@@ -109,9 +109,9 @@ in rec {
       blue = "#0f67a3";
       red = "#720e13";
       nc = {
-      fg = nvim.statusLine.fg; #"#0D0600"; #"#000a00";
-      bg = nvim.statusLine.bg; #"#202328"; #"#809880";
-    };
+        fg = nvim.statusLine.fg; #"#0D0600"; #"#000a00";
+        bg = nvim.statusLine.bg; #"#202328"; #"#809880";
+      };
     };
 
     # Special = {fg = special;};
@@ -137,7 +137,7 @@ in rec {
       fg = "#809880";
       bg = "#002600";
     };
-    
+
     Visual = {
       fg = "#061815";
       bg = "#0d8f77";
@@ -402,7 +402,7 @@ in rec {
     toolbarPathBarButtonHoverFg = "#082620";
     toolbarPathBarButtonChecked = "#D2E7E4";
     toolbarLocationToolbar = "#D2E7E4";
-    # sidebarBg = "#031A16"; 
+    # sidebarBg = "#031A16";
     sidebarFg = "#082620";
     selectedFg = "#D2E7E4";
     selectedBg = "rgba(129, 161, 193, 0.9)";

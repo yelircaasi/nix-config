@@ -17,12 +17,17 @@
 in {
   imports = builtins.concatLists [
     [
+      ./applications/console/calculator-conversion-date
+      ./applications/console/data-wrangling/html
+      ./applications/console/data-wrangling/json
       ./applications/console/git
       ./applications/console/file-browser/nnn
       ./applications/console/file-browser/xplr
       ./applications/console/file-browser/yazi
+      ./applications/console/fun
       ./applications/console/navigation/pazi
       ./applications/console/navigation/zoxide
+      ./applications/console/organization-cleanup
       ./applications/console/search/ack
       ./applications/console/search/fd
       ./applications/console/search/fzf
@@ -33,7 +38,7 @@ in {
       ./applications/console/viewing/eza
       ./applications/console/viewing/ov
       ./applications/console/viewing/tre-command
-      
+
       # ./applications/console/calculator-conversion-date
       # ./applications/console/data-wrangling
       # ./applications/console/dev-utils

@@ -8,12 +8,12 @@
   getNewValues = globalSet: placeholderList: b.map (lookUpPlaceholder globalSet) placeholderList;
 
   getNewValuesCQ = globalSet: placeholderList: b.map (lookUpPlaceholderCQ globalSet) placeholderList;
-  
+
   splitFileStringParametrized = regex: fileString: (b.split regex fileString);
 
-  splitFileString= splitFileStringParametrized "(<[|] [[:alnum:]_\\.]* [|]>)" ;
+  splitFileString = splitFileStringParametrized "(<[|] [[:alnum:]_\\.]* [|]>)";
 
-  splitFileStringConsumeQuotes = splitFileStringParametrized "('<[|] [[:alnum:]_\\.]* [|]>')" ;
+  splitFileStringConsumeQuotes = splitFileStringParametrized "('<[|] [[:alnum:]_\\.]* [|]>')";
 
   getMatches = splitList: b.map b.head (filterMatches splitList);
 

@@ -1,5 +1,18 @@
 # SORT
 
+https://josm.openstreetmap.de/
+https://joe-editor.sourceforge.io/ 
+https://groq.dev/
+
+https://www.funtoo.org/Funtoo:Keychain
+https://www.gnu.org/software/mcron/
+http://people.csail.mit.edu/jaffer/SLIB
+https://savannah.nongnu.org/projects/guile-json
+https://github.com/google/cronutils
+https://dshearer.github.io/jobber/
+https://pkg.go.dev/bdd.fi/x/runitor
+https://sourceforge.net/p/csv2odf/wiki/Main_Page/
+
 https://huggingface.co/juierror/flan-t5-text2sql-with-schema
 https://huggingface.co/juierror/flan-t5-text2sql-with-schema-v2
 https://huggingface.co/support-pvelocity/Code-Llama-2-7B-instruct-text2sql

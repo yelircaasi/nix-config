@@ -1,10 +1,9 @@
 {pkgs, ...}: {
-    home.packages = with pkgs; [
-        # dashboard
-        wtf
+  home.packages = with pkgs; [
+    # dashboard
+    wtf
 
-        # help
-        thefuck
-        
-    ]
+    # help
+    thefuck
+  ];
 }

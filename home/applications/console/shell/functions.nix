@@ -1,5 +1,8 @@
-{lib, deviceConfig}: 
-#let mkFunction = shellName: shellAgnosticDef: functionString; in 
+{
+  lib,
+  deviceConfig,
+}:
+#let mkFunction = shellName: shellAgnosticDef: functionString; in
 lib.attrSets.mapAttrs (name: value: value.${deviceConfig.shell})
 {
   dri = {
@@ -7,5 +10,4 @@ lib.attrSets.mapAttrs (name: value: value.${deviceConfig.shell})
     xonsh = ''ph'';
     nu = ''ph'';
   };
-  
 }

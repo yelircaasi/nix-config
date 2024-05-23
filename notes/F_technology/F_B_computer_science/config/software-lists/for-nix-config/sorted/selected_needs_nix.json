@@ -16,7 +16,7 @@
         "link": "https://sr.ht/~bptato/chawan/",
         "language": "nim",
         "description": "",
-        "notes": "(written in Nim! handles CSS and JS) -> use as packaging reference: https://github.com/NixOS/nixpkgs/blob/nixos-23.11/pkgs/applications/file-managers/nimmm/default.nix#L19"
+        "notes": "needs to be updated! (written in Nim! handles CSS and JS) -> use as packaging reference: https://github.com/NixOS/nixpkgs/blob/nixos-23.11/pkgs/applications/file-managers/nimmm/default.nix#L19"
     },
     {
         "category": "console.data.document.json",
@@ -65,36 +65,7 @@
         "description": "",
         "notes": "A native port of Lotus 1-2-3 Release 3 to Linux."
     },
-    {
-        "category": "console.cleanup",
-        "name": "FileSorterX",
-        "nix_name": "file-sorter-x",
-        "status": "selected; needs nix packaging",
-        "link": "https://github.com/Zephira58/FileSorterX",
-        "language": "rust",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.cleanup",
-        "name": "antidot",
-        "nix_name": "antidot",
-        "status": "selected; needs nix packaging",
-        "link": "https://github.com/doron-cohen/antidot",
-        "language": "",
-        "description": "",
-        "notes": "clean up HOME"
-    },
-    {
-        "category": "console.cleanup",
-        "name": "organize-rt",
-        "nix_name": "organize-rt",
-        "status": "selected; needs nix packaging",
-        "link": "https://gitlab.com/simonsan/organize-rt",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
+
     {
         "category": "console.data.wrangling",
         "name": "squeeze",

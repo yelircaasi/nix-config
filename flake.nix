@@ -129,7 +129,7 @@
     };
 
     g = import ./global-defs {lib = inputs.nixpkgs.lib;}; # -> move g.utils to nixos-utils flake
-    mylib = import ./helper-functions.nix {inherit inputs g;}; # move to nixos-utils flake (called mylib)
+    mylib = import ./mylib.nix {inherit inputs g;}; # move to nixos-utils flake (called mylib)
     # mylib = inputs.nix-helpers;
   in {
     nixosConfigurations = mylib.makeNixosConfigurations deviceDeclarations;

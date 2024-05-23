@@ -4,6 +4,7 @@
   lib,
   g,
   deviceConfig,
+  mypkgs,
   ...
 }: let
   appendIf = nameBool: namePath:
@@ -17,6 +18,7 @@
 in {
   imports = builtins.concatLists [
     [
+      ./applications/console/browser
       ./applications/console/calculator-conversion-date
       ./applications/console/data-wrangling/html
       ./applications/console/data-wrangling/json
@@ -44,7 +46,6 @@ in {
       # ./applications/console/dev-utils
       # ./applications/console/educational
       # ./applications/console/fun
-      # ./applications/console/organization-cleanup
       # ./applications/console/quality-of-life
       # ./applications/console/spreadsheet
       # ./applications/console/

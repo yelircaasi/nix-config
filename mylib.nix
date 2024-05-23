@@ -1,7 +1,10 @@
 {
   inputs,
   g,
-}: rec {
+}: let
+  pkgs = inputs.nixpkgs.legacyPackages.x86_64-linux;
+  mypkgs = import ./mypkgs.nix {inherit pkgs;};
+in rec {
   updateAttrsWith = defaultSet: setOfSets:
     builtins.mapAttrs
     (name: configSet: defaultSet // configSet)
@@ -31,7 +34,7 @@
     additionalModules,
   } @ deviceConfig:
     inputs.nixpkgs.lib.nixosSystem {
-      specialArgs = {inherit inputs g deviceConfig;}; #lib = inputs.nixpkgs.lib; };
+      specialArgs = {inherit inputs g deviceConfig mypkgs;}; #lib = inputs.nixpkgs.lib; };
       modules =
         [
           ./system/configuration-${deviceConfig.name}.nix
@@ -64,8 +67,8 @@
     additionalModules,
   } @ deviceConfig:
     inputs.home-manager.lib.homeManagerConfiguration {
-      pkgs = inputs.nixpkgs.legacyPackages.x86_64-linux;
-      extraSpecialArgs = {inherit inputs g deviceConfig;};
+      inherit pkgs;
+      extraSpecialArgs = {inherit inputs g deviceConfig mypkgs;};
       modules = [./home/${deviceConfig.name}.nix] ++ additionalModules;
     };
 

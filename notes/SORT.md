@@ -615,6 +615,9 @@ https://www.vultr.com/
 https://github.com/Alecaddd/taxi
 https://github.com/wkentaro/gdown
 
+https://github.com/nix-community/rnix-parser
+https://github.com/kamadorueda/nixel
+
 ## Notes to Sort
 
 Ideas:

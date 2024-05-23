@@ -765,7 +765,7 @@
         "nix_name": "nitch",
         "status": "needs work",
         "link": "https://github.com/ssleert/nitch",
-        "language": "",
+        "language": "nim",
         "description": "",
         "notes": "incredibly fast system fetch written in nim"
     },

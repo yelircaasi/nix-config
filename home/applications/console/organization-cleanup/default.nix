@@ -1,8 +1,13 @@
-{pkgs, ...}: {
+{
+  pkgs,
+  mypkgs,
+  ...
+}: {
   home.packages = with pkgs; [
-    # adhoc.file-sorter-x
-    # adhoc.antidot
     xdg-ninja
+    mypkgs.antidot
+    mypkgs.filesort
+    mypkgs.organize-rt
 
     # deduplication, linting
     backdown

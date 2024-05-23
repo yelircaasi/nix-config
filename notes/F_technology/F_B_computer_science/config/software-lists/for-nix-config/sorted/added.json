@@ -1,5 +1,36 @@
 [
     {
+        "category": "console.cleanup",
+        "name": "filesort",
+        "nix_name": "mypkgs.filesort",
+        "status": "added",
+        "link": "https://github.com/yelircaasi/filesort",
+        "language": "rust",
+        "description": "forked from https://github.com/Zephira58/FileSorterX",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "antidot",
+        "nix_name": "mypkgs.antidot",
+        "status": "added",
+        "link": "https://github.com/doron-cohen/antidot",
+        "language": "",
+        "description": "",
+        "notes": "clean up HOME"
+    },
+    {
+        "category": "console.cleanup",
+        "name": "mypkgs.organize-rt",
+        "nix_name": "organize-rt",
+        "status": "selected; needs nix packaging",
+        "link": "https://gitlab.com/foxido/organize-rt",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+
+    {
         "category": "console.best_devenv",
         "name": "neovim",
         "status": "added",

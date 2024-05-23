@@ -3,6 +3,7 @@
   pkgs,
   g,
   deviceConfig,
+  mypkgs,
   ...
 }: {
   imports = [

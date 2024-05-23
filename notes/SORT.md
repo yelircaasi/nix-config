@@ -618,6 +618,14 @@ https://github.com/wkentaro/gdown
 https://github.com/nix-community/rnix-parser
 https://github.com/kamadorueda/nixel
 
+https://github.com/jgm/djot.lua
+https://github.com/jgm/djot.js
+https://github.com/hellux/jotdown
+https://hackage.haskell.org/package/pdf-toolbox-core
+https://hackage.haskell.org/package/fay
+https://github.com/tweag/monad-bayes
+https://docs.haskellstack.org/en/stable/
+
 ## Notes to Sort
 
 Ideas:

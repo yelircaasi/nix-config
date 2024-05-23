@@ -1390,3 +1390,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [ugarit.ialigner.com/about.php](https://ugarit.ialigner.com/about.php)
 * [huggingface.co/UGARIT](https://huggingface.co/UGARIT)
 * [Image Dithering: Eleven Algorithms and Source Code | tannerhelland.com](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
+
+* Get Chawan updated in nix-config
+* Build nix tool for checking if hashes are up-to-date, updating them, outputting (json, etc.) a document of all installed packages, all config files, etc
+* nvim tool for more easily and intelligently navigating a nix directory -> use nixel or rnix-parser (name: nixjump? nixnav?)

@@ -3,7 +3,7 @@ import re
 
 p = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/nebokrai-software.json"
 with open(p) as f:
-    dl = list(json.load(f).values())
+    dl = json.load(f)
 with open(p.replace(".json", "_backup.json"), "w") as f:
     json.dump(dl, f)
 
@@ -87,7 +87,7 @@ display_counts("rating", 2)
 # display_counts("language", 1)
 # display_counts("recency", 1)
 
-# dl.sort(key=lambda d: (d["category"], d["rating"], d["name"]))
+dl.sort(key=lambda d: (d["category"], d["rating"], d["name"]))
 dl.sort(key=lambda d: (d["status"]))
 with open(p, "w") as f:
     json.dump(dl, f, indent=4)

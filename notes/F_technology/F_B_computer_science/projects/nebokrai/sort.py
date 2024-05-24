@@ -87,8 +87,8 @@ display_counts("rating", 2)
 # display_counts("language", 1)
 # display_counts("recency", 1)
 
-dl.sort(key=lambda d: (d["category"], d["rating"], d["name"]))
-dl.sort(key=lambda d: (d["status"]))
+dl.sort(key=lambda d: (d["category"], d["status"], d["rating"], d["name"]))
+# dl.sort(key=lambda d: (d["status"]))
 with open(p, "w") as f:
     json.dump(dl, f, indent=4)
 

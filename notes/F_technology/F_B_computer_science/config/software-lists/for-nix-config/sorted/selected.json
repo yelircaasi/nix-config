@@ -1342,10 +1342,19 @@
     },
     {
         "category": "console.development.templating",
+        "name": "layout",
+        "status": "selected",
+        "link": "https://github.com/reddec/layout",
+        "language": "go",
+        "description": "",
+        "notes": "0_0"
+    },
+    {
+        "category": "console.development.templating",
         "name": "kickstart",
         "status": "selected",
         "link": "https://github.com/Keats/kickstart",
-        "language": "",
+        "language": "rust",
         "description": "",
         "notes": "0_0"
     },
@@ -1359,7 +1368,7 @@
         "notes": "0_0"
     },
     {
-        "category": "console.developmentl.license",
+        "category": "console.development.license",
         "name": "upnup",
         "status": "selected",
         "link": "https://github.com/tomit4/upnup",

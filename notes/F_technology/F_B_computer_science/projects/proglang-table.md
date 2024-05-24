@@ -4,6 +4,7 @@
 * [example of semantic diff](https://github.com/Ekleog/todiff) - look at algorithms and implementations in src
 * [item_synchronizer](https://github.com/bergercookie/item_synchronizer)
 * [transpiler](https://jarble.github.io/transpiler/)
+* look at sync merge  algorithm: [gotas](https://github.com/szaffarano/gotas)
 
 * Where to put feature (row) descriptions in the markdown source? -> in italic -> how to separate from language-specific ('in-box') notes?
 * rename markdown_feat_view and markdown_lang_view to featview and langview -> or md-featview and md-langview?

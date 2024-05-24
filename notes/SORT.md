@@ -1,9 +1,39 @@
 # SORT
 
+https://cs-syd.eu/blog $$$$$$$$$
+
+https://nixos.wiki/wiki/Creating_a_NixOS_live_CD
+-> https://www.reddit.com/r/NixOS/comments/y1xo2u/how_to_create_an_iso_with_my_config_files/
+https://bztsrc.gitlab.io/usbimager/
+https://nixos.org/manual/nixos/stable/#sec-building-image
+https://nixos.org/manual/nixos/stable/#sec-image-repart
+
+https://github.com/HeinrichApfelmus/threepenny-gui/tree/master
+http://wiki.haskell.org/Applications_and_libraries/GUI_libraries
+https://github.com/webview/webview
+https://github.com/fjvallarino/monomer
+https://github.com/fjvallarino/monomer/blob/main/docs/examples/01-todo.md  https://github.com/fjvallarino/monomer/tree/main/examples/todo
+http://wiki.haskell.org/Functional_Reactive_Programming
+-> https://github.com/jtdaugherty/vty vs brick?
+https://github.com/IHaskell/IHaskell
+https://git.sr.ht/~khumba/qtah
+https://sr.ht/~khumba/hoppy/
+https://github.com/gtk2hs/gtk2hs
+https://owickstrom.github.io/gi-gtk-declarative/
+https://github.com/haskell-gi/haskell-gi
+https://github.com/haskell-gi/gi-gtk-examples
+https://www.gtk.org/
+
+https://sr.ht/~khumba/nvd/
+https://artushak.ru/
+https://github.com/ArtUshak/sheet2json
+https://radicale.org/v3.html
+
 https://josm.openstreetmap.de/
 https://joe-editor.sourceforge.io/ 
 https://groq.dev/
 
+https://github.com/ArtUshak/wiki_tool_python
 https://www.funtoo.org/Funtoo:Keychain
 https://www.gnu.org/software/mcron/
 http://people.csail.mit.edu/jaffer/SLIB

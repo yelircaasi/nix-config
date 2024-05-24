@@ -14,6 +14,7 @@ Name ideas:
 * glue
 * sb ("system bridge")
 * system
+* (subcomponent) pomodorrior
 
 Maybe prototype in Bash, Python, or Julia.
 
@@ -101,6 +102,8 @@ Maybe prototype in Bash, Python, or Julia.
 * schedule + tracking as input → log and performance metrics as output
 
 ### Miscellaneous Ideas, Brainstorming
+
+* read [this](https://cf020031308.github.io/blog/a-brief-history-of-my-task-management/)
 
 * deadlines in different levels: dream | want| should | must -> severity/goodness
 * nebokrai: add subcommands: track, blame (tool to show origin of some aspect of derived result), edit, add (interactive), sync, dashboard, dryrun {subcommand}, revert -> make (where appropriate) CLI and TUI (= interactive) versions of subcommands

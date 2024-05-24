@@ -1,5 +1,6 @@
 # proglang table
 
+* [example of semantic diff](https://github.com/Ekleog/todiff) - look at algorithms and implementations in src
 * [item_synchronizer](https://github.com/bergercookie/item_synchronizer)
 * [transpiler](https://jarble.github.io/transpiler/)
 

@@ -3,7 +3,7 @@ import re
 
 p = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/nebokrai-software.json"
 with open(p) as f:
-    dl = json.load(f)
+    dl = list(json.load(f).values())
 with open(p.replace(".json", "_backup.json"), "w") as f:
     json.dump(dl, f)
 
@@ -71,6 +71,12 @@ def print_tree(strings):
     # Print the root
     print_subtree(root)
 
+#####
+# dl = [d for d in dl if d["status"]=="incorporate"]
+# display_counts("category", 2)
+# print_tree([d["category"] for d in dl])
+# exit()
+#####
 
 # dl = [d for d in dl if d["status"]=="decide"]
 # display_counts("category", 2)

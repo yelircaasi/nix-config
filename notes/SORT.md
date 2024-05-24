@@ -625,8 +625,19 @@ https://hackage.haskell.org/package/pdf-toolbox-core
 https://hackage.haskell.org/package/fay
 https://github.com/tweag/monad-bayes
 https://docs.haskellstack.org/en/stable/
+https://nix-ci.com/
+https://github.com/NorfairKing/centjes
+https://github.com/NorfairKing/intray
+https://github.com/NorfairKing/nix-pre-commit-hooks
+https://templates.cs-syd.eu/ https://github.com/NorfairKing/template-filler
+https://intray.eu/
+https://tickler.cs-syd.eu/
+https://github.com/NorfairKing/sparep
+https://github.com/NorfairKing/habitscipline
 
 ## Notes to Sort
+
+How does knowledge aggregation and distillation work? Can I develop systems and structures that add something to existing technologies? What would the ideal system for KD&A be?
 
 Ideas:
 

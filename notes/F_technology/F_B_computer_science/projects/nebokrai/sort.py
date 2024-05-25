@@ -74,7 +74,7 @@ def print_tree(strings):
 #####
 
 # dl = [d for d in dl if d["class"]=="decide"]
-# display_counts("category", 2)
+display_counts("category", 6)
 
 # print_tree([d["category"] for d in dl])
 display_counts("class", 2)

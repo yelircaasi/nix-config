@@ -30,6 +30,7 @@ in {
       ./applications/console/navigation/pazi
       ./applications/console/navigation/zoxide
       ./applications/console/organization-cleanup
+      ./applications/console/personal-organization
       ./applications/console/search/ack
       ./applications/console/search/fd
       ./applications/console/search/fzf

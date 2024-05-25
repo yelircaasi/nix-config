@@ -2,7 +2,8 @@
     {
         "category": "algorithm.diff",
         "rating": "$$",
-        "status": "", "class": "rejected",
+        "status": "",
+        "class": "rejected",
         "name": "data.generic.diff",
         "link": "https://hackage.haskell.org/package/gdiff-1.1/docs/Data-Generic-Diff.html",
         "language": "haskell",
@@ -15,7 +16,8 @@
     {
         "category": "algorithm.diff",
         "rating": "-",
-        "status": "", "class": "rejected",
+        "status": "",
+        "class": "rejected",
         "name": "hackage.haskell.org/package/diff-0.4.0/docs/data-algorithm-diff.html",
         "link": "https://hackage.haskell.org/package/Diff-0.4.0/docs/Data-Algorithm-Diff.html",
         "language": "haskell",
@@ -28,7 +30,8 @@
     {
         "category": "tool.note",
         "rating": "$$",
-        "status": "", "class": "rejected",
+        "status": "",
+        "class": "rejected",
         "name": "indicator-stickynotes",
         "link": "https://github.com/umangv/indicator-stickynotes",
         "language": "python, gtk",
@@ -41,7 +44,8 @@
     {
         "category": "tool.note",
         "rating": "$$$$",
-        "status": "", "class": "rejected",
+        "status": "",
+        "class": "rejected",
         "name": "neuron zettelkasten",
         "link": "https://neuron.zettel.page/ | https://srid.ca/neuron-announce",
         "language": "haskell",
@@ -54,7 +58,8 @@
     {
         "category": "tool.nvim",
         "rating": "$$$",
-        "status": "", "class": "rejected",
+        "status": "",
+        "class": "rejected",
         "name": "hologram.nvim",
         "link": "https://github.com/edluffy/hologram.nvim",
         "language": "lua",
@@ -65,9 +70,10 @@
         "recency": ""
     },
     {
-        "category": "tool.taskwarrior.extension.connection",
+        "category": "tool.taskwarrior.connection",
         "rating": "$$",
-        "status": "", "class": "rejected",
+        "status": "",
+        "class": "rejected",
         "name": "django-taskd",
         "link": "https://github.com/Colorless-Green-Ideas/django-taskd",
         "language": "python",
@@ -78,9 +84,10 @@
         "recency": "6"
     },
     {
-        "category": "tool.taskwarrior.extension.meta",
+        "category": "tool.taskwarrior.meta",
         "rating": "$",
-        "status": "", "class": "rejected",
+        "status": "",
+        "class": "rejected",
         "name": "taskwarrior-example-capsule",
         "link": "https://github.com/mokrunka/taskwarrior-EXAMPLE-capsule",
         "language": "python",
@@ -93,7 +100,8 @@
     {
         "category": "tool.tracking.fitness.workout",
         "rating": "$",
-        "status": "", "class": "rejected",
+        "status": "",
+        "class": "rejected",
         "name": "opentraining",
         "link": "https://github.com/chaosbastler/opentraining",
         "language": "java",
@@ -106,7 +114,8 @@
     {
         "category": "tool.tracking.time",
         "rating": "$$",
-        "status": "", "class": "rejected",
+        "status": "",
+        "class": "rejected",
         "name": "dxtime",
         "link": "https://dxtime.dxsolutions.org/screenshots.html",
         "language": "c++",

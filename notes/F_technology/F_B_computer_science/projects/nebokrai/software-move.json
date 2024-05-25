@@ -2,7 +2,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "automate the boring stuff with python",
         "link": "https://automatetheboringstuff.com/chapter18/",
         "language": "python",
@@ -15,7 +16,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "colored and clickable wrapping urls in latex and lyx",
         "link": "http://troubleshooters.com/linux/lyx/urlwrap.htm",
         "language": "tex",
@@ -28,7 +30,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "create a bootable device - alpine linux",
         "link": "https://wiki.alpinelinux.org/wiki/Create_a_Bootable_Device",
         "language": "-",
@@ -41,7 +44,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "developer.spotify.com/dashboard",
         "link": "https://developer.spotify.com/dashboard",
         "language": "-",
@@ -54,7 +58,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "docs.spotifyd.rs/installation/raspberry-pi.html",
         "link": "https://docs.spotifyd.rs/installation/Raspberry-Pi.html",
         "language": "-",
@@ -67,7 +72,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "github - rdbo/sigma-linux: sigma linux - \u03c3lite operating system",
         "link": "https://github.com/rdbo/sigma-linux",
         "language": "-",
@@ -80,7 +86,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "is there a plugin for seeing a live preview of html/css/js?",
         "link": "https://www.reddit.com/r/neovim/comments/plggq3/is_there_a_plugin_for_seeing_a_live_preview_of/",
         "language": "-",
@@ -93,7 +100,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "nlnet; tvix",
         "link": "https://nlnet.nl/project/Tvix/",
         "language": "rust",
@@ -106,7 +114,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "paperspace blog",
         "link": "https://blog.paperspace.com/",
         "language": "-",
@@ -119,7 +128,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "poetry-dynamic-versioning: plugin for poetry to enable dynamic versioning based on vcs tags",
         "link": "https://github.com/mtkennerly/poetry-dynamic-versioning",
         "language": "python",
@@ -132,7 +142,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "proglang table",
         "link": "https://www.notion.so/189fb9f08c944ab3ba2c284a4fb09445?pvs=21",
         "language": "-",
@@ -145,7 +156,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "pywal backends",
         "link": "https://github.com/dylanaraps/pywal/blob/master/pywal/backends/wal.py",
         "language": "python",
@@ -158,7 +170,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "reddit - which is best tui file manager",
         "link": "https://www.reddit.com/r/commandline/comments/11d74x1/which_is_best_tui_file_manager/",
         "language": "-",
@@ -171,7 +184,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "spotify auth",
         "link": "https://accounts.spotify.com/authorize?response_type=code&state=AV5CzOfJ8YxNnEch&client_id=0cd789e4785c4b19ad5a200822b12104&redirect_uri=http:%2F%2Flocalhost:8888%2Fcallback&scope=playlist-read-collaborative%20playlist-read-private%20playlist-modify-private%20playlist-modify-public%20user-follow-read%20user-follow-modify%20user-library-modify%20user-library-read%20user-modify-playback-state%20user-read-currently-playing%20user-read-playback-state%20user-read-playback-position%20user-read-private%20user-read-recently-played&",
         "language": "-",
@@ -184,7 +198,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "spotify-tui issue",
         "link": "https://github.com/Rigellute/spotify-tui/issues/732",
         "language": "rust",
@@ -197,7 +212,8 @@
     {
         "category": "move",
         "rating": "-",
-        "status": "", "class": "move",
+        "status": "",
+        "class": "move",
         "name": "tvix - depot - sourcegraph",
         "link": "https://cs.tvl.fyi/depot/-/tree/tvix",
         "language": "rust",
@@ -206,5 +222,33 @@
         "description": "",
         "commits": "",
         "recency": ""
+    },
+    {
+        "category": "tool.finance",
+        "rating": "$$$$",
+        "status": "selected",
+        "class": "move",
+        "name": "lakshmi",
+        "link": "https://github.com/sarvjeets/lakshmi",
+        "language": "python",
+        "features": "",
+        "notes": "",
+        "description": "Investing library and command-line interface inspired by the Bogleheads philosophy.",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "tool.finance",
+        "rating": "$$$$",
+        "status": "",
+        "class": "move",
+        "name": "moeda",
+        "link": "https://github.com/thompsonemerson/moeda",
+        "language": "javascript",
+        "features": "",
+        "notes": "",
+        "description": "A foreign exchange rates and currency conversion using the command line.",
+        "commits": "32",
+        "recency": "3"
     }
 ]

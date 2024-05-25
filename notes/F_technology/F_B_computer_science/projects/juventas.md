@@ -1,5 +1,6 @@
 # juventas.nvim
 
+* [nbqa](https://github.com/nbQA-dev/nbQA)
 * [benlubas/molten-nvim/blob/main/docs/Notebook-Setup.md](https://github.com/benlubas/molten-nvim/blob/main/docs/Notebook-Setup.md)
 * [jupyter-tutorial.readthedocs.io/de/latest/intro.html](https://jupyter-tutorial.readthedocs.io/de/latest/intro.html)
 * [ipython.org/index.html](https://ipython.org/index.html)

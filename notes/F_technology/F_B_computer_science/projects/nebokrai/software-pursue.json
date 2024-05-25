@@ -1,21 +1,9 @@
 [
     {
-        "category": "->.lookinto.app",
-        "rating": "$$$$$",
-        "status": "", "class": "pursue",
-        "name": "awesome-quantified-self",
-        "link": "https://github.com/woop/awesome-quantified-self",
-        "language": "-",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
         "category": "->.lookinto.person",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "norfairking",
         "link": "https://github.com/NorfairKing",
         "language": "-",
@@ -28,7 +16,8 @@
     {
         "category": "->.lookinto.person",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "stuff i did - the stuff i do",
         "link": "https://www.statox.fr/projects/#",
         "language": "-",
@@ -41,7 +30,8 @@
     {
         "category": "->.lookinto.resource_list",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "awesome-productivity",
         "link": "https://github.com/jyguyomarch/awesome-productivity",
         "language": "-",
@@ -54,7 +44,8 @@
     {
         "category": "->.lookinto.resource_list",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "awesome-productivity-software",
         "link": "https://github.com/areknawo/awesome-productivity-software",
         "language": "-",
@@ -67,7 +58,8 @@
     {
         "category": "->.lookinto.resource_list",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "productivity",
         "link": "https://medevel.com/tag/productivity/",
         "language": "-",
@@ -80,7 +72,8 @@
     {
         "category": "->.lookinto.resource_list",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "wiki.archlinux.org/title/list_of_applications/other",
         "link": "https://wiki.archlinux.org/title/List_of_applications/Other",
         "language": "-",
@@ -93,7 +86,8 @@
     {
         "category": "->.lookinto.resource_list",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "wikipedia",
         "link": "https://en.wikipedia.org/wiki/Time-tracking_software",
         "language": "-",
@@ -104,24 +98,12 @@
         "recency": ""
     },
     {
-        "category": "->.read.discussion",
-        "rating": "-",
-        "status": "", "class": "pursue",
-        "name": "i haven't found a decent todo list with this killer feature: dependencies. i wan\u2026 | hacker news",
-        "link": "https://news.ycombinator.com/item?id=11352791",
-        "language": "-",
-        "features": "",
-        "notes": "",
-        "description": "[news.ycombinator.com/item?id=11352791](https://news.ycombinator.com/item?id=11352791)",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "->.read.theory",
-        "rating": "-",
-        "status": "", "class": "pursue",
-        "name": "quantifiedself show-and-tell",
-        "link": "https://quantifiedself.com/show-and-tell/ $$$",
+        "category": "->.view",
+        "rating": "$$$$$",
+        "status": "",
+        "class": "pursue",
+        "name": "awesome-quantified-self",
+        "link": "https://github.com/woop/awesome-quantified-self",
         "language": "-",
         "features": "",
         "notes": "",
@@ -130,9 +112,10 @@
         "recency": ""
     },
     {
-        "category": "->.watch",
+        "category": "->.view",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "open source alternatives to the most popular productivity apps!",
         "link": "https://www.youtube.com/watch?v%3DP8accXNcwjs",
         "language": "-",
@@ -143,9 +126,38 @@
         "recency": ""
     },
     {
+        "category": "->.view.discussion",
+        "rating": "-",
+        "status": "",
+        "class": "pursue",
+        "name": "i haven't found a decent todo list with this killer feature: dependencies. i wan\u2026 | hacker news",
+        "link": "https://news.ycombinator.com/item?id=11352791",
+        "language": "-",
+        "features": "",
+        "notes": "",
+        "description": "[news.ycombinator.com/item?id=11352791](https://news.ycombinator.com/item?id=11352791)",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "->.view.theory",
+        "rating": "-",
+        "status": "",
+        "class": "pursue",
+        "name": "quantifiedself show-and-tell",
+        "link": "https://quantifiedself.com/show-and-tell/ $$$",
+        "language": "-",
+        "features": "",
+        "notes": "",
+        "description": "",
+        "commits": "",
+        "recency": ""
+    },
+    {
         "category": "algorithm.scheduling",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "timetable-generator",
         "link": "https://github.com/topics/timetable-generator",
         "language": "-",
@@ -156,9 +168,10 @@
         "recency": ""
     },
     {
-        "category": "data.format.garmin.->",
+        "category": "data.format.garmin",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "garin gh search",
         "link": "https://github.com/topics/garmin?o=asc&s=updated",
         "language": "-",
@@ -171,7 +184,8 @@
     {
         "category": "data.format.garmin.fit",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "gh search fit",
         "link": "https://github.com/search?q=fit+file&type=repositories",
         "language": "-",
@@ -184,7 +198,8 @@
     {
         "category": "data.format.garmin.fit.->",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "fit sdks on gh",
         "link": "https://github.com/topics/fit-sdk",
         "language": "-",
@@ -197,7 +212,8 @@
     {
         "category": "data.format.garmin.gpx",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "github search",
         "link": "https://github.com/search?q=gpx%20file&type=repositories",
         "language": "-",
@@ -210,7 +226,8 @@
     {
         "category": "data.format.garmin.tcx",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "gh search",
         "link": "tcx https://github.com/search?q=tcx%20file&type=repositories",
         "language": "-",
@@ -223,7 +240,8 @@
     {
         "category": "data.management",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "set up dvc with google drive - google search",
         "link": "https://www.google.com/search?client=firefox-b-d&q=set+up+dvc+with+google+drive",
         "language": "python",
@@ -236,7 +254,8 @@
     {
         "category": "development.python.cli",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "10 best free and open source command-line python application development tools - linuxlinks",
         "link": "https://www.linuxlinks.com/best-free-open-source-command-line-python-application-development-tools/",
         "language": "python",
@@ -249,7 +268,8 @@
     {
         "category": "development.tui",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "awesome-go#advanced-console-uis",
         "link": "https://github.com/avelino/awesome-go#advanced-console-uis",
         "language": "go",
@@ -262,7 +282,8 @@
     {
         "category": "development.tui",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "textual discussions",
         "link": "https://github.com/Textualize/textual/discussions/165",
         "language": "python",
@@ -275,7 +296,8 @@
     {
         "category": "tool.networking.hosting",
         "rating": "",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "linuxhandbook.com/free-linux-cloud-servers",
         "link": "https://linuxhandbook.com/free-linux-cloud-servers/",
         "language": "-",
@@ -288,7 +310,8 @@
     {
         "category": "tool.networking.hosting",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "hosttest.de/vergleich/cloudserver-linux.html",
         "link": "https://www.hosttest.de/vergleich/cloudserver-linux.html",
         "language": "-",
@@ -301,7 +324,8 @@
     {
         "category": "tool.networking.hosting",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "slant.co/options/16947/alternatives/~netlify-alternatives",
         "link": "https://www.slant.co/options/16947/alternatives/~netlify-alternatives",
         "language": "-",
@@ -312,9 +336,10 @@
         "recency": ""
     },
     {
-        "category": "tool.networking.hosting.->",
+        "category": "tool.networking.server",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "codeless.co/heroku-alternatives",
         "link": "https://codeless.co/heroku-alternatives/",
         "language": "-",
@@ -327,7 +352,8 @@
     {
         "category": "tool.note",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "onthesamepage",
         "link": "https://onthesamepage.online/about",
         "language": "-",
@@ -340,7 +366,8 @@
     {
         "category": "tool.note.2ndbrain",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "-",
         "link": "",
         "language": "-",
@@ -353,7 +380,8 @@
     {
         "category": "tool.note.2ndbrain.obsidian",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "lifehacker.com/tech/best-obsidian-plugins",
         "link": "https://lifehacker.com/tech/best-obsidian-plugins",
         "language": "typescript, javascript",
@@ -366,7 +394,8 @@
     {
         "category": "tool.note.orgmode",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "orgmode.org/worg/org-contrib",
         "link": "https://orgmode.org/worg/org-contrib/",
         "language": "elisp",
@@ -379,7 +408,8 @@
     {
         "category": "tool.task.->",
         "rating": "$$$$$",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "tasklite related tools",
         "link": "https://tasklite.org/related.html",
         "language": "haskell",
@@ -392,7 +422,8 @@
     {
         "category": "tool.taskwarrior.->",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "taskwarrior tools",
         "link": "https://taskwarrior.org/tools/",
         "language": "-",
@@ -405,7 +436,8 @@
     {
         "category": "tool.taskwarrior.nix",
         "rating": "$$$$$$$",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "taskwarrior nix configs",
         "link": "https://github.com/search?q=taskwarrior+language%3Anix&type=code",
         "language": "nix",
@@ -416,9 +448,10 @@
         "recency": "-"
     },
     {
-        "category": "tool.timewarrior.extension.->",
+        "category": "tool.timewarrior.->",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "timewarrior tools",
         "link": "https://timewarrior.net/tools/",
         "language": "-",
@@ -431,7 +464,8 @@
     {
         "category": "tool.tracking.fitness.->",
         "rating": "-",
-        "status": "", "class": "pursue",
+        "status": "",
+        "class": "pursue",
         "name": "alts",
         "link": "https://alternativeto.net/software/myfitnesspal/?license=opensource",
         "language": "-",

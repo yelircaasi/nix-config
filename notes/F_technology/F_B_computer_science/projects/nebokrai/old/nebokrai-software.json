@@ -2,7 +2,7 @@
     {
         "category": "->.lookinto.app",
         "rating": "$$$$$",
-        "status": "->",
+        "status": "pursue",
         "name": "awesome-quantified-self",
         "link": "https://github.com/woop/awesome-quantified-self",
         "language": "-",
@@ -15,7 +15,7 @@
     {
         "category": "->.lookinto.person",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "norfairking",
         "link": "https://github.com/NorfairKing",
         "language": "-",
@@ -28,7 +28,7 @@
     {
         "category": "->.lookinto.person",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "stuff i did - the stuff i do",
         "link": "https://www.statox.fr/projects/#",
         "language": "-",
@@ -54,7 +54,7 @@
     {
         "category": "->.lookinto.resource_list",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "awesome-productivity",
         "link": "https://github.com/jyguyomarch/awesome-productivity",
         "language": "-",
@@ -67,7 +67,7 @@
     {
         "category": "->.lookinto.resource_list",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "awesome-productivity-software",
         "link": "https://github.com/areknawo/awesome-productivity-software",
         "language": "-",
@@ -80,7 +80,7 @@
     {
         "category": "->.lookinto.resource_list",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "productivity",
         "link": "https://medevel.com/tag/productivity/",
         "language": "-",
@@ -93,7 +93,7 @@
     {
         "category": "->.lookinto.resource_list",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "wiki.archlinux.org/title/list_of_applications/other",
         "link": "https://wiki.archlinux.org/title/List_of_applications/Other",
         "language": "-",
@@ -106,7 +106,7 @@
     {
         "category": "->.lookinto.resource_list",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "wikipedia",
         "link": "https://en.wikipedia.org/wiki/Time-tracking_software",
         "language": "-",
@@ -288,7 +288,7 @@
     {
         "category": "->.read.discussion",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "i haven't found a decent todo list with this killer feature: dependencies. i wan\u2026 | hacker news",
         "link": "https://news.ycombinator.com/item?id=11352791",
         "language": "-",
@@ -353,7 +353,7 @@
     {
         "category": "->.read.theory",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "quantifiedself show-and-tell",
         "link": "https://quantifiedself.com/show-and-tell/ $$$",
         "language": "-",
@@ -457,7 +457,7 @@
     {
         "category": "->.watch",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "open source alternatives to the most popular productivity apps!",
         "link": "https://www.youtube.com/watch?v%3DP8accXNcwjs",
         "language": "-",
@@ -976,19 +976,6 @@
     },
     {
         "category": "algorithm.scheduling",
-        "rating": "-",
-        "status": "->",
-        "name": "timetable-generator",
-        "link": "https://github.com/topics/timetable-generator",
-        "language": "-",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "algorithm.scheduling",
         "rating": "$$$$$$",
         "status": "adapt",
         "name": "agile-planner-lite",
@@ -1036,6 +1023,19 @@
         "features": "",
         "notes": "scheduling logic to port to nebokrai",
         "description": "A time schedule report for taskwarrior",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "algorithm.scheduling",
+        "rating": "-",
+        "status": "pursue",
+        "name": "timetable-generator",
+        "link": "https://github.com/topics/timetable-generator",
+        "language": "-",
+        "features": "",
+        "notes": "",
+        "description": "",
         "commits": "",
         "recency": ""
     },
@@ -1198,22 +1198,9 @@
     {
         "category": "data.format.garmin.->",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "garin gh search",
         "link": "https://github.com/topics/garmin?o=asc&s=updated",
-        "language": "-",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "data.format.garmin.fit",
-        "rating": "-",
-        "status": "->",
-        "name": "gh search fit",
-        "link": "https://github.com/search?q=fit+file&type=repositories",
         "language": "-",
         "features": "",
         "notes": "",
@@ -1249,6 +1236,19 @@
     },
     {
         "category": "data.format.garmin.fit",
+        "rating": "-",
+        "status": "pursue",
+        "name": "gh search fit",
+        "link": "https://github.com/search?q=fit+file&type=repositories",
+        "language": "-",
+        "features": "",
+        "notes": "",
+        "description": "",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "data.format.garmin.fit",
         "rating": "$$$$$",
         "status": "selected",
         "name": "fit",
@@ -1276,22 +1276,9 @@
     {
         "category": "data.format.garmin.fit.->",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "fit sdks on gh",
         "link": "https://github.com/topics/fit-sdk",
-        "language": "-",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "data.format.garmin.gpx",
-        "rating": "-",
-        "status": "->",
-        "name": "github search",
-        "link": "https://github.com/search?q=gpx%20file&type=repositories",
         "language": "-",
         "features": "",
         "notes": "",
@@ -1340,6 +1327,19 @@
     },
     {
         "category": "data.format.garmin.gpx",
+        "rating": "-",
+        "status": "pursue",
+        "name": "github search",
+        "link": "https://github.com/search?q=gpx%20file&type=repositories",
+        "language": "-",
+        "features": "",
+        "notes": "",
+        "description": "",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "data.format.garmin.gpx",
         "rating": "$$$$$",
         "status": "selected",
         "name": "gpx",
@@ -1367,7 +1367,7 @@
     {
         "category": "data.format.garmin.tcx",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "gh search",
         "link": "tcx https://github.com/search?q=tcx%20file&type=repositories",
         "language": "-",
@@ -1678,19 +1678,6 @@
     },
     {
         "category": "data.management",
-        "rating": "-",
-        "status": "->",
-        "name": "set up dvc with google drive - google search",
-        "link": "https://www.google.com/search?client=firefox-b-d&q=set+up+dvc+with+google+drive",
-        "language": "python",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "data.management",
         "rating": "$$$$",
         "status": "backpocket",
         "name": "tinydb",
@@ -1699,6 +1686,19 @@
         "features": "",
         "notes": "",
         "description": "[tinydb.readthedocs.io/en/latest](https://tinydb.readthedocs.io/en/latest/) - a lightweight document oriented database optimized for your happiness :)",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "data.management",
+        "rating": "-",
+        "status": "pursue",
+        "name": "set up dvc with google drive - google search",
+        "link": "https://www.google.com/search?client=firefox-b-d&q=set+up+dvc+with+google+drive",
+        "language": "python",
+        "features": "",
+        "notes": "",
+        "description": "",
         "commits": "",
         "recency": ""
     },
@@ -1964,19 +1964,6 @@
     },
     {
         "category": "development.python.cli",
-        "rating": "-",
-        "status": "->",
-        "name": "10 best free and open source command-line python application development tools - linuxlinks",
-        "link": "https://www.linuxlinks.com/best-free-open-source-command-line-python-application-development-tools/",
-        "language": "python",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "development.python.cli",
         "rating": "$$$$$",
         "status": "backpocket",
         "name": "cleo",
@@ -2043,6 +2030,19 @@
     {
         "category": "development.python.cli",
         "rating": "-",
+        "status": "pursue",
+        "name": "10 best free and open source command-line python application development tools - linuxlinks",
+        "link": "https://www.linuxlinks.com/best-free-open-source-command-line-python-application-development-tools/",
+        "language": "python",
+        "features": "",
+        "notes": "",
+        "description": "",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "development.python.cli",
+        "rating": "-",
         "status": "read",
         "name": "argparse",
         "link": "https://docs.python.org/3.11/library/argparse.html#module-argparse",
@@ -2065,32 +2065,6 @@
         "description": "",
         "commits": "4",
         "recency": "1"
-    },
-    {
-        "category": "development.tui",
-        "rating": "-",
-        "status": "->",
-        "name": "awesome-go#advanced-console-uis",
-        "link": "https://github.com/avelino/awesome-go#advanced-console-uis",
-        "language": "go",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "development.tui",
-        "rating": "-",
-        "status": "->",
-        "name": "textual discussions",
-        "link": "https://github.com/Textualize/textual/discussions/165",
-        "language": "python",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
     },
     {
         "category": "development.tui",
@@ -2398,6 +2372,32 @@
         "name": "rust-tui-template",
         "link": "https://github.com/orhun/",
         "language": "rust",
+        "features": "",
+        "notes": "",
+        "description": "",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "development.tui",
+        "rating": "-",
+        "status": "pursue",
+        "name": "awesome-go#advanced-console-uis",
+        "link": "https://github.com/avelino/awesome-go#advanced-console-uis",
+        "language": "go",
+        "features": "",
+        "notes": "",
+        "description": "",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "development.tui",
+        "rating": "-",
+        "status": "pursue",
+        "name": "textual discussions",
+        "link": "https://github.com/Textualize/textual/discussions/165",
+        "language": "python",
         "features": "",
         "notes": "",
         "description": "",
@@ -3979,45 +3979,6 @@
     },
     {
         "category": "tool.networking.hosting",
-        "rating": "",
-        "status": "->",
-        "name": "linuxhandbook.com/free-linux-cloud-servers",
-        "link": "https://linuxhandbook.com/free-linux-cloud-servers/",
-        "language": "-",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "tool.networking.hosting",
-        "rating": "-",
-        "status": "->",
-        "name": "hosttest.de/vergleich/cloudserver-linux.html",
-        "link": "https://www.hosttest.de/vergleich/cloudserver-linux.html",
-        "language": "-",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "tool.networking.hosting",
-        "rating": "-",
-        "status": "->",
-        "name": "slant.co/options/16947/alternatives/~netlify-alternatives",
-        "link": "https://www.slant.co/options/16947/alternatives/~netlify-alternatives",
-        "language": "-",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "tool.networking.hosting",
         "rating": "$$$$$",
         "status": "backpocket",
         "name": "dashboard.heroku.com/account",
@@ -4122,6 +4083,45 @@
     },
     {
         "category": "tool.networking.hosting",
+        "rating": "",
+        "status": "pursue",
+        "name": "linuxhandbook.com/free-linux-cloud-servers",
+        "link": "https://linuxhandbook.com/free-linux-cloud-servers/",
+        "language": "-",
+        "features": "",
+        "notes": "",
+        "description": "",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "tool.networking.hosting",
+        "rating": "-",
+        "status": "pursue",
+        "name": "hosttest.de/vergleich/cloudserver-linux.html",
+        "link": "https://www.hosttest.de/vergleich/cloudserver-linux.html",
+        "language": "-",
+        "features": "",
+        "notes": "",
+        "description": "",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "tool.networking.hosting",
+        "rating": "-",
+        "status": "pursue",
+        "name": "slant.co/options/16947/alternatives/~netlify-alternatives",
+        "link": "https://www.slant.co/options/16947/alternatives/~netlify-alternatives",
+        "language": "-",
+        "features": "",
+        "notes": "",
+        "description": "",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "tool.networking.hosting",
         "rating": "-",
         "status": "read",
         "name": "freecodecamp.org/news/how-to-host-lightweight-apps-for-free-a29773e5f39e",
@@ -4149,7 +4149,7 @@
     {
         "category": "tool.networking.hosting.->",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "codeless.co/heroku-alternatives",
         "link": "https://codeless.co/heroku-alternatives/",
         "language": "-",
@@ -5461,19 +5461,6 @@
     },
     {
         "category": "tool.note",
-        "rating": "-",
-        "status": "->",
-        "name": "onthesamepage",
-        "link": "https://onthesamepage.online/about",
-        "language": "-",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "tool.note",
         "rating": "$$$$$",
         "status": "adapt",
         "name": "standard unix notes",
@@ -5786,6 +5773,19 @@
     },
     {
         "category": "tool.note",
+        "rating": "-",
+        "status": "pursue",
+        "name": "onthesamepage",
+        "link": "https://onthesamepage.online/about",
+        "language": "-",
+        "features": "",
+        "notes": "",
+        "description": "",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "tool.note",
         "rating": "$$",
         "status": "rejected",
         "name": "indicator-stickynotes",
@@ -5820,19 +5820,6 @@
         "features": "",
         "notes": "",
         "description": "Jot is a feature-stripped version of Obsidian focused on rapid note management through the terminal. It uses the same format of storage as Obsidian.",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "tool.note.2ndbrain",
-        "rating": "-",
-        "status": "->",
-        "name": "-",
-        "link": "",
-        "language": "-",
-        "features": "",
-        "notes": "",
-        "description": "search: vimwiki for android",
         "commits": "",
         "recency": ""
     },
@@ -6059,6 +6046,19 @@
     },
     {
         "category": "tool.note.2ndbrain",
+        "rating": "-",
+        "status": "pursue",
+        "name": "-",
+        "link": "",
+        "language": "-",
+        "features": "",
+        "notes": "",
+        "description": "search: vimwiki for android",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "tool.note.2ndbrain",
         "rating": "$$$$$",
         "status": "selected",
         "name": "nb",
@@ -6124,19 +6124,6 @@
     },
     {
         "category": "tool.note.2ndbrain.obsidian",
-        "rating": "-",
-        "status": "->",
-        "name": "lifehacker.com/tech/best-obsidian-plugins",
-        "link": "https://lifehacker.com/tech/best-obsidian-plugins",
-        "language": "typescript, javascript",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "tool.note.2ndbrain.obsidian",
         "rating": "$$$$$$",
         "status": "incorporate",
         "name": "obsidian.md",
@@ -6147,6 +6134,19 @@
         "description": "",
         "commits": "-",
         "recency": "-"
+    },
+    {
+        "category": "tool.note.2ndbrain.obsidian",
+        "rating": "-",
+        "status": "pursue",
+        "name": "lifehacker.com/tech/best-obsidian-plugins",
+        "link": "https://lifehacker.com/tech/best-obsidian-plugins",
+        "language": "typescript, javascript",
+        "features": "",
+        "notes": "",
+        "description": "",
+        "commits": "",
+        "recency": ""
     },
     {
         "category": "tool.note.appflowy_etc",
@@ -6449,19 +6449,6 @@
     },
     {
         "category": "tool.note.orgmode",
-        "rating": "-",
-        "status": "->",
-        "name": "orgmode.org/worg/org-contrib",
-        "link": "https://orgmode.org/worg/org-contrib/",
-        "language": "elisp",
-        "features": "",
-        "notes": "",
-        "description": "",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "tool.note.orgmode",
         "rating": "$$$$$",
         "status": "glean",
         "name": "organice",
@@ -6535,6 +6522,19 @@
         "features": "",
         "notes": "",
         "description": "[orgnote](https://github.com/artawower/orgnote)",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "tool.note.orgmode",
+        "rating": "-",
+        "status": "pursue",
+        "name": "orgmode.org/worg/org-contrib",
+        "link": "https://orgmode.org/worg/org-contrib/",
+        "language": "elisp",
+        "features": "",
+        "notes": "",
+        "description": "",
         "commits": "",
         "recency": ""
     },
@@ -7438,7 +7438,7 @@
     {
         "category": "tool.task.->",
         "rating": "$$$$$",
-        "status": "->",
+        "status": "pursue",
         "name": "tasklite related tools",
         "link": "https://tasklite.org/related.html",
         "language": "haskell",
@@ -8348,7 +8348,7 @@
     {
         "category": "tool.taskwarrior.->",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "taskwarrior tools",
         "link": "https://taskwarrior.org/tools/",
         "language": "-",
@@ -11520,7 +11520,7 @@
     {
         "category": "tool.taskwarrior.nix",
         "rating": "$$$$$$$",
-        "status": "->",
+        "status": "pursue",
         "name": "taskwarrior nix configs",
         "link": "https://github.com/search?q=taskwarrior+language%3Anix&type=code",
         "language": "nix",
@@ -11637,7 +11637,7 @@
     {
         "category": "tool.timewarrior.extension.->",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "timewarrior tools",
         "link": "https://timewarrior.net/tools/",
         "language": "-",
@@ -12534,7 +12534,7 @@
     {
         "category": "tool.tracking.fitness.->",
         "rating": "-",
-        "status": "->",
+        "status": "pursue",
         "name": "alts",
         "link": "https://alternativeto.net/software/myfitnesspal/?license=opensource",
         "language": "-",

@@ -1,10 +1,24 @@
 import json
 import re
 
-p = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/nebokrai-software.json"
-with open(p) as f:
-    dl = json.load(f)
-with open(p.replace(".json", "_backup.json"), "w") as f:
+backup = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/nebokrai-software-backup.json"
+incorporate = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/software-incorporate.json"
+adapt = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/software-adapt.json"
+read = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/software-read.json"
+glean = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/software-glean.json"
+backpocket = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/software-backpocket.json"
+selected = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/software-selected.json"
+pursue = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/software-pursue.json"
+move = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/software-move.json"
+rejected = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/software-rejected.json"
+added = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/software-added.json"
+other = "/home/isaac/nix-config/notes/F_technology/F_B_computer_science/projects/nebokrai/software-other.json"
+
+dl = []
+for p in [incorporate, adapt, read, glean, backpocket, selected, pursue, move, rejected, added, other]:
+    with open(p) as f:
+        dl.extend(json.load(f))
+with open(backup, "w") as f:
     json.dump(dl, f)
 
 
@@ -18,25 +32,6 @@ def display_counts(key: str, depth: int) -> None:
     counts = sorted([(cats.count(c), c) for c in sorted(set(cats))], reverse=True)
     for count, item in counts:
         print(f"{count:>4} {item}")
-
-
-# def display_category_tree() -> None:
-#     def pop_head(s: str) -> tuple[str, str]:
-#         splits = key.split(".")
-#         parent, childkey = splits[0], ".".join(splits[1:])
-#         return parent, childkey
-    
-#     cats = [d["category"] for d in dl]
-#     counts = [(cats.count(c), c) for c in sorted(set(cats))]
-#     treedict = {}
-
-#     def pair_as_dict(key: str, count: int):
-#         newdict = {}
-#         head, tail = pop_head(key)
-#         if tail:
-#             return {head: pair_as_dict(tail, count)}
-#         else:
-#             return {head: count}
     
 
 def print_tree(strings):
@@ -72,25 +67,48 @@ def print_tree(strings):
     print_subtree(root)
 
 #####
-# dl = [d for d in dl if d["status"]=="incorporate"]
+# dl = [d for d in dl if d["class"]=="incorporate"]
 # display_counts("category", 2)
 # print_tree([d["category"] for d in dl])
 # exit()
 #####
 
-# dl = [d for d in dl if d["status"]=="decide"]
+# dl = [d for d in dl if d["class"]=="decide"]
 # display_counts("category", 2)
 
 # print_tree([d["category"] for d in dl])
-display_counts("status", 2)
+display_counts("class", 2)
 display_counts("rating", 2)
 # display_counts("language", 1)
 # display_counts("recency", 1)
 
-dl.sort(key=lambda d: (d["category"], d["status"], d["rating"], d["name"]))
-# dl.sort(key=lambda d: (d["status"]))
+dl.sort(key=lambda d: (d["category"], d["class"], d["rating"], d["name"]))
+# dl.sort(key=lambda d: (d["class"]))
 with open(p, "w") as f:
     json.dump(dl, f, indent=4)
+
+with open(incorporate, "w") as f:
+    json.dump([d for d in dl if d["class"]=="incorporate"], f, indent=4)
+with open(adapt, "w") as f:
+    json.dump([d for d in dl if d["class"]=="adapt"], f, indent=4)
+with open(read, "w") as f:
+    json.dump([d for d in dl if d["class"]=="read"], f, indent=4)
+with open(glean, "w") as f:
+    json.dump([d for d in dl if d["class"]=="glean"], f, indent=4)
+with open(backpocket, "w") as f:
+    json.dump([d for d in dl if d["class"]=="backpocket"], f, indent=4)
+with open(selected, "w") as f:
+    json.dump([d for d in dl if d["class"]=="selected"], f, indent=4)
+with open(pursue, "w") as f:
+    json.dump([d for d in dl if d["class"]=="pursue"], f, indent=4)
+with open(move, "w") as f:
+    json.dump([d for d in dl if d["class"]=="move"], f, indent=4)
+with open(rejected, "w") as f:
+    json.dump([d for d in dl if d["class"]=="rejected"], f, indent=4)
+with open(added, "w") as f:
+    json.dump([d for d in dl if d["class"]=="added"], f, indent=4)
+with open(other, "w") as f:
+    json.dump([d for d in dl if d["class"] not in {"incorporate", "adapt", "read", "glean", "backpocket", "selected", "pursue", "move", "rejected", "added"}], f, indent=4)
 
 key = "name"
 probs = [d for d in dl if not key in d]
@@ -128,7 +146,7 @@ for i, d in enumerate(dl[:-1]):
     {
         "category": "",
         "rating": "",
-        "status": "",
+        "class": "",
         "name": "",
         "link": "",
         "language": "",

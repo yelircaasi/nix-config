@@ -1,0 +1,54 @@
+[
+    {
+        "category": "tool.task.android",
+        "rating": "$$$$$",
+        "status": "", "class": "added",
+        "name": "markor",
+        "link": "https://github.com/gsantner/markor",
+        "language": "java",
+        "features": "",
+        "notes": "on phone",
+        "description": "Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ...",
+        "commits": "1987",
+        "recency": "0"
+    },
+    {
+        "category": "tool.task.android",
+        "rating": "$$$$$",
+        "status": "", "class": "added",
+        "name": "ntodotxt",
+        "link": "https://github.com/tmaegel/ntodotxt",
+        "language": "dart",
+        "features": "",
+        "notes": "on phone",
+        "description": "Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud)",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "tool.task.android",
+        "rating": "$$$$$",
+        "status": "", "class": "added",
+        "name": "simpletask-android",
+        "link": "https://github.com/mpcjanssen/simpletask-android/",
+        "language": "kotlin, java",
+        "features": "",
+        "notes": "on phone; works cloudless, nextcloud, or webDAV",
+        "description": "Simpletask is a simple task manager for Android, based on the brilliant todo.txt format by Gina Trapani.",
+        "commits": "",
+        "recency": ""
+    },
+    {
+        "category": "tool.tracking.dashboard",
+        "rating": "$$$$$",
+        "status": "", "class": "added",
+        "name": "wtf",
+        "link": "https://github.com/wtfutil/wtf",
+        "language": "go",
+        "features": "",
+        "notes": "",
+        "description": "personal information dashboard for the terminal !!!",
+        "commits": "",
+        "recency": ""
+    }
+]

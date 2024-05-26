@@ -1560,3 +1560,4 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [kuroko](https://github.com/kuroko-lang/kuroko)
 * [pharo](https://pharo.org/features)
 * [nativescript](https://v7.docs.nativescript.org/)
+* [bob](https://github.com/actuday6418/bob)

@@ -27,10 +27,12 @@ in {
       ./applications/console/file-browser/xplr
       ./applications/console/file-browser/yazi
       ./applications/console/fun
+      
       ./applications/console/navigation/pazi
       ./applications/console/navigation/zoxide
       ./applications/console/organization-cleanup
       ./applications/console/personal-organization
+      ./applications/console/quality-of-life
       ./applications/console/search/ack
       ./applications/console/search/fd
       ./applications/console/search/fzf
@@ -55,6 +57,8 @@ in {
       # ./applications/console/
       # ./applications/console/
       # ./applications/console/
+
+      ./applications/gui/personal-organization
     ]
     (listIf "neovim" deviceConfig.editors ./applications/console/neovim)
     (listIf "wezterm" deviceConfig.terminal-emulators ./applications/gui/terminal-emulator/wezterm)

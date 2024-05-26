@@ -1,6 +1,10 @@
 # SORT
 
 https://cs-syd.eu/blog $$$$$$$$$
+https://github.com/srid/commonmark-wikilink
+https://github.com/srid
+
+https://mzucker.github.io/2016/09/20/noteshrink.html
 
 https://nixos.wiki/wiki/Creating_a_NixOS_live_CD
 -> https://www.reddit.com/r/NixOS/comments/y1xo2u/how_to_create_an_iso_with_my_config_files/
@@ -61,10 +65,15 @@ https://huggingface.co/docs/transformers/main/gguf
 https://huggingface.co/jurieyel/Llama3-sqlcoder-8b-4bit-GGUF-q4_K_M
 https://www.analyticsvidhya.com/blog/2024/02/sql-generation-in-text2sql-with-tinyllamas-llm-fine-tuning/
 https://llama-cpp-python.readthedocs.io/en/latest/
+https://babashka.org/
+https://github.com/babashka/nbb
 
 https://github.com/zhshLii/PETSQL/tree/master
 https://github.com/taoyds/test-suite-sql-eval
+https://github.com/Skyost/Algogo https://www.algogo.xyz/
 
+https://www.gnu.org/software/idutils/
+good discussion: https://www.reddit.com/r/ObsidianMD/comments/x95y56/obsidian_alternatives_that_are_open_source_free/  https://vivaldi.com/blog/technology/why-isnt-vivaldi-browser-open-source/
 https://developer.wikimedia.org/contribute/by-language/
 https://www.willmcgugan.com/
 https://github.com/DarkKronicle/SpotifyPlaylistGenerator

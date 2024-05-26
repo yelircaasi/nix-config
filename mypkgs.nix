@@ -14,29 +14,7 @@
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
   # buildNimPackage = pkgs.nimPackages.buildNimPackage;
 in {
-  organize-rt = buildRustPackage rec {
-    pname = "organize-rt";
-    version = "1.0.1";
-
-    # nativeBuildInputs = with pkgs; [pkg-config];
-    # buildInputs = with pkgs; [openssl];
-
-    src = fetchFromGitLab {
-      owner = "foxido";
-      repo = "organize-rt";
-      rev = "ec8185787f7f8accce983b1980c15bcf27edd169";
-      sha256 = "sha256-jnSlRuotMsGn6DGoiZIqn5d7oq/svwCQ/lmg7SPoSeo=";
-    };
-
-    cargoSha256 = "sha256-jU+UdL20rGlf1/xH9mpDcibWb4FHDlkbQs/2BKQl6uY=";
-
-    meta = with lib; {
-      description = "Organize files based on regex rules, file extensions by default.";
-      homepage = "https://gitlab.com/foxido/organize-rt";
-      license = licenses.gpl3;
-      # maintainers = [];
-    };
-  };
+  ansiweather = {};
   antidot = buildGoModule rec {
     pname = "antidot";
     version = "0.6.3";
@@ -60,49 +38,9 @@ in {
       # maintainers = with maintainers; [  ];
     };
   };
-
-  filesort = buildRustPackage rec {
-    pname = "filesort";
-    version = "v1.2.2";
-
-    nativeBuildInputs = with pkgs; [pkg-config];
-    buildInputs = with pkgs; [openssl];
-
-    src = fetchFromGitHub {
-      owner = "yelircaasi";
-      repo = "filesort";
-      rev = "3eb3ddbfcc8003a6dfa36b95acaebc791287759c";
-      sha256 = "sha256-3TNeLfI0DorsX44nI462R4zgonNRA12MYudsYqI7FDE=";
-    };
-
-    cargoSha256 = "sha256-gUVwWbWtA6wuGVQjNc6ItUOHZppMYBYe5X4LwBzC/JU=";
-
-    meta = with lib; {
-      description = "file-sorter-rs is an automatic file sorting application that sorts your files into folders based on their file extension. With FileSorterX, you can easily keep your files organized and find what you need quickly.";
-      homepage = "https://github.com/yelircaasi/filesort";
-      license = licenses.mit;
-      # maintainers = [];
-    };
-  };
-
-  # chawan = buildNimPackage rec {
-  #   pname = "chawan";
-  #   version = "2024-05-23";
-
-  #   src = fetchFromSourcehut {
-  #     owner = "~bptato";
-  #     repo = pname;
-  #     rev = "8c7a2a582baff30ccbf76f52b6b48cc979ea62e2";
-  #     hash = "sha256-FarE55GjGeGEQf2k4ZKxHr4ZSwmFdeOWetUf1RwXJUI=";
-  #   };
-
-  #   meta = with lib; {
-  #     description = "a web browser for your terminal";
-  #     homepage = "https://sr.ht/~bptato/chawan/";
-  #     license = licenses.mit;
-  #     # maintainers = with maintainers; [ sikmir ];
-  #   };
-  # };
+  binary-clock = {};
+  bsol = {};
+  castero = {};
   chawan = mkDerivation rec {
     pname = "chawan";
     version = "unstable-2024-01-15";
@@ -166,37 +104,166 @@ in {
       mainProgram = "cha";
     };
   };
-  lotus123 = {};
-  enjoy-json = {};
-  squeeze = {};
+  # chawan = buildNimPackage rec {
+  #   pname = "chawan";
+  #   version = "2024-05-23";
+
+  #   src = fetchFromSourcehut {
+  #     owner = "~bptato";
+  #     repo = pname;
+  #     rev = "8c7a2a582baff30ccbf76f52b6b48cc979ea62e2";
+  #     hash = "sha256-FarE55GjGeGEQf2k4ZKxHr4ZSwmFdeOWetUf1RwXJUI=";
+  #   };
+
+  #   meta = with lib; {
+  #     description = "a web browser for your terminal";
+  #     homepage = "https://sr.ht/~bptato/chawan/";
+  #     license = licenses.mit;
+  #     # maintainers = with maintainers; [ sikmir ];
+  #   };
+  # };
   choose = {};
-  ansiweather = {};
-  guesswidth = {};
-  rebound = {};
-  binary-clock = {};
-  rdict = {};
-  waybar-weather = {};
-  loungy = {};
   conty = {};
-  lxroot = {};
-  neosurf = {};
-  surf-wayland = {};
+  diary = buildRustPackage rec { # TODO: installs correctly, but needs work
+    pname = "diary";
+    version = "2021-06-16";
+
+    # nativeBuildInputs = with pkgs; [pkg-config];
+    # buildInputs = with pkgs; [openssl];
+
+    src = fetchFromGitHub {
+      owner = "actuday6418";
+      repo = "Diary";
+      rev = "4f705ff67cc813f6c018edba2984bd71f1b30e3f";
+      sha256 = "sha256-Y6lUfu0Wj3kka9VXluAdnalM/KULkLXol4pSbEZ07KM=";
+    };
+
+    cargoSha256 = "sha256-UbZnmG+zRusEr1aJACvat/tlzHEZhLNaXPznD7L15Ao=";
+
+    meta = with lib; {
+      description = "Encrypted memories";
+      homepage = "https://github.com/actuday6418/Diary";
+      license = licenses.gpl3;
+      # maintainers = [];
+    };
+  };
+  dnote = buildGoModule rec { # TODO: fix bin names, fts5 error
+    pname = "dnote";
+    version = "v0.15.1";
+
+    src = fetchFromGitHub {
+      owner = pname;
+      repo = pname;
+      rev = "1ff4c075284055115d4b4f32c6b946dba13d5e95";
+      sha256 = "sha256-80CT86YsLeAymnrtNQ5YHPbomKpGOgd7za51IqrILr4=";
+    };
+
+    vendorHash = "sha256-XCdzzlT3iYiaFlTljIlxIAYBxgN4jBp3yjetrTWBRfk=";
+
+    doCheck = false;
+
+    meta = with lib; {
+      homepage = "https://github.com/dnote/dnote";
+      description = "A simple command line notebook for programmers";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+      # maintainers = with maintainers; [  ];
+    };
+  };
   enhancer-for-youtube = {};
-  siren = {};
-  harmonoid = {};
-  music-player-plus = {};
-  lyssa = {};
-  olivia = {};
-  castero = {};
-  youtube-viewer = {};
-  pixelfx = {};
-  whatsie = {};
-  bsol = {};
-  refind = {};
-  rcz = {};
-  vmn = {};
-  git-plus = {};
-  multi-git-status = {};
+  enjoy-json = {};
+  filesort = buildRustPackage rec {
+    pname = "filesort";
+    version = "v1.2.2";
+
+    nativeBuildInputs = with pkgs; [pkg-config];
+    buildInputs = with pkgs; [openssl];
+
+    src = fetchFromGitHub {
+      owner = "yelircaasi";
+      repo = "filesort";
+      rev = "3eb3ddbfcc8003a6dfa36b95acaebc791287759c";
+      sha256 = "sha256-3TNeLfI0DorsX44nI462R4zgonNRA12MYudsYqI7FDE=";
+    };
+
+    cargoSha256 = "sha256-gUVwWbWtA6wuGVQjNc6ItUOHZppMYBYe5X4LwBzC/JU=";
+
+    meta = with lib; {
+      description = "file-sorter-rs is an automatic file sorting application that sorts your files into folders based on their file extension. With FileSorterX, you can easily keep your files organized and find what you need quickly.";
+      homepage = "https://github.com/yelircaasi/filesort";
+      license = licenses.mit;
+      # maintainers = [];
+    };
+  };
   forgit = {};
   git-fuzzy = {};
+  git-plus = {};
+  guesswidth = {};
+  harmonoid = {};
+  lotus123 = {};
+  loungy = {};
+  lxroot = {};
+  lyssa = {};
+  multi-git-status = {};
+  music-player-plus = {};
+  neosurf = {};
+  olivia = {};
+  organize-rt = buildRustPackage rec {
+    pname = "organize-rt";
+    version = "1.0.1";
+
+    # nativeBuildInputs = with pkgs; [pkg-config];
+    # buildInputs = with pkgs; [openssl];
+
+    src = fetchFromGitLab {
+      owner = "foxido";
+      repo = "organize-rt";
+      rev = "ec8185787f7f8accce983b1980c15bcf27edd169";
+      sha256 = "sha256-jnSlRuotMsGn6DGoiZIqn5d7oq/svwCQ/lmg7SPoSeo=";
+    };
+
+    cargoSha256 = "sha256-jU+UdL20rGlf1/xH9mpDcibWb4FHDlkbQs/2BKQl6uY=";
+
+    meta = with lib; {
+      description = "Organize files based on regex rules, file extensions by default.";
+      homepage = "https://gitlab.com/foxido/organize-rt";
+      license = licenses.gpl3;
+      # maintainers = [];
+    };
+  };
+  pixelfx = {};
+  rcz = {};
+  rdict = {};
+  rebound = {};
+  refind = {};
+  siren = {};
+  squeeze = {};
+  surf-wayland = {};
+  tuido = buildGoModule rec {
+    pname = "tuido";
+    version = "0.0.9";
+
+    src = fetchFromGitHub {
+      owner = "NiloCK";
+      repo = pname;
+      rev = "v${version}";
+      sha256 = "sha256-VEp5Wp69r7806t3XJ4AxS7pta4HktxFSFfLIYCq7Y+k=";
+    };
+
+    vendorHash = "sha256-+Jo5sv7jD4in4HoYGvpGumM9kXrfksUu/4sSjUP5HG8=";
+
+    doCheck = false;
+
+    meta = with lib; {
+      homepage = "https://github.com/NiloCK/tuido";
+      description = "a text user interface for navigating [x]it! spec todo across multiple files";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+      # maintainers = with maintainers; [  ];
+    };
+  };
+  vmn = {};
+  waybar-weather = {};
+  whatsie = {};
+  youtube-viewer = {};
 }

@@ -12,5 +12,7 @@
     syncall
     taskopen
     tasknc
+
+    mypkgs.tuido
   ];
 }

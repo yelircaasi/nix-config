@@ -8,6 +8,8 @@ Add support for links to text files in the jn directory under `long-notes`; then
 "text": ["-->", "long-notes/..."],
 ```
 
+turbogit, ungit
+
 https://cs-syd.eu/blog $$$$$$$$$
 https://github.com/srid/commonmark-wikilink
 https://github.com/srid

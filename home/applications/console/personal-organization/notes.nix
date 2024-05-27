@@ -5,7 +5,8 @@
 }: {
   home.packages =
     (with pkgs; [
-      nb pandoc
+      nb
+      pandoc
       jot
       zk
       emanote

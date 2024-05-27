@@ -28,7 +28,7 @@ in {
       ./applications/console/file-browser/xplr
       ./applications/console/file-browser/yazi
       ./applications/console/fun
-      
+
       ./applications/console/navigation/pazi
       ./applications/console/navigation/zoxide
       ./applications/console/organization-cleanup

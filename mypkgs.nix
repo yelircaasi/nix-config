@@ -14,7 +14,17 @@
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
   # buildNimPackage = pkgs.nimPackages.buildNimPackage;
 in {
-  ansiweather = {};
+  ansiweather = {
+    #TODO
+
+    meta = with lib; {
+      #TODO
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
   antidot = buildGoModule rec {
     pname = "antidot";
     version = "0.6.3";
@@ -38,9 +48,39 @@ in {
       # maintainers = with maintainers; [  ];
     };
   };
-  binary-clock = {};
-  bsol = {};
-  castero = {};
+  binary-clock = {
+    #TODO
+
+    meta = with lib; {
+      #TODO
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  bsol = {
+    #TODO
+
+    meta = with lib; {
+      #TODO
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  castero = {
+    #TODO
+
+    meta = with lib; {
+      #TODO
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
   chawan = mkDerivation rec {
     pname = "chawan";
     version = "unstable-2024-01-15";
@@ -122,9 +162,30 @@ in {
   #     # maintainers = with maintainers; [ sikmir ];
   #   };
   # };
-  choose = {};
-  conty = {};
-  diary = buildRustPackage rec { # TODO: installs correctly, but needs work
+  choose = {
+    #TODO
+
+    meta = with lib; {
+      #TODO
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  conty = {
+    #TODO
+
+    meta = with lib; {
+      #TODO
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  diary = buildRustPackage rec {
+    # TODO: installs correctly, but needs work
     pname = "diary";
     version = "2021-06-16";
 
@@ -147,7 +208,8 @@ in {
       # maintainers = [];
     };
   };
-  dnote = buildGoModule rec { # TODO: fix bin names, fts5 error
+  dnote = buildGoModule rec {
+    # TODO: fix bin names, fts5 error
     pname = "dnote";
     version = "v0.15.1";
 
@@ -170,8 +232,28 @@ in {
       # maintainers = with maintainers; [  ];
     };
   };
-  enhancer-for-youtube = {};
-  enjoy-json = {};
+  enhancer-for-youtube = {
+    #TODO
+
+    meta = with lib; {
+      #TODO
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  enjoy-json = {
+    #TODO
+
+    meta = with lib; {
+      #TODO
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
   filesort = buildRustPackage rec {
     pname = "filesort";
     version = "v1.2.2";
@@ -195,19 +277,176 @@ in {
       # maintainers = [];
     };
   };
-  forgit = {};
-  git-fuzzy = {};
-  git-plus = {};
-  guesswidth = {};
-  harmonoid = {};
-  lotus123 = {};
-  loungy = {};
-  lxroot = {};
-  lyssa = {};
-  multi-git-status = {};
-  music-player-plus = {};
-  neosurf = {};
-  olivia = {};
+  forgit = mkDerivation rec {
+    pname = "forgit";
+    version = "2024-05-12"; # (2024-05-27)
+
+    src = fetchFromGitHub {
+      owner = "wfxr";
+      repo = pname;
+      rev = "17394d10569899eded337dec59ef461f8becea51";
+      sha256 = "sha256-odxdySx3Bzxs5RMXJ4nivwltQYIaM/UrPb+A0/pnDSk=";
+    };
+
+    dontBuild = true;
+
+    installPhase = ''
+      mkdir -p $out/bin
+      cp -r bin/* $out/bin/
+      mkdir -p $out/completions
+      cp -r completions/* $out/completions/
+      mkdir -p $out/conf.d
+      cp -r conf.d/* $out/conf.d/
+      cp forgit.plugin.zsh $out/forgit.plugin.sh
+      chmod +x $out/bin/git-forgit
+      chmod +x $out/forgit.plugin.sh
+    '';
+
+    meta = with lib; {
+      homepage = "https://github.com/wfxr/forgit";
+      description = "A utility tool powered by fzf for using git interactively.";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  git-fuzzy = mkDerivation rec {
+    pname = "git-fuzzy";
+    version = "2023-11-21"; # (2024-05-27)
+
+    src = fetchFromGitHub {
+      owner = "bigH";
+      repo = pname;
+      rev = "41b7691a837e23e36cec44e8ea2c071161727dfa";
+      sha256 = "sha256-fexv5aesUakrgaz4HE9Nt954OoBEF06qZb6VSMvuZhw=";
+    };
+
+    dontBuild = true;
+
+    installPhase = ''
+      mkdir -p $out/bin
+      cp -r bin/* $out/bin/
+      mkdir -p $out/lib
+      cp -r lib/* $out/lib/
+      chmod +x $out/bin/git-fuzzy
+    '';
+
+    meta = with lib; {
+      homepage = "https://github.com/bigH/git-fuzzy/tree/main";
+      description = "nteractive `git` with the help of `fzf`";
+      license = licenses.mit;
+      platforms = platforms.all;
+    };
+  };
+  git-plus = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  guesswidth = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  harmonoid = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  lotus123 = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  loungy = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  lxroot = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  lyssa = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  multi-git-status = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  music-player-plus = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  neosurf = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  olivia = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
   organize-rt = buildRustPackage rec {
     pname = "organize-rt";
     version = "1.0.1";
@@ -231,14 +470,87 @@ in {
       # maintainers = [];
     };
   };
-  pixelfx = {};
-  rcz = {};
-  rdict = {};
-  rebound = {};
-  refind = {};
-  siren = {};
-  squeeze = {};
-  surf-wayland = {};
+  pixelfx = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  rcz = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  rdict = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  rebound = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  refind = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  siren = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  squeeze = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  surf-wayland = {
+    #TODO
+
+    meta = with lib; {
+      #TODO
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
   tuido = buildGoModule rec {
     pname = "tuido";
     version = "0.0.9";
@@ -262,8 +574,45 @@ in {
       # maintainers = with maintainers; [  ];
     };
   };
-  vmn = {};
-  waybar-weather = {};
-  whatsie = {};
-  youtube-viewer = {};
+  vmn = {
+    #TODO
+
+    meta = with lib; {
+      #TODO
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  waybar-weather = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  whatsie = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
+  youtube-viewer = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
 }

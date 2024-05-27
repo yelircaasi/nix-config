@@ -12,7 +12,7 @@
         "category": "console.browser.tui",
         "name": "chawan",
         "nix_name": "chawan",
-        "status": "selected; needs nix packaging",
+        "status": "added",
         "link": "https://sr.ht/~bptato/chawan/",
         "language": "nim",
         "description": "",
@@ -24,7 +24,7 @@
         "nix_name": "enjoy-json",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/anki-code/jj",
-        "language": "",
+        "language": "python",
         "description": "",
         "notes": ""
     },
@@ -51,7 +51,7 @@
         "name": "json-tui",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/ArthurSonzogni/json-tui",
-        "language": "",
+        "language": "c++",
         "description": "",
         "notes": ""
     },
@@ -72,7 +72,7 @@
         "nix_name": "squeeze",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/aymericbeaumet/squeeze",
-        "language": "",
+        "language": "rust",
         "description": "",
         "notes": "add to RosettaProjects; also needs updating"
     },
@@ -82,7 +82,7 @@
         "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/jagprog5/choose",
-        "language": "",
+        "language": "c++",
         "description": "",
         "notes": ""
     },
@@ -112,7 +112,7 @@
         "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/shobrook/rebound",
-        "language": "",
+        "language": "python",
         "description": "",
         "notes": ""
     },
@@ -360,7 +360,7 @@
         "category": "version_control.tui",
         "name": "git-fuzzy",
         "nix_name": "",
-        "status": "selected; needs nix packaging",
+        "status": "added",
         "link": "https://github.com/bigH/git-fuzzy",
         "language": "",
         "description": "",

@@ -1,6 +1,6 @@
 # nixos-config
 
-My NixOS configuration files. I'm new to NixOS, so take all of this with a grain of salt.
+My NixOS/Nix configuration files, highly modular with centrally-configured colors and keybindings.
 
 ## Introduction
 

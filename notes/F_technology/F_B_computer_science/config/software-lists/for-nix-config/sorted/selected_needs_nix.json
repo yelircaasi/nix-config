@@ -272,7 +272,7 @@
         "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/keshavbhatt/PixelFx",
-        "language": "",
+        "language": "c++",
         "description": "",
         "notes": ""
     },

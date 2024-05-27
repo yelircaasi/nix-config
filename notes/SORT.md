@@ -1,5 +1,7 @@
 # SORT
 
+https://nixos.org/manual/nixos/stable/index.html#sec-building-image
+
 Add clipboard and $EDITOR functionality to notes, so that adding a long multi-line note is supported and comfortable.
 
 Add support for links to text files in the jn directory under `long-notes`; then simply include path in text:

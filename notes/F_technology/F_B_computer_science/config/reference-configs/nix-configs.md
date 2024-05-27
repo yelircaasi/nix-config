@@ -419,6 +419,7 @@ package = pkgs.tela-circle-icon-theme;
 }
 ```
 
+* [krutonium](https://gitea.krutonium.ca/Krutonium/NixOS)
 * [Icy-Thought/snowflake](https://github.com/Icy-Thought/snowflake) SwayWM GREEN NixOS [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes)
 * [codeberg.org/quantenzitrone/nix-config/src/commit/4939103787da8e59f3cef8b0078718f638d8d919](https://codeberg.org/quantenzitrone/nix-config/src/commit/4939103787da8e59f3cef8b0078718f638d8d919)
 * [qwbarch/nix-config/tree/5fa822feaae405d8e44f7dafd6c0948d54159b51](https://github.com/qwbarch/nix-config/tree/5fa822feaae405d8e44f7dafd6c0948d54159b51)

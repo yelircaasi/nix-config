@@ -12,7 +12,7 @@
 
   mkDerivation = pkgs.stdenv.mkDerivation;
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
-  # buildNimPackage = pkgs.nimPackages.buildNimPackage;
+  buildPythonPackage = pkgs.python3Packages.buildPythonPackage;
 in {
   ansiweather = {
     #TODO
@@ -337,13 +337,31 @@ in {
       platforms = platforms.all;
     };
   };
-  git-plus = {
-    #TODO
+  git-plus = buildPythonPackage rec {
+    pname = "git-plus";
+    version = "0.4.0";
+
+    format = "pyproject";
+
+    src = fetchFromGitHub {
+      owner = "yelircaasi";
+      repo = pname;
+      rev = "c048660216d583c1fe0ba15d0e1cf435893317ab"; # 2024-05-27
+      hash = "sha256-HwWxJKyqa2A/Pn01NxgeeeuccTu1BS13ong4kJlbg8w=";
+    };
+
+    nativeBuildInputs = [
+      pkgs.python311Packages.poetry-core
+    ];
+
+    propagatedBuildInputs = [
+      pkgs.git
+    ];
 
     meta = with lib; {
-      homepage = "";
-      description = "";
-      license = licenses.gpl3;
+      homepage = "https://github.com/yelircaasi/git-plus";
+      description = "a set of git utilities";
+      license = licenses.asl20;
       platforms = platforms.all;
     };
   };

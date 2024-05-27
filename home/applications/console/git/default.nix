@@ -5,6 +5,8 @@
 }: {
   home.packages = with pkgs; [
     ungit
+    mypkgs.git-plus
+
     mypkgs.git-fuzzy
     fzf
     gawk

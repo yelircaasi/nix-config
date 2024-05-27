@@ -1,5 +1,13 @@
 # SORT
 
+Add clipboard and $EDITOR functionality to notes, so that adding a long multi-line note is supported and comfortable.
+
+Add support for links to text files in the jn directory under `long-notes`; then simply include path in text:
+
+```json
+"text": ["-->", "long-notes/..."],
+```
+
 https://cs-syd.eu/blog $$$$$$$$$
 https://github.com/srid/commonmark-wikilink
 https://github.com/srid

@@ -20,6 +20,7 @@ in {
     [
       ./applications/console/browser
       ./applications/console/calculator-conversion-date
+      ./applications/console/communication/email
       ./applications/console/data-wrangling/html
       ./applications/console/data-wrangling/json
       ./applications/console/git

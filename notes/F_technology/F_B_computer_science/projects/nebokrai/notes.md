@@ -12,18 +12,18 @@ https://tetr.app/
 
 Ideal system:
 
-- robust home server
-- frequent (daily) external backups to an external device (gitlab, thumb drive/passport, proton drive/mega/etc)
-- accessible from phone (android or linux) app, desktop gui, cli
-- automatic (from declaration input) generation of plan, daily schedule, clothes, recipes, shopping lists
-- simple tracking of metrics and goals
-- all notes connected and in a structure that optimizes searchability and analysis
-- easy to add new notes
-- good way to share links, esp from my phone
-- well-defined and easy-to-work-with data formats
-- resilience: allowance for "shit happens" -> contingency
-- minimal cognitive overhead -> maximal focus and flow
-- informative feedback via diffs: planned|scheduled vs actual, prior plan vs updated plan, goal vs actual, goal vs updated goal
+* robust home server
+* frequent (daily) external backups to an external device (gitlab, thumb drive/passport, proton drive/mega/etc)
+* accessible from phone (android or linux) app, desktop gui, cli
+* automatic (from declaration input) generation of plan, daily schedule, clothes, recipes, shopping lists
+* simple tracking of metrics and goals
+* all notes connected and in a structure that optimizes searchability and analysis
+* easy to add new notes
+* good way to share links, esp from my phone
+* well-defined and easy-to-work-with data formats
+* resilience: allowance for "shit happens" -> contingency
+* minimal cognitive overhead -> maximal focus and flow
+* informative feedback via diffs: planned|scheduled vs actual, prior plan vs updated plan, goal vs actual, goal vs updated goal
 
 ### System Bridge
 
@@ -422,6 +422,7 @@ Switch fom Roadmaps::Project::Task hierarchy to Project::Task; use tags for orga
 * ( ) plan underfull
 * ( ) rollover required (with priorities)
 * ( ) with dependencies
+
 ### Solver Software
 
 https://github.com/i-am-tom/holmes/
@@ -564,6 +565,83 @@ Each of these libraries has its strengths and is suited for different kinds of p
 * need to write function `dependencySort` to put list of tasks in an order satisfying dependency constraints, raising an informative error if dependency constraints are irresoluble
 * need to do a literature/code search to find relevant algorithms, implementations, and resources
 * requires dependency graph data structure
+
+To solve the task scheduling problem with dependencies, you can represent the tasks and their dependencies using a directed graph (digraph). In this graph, nodes represent tasks, and directed edges represent dependencies between tasks. The problem then becomes one of topological sorting, where you need to order the tasks such that for every directed edge \( A \rightarrow B \), task \( A \) comes before task \( B \).
+
+If the graph has cycles, it means there are contradictory dependencies, and topological sorting will fail.
+
+Here's a complete Haskell solution using the `containers` library to represent the graph and `topSort` from `Data.Graph` to perform the topological sort. If the graph has cycles, `topSort` will throw an exception.
+
+First, you need to add the `containers` package to your project. You can do this by adding `containers` to your `.cabal` file under `build-depends` or by running `cabal install containers`.
+
+```haskell
+import Data.Graph
+import Data.Array
+import Data.Maybe (fromMaybe)
+import Data.List (nub)
+
+-- Define a type for tasks
+type Task = String
+type Dependency = (Task, Task)
+
+-- Create a graph from tasks and their dependencies
+buildGraph :: [Task] -> [Dependency] -> (Graph, Vertex -> (Task, Task, [Task]), Task -> Maybe Vertex)
+buildGraph tasks deps =
+    let
+        -- Create a list of (task, task, [dependent tasks]) tuples
+        taskTuples = [(task, task, dependents task) | task <- tasks]
+        
+        -- Find all tasks that depend on a given task
+        dependents task = [b | (a, b) <- deps, a == task]
+    in
+        graphFromEdges taskTuples
+
+-- Topologically sort tasks
+topologicalSort :: [Task] -> [Dependency] -> Either String [Task]
+topologicalSort tasks deps =
+    let
+        (graph, nodeFromVertex, vertexFromKey) = buildGraph tasks deps
+    in
+        case topSort graph of
+            [] -> Left "There is a cycle in the task dependencies."
+            sortedVertices -> Right $ map (\v -> let (key, _, _) = nodeFromVertex v in key) sortedVertices
+
+main :: IO ()
+main = do
+    let tasks = ["task1", "task2", "task3", "task4"]
+    let dependencies = [("task1", "task2"), ("task2", "task3"), ("task1", "task3"), ("task3", "task4")]
+    
+    case topologicalSort tasks dependencies of
+        Left err -> putStrLn $ "Error: " ++ err
+        Right sortedTasks -> putStrLn $ "Sorted tasks: " ++ show sortedTasks
+```
+
+Explanation
+
+1. **Task and Dependency Types**:
+   * Define `Task` as a type alias for `String` to represent tasks.
+   * Define `Dependency` as a type alias for a tuple `(Task, Task)` to represent dependencies between tasks.
+
+2. **Building the Graph**:
+   * `buildGraph` takes a list of tasks and a list of dependencies and returns a graph representation along with helper functions.
+   * `taskTuples` is a list of tuples where each tuple contains a task, the task itself (as a key), and a list of dependent tasks.
+   * `dependents` is a helper function that finds all tasks that depend on a given task.
+   * `graphFromEdges` is used to create the graph, which is represented internally as an array of vertices.
+
+3. **Topological Sort**:
+   * `topologicalSort` takes a list of tasks and dependencies and attempts to topologically sort them.
+   * It calls `topSort` on the graph, which returns a list of vertices in topological order.
+   * If `topSort` returns an empty list, it indicates a cycle in the graph.
+   * Otherwise, it maps the sorted vertices back to their corresponding tasks.
+
+4. **Main Function**:
+   * The `main` function defines a list of tasks and their dependencies.
+   * It calls `topologicalSort` and prints either an error message (if there's a cycle) or the sorted list of tasks.
+
+Notes:
+
+* This solution assumes that all tasks are listed in the `tasks` list and that all dependencies are provided in the `dependencies` list.
+* The `topSort` function from `Data.Graph` is used to perform the topological sort, and it throws an exception if the graph contains a cycle. The error handling in this example catches this case and returns an appropriate error message.
 
 ### Scheduling
 

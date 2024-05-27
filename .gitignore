@@ -2,4 +2,5 @@ tmpdots/
 tmp/
 *HOME/
 .vscode
-wikidata
+wikidata/
+result/

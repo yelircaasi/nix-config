@@ -59,6 +59,8 @@ in {
       # ./applications/console/
       # ./applications/console/
 
+      ./desktop-environment/compositor/hyprland
+
       ./applications/gui/personal-organization
     ]
     (listIf "neovim" deviceConfig.editors ./applications/console/neovim)

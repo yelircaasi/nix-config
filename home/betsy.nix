@@ -9,6 +9,10 @@
   imports = [
     ./common
     ./common-from-device-config.nix
+
+    ./desktop-environment/widgets/bar/waybar
+    ./desktop-environment/launcher/fuzzel
+
   ];
 
   nixpkgs = {

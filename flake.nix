@@ -32,8 +32,8 @@
         description = "Minimal install ISO for work laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
         defaultShell = "bash";
         otherShells = ["bash"];
-        compositors = ["hyprland"];# "sway" "swayfx"];
-        terminal-emulators = ["kitty"];
+        compositors = ["hyprland"]; # "sway" "swayfx"];
+        terminal-emulators = ["kitty" "wezterm" "foot"];
         editors = ["neovim"];
         browsers = ["nyxt" "qutebrowser" "ungoogle-chromium" "vieb" "firefox"];
         desktopEnvironments = []; #"gnome"];
@@ -54,6 +54,22 @@
         defaultShell = "bash";
         otherShells = ["bash"];
         # windowManagers = ["hyprland" "sway" "swayfx"];
+        compositors = ["hyprland"];
+        terminal-emulators = ["kitty" "wezterm" "foot"];
+        editors = ["neovim"];
+        browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
+        desktopEnvironments = [];
+        nvidia = false;
+        pipewire = true;
+        jack = false;
+        networkmanager = true;
+        wayland = true;
+        x11 = true;
+        ssh-server = false;
+        docker = false;
+        podman = false;
+        printing = false;
+
         additionalModules = [];
       };
       hank = {

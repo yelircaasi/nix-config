@@ -1,12 +1,147 @@
 [
     {
-        "category": "console.cleanup",
-        "name": "filesort",
-        "nix_name": "mypkgs.filesort",
+        "category": "console.best_devenv",
+        "name": "neovim",
         "status": "added",
-        "link": "https://github.com/yelircaasi/filesort",
+        "link": "https://neovim.io/",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.best_devenv",
+        "name": "starship",
+        "status": "added",
+        "link": "https://github.com/starship/starship",
+        "language": "",
+        "description": "",
+        "notes": "-> [A Powerline configuration for Starship.rs](https://gist.github.com/notheotherben/92302a60f8599ba73f1c2840f3c6d455) "
+    },
+    {
+        "category": "console.best_devenv",
+        "name": "wezterm",
+        "status": "added",
+        "link": "https://github.com/wez/wezterm",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.best_devenv",
+        "name": "wtf",
+        "status": "added",
+        "link": "https://github.com/wtfutil/wtf",
+        "language": "",
+        "description": "",
+        "notes": "personal information dashboard for the terminal !!!"
+    },
+    {
+        "category": "console.browser.tui",
+        "name": "chawan",
+        "nix_name": "chawan",
+        "status": "added",
+        "link": "https://sr.ht/~bptato/chawan/",
+        "language": "nim",
+        "description": "",
+        "notes": "needs to be updated! (written in Nim! handles CSS and JS) -> use as packaging reference: https://github.com/NixOS/nixpkgs/blob/nixos-23.11/pkgs/applications/file-managers/nimmm/default.nix#L19"
+    },
+    {
+        "category": "console.calculator-conversion-date",
+        "name": "bcal",
+        "status": "added",
+        "link": "https://github.com/jarun/bcal",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.calculator-conversion-date",
+        "name": "bitwise",
+        "status": "added",
+        "link": "https://github.com/mellowcandle/bitwise",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.calculator-conversion-date",
+        "name": "dateutils",
+        "status": "added",
+        "link": "https://github.com/hroptatyr/dateutils",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.calculator-conversion-date",
+        "name": "dtool",
+        "status": "added",
+        "link": "https://github.com/guoxbin/dtool",
+        "language": "",
+        "description": "",
+        "notes": "build error"
+    },
+    {
+        "category": "console.calculator-conversion-date",
+        "name": "eva",
+        "status": "added",
+        "link": "https://github.com/nerdypepper/eva",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.calculator-conversion-date",
+        "name": "kalker",
+        "status": "added",
+        "link": "https://kalker.xyz/",
         "language": "rust",
-        "description": "forked from https://github.com/Zephira58/FileSorterX",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.calculator-conversion-date",
+        "name": "libqalculate",
+        "status": "added",
+        "link": "https://github.com/Qalculate/libqalculate",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.calculator-conversion-date",
+        "name": "programmer-calculator",
+        "status": "added",
+        "link": "https://github.com/alt-romes/programmer-calculator",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.calculator-conversion-date",
+        "name": "sc-im",
+        "status": "added",
+        "link": "https://github.com/andmarti1424/sc-im",
+        "language": "",
+        "description": "",
+        "notes": "[andmarti1424/sc-im: sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)"
+    },
+    {
+        "category": "console.calculator-conversion-date",
+        "name": "tv",
+        "status": "added",
+        "link": "https://github.com/alexhallam/tv",
+        "language": "",
+        "description": "",
+        "notes": "Cross-platform CSV pretty printer made to maximize viewer enjoyment."
+    },
+    {
+        "category": "console.calculator-conversion-date",
+        "name": "units",
+        "status": "added",
+        "link": "https://manpage.me/?q=units",
+        "language": "",
+        "description": "",
         "notes": ""
     },
     {
@@ -21,29 +156,73 @@
     },
     {
         "category": "console.cleanup",
-        "name": "mypkgs.organize-rt",
-        "nix_name": "organize-rt",
-        "status": "selected; needs nix packaging",
-        "link": "https://gitlab.com/foxido/organize-rt",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-
-    {
-        "category": "console.best_devenv",
-        "name": "neovim",
+        "name": "backdown",
         "status": "added",
-        "link": "https://neovim.io/",
+        "link": "https://github.com/Canop/backdown",
         "language": "",
         "description": "",
         "notes": ""
     },
     {
-        "category": "console.data.document.html",
-        "name": "htmlq",
+        "category": "console.cleanup",
+        "name": "fclones",
         "status": "added",
-        "link": "https://github.com/mgdm/htmlq",
+        "link": "https://github.com/pkolaczk/fclones",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "filesort",
+        "nix_name": "mypkgs.filesort",
+        "status": "added",
+        "link": "https://github.com/yelircaasi/filesort",
+        "language": "rust",
+        "description": "forked from https://github.com/Zephira58/FileSorterX",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "mat2",
+        "status": "added",
+        "link": "https://0xacab.org/jvoisin/mat2",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "rmlint",
+        "status": "added",
+        "link": "https://rmlint.readthedocs.io/",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "symlinks",
+        "status": "added",
+        "link": "https://github.com/brandt/symlinks",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.cleanup",
+        "name": "tmsu",
+        "status": "added",
+        "link": "https://tmsu.org/",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.dashboard",
+        "name": "wtf",
+        "status": "added",
+        "link": "https://github.com/wtfutil/wtf",
         "language": "",
         "description": "",
         "notes": ""
@@ -53,6 +232,15 @@
         "name": "htmlcxx",
         "status": "added",
         "link": "https://htmlcxx.sourceforge.net/",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.data.document.html",
+        "name": "htmlq",
+        "status": "added",
+        "link": "https://github.com/mgdm/htmlq",
         "language": "",
         "description": "",
         "notes": ""
@@ -84,7 +272,6 @@
         "description": "",
         "notes": "supports yaml input and output, unlike jq"
     },
-
     {
         "category": "console.data.document.json",
         "name": "jaq",
@@ -185,186 +372,6 @@
         "notes": ""
     },
     {
-        "category": "console.best_devenv",
-        "name": "starship",
-        "status": "added",
-        "link": "https://github.com/starship/starship",
-        "language": "",
-        "description": "",
-        "notes": "-> [A Powerline configuration for Starship.rs](https://gist.github.com/notheotherben/92302a60f8599ba73f1c2840f3c6d455) "
-    },
-    {
-        "category": "console.best_devenv",
-        "name": "wezterm",
-        "status": "added",
-        "link": "https://github.com/wez/wezterm",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.best_devenv",
-        "name": "wtf",
-        "status": "added",
-        "link": "https://github.com/wtfutil/wtf",
-        "language": "",
-        "description": "",
-        "notes": "personal information dashboard for the terminal !!!"
-    },
-    {
-        "category": "console.calculator-conversion-date",
-        "name": "bcal",
-        "status": "added",
-        "link": "https://github.com/jarun/bcal",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.calculator-conversion-date",
-        "name": "bitwise",
-        "status": "added",
-        "link": "https://github.com/mellowcandle/bitwise",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.calculator-conversion-date",
-        "name": "dateutils",
-        "status": "added",
-        "link": "https://github.com/hroptatyr/dateutils",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.calculator-conversion-date",
-        "name": "eva",
-        "status": "added",
-        "link": "https://github.com/nerdypepper/eva",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.calculator-conversion-date",
-        "name": "kalker",
-        "status": "added",
-        "link": "https://kalker.xyz/",
-        "language": "rust",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.calculator-conversion-date",
-        "name": "libqalculate",
-        "status": "added",
-        "link": "https://github.com/Qalculate/libqalculate",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.calculator-conversion-date",
-        "name": "programmer-calculator",
-        "status": "added",
-        "link": "https://github.com/alt-romes/programmer-calculator",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.calculator-conversion-date",
-        "name": "sc-im",
-        "status": "added",
-        "link": "https://github.com/andmarti1424/sc-im",
-        "language": "",
-        "description": "",
-        "notes": "[andmarti1424/sc-im: sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)"
-    },
-    {
-        "category": "console.calculator-conversion-date",
-        "name": "tv",
-        "status": "added",
-        "link": "https://github.com/alexhallam/tv",
-        "language": "",
-        "description": "",
-        "notes": "Cross-platform CSV pretty printer made to maximize viewer enjoyment."
-    },
-    {
-        "category": "console.calculator-conversion-date",
-        "name": "units",
-        "status": "added",
-        "link": "https://manpage.me/?q=units",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.cleanup",
-        "name": "backdown",
-        "status": "added",
-        "link": "https://github.com/Canop/backdown",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.cleanup",
-        "name": "fclones",
-        "status": "added",
-        "link": "https://github.com/pkolaczk/fclones",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.cleanup",
-        "name": "mat2",
-        "status": "added",
-        "link": "https://0xacab.org/jvoisin/mat2",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.cleanup",
-        "name": "rmlint",
-        "status": "added",
-        "link": "https://rmlint.readthedocs.io/",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.cleanup",
-        "name": "symlinks",
-        "status": "added",
-        "link": "https://github.com/brandt/symlinks",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.cleanup",
-        "name": "tmsu",
-        "status": "added",
-        "link": "https://tmsu.org/",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.dashboard",
-        "name": "wtf",
-        "status": "added",
-        "link": "https://github.com/wtfutil/wtf",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
         "category": "console.database",
         "name": "mongosh",
         "status": "added",
@@ -444,6 +451,114 @@
         "language": "",
         "description": "",
         "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "ag",
+        "status": "added",
+        "link": "https://github.com/ggreer/the_silver_searcher",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "ast-grep",
+        "status": "added",
+        "link": "https://ast-grep.github.io/",
+        "language": "",
+        "description": "",
+        "notes": "-> also supported by nvim-lspconfig"
+    },
+    {
+        "category": "console.search",
+        "name": "fd",
+        "status": "added",
+        "link": "https://github.com/sharkdp/fd",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "frawk",
+        "status": "added",
+        "link": "https://github.com/ezrosent/frawk",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "fselect",
+        "status": "added",
+        "link": "https://github.com/jhspetersson/fselect",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "fzf",
+        "status": "added",
+        "link": "https://github.com/junegunn/fzf",
+        "language": "",
+        "description": "",
+        "notes": "+ fzf-lua (2) https://github.com/ibhagwan/fzf-lua in nvim) - add stripped-down version to RosettaProjects"
+    },
+    {
+        "category": "console.search",
+        "name": "rg",
+        "status": "added",
+        "link": "https://github.com/BurntSushi/ripgrep",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "rga",
+        "status": "added",
+        "link": "https://github.com/phiresky/ripgrep-all",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "skim",
+        "status": "added",
+        "link": "https://github.com/lotabout/skim",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "ugrep",
+        "status": "added",
+        "link": "https://github.com/Genivia/ugrep",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "vgrep",
+        "status": "added",
+        "link": "https://github.com/vrothberg/vgrep",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "zf",
+        "status": "added",
+        "link": "https://github.com/natecraddock/zf",
+        "language": "",
+        "description": "",
+        "notes": "(zig) add to RosettaProjects"
     },
     {
         "category": "console.sets.core",
@@ -653,6 +768,16 @@
         "notes": "A framework for managing and maintaining multi-language pre-commit hooks - already using; just need to compare with lefthook | Git-Hook-Management mit Pre-Commit https: //www.dev-insider.de/git-hook-management-mit-pre-commit-a-84e48ab4399984ccf6158c0955e10a18/"
     },
     {
+        "category": "version_control.multi_repo",
+        "name": "git-plus",
+        "nix_name": "",
+        "status": "added",
+        "link": "https://github.com/tkrajina/git-plus",
+        "language": "python",
+        "description": "",
+        "notes": ""
+    },
+    {
         "category": "version_control.non_source",
         "name": "dvc",
         "status": "added",
@@ -660,6 +785,26 @@
         "language": "",
         "description": "",
         "notes": "already using; compare to dolt"
+    },
+    {
+        "category": "version_control.tui",
+        "name": "forgit",
+        "nix_name": "",
+        "status": "added",
+        "link": "https://github.com/wfxr/forgit",
+        "language": "bash",
+        "description": "",
+        "notes": "Utility tool for `git` taking advantage of fuzzy finder fzf. - really nice commands"
+    },
+    {
+        "category": "version_control.tui",
+        "name": "git-fuzzy",
+        "nix_name": "bash",
+        "status": "added",
+        "link": "https://github.com/bigH/git-fuzzy",
+        "language": "",
+        "description": "",
+        "notes": ""
     },
     {
         "category": "websites.miscellaneous",

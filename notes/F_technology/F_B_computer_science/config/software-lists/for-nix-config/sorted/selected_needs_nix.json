@@ -1,37 +1,18 @@
 [
     {
-        "category": "console.calculator-conversion-date",
-        "name": "dtool",
-        "status": "added",
-        "link": "https://github.com/guoxbin/dtool",
-        "language": "",
-        "description": "",
-        "notes": "build error"
-    },
-    {
-        "category": "console.browser.tui",
-        "name": "chawan",
-        "nix_name": "chawan",
-        "status": "added",
-        "link": "https://sr.ht/~bptato/chawan/",
-        "language": "nim",
-        "description": "",
-        "notes": "needs to be updated! (written in Nim! handles CSS and JS) -> use as packaging reference: https://github.com/NixOS/nixpkgs/blob/nixos-23.11/pkgs/applications/file-managers/nimmm/default.nix#L19"
-    },
-    {
-        "category": "console.data.document.json",
-        "name": "jj (anki-code)",
-        "nix_name": "enjoy-json",
+        "category": "console.cleanup",
+        "name": "mypkgs.organize-rt",
+        "nix_name": "organize-rt",
         "status": "selected; needs nix packaging",
-        "link": "https://github.com/anki-code/jj",
-        "language": "python",
+        "link": "https://gitlab.com/foxido/organize-rt",
+        "language": "",
         "description": "",
         "notes": ""
     },
     {
         "category": "console.data.document.json",
         "name": "crosshash",
-        "status": "selected; needs nix packaging; needs nix packaging",
+        "status": "selected; needs nix packaging",
         "link": "https://github.com/httpie/crosshash",
         "language": "",
         "description": "",
@@ -48,6 +29,16 @@
     },
     {
         "category": "console.data.document.json",
+        "name": "jj (anki-code)",
+        "nix_name": "enjoy-json",
+        "status": "selected; needs nix packaging",
+        "link": "https://github.com/anki-code/jj",
+        "language": "python",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.data.document.json",
         "name": "json-tui",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/ArthurSonzogni/json-tui",
@@ -55,17 +46,6 @@
         "description": "",
         "notes": ""
     },
-    {
-        "category": "console.calculator-conversion-date",
-        "name": "123elf",
-        "nix_name": "lotus123",
-        "status": "selected; needs nix packaging; needs nix packaging",
-        "link": "https://github.com/taviso/123elf",
-        "language": "c",
-        "description": "",
-        "notes": "A native port of Lotus 1-2-3 Release 3 to Linux."
-    },
-
     {
         "category": "console.data.wrangling",
         "name": "squeeze",
@@ -92,6 +72,15 @@
         "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/fcambus/ansiweather",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "console.search",
+        "name": "lf.sh",
+        "status": "selected; needs nix packaging",
+        "link": "https://github.com/suewonjp/lf.sh",
         "language": "",
         "description": "",
         "notes": ""
@@ -145,6 +134,16 @@
         "language": "",
         "description": "",
         "notes": ""
+    },
+    {
+        "category": "desktop.launcher.gui",
+        "name": "loungy",
+        "nix_name": "",
+        "status": "selected; needs nix packaging",
+        "link": "https://github.com/MatthiasGrandl/Loungy",
+        "language": "",
+        "description": "",
+        "notes": "!!!!!!!!! needs a bit of work to make fully Linux-compatible, as well as Nix packaging"
     },
     {
         "category": "development.containers_orchestration_ci",
@@ -328,40 +327,10 @@
     },
     {
         "category": "version_control.multi_repo",
-        "name": "git-plus",
-        "nix_name": "",
-        "status": "added",
-        "link": "https://github.com/tkrajina/git-plus",
-        "language": "python",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "version_control.multi_repo",
         "name": "multi-git-status",
         "nix_name": "",
         "status": "selected; needs nix packaging",
         "link": "https://github.com/fboender/multi-git-status",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "version_control.tui",
-        "name": "forgit",
-        "nix_name": "",
-        "status": "added",
-        "link": "https://github.com/wfxr/forgit",
-        "language": "bash",
-        "description": "",
-        "notes": "Utility tool for `git` taking advantage of fuzzy finder fzf. - really nice commands"
-    },
-    {
-        "category": "version_control.tui",
-        "name": "git-fuzzy",
-        "nix_name": "bash",
-        "status": "added",
-        "link": "https://github.com/bigH/git-fuzzy",
         "language": "",
         "description": "",
         "notes": ""

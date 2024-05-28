@@ -1206,6 +1206,15 @@
         "notes": ""
     },
     {
+        "category": "console.development.license",
+        "name": "upnup",
+        "status": "selected",
+        "link": "https://github.com/tomit4/upnup",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
         "category": "console.development.logs",
         "name": "lnav",
         "status": "selected",
@@ -1342,19 +1351,19 @@
     },
     {
         "category": "console.development.templating",
-        "name": "layout",
+        "name": "kickstart",
         "status": "selected",
-        "link": "https://github.com/reddec/layout",
-        "language": "go",
+        "link": "https://github.com/Keats/kickstart",
+        "language": "rust",
         "description": "",
         "notes": "0_0"
     },
     {
         "category": "console.development.templating",
-        "name": "kickstart",
+        "name": "layout",
         "status": "selected",
-        "link": "https://github.com/Keats/kickstart",
-        "language": "rust",
+        "link": "https://github.com/reddec/layout",
+        "language": "go",
         "description": "",
         "notes": "0_0"
     },
@@ -1366,15 +1375,6 @@
         "language": "",
         "description": "",
         "notes": "0_0"
-    },
-    {
-        "category": "console.development.license",
-        "name": "upnup",
-        "status": "selected",
-        "link": "https://github.com/tomit4/upnup",
-        "language": "",
-        "description": "",
-        "notes": ""
     },
     {
         "category": "console.devshell",
@@ -2554,123 +2554,6 @@
         "language": "",
         "description": "",
         "notes": ""
-    },
-    {
-        "category": "console.search",
-        "name": "ag",
-        "status": "selected",
-        "link": "https://github.com/ggreer/the_silver_searcher",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.search",
-        "name": "ast-grep.github",
-        "status": "selected",
-        "link": "https://ast-grep.github.io/",
-        "language": "",
-        "description": "",
-        "notes": "-> also supported by nvim-lspconfig"
-    },
-    {
-        "category": "console.search",
-        "name": "fd",
-        "status": "selected",
-        "link": "https://github.com/sharkdp/fd",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.search",
-        "name": "frawk",
-        "status": "selected",
-        "link": "https://github.com/ezrosent/frawk",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.search",
-        "name": "fselect",
-        "status": "selected",
-        "link": "https://github.com/jhspetersson/fselect",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.search",
-        "name": "fzf",
-        "status": "selected",
-        "link": "https://github.com/junegunn/fzf",
-        "language": "",
-        "description": "",
-        "notes": "+ fzf-lua (2) https://github.com/ibhagwan/fzf-lua in nvim) - add stripped-down version to RosettaProjects"
-    },
-    {
-        "category": "console.search",
-        "name": "lf.sh",
-        "status": "selected",
-        "link": "https://github.com/suewonjp/lf.sh",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.search",
-        "name": "rg",
-        "status": "selected",
-        "link": "https://github.com/BurntSushi/ripgrep",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.search",
-        "name": "rga",
-        "status": "selected",
-        "link": "https://github.com/phiresky/ripgrep-all",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.search",
-        "name": "skim",
-        "status": "selected",
-        "link": "https://github.com/lotabout/skim",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.search",
-        "name": "ugrep",
-        "status": "selected",
-        "link": "https://github.com/Genivia/ugrep",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.search",
-        "name": "vgrep",
-        "status": "selected",
-        "link": "https://github.com/vrothberg/vgrep",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "console.search",
-        "name": "zf",
-        "status": "selected",
-        "link": "https://github.com/natecraddock/zf",
-        "language": "",
-        "description": "",
-        "notes": "(zig) add to RosettaProjects"
     },
     {
         "category": "console.secrets",
@@ -8839,15 +8722,6 @@
     },
     {
         "category": "messaging.miscellaneous",
-        "name": "git share",
-        "status": "selected",
-        "link": "https://gitshare.app",
-        "language": "",
-        "description": "",
-        "notes": ""
-    },
-    {
-        "category": "messaging.miscellaneous",
         "name": "KBin",
         "status": "selected",
         "link": "https://kbin.social/",
@@ -8923,6 +8797,15 @@
         "name": "feddit",
         "status": "selected",
         "link": "https://browse.feddit.de/",
+        "language": "",
+        "description": "",
+        "notes": ""
+    },
+    {
+        "category": "messaging.miscellaneous",
+        "name": "git share",
+        "status": "selected",
+        "link": "https://gitshare.app",
         "language": "",
         "description": "",
         "notes": ""
@@ -11548,6 +11431,15 @@
     },
     {
         "category": "websites.media",
+        "name": "immich",
+        "status": "selected",
+        "link": "https://immich.app/",
+        "language": "",
+        "description": "",
+        "notes": "Self-hosted photo and video management solution $$$"
+    },
+    {
+        "category": "websites.media",
         "name": "invidious",
         "status": "selected",
         "link": "https://github.com/iv-org/invidious",
@@ -12231,15 +12123,6 @@
         "notes": "Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs - too many password failures, seeking for exploits, etc."
     },
     {
-        "category": "websites.media",
-        "name": "immich",
-        "status": "selected",
-        "link": "https://immich.app/",
-        "language": "",
-        "description": "",
-        "notes": "Self-hosted photo and video management solution $$$"
-    },
-    {
         "category": "websites.webdev",
         "name": "OWASP ZAP",
         "status": "selected",
@@ -12292,75 +12175,5 @@
         "language": "",
         "description": "",
         "notes": ""
-    },
-    {
-        "category": "tool.finance",
-        "rating": "$$$",
-        "status": "",
-        "class": "selected",
-        "name": "cointop",
-        "link": "https://github.com/cointop-sh/cointop",
-        "language": "go",
-        "features": "",
-        "notes": "",
-        "description": "A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "tool.finance",
-        "rating": "$$$",
-        "status": "",
-        "class": "selected",
-        "name": "paycon",
-        "link": "https://github.com/arcorion/paycon",
-        "language": "python",
-        "features": "",
-        "notes": "",
-        "description": "Converts pay amounts between different time units.",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "tool.finance",
-        "rating": "$$$",
-        "status": "",
-        "class": "selected",
-        "name": "quoter",
-        "link": "https://github.com/frossm/quoter",
-        "language": "java",
-        "features": "",
-        "notes": "",
-        "description": "The console based stock quote tool.",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "tool.finance",
-        "rating": "$$$$",
-        "status": "",
-        "class": "selected",
-        "name": "cash-cli",
-        "link": "https://github.com/xxczaki/cash-cli",
-        "language": "javascript",
-        "features": "",
-        "notes": "",
-        "description": "Convert Currency Rates.",
-        "commits": "",
-        "recency": ""
-    },
-    {
-        "category": "tool.finance",
-        "rating": "$$$$",
-        "status": "",
-        "class": "selected",
-        "name": "ticker",
-        "link": "https://github.com/achannarasappa/ticker",
-        "language": "go",
-        "features": "",
-        "notes": "",
-        "description": "Terminal stock ticker with live updates and position tracking",
-        "commits": "",
-        "recency": ""
     }
 ]

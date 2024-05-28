@@ -385,6 +385,16 @@ in {
       platforms = platforms.all;
     };
   };
+  lf-sh = {
+    #TODO
+
+    meta = with lib; {
+      homepage = "https://github.com/suewonjp/lf.sh";
+      description = "";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
   lotus123 = {
     #TODO
 

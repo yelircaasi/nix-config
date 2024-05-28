@@ -35,10 +35,15 @@ in {
       ./applications/console/personal-organization
       ./applications/console/quality-of-life
       ./applications/console/search/ack
+      ./applications/console/search/ast-grep
       ./applications/console/search/fd
+      ./applications/console/search/frawk
       ./applications/console/search/fzf
-      ./applications/console/search/ripgrep
+      ./applications/console/search/ripgrep-etc
       ./applications/console/search/silver-searcher
+      ./applications/console/search/skim
+      ./applications/console/search/ugrep
+      ./applications/console/search/zf
       ./applications/console/shell
       ./applications/console/viewing/bat
       ./applications/console/viewing/eza

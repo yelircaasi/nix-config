@@ -1,15 +1,5 @@
 [
     {
-        "category": "desktop.launcher.gui",
-        "name": "loungy",
-        "nix_name": "",
-        "status": "selected; needs nix packaging",
-        "link": "https://github.com/MatthiasGrandl/Loungy",
-        "language": "",
-        "description": "",
-        "notes": "!!!!!!!!! needs a bit of work to make fully Linux-compatible, as well as Nix packaging"
-    },
-    {
         "category": "console.ai_assistant",
         "name": " ai-terminal-assistant",
         "nix_name": "",
@@ -241,16 +231,6 @@
     },
     {
         "category": "console.data.document.json",
-        "name": "pyfx",
-        "nix_name": "",
-        "status": "needs work",
-        "link": "https://github.com/cielong/pyfx",
-        "language": "python",
-        "description": "",
-        "notes": "supports yaml; fork to make more configurable: themes and keybinds, text-based config instead of only envvars, but still phenomenal and worth installing"
-    },
-    {
-        "category": "console.data.document.json",
         "name": "jtc",
         "nix_name": "",
         "status": "needs work",
@@ -258,6 +238,16 @@
         "language": "",
         "description": "",
         "notes": "RosettaProjects"
+    },
+    {
+        "category": "console.data.document.json",
+        "name": "pyfx",
+        "nix_name": "",
+        "status": "needs work",
+        "link": "https://github.com/cielong/pyfx",
+        "language": "python",
+        "description": "",
+        "notes": "supports yaml; fork to make more configurable: themes and keybinds, text-based config instead of only envvars, but still phenomenal and worth installing"
     },
     {
         "category": "console.data.document.json",
@@ -2890,16 +2880,6 @@
         "notes": ""
     },
     {
-        "category": "gui.editor.spreadsheet",
-        "name": "teapot",
-        "nix_name": "",
-        "status": "needs work",
-        "link": "https://github.com/samuelludwig/teapot",
-        "language": "",
-        "description": "",
-        "notes": "[NixOS/nixpkgs/issues/147213] [syntax-k.de/projekte/teapot/] https://github.com/NixOS/nixpkgs/issues/147213 https://www.syntax-k.de/projekte/teapot/ https://github.com/NixOS/nixpkgs/issues/147213)"
-    },
-    {
         "category": "gui.editor",
         "name": "ecode",
         "nix_name": "",
@@ -2908,6 +2888,16 @@
         "language": "",
         "description": "",
         "notes": "Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance."
+    },
+    {
+        "category": "gui.editor.spreadsheet",
+        "name": "teapot",
+        "nix_name": "",
+        "status": "needs work",
+        "link": "https://github.com/samuelludwig/teapot",
+        "language": "",
+        "description": "",
+        "notes": "[NixOS/nixpkgs/issues/147213] [syntax-k.de/projekte/teapot/] https://github.com/NixOS/nixpkgs/issues/147213 https://www.syntax-k.de/projekte/teapot/ https://github.com/NixOS/nixpkgs/issues/147213)"
     },
     {
         "category": "gui.finances",

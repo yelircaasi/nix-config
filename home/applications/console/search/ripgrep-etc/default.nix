@@ -4,6 +4,11 @@
   deviceConfig,
   ...
 }: {
+  home.packages = with pkgs; [
+    ripgrep-all
+    repgrep
+    vgrep
+  ];
   programs.ripgrep = {
     enable = true;
     # TODO:

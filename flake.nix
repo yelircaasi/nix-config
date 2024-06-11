@@ -195,19 +195,19 @@
     # Home Manager
     home-manager = {
       url = "github:nix-community/home-manager/3d65009effd77cb0d6e7520b68b039836a7606cf";
-      #url = "github:nix-community/home-manager/release-23.11";
+      #url = "github:nix-community/home-manager/release-24.05";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     # Neovim
     neovim-nightly-overlay = {
-      url = "github:nix-community/neovim-nightly-overlay/e21cf2417abf1d766d1141bc0289f9995615b5c5";
+      url = "github:nix-community/neovim-nightly-overlay/60a8a1b221308566c51aa9a66e11145a3f141fc8";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     # Secret management via sops
     sops-nix = {
-      url = "github:Mic92/sops-nix/893e3df091f6838f4f9d71c61ab079d5c5dedbd1";
+      url = "github:Mic92/sops-nix/d071c74a7de1e26d211b69b6fbae37ae2e31a87f";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 

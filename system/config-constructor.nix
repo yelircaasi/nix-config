@@ -9,8 +9,8 @@
   imports = [
     ./hardware-configurations/hardware-configuration-${deviceConfig.name}.nix
     ./modules/compositor/hyprland.nix
-    ./modules/compositor/sway.nix
-    ./modules/compositor/swayfx.nix
+    # ./modules/compositor/sway.nix
+    # ./modules/compositor/swayfx.nix
     ./modules/container.nix
     ./modules/database.nix
     ./modules/desktop-environment/gnome
@@ -91,5 +91,5 @@
   };
   time.timeZone = "Europe/Berlin";
 
-  system.stateVersion = "23.11";
+  system.stateVersion = "24.05";
 }

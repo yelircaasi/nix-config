@@ -12,7 +12,7 @@ in {
   home = {
     username = "isaac";
     homeDirectory = "/home/isaac";
-    stateVersion = "23.11";
+    stateVersion = "24.05";
     packages = with pkgs; [
       #docker
       wget

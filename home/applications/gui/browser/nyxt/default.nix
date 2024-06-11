@@ -23,7 +23,7 @@
     "demeter"
   ];
 in {
-  home.packages = with pkgs; [nyxt];
+  # home.packages = with pkgs; [nyxt];
   xdg.configFile."nyxt".source = ./config.lisp;
   # configFile."nyxt/config.lisp".text = # scheme (not really but common-lisp does not work)
 

@@ -332,7 +332,7 @@ in {
 
     meta = with lib; {
       homepage = "https://github.com/bigH/git-fuzzy/tree/main";
-      description = "nteractive `git` with the help of `fzf`";
+      description = "Interactive `git` with the help of `fzf`";
       license = licenses.mit;
       platforms = platforms.all;
     };

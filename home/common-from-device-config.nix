@@ -21,8 +21,11 @@ in {
       ./applications/console/browser
       ./applications/console/calculator-conversion-date
       ./applications/console/communication/email
+      ./applications/console/communication/messaging
       ./applications/console/data-wrangling/html
       ./applications/console/data-wrangling/json
+      ./applications/console/data-wrangling/pdf
+      ./applications/console/spreadsheet
       ./applications/console/git
       ./applications/console/file-browser/nnn
       ./applications/console/file-browser/xplr

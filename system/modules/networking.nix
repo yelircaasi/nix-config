@@ -6,6 +6,7 @@
 }: {
   environment.systemPackages = with pkgs; [
     networkmanagerapplet
+    bluetuith
   ];
   networking.hostName = "nixos-${deviceConfig.name}"; # Define your hostname.
   # networking.wireless.enable = true;  # Enables wireless support via wpa_supplicant.
@@ -16,4 +17,8 @@
 
   # Enable networking
   networking.networkmanager.enable = true;
+
+  hardware.bluetooth.enable = true;
+  hardware.bluetooth.powerOnBoot = true;
+  services.blueman.enable = true;
 }

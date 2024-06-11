@@ -1,4 +1,0 @@
-:redir > ~/nixos-config/global-inputs/colors-scratch/highlights.txt!
-:verbose hi
-:redir END
-

@@ -15,7 +15,7 @@
   virtualisation = {
     docker = {
       enable = deviceConfig.docker;
-      enableNvidia = false; #deviceConfig.docker && deviceConfig.nvidia;
+      enableNvidia = deviceConfig.docker && deviceConfig.nvidia;
       #rootless = {
       #  enable = true;
       #  setSocketVariable = true;

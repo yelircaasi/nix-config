@@ -190,7 +190,7 @@
     nixpkgs = {
       # url = "github:nixos/nixpkgs/5b346fcd0a2f94314ca3951961ad0e43d83d97fe";
       url = "github:yelircaasi/nixpkgs/1c9ef9f85c5a26ff09efb91820c450e6e487f34c";
-      
+
       #url = "github:nixos/nixpkgs/nixos-unstable";
     };
 
@@ -210,6 +210,11 @@
     # Secret management via sops
     sops-nix = {
       url = "github:Mic92/sops-nix/d071c74a7de1e26d211b69b6fbae37ae2e31a87f";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
+
+    firefox-addons = {
+      url = "gitlab:rycee/nur-expressions/641fc30885d4a8d1c9f0c721f03fcd5a9f8c3892?dir=pkgs/firefox-addons";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 

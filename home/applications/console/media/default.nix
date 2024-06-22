@@ -1,10 +1,10 @@
 {
   pkgs,
-  g,
+  mypkgs,
   deviceConfig,
   ...
 }: {
   home.packages = with pkgs; [
-    ugrep
+    graphicsmagick  # move to console software
   ];
 }

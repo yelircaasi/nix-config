@@ -32,6 +32,8 @@ in {
       ./applications/console/file-browser/yazi
       ./applications/console/fun
 
+      ./applications/console/media
+
       ./applications/console/navigation/pazi
       ./applications/console/navigation/zoxide
       ./applications/console/organization-cleanup
@@ -66,6 +68,8 @@ in {
       # ./applications/console/
       # ./applications/console/
       # ./applications/console/
+
+      ./applications/gui/media/editing
 
       ./desktop-environment/compositor/hyprland
 

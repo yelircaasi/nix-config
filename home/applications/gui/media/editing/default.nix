@@ -1,10 +1,11 @@
 {
   pkgs,
-  g,
+  mypkgs,
   deviceConfig,
   ...
 }: {
   home.packages = with pkgs; [
-    ugrep
+    darktable
+    drawing
   ];
 }

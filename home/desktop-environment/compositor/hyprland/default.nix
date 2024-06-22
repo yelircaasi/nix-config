@@ -22,6 +22,7 @@
 
   xdg.configFile."./hypr/hyprpaper.conf".text = ''
     preload = /home/isaac/Pictures/river2.jpg
+    wallpaper = eDP-1,/home/isaac/Pictures/river2.jpg
     wallpaper = eDP-2,/home/isaac/Pictures/river2.jpg
     wallpaper = HDMI-A-1,/home/isaac/Pictures/river2.jpg
   '';
@@ -202,6 +203,7 @@
       extraConfig =
         #hypr
         ''
+          monitor=eDP-1,1920x1080@240,0x0,1
           monitor=eDP-2,1920x1080@240,0x0,1
           monitor=HDMI-A-1,2560x1440@60,1920x0,1
           # Does not show up when defined in settings for some reason

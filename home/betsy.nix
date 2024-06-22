@@ -12,7 +12,6 @@
 
     ./desktop-environment/widgets/bar/waybar
     ./desktop-environment/launcher/fuzzel
-
   ];
 
   nixpkgs = {

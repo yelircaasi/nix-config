@@ -5,6 +5,6 @@
   ...
 }: {
   home.packages = with pkgs; [
-    graphicsmagick  # move to console software
+    graphicsmagick # move to console software
   ];
 }

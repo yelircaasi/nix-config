@@ -25,7 +25,7 @@
   #   if (builtins.elem nameString nameList)
   #   then [namePath]
   #   else [];
-  
+
   blankSet = {
     packages = [];
     plugins = [];
@@ -185,7 +185,7 @@
   concatFromFeatureSet = attrName: setPre: builtins.concatLists (listFromFeatureSet attrName setPre);
 
   collectPackages = concatFromFeatureSet "packages";
-  collectPlugins = (concatFromFeatureSet "plugins");
+  collectPlugins = concatFromFeatureSet "plugins";
   collectFiles = setPre: mergeSets (listFromFeatureSet "files" setPre); # (map (featureSet: featureSet.files) (listLeaves setPre));
   ifAny = attrName: setPre: lib.lists.any (x: x) (listBoolFromFeatureSet attrName setPre);
 
@@ -204,15 +204,31 @@
     viAlias = true; #neovimConfig.viAlias;
     vimAlias = true; #neovimConfig.vimAlias;
     vimdiffAlias = true; #neovimConfig.vimdiffAlias;
-    plugins = (collectPlugins nvimSetPre) ++ 
-      [(pkgs.vimPlugins.nvim-treesitter.withPlugins (
-        p: builtins.concatLists [  # TODO: refactor this!!!
-          (if neovimConfig.languages.c.enable then [p.c] else [])
-          (if neovimConfig.languages.java.enable then [p.java] else [])
-          (if neovimConfig.languages.xit.enable then [p.xit] else [])
-        ]
-      ))]; 
-      
+    plugins =
+      (collectPlugins nvimSetPre)
+      ++ [
+        (pkgs.vimPlugins.nvim-treesitter.withPlugins (
+          p:
+            builtins.concatLists [
+              # TODO: refactor this!!!
+              (
+                if neovimConfig.languages.c.enable
+                then [p.c]
+                else []
+              )
+              (
+                if neovimConfig.languages.java.enable
+                then [p.java]
+                else []
+              )
+              (
+                if neovimConfig.languages.xit.enable
+                then [p.xit]
+                else []
+              )
+            ]
+        ))
+      ];
   };
 
   mkFiles = nvimSetPre:

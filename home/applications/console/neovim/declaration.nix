@@ -108,7 +108,7 @@
     perl.enable = false;
     php.enable = false;
     purescript.enable = false;
-    python.enable = false;
+    python.enable = true;
     r.enable = false;
     racket.enable = false;
     raku.enable = false;

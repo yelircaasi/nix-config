@@ -4,7 +4,7 @@
   ...
 }: {
   environment.systemPackages = let
-    landscape-client = pkgs.python310.pkgs.buildPythonApplication rec {
+    landscape-client = pkgs.python311.pkgs.buildPythonApplication rec {
       pname = "landscape-client";
       version = "2024-02-18";
 

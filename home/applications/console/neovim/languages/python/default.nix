@@ -9,12 +9,14 @@
 }: let
   langCfg = neovimConfig.languages.python;
   luaName = langCfg.luaName;
+  py = pkgs.python311Packages;
 in
   if !langCfg.enable
   then blankSet
-  else {
+  else rec {
     packages = with pkgs; [
       python311
+      ruff
       py.python-lsp-server # alt: node.pyright
       py.pylsp-mypy
       py.pyls-isort
@@ -37,6 +39,10 @@ in
 
     plugins =
       (with pkgs.vimPlugins; [
+        {
+          plugin = nvim-lspconfig;
+          optional = true;
+        }
         {
           plugin = neotest-python;
           optional = true;
@@ -62,31 +68,50 @@ in
         #custom.nvim-ipy
       ])
       ++ (with custom; [
-        {
-          plugin = py-lsp-nvim;
-          optional = true;
-        }
-        {
-          plugin = hydrovim;
-          optional = true;
-        }
-        {
-          plugin = swenv-nvim;
-          optional = true;
-        }
-        {
-          plugin = f-string-toggle-nvim;
-          optional = true;
-        }
+        # {
+        #   plugin = py-lsp-nvim;
+        #   optional = true;
+        # }
+        # {
+        #   plugin = hydrovim;
+        #   optional = true;
+        # }
+        # {
+        #   plugin = swenv-nvim;
+        #   optional = true;
+        # }
+        # {
+        #   plugin = f-string-toggle-nvim;
+        #   optional = true;
+        # }
       ]);
 
-    files = {};
+    # files = {
+    #   "./nvim/lua/languages/${luaName}.lua".text = g.utils.readAndInterpolate g ./python.lua;
+    # };
+
+    pluginStrings = [ # TODO: rewrite to repeat the string as long many times as the plugin list is long; also prepend strings to file
+      "-- lspconfig RTP command"
+      "-- neotest RTP command"
+      "-- dap RTP command"
+      "-- treesitter RTP command"
+      "-- conjure RTP command"
+      "-- cmp-conjure RTP command"
+    ];
+
+    files = {
+      "./nvim/lua/languages/${luaName}.lua".text =
+        builtins.replaceStrings
+        pluginStrings
+        (map (set: ''vim.opt.rtp:prepend("${set.plugin}")'') plugins)
+        (g.utils.readAndInterpolate g ./python.lua);
+    };
 
     needsPython3 = true;
     needsNodeJs = true;
     needsRuby = false;
   }
-
 # TODO: min devenv: ruff LSP, black, isort, python seamless code execution (iron.nvim?), venv management -> Nix devshell
 # TODO: wezterm tab and pane navigation
 # TODO: also find suitable GUI image editor
+

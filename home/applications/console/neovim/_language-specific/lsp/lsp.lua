@@ -118,48 +118,48 @@ lspconf.nixd.setup({
 	single_file_support = true,
 })
 
-lspconf.pylsp.setup({
-	on_attach = custom_attach,
-	settings = {
+-- lspconf.pylsp.setup({
+-- 	on_attach = custom_attach,
+-- 	settings = {
 
-		pylsp = {
-			plugins = {
-				autopep8 = { enabled = false },
-				yapf = { enabled = false },
+-- 		pylsp = {
+-- 			plugins = {
+-- 				autopep8 = { enabled = false },
+-- 				yapf = { enabled = false },
 
-				pyls_black = {
-					enabled = true,
-					line_length = 100,
-				},
-				pyls_isort = {
-					enabled = true,
-				},
-				pylsp_mypy = {
-					enabled = true,
-					strict = true,
-				},
-				rope = {
-					enabled = false,
-				},
-				ruff = {
-					enabled = false,
-				},
-				jedi_completion = {
-					fuzzy = true,
-				},
-				pylint = {
-					enabled = true,
-					executable = "pylint",
-				},
-			},
-		},
-		flags = {
-			debounce_text_changes = 200,
-		},
-		capabilities = capabilities,
-		formatCommand = { "black", "&&", "isort" },
-	},
-})
+-- 				pyls_black = {
+-- 					enabled = true,
+-- 					line_length = 100,
+-- 				},
+-- 				pyls_isort = {
+-- 					enabled = true,
+-- 				},
+-- 				pylsp_mypy = {
+-- 					enabled = true,
+-- 					strict = true,
+-- 				},
+-- 				rope = {
+-- 					enabled = false,
+-- 				},
+-- 				ruff = {
+-- 					enabled = false,
+-- 				},
+-- 				jedi_completion = {
+-- 					fuzzy = true,
+-- 				},
+-- 				pylint = {
+-- 					enabled = true,
+-- 					executable = "pylint",
+-- 				},
+-- 			},
+-- 		},
+-- 		flags = {
+-- 			debounce_text_changes = 200,
+-- 		},
+-- 		capabilities = capabilities,
+-- 		formatCommand = { "black", "&&", "isort" },
+-- 	},
+-- })
 
 -- require "lspconfig".html.setup {
 --     cmd = {"html-languageserver"},

@@ -316,7 +316,7 @@
       luaName = "kotlin";
     };
     lua = {
-      enable = false;
+      enable = true;
       luaName = "lua";
     };
     markdown = {
@@ -423,6 +423,10 @@
       enable = false;
       luaName = "tex";
     };
+    todotxt = {
+      enable = false;
+      luaName = "todotxt";
+    };
     toml = {
       enable = false;
       luaName = "toml";
@@ -446,6 +450,10 @@
     vlang = {
       enable = false;
       luaName = "vlang";
+    };
+    xit = {
+      enable = true;
+      luaName = "xit";
     };
     yaml = {
       enable = false;

@@ -1,4 +1,15 @@
 {pkgs}: {
+  xit-nvim = pkgs.vimUtils.buildVimPlugin {
+    pname = "xit.nvim";
+    version = "2024-03-21";
+    src = pkgs.fetchFromGitHub {
+      owner = "synaptiko";
+      repo = "xit.nvim";
+      rev = "64e80be0b32dcafa15a432d19a6140264ea16bb0";
+      sha256 = "sha256-QnH9gJ3l3+0fcLWkEHqULHf4OirUBnFRRXFqSX/8szM=";
+    };
+    meta.homepage = "https://github.com/synaptiko/xit.nvim";
+  };
   hawtkeys-nvim = pkgs.vimUtils.buildVimPlugin {
     pname = "hawtkeys.nvim";
     version = "2024-01-15";
@@ -142,17 +153,6 @@
       sha256 = "sha256-znxx39dsHS4KPqNypnbefNDidpM5CSJE/HUYxLJth8w=";
     };
     meta.homepage = "https://github.com/ribelo/taskwarrior.nvim";
-  };
-  xit-nvim = pkgs.vimUtils.buildVimPlugin {
-    pname = "xit.nvim";
-    version = "2023-12-30";
-    src = pkgs.fetchFromGitHub {
-      owner = "synaptiko";
-      repo = "xit.nvim";
-      rev = "77efad3f6569790c8d3aad9a19a811dde8a96830";
-      sha256 = "sha256-hlK1WaFe8dpSZGHO9w+TNdtfPCksTHLR17Q27+LH4bU=";
-    };
-    meta.homepage = "https://github.com/synaptiko/xit.nvim";
   };
   projectmgr-nvim = pkgs.vimUtils.buildVimPlugin {
     pname = "projectmgr.nvim";

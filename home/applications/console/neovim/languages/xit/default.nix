@@ -7,7 +7,7 @@
   blankSet,
   ...
 }: let
-  langCfg = neovimConfig.languages.kdl;
+  langCfg = neovimConfig.languages.xit;
   luaName = langCfg.luaName;
 in
   if !langCfg.enable
@@ -15,10 +15,10 @@ in
   else {
     packages = with pkgs; [];
 
-    plugins = (with pkgs.vimPlugins; []) ++ (with custom; []);
+    plugins = (with pkgs.vimPlugins; []) ++ (with custom; [xit-nvim]);
 
     files = {
-      "./nvim/lua/languages/${luaName}.lua".text = g.utils.readAndInterpolate g ./kdl.lua;
+      "./nvim/lua/languages/${luaName}.lua".text = g.utils.readAndInterpolate g ./xit.lua;
     };
 
     needsPython3 = false;

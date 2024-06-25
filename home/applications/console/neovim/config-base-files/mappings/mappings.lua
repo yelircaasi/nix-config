@@ -1,3 +1,6 @@
+vim.g.mapleader = " "
+-- vim.g.maplocalleader = " "
+
 -- sample
 vim.keymap.set("n", "<leader>alf", function()
 	print("A lua func")

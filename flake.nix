@@ -189,7 +189,7 @@
     # Nixpkgs
     nixpkgs = {
       # url = "github:nixos/nixpkgs/5b346fcd0a2f94314ca3951961ad0e43d83d97fe";
-      url = "github:yelircaasi/nixpkgs/1c9ef9f85c5a26ff09efb91820c450e6e487f34c";
+      url = "github:yelircaasi/nixpkgs/7d0fa47cc6222fa834c050a07a1fc8bed9e6a102";
 
       #url = "github:nixos/nixpkgs/nixos-unstable";
     };

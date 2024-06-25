@@ -18,7 +18,7 @@ in
     plugins = (with pkgs.vimPlugins; []) ++ (with custom; []);
 
     files = {
-      "./nvim/lua/languages/${luaName}.lua".text = g.utils.readAndInterpolate g ./kdl.lua;
+      "./nvim/lua/languages/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
     };
 
     needsPython3 = false;

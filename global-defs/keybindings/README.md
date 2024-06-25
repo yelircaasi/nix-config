@@ -17,7 +17,7 @@ Key idea: Global modes akin to vim.
 * `SHIFT`: no remapping
 * `CAPS~` ← `ESC`
 * `ESC` ←  `CAPS`
-* `SPACE` ← custom modifier for most comman; akin to leader key
+* `SPACE` ← custom modifier for most commands; akin to leader key
 
 Modifiers:
 
@@ -51,8 +51,8 @@ Basic keybinds to get started:
 
 * split pane vertical: `ALT` `|`
 * split pane horizontal: `ALT` `-`
-* move to left pane: `ALT` `H`
-* move to right pane: `ALT` `L`
-* move to pane above: `ALT` `K`
-* move to pane below: `ALT` `J`
+* focus left pane: `ALT` `H`
+* focus right pane: `ALT` `L`
+* focus pane above: `ALT` `K`
+* focus pane below: `ALT` `J`
 * next tab: `ALT` `T`

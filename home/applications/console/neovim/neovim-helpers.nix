@@ -149,6 +149,7 @@
       starlark = ./languages/starlark;
       teal = ./languages/teal;
       tex = ./languages/tex;
+      todotxt = ./languages/todotxt;
       toml = ./languages/toml;
       typescript = ./languages/typescript;
       typst = ./languages/typst;
@@ -157,6 +158,7 @@
       vlang = ./languages/vlang;
       yaml = ./languages/yaml;
       yuck = ./languages/yuck;
+      xit = ./languages/xit;
       zig = ./languages/zig;
     };
   };
@@ -178,7 +180,7 @@
   concatFromFeatureSet = attrName: setPre: builtins.concatLists (listFromFeatureSet attrName setPre);
 
   collectPackages = concatFromFeatureSet "packages";
-  collectPlugins = concatFromFeatureSet "plugins";
+  collectPlugins = (concatFromFeatureSet "plugins");
   collectFiles = setPre: mergeSets (listFromFeatureSet "files" setPre); # (map (featureSet: featureSet.files) (listLeaves setPre));
   ifAny = attrName: setPre: lib.lists.any (x: x) (listBoolFromFeatureSet attrName setPre);
 
@@ -197,7 +199,13 @@
     viAlias = true; #neovimConfig.viAlias;
     vimAlias = true; #neovimConfig.vimAlias;
     vimdiffAlias = true; #neovimConfig.vimdiffAlias;
-    plugins = collectPlugins nvimSetPre;
+    plugins = (collectPlugins nvimSetPre) ++ 
+      [(pkgs.vimPlugins.nvim-treesitter.withPlugins (p: [ 
+        p.c 
+        p.java
+        p.xit
+      ]))]; 
+      # TODO: collect treesitter grammars;
   };
 
   mkFiles = nvimSetPre:

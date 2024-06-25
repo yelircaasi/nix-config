@@ -5,10 +5,10 @@
 }: {
   home.packages =
     (with pkgs; [
-      logseq # TODO: debug electron<>wayland errors -> works with `NIXOS_OZONE_WL=0 logseq`
-      obsidian # TODO: debug electron<>wayland errors and gtk.css errors
+      # logseq # TODO: debug electron<>wayland errors -> works with `NIXOS_OZONE_WL=0 logseq`
+      # obsidian # TODO: debug electron<>wayland errors and gtk.css errors
       trilium-desktop
-      joplin-desktop # TODO: debug electron<>wayland errors
+      # joplin-desktop # TODO: debug electron<>wayland errors
 
       appflowy
       qownnotes

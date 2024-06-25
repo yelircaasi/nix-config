@@ -86,3 +86,7 @@ in
     needsNodeJs = true;
     needsRuby = false;
   }
+
+# TODO: min devenv: ruff LSP, black, isort, python seamless code execution (iron.nvim?), venv management -> Nix devshell
+# TODO: wezterm tab and pane navigation
+# TODO: also find suitable GUI image editor

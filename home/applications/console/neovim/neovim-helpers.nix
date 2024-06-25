@@ -21,6 +21,11 @@
   # in
   #   flattenedList
 
+  # listIf = nameString: nameList: namePath:
+  #   if (builtins.elem nameString nameList)
+  #   then [namePath]
+  #   else [];
+  
   blankSet = {
     packages = [];
     plugins = [];
@@ -200,12 +205,14 @@
     vimAlias = true; #neovimConfig.vimAlias;
     vimdiffAlias = true; #neovimConfig.vimdiffAlias;
     plugins = (collectPlugins nvimSetPre) ++ 
-      [(pkgs.vimPlugins.nvim-treesitter.withPlugins (p: [ 
-        p.c 
-        p.java
-        p.xit
-      ]))]; 
-      # TODO: collect treesitter grammars;
+      [(pkgs.vimPlugins.nvim-treesitter.withPlugins (
+        p: builtins.concatLists [  # TODO: refactor this!!!
+          (if neovimConfig.languages.c.enable then [p.c] else [])
+          (if neovimConfig.languages.java.enable then [p.java] else [])
+          (if neovimConfig.languages.xit.enable then [p.xit] else [])
+        ]
+      ))]; 
+      
   };
 
   mkFiles = nvimSetPre:

@@ -153,21 +153,35 @@ end)
 config.disable_default_key_bindings = true
 
 config.keys = {
+	-- recently changed
+    { key = "L", mods = "ALT|SHIFT", action = act.SplitHorizontal({ domain = "CurrentPaneDomain" }) },
+	{ key = 'J',  mods = "ALT|SHIFT", action = act.SplitVertical(  { domain = "CurrentPaneDomain" }) },
+	-- { key = "%", mods = "SHIFT|ALT|CTRL", action = act.SplitHorizontal({ domain = "CurrentPaneDomain" }) },
+	-- { key = '"', mods = "SHIFT|ALT|CTRL", action = act.SplitVertical({ domain = "CurrentPaneDomain" }) },
+	
+	{ key = "H",  mods = "ALT|SHIFT|CTRL", action = act.AdjustPaneSize({ "Left", 1 }) },
+	{ key = "L", mods = "ALT|SHIFT|CTRL", action = act.AdjustPaneSize({ "Right", 1 }) },
+	{ key = "K",    mods = "ALT|SHIFT|CTRL", action = act.AdjustPaneSize({ "Up", 1 }) },
+	{ key = "J",  mods = "ALT|SHIFT|CTRL", action = act.AdjustPaneSize({ "Down", 1 }) },
+
+	{ key = "l", mods = "ALT", action = act.ActivatePaneDirection("Right") },
+	{ key = "h", mods = "ALT", action = act.ActivatePaneDirection("Left") },
+	{ key = "k", mods = "ALT", action = act.ActivatePaneDirection("Up") },
+	{ key = "j", mods = "ALT", action = act.ActivatePaneDirection("Down") },
+	
+
+	-- old
 	{ key = "Tab", mods = "CTRL", action = act.ActivateTabRelative(1) },
 	{ key = "Tab", mods = "SHIFT|CTRL", action = act.ActivateTabRelative(-1) },
 	{ key = "Enter", mods = "ALT", action = act.ToggleFullScreen },
 	{ key = "!", mods = "CTRL", action = act.ActivateTab(0) },
 	{ key = "!", mods = "SHIFT|CTRL", action = act.ActivateTab(0) },
-	{ key = '"', mods = "ALT|CTRL", action = act.SplitVertical({ domain = "CurrentPaneDomain" }) },
-	{ key = '"', mods = "SHIFT|ALT|CTRL", action = act.SplitVertical({ domain = "CurrentPaneDomain" }) },
 	{ key = "#", mods = "CTRL", action = act.ActivateTab(2) },
 	{ key = "#", mods = "SHIFT|CTRL", action = act.ActivateTab(2) },
 	{ key = "$", mods = "CTRL", action = act.ActivateTab(3) },
 	{ key = "$", mods = "SHIFT|CTRL", action = act.ActivateTab(3) },
 	{ key = "%", mods = "CTRL", action = act.ActivateTab(4) },
 	{ key = "%", mods = "SHIFT|CTRL", action = act.ActivateTab(4) },
-	{ key = "%", mods = "ALT|CTRL", action = act.SplitHorizontal({ domain = "CurrentPaneDomain" }) },
-	{ key = "%", mods = "SHIFT|ALT|CTRL", action = act.SplitHorizontal({ domain = "CurrentPaneDomain" }) },
 	{ key = "&", mods = "CTRL", action = act.ActivateTab(6) },
 	{ key = "&", mods = "SHIFT|CTRL", action = act.ActivateTab(6) },
 	{ key = "'", mods = "SHIFT|ALT|CTRL", action = act.SplitVertical({ domain = "CurrentPaneDomain" }) },
@@ -303,14 +317,6 @@ config.keys = {
 	{ key = "PageDown", mods = "SHIFT", action = act.ScrollByPage(1) },
 	{ key = "PageDown", mods = "CTRL", action = act.ActivateTabRelative(1) },
 	{ key = "PageDown", mods = "SHIFT|CTRL", action = act.MoveTabRelative(1) },
-	{ key = "LeftArrow", mods = "SHIFT|CTRL", action = act.ActivatePaneDirection("Left") },
-	{ key = "LeftArrow", mods = "SHIFT|ALT|CTRL", action = act.AdjustPaneSize({ "Left", 1 }) },
-	{ key = "RightArrow", mods = "SHIFT|CTRL", action = act.ActivatePaneDirection("Right") },
-	{ key = "RightArrow", mods = "SHIFT|ALT|CTRL", action = act.AdjustPaneSize({ "Right", 1 }) },
-	{ key = "UpArrow", mods = "SHIFT|CTRL", action = act.ActivatePaneDirection("Up") },
-	{ key = "UpArrow", mods = "SHIFT|ALT|CTRL", action = act.AdjustPaneSize({ "Up", 1 }) },
-	{ key = "DownArrow", mods = "SHIFT|CTRL", action = act.ActivatePaneDirection("Down") },
-	{ key = "DownArrow", mods = "SHIFT|ALT|CTRL", action = act.AdjustPaneSize({ "Down", 1 }) },
 	{ key = "Insert", mods = "SHIFT", action = act.PasteFrom("PrimarySelection") },
 	{ key = "Insert", mods = "CTRL", action = act.CopyTo("PrimarySelection") },
 	{ key = "Copy", mods = "NONE", action = act.CopyTo("Clipboard") },

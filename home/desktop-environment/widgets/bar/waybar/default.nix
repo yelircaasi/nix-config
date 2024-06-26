@@ -9,12 +9,6 @@
   home.packages = with pkgs; [
     waybar
     font-awesome
-
-    # (
-    #   waybar.overrideAttrs (oldAttrs: {
-    #     mesonFlags = oldAttrs.mesonFlags ++ ["-Dexperimental=true"];
-    #   })
-    # )
   ];
 
   programs.waybar = {

@@ -1,128 +1,24 @@
 vim.keymap.set("n", "<leader>s", function()
 	-- {{lualine RTP command}}
+
 	local lualine = require("lualine")
 
 	-- {{navic RTP command}}
+
 	local navic = require("nvim-navic")
 
-	-- require("lualine").setup({
-	-- 	options = {
-	-- 		icons_enabled = true,
-	-- 		theme = "auto",
-	-- 		-- component_separators = { left = "", right = "" },
-	-- 		-- section_separators = { left = "", right = "" },
-	-- 		-- disabled_filetypes = {
-	-- 		-- 	statusline = {},
-	-- 		-- 	winbar = {},
-	-- 		-- },
-	-- 		-- ignore_focus = {},
-	-- 		-- always_divide_middle = true,
-	-- 		-- globalstatus = false,
-	-- 		-- refresh = {
-	-- 		-- 	statusline = 1000,
-	-- 		-- 	tabline = 1000,
-	-- 		-- 	winbar = 1000,
-	-- 		-- },
-	-- 	},
-	-- 	sections = {
-	-- 		lualine_a = { "mode" },
-	-- 		lualine_b = { "branch", "diff", "diagnostics" },
-	-- 		lualine_c = { "filename" },
-	-- 		lualine_x = { "encoding", "fileformat", "filetype" },
-	-- 		lualine_y = { "progress" },
-	-- 		lualine_z = { "location" },
-	-- 	},
-	-- 	inactive_sections = {
-	-- 		lualine_a = {},
-	-- 		lualine_b = {},
-	-- 		lualine_c = { "filename" },
-	-- 		lualine_x = { "location" },
-	-- 		lualine_y = {},
-	-- 		lualine_z = {},
-	-- 	},
-	-- 	tabline = {},
-	-- 	winbar = {},
-	-- 	inactive_winbar = {},
-	-- 	extensions = {},
-	-- })
-	--
-	--
-	--
-	-- local colors = {
-	--   blue   = 80a0ff',
-	--   cyan   = 79dac8',
-	--   black  = 080808',
-	--   white  = c6c6c6',
-	--   red    = ff5189',
-	--   violet = d183e8',
-	--   grey   = 303030',
-	-- }
-	--
-	-- local bubbles_theme = {
-	--   normal = {
-	--     a = { fg = colors.black, bg = colors.violet },
-	--     b = { fg = colors.white, bg = colors.grey },
-	--     c = { fg = colors.black, bg = colors.black },
-	--   },
-	--
-	--   insert = { a = { fg = colors.black, bg = colors.blue } },
-	--   visual = { a = { fg = colors.black, bg = colors.cyan } },
-	--   replace = { a = { fg = colors.black, bg = colors.red } },
-	--
-	--   inactive = {
-	--     a = { fg = colors.white, bg = colors.black },
-	--     b = { fg = colors.white, bg = colors.black },
-	--     c = { fg = colors.black, bg = colors.black },
-	--   },
-	-- }
-
-	-- lualine.setup({
-	-- 	options = {
-	-- 		theme = "auto",
-	-- 		component_separators = "|",
-	-- 		section_separators = { left = "", right = "" },
-	-- 		-- section_separators = { left = " ", right = " " },
-	-- 	},
-	-- 	sections = {
-	-- 		lualine_a = {
-	-- 			{ "mode", separator = { left = "" }, right_padding = 2 },
-	-- 			-- { "mode", separator = { left = "" }, right_padding = 2 },
-	-- 		},
-	-- 		lualine_b = { "filename", "branch" },
-	-- 		lualine_c = { "fileformat" },
-	-- 		lualine_x = {},
-	-- 		lualine_y = { "filetype", "progress" },
-	-- 		lualine_z = {
-	-- 			{ "location", separator = { right = "" }, left_padding = 2 },
-	-- 			-- { "location", separator = { right = "" }, left_padding = 2 },
-	-- 		},
-	-- 	},
-	-- 	inactive_sections = {
-	-- 		lualine_a = { "filename" },
-	-- 		lualine_b = {},
-	-- 		lualine_c = {},
-	-- 		lualine_x = {},
-	-- 		lualine_y = {},
-	-- 		lualine_z = { "location" },
-	-- 	},
-	-- 	tabline = {},
-	-- 	extensions = {},
-	-- })
-	--
-	-- Color table for highlights
-	-- stylua: ignore
 	local colors = {
-	bg       = '<| color.nvim.statusLine.bg |>',
-	fg       = '<| color.nvim.statusLine.fg |>', -- bbc2cf
-	yellow   = '<| color.nvim.statusLine.yellow |>', -- ECBE7B
-	cyan     = '<| color.nvim.statusLine.cyan |>', -- 008080
-	darkblue = '<| color.nvim.statusLine.darkblue |>', -- 081633
-	green    = '<| color.nvim.statusLine.green |>', -- 98be65
-	orange   = '<| color.nvim.statusLine.orange |>', -- FF8800
-	violet   = '<| color.nvim.statusLine.violet |>', -- a9a1e1
-	magenta  = '<| color.nvim.statusLine.magenta |>', -- c678dd
-	blue     = '<| color.nvim.statusLine.blue |>', -- 51afef
-	red      = '<| color.nvim.statusLine.red |>',  -- ec5f67
+		bg = "<| color.nvim.statusLine.bg |>",
+		fg = "<| color.nvim.statusLine.fg |>",
+		yellow = "<| color.nvim.statusLine.yellow |>",
+		cyan = "<| color.nvim.statusLine.cyan |>",
+		darkblue = "<| color.nvim.statusLine.darkblue |>",
+		green = "<| color.nvim.statusLine.green |>",
+		orange = "<| color.nvim.statusLine.orange |>",
+		violet = "<| color.nvim.statusLine.violet |>",
+		magenta = "<| color.nvim.statusLine.magenta |>",
+		blue = "<| color.nvim.statusLine.blue |>",
+		red = "<| color.nvim.statusLine.red |>",
 	}
 
 	local conditions = {
@@ -139,32 +35,24 @@ vim.keymap.set("n", "<leader>s", function()
 		end,
 	}
 
-	-- Config
 	local config = {
 		options = {
-			-- Disable sections and component separators
 			component_separators = "",
 			section_separators = "",
 			theme = {
-				-- We are going to use lualine_c an lualine_x as left and
-				-- right section. Both are highlighted by c theme .  So we
-				-- are just setting default looks o statusline
 				normal = { c = { fg = colors.fg, bg = colors.bg } },
 				inactive = { c = { fg = colors.fg, bg = colors.bg } },
 			},
 		},
 		sections = {
-			-- these are to remove the defaults
 			lualine_a = {},
 			lualine_b = {},
 			lualine_y = {},
 			lualine_z = {},
-			-- These will be filled later
 			lualine_c = {},
 			lualine_x = {},
 		},
 		inactive_sections = {
-			-- these are to remove the defaults
 			lualine_a = {},
 			lualine_b = {},
 			lualine_y = {},
@@ -174,31 +62,19 @@ vim.keymap.set("n", "<leader>s", function()
 		},
 	}
 
-	-- Inserts a component in lualine_c at left section
 	local function ins_left(component)
 		table.insert(config.sections.lualine_c, component)
 	end
 
-	-- Inserts a component in lualine_x at right section
 	local function ins_right(component)
 		table.insert(config.sections.lualine_x, component)
 	end
 
-	-- ins_left({
-	-- 	function()
-	-- 		return "▊"
-	-- 	end,
-	-- 	color = { fg = colors.blue }, -- Sets highlighting of component
-	-- 	padding = { left = 0, right = 1 }, -- We don't need space before this
-	-- })
-
 	ins_left({
-		-- mode component
 		function()
-			return " " --""
+			return " "
 		end,
 		color = function()
-			-- auto change color according to neovims mode
 			local mode_color = {
 				n = colors.red,
 				i = colors.green,
@@ -227,7 +103,6 @@ vim.keymap.set("n", "<leader>s", function()
 	})
 
 	ins_left({
-		-- filesize component
 		"filesize",
 		cond = conditions.buffer_not_empty,
 	})
@@ -253,8 +128,6 @@ vim.keymap.set("n", "<leader>s", function()
 		},
 	})
 
-	-- Insert mid section. You can make any number of sections in neovim :)
-	-- for lualine it's any number greater then 2
 	ins_left({
 		function()
 			return "%="
@@ -262,11 +135,10 @@ vim.keymap.set("n", "<leader>s", function()
 	})
 
 	ins_left({
-		-- Lsp server name .
 		function()
 			local msg = "No Active Lsp"
 			local buf_ft = vim.api.nvim_buf_get_option(0, "filetype")
-			local clients = vim.lsp.get_active_clients()
+			local clients = vim.lsp.get_clients()
 			if next(clients) == nil then
 				return msg
 			end
@@ -282,10 +154,9 @@ vim.keymap.set("n", "<leader>s", function()
 		color = { fg = colors.cyan, gui = "bold" },
 	})
 
-	-- Add components to right sections
 	ins_right({
-		"o:encoding", -- option component same as &encoding in viml
-		fmt = string.upper, -- I'm not sure why it's upper case either ;)
+		"o:encoding",
+		fmt = string.upper,
 		cond = conditions.hide_in_width,
 		color = { fg = colors.green, gui = "bold" },
 	})
@@ -293,7 +164,7 @@ vim.keymap.set("n", "<leader>s", function()
 	ins_right({
 		"fileformat",
 		fmt = string.upper,
-		icons_enabled = false, -- I think icons are cool but Eviline doesn't have them. sigh
+		icons_enabled = false,
 		color = { fg = colors.green, gui = "bold" },
 	})
 
@@ -305,7 +176,6 @@ vim.keymap.set("n", "<leader>s", function()
 
 	ins_right({
 		"diff",
-		-- Is it me or the symbol for modified us really weird
 		symbols = { added = " ", modified = "󰝤 ", removed = " " },
 		diff_color = {
 			added = { fg = colors.green },
@@ -315,14 +185,5 @@ vim.keymap.set("n", "<leader>s", function()
 		cond = conditions.hide_in_width,
 	})
 
-	-- ins_right({
-	-- 	function()
-	-- 		return "▊"
-	-- 	end,
-	-- 	color = { fg = colors.blue },
-	-- 	padding = { left = 1 },
-	-- })
-
-	-- Now don't forget to initialize lualine
 	lualine.setup(config)
-end, {noremap = true, silent = true})
+end, { noremap = true, silent = true })

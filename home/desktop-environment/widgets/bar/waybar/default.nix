@@ -8,6 +8,7 @@
 
   home.packages = with pkgs; [
     waybar
+    font-awesome
 
     # (
     #   waybar.overrideAttrs (oldAttrs: {

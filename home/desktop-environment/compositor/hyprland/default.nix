@@ -50,7 +50,7 @@
           "col.inactive_border" = "rgb(162016)"; # "0xaa$overlay0Alpha 0xaa$mantleAlpha 45deg";
 
           layout = "dwindle";
-          cursor_inactive_timeout = 60;
+          # cursor_inactive_timeout = 60;
         };
 
         decoration = {

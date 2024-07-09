@@ -2,8 +2,10 @@
   home.packages = with pkgs; [
     postgresql
     pgcli
-    mongodb
-    mongosh
+    
+    # mongodb
+    # mongosh
+
     # sqlite
     # sqlite-utils
     # couchdb3

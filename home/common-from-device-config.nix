@@ -72,6 +72,7 @@ in {
       ./applications/gui/media/editing
 
       ./desktop-environment/compositor/hyprland
+      ./desktop-environment/logout-manager/wlogout
 
       ./applications/gui/personal-organization
     ]

@@ -2,7 +2,7 @@
   home.packages = with pkgs; [
     postgresql
     pgcli
-    
+
     # mongodb
     # mongosh
 

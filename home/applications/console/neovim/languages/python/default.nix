@@ -90,7 +90,8 @@ in
     #   "./nvim/lua/languages/${luaName}.lua".text = g.utils.readAndInterpolate g ./python.lua;
     # };
 
-    pluginStrings = [ # TODO: rewrite to repeat the string as long many times as the plugin list is long; also prepend strings to file
+    pluginStrings = [
+      # TODO: rewrite to repeat the string as long many times as the plugin list is long; also prepend strings to file
       "-- lspconfig RTP command"
       "-- neotest RTP command"
       "-- dap RTP command"

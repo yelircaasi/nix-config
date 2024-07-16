@@ -71,8 +71,16 @@ in {
 
       ./applications/gui/media/editing
 
+    ./desktop-environment/theming/gtk
+    # ./desktop-environment/theming/qt
+    ./desktop-environment/theming/fonts
+    ./desktop-environment/theming/icons
+
       ./desktop-environment/compositor/hyprland
+      ./desktop-environment/launcher/fuzzel
       ./desktop-environment/logout-manager/wlogout
+      ./desktop-environment/widgets/notifications/mako
+      ./desktop-environment/widgets/bar/waybar
 
       ./applications/gui/personal-organization
     ]

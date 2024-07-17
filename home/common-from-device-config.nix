@@ -71,10 +71,10 @@ in {
 
       ./applications/gui/media/editing
 
-    ./desktop-environment/theming/gtk
-    # ./desktop-environment/theming/qt
-    ./desktop-environment/theming/fonts
-    ./desktop-environment/theming/icons
+      ./desktop-environment/theming/gtk
+      # ./desktop-environment/theming/qt
+      ./desktop-environment/theming/fonts
+      ./desktop-environment/theming/icons
 
       ./desktop-environment/compositor/hyprland
       ./desktop-environment/launcher/fuzzel

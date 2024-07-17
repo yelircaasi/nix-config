@@ -129,7 +129,7 @@ in {
       }
     '';
   };
-  
+
   wayland.windowManager.hyprland =
     # let
     #   accent = "\$${g.accent}";

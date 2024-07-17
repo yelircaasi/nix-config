@@ -27,8 +27,6 @@
 
     # #./desktop-environment/widgets/ags
 
-    
-
     #./desktop-environment/hyprland-ags.nix
   ];
 

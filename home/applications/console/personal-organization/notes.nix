@@ -16,7 +16,7 @@
 
       jrnl
       joplin
-      # mypkgs.dnote
+      # mypkgs.dnote TODO: fix errors
     ])
     ++ (with mypkgs; []);
 }

@@ -38,7 +38,7 @@ in {
       ./applications/console/search
       ./applications/console/shell
       ./applications/console/viewing
-      
+
       ./applications/gui/media/editing
       # ./applications/gui/personal-organization
 

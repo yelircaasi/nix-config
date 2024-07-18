@@ -1,102 +1,63 @@
-/* GTK NAMED COLORS
-   ----------------
-*/
+:root {
+    --black: #000800;
+    --maroon: #3f0d08;
+    --green: #246b44;
+    --olive: #b7b076;
+    --navy: #13446c;
+    --purple: #6f006f;
+    --teal: #1e87db;
+    --silver: #9a9a9a;
 
-@define-color theme_fg_color "<| color.gtk.theme.fg |>";
-@define-color theme_text_color "<| color.gtk.theme.text |>";
-@define-color theme_bg_color "<| color.gtk.theme.bg |>";
-@define-color theme_base_color "<| color.gtk.theme.base |>";
-@define-color theme_selected_bg_color "<| color.gtk.selected.bg |>";
-@define-color theme_selected_fg_color "<| color.gtk.selected.fg |>";
-@define-color insensitive_bg_color "<| color.gtk.insensitive.bg |>";
-@define-color insensitive_fg_color "<| color.gtk.insensitive.fg |>";
-@define-color insensitive_base_color "<| color.gtk.insensitive.base |>";
-@define-color theme_unfocused_fg_color "<| color.gtk.unfocused.fg |>";
-@define-color theme_unfocused_text_color "<| color.gtk.unfocused.text |>";
-@define-color theme_unfocused_bg_color "<| color.gtk.unfocused.bg |>";
-@define-color theme_unfocused_base_color "<| color.gtk.unfocused.base |>";
-@define-color theme_unfocused_selected_bg_color "<| color.gtk.selected.bg |>";
-@define-color theme_unfocused_selected_fg_color "<| color.gtk.selected.fg |>";
-@define-color borders "<| color.gtk.borders.normal |>";
-@define-color unfocused_borders "<| color.gtk.borders.unfocused |>";
-@define-color warning_color "<| color.gtk.semantic.warning |>";
-@define-color error_color "<| color.gtk.semantic.error |>";
-@define-color success_color "<| color.gtk.semantic.success |>";
-@define-color fg_color "<| color.gtk.core.fg |>";
-@define-color text_color "<| color.gtk.core.text |>";
-@define-color bg_color "<| color.gtk.core.bg |>";
-@define-color base_color "<| color.gtk.core.base |>";
-@define-color selected_bg_color "<| color.gtk.selected.bg |>";
-@define-color selected_fg_color "<| color.gtk.selected.fg |>";
-@define-color unfocused_fg_color "<| color.gtk.unfocused.fg |>";
-@define-color unfocused_text_color "<| color.gtk.unfocused.text |>";
-@define-color unfocused_bg_color "<| color.gtk.unfocused.bg |>";
-@define-color unfocused_base_color "<| color.gtk.unfocused.base |>";
-@define-color unfocused_selected_bg_color "<| color.gtk.selected.bg |>";
-@define-color unfocused_selected_fg_color "<| color.gtk.selected.fg |>";
+    --grey: #002000;
+    --red: #51110b;
+    --lime: #3cb371;
+    --yellow: #d0c98f;
+    --blue: #426989;
+    --fuchsia: #a233a2;
+    --aqua: #37a1f4;
+    --white: #cdcdcd;
+}
 
-/* thunar */
-.thunar .standard-view .view { background-color: "<| color.thunar.bg |>"; }
-.thunar .sidebar { background-color: "<| color.thunar.sidebarBg |>"; }
-.thunar toolbar {
-  background-color: "<| color.thunar.toolbarBg |>"; }
-  .thunar toolbar .flat {
-    color: "<| color.thunar.toolbarFlatFg |>"; }
+* {
+    background-color: var(--black);
+    color: var(--silver);
+    border-color: var(--grey);
+}
 
-/* buttons in toolbar */
-.thunar toolbar.horizontal button image {
-  -gtk-icon-transform: scale(0.72); }
+button {
+    background-color: var(--green);
+    color: var(--white);
+}
 
-/* path-bar of thunar */
-window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button,
-.thunar toolbar .path-bar-button {
-  color: "<| color.thunar.toolbarPathBarButton |>";
-  border-radius: 4px;
-  text-shadow: none;
-  box-shadow: none;
-  border: 1px solid "<| color.thunar.toolbarPathBarButtonBorder |>";
-  background-color: "<| color.thunar.toolbarPathBarButtonBg |>";
-  border-radius: 0;
-  border-right: 0.5px solid "<| color.thunar.toolbarPathBarButtonBorderRight |>";
-  box-shadow: none;
-  min-height: 20px;
-  padding: 3px 4px; }
-  window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button:first-child,
-  .thunar toolbar .path-bar-button:first-child {
-    border-top-left-radius: 4px;
-    border-bottom-left-radius: 4px; }
-  window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button:last-child,
-  .thunar toolbar .path-bar-button:last-child {
-    border-top-right-radius: 4px;
-    border-bottom-right-radius: 4px;
-    border-right-style: solid; }
-  window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button:only-child,
-  .thunar toolbar .path-bar-button:only-child {
-    border-radius: 4px;
-    border-style: solid; }
-  window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button:hover,
-  .thunar toolbar .path-bar-button:hover {
-    color: "<| color.thunar.toolbarPathBarButtonHoverFg |>"; }
-  window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button:checked,
-  .thunar toolbar .path-bar-button:checked {
-    color: "<| color.thunar.toolbarPathBarButtonChecked |>";
-    outline-color: rgba(255, 255, 255, 0.3);
-    background-color: rgba(129, 161, 193, 0.7);
-    text-shadow: none; }
-window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .toggle.path-bar-button:hover,
-.thunar toolbar .toggle.path-bar-button:hover {
-  color: "<| color.thunar.toolbarLocationToolbar |>";
-  outline-color: rgba(255, 255, 255, 0.3);
-  background-color: rgba(129, 161, 193, 0.7);
-  text-shadow: none; }
+button:hover {
+    background-color: var(--lime);
+}
 
-/* thunar sidepane */
-.thunar scrolledwindow.sidebar treeview.view {
-  background: "<| color.thunar.sidebarBg |>"; 
-  color: "<| color.thunar.sidebarFg |>"; 
-  padding: 1.5px; }
-  .thunar scrolledwindow.sidebar treeview.view:hover, .thunar scrolledwindow.sidebar treeview.view:selected {
-    background: "<| color.thunar.selectedBg |>";
-    color: "<| color.thunar.selectedFg |>";
-    border-radius: 0;
-    box-shadow: none; }
+entry {
+    background-color: var(--navy);
+    color: var(--silver);
+    border-color: var(--blue);
+}
+
+entry:hover {
+    background-color: var(--blue);
+}
+
+headerbar {
+    background-color: var(--purple);
+    color: var(--white);
+}
+
+headerbar.titlebar {
+    background-color: var(--fuchsia);
+    color: var(--white);
+}
+
+window {
+    background-color: var(--black);
+    color: var(--silver);
+}
+
+window frame {
+    border-color: var(--olive);
+}

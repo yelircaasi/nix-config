@@ -1,102 +1,61 @@
-/* GTK NAMED COLORS
-   ----------------
-*/
+@define-color black #000800;
+@define-color maroon #3f0d08;
+@define-color green #246b44;
+@define-color olive #b7b076;
+@define-color navy #13446c;
+@define-color purple #6f006f;
+@define-color teal #1e87db;
+@define-color silver #9a9a9a;
 
-@define-color theme_fg_color "<| color.gtk.theme.fg |>";
-@define-color theme_text_color "<| color.gtk.theme.text |>";
-@define-color theme_bg_color "<| color.gtk.theme.bg |>";
-@define-color theme_base_color "<| color.gtk.theme.base |>";
-@define-color theme_selected_bg_color "<| color.gtk.selected.bg |>";
-@define-color theme_selected_fg_color "<| color.gtk.selected.fg |>";
-@define-color insensitive_bg_color "<| color.gtk.insensitive.bg |>";
-@define-color insensitive_fg_color "<| color.gtk.insensitive.fg |>";
-@define-color insensitive_base_color "<| color.gtk.insensitive.base |>";
-@define-color theme_unfocused_fg_color "<| color.gtk.unfocused.fg |>";
-@define-color theme_unfocused_text_color "<| color.gtk.unfocused.text |>";
-@define-color theme_unfocused_bg_color "<| color.gtk.unfocused.bg |>";
-@define-color theme_unfocused_base_color "<| color.gtk.unfocused.base |>";
-@define-color theme_unfocused_selected_bg_color "<| color.gtk.selected.bg |>";
-@define-color theme_unfocused_selected_fg_color "<| color.gtk.selected.fg |>";
-@define-color borders "<| color.gtk.borders.normal |>";
-@define-color unfocused_borders "<| color.gtk.borders.unfocused |>";
-@define-color warning_color "<| color.gtk.semantic.warning |>";
-@define-color error_color "<| color.gtk.semantic.error |>";
-@define-color success_color "<| color.gtk.semantic.success |>";
-@define-color fg_color "<| color.gtk.core.fg |>";
-@define-color text_color "<| color.gtk.core.text |>";
-@define-color bg_color "<| color.gtk.core.bg |>";
-@define-color base_color "<| color.gtk.core.base |>";
-@define-color selected_bg_color "<| color.gtk.selected.bg |>";
-@define-color selected_fg_color "<| color.gtk.selected.fg |>";
-@define-color unfocused_fg_color "<| color.gtk.unfocused.fg |>";
-@define-color unfocused_text_color "<| color.gtk.unfocused.text |>";
-@define-color unfocused_bg_color "<| color.gtk.unfocused.bg |>";
-@define-color unfocused_base_color "<| color.gtk.unfocused.base |>";
-@define-color unfocused_selected_bg_color "<| color.gtk.selected.bg |>";
-@define-color unfocused_selected_fg_color "<| color.gtk.selected.fg |>";
+@define-color grey #002000;
+@define-color red #51110b;
+@define-color lime #3cb371;
+@define-color yellow #d0c98f;
+@define-color blue #426989;
+@define-color fuchsia #a233a2;
+@define-color aqua #37a1f4;
+@define-color white #cdcdcd;
 
-/* thunar */
-.thunar .standard-view .view { background-color: "<| color.thunar.bg |>"; }
-.thunar .sidebar { background-color: "<| color.thunar.sidebarBg |>"; }
-.thunar toolbar {
-  background-color: "<| color.thunar.toolbarBg |>"; }
-  .thunar toolbar .flat {
-    color: "<| color.thunar.toolbarFlatFg |>"; }
+* {
+    background-color: @black;
+    color: @silver;
+    border-color: @grey;
+}
 
-/* buttons in toolbar */
-.thunar toolbar.horizontal button image {
-  -gtk-icon-transform: scale(0.72); }
+button {
+    background-color: @green;
+    color: @white;
+}
 
-/* path-bar of thunar */
-window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button,
-.thunar toolbar .path-bar-button {
-  color: "<| color.thunar.toolbarPathBarButton |>";
-  border-radius: 4px;
-  text-shadow: none;
-  box-shadow: none;
-  border: 1px solid "<| color.thunar.toolbarPathBarButtonBorder |>";
-  background-color: "<| color.thunar.toolbarPathBarButtonBg |>";
-  border-radius: 0;
-  border-right: 0.5px solid "<| color.thunar.toolbarPathBarButtonBorderRight |>";
-  box-shadow: none;
-  min-height: 20px;
-  padding: 3px 4px; }
-  window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button:first-child,
-  .thunar toolbar .path-bar-button:first-child {
-    border-top-left-radius: 4px;
-    border-bottom-left-radius: 4px; }
-  window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button:last-child,
-  .thunar toolbar .path-bar-button:last-child {
-    border-top-right-radius: 4px;
-    border-bottom-right-radius: 4px;
-    border-right-style: solid; }
-  window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button:only-child,
-  .thunar toolbar .path-bar-button:only-child {
-    border-radius: 4px;
-    border-style: solid; }
-  window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button:hover,
-  .thunar toolbar .path-bar-button:hover {
-    color: "<| color.thunar.toolbarPathBarButtonHoverFg |>"; }
-  window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button:checked,
-  .thunar toolbar .path-bar-button:checked {
-    color: "<| color.thunar.toolbarPathBarButtonChecked |>";
-    outline-color: rgba(255, 255, 255, 0.3);
-    background-color: rgba(129, 161, 193, 0.7);
-    text-shadow: none; }
-window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .toggle.path-bar-button:hover,
-.thunar toolbar .toggle.path-bar-button:hover {
-  color: "<| color.thunar.toolbarLocationToolbar |>";
-  outline-color: rgba(255, 255, 255, 0.3);
-  background-color: rgba(129, 161, 193, 0.7);
-  text-shadow: none; }
+button:hover {
+    background-color: @lime;
+}
 
-/* thunar sidepane */
-.thunar scrolledwindow.sidebar treeview.view {
-  background: "<| color.thunar.sidebarBg |>"; 
-  color: "<| color.thunar.sidebarFg |>"; 
-  padding: 1.5px; }
-  .thunar scrolledwindow.sidebar treeview.view:hover, .thunar scrolledwindow.sidebar treeview.view:selected {
-    background: "<| color.thunar.selectedBg |>";
-    color: "<| color.thunar.selectedFg |>"; 
-    border-radius: 0;
-    box-shadow: none; }
+entry {
+    background-color: @navy;
+    color: @silver;
+    border-color: @blue;
+}
+
+entry:hover {
+    background-color: @blue;
+}
+
+header-bar {
+    background-color: @purple;
+    color: @white;
+}
+
+header-bar.titlebar {
+    background-color: @fuchsia;
+    color: @white;
+}
+
+window {
+    background-color: @black;
+    color: @silver;
+}
+
+window frame {
+    border-color: @olive;
+}

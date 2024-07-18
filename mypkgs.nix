@@ -337,6 +337,34 @@ in {
       platforms = platforms.all;
     };
   };
+  texel = buildPythonPackage rec {
+    pname = "texel";
+    version = "0.2.1";
+
+    src = fetchFromGitHub {
+      owner = "Lauriat";
+      repo = pname;
+      rev = "9dcfba163c66e9da5e9b0757c4e587f297b0cfcb"; # 2024-07-17
+      hash = "sha256-tpCml5M/no+Uq7oOKgQT8yCW8L5RoRFxnxbrDVJxnZQ=";
+    };
+
+    buildInputs = [
+    ];
+
+    propagatedBuildInputs = with pkgs.python311Packages; [
+      openpyxl
+      odfpy
+      pyperclip
+      numpy
+    ];
+
+    meta = with lib; {
+      homepage = "https://github.com/Lauriat/texel";
+      description = "Command line interface for reading spreadsheets";
+      license = licenses.mit;
+      platforms = platforms.all;
+    };
+  };
   git-plus = buildPythonPackage rec {
     pname = "git-plus";
     version = "0.4.0";

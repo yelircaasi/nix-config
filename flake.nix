@@ -88,7 +88,7 @@
         browsers = ["nyxt" "qutebrowser" "ungoogle-chromium" "vieb" "firefox"];
         desktopEnvironments = [];
         desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
-        terminalEmulators = ["we123zterm"];
+        terminalEmulators = ["wezterm"];
         consoleSet = "maximal";
         nvidia = true;
         pipewire = true;

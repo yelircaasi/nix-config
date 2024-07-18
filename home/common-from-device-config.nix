@@ -26,7 +26,6 @@ in {
 
       ./applications/console/communication
 
-
       ./applications/console/data-wrangling
 
       ./applications/console/version-control
@@ -56,8 +55,6 @@ in {
       # ./desktop-environment/theming/qt
       ./desktop-environment/theming/fonts
       ./desktop-environment/theming/icons
-
-      
     ]
     (listIfIn "hyprland" deviceConfig.compositors ./desktop-environment/compositor/hyprland)
     (listIfIn "fuzzel" deviceConfig.desktopShell ./desktop-environment/launcher/fuzzel)
@@ -75,26 +72,26 @@ in {
   ];
 
   xdg.configFile."home-manager/home.nix".text = ''
-  { config, pkgs, ... }:
+    { config, pkgs, ... }:
 
-  {
-    # Home Manager needs a bit of information about you and the
-    # paths it should manage.
-    home.username = "isaac";
-    home.homeDirectory = "/home/isaac";
+    {
+      # Home Manager needs a bit of information about you and the
+      # paths it should manage.
+      home.username = "isaac";
+      home.homeDirectory = "/home/isaac";
 
-    # This value determines the Home Manager release that your
-    # configuration is compatible with. This helps avoid breakage
-    # when a new Home Manager release introduces backwards
-    # incompatible changes.
-    #
-    # You can update Home Manager without changing this value. See
-    # the Home Manager release notes for a list of state version
-    # changes in each release.
-    home.stateVersion = "23.11";
+      # This value determines the Home Manager release that your
+      # configuration is compatible with. This helps avoid breakage
+      # when a new Home Manager release introduces backwards
+      # incompatible changes.
+      #
+      # You can update Home Manager without changing this value. See
+      # the Home Manager release notes for a list of state version
+      # changes in each release.
+      home.stateVersion = "23.11";
 
-    # Let Home Manager install and manage itself.
-    programs.home-manager.enable = true;
-  }
+      # Let Home Manager install and manage itself.
+      programs.home-manager.enable = true;
+    }
   '';
 }

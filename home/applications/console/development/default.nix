@@ -1,0 +1,9 @@
+{
+  pkgs,
+  deviceConfig,
+  ...
+}: {
+  imports = [
+    ./python
+  ];
+}

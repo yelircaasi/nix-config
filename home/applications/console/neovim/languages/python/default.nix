@@ -15,7 +15,7 @@ in
   then blankSet
   else rec {
     packages = with pkgs; [
-      python311
+      # python311
       ruff
       py.python-lsp-server # alt: node.pyright
       py.pylsp-mypy
@@ -28,10 +28,7 @@ in
       py.pytest-cov
       py.coverage
       py.pynvim
-      py.ipython
-      black
-      mypy
-      isort
+      # py.ipython
       #py.jupyter-client
       #py.jupyter
       #py.ipykernel

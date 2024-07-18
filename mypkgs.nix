@@ -14,6 +14,35 @@
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
   buildPythonPackage = pkgs.python3Packages.buildPythonPackage;
 in {
+  matplotlib-backend-wezterm = buildPythonPackage rec {
+    pname = "matplotlib-backend-wezterm";
+    version = "2.1.2";
+    format = "pyproject";
+
+    src = fetchFromGitHub {
+      owner = "yelircaasi";
+      repo = pname;
+      rev = "8ae1fad818e4d6d4f90d07ca336aa24bbe93971b"; # 2024-07-17
+      hash = "sha256-hS8nwkIMavMjCJ1I3vXaT5NZVytsmC+teB2cnrsHX80=";
+    };
+
+    buildInputs = [
+      pkgs.python311Packages.setuptools
+    ];
+
+    propagatedBuildInputs = with pkgs.python311Packages; [
+      pkgs.python311Packages.matplotlib
+    ];
+
+    meta = with lib; {
+      homepage = "https://github.com/lkhphuc/matplotlib-backend-wezterm";
+      description = "Show matplotlib plots directly in your Wezterm terminal";
+      license = licenses.cc0;
+      platforms = platforms.all;
+    };
+  };
+
+
   ansiweather = {
     #TODO
 

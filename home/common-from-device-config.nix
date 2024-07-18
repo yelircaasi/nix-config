@@ -27,6 +27,7 @@ in {
       ./applications/console/browser
       ./applications/console/communication
       ./applications/console/data-wrangling
+      ./applications/console/development
       ./applications/console/version-control
       ./applications/console/file-browser
       ./applications/console/fun

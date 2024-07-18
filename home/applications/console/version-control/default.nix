@@ -1,0 +1,7 @@
+{
+  pkgs,
+  mypkgs,
+  ...
+}: {
+  imports = [./git];
+}

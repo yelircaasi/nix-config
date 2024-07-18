@@ -11,85 +11,90 @@
     if nameBool
     then [namePath]
     else [];
-  listIf = nameString: nameList: namePath:
+  listIfIn = nameString: nameList: namePath:
     if (builtins.elem nameString nameList)
     then [namePath]
+    else [];
+  listIf = nameBool: namePath:
+    if nameBool
+    then namePath
     else [];
 in {
   imports = builtins.concatLists [
     [
       ./applications/console/browser
-      ./applications/console/calculator-conversion-date
-      ./applications/console/communication/email
-      ./applications/console/communication/messaging
-      ./applications/console/data-wrangling/html
-      ./applications/console/data-wrangling/json
-      ./applications/console/data-wrangling/pdf
-      ./applications/console/spreadsheet
-      ./applications/console/git
-      ./applications/console/file-browser/nnn
-      ./applications/console/file-browser/xplr
-      ./applications/console/file-browser/yazi
+
+      ./applications/console/communication
+
+
+      ./applications/console/data-wrangling
+
+      ./applications/console/version-control
+
+      ./applications/console/file-browser
+
       ./applications/console/fun
 
       ./applications/console/media
 
-      ./applications/console/navigation/pazi
-      ./applications/console/navigation/zoxide
+      ./applications/console/navigation
+
       ./applications/console/organization-cleanup
       ./applications/console/personal-organization
       ./applications/console/quality-of-life
-      ./applications/console/search/ack
-      ./applications/console/search/ast-grep
-      ./applications/console/search/fd
-      ./applications/console/search/frawk
-      ./applications/console/search/fzf
-      ./applications/console/search/ripgrep-etc
-      ./applications/console/search/silver-searcher
-      ./applications/console/search/skim
-      ./applications/console/search/ugrep
-      ./applications/console/search/zf
-      ./applications/console/shell
-      ./applications/console/viewing/bat
-      ./applications/console/viewing/eza
-      ./applications/console/viewing/ov
-      ./applications/console/viewing/tre-command
 
-      # ./applications/console/calculator-conversion-date
-      # ./applications/console/data-wrangling
-      # ./applications/console/dev-utils
-      # ./applications/console/educational
-      # ./applications/console/fun
-      # ./applications/console/quality-of-life
-      # ./applications/console/spreadsheet
-      # ./applications/console/
-      # ./applications/console/
-      # ./applications/console/
-      # ./applications/console/
-      # ./applications/console/
-      # ./applications/console/
+      ./applications/console/search
+
+      ./applications/console/shell
+
+      ./applications/console/viewing
 
       ./applications/gui/media/editing
+      # ./applications/gui/personal-organization
 
       ./desktop-environment/theming/gtk
       # ./desktop-environment/theming/qt
       ./desktop-environment/theming/fonts
       ./desktop-environment/theming/icons
 
-      ./desktop-environment/compositor/hyprland
-      ./desktop-environment/launcher/fuzzel
-      ./desktop-environment/logout-manager/wlogout
-      ./desktop-environment/widgets/notifications/mako
-      ./desktop-environment/widgets/bar/waybar
-
-      ./applications/gui/personal-organization
+      
     ]
-    (listIf "neovim" deviceConfig.editors ./applications/console/neovim)
-    (listIf "wezterm" deviceConfig.terminal-emulators ./applications/gui/terminal-emulator/wezterm)
-    (listIf "nyxt" deviceConfig.browsers ./applications/gui/browser/nyxt)
-    (listIf "qutebrowser" deviceConfig.browsers ./applications/gui/browser/qutebrowser)
-    (listIf "ungoogle-chromium" deviceConfig.browsers ./applications/gui/browser/ungoogled-chromium)
-    (listIf "vieb" deviceConfig.browsers ./applications/gui/browser/vieb)
-    (listIf "firefox" deviceConfig.browsers ./applications/gui/browser/firefox)
+    (listIfIn "hyprland" deviceConfig.compositors ./desktop-environment/compositor/hyprland)
+    (listIfIn "fuzzel" deviceConfig.desktopShell ./desktop-environment/launcher/fuzzel)
+    (listIfIn "wlogout" deviceConfig.desktopShell ./desktop-environment/logout-manager/wlogout)
+    (listIfIn "mako" deviceConfig.desktopShell ./desktop-environment/widgets/notifications/mako)
+    (listIfIn "waybar" deviceConfig.desktopShell ./desktop-environment/widgets/bar/waybar)
+
+    (listIfIn "neovim" deviceConfig.editors ./applications/console/neovim)
+    (listIfIn "wezterm" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/wezterm)
+    (listIfIn "nyxt" deviceConfig.browsers ./applications/gui/browser/nyxt)
+    (listIfIn "qutebrowser" deviceConfig.browsers ./applications/gui/browser/qutebrowser)
+    (listIfIn "ungoogle-chromium" deviceConfig.browsers ./applications/gui/browser/ungoogled-chromium)
+    (listIfIn "vieb" deviceConfig.browsers ./applications/gui/browser/vieb)
+    (listIfIn "firefox" deviceConfig.browsers ./applications/gui/browser/firefox)
   ];
+
+  xdg.configFile."home-manager/home.nix".text = ''
+  { config, pkgs, ... }:
+
+  {
+    # Home Manager needs a bit of information about you and the
+    # paths it should manage.
+    home.username = "isaac";
+    home.homeDirectory = "/home/isaac";
+
+    # This value determines the Home Manager release that your
+    # configuration is compatible with. This helps avoid breakage
+    # when a new Home Manager release introduces backwards
+    # incompatible changes.
+    #
+    # You can update Home Manager without changing this value. See
+    # the Home Manager release notes for a list of state version
+    # changes in each release.
+    home.stateVersion = "23.11";
+
+    # Let Home Manager install and manage itself.
+    programs.home-manager.enable = true;
+  }
+  '';
 }

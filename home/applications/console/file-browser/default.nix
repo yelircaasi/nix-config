@@ -5,8 +5,8 @@
   ...
 }: {
   imports = [
-    ./broot
-    ./pazi
-    ./zoxide
+    ./nnn
+    ./xplr
+    ./yazi
   ];
 }

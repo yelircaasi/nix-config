@@ -20,7 +20,7 @@ in {
   programs.starship = {
     enable = true;
     # Configuration written to ~/.config/starship.toml
-    settings = {};
+    settings = {}; #TODO
   };
 
   programs.bash.enable = true;
@@ -33,6 +33,8 @@ in {
   # home.shellAliases = {
   programs.bash.shellAliases = {
     c = "clear";
+    cs = "/home/isaac/repos/consilium/.venv/bin/consilium";
+    consilium = "/home/isaac/repos/consilium/.venv/bin/consilium";
     g = "git status";
     ga = "git add .";
     gs = "git status";
@@ -44,19 +46,8 @@ in {
     source ${mypkgs.forgit}/forgit.plugin.sh
   '';
 
-  #home.file."./.bashrc".source = ./bashrc;
-
   home.packages = with pkgs; [
     bashInteractive
     starship
-    #glibc
   ];
-
-  # Enable home-manager and git
-  programs.home-manager.enable = true;
-
-  # Nicely reload system units when changing configs
-  systemd.user.startServices = "sd-switch";
-
-  # xdg.configFile."kanata/kanata.kbd".source = .../. + ./nixos/components/input/kanata/kanata.kbd ;
 }

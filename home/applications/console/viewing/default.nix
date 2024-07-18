@@ -5,8 +5,9 @@
   ...
 }: {
   imports = [
-    ./broot
-    ./pazi
-    ./zoxide
+    ./bat
+    ./eza
+    ./ov
+    ./tre-command
   ];
 }

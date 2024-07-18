@@ -10,7 +10,7 @@
     units
 
     # miscellaneous dev tools
-    # dtool # failed to build - TODO
+    dtool # failed to build - TODO
 
     # date
     dateutils

@@ -35,18 +35,23 @@
     path = "${config.xdg.configHome}/azure/.envrc";
     format = "binary";
   };
-  sops.secrets.matrixCommander = {
-    sopsFile = ./matrix_commander_credentials.json;
+  sops.secrets.matrixCredentials = {
+    sopsFile = ./matrix_credentials.txt;
     path = "${config.xdg.configHome}/matrix-commander/credentials.json";
     format = "binary";
   };
+  # sops.secrets.matrixCommander = {
+  #   sopsFile = ./matrix_commander_credentials.json;
+  #   path = "${config.xdg.configHome}/matrix-commander/credentials.json";
+  #   format = "binary";
+  # };
   sops.secrets.gdrive3Account = {
-    sopsFile = ./gdrive3_account.json;
+    sopsFile = ./gdrive3_account.txt;
     path = "${config.xdg.configHome}/gdrive3/account.json";
     format = "binary";
   };
   sops.secrets.gdrive3Secret = {
-    sopsFile = ./gdrive3_secret.json;
+    sopsFile = ./gdrive3_secret.txt;
     path = "${config.xdg.configHome}/gdrive3/isaac.r.riley@gmail.com/secret.json";
     format = "binary";
   };

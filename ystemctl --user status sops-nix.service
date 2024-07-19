@@ -1,0 +1,186 @@
+Jul 19 13:44:11 nixos-hank systemd[1845]: Starting sops-nix activation...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 20.[0m
+Jul 19 13:44:11 nixos-hank m1li0ayzbxapyjm23i22nsra2b373crq-sops-nix-user[1864]: /nix/store/3706n52k2v2wqj1iv5ssb6bn4f0xcfzd-sops-install-secrets-0.0.1/bin/sops-install-secrets: failed to decrypt '/nix/store/w2hqfgi5zjibjirihy13dq3zwj1ghpj3-gdrive3_account.json': error emitting binary store: no binary data found in tree
+Jul 19 13:44:11 nixos-hank systemd[1845]: [0;1;39m[0;1;31m[0;1;39msops-nix.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit UNIT has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jul 19 13:44:11 nixos-hank systemd[1845]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msops-nix.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT has entered the 'failed' state with result 'exit-code'.[0m
+Jul 19 13:44:11 nixos-hank systemd[1845]: [0;1;31m[0;1;39m[0;1;31mFailed to start sops-nix activation.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 20 and the job result is failed.[0m
+Jul 19 13:48:03 nixos-hank systemd[1845]: Starting sops-nix activation...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 203.[0m
+Jul 19 13:48:03 nixos-hank m1li0ayzbxapyjm23i22nsra2b373crq-sops-nix-user[28801]: /nix/store/3706n52k2v2wqj1iv5ssb6bn4f0xcfzd-sops-install-secrets-0.0.1/bin/sops-install-secrets: failed to decrypt '/nix/store/w2hqfgi5zjibjirihy13dq3zwj1ghpj3-gdrive3_account.json': error emitting binary store: no binary data found in tree
+Jul 19 13:48:03 nixos-hank systemd[1845]: [0;1;39m[0;1;31m[0;1;39msops-nix.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit UNIT has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jul 19 13:48:03 nixos-hank systemd[1845]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msops-nix.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT has entered the 'failed' state with result 'exit-code'.[0m
+Jul 19 13:48:03 nixos-hank systemd[1845]: [0;1;31m[0;1;39m[0;1;31mFailed to start sops-nix activation.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 203 and the job result is failed.[0m
+Jul 19 14:16:03 nixos-hank systemd[1845]: Starting sops-nix activation...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 232.[0m
+Jul 19 14:16:03 nixos-hank m1li0ayzbxapyjm23i22nsra2b373crq-sops-nix-user[55432]: /nix/store/3706n52k2v2wqj1iv5ssb6bn4f0xcfzd-sops-install-secrets-0.0.1/bin/sops-install-secrets: failed to decrypt '/nix/store/w2hqfgi5zjibjirihy13dq3zwj1ghpj3-gdrive3_account.json': error emitting binary store: no binary data found in tree
+Jul 19 14:16:03 nixos-hank systemd[1845]: [0;1;39m[0;1;31m[0;1;39msops-nix.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit UNIT has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jul 19 14:16:03 nixos-hank systemd[1845]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msops-nix.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT has entered the 'failed' state with result 'exit-code'.[0m
+Jul 19 14:16:03 nixos-hank systemd[1845]: [0;1;31m[0;1;39m[0;1;31mFailed to start sops-nix activation.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 232 and the job result is failed.[0m
+Jul 19 14:20:08 nixos-hank systemd[1845]: Starting sops-nix activation...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 261.[0m
+Jul 19 14:20:08 nixos-hank m1li0ayzbxapyjm23i22nsra2b373crq-sops-nix-user[81160]: /nix/store/3706n52k2v2wqj1iv5ssb6bn4f0xcfzd-sops-install-secrets-0.0.1/bin/sops-install-secrets: failed to decrypt '/nix/store/w2hqfgi5zjibjirihy13dq3zwj1ghpj3-gdrive3_account.json': error emitting binary store: no binary data found in tree
+Jul 19 14:20:08 nixos-hank systemd[1845]: [0;1;39m[0;1;31m[0;1;39msops-nix.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit UNIT has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jul 19 14:20:08 nixos-hank systemd[1845]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msops-nix.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT has entered the 'failed' state with result 'exit-code'.[0m
+Jul 19 14:20:08 nixos-hank systemd[1845]: [0;1;31m[0;1;39m[0;1;31mFailed to start sops-nix activation.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 261 and the job result is failed.[0m
+Jul 19 14:29:33 nixos-hank systemd[1845]: Starting sops-nix activation...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 290.[0m
+Jul 19 14:29:33 nixos-hank m1li0ayzbxapyjm23i22nsra2b373crq-sops-nix-user[83849]: /nix/store/3706n52k2v2wqj1iv5ssb6bn4f0xcfzd-sops-install-secrets-0.0.1/bin/sops-install-secrets: failed to decrypt '/nix/store/w2hqfgi5zjibjirihy13dq3zwj1ghpj3-gdrive3_account.json': error emitting binary store: no binary data found in tree
+Jul 19 14:29:33 nixos-hank systemd[1845]: [0;1;39m[0;1;31m[0;1;39msops-nix.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit UNIT has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jul 19 14:29:33 nixos-hank systemd[1845]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msops-nix.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT has entered the 'failed' state with result 'exit-code'.[0m
+Jul 19 14:29:33 nixos-hank systemd[1845]: [0;1;31m[0;1;39m[0;1;31mFailed to start sops-nix activation.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 290 and the job result is failed.[0m
+Jul 19 14:35:31 nixos-hank systemd[1845]: Starting sops-nix activation...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 411.[0m
+Jul 19 14:35:31 nixos-hank m1li0ayzbxapyjm23i22nsra2b373crq-sops-nix-user[84691]: /nix/store/3706n52k2v2wqj1iv5ssb6bn4f0xcfzd-sops-install-secrets-0.0.1/bin/sops-install-secrets: failed to decrypt '/nix/store/w2hqfgi5zjibjirihy13dq3zwj1ghpj3-gdrive3_account.json': error emitting binary store: no binary data found in tree
+Jul 19 14:35:31 nixos-hank systemd[1845]: [0;1;39m[0;1;31m[0;1;39msops-nix.service: Main process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit UNIT has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jul 19 14:35:31 nixos-hank systemd[1845]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msops-nix.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT has entered the 'failed' state with result 'exit-code'.[0m
+Jul 19 14:35:31 nixos-hank systemd[1845]: [0;1;31m[0;1;39m[0;1;31mFailed to start sops-nix activation.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 411 and the job result is failed.[0m

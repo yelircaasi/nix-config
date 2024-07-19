@@ -1,0 +1,61 @@
+@define-color black #000800;
+@define-color maroon #3f0d08;
+@define-color green #246b44;
+@define-color olive #b7b076;
+@define-color navy #13446c;
+@define-color purple #6f006f;
+@define-color teal #1e87db;
+@define-color silver #9a9a9a;
+
+@define-color grey #002000;
+@define-color red #51110b;
+@define-color lime #3cb371;
+@define-color yellow #d0c98f;
+@define-color blue #426989;
+@define-color fuchsia #a233a2;
+@define-color aqua #37a1f4;
+@define-color white #cdcdcd;
+
+* {
+    background-color: @black;
+    color: @silver;
+    border-color: @grey;
+}
+
+button {
+    background-color: @green;
+    color: @white;
+}
+
+button:hover {
+    background-color: @lime;
+}
+
+entry {
+    background-color: @navy;
+    color: @silver;
+    border-color: @blue;
+}
+
+entry:hover {
+    background-color: @blue;
+}
+
+header-bar {
+    background-color: @purple;
+    color: @white;
+}
+
+header-bar.titlebar {
+    background-color: @fuchsia;
+    color: @white;
+}
+
+window {
+    background-color: @black;
+    color: @silver;
+}
+
+window frame {
+    border-color: @olive;
+}

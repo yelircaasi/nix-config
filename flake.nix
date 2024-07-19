@@ -38,7 +38,7 @@
         compositors = ["hyprland"];
         terminalEmulators = ["kitty" "wezterm" "foot"];
         editors = ["neovim"];
-        browsers = ["nyxt" "qutebrowser" "ungoogle-chromium" "vieb" "firefox"];
+        browsers = ["nyxt" "qutebrowser" "ungoogled-chromium" "vieb" "firefox"];
         desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
         desktopEnvironments = [];
         consoleSet = "maximal";

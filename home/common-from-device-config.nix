@@ -58,7 +58,7 @@ in {
     (listIfIn "wezterm" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/wezterm)
     (listIfIn "nyxt" deviceConfig.browsers ./applications/gui/browser/nyxt)
     (listIfIn "qutebrowser" deviceConfig.browsers ./applications/gui/browser/qutebrowser)
-    (listIfIn "ungoogle-chromium" deviceConfig.browsers ./applications/gui/browser/ungoogled-chromium)
+    (listIfIn "ungoogled-chromium" deviceConfig.browsers ./applications/gui/browser/ungoogled-chromium)
     (listIfIn "vieb" deviceConfig.browsers ./applications/gui/browser/vieb)
     (listIfIn "firefox" deviceConfig.browsers ./applications/gui/browser/firefox)
   ];

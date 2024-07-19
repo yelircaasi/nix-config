@@ -1,0 +1,63 @@
+:root {
+    --black: #000800;
+    --maroon: #3f0d08;
+    --green: #246b44;
+    --olive: #b7b076;
+    --navy: #13446c;
+    --purple: #6f006f;
+    --teal: #1e87db;
+    --silver: #9a9a9a;
+
+    --grey: #002000;
+    --red: #51110b;
+    --lime: #3cb371;
+    --yellow: #d0c98f;
+    --blue: #426989;
+    --fuchsia: #a233a2;
+    --aqua: #37a1f4;
+    --white: #cdcdcd;
+}
+
+* {
+    background-color: var(--black);
+    color: var(--silver);
+    border-color: var(--grey);
+}
+
+button {
+    background-color: var(--green);
+    color: var(--white);
+}
+
+button:hover {
+    background-color: var(--lime);
+}
+
+entry {
+    background-color: var(--navy);
+    color: var(--silver);
+    border-color: var(--blue);
+}
+
+entry:hover {
+    background-color: var(--blue);
+}
+
+headerbar {
+    background-color: var(--purple);
+    color: var(--white);
+}
+
+headerbar.titlebar {
+    background-color: var(--fuchsia);
+    color: var(--white);
+}
+
+window {
+    background-color: var(--black);
+    color: var(--silver);
+}
+
+window frame {
+    border-color: var(--olive);
+}

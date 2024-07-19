@@ -13,7 +13,7 @@
 
   splitFileString = splitFileStringParametrized "(<[|] [[:alnum:]_\\.]* [|]>)";
 
-  splitFileStringConsumeQuotes = splitFileStringParametrized "('<[|] [[:alnum:]_\\.]* [|]>')";
+  splitFileStringConsumeQuotes = splitFileStringParametrized ''("<[|] [[:alnum:]_\\.]* [|]>")'';
 
   getMatches = splitList: b.map b.head (filterMatches splitList);
 

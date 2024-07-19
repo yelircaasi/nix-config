@@ -1,63 +1,446 @@
-:root {
-    --black: #000800;
-    --maroon: #3f0d08;
-    --green: #246b44;
-    --olive: #b7b076;
-    --navy: #13446c;
-    --purple: #6f006f;
-    --teal: #1e87db;
-    --silver: #9a9a9a;
+/* USE THE  "GTK_DEBUG=interactive xfce4-panel" command in the terminal to get
+all your plugin classes before creating your gtk.css*/
 
-    --grey: #002000;
-    --red: #51110b;
-    --lime: #3cb371;
-    --yellow: #d0c98f;
-    --blue: #426989;
-    --fuchsia: #a233a2;
-    --aqua: #37a1f4;
-    --white: #cdcdcd;
+/* MyColors */
+
+/*
+color expression〉 = lighter( 〈color〉 ) | darker( 〈color〉 ) |
+shade( 〈color〉, 〈number〉 ) | alpha( 〈color〉, 〈number〉 ) |
+mix( 〈color〉, 〈color〉, 〈number〉 )
+ */
+
+/* BACKGROUNDS */
+@define-color bg-menu-item-hover alpha(#B6B6B6, 0.4);
+
+/* panel-bg */
+@define-color panel-bg alpha(#f9e,0.00);
+/* panel-bg */
+
+/* pager-background */
+@define-color pager-bg-still alpha(#9048FF, 0.4);
+@define-color pager-bg-hover-checked alpha(#F83333, 0.4);
+@define-color pager-bg-selected alpha(#FF0000, 0.2);
+@define-color wnck-bg-hover alpha(#9048FF, 0.4);
+/* pager-background */
+
+/* power-manager-background */
+@define-color power-manager-bg alpha(#9049FF, 0.5);
+/* power-manager-background */
+
+/* BACKGROUNDS */
+
+/*BUTTONS*/
+/* pager-color */
+@define-color pager-bt-color alpha(#F83333, 1.0);
+@define-color pager-bt-hover alpha(#00FF05,1.0 );
+@define-color pager-bt-checked alpha(#00FFFF, 1.0);
+/* pager-color */
+
+/* pulseaudio-button-colors */
+@define-color pulseaudio-bt-checked alpha(#f9e, 0.7);
+@define-color pulseaudio-bt-hover alpha(#f9e, 0.5);
+@define-color pulseaudio-bt-color alpha(#ff36d9, 0.9);
+@define-color pulseaudio-bt-bg alpha(#9048FF, 0.5);
+
+@define-color pulseaudio-bt-scale-color alpha(#ff36d9, 1.0);
+@define-color pulseaudio-bt-switch-color alpha(#ff36d9, 1.0);
+/* pulseaudio-button-colors */
+
+/* clock-button-colors */
+@define-color clock-bt-bg-color alpha(#F83333, 0.5);
+@define-color clock-bt-color alpha(#00FFF5, 1.0);
+@define-color clock-bt-hover alpha(#ff36d9, 0.5);
+@define-color clock-bt-checked alpha(#a4e7fe, 1.0);
+/* clock-button-colors */
+
+/* power-manager-button-colors */
+@define-color power-manager-bt alpha(#00FF05, 0.7);
+@define-color power-manager-bt-hover alpha(#ff36d9, 0.5);
+@define-color power-manager-bt-checked alpha(#a4e7fe, 0.5);
+/* power-manager-button-colors */
+
+/* notification-plugin-colors */
+@define-color notification-pl-bt-checked alpha(#ff36d9, 0.5);
+@define-color notification-pl-bt-hover alpha(#a4e7fe, 0.5);
+@define-color notification-bt-bg alpha(#9048FF, 0.5);
+@define-color notification-bt-color alpha(#d05c18, 0.7);
+/* notification-plugin-colors */
+
+/* systray-button-colors */
+@define-color systray-bt-checked alpha(#ff36d9, 0.5);
+@define-color systray-bt-hover alpha(#a4e7fe, 0.5);
+@define-color systray-bt-bg alpha(#9048FF, 0.5);
+@define-color systray-bt-color alpha(#0687d4, 1.0);
+/* systray-button-colors */
+
+/* launchers */
+@define-color launcher-colors-bg-checked alpha(#ff36d9, 0.5);
+@define-color launcher-colors-bg-hover alpha(#a4e7fe, 0.5);
+@define-color launcher-colors-bg alpha(#9048FF, 0.5);
+@define-color launcher-colors-bt alpha(#0687d4, 1.0);
+/* launchers */
+
+/* keyboard-layout */
+@define-color keyboard-bt alpha(#ff36d9, 1.0);
+@define-color keyboard-bg alpha(#44106e, 0.6);
+@define-color keyboard-bg-hover alpha(#a4e7fe, 0.5);
+@define-color keyboard-bg-checked alpha(#9048FF, 0.5);
+/* keyboard-layout */
+
+/* whiskermenu-button-colors */
+@define-color whiskermenu-bt-checked alpha(#ff36d9, 0.5);
+@define-color whiskermenu-bt-hover alpha(#00FFF5, 0.5);
+/* whiskermenu-button-colors */
+
+/*tasklist button*/
+@define-color tasklist-bt-hover alpha(#00FFF5, 0.5);
+@define-color tasklist-bt-checked alpha(#F83333, 0.7);
+@define-color tasklist-bt-bg-color alpha(#9048FF, 0.4);
+/*tasklist button*/
+
+
+/*BUTTONS*/
+
+/*       */
+@define-color dark-gray-60 alpha(#242424,0.60);
+@define-color soft-purple alpha(#9048FF, 0.4);
+@define-color soft-red-40 alpha(#F83333, 0.4);
+@define-color vivid-red alpha(#F83333, 1.0);
+@define-color bright-green alpha(#00FF05,1.0 );
+@define-color bright-cyan alpha(#00FFFF, 1.0);
+/*       */
+
+/* MyColors */
+
+/* xfce4-panel */
+.xfce4-panel {
+    border-radius: 180px;
+    border-color: transparent;
+    color: transparent;
+    background-color: @panel-bg;
+}
+/* Panelbar tasklist */
+.tasklist .toggle {
+    background-color: @tasklist-bt-bg-color;
+    color: rgba(0, 0, 0, 0.4); /*number of opened tabs etc.*/
+    margin: 1px;
+    border-radius: 35px;
+}
+.tasklist button:hover {
+    /* border-image: image(white) 0 0 2/0 0 2px; */
+    /* border-color: ; */
+	background-color: @tasklist-bt-hover;
 }
 
-* {
-    background-color: var(--black);
-    color: var(--silver);
-    border-color: var(--grey);
+.tasklist button:checked {
+	  background-color: @tasklist-bt-checked;
 }
 
-button {
-    background-color: var(--green);
-    color: var(--white);
+.tasklist button:focus {
+    background-color: cyan;
 }
 
-button:hover {
-    background-color: var(--lime);
+.tasklist button image {
+    padding: 2px 2px 2px 2px;
+}
+/* Panelbar tasklist */
+
+.background menuitem:hover {
+    background: @bg-menu-item-hover;
+}
+/* xfce4-panel */
+
+/* Whisker Menu panel button. */
+
+ #whiskermenu-button {
+   padding: 1px 1px 1px 1px;
+   margin: 1px;
+   background-color: transparent;
+   border-radius: 180px;
+   border-top-left-radius: 35px;
+   border-top-right-radius: 35px;
+   border-bottom-left-radius: 35px;
+   border-bottom-right-radius: 35px;
+ }
+ #whiskermenu-button:checked {
+   background-color: @whiskermenu-bt-checked;
+ }
+ #whiskermenu-button:hover {
+   background-color: @whiskermenu-bt-hover;
+ }
+ #whiskermenu-button image {
+     padding: 1px 1px 1px 1px;
+     margin: 1px;
+     -gtk-icon-transform:scale(1.25);
+
+ }
+/* Whisker Menu panel button. */
+
+/*CLOCK BUTTON*/
+#clock-button{
+    background-color: @clock-bt-bg-color;
+    /* margin: 2px; */
+    margin-left: 1px;
+    margin-right: 1px;
+    padding: 3px 3px 3px 3px;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    /* border-radius: 15px; */
+    color: @clock-bt-color;
 }
 
-entry {
-    background-color: var(--navy);
-    color: var(--silver);
-    border-color: var(--blue);
+#clock-button:hover {
+    background-color: @clock-bt-hover;
 }
 
-entry:hover {
-    background-color: var(--blue);
+#clock-button:checked{
+    box-shadow: none;
+    color: @clock-bt-checked;
+}
+/*CLOCK BUTTON*/
+
+/*PULSE AUDIO BUTTON*/
+#pulseaudio-button menu {
+    color: cyan;
+    border-color: red;
 }
 
-headerbar {
-    background-color: var(--purple);
-    color: var(--white);
+#pulseaudio-button:hover{
+    background-color: @pulseaudio-bt-hover;
 }
 
-headerbar.titlebar {
-    background-color: var(--fuchsia);
-    color: var(--white);
+#pulseaudio-button:checked {
+    box-shadow: none;
+    color: @pulseaudio-bt-checked;
 }
 
-window {
-    background-color: var(--black);
-    color: var(--silver);
+#pulseaudio-button {
+    background-color: @pulseaudio-bt-bg;
+    color: @pulseaudio-bt-color;
+    border-color: cyan;
+    margin: 1px;
+    /* margin-top: 2px; */
+    /* margin-left: 1px; */
+    /* margin-right: 1px; */
+    padding: 1px 1px 1px 1px;
+    border-radius: 35px;
 }
 
-window frame {
-    border-color: var(--olive);
+
+#pulseaudio-button scale {
+    color: @pulseaudio-bt-scale-color;
 }
+
+#pulseaudio-button switch {
+    color: @pulseaudio-bt-switch-color;
+}
+
+/* TODO */
+#pulseaudio-button trough {
+    color: green;
+    border-color: olivedrab;
+}
+/* TODO */
+#pulseaudio-button slider {
+    color: yellow;
+    border-color: olivedrab;
+}
+/* #pulseaudio-button menuitem:hover { background: # ; } */
+/*PULSE AUDIO BUTTON*/
+
+/* Panelbar workspace switcher */
+wnck-pager:selected {
+    background-color: @pager-bg-hover-checked;
+}
+
+wnck-pager:hover {
+    background-color: @wnck-bg-hover;
+}
+
+wnck-pager {
+    margin: 1px;
+    padding: 1px 1px 1px 1px;
+}
+
+widget grid button.flat.toggle {
+    background-color: @pager-bg-still;
+    color: @pager-bt-color;
+    border-radius: 50%;
+    border-style: none;
+    min-width: 2rem;
+    margin: 1px;
+    padding: 1px 1px 1px 1px;
+}
+
+widget grid button.flat.toggle:hover {
+    color: @pager-bt-hover;
+    background-color: @pager-bg-hover-checked;
+}
+
+widget grid button.flat.toggle:checked {
+    color: @pager-bt-checked;
+    background-color: @pager-bg-hover-checked;
+}
+/* Panelbar workspace switcher */
+
+/* power-manager */
+#xfce4-power-manager-plugin {
+	background-color: @power-manager-bg;
+    color: @power-manager-bt;
+	margin: 1px;
+    padding: 1px 1px 1px 1px;
+	border-radius: 35px;
+}
+#xfce4-power-manager-plugin:hover {
+    background-color: @power-manager-bt-hover;
+}
+#xfce4-power-manager-plugin:checked {
+    background-color: @power-manager-bt-checked;
+}
+/* #xfce4-power-manager-plugin image { */
+/* 	-gtk-icon-transform: rotate(90deg) translateY(-1px); */
+/* } */
+/* power-manager */
+
+/* notification-plugin */
+ #xfce4-notification-plugin {
+   background-color: @notification-bt-bg;
+   color: @notification-bt-color;
+   margin: 1px;
+   border-radius: 35px;
+   padding: 1px 1px 1px 1px;
+   }
+ #xfce4-notification-plugin:hover {
+    background-color: @notification-pl-bt-hover;
+ }
+ #xfce4-notification-plugin:checked {
+    background-color: @notification-pl-bt-checked;
+ }
+/* notification-plugin */
+
+/* systray-sn */
+#systray-6 box {
+    background-color: transparent;
+    color: transparent;
+    padding: 0px 0px 0px 1px;
+    margin: 0.5px;
+}
+#sn-button {
+    background-color: @systray-bt-bg;
+    color: @systray-bt-color;
+    margin-bottom: 1.75px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 2rem;
+}
+#sn-button:hover{
+    background-color: @systray-bt-hover;
+}
+#sn-button:checked{
+    background-color: @systray-bt-checked;
+}
+/* systray-sn */
+
+
+
+/* Keyboard layouts plugin */
+#xkb-32 button {
+    background-color: @keyboard-bg;
+    color: @keyboard-bt;
+    padding: 3px;
+    margin: 1px;
+    border-radius: 35px;
+}
+#xkb-32 button:hover {
+    background-color: @keyboard-bg-hover;
+}
+#xkb-32 button:checked {
+    background-color: @keyboard-bg-checked;
+}
+/* Keyboard layouts plugin */
+
+/* Trash */
+#thunar-tpa-40 #xfce-panel-button {
+    background-color: @launcher-colors-bg;
+    color: @launcher-colors-bt;
+    margin: 1px;
+    padding: 1px 1px 1px 1px;
+    border-radius: 35px;
+}
+#thunar-tpa-40 #xfce-panel-button:checked {
+    background-color: @launcher-colors-bg-checked;
+}
+
+#thunar-tpa-40 #xfce-panel-button:hover {
+    background-color: @launcher-colors-bg-hover;
+}
+/* Trash */
+
+/* #screenshooter */
+#screenshooter-21 #xfce-panel-button {
+    background-color: @launcher-colors-bg;
+    color: @launcher-colors-bt;
+    margin: 1px;
+    padding: 1px 1px 1px 1px;
+    border-radius: 35px;
+}
+#screenshooter-21 #xfce-panel-button:checked {
+    background-color: @launcher-colors-bg-checked;
+}
+
+#screenshooter-21 #xfce-panel-button:hover {
+    background-color: @launcher-colors-bg-hover;
+}
+/* #screenshooter */
+
+
+/* actions */
+#actions-14 #xfce-panel-button {
+    background-color: @launcher-colors-bg;
+    color: @launcher-colors-bt;
+    margin: 1px;
+    padding: 1px 1px 1px 1px;
+    border-radius: 35px;
+}
+#actions-14 #xfce-panel-button:checked {
+    background-color: @launcher-colors-bg-checked;
+}
+#actions-14 #xfce-panel-button:hover {
+    background-color: @launcher-colors-bg-hover;
+}
+/* actions */
+
+/* showdesktop */
+#showdesktop-13 button {
+    background-color: @launcher-colors-bg;
+    color: @launcher-colors-bt;
+    margin: 1px;
+    padding: 1px 1px 1px 1px;
+    border-radius: 35px;
+}
+#showdesktop-13 #xfce-panel-button:checked {
+    background-color: @launcher-colors-bg-checked;
+}
+#showdesktop-13 #xfce-panel-button:hover {
+    background-color: @launcher-colors-bg-hover;
+}
+/* showdesktop */
+
+
+/* Launchers */
+#launcher-37 #launcher-arrow {
+    background-color: @launcher-colors-bg;
+    color: @launcher-colors-bt;
+    margin: 1px;
+    padding: 1px 1px 1px 1px;
+    border-radius: 35px;
+}
+#launcher-37 #launcher-arrow:checked {
+    background-color: @launcher-colors-bg-checked;
+}
+
+#launcher-37 #launcher-arrow:hover {
+    background-color: @launcher-colors-bg-hover;
+}
+/* Launchers */

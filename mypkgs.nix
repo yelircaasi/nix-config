@@ -41,8 +41,6 @@ in {
       platforms = platforms.all;
     };
   };
-
-
   ansiweather = {
     #TODO
 
@@ -74,7 +72,6 @@ in {
       description = "Cleans up your $HOME from those pesky dotfiles";
       license = licenses.mit;
       platforms = platforms.all;
-      # maintainers = with maintainers; [  ];
     };
   };
   binary-clock = {

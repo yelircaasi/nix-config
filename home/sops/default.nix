@@ -11,18 +11,51 @@
   ];
 
   sops.defaultSopsFile = ./secrets.json;
-  sops.defaultSopsFormat = "yaml";
-  sops.age.keyFile = "/home/isaac/.config/sops/age/keys.txt";
+  sops.defaultSopsFormat = "json";
+  sops.age.keyFile = "${config.xdg.configHome}/sops/age/keys.txt";
 
   sops.secrets.example_key = {
     # owner = "isaac";
     path = "/home/isaac/Downloads/test.txt";
   };
-  sops.secrets.azure = {
-    sopsFile = ./azure.sh;
-    path = "/home/isaac/.config/azure/.envrc";
+  sops.secrets.poetryAuth = {
+    # owner = "isaac";
+    sopsFile = ./poetry_auth.toml;
+    path = "${config.xdg.configHome}/pypoetry/auth.toml";
     format = "binary";
   };
+  sops.secrets.poetryConfig = {
+    # owner = "isaac";
+    sopsFile = ./poetry_config.toml;
+    path = "${config.xdg.configHome}/pypoetry/config.toml";
+    format = "binary";
+  };
+  sops.secrets.azure = {
+    sopsFile = ./azure.sh;
+    path = "${config.xdg.configHome}/azure/.envrc";
+    format = "binary";
+  };
+  sops.secrets.matrixCommander = {
+    sopsFile = ./matrix_commander_credentials.json;
+    path = "${config.xdg.configHome}/matrix-commander/credentials.json";
+    format = "binary";
+  };
+  sops.secrets.gdrive3Account = {
+    sopsFile = ./gdrive3_account.json;
+    path = "${config.xdg.configHome}/gdrive3/account.json";
+    format = "binary";
+  };
+  sops.secrets.gdrive3Secret = {
+    sopsFile = ./gdrive3_secret.json;
+    path = "${config.xdg.configHome}/gdrive3/isaac.r.riley@gmail.com/secret.json";
+    format = "binary";
+  };
+  sops.secrets.gdrive3Tokens = {
+    sopsFile = ./gdrive3_tokens.txt;
+    path = "${config.xdg.configHome}/gdrive3/isaac.r.riley@gmail.com/tokens.json";
+    format = "binary";
+  };
+
   # sops.secrets."myservice/hello/my-secret" = {};
   /*
   systemd.services."sometestservice" = {

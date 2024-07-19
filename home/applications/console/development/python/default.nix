@@ -14,15 +14,18 @@
         pandas
         mypkgs.matplotlib-backend-wezterm
       ]))
-      poetry
-      
-      black
-      mypy
-      isort
+    poetry
+
+    black
+    mypy
+    isort
   ];
   programs.matplotlib = {
     enable = true;
-    config = let bg = ''"#000a00"''; fg = ''"#808080"''; in {
+    config = let
+      bg = ''"#000a00"'';
+      fg = ''"#808080"'';
+    in {
       lines.color = fg;
       patch.edgecolor = fg;
 
@@ -59,6 +62,7 @@
         import matplotlib.pyplot as plt
         matplotlib.use("module://matplotlib-backend-wezterm")
   '';
+  
 }
 # Set black background default line colors to white.
 

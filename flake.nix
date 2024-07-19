@@ -59,11 +59,11 @@
         defaultShell = "bash";
         otherShells = ["bash"];
         compositors = ["hyprland"];
-        terminalEmulators = ["kitty" "wezterm" "foot"];
         editors = ["neovim"];
         browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
         desktopEnvironments = [];
         desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
+        terminalEmulators = ["wezterm"];
         consoleSet = "maximal";
         nvidia = false;
         pipewire = true;
@@ -85,7 +85,7 @@
         otherShells = ["bash"];
         compositors = ["hyprland"];
         editors = ["neovim"];
-        browsers = ["nyxt" "qutebrowser" "ungoogle-chromium" "vieb" "firefox"];
+        browsers = ["nyxt" "qutebrowser" "ungoogled-chromium" "vieb" "firefox"];
         desktopEnvironments = [];
         desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
         terminalEmulators = ["wezterm"];

@@ -10,8 +10,11 @@
     ./common
     ./common-from-device-config.nix
 
-    ./desktop-environment/widgets/bar/waybar
-    ./desktop-environment/launcher/fuzzel
+    # ./desktop-environment/widgets/bar/waybar
+    # ./desktop-environment/launcher/fuzzel
+    ./sops
+    ./applications/gui/editor-and-ide/vscode
+    
   ];
 
   nixpkgs = {

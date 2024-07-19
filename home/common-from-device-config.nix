@@ -38,6 +38,7 @@ in {
       ./applications/console/quality-of-life
       ./applications/console/search
       ./applications/console/shell
+      ./applications/console/timer-clock
       ./applications/console/viewing
 
       ./applications/gui/media/editing
@@ -56,6 +57,7 @@ in {
 
     (listIfIn "neovim" deviceConfig.editors ./applications/console/neovim)
     (listIfIn "wezterm" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/wezterm)
+    (listIfIn "termonad" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/termonad)
     (listIfIn "nyxt" deviceConfig.browsers ./applications/gui/browser/nyxt)
     (listIfIn "qutebrowser" deviceConfig.browsers ./applications/gui/browser/qutebrowser)
     (listIfIn "ungoogled-chromium" deviceConfig.browsers ./applications/gui/browser/ungoogled-chromium)

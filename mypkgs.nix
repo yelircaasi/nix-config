@@ -14,6 +14,71 @@
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
   buildPythonPackage = pkgs.python3Packages.buildPythonPackage;
 in {
+  tinycare-tui = buildGoModule rec {
+    pname = "tinycare-tui";
+    version = "v1.1";
+
+    src = fetchFromGitHub {
+      owner = "DMcP89";
+      repo = pname;
+      rev = "af53393fd914159131cb210eddd4383112035b8b";
+      sha256 = "sha256-zPiTqgjvmH0Yfbj6OKB1yEz2s2tQmF2DgoZz586+s3Y=";
+    };
+
+    vendorHash = "sha256-8rufuxBThIdaTl6HfzbxHDx1Dk0fKNz9XVDlma1RU2Q=";
+    doCheck = false;
+
+    meta = with lib; {
+      homepage = "https://github.com/DMcP89/tinycare-tui";
+      description = "TUI application written in GO inspired by tiny-care-terminal";
+      platforms = platforms.all;
+    };
+  };
+
+  mdtt = buildGoModule rec {
+    pname = "mdtt";
+    version = "v0.2.1";
+
+    src = fetchFromGitHub {
+      owner = "szktkfm";
+      repo = pname;
+      rev = version;
+      sha256 = "sha256-OFS/ZhXdvdmlpfCNutsvlhMv1krFlx4Xju8RSl3GS2s=";
+    };
+
+    vendorHash = "sha256-sEdDfQnBaqQ/pBubYT0sWMaC3tyi0g/dIfUsrHYrA+Q=";
+    doCheck = false;
+
+    meta = with lib; {
+      homepage = "https://github.com/szktkfm/mdtt";
+      description = "Markdown Table Editor TUI";
+      license = licenses.mit;
+      platforms = platforms.all;
+    };
+  };
+
+  reader = buildGoModule rec {
+    pname = "reader";
+    version = "v0.4.5";
+
+    src = fetchFromGitHub {
+      owner = "mrusme";
+      repo = pname;
+      rev = version;
+      sha256 = "sha256-9hZ7ZS+p6PoLKcuHS2re537wxojN2SzhOm5gBuRX9Xc=";
+    };
+
+    vendorHash = "sha256-obYdifg3WrTyxgN/VtzgpL31ZOyPNtVT8UDQts0WodQ=";
+
+    doCheck = false;
+
+    meta = with lib; {
+      homepage = "https://github.com/mrusme/reader";
+      description = "reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI. ";
+      license = licenses.gpl3;
+      platforms = platforms.all;
+    };
+  };
   matplotlib-backend-wezterm = buildPythonPackage rec {
     pname = "matplotlib-backend-wezterm";
     version = "2.1.2";

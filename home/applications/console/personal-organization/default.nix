@@ -8,5 +8,6 @@
     ./notes.nix
     ./tasks.nix
     ./time-tracking.nix
+    ./miscellaneous.nix
   ];
 }

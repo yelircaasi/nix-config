@@ -4,6 +4,7 @@
     ./compression-decompression
     ./html
     ./json
+    ./markdown
     ./pdf
     ./spreadsheet
   ];

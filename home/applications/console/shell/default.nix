@@ -18,9 +18,14 @@ in {
     ++ (resolveShellImport deviceConfig));
 
   programs.starship = {
-    enable = true;
-    # Configuration written to ~/.config/starship.toml
-    settings = {}; #TODO
+    enable = deviceConfig.prompt == "starship";
+    # https://mynixos.com/home-manager/options/programs.starship
+    # settings = {}; #TODO
+  };
+  programs.oh-my-posh = {
+    enable = deviceConfig.prompt == "oh-my-posh";
+    # https://mynixos.com/home-manager/options/programs.oh-my-posh
+    # settings = {};
   };
 
   programs.bash.enable = true;

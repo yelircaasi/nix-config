@@ -30,29 +30,6 @@
       additionalModules = [];
     };
     deviceDeclarations = mylib.updateAttrsWith defaultDeclaration {
-      henrique = {
-        name = "henrique";
-        description = "Minimal install ISO for work laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = ["hyprland"];
-        terminalEmulators = ["kitty" "wezterm" "foot"];
-        editors = ["neovim"];
-        browsers = ["nyxt" "qutebrowser" "ungoogled-chromium" "vieb" "firefox"];
-        desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
-        desktopEnvironments = [];
-        consoleSet = "maximal";
-        nvidia = true;
-        pipewire = true;
-        jack = false;
-        networkmanager = true;
-        wayland = true;
-        x11 = true;
-        ssh-server = false;
-        docker = false;
-        podman = false;
-        printing = false;
-      };
       betsy = {
         name = "betsy";
         description = "Personal laptop. Tuxedo Aura 15";
@@ -88,8 +65,9 @@
         browsers = ["nyxt" "qutebrowser" "ungoogled-chromium" "vieb" "firefox"];
         desktopEnvironments = [];
         desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
-        terminalEmulators = ["wezterm"];
+        terminalEmulators = ["wezterm" "termonad"];
         consoleSet = "maximal";
+        prompt = "oh-my-posh";
         nvidia = true;
         pipewire = true;
         jack = false;
@@ -109,6 +87,30 @@
         otherShells = ["bash" "zsh" "fish" "xonsh"];
         compositors = [];
         additionalModules = [];
+      };
+      henrique = {
+        name = "henrique";
+        description = "Minimal install ISO for work laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = ["hyprland"];
+        terminalEmulators = ["kitty" "wezterm" "foot"];
+        editors = ["neovim"];
+        browsers = ["nyxt" "qutebrowser" "ungoogled-chromium" "vieb" "firefox"];
+        desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
+        desktopEnvironments = [];
+        consoleSet = "maximal";
+        prompt = "starship";
+        nvidia = true;
+        pipewire = true;
+        jack = false;
+        networkmanager = true;
+        wayland = true;
+        x11 = true;
+        ssh-server = false;
+        docker = false;
+        podman = false;
+        printing = false;
       };
       jabari = {
         name = "jabari";

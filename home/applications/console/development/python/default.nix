@@ -62,7 +62,6 @@
         import matplotlib.pyplot as plt
         matplotlib.use("module://matplotlib-backend-wezterm")
   '';
-  
 }
 # Set black background default line colors to white.
 

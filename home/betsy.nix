@@ -14,7 +14,6 @@
     # ./desktop-environment/launcher/fuzzel
     ./sops
     ./applications/gui/editor-and-ide/vscode
-    
   ];
 
   nixpkgs = {

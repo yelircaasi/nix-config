@@ -14,6 +14,7 @@
     # cli
     csvq
     csvquote
+    textql
 
     csvkit
     mypkgs.csvtk

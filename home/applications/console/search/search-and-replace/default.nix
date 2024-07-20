@@ -1,12 +1,13 @@
 {
   pkgs,
-  mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
   home.packages = with pkgs; [
-    taplo
-    toml-cli
+    amber
+    sd
+    sad
+    ruplacer
   ];
-  xdg.configFile = {
-  };
 }

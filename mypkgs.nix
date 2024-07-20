@@ -14,7 +14,120 @@
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
   buildPythonPackage = pkgs.python3Packages.buildPythonPackage;
 in {
-  
+
+  xmlq = buildGoModule rec {
+    pname = "xmlq";
+    version = "v1.2.0";
+
+    src = fetchFromGitHub {
+      owner = "adamdecaf";
+      repo = pname;
+      rev = "2f74b4b6efb60c568c4c3b4eaa7929da6ec6cefc";
+      sha256 = "sha256-TU2zYKSl5NiGxW/y9bR4Xui1v4ugHJz080RjYbAtsR4=";
+    };
+
+    vendorHash = "sha256-khVWMKa5ejdKCR9IW20NOOJofodPF/1nErsrIfQXIlU=";
+    doCheck = false;
+
+    meta = with lib; {
+      homepage = "https://github.com/adamdecaf/xmlq";
+      description = "pretty print and mask xml";
+      license = licenses.asl20;
+      platforms = platforms.all;
+    };
+  };
+
+  graphtage = buildPythonPackage rec {
+    pname = "graphtage";
+    version = "0.3.1";
+    format = "setuptools";
+
+    src = fetchFromGitHub {
+      owner = "trailofbits";
+      repo = pname;
+      rev = "refs/tags/v${version}";
+      hash = "sha256-Bz2T8tVdVOdXt23yPITkDNL46Y5LZPhY3SXZ5bF3CHw=";
+    };
+
+    postPatch = ''
+      substituteInPlace setup.py \
+        --replace "json5==0.9.5" "json5>=0.9.5"
+    '';
+
+    propagatedBuildInputs = with pkgs.python311Packages; [
+      colorama
+      intervaltree
+      json5
+      pyyaml
+      scipy
+      tqdm
+      typing-extensions
+      intervaltree
+      numpy
+
+      (buildPythonPackage rec {
+        pname = "fickling";
+        version = "v0.1.4";
+        format = "pyproject";
+
+        src = fetchFromGitHub {
+          owner = "trailofbits";
+          repo = pname;
+          rev = "b967e4dc4a01bd4cc40d936a9399110467ac94f0";
+          hash = "sha256-CCaK40ano/CzYKMAJ/2vjaRhx2GGmB170oLeVyMTNBw=";
+        };
+        buildInputs = with pkgs.python311Packages; [
+          flit-core
+        ];
+        propagatedBuildInputs = with pkgs.python311Packages; [
+          astunparse
+          stdlib-list
+        ];
+
+        meta = with lib; {
+          description = "A Python pickling decompiler and static analyzer";
+          homepage = "https://github.com/trailofbits/fickling";
+          license = licenses.lgpl3Plus;
+        };
+      })
+    ];
+
+    # nativeCheckInputs = [ pytestCheckHook ];
+
+    pythonImportsCheck = ["graphtage"];
+
+    meta = with lib; {
+      description = "Utility to diff tree-like files such as JSON and XML";
+      mainProgram = "graphtage";
+      homepage = "https://github.com/trailofbits/graphtage";
+      changelog = "https://github.com/trailofbits/graphtage/releases/tag/v${version}";
+      license = licenses.lgpl3Plus;
+      maintainers = with maintainers; [veehaitch];
+    };
+  };
+
+  bafi = buildGoModule rec {
+    pname = "bafi";
+    version = "v1.2.0";
+
+    src = fetchFromGitHub {
+      owner = "mmalcek";
+      repo = pname;
+      rev = "9e825874abc26b5c7bc32dc24e74bc2936413206";
+      sha256 = "sha256-mYfnHb6Gin2e+Zjvo87ZzTp1/mnDG42UDl99zncB3O0=";
+    };
+
+    vendorHash = "sha256-Gn0uwB8iFH+WeHT/kMbWaHuprIPncPj0p9bkEXeoRxQ=";
+    doCheck = false;
+
+    meta = with lib; {
+      homepage = "https://github.com/mmalcek/bafi";
+      description = "Universal JSON, BSON, YAML, CSV, XML, mt940 converter with templates";
+      license = licenses.mit;
+      platforms = platforms.all;
+    };
+  };
+
   yamlpath = buildPythonPackage rec {
     pname = "yamlpath";
     version = "3.8.2";

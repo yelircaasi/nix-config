@@ -3,7 +3,7 @@
     ./calculator-conversion-date
     ./compression-decompression
     ./diff
-    ./html
+    ./html-xml
     ./json
     ./markdown
     ./multi-conversion-other

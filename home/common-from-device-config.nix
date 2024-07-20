@@ -35,6 +35,7 @@ in {
       ./applications/console/navigation
       ./applications/console/organization-cleanup
       ./applications/console/personal-organization
+      ./applications/console/presentation
       ./applications/console/quality-of-life
       ./applications/console/search
       ./applications/console/shell

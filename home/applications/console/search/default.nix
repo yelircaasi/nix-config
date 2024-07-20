@@ -5,6 +5,7 @@
   ...
 }: {
   imports = [
+    ./search-and-replace
     ./ack
     ./ast-grep
     ./fd

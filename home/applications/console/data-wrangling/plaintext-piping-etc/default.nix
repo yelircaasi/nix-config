@@ -5,10 +5,18 @@
 }: {
   home.packages = with pkgs; [
     each
-    pipr
     mypkgs.zet
     huniq
+
+    # pipe wrangling
+    pipr
     dt
+    teip
+
+    #cut-like
+    tuc
+    hck
+    choose
   ];
   xdg.configFile = {
   };

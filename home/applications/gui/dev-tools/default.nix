@@ -2,5 +2,4 @@
   home.packages = with pkgs; [
     regextester
   ];
-  
 }

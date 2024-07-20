@@ -5,6 +5,7 @@
     ./html
     ./json
     ./markdown
+    ./plaintext
     ./pdf
     ./spreadsheet
   ];

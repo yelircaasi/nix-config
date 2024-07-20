@@ -14,6 +14,70 @@
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
   buildPythonPackage = pkgs.python3Packages.buildPythonPackage;
 in {
+  zet = buildRustPackage rec {
+    pname = "zet";
+    version = "2024-03-06";
+
+    # nativeBuildInputs = with pkgs; [pkg-config];
+    # buildInputs = with pkgs; [openssl];
+
+    src = fetchFromGitHub {
+      owner = "yarrow";
+      repo = pname;
+      rev = "b6a0c67f6ac76fb7bf8234951678b77fbac12d76";
+      sha256 = "sha256-CgjcpFyKu1dFnqF1hd0D6h520dSWBX8zX0FusfOAv8Q=";
+    };
+
+    cargoSha256 = "sha256-BL5R6dYBmyWB3RO+NYmyw/papa6SUxhhkJEOJD/iwQk=";
+
+    meta = with lib; {
+      description = "CLI utility to find the union, intersection, set difference, etc of files considered as sets of lines";
+      homepage = "https://github.com/yarrow/zet";
+      license = licenses.mit;
+    };
+  };
+
+  xan = buildRustPackage rec {
+    pname = "xan";
+    version = "0.15.0";
+
+    src = fetchFromGitHub {
+      owner = "medialab";
+      repo = pname;
+      rev = "1eff9aba37772d77ddbc8c0ff0a226955ad2168e";
+      sha256 = "sha256-O+9Gc5TFUfT5J9YbeBn5FKrYl+wSfl8sVM2vCgNvU/A=";
+    };
+
+    cargoSha256 = "sha256-rQwGykK5Io5bzRfur4aAbuDPAuwEMJ4xjdjbRTECzXo=";
+
+    meta = with lib; {
+      description = "The CSV magician";
+      homepage = "https://github.com/medialab/xan";
+      license = licenses.unlicense;
+    };
+  };
+
+  csvtk = buildGoModule rec {
+    pname = "csvtk";
+    version = "v0.30.1";
+
+    src = fetchFromGitHub {
+      owner = "shenwei356";
+      repo = pname;
+      rev = "af7e36c0b6e9a24867297b15a9c9ae3927891414";
+      sha256 = "sha256-W8J9JPgyIrG2Mpifx7I1ipMQgPIODUYD8A1MFXvj23E=";
+    };
+
+    vendorHash = "sha256-HM6Ns+FOQ1pYsKaGHhYHB3Cnh01VIkDX9klYMSZB6jI=";
+    doCheck = false;
+
+    meta = with lib; {
+      homepage = "https://github.com/shenwei356/csvtk/";
+      description = "A cross-platform, efficient and practical CSV/TSV toolkit in Golang";
+      platforms = platforms.all;
+    };
+  };
+
   tinycare-tui = buildGoModule rec {
     pname = "tinycare-tui";
     version = "v1.1";

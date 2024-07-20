@@ -16,7 +16,7 @@
       terminalEmulators = ["wezterm"];
       consoleSet = "core"; # minimal | core | extended | maximal
       prompt = "starship";
-        nvidia = false;
+      nvidia = false;
       pipewire = true;
       jack = true;
       networkmanager = true;

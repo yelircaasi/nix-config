@@ -4,7 +4,7 @@
   ...
 }: {
   home.packages = with pkgs; [
-    pandoc  # TODO: add extras and lua filters: https://pandoc.org/extras.html, https://github.com/pandoc/lua-filters, https://github.com/pandoc-ext/info
+    pandoc # TODO: add extras and lua filters: https://pandoc.org/extras.html, https://github.com/pandoc/lua-filters, https://github.com/pandoc-ext/info
     remarshal
     dasel
     sq

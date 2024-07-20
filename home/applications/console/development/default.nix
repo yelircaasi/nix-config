@@ -4,6 +4,7 @@
   ...
 }: {
   imports = [
+    ./dev-utils-other
     ./python
   ];
 }

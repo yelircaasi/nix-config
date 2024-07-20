@@ -14,6 +14,54 @@
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
   buildPythonPackage = pkgs.python3Packages.buildPythonPackage;
 in {
+  tokei-pie = buildPythonPackage rec {
+    pname = "tokei-pie";
+    version = "v1.2.1";
+    format = "pyproject";
+
+    src = fetchFromGitHub {
+      owner = "laixintao";
+      repo = pname;
+      rev = "6f4d44bef4107ac648deeb7f567c1bf807d84105"; # 2024-07-20
+      hash = "sha256-qeP2dOTBT+WYNa2Lp5kjC+DuFKIqiZ9B2bgkcezM9Cs=";
+    };
+
+    buildInputs = with pkgs.python311Packages; [
+      poetry-core
+      pytest
+    ];
+
+    propagatedBuildInputs = with pkgs.python311Packages; [
+      plotly
+    ];
+
+    meta = with lib; {
+      homepage = "https://github.com/laixintao/tokei-pie";
+      description = "Render tokei's output to interactive sunburst chart.";
+      license = licenses.cc0;
+      platforms = platforms.all;
+    };
+  };
+
+  precious = buildRustPackage rec {
+    pname = "precious";
+    version = "v0.7.3";
+
+    src = fetchFromGitHub {
+      owner = "houseabsolute";
+      repo = pname;
+      rev = "aff941abb3f31ce2b3105eaa92a7b790b0b956c0";
+      sha256 = "sha256-1+z5RHRwdxTK5TkFY7R9RYQWtrrsv9dpXYSbOa15g0k=";
+    };
+
+    cargoSha256 = "sha256-tcWCX5fuD7g7lK+E9zYbyowScXQwyauI5azKWDlBu1Y=";
+
+    meta = with lib; {
+      description = "One code quality tool to rule them all ";
+      homepage = "https://github.com/houseabsolute/precious";
+      license = licenses.asl20;
+    };
+  };
 
   xmlq = buildGoModule rec {
     pname = "xmlq";

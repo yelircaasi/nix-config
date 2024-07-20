@@ -41,7 +41,9 @@ in {
       ./applications/console/timer-clock
       ./applications/console/viewing
 
+      ./applications/gui/dev-tools
       ./applications/gui/media/editing
+
       # ./applications/gui/personal-organization
 
       ./desktop-environment/theming/gtk

@@ -2,11 +2,17 @@
   imports = [
     ./calculator-conversion-date
     ./compression-decompression
+    ./diff
     ./html
     ./json
     ./markdown
-    ./plaintext
+    ./multi-conversion-other
     ./pdf
-    ./spreadsheet
+    ./plaintext-piping-etc
+    ./regex
+    ./tabular
+    ./tex
+    ./toml
+    ./yaml
   ];
 }

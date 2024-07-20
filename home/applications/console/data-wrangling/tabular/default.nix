@@ -18,5 +18,6 @@
     csvkit
     mypkgs.csvtk
     q-text-as-data
+    miller
   ];
 }

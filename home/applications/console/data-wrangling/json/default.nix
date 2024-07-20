@@ -17,5 +17,6 @@
     jql
     jqp
     zed #  also provides zq
+    jid
   ];
 }

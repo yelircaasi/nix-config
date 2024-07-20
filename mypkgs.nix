@@ -14,6 +14,39 @@
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
   buildPythonPackage = pkgs.python3Packages.buildPythonPackage;
 in {
+  
+  yamlpath = buildPythonPackage rec {
+    pname = "yamlpath";
+    version = "3.8.2";
+
+    src = fetchFromGitHub {
+      owner = "yelircaasi";
+      repo = pname;
+      rev = "8be0c9c0126fc6f360bd6cce97223d4f2aa09a02"; # 2024-07-20
+      hash = "sha256-O5tQeccyZ+bcS4NAaR+GYL1I6wEAy3v4bYyEqcrWFnM=";
+    };
+
+    buildInputs = with pkgs.python311Packages; [
+      setuptools
+      pip
+      pytest
+      pytest-cov
+      pytest-console-scripts
+    ];
+
+    propagatedBuildInputs = with pkgs.python311Packages; [
+      python-dateutil
+      ruamel-yaml
+    ];
+
+    meta = with lib; {
+      homepage = "https://github.com/yelircaasi/yamlpath";
+      description = "AML/JSON/EYAML/Compatible get/set/merge/validate/scan/convert/diff processors using powerful, intuitive, command-line friendly syntax.";
+      license = licenses.cc0;
+      platforms = platforms.all;
+    };
+  };
+
   zet = buildRustPackage rec {
     pname = "zet";
     version = "2024-03-06";

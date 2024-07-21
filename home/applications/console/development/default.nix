@@ -5,6 +5,7 @@
 }: {
   imports = [
     ./dev-utils-other
+    ./gdb
     ./python
   ];
 }

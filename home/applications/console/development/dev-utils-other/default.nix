@@ -5,9 +5,19 @@
 }: {
   home.packages = with pkgs; [
     fastmod
+    # mypkgs.codemod2
 
     # general code quality
+
+    # linting and formatting
     mypkgs.precious
+    treefmt2
+    /*
+    eventually need to decide which of precious and treefmt I prefer,
+    or whether they are non interchangeable and thus both worth keeping
+    -> see treefmt-nix later
+    */
+    uncrustify
 
     # counting & analysis
     scc
@@ -21,6 +31,24 @@
 
     # codebase navigation
     universal-ctags
+    idutils
+
+    # debugging
+    # mypkgs.rebound
+
+    # logs
+    lnav
+    multitail
+
+    # todos
+    mypkgs.todocheck
+
+    # scripting
+    gnumake
+    just
+    mypkgs.makesure
+    mypkgs.mk
+    mypkgs.mxflow-cli
 
     # miscellaneous
     ripsecrets

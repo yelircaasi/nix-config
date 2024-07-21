@@ -8,6 +8,12 @@
     mypkgs.zet
     huniq
 
+    # alignment
+    justify
+
+    # color
+    grc
+
     # pipe wrangling
     pipr
     dt

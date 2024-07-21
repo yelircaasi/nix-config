@@ -8,12 +8,267 @@
     fetchFromSourcehut
     buildGoModule
     buildNimPackage
+    buildNpmPackage
     ;
 
   mkDerivation = pkgs.stdenv.mkDerivation;
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
   buildPythonPackage = pkgs.python3Packages.buildPythonPackage;
 in {
+  makesure = mkDerivation rec {
+    pname = "makesure";
+    version = "v0.9.23"; # 2024-07-21
+
+    src = builtins.fetchurl {
+      url = "https://raw.githubusercontent.com/xonixx/makesure/f7a42e145e3016bec490805abb2f011e00d939c9/makesure";
+      sha256 = "sha256-wC4RY7me1Lr39um5DDkgIwEHlGNo7CYiFCKcqPxWrw4=";
+    };
+
+    dontBuild = true;
+
+    propagatedBuildInputs = with pkgs; [
+      gawk
+    ];
+
+    unpackPhase = ''
+      true
+    '';
+
+    installPhase = ''
+       mkdir -p $out/bin
+      cp ${src} $out/bin/makesure
+      chmod +x $out/bin/makesure
+    '';
+
+    meta = with lib; {
+      homepage = "https://github.com/xonixx/makesure";
+      description = "Simple task/command runner with declarative goals and dependencies";
+      license = licenses.mit;
+      platforms = platforms.all;
+    };
+  };
+
+  mk = buildPythonPackage rec {
+    pname = "mk";
+    version = "v2.5.0";
+    format = "pyproject";
+
+    src = fetchFromGitHub {
+      owner = "pycontribs";
+      repo = pname;
+      rev = "6df92e9d9a93677fe4ce4eed4a607e4f4c623ae7"; # 2024-07-21
+      hash = "sha256-DkI1Vj8X77aRXrQrdQzmFvh6fYTVn0K0HYLdQeiXqeY=";
+    };
+
+    buildInputs = with pkgs.python311Packages; [
+      setuptools
+      setuptools-scm
+    ];
+
+    propagatedBuildInputs = with pkgs.python311Packages; [
+      build
+      diskcache
+      gitpython
+      pip
+      pyyaml
+      rich
+      shellingham
+      subprocess-tee
+      twine
+      # typer-config
+      typer
+      (buildPythonPackage rec {
+        pname = "typer-config";
+        version = "1.4.1";
+        format = "pyproject";
+
+        src = fetchFromGitHub {
+          owner = "maxb2";
+          repo = pname;
+          rev = "8c90bb417ab8218f59315582d0699fe49503d75b";
+          sha256 = "sha256-blvIJ0s+47Mp4DvxPHjTUCBiDiF+lqj+k3OuAYgxlk4=";
+        };
+
+        nativeBuildInputs = [pkgs.python311Packages.poetry-core];
+
+        propagatedBuildInputs = with pkgs.python311Packages; [
+          typer
+          toml
+          pyyaml
+          python-dotenv
+        ];
+
+        doCheck = false;
+
+        meta = with lib; {
+          description = "Utilities for working with configuration files in typer CLIs.";
+          homepage = "https://github.com/maxb2/typer-config";
+          license = licenses.mit;
+        };
+      })
+
+      (buildPythonPackage rec {
+        pname = "pluggy";
+        version = "1.5.0";
+
+        pyproject = true;
+
+        src = fetchFromGitHub {
+          owner = "pytest-dev";
+          repo = "pluggy";
+          rev = "refs/tags/${version}";
+          sha256 = "sha256-f0DxyZZk6RoYtOEXLACcsOn2B+Hot4U4g5Ogr/hKmOE=";
+        };
+
+        build-system = [pkgs.python311Packages.setuptools-scm];
+
+        doCheck = false;
+
+        meta = {
+          changelog = "https://github.com/pytest-dev/pluggy/blob/${src.rev}/CHANGELOG.rst";
+          description = "Plugin and hook calling mechanisms for Python";
+          homepage = "https://github.com/pytest-dev/pluggy";
+          license = lib.licenses.mit;
+        };
+      })
+    ];
+
+    meta = with lib; {
+      homepage = "https://github.com/pycontribs/mk";
+      description = "mk ease contributing to any open source repository by exposing most common actions you can run. Inspired by make, tox and other cool tools! ";
+      license = licenses.mit;
+      platforms = platforms.all;
+    };
+  };
+
+  mxflow-cli = buildNpmPackage rec {
+    pname = "mxflow-cli";
+    version = "0.64.5";
+
+    src = pkgs.fetchFromGitHub {
+      owner = "metaory";
+      repo = pname;
+      rev = "788ec0dabfbc33e2ccad0fa8f56610e57abffb9f";
+      sha256 = "sha256-rc9SGm8FKv1y1IunSk4zTXL8KZLQxJg19QoyD8fbHoM=";
+    };
+
+    npmDepsHash = "sha256-GVt1/wrtVlHKxuS1FyouWWbdAaAEIwKNGoylSGxU47M=";
+
+    dontNpmBuild = true;
+
+    # nativeBuildInputs = with pkgs; [vercel-pkg];
+
+    # The prepack script runs the build script, which we'd rather do in the build phase.
+    # npmPackFlags = ["--ignore-scripts"];
+
+    # NODE_OPTIONS = "--openssl-legacy-provider";
+
+    # buildPhase = ''
+    #   runHook preBuild
+    #   mkdir -p node_modules
+    #   ln -s ${pkgs.nodePackages.npm}/bin/npm npm
+    #   ./npm install --production
+    #   runHook postBuild
+    # '';
+
+    # installPhase = ''
+    #   runHook preInstall
+    #   mkdir -p $out/bin
+    #   cp -r * $out/
+    #   ln -s $out/bin/mxflow $out/bin/mxflow
+    #   runHook postInstall
+    # '';
+
+    meta = with pkgs.lib; {
+      description = "A Beautiful, Friendly, General purpose CLI task runner";
+      homepage = "https://github.com/metaory/mxflow-cli";
+      license = licenses.mit;
+      maintainers = with maintainers; [your-name];
+    };
+  };
+
+  todocheck = buildGoModule rec {
+    pname = "todocheck";
+    version = "v0.6.1";
+
+    src = fetchFromGitHub {
+      owner = "yelircaasi";
+      repo = pname;
+      rev = "fe1e928792190d40a0d70b283cc519cc7aea3fe6";
+      sha256 = "sha256-xw80b5n7Lj2YMatpVmNv1BHHm2w1bny3bACPH0EEMMw=";
+    };
+
+    vendorHash = "sha256-qLCdKJVfy2Rb6KGOtLUmVgyJ2jsEJyNOo8l59e4wwPQ=";
+    doCheck = false;
+
+    meta = with lib; {
+      homepage = "https://github.com/yelircaasi/todocheck";
+      description = "A static code analyser for annotated TODO comments";
+      license = licenses.mit;
+      platforms = platforms.all;
+    };
+  };
+
+  codemod2 = buildPythonPackage rec {
+    pname = "codemod2";
+    version = "0.2.4";
+    format = "pyproject";
+
+    src = fetchFromGitHub {
+      owner = "mdrohmann";
+      repo = pname;
+      rev = "00bb9f43a64594979b49b618ab45e22cd80bbd77"; # 2024-07-21
+      hash = "sha256-vY22JqDR4+CTnDNFn7qp79pDzjykllkq2EfgBJyxcHY=";
+    };
+
+    buildInputs = with pkgs.python311Packages; [
+      poetry-core
+      pytest
+    ];
+
+    propagatedBuildInputs = with pkgs.python311Packages; [
+      regex
+    ];
+
+    meta = with lib; {
+      homepage = "https://github.com/mdrohmann/codemod2";
+      description = "Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.";
+      license = licenses.asl20;
+      platforms = platforms.all;
+    };
+  };
+
+  rebound = buildPythonPackage rec {
+    pname = "rebound";
+    version = "v2.0.1";
+
+    src = fetchFromGitHub {
+      owner = "yelircaasi";
+      repo = pname;
+      rev = "0b8eaa2030783b7ed55292fb076bb9cd60bab2a6"; # 2024-07-21
+      hash = "sha256-QjfQ41mJTwl7xJTra4ahyA0RZxRN1YNwzyTuVBAqyZY=";
+    };
+
+    buildInputs = with pkgs.python311Packages; [
+      setuptools
+      pytest
+    ];
+
+    propagatedBuildInputs = with pkgs.python311Packages; [
+      requests
+      urllib3
+      urwid
+      beautifulsoup4
+    ];
+
+    meta = with lib; {
+      homepage = "https://github.com/shobrook/rebound";
+      description = "Command-line tool that instantly fetches Stack Overflow results when an exception is thrown";
+      license = licenses.cc0;
+      platforms = platforms.all;
+    };
+  };
+
   tokei-pie = buildPythonPackage rec {
     pname = "tokei-pie";
     version = "v1.2.1";
@@ -38,7 +293,6 @@ in {
     meta = with lib; {
       homepage = "https://github.com/laixintao/tokei-pie";
       description = "Render tokei's output to interactive sunburst chart.";
-      license = licenses.cc0;
       platforms = platforms.all;
     };
   };
@@ -905,16 +1159,7 @@ in {
       platforms = platforms.all;
     };
   };
-  rebound = {
-    #TODO
 
-    meta = with lib; {
-      homepage = "";
-      description = "";
-      license = licenses.gpl3;
-      platforms = platforms.all;
-    };
-  };
   refind = {
     #TODO
 

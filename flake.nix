@@ -66,7 +66,7 @@
         editors = ["neovim"];
         browsers = ["qutebrowser" "ungoogled-chromium" "vieb"];
         desktopEnvironments = [];
-        desktopShell = [];#"fuzzel" "wlogout" "mako" "waybar"];
+        desktopShell = []; #"fuzzel" "wlogout" "mako" "waybar"];
         terminalEmulators = ["wezterm" "termonad"];
         consoleSet = "maximal";
         prompt = "starship";

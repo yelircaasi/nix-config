@@ -6,14 +6,14 @@
   ...
 }: {
   imports = [
-    ./common
+    # ./common
     ./common-from-device-config.nix
 
     ./applications/console/database
     ./applications/console/work-garbage/azure
     ./applications/console/work-garbage/jira
 
-    ./applications/gui/editor-and-ide/vscode
+    # ./applications/gui/editor-and-ide/vscode
 
     ./sops
     #./environments/flatpak

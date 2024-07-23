@@ -5,6 +5,7 @@
     self,
     nixpkgs,
     home-manager,
+    nixgl,
     ...
   } @ inputs: let
     defaultDeclaration = {
@@ -179,7 +180,8 @@
 
     g = import ./global-defs {lib = inputs.nixpkgs.lib;}; # -> move g.utils to nixos-utils flake
     mylib = import ./mylib.nix {inherit inputs g;}; # move to nixos-utils flake (called mylib)
-    # mylib = inputs.nix-helpers;
+
+    
   in {
     nixosConfigurations = mylib.makeNixosConfigurations deviceDeclarations;
     homeConfigurations = mylib.makeHomeManagerConfigurations deviceDeclarations;
@@ -229,6 +231,12 @@
       url = "gitlab:rycee/nur-expressions/641fc30885d4a8d1c9f0c721f03fcd5a9f8c3892?dir=pkgs/firefox-addons";
       inputs.nixpkgs.follows = "nixpkgs";
     };
+
+    nixgl = {
+      url = "github:nix-community/nixGL";
+      inputs.nixpkgs.follows = "nixpkgs";
+  };
+
 
     # nix-utils
     # nix-utils = {

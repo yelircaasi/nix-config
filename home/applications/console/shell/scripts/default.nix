@@ -16,13 +16,19 @@ in {
     (
       writers.writeBashBin
       "hm"
-      ''
+      (if (deviceConfig.name == "hank") then ''
+        __current=$PWD
+        cd $HOME/nix-config
+        git add .
+        home-manager switch --impure --flake .#${deviceConfig.name}
+        cd $__current
+      '' else ''
         __current=$PWD
         cd $HOME/nix-config
         git add .
         home-manager switch --flake .#${deviceConfig.name}
         cd $__current
-      ''
+      '')
     )
     (
       writers.writeBashBin

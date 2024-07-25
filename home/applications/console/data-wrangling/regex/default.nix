@@ -7,6 +7,8 @@
     qgrep
     rgxg
     regex-cli
+
+    # regex-generating languages
     pomsky
     melody
   ];

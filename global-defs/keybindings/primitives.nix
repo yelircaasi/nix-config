@@ -173,6 +173,7 @@ rec {
         ${keys.e} = 2;
         ${keys.r} = 3;
         ${keys.t} = 4;
+
         ${keys.a} = 5;
         ${keys.s} = 6;
         ${keys.d} = 7;
@@ -204,40 +205,50 @@ rec {
         # ${keys.c} = keys.leftFrenchQuoteSingle; # ‹
         # ${keys.b} = keys.rightFrenchQuoteDouble; # ›
       };
+    notesSpecial =
+      default // {};
     asciiSpecial =
       default
       // {
         /*
-        q@  w\  e%  r|  t-  y  u  i  o  p
-         a$  s*  d=  f_  g&  h  j  k  l  ;
+        q@  w\  e%  r|  t-  y&  u  i  o  p
+         a$  s*  d=  f_  g+  h  j  k  l  ;
           z~  x^  c#  v`  b!  n  m  ,  .  /
         */
-        ${keys.b} = keys.exclamationMark;
         ${keys.q} = keys.at;
-        ${keys.c} = keys.octothorpe;
-        ${keys.a} = keys.dollar;
+        ${keys.w} = keys.backslash;
         ${keys.e} = keys.percent;
-        ${keys.x} = keys.caret;
-        ${keys.g} = keys.ampersand;
-        ${keys.s} = keys.asterisk;
+        ${keys.r} = keys.pipe;
         ${keys.t} = keys.hyphen;
+        ${keys.y} = keys.ampersand;
+
+        ${keys.a} = keys.dollar;
+        ${keys.s} = keys.asterisk;
         ${keys.d} = keys.equals;
         ${keys.f} = keys.underscore;
-        ${keys.h} = keys.plus;
+        ${keys.g} = keys.plus;
+
         ${keys.z} = keys.tilde;
+        ${keys.x} = keys.caret;
+        ${keys.c} = keys.octothorpe;
         ${keys.v} = keys.backtick;
-        # ${keys.ph} = keys.semicolon;
-        # ${keys.ph} = keys.colon;
-        # ${keys.ph} = keys.singleQuote;
-        # ${keys.ph} = keys.doubleQuote;
-        # ${keys.ph} = keys.comma;
-        # ${keys.ph} = keys.period;
-        # ${keys.ph} = keys.lessThan;
-        # ${keys.ph} = keys.greaterThan;
-        # ${keys.ph} = keys.slash;
-        # ${keys.ph} = keys.question;
-        ${keys.w} = keys.backslash;
-        ${keys.r} = keys.pipe;
+        ${keys.b} = keys.exclamationMark;
+
+        # ${keys.u} = keys.semicolon;
+        # ${keys.i} = keys.colon;
+        # ${keys.o} = keys.singleQuote;
+        # ${keys.p} = keys.doubleQuote;
+
+        # ${keys.h} = keys.comma;
+        # ${keys.j} = keys.period;
+        # ${keys.k} = keys.lessThan;
+        # ${keys.l} = keys.greaterThan;
+
+        # ${keys.n} = keys.slash;
+        # ${keys.m} = keys.question;
+        # ${keys.comma} = keys.slash;
+        # ${keys.period} = keys.question;
+
       };
     unicodeFavorites =
       default
@@ -268,16 +279,61 @@ rec {
       };
   };
   layerAccessKeys = {
-    physical = {};
-    default = {};
-    number = {};
-    parentheses = {};
-    asciiSpecial = {};
-    unicodeFavorites = {};
-    international = {};
-    cyrillic = {};
+    physical = {  # en_US basic
+      tap = [keys.ph];
+      hold = [keys.ph];
+      sticky = [keys.ph];
+    };
+    default = {
+      tap = [keys.ph];
+      hold = [keys.ph];
+      sticky = [keys.ph];
+    };
+    number = {
+      tap = [keys.ph];
+      hold = [keys.ph];
+      sticky = [keys.ph];
+    };
+    parentheses = {
+      tap = [keys.ph];
+      hold = [keys.ph];
+      sticky = [keys.ph];
+    };
+    asciiSpecial = {
+      tap = [keys._0];
+      hold = [keys.semicolon];
+      sticky = [keys.ph];
+    };
+    unicodeFavorites = {
+      tap = [keys.ph];
+      hold = [keys.ph];
+      sticky = [keys.ph];
+    };
+    international = {
+      tap = [keys.ph];
+      hold = [keys.ph];
+      sticky = [keys.ph];
+    };
+    cyrillic = {
+      tap = [keys.ph];
+      hold = [keys.ph];
+      sticky = [keys.ph];
+    };simpleR
   };
   simpleRemaps = {
+    ${keys.escape} = commands.capsLock;
+    ${keys.capsLock} = commands.escape;
+    ${keys._1} = commands.ph;
+    ${keys._2} = commands.super;
+    ${keys._3} = commands.alt; # for terminal navigation
+    ${keys._4} = commands.ph; 
+    ${keys._5} = commands.ph;
+    ${keys._6} = commands.ph;
+    ${keys._7} = commands.ph;
+    ${keys._8} = commands.ph;
+    ${keys._9} = commands.alt;
+    ${keys._0} = commands.super;
+
     ${keys.printScreen} = commands.ph;
     ${keys.scrollLock} = commands.ph;
     ${keys.pause} = commands.ph;

@@ -11,5 +11,16 @@
     gnome.gnome-font-viewer
     fontpreview
     nerd-font-patcher
+
+    fira-code
+    fira-code-nerdfont
+    fira-code-symbols
+    # dejavu_fonts
+    # freefont_ttf
+    # gyre-fonts # TrueType substitutes for standard PostScript fonts
+    # liberation_ttf
+    unifont
+    noto-fonts-color-emoji
+    xkcd-font
   ];
 }

@@ -12,6 +12,7 @@
         matplotlib
         numpy
         pandas
+        pydantic
         mypkgs.matplotlib-backend-wezterm
       ]))
     poetry

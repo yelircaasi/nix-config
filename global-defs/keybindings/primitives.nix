@@ -8,8 +8,135 @@ rec {
     "keys" = "attrSet containg 'key' for single, 'mod' and 'base' / 'bases' for modified, [] for chord (where each entry is of the type modified)";
   };
   # keysAlternative = "${key} | ${mod}+${base} | ${mod}+${base}+${base} | ${chord1} ${chord2} | ${chord1} ${chord2} ${chord3}";
+  phys = {
+    esc = "ESC";
+    f1 = "f1";
+    f2 = "f2";
+    f3 = "f3";
+    f4 = "f4";
+    f5 = "f5";
+    f6 = "f6";
+    f7 = "f7";
+    f8 = "f8";
+    f9 = "f9";
+    f10 = "f10";
+    f11 = "f11";
+    f12 = "f12";
+    printScreen = "PRINTSCREEN";
+    insert = "INSERT";
+    delete = "DELETE";
 
-  keys = {
+    backtick = "BACKTICK";
+    _0 = "_0";
+    _1 = "_1";
+    _2 = "_2";
+    _3 = "_3";
+    _4 = "_4";
+    _5 = "_5";
+    _6 = "_6";
+    _7 = "_7";
+    _8 = "_8";
+    _9 = "_9";
+    
+    tab = "TAB";
+    q = "q";
+    w = "w";
+    e = "e";
+    r = "r";
+    t = "t";
+    y = "y";
+    u = "u";
+    i = "i";
+    o = "o";
+    p = "p";
+    leftSquareBracket = "LEFTSQUAREBRACKET";
+    rightSquareBracket = "RIGHTSQUAREBRACKET";
+    backslash = "BACKSLASH";
+
+    a = "a";
+    s = "s";
+    d = "d";
+    f = "f";
+    g = "g";
+    h = "h";
+    j = "j";
+    k = "k";
+    l = "l";
+    semicolon = "SEMICOLON";
+    singleQuote = "SINGLEQUOTE";
+    enter = "ENTER";
+
+    z = "z";
+    x = "x";
+    c = "c";
+    v = "v";
+    b = "b";
+    n = "n";
+    m = "m";
+    comma = "COMMA";
+    period = "PERIOD";
+    slash = "SLASH";
+
+    lctrl = "LCTRL";
+    fn = "FN";
+    super = "SUPER";
+    alt = "ALT";
+    space = "SPACE";
+    altGr = "ALTGR";
+    menu = "MENU";
+    rctrl = "RCTRL";
+
+    f1 = "f1";
+    f2 = "f2";
+    f3 = "f3";
+    f4 = "f4";
+    f5 = "f5";
+    f6 = "f6";
+    f7 = "f7";
+    f8 = "f8";
+    f9 = "f9";
+    f10 = "f10";
+    f11 = "f11";
+    f12 = "f12";
+
+    insert = "INSERT";
+    home = "HOME";
+    end = "END";
+    pageUp = "PAGEUP";
+    pageDown = "PAGEDOWN";
+    delete = "DELETE";
+
+    leftArrow = "LEFT";
+    rightArrow = "RIGHT";
+    upArrow = "UP";
+    downArrow = "DOWN";
+
+    printScreen = "PRINTSCREEN";
+    scrollLock = "SCROLLLOCK";
+    pause = "PAUSE";
+
+    num0 = "NUM0";
+    num1 = "NUM1";
+    num2 = "NUM2";
+    num3 = "NUM3";
+    num4 = "NUM4";
+    num5 = "NUM5";
+    num6 = "NUM6";
+    num7 = "NUM7";
+    num8 = "NUM8";
+    num9 = "NUM9";
+    numLock = "NUMLOCK";
+    numSlash = "NUMSLASH";
+    numAsterisk = "NUMASTERISK";
+    numHyphen = "NUMHYPHEN";
+    numPlus = "NUMPLUS";
+    numReturn = "NUMRETURN";
+    numPeriod = "NUMPERIOD";
+    copy = "COPY";
+    paste = "PASTE";
+ 
+  };
+  sem = {
     # enum-like attrset to ensure internal uniformity of key naming conventions
     none = "NONE";
 
@@ -168,17 +295,17 @@ rec {
         q0  w1  e2  r3  t4
          a5  s6  d7  f8  g9
         */
-        ${keys.q} = 0;
-        ${keys.w} = 1;
-        ${keys.e} = 2;
-        ${keys.r} = 3;
-        ${keys.t} = 4;
+        ${phys.q} = 0;
+        ${phys.w} = 1;
+        ${phys.e} = 2;
+        ${phys.r} = 3;
+        ${phys.t} = 4;
 
-        ${keys.a} = 5;
-        ${keys.s} = 6;
-        ${keys.d} = 7;
-        ${keys.f} = 8;
-        ${keys.g} = 9;
+        ${phys.a} = 5;
+        ${phys.s} = 6;
+        ${phys.d} = 7;
+        ${phys.f} = 8;
+        ${phys.g} = 9;
       }; # keys.semicolon;
     parentheses =
       default
@@ -188,22 +315,22 @@ rec {
          a{  s}  d(  f)  g⸨  h⸩  j«  k»  l‹  ;›
           z  x  c  v  b  n  m
         */
-        ${keys.q} = keys.squareBracketLeft;
-        ${keys.w} = keys.squareBracketRight;
-        ${keys.e} = keys.lessThan;
-        ${keys.r} = keys.greaterThan;
-        # ${keys.t} = keys.leftAngled; # ❬
-        # ${keys.y} = keys.rightAngled; # ❭
-        ${keys.a} = keys.curlyBracketLeft;
-        ${keys.s} = keys.curlyBracketRight;
-        ${keys.d} = keys.leftParenthesis;
-        ${keys.f} = keys.rightParenthesis;
-        # ${keys.g} = keys.leftDoubleRound; # ⸨
-        # ${keys.h} = keys.rightDoubleRound; # ⸩
-        # ${keys.z} = keys.leftFrenchQuoteDouble; # «
-        # ${keys.x} = keys.rightFrenchQuoteDouble; # »
-        # ${keys.c} = keys.leftFrenchQuoteSingle; # ‹
-        # ${keys.b} = keys.rightFrenchQuoteDouble; # ›
+        ${phys.q} = keys.squareBracketLeft;
+        ${phys.w} = keys.squareBracketRight;
+        ${phys.e} = keys.lessThan;
+        ${phys.r} = keys.greaterThan;
+        # ${phys.t} = keys.leftAngled; # ❬
+        # ${phys.y} = keys.rightAngled; # ❭
+        ${phys.a} = keys.curlyBracketLeft;
+        ${phys.s} = keys.curlyBracketRight;
+        ${phys.d} = keys.leftParenthesis;
+        ${phys.f} = keys.rightParenthesis;
+        # ${phys.g} = keys.leftDoubleRound; # ⸨
+        # ${phys.h} = keys.rightDoubleRound; # ⸩
+        # ${phys.z} = keys.leftFrenchQuoteDouble; # «
+        # ${phys.x} = keys.rightFrenchQuoteDouble; # »
+        # ${phys.c} = keys.leftFrenchQuoteSingle; # ‹
+        # ${phys.b} = keys.rightFrenchQuoteDouble; # ›
       };
     notesSpecial =
       default // {};
@@ -215,39 +342,39 @@ rec {
          a$  s*  d=  f_  g+  h  j  k  l  ;
           z~  x^  c#  v`  b!  n  m  ,  .  /
         */
-        ${keys.q} = keys.at;
-        ${keys.w} = keys.backslash;
-        ${keys.e} = keys.percent;
-        ${keys.r} = keys.pipe;
-        ${keys.t} = keys.hyphen;
-        ${keys.y} = keys.ampersand;
+        ${phys.q} = keys.at;
+        ${phys.w} = keys.backslash;
+        ${phys.e} = keys.percent;
+        ${phys.r} = keys.pipe;
+        ${phys.t} = keys.hyphen;
+        ${phys.y} = keys.ampersand;
 
-        ${keys.a} = keys.dollar;
-        ${keys.s} = keys.asterisk;
-        ${keys.d} = keys.equals;
-        ${keys.f} = keys.underscore;
-        ${keys.g} = keys.plus;
+        ${phys.a} = keys.dollar;
+        ${phys.s} = keys.asterisk;
+        ${phys.d} = keys.equals;
+        ${phys.f} = keys.underscore;
+        ${phys.g} = keys.plus;
 
-        ${keys.z} = keys.tilde;
-        ${keys.x} = keys.caret;
-        ${keys.c} = keys.octothorpe;
-        ${keys.v} = keys.backtick;
-        ${keys.b} = keys.exclamationMark;
+        ${phys.z} = keys.tilde;
+        ${phys.x} = keys.caret;
+        ${phys.c} = keys.octothorpe;
+        ${phys.v} = keys.backtick;
+        ${phys.b} = keys.exclamationMark;
 
-        # ${keys.u} = keys.semicolon;
-        # ${keys.i} = keys.colon;
-        # ${keys.o} = keys.singleQuote;
-        # ${keys.p} = keys.doubleQuote;
+        # ${phys.u} = keys.semicolon;
+        # ${phys.i} = keys.colon;
+        # ${phys.o} = keys.singleQuote;
+        # ${phys.p} = keys.doubleQuote;
 
-        # ${keys.h} = keys.comma;
-        # ${keys.j} = keys.period;
-        # ${keys.k} = keys.lessThan;
-        # ${keys.l} = keys.greaterThan;
+        # ${phys.h} = keys.comma;
+        # ${phys.j} = keys.period;
+        # ${phys.k} = keys.lessThan;
+        # ${phys.l} = keys.greaterThan;
 
-        # ${keys.n} = keys.slash;
-        # ${keys.m} = keys.question;
-        # ${keys.comma} = keys.slash;
-        # ${keys.period} = keys.question;
+        # ${phys.n} = keys.slash;
+        # ${phys.m} = keys.question;
+        # ${phys.comma} = keys.slash;
+        # ${phys.period} = keys.question;
 
       };
     unicodeFavorites =
@@ -321,210 +448,210 @@ rec {
     };simpleR
   };
   simpleRemaps = {
-    ${keys.escape} = commands.capsLock;
-    ${keys.capsLock} = commands.escape;
-    ${keys._1} = commands.ph;
-    ${keys._2} = commands.super;
-    ${keys._3} = commands.alt; # for terminal navigation
-    ${keys._4} = commands.ph; 
-    ${keys._5} = commands.ph;
-    ${keys._6} = commands.ph;
-    ${keys._7} = commands.ph;
-    ${keys._8} = commands.ph;
-    ${keys._9} = commands.alt;
-    ${keys._0} = commands.super;
+    ${phys.escape} = commands.capsLock;
+    ${phys.capsLock} = commands.escape;
+    ${phys._1} = commands.ph;
+    ${phys._2} = commands.super;
+    ${phys._3} = commands.alt; # for terminal navigation
+    ${phys._4} = commands.ph; 
+    ${phys._5} = commands.ph;
+    ${phys._6} = commands.ph;
+    ${phys._7} = commands.ph;
+    ${phys._8} = commands.ph;
+    ${phys._9} = commands.alt;
+    ${phys._0} = commands.super;
 
-    ${keys.printScreen} = commands.ph;
-    ${keys.scrollLock} = commands.ph;
-    ${keys.pause} = commands.ph;
-    ${keys.insert} = commands.ph;
-    ${keys.delete} = commands.ph;
-    ${keys.home} = commands.ph;
-    ${keys.end} = commands.ph;
-    ${keys.pageUp} = commands.ph;
-    ${keys.numLock} = commands.ph;
-    ${keys.numSlash} = commands.ph;
-    ${keys.numAsterisk} = commands.ph;
-    ${keys.numHyphen} = commands.ph;
-    ${keys.num1} = commands.ph;
-    ${keys.num2} = commands.ph;
-    ${keys.num3} = commands.ph;
-    ${keys.num4} = commands.ph;
-    ${keys.num5} = commands.ph;
-    ${keys.num6} = commands.ph;
-    ${keys.num7} = commands.ph;
-    ${keys.num8} = commands.ph;
-    ${keys.num9} = commands.ph;
-    ${keys.num0} = commands.ph;
-    ${keys.numPeriod} = commands.ph;
-    ${keys.numReturn} = commands.ph;
-    ${keys.numPlus} = commands.ph;
-    ${keys.ph} = commands.ph;
+    ${phys.printScreen} = commands.ph;
+    ${phys.scrollLock} = commands.ph;
+    ${phys.pause} = commands.ph;
+    ${phys.insert} = commands.ph;
+    ${phys.delete} = commands.ph;
+    ${phys.home} = commands.ph;
+    ${phys.end} = commands.ph;
+    ${phys.pageUp} = commands.ph;
+    ${phys.numLock} = commands.ph;
+    ${phys.numSlash} = commands.ph;
+    ${phys.numAsterisk} = commands.ph;
+    ${phys.numHyphen} = commands.ph;
+    ${phys.num1} = commands.ph;
+    ${phys.num2} = commands.ph;
+    ${phys.num3} = commands.ph;
+    ${phys.num4} = commands.ph;
+    ${phys.num5} = commands.ph;
+    ${phys.num6} = commands.ph;
+    ${phys.num7} = commands.ph;
+    ${phys.num8} = commands.ph;
+    ${phys.num9} = commands.ph;
+    ${phys.num0} = commands.ph;
+    ${phys.numPeriod} = commands.ph;
+    ${phys.numReturn} = commands.ph;
+    ${phys.numPlus} = commands.ph;
+    ${phys.ph} = commands.ph;
   };
   hybridModifiers = {
-    "${keys.capsLock}" = {
-      tap = keys.escape;
-      hold = keys.ctrl;
+    "${phys.capsLock}" = {
+      tap = sem.escape;
+      hold = sem.ctrl;
     };
-    "${keys._1}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys._1}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys._2}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys._2}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys._3}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys._3}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys._4}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys._4}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys._5}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys._5}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys._6}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys._6}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys._7}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys._7}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys._8}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys._8}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys._9}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys._9}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.tilde}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.tilde}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.hyphen}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.hyphen}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.equals}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.equals}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.squareBracketLeft}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.squareBracketLeft}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.squareBracketRight}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.squareBracketRight}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.backslash}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.backslash}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.semicolon}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.semicolon}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.singleQuote}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.singleQuote}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.comma}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.comma}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.period}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.period}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.slash}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.slash}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.tab}" = {
-      tap = keys.tab;
-      hold = keys.ph;
+    "${phys.tab}" = {
+      tap = sem.tab;
+      hold = sem.ph;
     };
-    "${keys.insert}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.insert}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.home}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.home}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.pageUp}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.pageUp}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.delete}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.delete}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.end}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.end}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.pageDown}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.pageDown}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.f1}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.f1}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.f2}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.f2}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.f3}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.f3}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.f4}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.f4}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.f5}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.f5}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.f6}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.f6}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.f7}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.f7}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.f8}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.f8}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.f9}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.f9}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.f10}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.f10}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.f11}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.f11}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.f12}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.f12}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
-    "${keys.ph}" = {
-      tap = keys.ph;
-      hold = keys.ph;
+    "${phys.ph}" = {
+      tap = sem.ph;
+      hold = sem.ph;
     };
   };
   bigramHybridRemaps = {

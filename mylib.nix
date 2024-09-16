@@ -4,9 +4,9 @@
 }: let
   # pkgs = inputs.nixpkgs.legacyPackages.x86_64-linux;
   pkgs = import inputs.nixpkgs {
-      system = "x86_64-linux";
-      overlays = [ inputs.nixgl.overlay ];
-    };
+    system = "x86_64-linux";
+    overlays = [inputs.nixgl.overlay];
+  };
   mypkgs = import ./mypkgs.nix {inherit pkgs;};
 in rec {
   updateAttrsWith = defaultSet: setOfSets:

@@ -10,8 +10,9 @@
     ./common-from-device-config.nix
 
     ./applications/console/database
-    ./applications/console/work-garbage/azure
-    ./applications/console/work-garbage/jira
+    ./applications/console/work/azure
+    ./applications/console/work/jira
+    ./applications/console/work/k8s-rancher
 
     # ./applications/gui/editor-and-ide/vscode
 
@@ -29,8 +30,6 @@
 
     #./desktop-environment/hyprland-ags.nix
   ];
-
-  
 
   nixpkgs = {
     config = {
@@ -51,16 +50,13 @@
       #libGL
       kanata-with-cmd
       nixgl.auto.nixGLNvidia
-      
+
       wget
       alejandra
-
     ];
     sessionVariables = {
       EDITOR = "nvim";
     };
-    
-
   };
 
   # Nicely reload system units when changing configs
@@ -81,20 +77,21 @@
       [Install]
       WantedBy=sysinit.target
     '';
-    /*[Unit]
-      Description=Kanata keyboard remapper
-      Documentation=https://github.com/jtroo/kanata
+    /*
+    [Unit]
+    Description=Kanata keyboard remapper
+    Documentation=https://github.com/jtroo/kanata
 
-      [Service]
-      Environment=PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/bin
-      Environment=DISPLAY=:0
-      Environment=HOME=/path/to/home/folder
-      Type=simple
-      ExecStart=/usr/local/bin/kanata --cfg /path/to/kanata/config/file
-      Restart=no
+    [Service]
+    Environment=PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/bin
+    Environment=DISPLAY=:0
+    Environment=HOME=/path/to/home/folder
+    Type=simple
+    ExecStart=/usr/local/bin/kanata --cfg /path/to/kanata/config/file
+    Restart=no
 
-      [Install]
-      WantedBy=default.target
-      */
+    [Install]
+    WantedBy=default.target
+    */
   };
 }

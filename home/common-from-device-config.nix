@@ -70,7 +70,7 @@ in {
 
   # home.stateVersion = "23.11";
   programs.home-manager.enable = true;
-  
+
   xdg.configFile = {
     "user-dirs.locale".text = "en_US";
     "home-manager/home.nix".text = ''

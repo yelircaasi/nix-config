@@ -180,8 +180,6 @@
 
     g = import ./global-defs {lib = inputs.nixpkgs.lib;}; # -> move g.utils to nixos-utils flake
     mylib = import ./mylib.nix {inherit inputs g;}; # move to nixos-utils flake (called mylib)
-
-    
   in {
     nixosConfigurations = mylib.makeNixosConfigurations deviceDeclarations;
     homeConfigurations = mylib.makeHomeManagerConfigurations deviceDeclarations;
@@ -235,8 +233,7 @@
     nixgl = {
       url = "github:nix-community/nixGL";
       inputs.nixpkgs.follows = "nixpkgs";
-  };
-
+    };
 
     # nix-utils
     # nix-utils = {

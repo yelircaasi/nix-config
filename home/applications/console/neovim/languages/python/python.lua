@@ -5,6 +5,7 @@
 -- treesitter RTP command
 -- conjure RTP command
 -- cmp-conjure RTP command
+-- trouble RTP command
 
 local dap_python = require("dap-python")
 -- local py_lsp = require("py_lsp")
@@ -35,6 +36,26 @@ local lspconf = require("lspconfig")
 -- local root_pattern = lspconf.util.root_pattern
 
 
+-- ----------------------------------------------------------------------------------
+local trouble = require("trouble")
+trouble.setup {
+	modes = { diagnostics = {auto_open = true,
+	auto_close = true}},
+    -- icons = false,
+    -- fold_open = "v", -- icon used for open folds
+    -- fold_closed = ">", -- icon used for closed folds
+    -- indent_lines = false, -- add an indent guide below the fold icons
+    -- signs = {
+    --     -- icons / text used for a diagnostic
+    --     error = vim.g.vinux_diagnostics_signs_error,
+    --     warning = vim.g.vinux_diagnostics_signs_warning,
+    --     hint = vim.g.vinux_diagnostics_signs_hint,
+    --     information = vim.g.vinux_diagnostics_signs_info
+    -- },
+    -- use_diagnostic_signs = false
+  }
+
+-- ----------------------------------------------------------------------------------
 
 lspconf.pylsp.setup({
 	on_attach = custom_attach,

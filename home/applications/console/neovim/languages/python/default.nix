@@ -60,6 +60,10 @@ in
           plugin = cmp-conjure;
           optional = true;
         }
+        {
+          plugin = trouble-nvim;
+          optional = true;
+        }
         #custom.jupyter-kernel-nvim
         #custom.jupytext-nvim
         #custom.nvim-ipy
@@ -95,6 +99,7 @@ in
       "-- treesitter RTP command"
       "-- conjure RTP command"
       "-- cmp-conjure RTP command"
+      "-- trouble RTP command"
     ];
 
     files = {
@@ -109,6 +114,7 @@ in
     needsNodeJs = true;
     needsRuby = false;
   }
+# TODO: quicker.nvim, trouble.nvim
 # TODO: min devenv: ruff LSP, black, isort, python seamless code execution (iron.nvim?), venv management -> Nix devshell
 # TODO: wezterm tab and pane navigation
 # TODO: also find suitable GUI image editor

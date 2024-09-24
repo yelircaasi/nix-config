@@ -39,8 +39,8 @@ in {
   # home.shellAliases = {
   programs.bash.shellAliases = {
     c = "clear";
-    cs = "/home/isaac/repos/consilium/.venv/bin/consilium";
-    consilium = "/home/isaac/repos/consilium/.venv/bin/consilium";
+    cs = "/home/isaac/consilium/.venv/bin/consilium";
+    consilium = "/home/isaac/consilium/.venv/bin/consilium";
     g = "git status";
     ga = "git add .";
     gs = "git status";

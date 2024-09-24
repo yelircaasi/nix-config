@@ -126,7 +126,7 @@ in {
 
       launchTerminal = {
         inherit scope;
-        key = keys.return;
+        key = "return";
         # dispatcher = "exec";
         # arg = "handlr launch x-scheme-handler/terminal --";
       };
@@ -153,7 +153,7 @@ in {
       };
       pseudo = {
         inherit scope;
-        key = "";
+        key = "ph";
         # dispatcher = "pseudo";
         # arg = "";
       };
@@ -187,33 +187,33 @@ in {
         # dispatcher = "fullscreen";
         # arg = "";
       };
-      hyprpickerAutocoopy = {
+      hyprpickerAutocopy = {
         inherit scope;
-        key = "C";
+        key = keys.c;
         # dispatcher = "exec";
         # arg = "hyprpicker - -autocopy";
       };
       lockActiveGroup = {
         inherit scope;
-        key = "G";
+        key = keys.g;
         # dispatcher = "lockactivegroup";
         # arg = "toggle";
       };
       changeActiveGroupBackward = {
         inherit scope;
-        key = "bracketleft";
+        key = "leftSquareBracket";
         # dispatcher = "changegroupactive";
         # arg = keys.b;
       };
       changeActiveGroupForward = {
         inherit scope;
-        key = "bracketright";
+        key = "rightSquareBracket";
         # dispatcher = "changegroupactive";
         # arg = keys.f;
       };
       screenshot = {
         inherit scope;
-        key = "Print";
+        key = "printScreen";
         # dispatcher = "exec";
         # arg = "screenshot.sh";
       };
@@ -226,7 +226,7 @@ in {
       killHyprland = {
         inherit scope;
         # modmask = 12;
-        key = keys.delete;
+        key = "delete";
         # dispatcher = "exec";
         # arg = "hyprctl kill";
       };
@@ -367,7 +367,7 @@ in {
     weztermLeader = {
       mod = keys.alt;
       modPhys = keys.q;
-      modPhysAlt = keys.squareBracketRight;
+      modPhysAlt = keys.rightSquareBracket;
       base = keys.w;
       name = "LEADER";
     };
@@ -382,6 +382,7 @@ in {
         base = p.sem.copy;
         commandText = "${weztermAction}.CopyTo 'Clipboard'";
       };
+      
       pasteFromClipboard = {
         scope = "wezterm::normal";
         prefix = leader;
@@ -955,7 +956,9 @@ in {
         mod = keys.ph;
         base = keys.ph;
         commandText = "${weztermAction}.CopyMode('NextMatchPage')";
+        
       };
+      
     };
 
   /*

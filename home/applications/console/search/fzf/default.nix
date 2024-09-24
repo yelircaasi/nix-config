@@ -10,7 +10,7 @@
     # TODO:
   };
 
-/*
+  /*
     # The command that gets executed as the source for fzf for the ALT-C keybinding
     changeDirWidgetCommand = "fd --type d";
 

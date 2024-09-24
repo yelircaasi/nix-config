@@ -9,7 +9,9 @@ rec {
   };
   # keysAlternative = "${key} | ${mod}+${base} | ${mod}+${base}+${base} | ${chord1} ${chord2} | ${chord1} ${chord2} ${chord3}";
   phys = {
-    esc = "ESC";
+    ph = "PLACEHOLDER";
+
+    escape = "ESC";
     f1 = "f1";
     f2 = "f2";
     f3 = "f3";
@@ -37,7 +39,10 @@ rec {
     _7 = "_7";
     _8 = "_8";
     _9 = "_9";
-    
+    hyphen = "HYPHEN";
+    equals = "EQUALS";
+    backspace = "BACKSPACE";
+
     tab = "TAB";
     q = "q";
     w = "w";
@@ -53,6 +58,7 @@ rec {
     rightSquareBracket = "RIGHTSQUAREBRACKET";
     backslash = "BACKSLASH";
 
+    capsLock = "CAPSLOCK";
     a = "a";
     s = "s";
     d = "d";
@@ -132,10 +138,10 @@ rec {
     numPlus = "NUMPLUS";
     numReturn = "NUMRETURN";
     numPeriod = "NUMPERIOD";
-    copy = "COPY";
-    paste = "PASTE";
- 
+    # copy = "COPY";
+    # paste = "PASTE";
   };
+
   sem = {
     # enum-like attrset to ensure internal uniformity of key naming conventions
     none = "NONE";
@@ -218,10 +224,10 @@ rec {
     doubleQuote = "DOUBLEQUOTE";
     semicolon = "SEMICOLON";
     colon = "COLON";
-    squareBracketLeft = "SQUAREBRACKETLEFT";
-    squareBracketRight = "SQUAREBRACKETRIGHT";
-    curlyBracketLeft = "CURLYBRACKETLEFT";
-    curlyBracketRight = "CURLYBRACKETRIGHT";
+    leftSquareBracket = "leftSquareBracket";
+    rightSquareBracket = "rightSquareBracket";
+    leftCurlyBracket = "leftCurlyBracket";
+    rightCurlyBracket = "rightCurlyBracket";
     backslash = "BACKSLASH";
     pipe = "PIPE";
     comma = "COMMA";
@@ -283,8 +289,9 @@ rec {
     copy = "COPY";
     paste = "PASTE";
   };
+  keys = phys // sem;
 
-  commands = {ph = "PLACEHOLDER";};
+  commands = keys; #commands = {ph = "PLACEHOLDER";};
   layers = rec {
     physical = {}; #() keys; # map every key name to itself
     default = physical // {}; # keys.insert;
@@ -315,14 +322,14 @@ rec {
          a{  s}  d(  f)  g⸨  h⸩  j«  k»  l‹  ;›
           z  x  c  v  b  n  m
         */
-        ${phys.q} = keys.squareBracketLeft;
-        ${phys.w} = keys.squareBracketRight;
+        ${phys.q} = keys.leftSquareBracket;
+        ${phys.w} = keys.rightSquareBracket;
         ${phys.e} = keys.lessThan;
         ${phys.r} = keys.greaterThan;
         # ${phys.t} = keys.leftAngled; # ❬
         # ${phys.y} = keys.rightAngled; # ❭
-        ${phys.a} = keys.curlyBracketLeft;
-        ${phys.s} = keys.curlyBracketRight;
+        ${phys.a} = keys.leftCurlyBracket;
+        ${phys.s} = keys.rightCurlyBracket;
         ${phys.d} = keys.leftParenthesis;
         ${phys.f} = keys.rightParenthesis;
         # ${phys.g} = keys.leftDoubleRound; # ⸨
@@ -375,7 +382,6 @@ rec {
         # ${phys.m} = keys.question;
         # ${phys.comma} = keys.slash;
         # ${phys.period} = keys.question;
-
       };
     unicodeFavorites =
       default
@@ -406,7 +412,8 @@ rec {
       };
   };
   layerAccessKeys = {
-    physical = {  # en_US basic
+    physical = {
+      # en_US basic
       tap = [keys.ph];
       hold = [keys.ph];
       sticky = [keys.ph];
@@ -445,7 +452,7 @@ rec {
       tap = [keys.ph];
       hold = [keys.ph];
       sticky = [keys.ph];
-    };simpleR
+    };
   };
   simpleRemaps = {
     ${phys.escape} = commands.capsLock;
@@ -453,7 +460,7 @@ rec {
     ${phys._1} = commands.ph;
     ${phys._2} = commands.super;
     ${phys._3} = commands.alt; # for terminal navigation
-    ${phys._4} = commands.ph; 
+    ${phys._4} = commands.ph;
     ${phys._5} = commands.ph;
     ${phys._6} = commands.ph;
     ${phys._7} = commands.ph;
@@ -529,7 +536,7 @@ rec {
       tap = sem.ph;
       hold = sem.ph;
     };
-    "${phys.tilde}" = {
+    "${phys.backtick}" = {
       tap = sem.ph;
       hold = sem.ph;
     };
@@ -541,11 +548,11 @@ rec {
       tap = sem.ph;
       hold = sem.ph;
     };
-    "${phys.squareBracketLeft}" = {
+    "${phys.leftSquareBracket}" = {
       tap = sem.ph;
       hold = sem.ph;
     };
-    "${phys.squareBracketRight}" = {
+    "${phys.rightSquareBracket}" = {
       tap = sem.ph;
       hold = sem.ph;
     };
@@ -670,8 +677,8 @@ rec {
     "${keys.q}${keys.m}" = {};
     "${keys.q}${keys.y}" = {};
     "${keys.q}${keys.singleQuote}" = {};
-    "${keys.q}${keys.squareBracketLeft}" = {};
-    "${keys.q}${keys.squareBracketRight}" = {};
+    "${keys.q}${keys.leftSquareBracket}" = {};
+    "${keys.q}${keys.rightSquareBracket}" = {};
     "${keys.q}${keys.comma}" = {};
     "${keys.q}${keys.v}" = {};
     "${keys.v}${keys.w}" = {};
@@ -689,8 +696,8 @@ rec {
   sem = {
     kill = keys.q;
     killPart = keys.backslash;
-    copy = keys.c;
-    paste = keys.v;
+    # copy = keys.c;
+    # paste = keys.v;
     hide = keys.m; # masquer, mache unsichtbar :)
     new = keys.n;
     newPart = keys.t;
@@ -705,8 +712,8 @@ rec {
     down = keys.j;
     up = keys.k;
     right = keys.l;
-    downOrLeftAlt = keys.squareBracketLeft;
-    upOrRightAlt = keys.squareBracketRight;
+    downOrLeftAlt = keys.leftSquareBracket;
+    upOrRightAlt = keys.rightSquareBracket;
   };
   desktop = let
     mod = keys.super;

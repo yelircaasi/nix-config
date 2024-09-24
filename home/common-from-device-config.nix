@@ -96,6 +96,8 @@ in {
         programs.home-manager.enable = true;
       }
     '';
+    "colors.json".text = builtins.toJSON g.color;
+    "keys.json".text = builtins.toJSON g.key;
   };
   xdg.userDirs = {
     enable = true;

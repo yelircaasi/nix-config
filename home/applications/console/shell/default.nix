@@ -50,7 +50,7 @@ in {
   };
   programs.bash.bashrcExtra = ''
     source ${mypkgs.forgit}/forgit.plugin.sh
-    
+
     export FZF_DEFAULT_OPTS="--height 40% --border --color bg:#000800,bg+:#001600,fg:#003200,fg+:#006400"
   '';
 

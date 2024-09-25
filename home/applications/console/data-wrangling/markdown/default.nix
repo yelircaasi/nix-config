@@ -6,9 +6,9 @@
   home.packages = with pkgs; [
     frogmouth
     glow
-    python311Packages.grip
+    python312Packages.grip
     lowdown
-    python311Packages.md-toc
+    python312Packages.md-toc
     mypkgs.mdtt
   ];
   xdg.configFile = {

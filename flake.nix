@@ -200,38 +200,39 @@
   inputs = {
     # Nixpkgs
     nixpkgs = {
-      # url = "github:nixos/nixpkgs/5b346fcd0a2f94314ca3951961ad0e43d83d97fe";
-      url = "github:yelircaasi/nixpkgs/9e99209fa79d6aa1cd282f3029ae4635c07d043c";
+      url = "path:/home/isaac/nixpkgs";
+      # url = "github:nixos/nixpkgs/9de9e826f7a148bc6fb2110b90c4e848e8ae8406";
+      # url = "github:yelircaasi/nixpkgs/9e99209fa79d6aa1cd282f3029ae4635c07d043c";
 
       #url = "github:nixos/nixpkgs/nixos-unstable";
     };
 
     # Home Manager
     home-manager = {
-      url = "github:nix-community/home-manager/3d65009effd77cb0d6e7520b68b039836a7606cf";
+      url = "github:nix-community/home-manager/21c021862fa696c8199934e2153214ab57150cb6";
       #url = "github:nix-community/home-manager/release-24.05";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     # Neovim
     neovim-nightly-overlay = {
-      url = "github:nix-community/neovim-nightly-overlay/60a8a1b221308566c51aa9a66e11145a3f141fc8";
+      url = "github:nix-community/neovim-nightly-overlay/31c50a1318f9ba2e7236e150dce28189c5d8fc31";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     # Secret management via sops
     sops-nix = {
-      url = "github:Mic92/sops-nix/d071c74a7de1e26d211b69b6fbae37ae2e31a87f";
+      url = "github:Mic92/sops-nix/e2d404a7ea599a013189aa42947f66cede0645c8";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     firefox-addons = {
-      url = "gitlab:rycee/nur-expressions/641fc30885d4a8d1c9f0c721f03fcd5a9f8c3892?dir=pkgs/firefox-addons";
+      url = "gitlab:rycee/nur-expressions/1f8ac3b4f0632fc9da864ecd4b1bbe51d61dde01?dir=pkgs/firefox-addons";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     nixgl = {
-      url = "github:nix-community/nixGL";
+      url = "github:nix-community/nixGL/310f8e49a149e4c9ea52f1adf70cdc768ec53f8a";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 

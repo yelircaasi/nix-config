@@ -2,7 +2,7 @@
   home.packages = with pkgs; [
     grex
     crex
-    python311Packages.exrex
+    python312Packages.exrex
     pcre2
     qgrep
     rgxg

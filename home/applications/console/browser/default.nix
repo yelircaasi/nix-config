@@ -4,7 +4,7 @@
   ...
 }: {
   home.packages = with pkgs; [
-    mypkgs.chawan
+    # mypkgs.chawan
     mypkgs.reader
     edbrowse
     elinks

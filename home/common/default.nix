@@ -17,8 +17,9 @@ in {
       #docker
       wget
       alejandra
-      # python311
+      # python312
       poetry
+      gdrive3
     ];
   };
 

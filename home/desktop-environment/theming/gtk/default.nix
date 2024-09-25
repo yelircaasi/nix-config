@@ -73,15 +73,15 @@ in {
     enable = true;
     # theme = {
     #   name = "Adwaita-dark";
-    #   package = pkgs.gnome.adwaita-icon-theme;
+    #   package = pkgs.adwaita-icon-theme;
     # };
     iconTheme = {
       name = "Adwaita-dark";
-      package = pkgs.gnome.adwaita-icon-theme;
+      package = pkgs.adwaita-icon-theme;
     };
     cursorTheme = {
       name = "Adwaita-dark";
-      package = pkgs.gnome.adwaita-icon-theme;
+      package = pkgs.adwaita-icon-theme;
     };
     gtk3.bookmarks = [
       "file:///home/isaac/Downloads"

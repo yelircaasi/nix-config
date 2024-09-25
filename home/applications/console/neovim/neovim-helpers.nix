@@ -221,11 +221,11 @@
                 then [p.java]
                 else []
               )
-              (
-                if neovimConfig.languages.xit.enable
-                then [p.xit]
-                else []
-              )
+              # (
+              #   if neovimConfig.languages.xit.enable
+              #   then [p.xit]
+              #   else []
+              # )
             ]
         ))
       ];

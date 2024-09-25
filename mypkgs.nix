@@ -60,12 +60,12 @@ in {
       hash = "sha256-DkI1Vj8X77aRXrQrdQzmFvh6fYTVn0K0HYLdQeiXqeY=";
     };
 
-    buildInputs = with pkgs.python311Packages; [
+    buildInputs = with pkgs.python312Packages; [
       setuptools
       setuptools-scm
     ];
 
-    propagatedBuildInputs = with pkgs.python311Packages; [
+    propagatedBuildInputs = with pkgs.python312Packages; [
       build
       diskcache
       gitpython
@@ -89,9 +89,9 @@ in {
           sha256 = "sha256-blvIJ0s+47Mp4DvxPHjTUCBiDiF+lqj+k3OuAYgxlk4=";
         };
 
-        nativeBuildInputs = [pkgs.python311Packages.poetry-core];
+        nativeBuildInputs = [pkgs.python312Packages.poetry-core];
 
-        propagatedBuildInputs = with pkgs.python311Packages; [
+        propagatedBuildInputs = with pkgs.python312Packages; [
           typer
           toml
           pyyaml
@@ -120,7 +120,7 @@ in {
           sha256 = "sha256-f0DxyZZk6RoYtOEXLACcsOn2B+Hot4U4g5Ogr/hKmOE=";
         };
 
-        build-system = [pkgs.python311Packages.setuptools-scm];
+        build-system = [pkgs.python312Packages.setuptools-scm];
 
         doCheck = false;
 
@@ -221,12 +221,12 @@ in {
       hash = "sha256-vY22JqDR4+CTnDNFn7qp79pDzjykllkq2EfgBJyxcHY=";
     };
 
-    buildInputs = with pkgs.python311Packages; [
+    nativeBuildInputs = with pkgs.python312Packages; [
       poetry-core
       pytest
     ];
 
-    propagatedBuildInputs = with pkgs.python311Packages; [
+    propagatedBuildInputs = with pkgs.python312Packages; [
       regex
     ];
 
@@ -249,12 +249,12 @@ in {
       hash = "sha256-QjfQ41mJTwl7xJTra4ahyA0RZxRN1YNwzyTuVBAqyZY=";
     };
 
-    buildInputs = with pkgs.python311Packages; [
+    buildInputs = with pkgs.python312Packages; [
       setuptools
       pytest
     ];
 
-    propagatedBuildInputs = with pkgs.python311Packages; [
+    propagatedBuildInputs = with pkgs.python312Packages; [
       requests
       urllib3
       urwid
@@ -281,12 +281,12 @@ in {
       hash = "sha256-qeP2dOTBT+WYNa2Lp5kjC+DuFKIqiZ9B2bgkcezM9Cs=";
     };
 
-    buildInputs = with pkgs.python311Packages; [
+    buildInputs = with pkgs.python312Packages; [
       poetry-core
       pytest
     ];
 
-    propagatedBuildInputs = with pkgs.python311Packages; [
+    propagatedBuildInputs = with pkgs.python312Packages; [
       plotly
     ];
 
@@ -308,7 +308,7 @@ in {
       sha256 = "sha256-1+z5RHRwdxTK5TkFY7R9RYQWtrrsv9dpXYSbOa15g0k=";
     };
 
-    cargoSha256 = "sha256-tcWCX5fuD7g7lK+E9zYbyowScXQwyauI5azKWDlBu1Y=";
+    cargoHash = "sha256-tcWCX5fuD7g7lK+E9zYbyowScXQwyauI5azKWDlBu1Y=";
 
     meta = with lib; {
       description = "One code quality tool to rule them all ";
@@ -356,7 +356,7 @@ in {
         --replace "json5==0.9.5" "json5>=0.9.5"
     '';
 
-    propagatedBuildInputs = with pkgs.python311Packages; [
+    propagatedBuildInputs = with pkgs.python312Packages; [
       colorama
       intervaltree
       json5
@@ -378,10 +378,10 @@ in {
           rev = "b967e4dc4a01bd4cc40d936a9399110467ac94f0";
           hash = "sha256-CCaK40ano/CzYKMAJ/2vjaRhx2GGmB170oLeVyMTNBw=";
         };
-        buildInputs = with pkgs.python311Packages; [
+        buildInputs = with pkgs.python312Packages; [
           flit-core
         ];
-        propagatedBuildInputs = with pkgs.python311Packages; [
+        propagatedBuildInputs = with pkgs.python312Packages; [
           astunparse
           stdlib-list
         ];
@@ -441,7 +441,7 @@ in {
       hash = "sha256-O5tQeccyZ+bcS4NAaR+GYL1I6wEAy3v4bYyEqcrWFnM=";
     };
 
-    buildInputs = with pkgs.python311Packages; [
+    buildInputs = with pkgs.python312Packages; [
       setuptools
       pip
       pytest
@@ -449,7 +449,7 @@ in {
       pytest-console-scripts
     ];
 
-    propagatedBuildInputs = with pkgs.python311Packages; [
+    propagatedBuildInputs = with pkgs.python312Packages; [
       python-dateutil
       ruamel-yaml
     ];
@@ -476,7 +476,7 @@ in {
       sha256 = "sha256-CgjcpFyKu1dFnqF1hd0D6h520dSWBX8zX0FusfOAv8Q=";
     };
 
-    cargoSha256 = "sha256-BL5R6dYBmyWB3RO+NYmyw/papa6SUxhhkJEOJD/iwQk=";
+    cargoHash = "sha256-BL5R6dYBmyWB3RO+NYmyw/papa6SUxhhkJEOJD/iwQk=";
 
     meta = with lib; {
       description = "CLI utility to find the union, intersection, set difference, etc of files considered as sets of lines";
@@ -496,7 +496,7 @@ in {
       sha256 = "sha256-O+9Gc5TFUfT5J9YbeBn5FKrYl+wSfl8sVM2vCgNvU/A=";
     };
 
-    cargoSha256 = "sha256-rQwGykK5Io5bzRfur4aAbuDPAuwEMJ4xjdjbRTECzXo=";
+    cargoHash = "sha256-rQwGykK5Io5bzRfur4aAbuDPAuwEMJ4xjdjbRTECzXo=";
 
     meta = with lib; {
       description = "The CSV magician";
@@ -604,11 +604,11 @@ in {
     };
 
     buildInputs = [
-      pkgs.python311Packages.setuptools
+      pkgs.python312Packages.setuptools
     ];
 
-    propagatedBuildInputs = with pkgs.python311Packages; [
-      pkgs.python311Packages.matplotlib
+    propagatedBuildInputs = with pkgs.python312Packages; [
+      pkgs.python312Packages.matplotlib
     ];
 
     meta = with lib; {
@@ -802,7 +802,7 @@ in {
       sha256 = "sha256-Y6lUfu0Wj3kka9VXluAdnalM/KULkLXol4pSbEZ07KM=";
     };
 
-    cargoSha256 = "sha256-UbZnmG+zRusEr1aJACvat/tlzHEZhLNaXPznD7L15Ao=";
+    cargoHash = "sha256-UbZnmG+zRusEr1aJACvat/tlzHEZhLNaXPznD7L15Ao=";
 
     meta = with lib; {
       description = "Encrypted memories";
@@ -871,7 +871,7 @@ in {
       sha256 = "sha256-3TNeLfI0DorsX44nI462R4zgonNRA12MYudsYqI7FDE=";
     };
 
-    cargoSha256 = "sha256-gUVwWbWtA6wuGVQjNc6ItUOHZppMYBYe5X4LwBzC/JU=";
+    cargoHash = "sha256-gUVwWbWtA6wuGVQjNc6ItUOHZppMYBYe5X4LwBzC/JU=";
 
     meta = with lib; {
       description = "file-sorter-rs is an automatic file sorting application that sorts your files into folders based on their file extension. With FileSorterX, you can easily keep your files organized and find what you need quickly.";
@@ -954,7 +954,7 @@ in {
     buildInputs = [
     ];
 
-    propagatedBuildInputs = with pkgs.python311Packages; [
+    propagatedBuildInputs = with pkgs.python312Packages; [
       openpyxl
       odfpy
       pyperclip
@@ -982,7 +982,7 @@ in {
     };
 
     nativeBuildInputs = [
-      pkgs.python311Packages.poetry-core
+      pkgs.python312Packages.poetry-core
     ];
 
     propagatedBuildInputs = [
@@ -1120,7 +1120,7 @@ in {
       sha256 = "sha256-jnSlRuotMsGn6DGoiZIqn5d7oq/svwCQ/lmg7SPoSeo=";
     };
 
-    cargoSha256 = "sha256-jU+UdL20rGlf1/xH9mpDcibWb4FHDlkbQs/2BKQl6uY=";
+    cargoHash = "sha256-jU+UdL20rGlf1/xH9mpDcibWb4FHDlkbQs/2BKQl6uY=";
 
     meta = with lib; {
       description = "Organize files based on regex rules, file extensions by default.";

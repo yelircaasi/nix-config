@@ -4,7 +4,7 @@
   ...
 }: {
   environment.systemPackages = let
-    landscape-client = pkgs.python311.pkgs.buildPythonApplication rec {
+    landscape-client = pkgs.python312.pkgs.buildPythonApplication rec {
       pname = "landscape-client";
       version = "2024-02-18";
 
@@ -16,12 +16,12 @@
       };
 
       nativeBuildInputs = with pkgs; [
-        python311Packages.setuptools
+        python312Packages.setuptools
         util-linux
         #apt
       ];
 
-      buildInputs = with pkgs.python311Packages; [
+      buildInputs = with pkgs.python312Packages; [
         configobj
         distutils-extra
         mock
@@ -36,7 +36,7 @@
       # checkInputs = [pkgs.pre-commit];
       checkInputs = [];
 
-      propagatedBuildInputs = with pkgs.python311Packages; [
+      propagatedBuildInputs = with pkgs.python312Packages; [
         configobj
         netifaces
         pycurl

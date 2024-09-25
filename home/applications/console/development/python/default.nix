@@ -6,7 +6,7 @@
   ...
 }: {
   home.packages = with pkgs; [
-    (python311.withPackages (ps:
+    (python312.withPackages (ps:
       with ps; [
         ipython
         matplotlib

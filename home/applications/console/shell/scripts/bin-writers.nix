@@ -26,7 +26,7 @@ in {
     writePython3Bin
     ;
   writePython3NoDepsBin = binName: scriptPath:
-    pkgs.writers.writePython3Bin binName {libraries = [pkgs.python311];}
+    pkgs.writers.writePython3Bin binName {libraries = [pkgs.python312];}
     (builtins.readFile
       scriptPath);
   /*

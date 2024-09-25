@@ -9,7 +9,7 @@
     taskwarrior-tui
     vit
     taskchampion-sync-server
-    syncall
+    # syncall
     taskopen
     tasknc
 

@@ -1,4 +1,11 @@
-rec {
+let
+  tmp = "placeholder";
+
+  attrSetFrom1ValueNKeys = value: keyList: builtins.foldl' (a: b: a // b) {} (builtins.map (k: {"${builtins.toString k}" = value;}) keyList);
+  attrSetFromFullSetAndKey = fullSet: value: attrSetFrom1ValueNKeys value fullSet.${value};
+  foldAttrSets = attrSetList: builtins.foldl' (a: b: a // b) {} attrSetList;
+  unpackCompact = compactSet: foldAttrSets (map (attrSetFromFullSetAndKey compactSet) (builtins.attrNames compactSet));
+in rec {
   # notes: best format should be universal, so maybe something that contains
   syntax = {
     "action" = "someActionTaken";
@@ -9,9 +16,9 @@ rec {
   };
   # keysAlternative = "${key} | ${mod}+${base} | ${mod}+${base}+${base} | ${chord1} ${chord2} | ${chord1} ${chord2} ${chord3}";
   phys = {
-    ph = "PLACEHOLDER";
+    placeholder = "PLACEHOLDER";
 
-    escape = "ESC";
+    escape = "esc";
     f1 = "f1";
     f2 = "f2";
     f3 = "f3";
@@ -24,11 +31,11 @@ rec {
     f10 = "f10";
     f11 = "f11";
     f12 = "f12";
-    printScreen = "PRINTSCREEN";
-    insert = "INSERT";
-    delete = "DELETE";
+    printScreen = "printScreen";
+    insert = "insert";
+    delete = "delete";
 
-    backtick = "BACKTICK";
+    backtick = "backtick";
     _0 = "_0";
     _1 = "_1";
     _2 = "_2";
@@ -39,11 +46,11 @@ rec {
     _7 = "_7";
     _8 = "_8";
     _9 = "_9";
-    hyphen = "HYPHEN";
-    equals = "EQUALS";
-    backspace = "BACKSPACE";
+    hyphen = "hyphen";
+    equals = "equals";
+    backspace = "backspace";
 
-    tab = "TAB";
+    tab = "tab";
     q = "q";
     w = "w";
     e = "e";
@@ -54,11 +61,11 @@ rec {
     i = "i";
     o = "o";
     p = "p";
-    leftSquareBracket = "LEFTSQUAREBRACKET";
-    rightSquareBracket = "RIGHTSQUAREBRACKET";
-    backslash = "BACKSLASH";
+    leftSquareBracket = "leftSquareBracket";
+    rightSquareBracket = "rightSquareBracket";
+    backslash = "backslash";
 
-    capsLock = "CAPSLOCK";
+    capsLock = "capsLock";
     a = "a";
     s = "s";
     d = "d";
@@ -68,10 +75,11 @@ rec {
     j = "j";
     k = "k";
     l = "l";
-    semicolon = "SEMICOLON";
-    singleQuote = "SINGLEQUOTE";
-    enter = "ENTER";
+    semicolon = "semicolon";
+    singleQuote = "singleQuote";
+    enter = "enter";
 
+    lshift = "lshift";
     z = "z";
     x = "x";
     c = "c";
@@ -79,18 +87,20 @@ rec {
     b = "b";
     n = "n";
     m = "m";
-    comma = "COMMA";
-    period = "PERIOD";
-    slash = "SLASH";
+    comma = "comma";
+    period = "period";
+    slash = "slash";
+    rshift = "rshift";
 
-    lctrl = "LCTRL";
-    fn = "FN";
-    super = "SUPER";
-    alt = "ALT";
-    space = "SPACE";
-    altGr = "ALTGR";
-    menu = "MENU";
-    rctrl = "RCTRL";
+    lctrl = "lctrl";
+    fn = "fn";
+    super = "super";
+    alt = "alt";
+    space = "space";
+    altGr = "altGr";
+    rsuper = "rsuper";
+    menu = "menu";
+    rctrl = "rctrl";
 
     # f1 = "f1";
     # f2 = "f2";
@@ -105,60 +115,60 @@ rec {
     # f11 = "f11";
     # f12 = "f12";
 
-    # insert = "INSERT";
-    home = "HOME";
-    end = "END";
-    pageUp = "PAGEUP";
-    pageDown = "PAGEDOWN";
-    # delete = "DELETE";
+    # insert = "insert";
+    home = "home";
+    end = "end";
+    pageUp = "pageUp";
+    pageDown = "pageDown";
+    # delete = "delete";
 
-    leftArrow = "LEFT";
-    rightArrow = "RIGHT";
-    upArrow = "UP";
-    downArrow = "DOWN";
+    leftArrow = "leftArrow";
+    rightArrow = "rightArrow";
+    upArrow = "upArrow";
+    downArrow = "downArrow";
 
-    # printScreen = "PRINTSCREEN";
-    scrollLock = "SCROLLLOCK";
-    pause = "PAUSE";
+    # printScreen = "printScreen";
+    scrollLock = "scrollLock";
+    pause = "pause";
 
-    num0 = "NUM0";
-    num1 = "NUM1";
-    num2 = "NUM2";
-    num3 = "NUM3";
-    num4 = "NUM4";
-    num5 = "NUM5";
-    num6 = "NUM6";
-    num7 = "NUM7";
-    num8 = "NUM8";
-    num9 = "NUM9";
-    numLock = "NUMLOCK";
-    numSlash = "NUMSLASH";
-    numAsterisk = "NUMASTERISK";
-    numHyphen = "NUMHYPHEN";
-    numPlus = "NUMPLUS";
-    numReturn = "NUMRETURN";
-    numPeriod = "NUMPERIOD";
-    # copy = "COPY";
-    # paste = "PASTE";
+    num0 = "num0";
+    num1 = "num1";
+    num2 = "num2";
+    num3 = "num3";
+    num4 = "num4";
+    num5 = "num5";
+    num6 = "num6";
+    num7 = "num7";
+    num8 = "num8";
+    num9 = "num9";
+    numLock = "numLock";
+    numSlash = "numSlash";
+    numAsterisk = "numAsterisk";
+    numHyphen = "numHyphen";
+    numPlus = "numPlus";
+    numReturn = "numReturn";
+    numPeriod = "numPeriod";
+    # copy = "copy";
+    # paste = "paste";
   };
 
   sem = {
     # enum-like attrset to ensure internal uniformity of key naming conventions
     none = "NONE";
+    placeholder = "PLACEHOLDER";
 
-    ph = "PLACEHOLDER";
-    super = "SUPER";
-    alt = "ALT";
-    ctrl = "CTRL";
-    lctrl = "LCTRL";
-    rctrl = "RCTRL";
-    altGr = "ALTGR";
-    lsuper = "LSUPER";
-    rsuper = "RSUPER";
-    shift = "SHIFT";
-    lshift = "LSHIFT";
-    rshift = "RSHIFT";
-    tab = "TAB";
+    super = "super";
+    alt = "alt";
+    ctrl = "ctrl";
+    lctrl = "lctrl";
+    rctrl = "rctrl";
+    altGr = "altGr";
+    lsuper = "lsuper";
+    rsuper = "rsuper";
+    shift = "shift";
+    lshift = "lshift";
+    rshift = "rshift";
+    tab = "tab";
 
     a = "a";
     b = "b";
@@ -198,47 +208,47 @@ rec {
     _8 = "_8";
     _9 = "_9";
 
-    return = "RETURN";
-    space = "SPACE";
-    newline = "NEWLINE"; #                     "\n"
-    carriageReturn = "CARRIAGERETURN"; #       "\r"
-    tabulation = "TABULATION"; #               "\t"
-    backspace = "BACKSPACE";
-    exclamationMark = "EXCLAMATIONMARK";
-    at = "AT";
-    backtick = "BACKTICK";
-    tilde = "TILDE";
-    octothorpe = "OCTOTHORPE";
-    dollar = "DOLLAR";
-    percent = "PERCENT";
-    caret = "CARET";
-    ampersand = "AMPERSAND";
-    asterisk = "ASTERISK";
-    leftParenthesis = "LEFTPARENTHESIS";
-    rightParenthesis = "RIGHTPARENTHESIS";
-    hyphen = "HYPHEN";
-    underscore = "UNDERSCORE";
-    equals = "EQUALS";
-    plus = "PLUS";
-    singleQuote = "SINGLEQUOTE";
-    doubleQuote = "DOUBLEQUOTE";
-    semicolon = "SEMICOLON";
-    colon = "COLON";
+    return = "return";
+    space = "space";
+    newline = "newline"; #                     "\n"
+    carriageReturn = "carriageReturn"; #       "\r"
+    tabulation = "tabulation"; #               "\t"
+    backspace = "backspace";
+    exclamationMark = "exclamationMark";
+    at = "at";
+    backtick = "backtick";
+    tilde = "tilde";
+    octothorpe = "octothorpe";
+    dollar = "dollar";
+    percent = "dollar";
+    caret = "caret";
+    ampersand = "ampersand";
+    asterisk = "asterisk";
+    leftParenthesis = "leftParenthesis";
+    rightParenthesis = "rightParenthesis";
+    hyphen = "hyphen";
+    underscore = "underscore";
+    equals = "equals";
+    plus = "plus";
+    singleQuote = "singleQuote";
+    doubleQuote = "doubleQuote";
+    semicolon = "semicolon";
+    colon = "colon";
     leftSquareBracket = "leftSquareBracket";
     rightSquareBracket = "rightSquareBracket";
     leftCurlyBracket = "leftCurlyBracket";
     rightCurlyBracket = "rightCurlyBracket";
-    backslash = "BACKSLASH";
-    pipe = "PIPE";
-    comma = "COMMA";
-    period = "PERIOD";
-    slash = "SLASH";
-    questionMark = "QUESTIONMARK";
-    lessThan = "LESSTHAN";
-    greaterThan = "GREATERTHAN";
+    backslash = "backslash";
+    pipe = "pipe";
+    comma = "comma";
+    period = "period";
+    slash = "slash";
+    questionMark = "slash";
+    lessThan = "lessThan";
+    greaterThan = "greaterThan";
 
-    escape = "ESCAPE";
-    capsLock = "CAPSLOCK";
+    escape = "escape";
+    capsLock = "capsLock";
 
     f1 = "f1";
     f2 = "f2";
@@ -253,45 +263,126 @@ rec {
     f11 = "f11";
     f12 = "f12";
 
-    insert = "INSERT";
-    home = "HOME";
-    end = "END";
-    pageUp = "PAGEUP";
-    pageDown = "PAGEDOWN";
-    delete = "DELETE";
+    insert = "insert";
+    home = "home";
+    end = "end";
+    pageUp = "pageUp";
+    pageDown = "pageDown";
+    delete = "delete";
 
-    leftArrow = "LEFT";
-    rightArrow = "RIGHT";
-    upArrow = "UP";
-    downArrow = "DOWN";
+    leftArrow = "delete";
+    rightArrow = "rightArrow";
+    upArrow = "upArrow";
+    downArrow = "upArrow";
 
-    printScreen = "PRINTSCREEN";
-    scrollLock = "SCROLLLOCK";
-    pause = "PAUSE";
+    printScreen = "printScreen";
+    scrollLock = "scrollLock";
+    pause = "pause";
 
-    num0 = "NUM0";
-    num1 = "NUM1";
-    num2 = "NUM2";
-    num3 = "NUM3";
-    num4 = "NUM4";
-    num5 = "NUM5";
-    num6 = "NUM6";
-    num7 = "NUM7";
-    num8 = "NUM8";
-    num9 = "NUM9";
-    numLock = "NUMLOCK";
-    numSlash = "NUMSLASH";
-    numAsterisk = "NUMASTERISK";
-    numHyphen = "NUMHYPHEN";
-    numPlus = "NUMPLUS";
-    numReturn = "NUMRETURN";
-    numPeriod = "NUMPERIOD";
-    copy = "COPY";
-    paste = "PASTE";
+    num0 = "num0";
+    num1 = "num1";
+    num2 = "num2";
+    num3 = "num3";
+    num4 = "num4";
+    num5 = "num5";
+    num6 = "num6";
+    num7 = "num7";
+    num8 = "num8";
+    num9 = "num9";
+    numLock = "numLock";
+    numSlash = "numSlash";
+    numAsterisk = "numAsterisk";
+    numHyphen = "numHyphen";
+    numPlus = "numPlus";
+    numReturn = "numReturn";
+    numPeriod = "numPeriod";
+    copy = "copy";
+    paste = "paste";
   };
-  keys = phys // sem;
 
-  commands = keys; #commands = {ph = "PLACEHOLDER";};
+  keys = phys // sem; # TODO
+
+  commands = keys; #commands = {placeholder = "placeholder";};  # TODO
+
+  generalAssociationsRaw = {
+    ${phys._0} = ["rightRingFingerMod"];
+    ${phys._1} = [];
+    ${phys._2} = ["leftRingFingerMod"];
+    ${phys._3} = ["leftMiddleFingerMod"];
+    ${phys._4} = ["leftIndexFingerMod"];
+    ${phys._5} = [];
+    ${phys._6} = [];
+    ${phys._7} = [];
+    ${phys._8} = ["rightIndexFingerMod"];
+    ${phys._9} = ["rightMiddleFingerMod"];
+    ${phys.a} = ["execute"];
+    ${phys.alt} = [];
+    ${phys.altGr} = [];
+    ${phys.b} = [];
+    ${phys.backslash} = ["killPart"];
+    ${phys.backspace} = [];
+    ${phys.backtick} = [];
+    ${phys.c} = ["copy"];
+    ${phys.capsLock} = [];
+    ${phys.comma} = [];
+    ${phys.d} = ["delete"];
+    ${phys.e} = ["explore"];
+    ${phys.enter} = ["enter"];
+    ${phys.equals} = ["increase"];
+    ${phys.escape} = [];
+    ${phys.f} = ["fullscreen"];
+    ${phys.f1} = ["help"];
+    ${phys.f2} = [];
+    ${phys.f4} = [];
+    ${phys.f5} = [];
+    ${phys.f6} = [];
+    ${phys.f7} = [];
+    ${phys.f8} = [];
+    ${phys.f9} = [];
+    ${phys.f10} = [];
+    ${phys.f11} = [];
+    ${phys.f12} = [];
+    ${phys.fn} = [];
+    ${phys.g} = [];
+    ${phys.h} = ["left"];
+    ${phys.hyphen} = ["decrease"];
+    ${phys.i} = ["insertMode"];
+    ${phys.j} = ["down"];
+    ${phys.k} = ["up"];
+    ${phys.l} = ["right"];
+    ${phys.lctrl} = [];
+    ${phys.leftSquareBracket} = ["downOrLeftOther"];
+    ${phys.lshift} = [];
+    ${phys.m} = ["hide"];
+    ${phys.menu} = [];
+    ${phys.n} = ["new"];
+    ${phys.o} = ["open"];
+    ${phys.p} = ["clear"]; # purge
+    ${phys.period} = ["repeat"];
+    ${phys.q} = ["kill"];
+    ${phys.r} = ["reload"];
+    ${phys.rctrl} = [];
+    ${phys.rightSquareBracket} = ["upOrRightOther"];
+    ${phys.rshift} = [];
+    ${phys.rsuper} = [];
+    ${phys.s} = [];
+    ${phys.semicolon} = [];
+    ${phys.singleQuote} = [];
+    ${phys.slash} = ["search"];
+    ${phys.space} = [];
+    ${phys.super} = [];
+    ${phys.t} = ["newPart"];
+    ${phys.tab} = [];
+    ${phys.u} = ["undo"];
+    ${phys.v} = ["paste"];
+    ${phys.w} = ["windowNavigation"];
+    ${phys.x} = ["cut"];
+    ${phys.y} = [];
+    ${phys.z} = [];
+  };
+
+  generalAssociations = unpackCompact generalAssociationsRaw;
+
   layers = rec {
     physical = {}; #() keys; # map every key name to itself
     default = physical // {}; # keys.insert;
@@ -414,86 +505,86 @@ rec {
   layerAccessKeys = {
     physical = {
       # en_US basic
-      tap = [keys.ph];
-      hold = [keys.ph];
-      sticky = [keys.ph];
+      tap = [keys.placeholder];
+      hold = [keys.placeholder];
+      sticky = [keys.placeholder];
     };
     default = {
-      tap = [keys.ph];
-      hold = [keys.ph];
-      sticky = [keys.ph];
+      tap = [keys.placeholder];
+      hold = [keys.placeholder];
+      sticky = [keys.placeholder];
     };
     number = {
-      tap = [keys.ph];
-      hold = [keys.ph];
-      sticky = [keys.ph];
+      tap = [keys.placeholder];
+      hold = [keys.placeholder];
+      sticky = [keys.placeholder];
     };
     parentheses = {
-      tap = [keys.ph];
-      hold = [keys.ph];
-      sticky = [keys.ph];
+      tap = [keys.placeholder];
+      hold = [keys.placeholder];
+      sticky = [keys.placeholder];
     };
     asciiSpecial = {
       tap = [keys._0];
       hold = [keys.semicolon];
-      sticky = [keys.ph];
+      sticky = [keys.placeholder];
     };
     unicodeFavorites = {
-      tap = [keys.ph];
-      hold = [keys.ph];
-      sticky = [keys.ph];
+      tap = [keys.placeholder];
+      hold = [keys.placeholder];
+      sticky = [keys.placeholder];
     };
     international = {
-      tap = [keys.ph];
-      hold = [keys.ph];
-      sticky = [keys.ph];
+      tap = [keys.placeholder];
+      hold = [keys.placeholder];
+      sticky = [keys.placeholder];
     };
     cyrillic = {
-      tap = [keys.ph];
-      hold = [keys.ph];
-      sticky = [keys.ph];
+      tap = [keys.placeholder];
+      hold = [keys.placeholder];
+      sticky = [keys.placeholder];
     };
   };
   simpleRemaps = {
     ${phys.escape} = commands.capsLock;
     ${phys.capsLock} = commands.escape;
-    ${phys._1} = commands.ph;
+    ${phys._1} = commands.placeholder;
     ${phys._2} = commands.super;
     ${phys._3} = commands.alt; # for terminal navigation
-    ${phys._4} = commands.ph;
-    ${phys._5} = commands.ph;
-    ${phys._6} = commands.ph;
-    ${phys._7} = commands.ph;
-    ${phys._8} = commands.ph;
+    ${phys._4} = commands.placeholder;
+    ${phys._5} = commands.placeholder;
+    ${phys._6} = commands.placeholder;
+    ${phys._7} = commands.placeholder;
+    ${phys._8} = commands.placeholder;
     ${phys._9} = commands.alt;
     ${phys._0} = commands.super;
 
-    ${phys.printScreen} = commands.ph;
-    ${phys.scrollLock} = commands.ph;
-    ${phys.pause} = commands.ph;
-    ${phys.insert} = commands.ph;
-    ${phys.delete} = commands.ph;
-    ${phys.home} = commands.ph;
-    ${phys.end} = commands.ph;
-    ${phys.pageUp} = commands.ph;
-    ${phys.numLock} = commands.ph;
-    ${phys.numSlash} = commands.ph;
-    ${phys.numAsterisk} = commands.ph;
-    ${phys.numHyphen} = commands.ph;
-    ${phys.num1} = commands.ph;
-    ${phys.num2} = commands.ph;
-    ${phys.num3} = commands.ph;
-    ${phys.num4} = commands.ph;
-    ${phys.num5} = commands.ph;
-    ${phys.num6} = commands.ph;
-    ${phys.num7} = commands.ph;
-    ${phys.num8} = commands.ph;
-    ${phys.num9} = commands.ph;
-    ${phys.num0} = commands.ph;
-    ${phys.numPeriod} = commands.ph;
-    ${phys.numReturn} = commands.ph;
-    ${phys.numPlus} = commands.ph;
-    ${phys.ph} = commands.ph;
+    ${phys.printScreen} = commands.placeholder;
+    ${phys.scrollLock} = commands.placeholder;
+    ${phys.pause} = commands.placeholder;
+    ${phys.insert} = commands.placeholder;
+    ${phys.delete} = commands.placeholder;
+    ${phys.home} = commands.placeholder;
+    ${phys.end} = commands.placeholder;
+    ${phys.pageUp} = commands.placeholder;
+    ${phys.numLock} = commands.placeholder;
+    ${phys.numSlash} = commands.placeholder;
+    ${phys.numAsterisk} = commands.placeholder;
+    ${phys.numHyphen} = commands.placeholder;
+    ${phys.num1} = commands.placeholder;
+    ${phys.num2} = commands.placeholder;
+    ${phys.num3} = commands.placeholder;
+    ${phys.num4} = commands.placeholder;
+    ${phys.num5} = commands.placeholder;
+    ${phys.num6} = commands.placeholder;
+    ${phys.num7} = commands.placeholder;
+    ${phys.num8} = commands.placeholder;
+    ${phys.num9} = commands.placeholder;
+    ${phys.num0} = commands.placeholder;
+    ${phys.numPeriod} = commands.placeholder;
+    ${phys.numReturn} = commands.placeholder;
+    ${phys.numPlus} = commands.placeholder;
+    ${phys.placeholder} = commands.placeholder;
   };
   hybridModifiers = {
     "${phys.capsLock}" = {
@@ -501,164 +592,164 @@ rec {
       hold = sem.ctrl;
     };
     "${phys._1}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys._2}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys._3}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys._4}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys._5}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys._6}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys._7}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys._8}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys._9}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.backtick}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.hyphen}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.equals}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.leftSquareBracket}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.rightSquareBracket}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.backslash}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.semicolon}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.singleQuote}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.comma}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.period}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.slash}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.tab}" = {
       tap = sem.tab;
-      hold = sem.ph;
+      hold = sem.placeholder;
     };
     "${phys.insert}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.home}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.pageUp}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.delete}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.end}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.pageDown}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.f1}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.f2}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.f3}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.f4}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.f5}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.f6}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.f7}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.f8}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.f9}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.f10}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.f11}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
     "${phys.f12}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
-    "${phys.ph}" = {
-      tap = sem.ph;
-      hold = sem.ph;
+    "${phys.placeholder}" = {
+      tap = sem.placeholder;
+      hold = sem.placeholder;
     };
   };
   bigramHybridRemaps = {
@@ -687,44 +778,22 @@ rec {
     "${keys.w}${keys.w}" = {};
     "${keys.p}${keys.q}" = {};
   };
-
   move = {
   };
   modModifier = {
     sideEffect = keys.shift;
   };
-  sem = {
-    kill = keys.q;
-    killPart = keys.backslash;
-    # copy = keys.c;
-    # paste = keys.v;
-    hide = keys.m; # masquer, mache unsichtbar :)
-    new = keys.n;
-    newPart = keys.t;
-    decrease = keys.hyphen;
-    increase = keys.plus;
-    fullscreen = keys.f;
-    search = keys.slash;
-    explore = keys.e;
-    reload = keys.r;
-    clear = keys.p; # purge
-    left = keys.h;
-    down = keys.j;
-    up = keys.k;
-    right = keys.l;
-    downOrLeftAlt = keys.leftSquareBracket;
-    upOrRightAlt = keys.rightSquareBracket;
-  };
+
   desktop = let
-    mod = keys.super;
+    desktopMod = keys.super;
   in {
     compositor = rec {
       logoutMenu = {};
       launcher = {};
       lockScreen = {};
       killActive = {
-        inherit mod;
-        base = sem.kill;
+        inherit desktopMod;
+        base = generalAssociations.kill;
       };
       launch = {
         defaultTerminal = {};
@@ -732,7 +801,7 @@ rec {
         defaultFileBrowserGUI = {};
         defaultFileBrowserTUI = {};
         firefox = {
-          mod = keys.ph;
+          mod = keys.placeholder;
           base = "";
         };
         wezterm = {};
@@ -822,7 +891,11 @@ rec {
       bar = {};
     };
   };
-  terminal = {
+  terminal = let
+    terminalLeader = "placeholder";
+    terminalNavigationKey = "placeholder";
+    terminalStateChangeKey = "placeholder";
+  in {
     newPane = {
       right = {};
       left = {};
@@ -883,59 +956,532 @@ rec {
       }) {} [1 2 3 4 5 6 7 8 9];
   };
   # goToTabN = lib.attrSets.genAttrs (name:
-  ide = {
-    writeFile = {};
-    writeAndQuit = {};
+  ide = let
+    ideLeader = "placeholder";
+    ideNavigationKey = "placeholder";
+    ideStateChangeKey = "placeholder";
+  in {
+    writeFile = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    writeAndQuit = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
 
     # terminal
-    openTerminal = {};
+    openTerminal = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
     closeTerminal = {};
 
     # file exploration
-    openFileTree = {};
-    closeFileTree = {};
-    openFloatingFileBrowser = {};
-    closeFloatingFileBrowser = {};
+    openFileTree = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    closeFileTree = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    openFloatingFileBrowser = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    closeFloatingFileBrowser = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
 
     # opening files
-    openFileInSplitLeft = {};
-    openFileInSplitRight = {};
-    openFileInSplitAbove = {};
-    openFileInSplitBelow = {};
+    openFileInSplitLeft = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    openFileInSplitRight = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    openFileInSplitAbove = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    openFileInSplitBelow = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
 
     # navigation between files
-    goToNextBuffer = {};
-    goToPreviousBuffer = {};
-    goToNextTab = {};
-    goToPreviousTab = {};
-    goToWindowRight = {};
-    goToWindowLeft = {};
-    goToWindowAbove = {};
-    goToWindowBelow = {};
-    resizeSplitLeft = {};
-    resizeSplitRight = {};
-    resizeSplitUp = {};
-    resizeSplitDown = {};
+    goToNextBuffer = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader ideNavigationKey];
+        base = [phys.placeholder];
+      };
+    };
+    goToPreviousBuffer = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder ideNavigationKey];
+      };
+    };
+    goToNextTab = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder ideNavigationKey];
+      };
+    };
+    goToPreviousTab = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder ideNavigationKey];
+      };
+    };
+    goToWindowRight = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader ideNavigationKey];
+        base = [phys.l];
+      };
+    };
+    goToWindowLeft = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader ideNavigationKey];
+        base = [phys.h];
+      };
+    };
+    goToWindowAbove = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader ideNavigationKey];
+        base = [phys.k];
+      };
+    };
+    goToWindowBelow = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader ideNavigationKey];
+        base = [phys.j];
+      };
+    };
+
+    # layout modification
+    closeCurrentBuffer = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    closeAllBuffers = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+
+    resizeSplitLeft = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader ideStateChangeKey ideNavigationKey];
+        base = [phys.h];
+      };
+    };
+    resizeSplitRight = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader ideStateChangeKey ideNavigationKey];
+        base = [phys.l];
+      };
+    };
+    resizeSplitUp = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader ideStateChangeKey ideNavigationKey];
+        base = [phys.k];
+      };
+    };
+    resizeSplitDown = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader ideStateChangeKey ideNavigationKey];
+        base = [phys.j];
+      };
+    };
+
+    switchWindowWithRight = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified"; # if bare, then {base = [];}; if sticky, then {prefix = []; base = [];}; if mod, then {mod = []; base = [];};
+      keys = {
+        mod = [ideLeader ideStateChangeKey];
+        base = [phys.l];
+      };
+      commandText = "";
+    };
+    switchWindowWithLeft = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader ideStateChangeKey];
+        base = [phys.h];
+      };
+      commandText = "";
+    };
+    switchWindowWithBelow = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader ideStateChangeKey];
+        base = [phys.j];
+      };
+      commandText = "";
+    };
+    switchWindowWithAbove = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader ideStateChangeKey];
+        base = [phys.k];
+      };
+      commandText = "";
+    };
+
+    # code navigation
+    goToDefinition = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    previewInstances = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    goToContainingSymbol = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    openPathUnderCursor = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+
+    # quickfix
+    openQuickfixWindow = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    goToIssue = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
 
     # linting, formatting, testing, etc. and related navigation
-    lintFullDirectory = {};
-    typeCheckFullDirectory = {};
-    runAllTests = {};
-    goToLintOrTestOutput = {};
-    openFileFromLintOrTestOutput = {};
-    incrementValueUnderCursor = {};
-    openLinkInBrowser = {};
-    pickBuffer = {};
+    formatFullDirectory = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    lintFullDirectory = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    lintAndFormatFullDirectory = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    typeCheckFullDirectory = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    runAllTests = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    goToLintOrTestOutput = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    openFileFromLintOrTestOutput = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    incrementOrToggleValueUnderCursor = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    openLinkInBrowser = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    pickBuffer = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
 
     # refactoring
+    extractMethod = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    inlineMethod = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
 
     # snippets
+    openSnippetMenu = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
+    attemptReplaceWithSnippet = {
+      description = "";
+      scope = ["ide"];
+      mode = ["normal"];
+      type = "modified";
+      keys = {
+        mod = [ideLeader];
+        base = [phys.placeholder];
+      };
+    };
 
     # autocomplete
 
     # code actions (first need to configure lspsaga)
     ## https://github.com/aznhe21/actions-preview.nvim
-
-    # quickfix
   };
 }

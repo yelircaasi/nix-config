@@ -64,8 +64,10 @@
     then attrSet.${attrName}
     else defaultValue;
 
-  getKeyName = keyNameAttrSet: keyName: if builtins.hasAttr keyName keyNameAttrSet 
-    then keyNameAttrSet.${keyName} else "__ERROR__"; #(keyNameAttrSet // {LOOKUPNAME = keyName;});
+  getKeyName = keyNameAttrSet: keyName:
+    if builtins.hasAttr keyName keyNameAttrSet
+    then keyNameAttrSet.${keyName}
+    else "__ERROR__"; #(keyNameAttrSet // {LOOKUPNAME = keyName;});
 
   getKeyNameWithDefault = keyNameAttrSet: keyName: withDefault keyName keyNameAttrSet keyName;
 
@@ -236,7 +238,7 @@
   # convertwezterm = weztermLegend: weztermMappings: lib.attrsets.mapAttrs (formatWeztermBinding nameMaps.wezterm);
   convertApp = appBindingConverter: appMappingDefinitions: lib.attrsets.mapAttrs appBindingConverter appMappingDefinitions;
 
-  weztermAppBindingConverter = (name: value: (formatWeztermBinding nameMaps.wezterm) value);
+  weztermAppBindingConverter = name: value: (formatWeztermBinding nameMaps.wezterm) value;
 
   nameMaps = {
     sway = {
@@ -247,13 +249,15 @@
       inherit (alphabetLowercase);
     };
 
-    hyprland = {
-      ${keys.super} = "SUPER";
-      ${keys.shift} = "SHIFT";
-      # mainMod = "$mainMod"
-      # inherit (alphabetUppercase);
-      inherit (alphabetLowercase);
-    } // keys;
+    hyprland =
+      {
+        ${keys.super} = "SUPER";
+        ${keys.shift} = "SHIFT";
+        # mainMod = "$mainMod"
+        # inherit (alphabetUppercase);
+        inherit (alphabetLowercase);
+      }
+      // keys;
 
     kanata = {
       inherit (alphabetLowercase);

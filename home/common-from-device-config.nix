@@ -41,6 +41,7 @@ in {
       ./applications/console/shell
       ./applications/console/timer-clock
       ./applications/console/viewing
+      ./applications/console/visualization
 
       ./applications/gui/dev-tools
       ./applications/gui/media/editing

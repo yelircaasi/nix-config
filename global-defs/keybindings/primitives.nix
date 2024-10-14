@@ -5,6 +5,8 @@ let
   attrSetFromFullSetAndKey = fullSet: value: attrSetFrom1ValueNKeys value fullSet.${value};
   foldAttrSets = attrSetList: builtins.foldl' (a: b: a // b) {} attrSetList;
   unpackCompact = compactSet: foldAttrSets (map (attrSetFromFullSetAndKey compactSet) (builtins.attrNames compactSet));
+
+  makeForNums = map
 in rec {
   # notes: best format should be universal, so maybe something that contains
   syntax = {
@@ -305,6 +307,55 @@ in rec {
   commands = keys; #commands = {placeholder = "placeholder";};  # TODO
 
   generalAssociationsRaw = {
+    
+    ${phys.a} = ["execute" "alter" "changeState" "_5"];
+    ${phys.b} = [];
+    ${phys.backslash} = ["killPart"];
+    ${phys.backspace} = [];
+    ${phys.c} = ["copy"];
+    ${phys.capsLock} = [];
+    ${phys.comma} = [];
+    ${phys.d} = ["delete" "_7"];
+    ${phys.e} = ["explore" "windowModification" "_2"];
+    ${phys.enter} = ["enter"];
+    ${phys.equals} = ["increase"];
+    ${phys.f} = ["fullscreen" "_8"];
+    ${phys.g} = ["goTo" "_9"];
+    ${phys.h} = ["left"];
+    ${phys.hyphen} = ["decrease"];
+    ${phys.i} = ["insertMode"];
+    ${phys.j} = ["down"];
+    ${phys.k} = ["up"];
+    ${phys.l} = ["right"];
+    ${phys.leftSquareBracket} = ["space" "previous" "downOrLeftOther"];
+    ${phys.rightSquareBracket} = ["upOrRightOther"];
+    ${phys.lshift} = [];
+    ${phys.m} = ["hide"];
+    ${phys.n} = ["new"];
+    ${phys.o} = ["open"];
+    ${phys.p} = ["paste"]; # purge
+    ${phys.period} = ["repeat"];
+    ${phys.q} = ["quit" "kill" "_0"];
+    ${phys.r} = ["rename" "reload" "_3"];
+    ${phys.rctrl} = [];
+    ${phys.rshift} = [];
+    ${phys.s} = ["save" "_6"];
+    ${phys.semicolon} = ["useOtherAssociation" "space" "vimNavigation"];
+    ${phys.singleQuote} = [];
+    ${phys.slash} = ["search"];
+    ${phys.space} = [];
+    ${phys.super} = [];
+    ${phys.t} = ["newPart" "_4"];
+    ${phys.tab} = [];
+    ${phys.u} = ["undo"];
+    ${phys.v} = [];
+    ${phys.w} = ["windowNavigation" "write" "_1"];
+    ${phys.x} = ["cut" "delete"];
+    ${phys.y} = ["yank"];
+    ${phys.z} = ["fold"];
+
+    # top row
+    ${phys.backtick} = [];
     ${phys._0} = ["rightRingFingerMod"];
     ${phys._1} = [];
     ${phys._2} = ["leftRingFingerMod"];
@@ -315,22 +366,11 @@ in rec {
     ${phys._7} = [];
     ${phys._8} = ["rightIndexFingerMod"];
     ${phys._9} = ["rightMiddleFingerMod"];
-    ${phys.a} = ["execute"];
-    ${phys.alt} = [];
-    ${phys.altGr} = [];
-    ${phys.b} = [];
-    ${phys.backslash} = ["killPart"];
-    ${phys.backspace} = [];
-    ${phys.backtick} = [];
-    ${phys.c} = ["copy"];
-    ${phys.capsLock} = [];
-    ${phys.comma} = [];
-    ${phys.d} = ["delete"];
-    ${phys.e} = ["explore"];
-    ${phys.enter} = ["enter"];
-    ${phys.equals} = ["increase"];
-    ${phys.escape} = [];
-    ${phys.f} = ["fullscreen"];
+
+    # less comfortable/accessible
+    ${phys.lctrl} = [];
+    ${phys.escape} = ["capsLock"];
+    
     ${phys.f1} = ["help"];
     ${phys.f2} = [];
     ${phys.f4} = [];
@@ -342,58 +382,38 @@ in rec {
     ${phys.f10} = [];
     ${phys.f11} = [];
     ${phys.f12} = [];
+
+    # primarily mods
+    ${phys.alt} = [];
+    ${phys.altGr} = [];
+    
+    # not universal keys
     ${phys.fn} = [];
-    ${phys.g} = [];
-    ${phys.h} = ["left"];
-    ${phys.hyphen} = ["decrease"];
-    ${phys.i} = ["insertMode"];
-    ${phys.j} = ["down"];
-    ${phys.k} = ["up"];
-    ${phys.l} = ["right"];
-    ${phys.lctrl} = [];
-    ${phys.leftSquareBracket} = ["downOrLeftOther"];
-    ${phys.lshift} = [];
-    ${phys.m} = ["hide"];
-    ${phys.menu} = [];
-    ${phys.n} = ["new"];
-    ${phys.o} = ["open"];
-    ${phys.p} = ["clear"]; # purge
-    ${phys.period} = ["repeat"];
-    ${phys.q} = ["kill"];
-    ${phys.r} = ["reload"];
-    ${phys.rctrl} = [];
-    ${phys.rightSquareBracket} = ["upOrRightOther"];
-    ${phys.rshift} = [];
     ${phys.rsuper} = [];
-    ${phys.s} = [];
-    ${phys.semicolon} = [];
-    ${phys.singleQuote} = [];
-    ${phys.slash} = ["search"];
-    ${phys.space} = [];
-    ${phys.super} = [];
-    ${phys.t} = ["newPart"];
-    ${phys.tab} = [];
-    ${phys.u} = ["undo"];
-    ${phys.v} = ["paste"];
-    ${phys.w} = ["windowNavigation"];
-    ${phys.x} = ["cut"];
-    ${phys.y} = [];
-    ${phys.z} = [];
+    ${phys.menu} = [];
+    
   };
 
   generalAssociations = unpackCompact generalAssociationsRaw;
 
   layers = rec {
     physical = {}; #() keys; # map every key name to itself
-    default = physical // {}; # keys.insert;
+    normalMode = physical // {
+      # special layer analogous to vim's normal mode, good for navigation and performing actions other than typing text
+      
+    }; # keys.insert;
+    insertMode = physical // {
+      
+    }; # keys.insert;
     number =
       default
       // {
+        
         /*
         q0  w1  e2  r3  t4
          a5  s6  d7  f8  g9
         */
-        ${phys.q} = 0;
+        ${phys.${generalAssociationsRaw._0}} = 0;
         ${phys.w} = 1;
         ${phys.e} = 2;
         ${phys.r} = 3;
@@ -413,6 +433,9 @@ in rec {
          a{  s}  d(  f)  g⸨  h⸩  j«  k»  l‹  ;›
           z  x  c  v  b  n  m
         */
+
+        
+
         ${phys.q} = keys.leftSquareBracket;
         ${phys.w} = keys.rightSquareBracket;
         ${phys.e} = keys.lessThan;
@@ -431,7 +454,9 @@ in rec {
         # ${phys.b} = keys.rightFrenchQuoteDouble; # ›
       };
     notesSpecial =
-      default // {};
+      default // {
+        
+      };
     asciiSpecial =
       default
       // {
@@ -440,6 +465,9 @@ in rec {
          a$  s*  d=  f_  g+  h  j  k  l  ;
           z~  x^  c#  v`  b!  n  m  ,  .  /
         */
+
+        
+
         ${phys.q} = keys.at;
         ${phys.w} = keys.backslash;
         ${phys.e} = keys.percent;
@@ -482,6 +510,7 @@ in rec {
          a  s  d  f  g  h  j  k  l  ;
           z  x  c  v  b  n  m  ,  .  /
         */
+        
       };
     international =
       default
@@ -491,6 +520,7 @@ in rec {
          a  s  d  f  g  h  j  k  l  ;
           z  x  c  v  b  n  m  ,  .  /
         */
+        
       }; # keys.backslash;
     cyrillic =
       default
@@ -500,6 +530,7 @@ in rec {
          a  s  d  f  g  h  j  k  l  ;  '
           z  x  c  v  b  n  m  ,  .  /
         */
+        
       };
   };
   layerAccessKeys = {
@@ -546,10 +577,10 @@ in rec {
     };
   };
   simpleRemaps = {
-    ${phys.escape} = commands.capsLock;
-    ${phys.capsLock} = commands.escape;
-    ${phys._1} = commands.placeholder;
-    ${phys._2} = commands.super;
+    ${phys.escape}   = sem.capsLock;
+    ${phys.capsLock} = sem.escape;
+    ${phys._1} = sem.placeholder;
+    ${phys._2} = sem.super;
     ${phys._3} = commands.alt; # for terminal navigation
     ${phys._4} = commands.placeholder;
     ${phys._5} = commands.placeholder;
@@ -787,13 +818,14 @@ in rec {
   desktop = let
     desktopMod = keys.super;
   in {
+    # look at hyprland, sway, river defaults
     compositor = rec {
       logoutMenu = {};
       launcher = {};
       lockScreen = {};
       killActive = {
         inherit desktopMod;
-        base = generalAssociations.kill;
+        base = generalAssociations.quit;
       };
       launch = {
         defaultTerminal = {};
@@ -888,6 +920,7 @@ in rec {
       };
     };
     widgets = {
+      # look at ags, eww, fabric, ignis
       bar = {};
     };
   };
@@ -915,7 +948,7 @@ in rec {
       prev = {};
       next = {};
     };
-    navigatePane = {
+    goToPane = {
       right = {};
       left = {};
       up = {};
@@ -932,20 +965,33 @@ in rec {
     changePaneLayoutTo = {};
     showTabBar = {};
   };
-  browser = rec {
+  browser = let
     browserMod = keys.altGr;
+    browserNavigationKey = "placeholder";
+    browserStateChangeKey = "placeholder";
+  in rec {
+    # refer to qutebrowser, firefox, vieb, vimb, nyxt
     newTab = {};
     newBuffer = {};
     closeTab = {};
     closeBuffer = {};
-    goToTabN = builtins.foldl' (s: n:
-      s
-      // {
-        "_${builtins.toString n}" = {
-          mod = browserMod;
-          base = builtins.toString n;
-        };
-      }) {} [1 2 3 4 5 6 7 8 9];
+    openBookmarkSearch = {};
+    openHistorySearch = {};
+    openWebSearch = {};
+    goToTab = {
+      previous = {};
+      next = {};
+      last = {};
+
+      byNumber = builtins.foldl' (s: n:
+        s
+        // {
+          "_${builtins.toString n}" = {
+            mod = browserLeader;
+            base = builtins.toString n;
+          };
+        }) {} [1 2 3 4 5 6 7 8 9];
+    };
     goToBookmarkN = builtins.foldl' (s: n:
       s
       // {
@@ -954,6 +1000,35 @@ in rec {
           base = builtins.toString n;
         };
       }) {} [1 2 3 4 5 6 7 8 9];
+
+    newPane = {
+      right = {};
+      left = {};
+      above = {};
+      below = {};
+    };
+    newTab = {
+      atPosition = {};
+      atStart = {};
+      atEnd = {};
+    };
+    };
+    navigatePane = {
+      right = {};
+      left = {};
+      up = {};
+      down = {};
+    };
+    closePane = {
+      current = {};
+      byNumber = {};
+    };
+    closeTab = {
+      current = {};
+      byNumber = {};
+    };
+    changePaneLayoutTo = {};
+    showTabBar = {};
   };
   # goToTabN = lib.attrSets.genAttrs (name:
   ide = let
@@ -1100,67 +1175,70 @@ in rec {
         base = [phys.placeholder ideNavigationKey];
       };
     };
-    goToNextTab = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader];
-        base = [phys.placeholder ideNavigationKey];
+    goToTab = {
+      next = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader];
+          base = [generalAssociations.next];
+        };
+      };
+      previous = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader ideNavigationKey];
+          base = [generalAssociations.previous];
+        };
       };
     };
-    goToPreviousTab = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader];
-        base = [phys.placeholder ideNavigationKey];
+    goToWindow = {
+      right = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader ideNavigationKey];
+          base = [phys.l];
+        };
+      };
+      left = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader ideNavigationKey];
+          base = [phys.h];
+        };
+      };
+      above = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader ideNavigationKey];
+          base = [phys.k];
+        };
+      };
+      below = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader ideNavigationKey];
+          base = [phys.j];
+        };
       };
     };
-    goToWindowRight = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader ideNavigationKey];
-        base = [phys.l];
-      };
-    };
-    goToWindowLeft = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader ideNavigationKey];
-        base = [phys.h];
-      };
-    };
-    goToWindowAbove = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader ideNavigationKey];
-        base = [phys.k];
-      };
-    };
-    goToWindowBelow = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader ideNavigationKey];
-        base = [phys.j];
-      };
-    };
-
     # layout modification
     closeCurrentBuffer = {
       description = "";
@@ -1182,91 +1260,94 @@ in rec {
         base = [phys.placeholder];
       };
     };
+    resizeSplit = {
+      left = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader ideStateChangeKey ideNavigationKey];
+          base = [phys.h];
+        };
+      };
+      right = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader ideStateChangeKey ideNavigationKey];
+          base = [phys.l];
+        };
+      };
+      up = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader ideStateChangeKey ideNavigationKey];
+          base = [phys.k];
+        };
+      };
+      down = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader ideStateChangeKey ideNavigationKey];
+          base = [phys.j];
+        };
+      };
+    };
 
-    resizeSplitLeft = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader ideStateChangeKey ideNavigationKey];
-        base = [phys.h];
+    switchWindowWith = {
+      right = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified"; # if bare, then {base = [];}; if sticky, then {prefix = []; base = [];}; if mod, then {mod = []; base = [];};
+        keys = {
+          mod = [ideLeader ideStateChangeKey];
+          base = [phys.l];
+        };
+        commandText = "";
       };
-    };
-    resizeSplitRight = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader ideStateChangeKey ideNavigationKey];
-        base = [phys.l];
+      left = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader ideStateChangeKey];
+          base = [phys.h];
+        };
+        commandText = "";
       };
-    };
-    resizeSplitUp = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader ideStateChangeKey ideNavigationKey];
-        base = [phys.k];
+      below = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader ideStateChangeKey];
+          base = [phys.j];
+        };
+        commandText = "";
       };
-    };
-    resizeSplitDown = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader ideStateChangeKey ideNavigationKey];
-        base = [phys.j];
+      above = {
+        description = "";
+        scope = ["ide"];
+        mode = ["normal"];
+        type = "modified";
+        keys = {
+          mod = [ideLeader ideStateChangeKey];
+          base = [phys.k];
+        };
+        commandText = "";
       };
-    };
-
-    switchWindowWithRight = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified"; # if bare, then {base = [];}; if sticky, then {prefix = []; base = [];}; if mod, then {mod = []; base = [];};
-      keys = {
-        mod = [ideLeader ideStateChangeKey];
-        base = [phys.l];
-      };
-      commandText = "";
-    };
-    switchWindowWithLeft = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader ideStateChangeKey];
-        base = [phys.h];
-      };
-      commandText = "";
-    };
-    switchWindowWithBelow = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader ideStateChangeKey];
-        base = [phys.j];
-      };
-      commandText = "";
-    };
-    switchWindowWithAbove = {
-      description = "";
-      scope = ["ide"];
-      mode = ["normal"];
-      type = "modified";
-      keys = {
-        mod = [ideLeader ideStateChangeKey];
-        base = [phys.k];
-      };
-      commandText = "";
     };
 
     # code navigation

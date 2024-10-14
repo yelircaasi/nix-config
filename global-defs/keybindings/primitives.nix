@@ -5,8 +5,7 @@ let
   attrSetFromFullSetAndKey = fullSet: value: attrSetFrom1ValueNKeys value fullSet.${value};
   foldAttrSets = attrSetList: builtins.foldl' (a: b: a // b) {} attrSetList;
   unpackCompact = compactSet: foldAttrSets (map (attrSetFromFullSetAndKey compactSet) (builtins.attrNames compactSet));
-
-  makeForNums = map
+  # makeForNums = map ...
 in rec {
   # notes: best format should be universal, so maybe something that contains
   syntax = {
@@ -307,12 +306,11 @@ in rec {
   commands = keys; #commands = {placeholder = "placeholder";};  # TODO
 
   generalAssociationsRaw = {
-    
     ${phys.a} = ["execute" "alter" "changeState" "_5"];
     ${phys.b} = [];
     ${phys.backslash} = ["killPart"];
     ${phys.backspace} = [];
-    ${phys.c} = ["copy"];
+    ${phys.c} = ["clear"];
     ${phys.capsLock} = [];
     ${phys.comma} = [];
     ${phys.d} = ["delete" "_7"];
@@ -328,12 +326,12 @@ in rec {
     ${phys.k} = ["up"];
     ${phys.l} = ["right"];
     ${phys.leftSquareBracket} = ["space" "previous" "downOrLeftOther"];
-    ${phys.rightSquareBracket} = ["upOrRightOther"];
+    ${phys.rightSquareBracket} = ["upOrRightOther" "next"];
     ${phys.lshift} = [];
     ${phys.m} = ["hide"];
     ${phys.n} = ["new"];
     ${phys.o} = ["open"];
-    ${phys.p} = ["paste"]; # purge
+    ${phys.p} = ["paste" "put"]; # purge
     ${phys.period} = ["repeat"];
     ${phys.q} = ["quit" "kill" "_0"];
     ${phys.r} = ["rename" "reload" "_3"];
@@ -351,7 +349,7 @@ in rec {
     ${phys.v} = [];
     ${phys.w} = ["windowNavigation" "write" "_1"];
     ${phys.x} = ["cut" "delete"];
-    ${phys.y} = ["yank"];
+    ${phys.y} = ["yank" "copy"];
     ${phys.z} = ["fold"];
 
     # top row
@@ -370,7 +368,7 @@ in rec {
     # less comfortable/accessible
     ${phys.lctrl} = [];
     ${phys.escape} = ["capsLock"];
-    
+
     ${phys.f1} = ["help"];
     ${phys.f2} = [];
     ${phys.f4} = [];
@@ -386,34 +384,35 @@ in rec {
     # primarily mods
     ${phys.alt} = [];
     ${phys.altGr} = [];
-    
+
     # not universal keys
     ${phys.fn} = [];
     ${phys.rsuper} = [];
     ${phys.menu} = [];
-    
   };
 
   generalAssociations = unpackCompact generalAssociationsRaw;
 
   layers = rec {
     physical = {}; #() keys; # map every key name to itself
-    normalMode = physical // {
-      # special layer analogous to vim's normal mode, good for navigation and performing actions other than typing text
-      
-    }; # keys.insert;
-    insertMode = physical // {
-      
-    }; # keys.insert;
+    default = {}; #TODO: decide which I want from normal and which from insert
+    normalMode =
+      physical
+      // {
+        # special layer analogous to vim's normal mode, good for navigation and performing actions other than typing text
+      }; # keys.insert;
+    insertMode =
+      physical
+      // {
+      }; # keys.insert;
     number =
       default
       // {
-        
         /*
         q0  w1  e2  r3  t4
          a5  s6  d7  f8  g9
         */
-        ${phys.${generalAssociationsRaw._0}} = 0;
+        ${phys.${generalAssociations._0}} = 0;
         ${phys.w} = 1;
         ${phys.e} = 2;
         ${phys.r} = 3;
@@ -434,8 +433,6 @@ in rec {
           z  x  c  v  b  n  m
         */
 
-        
-
         ${phys.q} = keys.leftSquareBracket;
         ${phys.w} = keys.rightSquareBracket;
         ${phys.e} = keys.lessThan;
@@ -454,8 +451,8 @@ in rec {
         # ${phys.b} = keys.rightFrenchQuoteDouble; # ›
       };
     notesSpecial =
-      default // {
-        
+      default
+      // {
       };
     asciiSpecial =
       default
@@ -465,8 +462,6 @@ in rec {
          a$  s*  d=  f_  g+  h  j  k  l  ;
           z~  x^  c#  v`  b!  n  m  ,  .  /
         */
-
-        
 
         ${phys.q} = keys.at;
         ${phys.w} = keys.backslash;
@@ -510,7 +505,6 @@ in rec {
          a  s  d  f  g  h  j  k  l  ;
           z  x  c  v  b  n  m  ,  .  /
         */
-        
       };
     international =
       default
@@ -520,7 +514,6 @@ in rec {
          a  s  d  f  g  h  j  k  l  ;
           z  x  c  v  b  n  m  ,  .  /
         */
-        
       }; # keys.backslash;
     cyrillic =
       default
@@ -530,7 +523,6 @@ in rec {
          a  s  d  f  g  h  j  k  l  ;  '
           z  x  c  v  b  n  m  ,  .  /
         */
-        
       };
   };
   layerAccessKeys = {
@@ -577,7 +569,7 @@ in rec {
     };
   };
   simpleRemaps = {
-    ${phys.escape}   = sem.capsLock;
+    ${phys.escape} = sem.capsLock;
     ${phys.capsLock} = sem.escape;
     ${phys._1} = sem.placeholder;
     ${phys._2} = sem.super;
@@ -784,30 +776,30 @@ in rec {
     };
   };
   bigramHybridRemaps = {
-    "${keys.q}${keys.w}" = {};
-    "${keys.q}${keys.r}" = {};
-    "${keys.q}${keys.g}" = {};
-    "${keys.q}${keys.j}" = {};
-    "${keys.q}${keys.h}" = {};
-    "${keys.q}${keys.k}" = {};
-    "${keys.q}${keys.l}" = {};
-    "${keys.q}${keys.b}" = {};
-    "${keys.q}${keys.f}" = {};
-    "${keys.q}${keys.d}" = {};
-    "${keys.q}${keys.p}" = {};
-    "${keys.q}${keys.n}" = {};
-    "${keys.q}${keys.m}" = {};
-    "${keys.q}${keys.y}" = {};
-    "${keys.q}${keys.singleQuote}" = {};
-    "${keys.q}${keys.leftSquareBracket}" = {};
-    "${keys.q}${keys.rightSquareBracket}" = {};
-    "${keys.q}${keys.comma}" = {};
-    "${keys.q}${keys.v}" = {};
-    "${keys.v}${keys.w}" = {};
-    "${keys.p}${keys.w}" = {};
-    "${keys.y}${keys.w}" = {};
-    "${keys.w}${keys.w}" = {};
-    "${keys.p}${keys.q}" = {};
+    "${keys.q}_${keys.w}" = {};
+    "${keys.q}_${keys.r}" = {};
+    "${keys.q}_${keys.g}" = {};
+    "${keys.q}_${keys.j}" = {};
+    "${keys.q}_${keys.h}" = {};
+    "${keys.q}_${keys.k}" = {};
+    "${keys.q}_${keys.l}" = {};
+    "${keys.q}_${keys.b}" = {};
+    "${keys.q}_${keys.f}" = {};
+    "${keys.q}_${keys.d}" = {};
+    "${keys.q}_${keys.p}" = {};
+    "${keys.q}_${keys.n}" = {};
+    "${keys.q}_${keys.m}" = {};
+    "${keys.q}_${keys.y}" = {};
+    "${keys.q}_${keys.singleQuote}" = {};
+    "${keys.q}_${keys.leftSquareBracket}" = {};
+    "${keys.q}_${keys.rightSquareBracket}" = {};
+    "${keys.q}_${keys.comma}" = {};
+    "${keys.q}_${keys.v}" = {};
+    "${keys.v}_${keys.w}" = {};
+    "${keys.p}_${keys.w}" = {};
+    "${keys.y}_${keys.w}" = {};
+    "${keys.w}_${keys.w}" = {};
+    "${keys.p}_${keys.q}" = {};
   };
   move = {
   };
@@ -965,8 +957,9 @@ in rec {
     changePaneLayoutTo = {};
     showTabBar = {};
   };
+
   browser = let
-    browserMod = keys.altGr;
+    browserLeader = keys.altGr;
     browserNavigationKey = "placeholder";
     browserStateChangeKey = "placeholder";
   in rec {
@@ -1012,7 +1005,7 @@ in rec {
       atStart = {};
       atEnd = {};
     };
-    };
+
     navigatePane = {
       right = {};
       left = {};
@@ -1030,6 +1023,7 @@ in rec {
     changePaneLayoutTo = {};
     showTabBar = {};
   };
+
   # goToTabN = lib.attrSets.genAttrs (name:
   ide = let
     ideLeader = "placeholder";

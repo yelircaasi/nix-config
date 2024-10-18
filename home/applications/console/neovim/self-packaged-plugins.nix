@@ -5,8 +5,8 @@
     src = pkgs.fetchFromGitHub {
       owner = "synaptiko";
       repo = "xit.nvim";
-      rev = "64e80be0b32dcafa15a432d19a6140264ea16bb0";
-      sha256 = "sha256-QnH9gJ3l3+0fcLWkEHqULHf4OirUBnFRRXFqSX/8szM=";
+      rev = "8f724f76c595f02a5bed2904ae556f60c62510f6";
+      sha256 = "sha256-IHsF6YqpmvMGi1wqh6nAWeI1w3TTiGZKDGKVl01zC2o=";
     };
     meta.homepage = "https://github.com/synaptiko/xit.nvim";
   };

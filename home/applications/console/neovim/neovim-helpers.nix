@@ -37,7 +37,7 @@
 
   custom = import ./self-packaged-plugins.nix {inherit pkgs;};
   neovimCategories = ["base" "language-independent" "language-quasi-independent" "languages"];
-  importFromAttr = path: value: import value {inherit pkgs lib neovimConfig g custom blankSet;};
+  importFromAttr = path: value: import value {inherit inputs pkgs lib neovimConfig g custom blankSet;};
   importNeovimElements = nestedPaths: lib.attrsets.mapAttrsRecursive importFromAttr nestedPaths;
 
   # ifAny = neovimCats: map ( #TODO

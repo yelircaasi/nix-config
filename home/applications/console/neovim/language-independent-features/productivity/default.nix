@@ -16,10 +16,10 @@ in
     packages = [];
 
     plugins = with custom; [
-      {
-        plugin = custom.taskwarrior-nvim;
-        optional = true;
-      }
+      # {
+      #   plugin = custom.taskwarrior-nvim;
+      #   optional = true;
+      # }
       {
         plugin = custom.xit-nvim;
         optional = true;

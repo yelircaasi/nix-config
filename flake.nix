@@ -236,6 +236,11 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
+    nix-treesitter = {
+      url = "github:ratson/nix-treesitter/b6311f2c4567c7f59e879ee12dabef72df8c3bb6";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
+
     # nix-utils
     # nix-utils = {
     #   url = "github:yelircaasi/nix-utils/...";

@@ -1,5 +1,22 @@
 # Neovim Notes
 
+## Move to flake
+
+https://primamateria.github.io/blog/neovim-nix/
+
+https://github.com/gvolpe/neovim-flake
+
+https://github.com/jordanisaacs/neovim-flake
+
+https://github.com/wiltaylor/neovim-flake
+
+https://github.com/cwfryer/neovim-flake/
+
+
+
+
+## Old
+
 Migrating to a structure built around languages and features.
 
 ```bash

@@ -200,8 +200,8 @@
   inputs = {
     # Nixpkgs
     nixpkgs = {
-      url = "path:/home/isaac/nixpkgs";
-      # url = "github:nixos/nixpkgs/9de9e826f7a148bc6fb2110b90c4e848e8ae8406";
+      # url = "path:/home/isaac/nixpkgs";
+      url = "github:nixos/nixpkgs/9de9e826f7a148bc6fb2110b90c4e848e8ae8406";
       # url = "github:yelircaasi/nixpkgs/9e99209fa79d6aa1cd282f3029ae4635c07d043c";
 
       #url = "github:nixos/nixpkgs/nixos-unstable";
@@ -218,6 +218,13 @@
     neovim-nightly-overlay = {
       url = "github:nix-community/neovim-nightly-overlay/31c50a1318f9ba2e7236e150dce28189c5d8fc31";
       inputs.nixpkgs.follows = "nixpkgs";
+    };
+
+    neovim-flake = {
+      #url = git+file:///home/gvolpe/workspace/neovim-flake;
+      url = github:yelircaasi/neovim-ide-flake;
+      inputs.nixpkgs.follows = "nixpkgs";
+      # inputs.flake-schemas.follows = "flake-schemas";
     };
 
     # Secret management via sops

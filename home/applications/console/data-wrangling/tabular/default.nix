@@ -9,7 +9,7 @@
     tidy-viewer
     mypkgs.texel
     csvlens
-    mypkgs.xan
+    # mypkgs.xan
 
     # cli
     csvq

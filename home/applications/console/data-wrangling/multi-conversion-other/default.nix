@@ -18,6 +18,6 @@
     xidel
 
     # miscellaneous
-    xurls
+    # xurls  TODO: fix
   ];
 }

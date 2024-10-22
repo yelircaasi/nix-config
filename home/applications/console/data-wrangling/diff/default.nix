@@ -6,6 +6,6 @@
   home.packages = with pkgs; [
     dyff
     difftastic
-    mypkgs.graphtage
+    # mypkgs.graphtage  TODO: update
   ];
 }

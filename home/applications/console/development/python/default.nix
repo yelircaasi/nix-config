@@ -5,6 +5,7 @@
   mypkgs,
   ...
 }: {
+  # use in specific environments only, to avoid clash?
   home.packages = with pkgs; [
     (python312.withPackages (ps:
       with ps; [
@@ -21,6 +22,7 @@
     mypy
     isort
   ];
+  
   programs.matplotlib = {
     enable = true;
     config = let

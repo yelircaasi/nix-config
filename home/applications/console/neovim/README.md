@@ -1,6 +1,17 @@
 # Neovim Notes
 
+
+https://www.reddit.com/r/neovim/comments/lpl27u/install_a_plugin_without_a_plugin_manager/
+https://vonheikemen.github.io/devlog/tools/installing-neovim-plugins-without-a-plugin-manager/
+https://github.com/boltlessengineer/NativeVim
+https://vi.stackexchange.com/questions/36509/how-do-i-install-a-package-in-neovim-without-a-package-manager
+
+
+https://www.reddit.com/r/neovim/comments/1dc78r4/custom_netrw_workflow_settings_maps_etc/
+
 ## Move to flake
+
+https://github.com/youwen5/viminal2  *********
 
 https://primamateria.github.io/blog/neovim-nix/
 

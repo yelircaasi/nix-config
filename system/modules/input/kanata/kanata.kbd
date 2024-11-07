@@ -11,12 +11,45 @@ lctl      lmet   lalt             spc                  ralt        rmet         
 
 (deflayer default
 
-caps           f1   f2   f3   f4               f5      f6     f7    f8          f9   f10   f11    f12
-grv       1      2    3      4       5       6       7       8     9      0       _      =       bspc       
-tab       q      w    e      r       t       y       u       i     o      p       @aspcl @nspcl @punct              
-@hybrctl  a      s    d      f       @german h       j       k     l      @vimnav @number        enter        
-lsft      z      x    c      v       b       n       m       ,     .      /                      rsft            _ 
+caps           f1   f2    f3    f4               f5      f6     f7    f8          f9   f10   f11    f12
+grv       1      2    @weznav @wezcre  @wezres       6       7       8     9      0       _      =       bspc       
+tab       q      w    e       r        t       y       u       i     o      p       @aspcl @nspcl @punct              
+@hybrctl  a      s    d       f        @german h       j       k     l      @vimnav @number        enter        
+lsft      z      x    c       v        b       n       m       ,     .      /                      rsft            _ 
 lctl      lmet   lalt             spc                     ralt        rmet                       rctl          _ _ _
+
+)
+
+(deflayer wezterm_navigation
+
+_             _     _   _     _                 _       _    _       _        _    _    _    _
+_       _      _    _      _      _       _        _       _       _      _      _      _    _       
+_       _      _    _      _      _       _        _       _       _      _      _      _    _          
+_       _      _    _      _      _       A-h      A-j     A-k     A-l    _      _           _        
+_       _      _    _      _      _       _        _       _       _      _                  _         _
+_       _      _             _                                            _      _           _       _ _ _
+
+)
+
+(deflayer wezterm_creation
+
+_             _     _   _     _                 _       _    _       _        _    _    _    _
+_       _      _    _      _      _       _        _       _       _      _      _      _    _       
+_       _      _    _      _      _       _        _       _       _      _      _      _    _          
+_       _      _    _      _      _       A-S-h    A-S-j   A-S-k   A-S-l  _      _           _        
+_       _      _    _      _      _       _        _       _       _      _                  _         _
+_       _      _             _                                            _      _           _       _ _ _
+
+)
+
+(deflayer wezterm_resizing
+
+_             _     _   _     _                 _       _    _       _        _    _    _    _
+_       _      _    _      _      _       _        _       _       _      _      _      _    _       
+_       _      _    _      _      _       _        _       _       _      _      _      _    _          
+_       _      _    _      _      _       C-A-S-h  C-A-S-j C-A-S-k C-A-S-l   _      _        _        
+_       _      _    _      _      _       _        _       _       _      _                  _         _
+_       _      _             _                                            _      _           _       _ _ _
 
 )
 
@@ -68,9 +101,9 @@ _       _      _             _                                      _      _    
 
 _             _     _   _     _             _     _    _     _          _    _    _    -
 _       _      _    _      _      _       _     _      _     _      _      _      _    _       
-_       _      7    8      9      _       _     _      _     _      _      _      _    _          
-_       _      4    5      6      _       _     _      _     _      _      _           _        
-_       0      1    2      3      _       _     _      _     _      _                  _         -
+_       0      1    2      3      4       _     _      _     _      _      _      _    _          
+_       5      6    7      8      9       _     _      _     _      _      _           _        
+_       _      _    _      _      _       _     _      _     _      _                  _         -
 _       _      _             _                                      _      _           _       _ _ _
 
 )
@@ -114,10 +147,13 @@ _       _       _                 _                                   _      _  
     german  (tap-hold-press 200 200 g (layer-toggle germanmode))
     gshift  (tap-hold-press 200 200 S-g (layer-toggle germanmodecaps))
     
+    weznav  (tap-hold-press 200 200 S-x (layer-toggle wezterm_navigation))
+    wezcre  (tap-hold-press 200 200 S-y (layer-toggle wezterm_creation))
+    wezres  (tap-hold-press 200 200 S-z (layer-toggle wezterm_resizing))
     number  (tap-hold-press 200 200 ' (layer-toggle numbers))
     punct   (tap-hold-press 200 200 \ (layer-toggle punctuationetc))
-    aspcl    (tap-hold-press 200 200 [ (layer-toggle ascii_special))
-    nspcl    (tap-hold-press 200 200 ] (layer-toggle nonascii_special))
+    aspcl   (tap-hold-press 200 200 [ (layer-toggle ascii_special))
+    nspcl   (tap-hold-press 200 200 ] (layer-toggle nonascii_special))
     
     a (unicode ä)
     o (unicode ö)

@@ -147,9 +147,9 @@ _       _       _                 _                                   _      _  
     german  (tap-hold-press 200 200 g (layer-toggle germanmode))
     gshift  (tap-hold-press 200 200 S-g (layer-toggle germanmodecaps))
     
-    weznav  (tap-hold-press 200 200 S-x (layer-toggle wezterm_navigation))
-    wezcre  (tap-hold-press 200 200 S-y (layer-toggle wezterm_creation))
-    wezres  (tap-hold-press 200 200 S-z (layer-toggle wezterm_resizing))
+    weznav  (tap-hold-press 200 200 3 (layer-toggle wezterm_navigation))
+    wezcre  (tap-hold-press 200 200 4 (layer-toggle wezterm_creation))
+    wezres  (tap-hold-press 200 200 5 (layer-toggle wezterm_resizing))
     number  (tap-hold-press 200 200 ' (layer-toggle numbers))
     punct   (tap-hold-press 200 200 \ (layer-toggle punctuationetc))
     aspcl   (tap-hold-press 200 200 [ (layer-toggle ascii_special))

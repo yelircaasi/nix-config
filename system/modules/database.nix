@@ -11,6 +11,14 @@
 
   services.postgresql = {
     enable = true;
+    dataDir = /var/lib/postgresql/16;
+    settings = {
+      log_connections = true;
+      log_statement = "all";
+      logging_collector = true;
+      log_disconnections = true;
+      log_destination = lib.mkForce "syslog";
+    };
     ensureDatabases = [
       "defaultdb"
       "components_1"

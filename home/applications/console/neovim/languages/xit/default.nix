@@ -17,8 +17,8 @@ in
   else {
     packages = with pkgs; [];
 
-    plugins =
-      with pkgs.vimPlugins; [
+    plugins = with pkgs.vimPlugins;
+      [
         (nvim-treesitter.withPlugins (p: [nix-treesitter.tree-sitter-xit]))
       ]
       ++ (with custom; [xit-nvim]);

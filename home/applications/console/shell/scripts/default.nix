@@ -47,6 +47,8 @@ in {
     )
 
     (writers.writePython3NoDepsBin "viewhm" ./viewhm.py)
+    (writers.writePython3NoDepsBin "repos" ./git-status-all-repos.py)
+    
     /*
     (writers.writeRustBin "lspath" (builtins.readFile ./lspath.rs))
     (writers.writeRustBin "mimesummary" (builtins.readFile ./mimesummary.rs))

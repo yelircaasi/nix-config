@@ -22,7 +22,7 @@
     mypy
     isort
   ];
-  
+
   programs.matplotlib = {
     enable = true;
     config = let

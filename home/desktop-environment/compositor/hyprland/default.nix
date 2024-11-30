@@ -188,7 +188,7 @@ in {
           pseudotile = true; # master switch for pseudotiling. Enabling is bound to mainMod + P in the keybinds section below
           preserve_split = true; # you probably want this
         };
-        master.new_is_master = true;
+        # master.new_is_master = true;
         gestures.workspace_swipe = false;
         group = {
           "col.border_active" = "0xee$yellowAlpha";

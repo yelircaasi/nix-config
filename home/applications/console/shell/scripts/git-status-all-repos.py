@@ -21,7 +21,7 @@ def list_full(dir: Path) -> list[Path]:
 
 def list_git_repos(
     directory: Path, to_prepend: set[Path] = set(), recursions: int = 3
-) -> list[Path]:
+) -> set[Path]:
     if recursions == 0:
         return []
 
@@ -60,11 +60,12 @@ def show_git_status(d: Path) -> None:
 
 
 if __name__ == "__main__":
-    home = (
-        Path(os.environ["HOME"]) / "repos"
+    home = Path(os.environ["HOME"])
+    repo_home = (
+        home / "repos"
         if (len(sys.argv) < 2)
         else Path(sys.argv[1]).resolve()
     )
-    git_dirs = list_git_repos(home)
-    for gd in git_dirs:
+    git_dirs = list_git_repos(repo_home) | list_git_repos(home, recursions=1)
+    for gd in sorted(git_dirs):
         show_git_status(gd)

@@ -40,10 +40,6 @@ in {
   writeSimpleC = makeBinWriter { compileScript = name: "gcc -o $out $contentPath"; }
   makeBinWriter = { compileScript, strip ? true }: nameOrPath: content:
 
-
-
-
-
   writeGo = ;
   writeGoBin = ;
 

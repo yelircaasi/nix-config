@@ -15,7 +15,9 @@ if wezterm.config_builder then
 	config = wezterm.config_builder()
 end
 
-config.front_end = "WebGpu"
+if os.getenv("XDG_SESSION_TYPE") == "wayland" then
+    config.front_end = "WebGpu"
+end
 config.enable_wayland = false
 
 config.default_prog = { "bash" }

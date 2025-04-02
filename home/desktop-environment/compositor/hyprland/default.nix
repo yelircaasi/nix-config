@@ -306,9 +306,14 @@ in {
       extraConfig =
         #hypr
         ''
-          monitor=eDP-1,1920x1080@240,0x0,1
-          monitor=eDP-2,1920x1080@240,0x0,1
-          monitor=HDMI-A-1,2560x1440@60,1920x0,1
+          monitor = desc:Chimei Innolux Corporation 0x15D7,                1920x1080,    0x720,      1
+          monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000809, 2560x1440,    1920x0,     1
+          monitor = desc:Lenovo Group Limited D22-20 U7608Z7N,             1920x1080,    3490x-1080, 1
+          monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000788, 2560x1440,    4480x0,     1
+
+          # monitor=eDP-2,1920x1080@240,0x0,1
+          # monitor=HDMI-A-1,2560x1440@60,1920x0,1
+
           # Does not show up when defined in settings for some reason
           # plugin {
           #   hyprtrails {

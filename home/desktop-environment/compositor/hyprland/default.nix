@@ -22,13 +22,19 @@ in {
   ];
 
   xdg.configFile = {
+
+
     "./${riverPhotoPath}".source = ./images/river.jpg;
     "./${blitzPhotoPath}".source = ./images/blitz.jpg;
     "./hypr/hyprpaper.conf".text = ''
       preload = /home/isaac/.config/${riverPhotoPath}
-      wallpaper = eDP-1,/home/isaac/.config/${riverPhotoPath}
-      wallpaper = eDP-2,/home/isaac/.config/${riverPhotoPath}
-      wallpaper = HDMI-A-1,/home/isaac/.config/${riverPhotoPath}
+      # wallpaper = eDP-1,/home/isaac/.config/${riverPhotoPath}
+      # wallpaper = eDP-2,/home/isaac/.config/${riverPhotoPath}
+      # wallpaper = HDMI-A-1,/home/isaac/.config/${riverPhotoPath}
+      wallpaper = desc:Chimei Innolux Corporation 0x15D7,/home/isaac/.config/${riverPhotoPath}
+      wallpaper = desc:Ancor Communications Inc ASUS PB278 E8LMTF000788,/home/isaac/.config/${riverPhotoPath}
+      wallpaper = desc:Lenovo Group Limited D22-20 U7608Z7N,/home/isaac/.config/${riverPhotoPath}
+      wallpaper = desc:Ancor Communications Inc ASUS PB278 E8LMTF000809,/home/isaac/.config/${riverPhotoPath}
     '';
     "./hypr/hyprlock.conf".text = ''
         widget_name {
@@ -306,11 +312,15 @@ in {
       extraConfig =
         #hypr
         ''
-          monitor = desc:Chimei Innolux Corporation 0x15D7,                1920x1080,    0x720,      1
-          monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000809, 2560x1440,    1920x0,     1
+          monitor = desc:Chimei Innolux Corporation 0x15D7,                1980x1080,    0x720,      1
+          monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000788, 2560x1440,    1920x0,     1
           monitor = desc:Lenovo Group Limited D22-20 U7608Z7N,             1920x1080,    3490x-1080, 1
-          monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000788, 2560x1440,    4480x0,     1
+          monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000809, 2560x1440,    4480x0,     1
 
+          # monitor = desc:Chimei Innolux Corporation 0x15D7,                1980x1080,    0x910,      1
+          # monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000788, 2560x1440,    1920x0,     0.8
+          # monitor = desc:Lenovo Group Limited D22-20 U7608Z7N,             1920x1080,    3920x-1350, 0.8
+          # monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000809, 2560x1440,    5120x0,     0.8
           # monitor=eDP-2,1920x1080@240,0x0,1
           # monitor=HDMI-A-1,2560x1440@60,1920x0,1
 

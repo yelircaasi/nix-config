@@ -4,7 +4,7 @@
   ...
 }: {
   home.packages = with pkgs; [
-    diskonaut
+    # diskonaut  removeed due to lack of upstream manintenance TODO replace
     gdu
   ];
 }

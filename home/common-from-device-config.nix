@@ -23,11 +23,14 @@
 in {
   imports = builtins.concatLists [
     [
+/*
       ./applications/console/administration-monitoring
       ./applications/console/browser
       ./applications/console/communication
       ./applications/console/data-wrangling
+*/
       ./applications/console/development
+
       ./applications/console/version-control
       ./applications/console/file-browser
       ./applications/console/fun
@@ -36,17 +39,21 @@ in {
       ./applications/console/organization-cleanup
       ./applications/console/personal-organization
       ./applications/console/presentation
+/*
+*/
       ./applications/console/quality-of-life
       ./applications/console/search
-      ./applications/console/shell
       ./applications/console/timer-clock
       ./applications/console/viewing
       ./applications/console/visualization
 
+      ./applications/console/shell
+      
       ./applications/gui/dev-tools
       ./applications/gui/media/editing
 
       # ./applications/gui/personal-organization
+
 
       ./desktop-environment/theming/gtk
       # ./desktop-environment/theming/qt

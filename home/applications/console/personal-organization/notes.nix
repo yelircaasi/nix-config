@@ -9,12 +9,12 @@
       pandoc
       jot
       zk
-      emanote
+      # emanote  TODO: fix
       eureka-ideas
       kb # TODO: debug
-      mypkgs.diary # TODO: needs work
+      # mypkgs.diary # TODO: needs work
 
-      jrnl
+      # jrnl  TODO fix
       joplin
       # mypkgs.dnote TODO: fix errors
     ])

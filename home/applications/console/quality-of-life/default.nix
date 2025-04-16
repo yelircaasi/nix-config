@@ -6,7 +6,7 @@
   home.packages = with pkgs; [
     # dashboard
     wtf
-    devdash
+    # devdash:  TODO: replace because removed
     mypkgs.tinycare-tui
 
     # help

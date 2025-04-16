@@ -6,7 +6,7 @@
   home.packages = with pkgs; [
     # mypkgs.chawan
     mypkgs.reader
-    edbrowse
+    # edbrowse #TODO
     elinks
     links2
     lynx

@@ -312,7 +312,7 @@ in {
       extraConfig =
         #hypr
         ''
-          monitor = desc:Chimei Innolux Corporation 0x15D7,                1980x1080,    0x720,      1
+          monitor = desc:Chimei Innolux Corporation 0x15D7,                1920x1080,    0x720,      1
           monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000788, 2560x1440,    1920x0,     1
           monitor = desc:Lenovo Group Limited D22-20 U7608Z7N,             1920x1080,    3490x-1080, 1
           monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000809, 2560x1440,    4480x0,     1

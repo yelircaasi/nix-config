@@ -10,8 +10,8 @@
     # general code quality
 
     # linting and formatting
-    mypkgs.precious
-    treefmt2
+    # mypkgs.precious  TODO: fix
+    treefmt
     /*
     eventually need to decide which of precious and treefmt I prefer,
     or whether they are non interchangeable and thus both worth keeping

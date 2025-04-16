@@ -6,8 +6,8 @@
   home.packages = with pkgs; [
     xdg-ninja
     mypkgs.antidot
-    mypkgs.filesort
-    mypkgs.organize-rt
+    # mypkgs.filesort  TODO: fix
+    # mypkgs.organize-rt  TODO: fix
 
     # deduplication, linting
     backdown

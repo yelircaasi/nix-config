@@ -12,7 +12,6 @@
     # ./modules/compositor/sway.nix
     # ./modules/compositor/swayfx.nix
     ./modules/container.nix
-    ./modules/database.nix
     ./modules/desktop-environment/gnome
     ./modules/desktop-environment/kde
     ./modules/desktop-environment/xfce
@@ -32,13 +31,13 @@
     ./modules/variables.nix
     ./modules/windowing-protocol/wayland.nix
     ./modules/windowing-protocol/x11.nix
-  ];
+  ] ++ (if deviceConfig.name == "hank" then [./modules/database.nix] else []);
 
   environment.systemPackages = with pkgs; [git home-manager];
 
   boot.loader.systemd-boot.enable = true;
   boot.loader.efi.canTouchEfiVariables = true;
-  boot.kernelPackages = pkgs.linuxPackages_6_10;
+  boot.kernelPackages = pkgs.linuxPackages_6_12;
 
   # Allow unfree packages
   nixpkgs.config = {

@@ -199,7 +199,7 @@
     defaultEditor = true; #neovimConfig.makeDefaultEditor;
     withPython3 = ifAny "needsPython3" nvimSetPre;
     withNodeJs = ifAny "needsNodeJs" nvimSetPre;
-    withRuby = ifAny "needsRuby" nvimSetPre;
+    withRuby = ifAny "needsRuby" nvimSetPre; 
     package = neovim-nightly;
     viAlias = true; #neovimConfig.viAlias;
     vimAlias = true; #neovimConfig.vimAlias;

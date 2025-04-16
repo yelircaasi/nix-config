@@ -66,7 +66,7 @@ in {
     (listIfIn "mako" deviceConfig.desktopShell ./desktop-environment/widgets/notifications/mako)
     (listIfIn "waybar" deviceConfig.desktopShell ./desktop-environment/widgets/bar/waybar)
 
-    (listIfIn "neovim" deviceConfig.editors ./applications/console/neovim)
+    # TODO: fix: (listIfIn "neovim" deviceConfig.editors ./applications/console/neovim)
     (listIfIn "wezterm" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/wezterm)
     (listIfIn "termonad" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/termonad)
     (listIfIn "nyxt" deviceConfig.browsers ./applications/gui/browser/nyxt)

@@ -57,5 +57,6 @@ in {
   home.packages = with pkgs; [
     bashInteractive
     starship
+    neovim  # TODO: remove when neovim is fixed
   ];
 }

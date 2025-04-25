@@ -6,7 +6,7 @@
   home.packages = with pkgs; [
     gdrive3
 
-    pandoc # TODO: add extras and lua filters: https://pandoc.org/extras.html, https://github.com/pandoc/lua-filters, https://github.com/pandoc-ext/info
+    pandoc # TODO::prioX: add extras and lua filters: https://pandoc.org/extras.html, https://github.com/pandoc/lua-filters, https://github.com/pandoc-ext/info
     remarshal
     dasel
     sq
@@ -18,6 +18,6 @@
     xidel
 
     # miscellaneous
-    # xurls  TODO: fix
+    # xurls  TODO::prioX: fix
   ];
 }

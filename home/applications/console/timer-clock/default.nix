@@ -4,10 +4,10 @@
 
     # pomodoro
     haskellPackages.Monadoro
-    # uair TODO: BROKEN
+    # uair TODO::prio3: BROKEN
     pom
     openpomodoro-cli
-    # pomodoro  TODO: read source
+    # pomodoro  TODO::prio3: read source
     porsmo
     tomato-c
   ];

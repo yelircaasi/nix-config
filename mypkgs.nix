@@ -203,7 +203,7 @@ in {
 
     meta = with lib; {
       homepage = "https://github.com/yelircaasi/todocheck";
-      description = "A static code analyser for annotated TODO comments";
+      description = "A static code analyser for annotated TODO::prioX comments";
       license = licenses.mit;
       platforms = platforms.all;
     };
@@ -619,10 +619,10 @@ in {
     };
   };
   ansiweather = {
-    #TODO
+    #TODO::prio5
 
     meta = with lib; {
-      #TODO
+      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -652,10 +652,10 @@ in {
     };
   };
   binary-clock = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
-      #TODO
+      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -663,10 +663,10 @@ in {
     };
   };
   bsol = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
-      #TODO
+      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -674,10 +674,10 @@ in {
     };
   };
   castero = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
-      #TODO
+      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -766,10 +766,10 @@ in {
   #   };
   # };
   choose = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
-      #TODO
+      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -777,10 +777,10 @@ in {
     };
   };
   conty = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
-      #TODO
+      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -788,7 +788,7 @@ in {
     };
   };
   diary = buildRustPackage rec {
-    # TODO: installs correctly, but needs work
+    # TODO::prioX: installs correctly, but needs work
     pname = "diary";
     version = "2021-06-16";
 
@@ -812,7 +812,7 @@ in {
     };
   };
   dnote = buildGoModule rec {
-    # TODO: fix bin names, fts5 error
+    # TODO::prioX: fix bin names, fts5 error
     pname = "dnote";
     version = "v0.15.1";
 
@@ -836,10 +836,10 @@ in {
     };
   };
   enhancer-for-youtube = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
-      #TODO
+      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -847,10 +847,10 @@ in {
     };
   };
   enjoy-json = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
-      #TODO
+      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -997,7 +997,7 @@ in {
     };
   };
   guesswidth = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1007,7 +1007,7 @@ in {
     };
   };
   harmonoid = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1017,7 +1017,7 @@ in {
     };
   };
   lf-sh = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "https://github.com/suewonjp/lf.sh";
@@ -1027,7 +1027,7 @@ in {
     };
   };
   lotus123 = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1037,7 +1037,7 @@ in {
     };
   };
   loungy = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1047,7 +1047,7 @@ in {
     };
   };
   lxroot = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1057,7 +1057,7 @@ in {
     };
   };
   lyssa = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1067,7 +1067,7 @@ in {
     };
   };
   multi-git-status = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1077,7 +1077,7 @@ in {
     };
   };
   music-player-plus = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1087,7 +1087,7 @@ in {
     };
   };
   neosurf = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1097,7 +1097,7 @@ in {
     };
   };
   olivia = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1130,7 +1130,7 @@ in {
     };
   };
   pixelfx = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1140,7 +1140,7 @@ in {
     };
   };
   rcz = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1150,7 +1150,7 @@ in {
     };
   };
   rdict = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1161,7 +1161,7 @@ in {
   };
 
   refind = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1171,7 +1171,7 @@ in {
     };
   };
   siren = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1181,7 +1181,7 @@ in {
     };
   };
   squeeze = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1191,10 +1191,10 @@ in {
     };
   };
   surf-wayland = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
-      #TODO
+      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -1225,10 +1225,10 @@ in {
     };
   };
   vmn = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
-      #TODO
+      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -1236,7 +1236,7 @@ in {
     };
   };
   waybar-weather = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1246,7 +1246,7 @@ in {
     };
   };
   whatsie = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";
@@ -1256,7 +1256,7 @@ in {
     };
   };
   youtube-viewer = {
-    #TODO
+    #TODO::prioX
 
     meta = with lib; {
       homepage = "";

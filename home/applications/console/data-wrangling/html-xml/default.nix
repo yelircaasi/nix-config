@@ -8,7 +8,7 @@
     htmlq
     htmlcxx
 
-    # mypkgs.xmlq  # TODO: make into CLI
+    # mypkgs.xmlq  # TODO::prioX: make into CLI
     libxml2 # provides xmllint
     html2text
   ];

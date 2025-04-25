@@ -5,7 +5,7 @@
 }: {
   programs.qutebrowser = {
     enable = true;
-    # TODO:
+    # TODO::prio2:
     # - read: https://qutebrowser.org/doc/help/settings.html
     # - add userscripts: https://github.com/qutebrowser/qutebrowser/blob/main/misc/userscripts/README.md
     # - try this: https://github.com/qutebrowser/qutebrowser/pull/3854#issuecomment-545174068

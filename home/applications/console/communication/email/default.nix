@@ -5,7 +5,7 @@
 }: {
   home.packages = with pkgs; [
     protonmail-bridge
-    pass # TODO: get paid subscription to protonmail, set up apss
+    pass # TODO::prioX: get paid subscription to protonmail, set up apss
 
     neomutt
   ];

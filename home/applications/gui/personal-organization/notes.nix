@@ -5,16 +5,16 @@
 }: {
   home.packages =
     (with pkgs; [
-      # logseq # TODO: debug electron<>wayland errors -> works with `NIXOS_OZONE_WL=0 logseq`
-      # obsidian # TODO: debug electron<>wayland errors and gtk.css errors
+      # logseq # TODO::prioX: debug electron<>wayland errors -> works with `NIXOS_OZONE_WL=0 logseq`
+      # obsidian # TODO::prioX: debug electron<>wayland errors and gtk.css errors
       trilium-desktop
-      # joplin-desktop # TODO: debug electron<>wayland errors
+      # joplin-desktop # TODO::prioX: debug electron<>wayland errors
 
       appflowy
       qownnotes
       mindforger
 
-      affine # TODO: debug electron<>wayland errors
+      affine # TODO::prioX: debug electron<>wayland errors
       /*
       https://discourse.nixos.org/t/nvidia-vkphysicaldevice-issues-on-newly-installed-nixos/40419
       https://discourse.nixos.org/t/nvk-error-when-using-prop-nvidia-drivers/43300

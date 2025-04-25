@@ -5,7 +5,7 @@
 }: {
   programs.alacritty = {
     enable = true;
-    # TODO:
+    # TODO::prio5:
     #
     extraConfig = "";
   };

@@ -19,7 +19,7 @@
       #theme = "TwoDark";
     };
 
-    # TODO
+    # TODO::prio2
     themes = {};
     syntaxes = {};
   };

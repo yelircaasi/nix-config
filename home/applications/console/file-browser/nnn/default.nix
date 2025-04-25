@@ -7,7 +7,7 @@
   programs.nnn = {
     enable = true;
     package = pkgs.nnn.override {withNerdIcons = true;};
-    # TODO:
+    # TODO::prio2: import from global keybindings
     bookmarks = {
       D = "~/Documents";
       d = "~/Downloads";

@@ -5,7 +5,7 @@
 }: {
   programs.yazi = {
     enable = true;
-    # TODO:
+    # TODO::prio1:
     #
     settings = {};
   };

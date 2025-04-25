@@ -301,9 +301,9 @@ in rec {
     paste = "paste";
   };
 
-  keys = phys // sem; # TODO
+  keys = phys // sem; # TODO::prioX
 
-  commands = keys; #commands = {placeholder = "placeholder";};  # TODO
+  commands = keys; #commands = {placeholder = "placeholder";};  # TODO::prioX
 
   generalAssociationsRaw = {
     ${phys.a} = ["execute" "alter" "changeState" "_5"];
@@ -395,7 +395,7 @@ in rec {
 
   layers = rec {
     physical = {}; #() keys; # map every key name to itself
-    default = {}; #TODO: decide which I want from normal and which from insert
+    default = {}; #TODO::prioX: decide which I want from normal and which from insert
     normalMode =
       physical
       // {

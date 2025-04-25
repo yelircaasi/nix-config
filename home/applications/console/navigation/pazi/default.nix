@@ -9,7 +9,7 @@
 in {
   programs.pazi = {
     enable = true;
-    # TODO:
+    # TODO::prioX:
     enableBashIntegration = shellEnabled "bash";
     enableFishIntegration = shellEnabled "fish";
     enableZshIntegration = shellEnabled "zsh";

@@ -171,7 +171,7 @@ in rec {
   shiftLightnessesF = averageFunc: alphaFunc: hslList: [];
 
   # take a list of HSL colors and shift one of the attributes toward the supplied value by a factor of alpha
-  # TODO: define in terms of ...F functions
+  # TODO::prioX: define in terms of ...F functions
   shiftSaturations = averageFunc: alpha: hslList: [];
   shiftLightnesses = avergeFunc: alpha: hslList: [];
 

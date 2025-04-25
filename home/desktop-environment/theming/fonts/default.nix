@@ -6,7 +6,7 @@
     fontconfig
     # fontforge-fonttools
     nerdfix
-    # fontfor # TODO: won't build; maybe needs an override or just a PR
+    # fontfor # TODO::prioX: won't build; maybe needs an override or just a PR
     # font-manager (?)
     gnome-font-viewer
     fontpreview

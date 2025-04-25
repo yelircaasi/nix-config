@@ -5,7 +5,7 @@
 }: {
   programs.zoxide = {
     enable = true;
-    # TODO:
+    # TODO::prio2:
     #
     enableBashIntegration = true;
     #enableFishIntegration = true;

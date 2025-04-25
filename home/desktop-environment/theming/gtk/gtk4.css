@@ -237,12 +237,12 @@ mix( 〈color〉, 〈color〉, 〈number〉 )
     color: @pulseaudio-bt-switch-color;
 }
 
-/* TODO */
+/* TODO::prioX */
 #pulseaudio-button trough {
     color: green;
     border-color: olivedrab;
 }
-/* TODO */
+/* TODO::prioX */
 #pulseaudio-button slider {
     color: yellow;
     border-color: olivedrab;

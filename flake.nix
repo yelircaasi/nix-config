@@ -60,10 +60,34 @@
       };
       hank = {
         name = "hank";
-        description = "Work laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU) running Ubuntu Server + Nix";
+        description = "GPU laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU) running NixOS";
         defaultShell = "bash";
         otherShells = ["bash"];
         compositors = ["i3-picom"];
+        editors = ["neovim"];
+        browsers = ["qutebrowser" "ungoogled-chromium" "vieb"];
+        desktopEnvironments = [];
+        desktopShell = []; #"fuzzel" "wlogout" "mako" "waybar"];
+        terminalEmulators = ["wezterm" "termonad"];
+        consoleSet = "maximal";
+        prompt = "starship";
+        nvidia = true;
+        pipewire = true;
+        jack = false;
+        networkmanager = true;
+        wayland = true;
+        x11 = true;
+        ssh-server = true;
+        docker = true;
+        podman = true;
+        printing = true;
+      };
+      innokenti = {
+        name = "innokenti";
+        description = "Work laptop. Lenovo Thinkpad running NixOS.";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = ["hyprland"];
         editors = ["neovim"];
         browsers = ["qutebrowser" "ungoogled-chromium" "vieb"];
         desktopEnvironments = [];
@@ -179,13 +203,13 @@
     };
 
     g = import ./global-defs {lib = inputs.nixpkgs.lib;}; # -> move g.utils to nixos-utils flake
-    mylib = import ./mylib.nix {inherit inputs g;}; # move to nixos-utils flake (called mylib)
+    mylib = import ./mylib.nix {inherit inputs g;}; # move to nixos-utils flake (called mylib)  TODO::prio2
   in {
     nixosConfigurations = mylib.makeNixosConfigurations deviceDeclarations;
     homeConfigurations = mylib.makeHomeManagerConfigurations deviceDeclarations;
     devShells = mylib.makeDevShells deviceDeclarations;
     packages.x86_64-linux = {
-      # TODO: ADD flake-utils.lib.eachDefaultSystem
+      # TODO::prio1: ADD flake-utils.lib.eachDefaultSystem
       colors = {
         json = builtins.toJSON g.color;
         nix = g.color;
@@ -198,29 +222,22 @@
   };
 
   inputs = {
-    # Nixpkgs
     nixpkgs = {
-      # url = "path:/home/isaac/nixpkgs";
       url = "github:nixos/nixpkgs/98d4992121235f3642ffc3ab29bd6777a6447bcd";
-      # url = "github:yelircaasi/nixpkgs/9e99209fa79d6aa1cd282f3029ae4635c07d043c";
-
-      #url = "github:nixos/nixpkgs/nixos-unstable";
     };
 
-    # Home Manager
     home-manager = {
       url = "github:nix-community/home-manager/7ede02c32a729db0d6340bdb41d10e73ec511ca0";
-      #url = "github:nix-community/home-manager/release-24.05";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
-    # Neovim
     neovim-nightly-overlay = {
       # NEWER: url = "github:nix-community/neovim-nightly-overlay/3fe45a5c38a9dfe182f20079ebdab9b20670197e";
       url = "github:nix-community/neovim-nightly-overlay/31c50a1318f9ba2e7236e150dce28189c5d8fc31";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
+    # TODO::prio1
     # neovim-flake = {
     #   #url = git+file:///home/gvolpe/workspace/neovim-flake;
     #   url = github:yelircaasi/neovim-ide-flake;
@@ -228,7 +245,6 @@
     #   # inputs.flake-schemas.follows = "flake-schemas";
     # };
 
-    # Secret management via sops
     sops-nix = {
       url = "github:Mic92/sops-nix/61154300d945f0b147b30d24ddcafa159148026a";
       inputs.nixpkgs.follows = "nixpkgs";
@@ -249,22 +265,15 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
-    # nix-utils
-    # nix-utils = {
+    # nix-utils = {  TODO::prio2
     #   url = "github:yelircaasi/nix-utils/...";
     #   inputs.nixpkgs.follows = "nixpkgs";
     # };
 
-    # SwayFX
+    # TODO::prio5
     # swayfx = {
     #   url = "github:WillPower3309/swayfx/f0ecffe593574593ec99c104fa12e4bfd593b0f2";
     #   inputs.nixpkgs.follows = "nixpkgs";
     # };
-
-    # Snap
-    #nix-snapd = {
-    #  url = "github:io12/nix-snapd";
-    #  inputs.nixpkgs.follows = "nixpkgs";
-    #};
   };
 }

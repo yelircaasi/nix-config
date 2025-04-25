@@ -21,7 +21,7 @@
 (define-configuration status-buffer
   ((glyph-mode-presentation-p t)))
 
-;;; TODO: when extracting into port make sure to use whisker templating
+;;; TODO::prio5: when extracting into port make sure to use whisker templating
 ;;; to replace +/- colors that are just duplicates of the main color
 ;;; and also account for how +/- are currently calibrated for dark theme
 (define-configuration browser
@@ -198,6 +198,6 @@
                                           "medium.com")
                      :redirect '(("https://farside.link/\\1" . "https://(.*)")))))))
 
-; TODO: Figure out how to reverse redirect for copying URLs
-; TODO: Figure out how to fix cannot open in iframe errors with nyxt::on-signal-notify-uri
+; TODO::prio5: Figure out how to reverse redirect for copying URLs
+; TODO::prio5: Figure out how to fix cannot open in iframe errors with nyxt::on-signal-notify-uri
         '';

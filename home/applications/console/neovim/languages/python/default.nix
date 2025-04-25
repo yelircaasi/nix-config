@@ -92,7 +92,7 @@ in
     # };
 
     pluginStrings = [
-      # TODO: rewrite to repeat the string as long many times as the plugin list is long; also prepend strings to file
+      # TODO::prio6: rewrite to repeat the string as long many times as the plugin list is long; also prepend strings to file
       "-- lspconfig RTP command"
       "-- neotest RTP command"
       "-- dap RTP command"
@@ -114,8 +114,8 @@ in
     needsNodeJs = true;
     needsRuby = false;
   }
-# TODO: quicker.nvim, trouble.nvim
-# TODO: min devenv: ruff LSP, black, isort, python seamless code execution (iron.nvim?), venv management -> Nix devshell
-# TODO: wezterm tab and pane navigation
-# TODO: also find suitable GUI image editor
+# TODO::prio6: quicker.nvim, trouble.nvim
+# TODO::prio6: min devenv: ruff LSP, black, isort, python seamless code execution (iron.nvim?), venv management -> Nix devshell
+# TODO::prio6: wezterm tab and pane navigation
+# TODO::prio6: also find suitable GUI image editor
 

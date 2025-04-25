@@ -79,7 +79,7 @@ in {
     };
   };
   # ============================================================================
-  # TODO: refactor to move all app-specific into their own file and all p into their own file, then import both into default.nix
+  # TODO::prio1: refactor to move all app-specific into their own file and all p into their own file, then import both into default.nix
   hyprland = let
     scope = "global";
     mod = keys.super; #p.desktop.compositor.mod;
@@ -1360,10 +1360,10 @@ in {
       copy-password = {};
 
       # status buffer appearance
-      #TODO
+      #TODO::prio2
 
       # built-in repl
-      #TODO
+      #TODO::prio2
 
       # continue from https://nyxt.atlas.engineer/documentation#automation
     };

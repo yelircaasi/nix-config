@@ -40,7 +40,7 @@
   importFromAttr = path: value: import value {inherit inputs pkgs lib neovimConfig g custom blankSet;};
   importNeovimElements = nestedPaths: lib.attrsets.mapAttrsRecursive importFromAttr nestedPaths;
 
-  # ifAny = neovimCats: map ( #TODO
+  # ifAny = neovimCats: map ( #TODO::prioX
   #     map (lib.mkIf (neovimConfig.${}.${}.enable)) neovimSetPre.${}
   #   ) neovimSetPre;
 
@@ -210,7 +210,7 @@
         (pkgs.vimPlugins.nvim-treesitter.withPlugins (
           p:
             builtins.concatLists [
-              # TODO: refactor this!!!
+              # TODO::prioX: refactor this!!!
               (
                 if neovimConfig.languages.c.enable
                 then [p.c]
@@ -284,7 +284,7 @@ mergeAttrs = with lib; attrSetList:
     );
   in f [] attrSetList;
 
-  #TODO: clean up below this line!!!
+  #TODO::prioX: clean up below this line!!!
   # boilerplate = {...};
   basicSet = (import ./basic-features {inherit pkgs lib g;};);
   featureSet = (import ./language-independent-features {inherit pkgs lib g;};) //
@@ -351,7 +351,7 @@ mergeAttrs = with lib; attrSetList:
   base = import ./config-base-files {inherit neovimConfig;};
 
   createNeovimLuaFiles = neovimConfig: features: languages:
-  #TODO: refactor
+  #TODO::prioX: refactor
   # (import ./config-base-files {inherit neovimConfig;})
     (lib.attrsets.mapAttrs' (
         featName: origValue:

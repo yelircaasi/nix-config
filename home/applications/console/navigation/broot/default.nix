@@ -5,6 +5,6 @@
 }: {
   programs.broot = {
     enable = true;
-    # TODO
+    # TODO::prioX
   };
 }

@@ -5,6 +5,6 @@
   ...
 }: {
   home.packages = [pkgs.ov];
-  # TODO:
+  # TODO::prio1: configure ov
   #
 }

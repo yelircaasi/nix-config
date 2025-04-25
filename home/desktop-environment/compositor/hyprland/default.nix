@@ -171,9 +171,9 @@ in {
             passes = 1;
           };
 
-          drop_shadow = true;
-          shadow_range = 4;
-          shadow_render_power = 3;
+          # drop_shadow = true; TODO::prio4: fix
+          # shadow_range = 4;
+          # shadow_render_power = 3;
           # "col.shadow" = "0xee1a1a1a";
         };
 
@@ -197,8 +197,8 @@ in {
         # master.new_is_master = true;
         gestures.workspace_swipe = false;
         group = {
-          "col.border_active" = "0xee$yellowAlpha";
-          "col.border_inactive" = "0xaa$overlay0Alpha 0xaa$yellowAlpha 45deg";
+          # "col.border_active" = "0xee$yellowAlpha";
+          # "col.border_inactive" = "0xaa$overlay0Alpha 0xaa$yellowAlpha 45deg";  TODO::prio4: fix
           "col.border_locked_active" = "rgb(003366)"; # "0xee$yellowAlpha 0xee$redAlpha 45deg";
           "col.border_locked_inactive" = "rgb(242424)"; # "0xaa$overlay0Alpha 0xaa$redAlpha 45deg";
           groupbar = {
@@ -245,8 +245,8 @@ in {
           "$mainMod, ${g.key.hyprland.killActive.base}, killactive,"
           "$mainMod SHIFT, Q, exec, wlogout"
           # Run in shell to ensure file manager sees environment variables
-          # TODO: figure out how to un-hard-code shell
-          # TODO: figure out how to open selected file when exiting without hard-coding xplr
+          # TODO::prio3: figure out how to un-hard-code shell
+          # TODO::prio3: figure out how to open selected file when exiting without hard-coding xplr
           "$mainMod, N, exec, $term --class=filemanager -- fish -c 'handlr open (xplr)'"
           "$mainMod, V, togglefloating,"
           "$mainMod, R, exec, pkill $menu || $menu"
@@ -353,7 +353,7 @@ in {
       tomlFormat.generate "hyprland-autoname-workspaces-config" {
         version = pkgs.hyprland-autoname-workspaces.version;
 
-        # TODO: Investigate if it would be possible to use eww literals as a replacement for inline pango
+        # TODO::prio4: Investigate if it would be possible to use eww literals as a replacement for inline pango
         format = rec {
           # Deduplicate icons if enable.
           # A superscripted counter will be added.

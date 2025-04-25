@@ -4,9 +4,9 @@
   ...
 }: {
   home.packages = with pkgs; [
-    # mypkgs.chawan
+    # mypkgs.chawan  TODO::prio4
     mypkgs.reader
-    # edbrowse #TODO
+    # edbrowse #TODO::prio4
     elinks
     links2
     lynx

@@ -7,7 +7,7 @@
   programs.eza = {
     enable = true;
     package = pkgs.eza;
-    # TODO:
+    # TODO::prioX:
     enableBashIntegration = true;
     extraOptions = [
       "--group-directories-first"

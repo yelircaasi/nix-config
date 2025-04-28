@@ -52,7 +52,7 @@ for name, attrs in pairs({
 	NormalFloat = { bg = "<| color.nvim.NormalFloat.bg |>", fg = "<| color.nvim.NormalFloat.fg |>" },
 	NormalNC = "Normal",
 	
-	-- Cursor: TODO::prioX...
+	-- Cursor: TODO::prio1
 
 	WinSeparator = { bg = "<| color.nvim.WinSeparator.bg |>", fg = "<| color.nvim.WinSeparator.fg |>" },
 	-- VertSplit = { bg = "<|color.nvim.VertSplit.bg |>", fg = "<|color.nvim.VertSplit.fg |>" },

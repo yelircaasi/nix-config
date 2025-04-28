@@ -20,12 +20,12 @@ in {
   programs.starship = {
     enable = deviceConfig.prompt == "starship";
     # https://mynixos.com/home-manager/options/programs.starship
-    # settings = {}; #TODO::prioX
+    # settings = {}; #TODO::prio2
   };
   programs.oh-my-posh = {
     enable = deviceConfig.prompt == "oh-my-posh";
     # https://mynixos.com/home-manager/options/programs.oh-my-posh
-    # settings = {};
+    # settings = {}; #TODO::prio2
   };
 
   programs.bash.enable = true;
@@ -57,6 +57,6 @@ in {
   home.packages = with pkgs; [
     bashInteractive
     starship
-    neovim  # TODO::prioX: remove when neovim is fixed
+    neovim # TODO::prio1: remove when neovim is fixed
   ];
 }

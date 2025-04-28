@@ -11,7 +11,7 @@
   ];
   programs.ripgrep = {
     enable = true;
-    # TODO::prioX:
+    # TODO::prio2:
     package = pkgs.ripgrep;
     arguments = [
       "--max-columns-preview"

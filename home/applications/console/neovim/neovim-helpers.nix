@@ -40,7 +40,7 @@
   importFromAttr = path: value: import value {inherit inputs pkgs lib neovimConfig g custom blankSet;};
   importNeovimElements = nestedPaths: lib.attrsets.mapAttrsRecursive importFromAttr nestedPaths;
 
-  # ifAny = neovimCats: map ( #TODO::prioX
+  # ifAny = neovimCats: map ( #TODO::prio1
   #     map (lib.mkIf (neovimConfig.${}.${}.enable)) neovimSetPre.${}
   #   ) neovimSetPre;
 
@@ -199,7 +199,7 @@
     defaultEditor = true; #neovimConfig.makeDefaultEditor;
     withPython3 = ifAny "needsPython3" nvimSetPre;
     withNodeJs = ifAny "needsNodeJs" nvimSetPre;
-    withRuby = ifAny "needsRuby" nvimSetPre; 
+    withRuby = ifAny "needsRuby" nvimSetPre;
     package = neovim-nightly;
     viAlias = true; #neovimConfig.viAlias;
     vimAlias = true; #neovimConfig.vimAlias;
@@ -210,7 +210,7 @@
         (pkgs.vimPlugins.nvim-treesitter.withPlugins (
           p:
             builtins.concatLists [
-              # TODO::prioX: refactor this!!!
+              # TODO::prio1: refactor this!!!
               (
                 if neovimConfig.languages.c.enable
                 then [p.c]
@@ -284,7 +284,7 @@ mergeAttrs = with lib; attrSetList:
     );
   in f [] attrSetList;
 
-  #TODO::prioX: clean up below this line!!!
+  ## clean up below this line!!!
   # boilerplate = {...};
   basicSet = (import ./basic-features {inherit pkgs lib g;};);
   featureSet = (import ./language-independent-features {inherit pkgs lib g;};) //
@@ -351,7 +351,7 @@ mergeAttrs = with lib; attrSetList:
   base = import ./config-base-files {inherit neovimConfig;};
 
   createNeovimLuaFiles = neovimConfig: features: languages:
-  #TODO::prioX: refactor
+  ## to be refactored
   # (import ./config-base-files {inherit neovimConfig;})
     (lib.attrsets.mapAttrs' (
         featName: origValue:

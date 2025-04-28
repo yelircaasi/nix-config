@@ -203,7 +203,7 @@ in {
 
     meta = with lib; {
       homepage = "https://github.com/yelircaasi/todocheck";
-      description = "A static code analyser for annotated TODO::prioX comments";
+      description = "A static code analyser for annotated TODO comments";
       license = licenses.mit;
       platforms = platforms.all;
     };
@@ -622,7 +622,6 @@ in {
     #TODO::prio5
 
     meta = with lib; {
-      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -652,10 +651,9 @@ in {
     };
   };
   binary-clock = {
-    #TODO::prioX
+    #TODO::prio2
 
     meta = with lib; {
-      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -663,10 +661,9 @@ in {
     };
   };
   bsol = {
-    #TODO::prioX
+    #TODO::prio4
 
     meta = with lib; {
-      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -674,10 +671,9 @@ in {
     };
   };
   castero = {
-    #TODO::prioX
+    #TODO::prio2
 
     meta = with lib; {
-      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -685,6 +681,7 @@ in {
     };
   };
   chawan = mkDerivation rec {
+    #TODO::prio2
     pname = "chawan";
     version = "unstable-2024-01-15";
     outputs = ["out" "man"];
@@ -766,10 +763,9 @@ in {
   #   };
   # };
   choose = {
-    #TODO::prioX
+    #TODO::prio2
 
     meta = with lib; {
-      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -777,10 +773,9 @@ in {
     };
   };
   conty = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
-      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -788,7 +783,7 @@ in {
     };
   };
   diary = buildRustPackage rec {
-    # TODO::prioX: installs correctly, but needs work
+    # TODO::prio3: installs correctly, but needs work
     pname = "diary";
     version = "2021-06-16";
 
@@ -812,7 +807,7 @@ in {
     };
   };
   dnote = buildGoModule rec {
-    # TODO::prioX: fix bin names, fts5 error
+    # TODO::prio2: fix bin names, fts5 error
     pname = "dnote";
     version = "v0.15.1";
 
@@ -836,10 +831,9 @@ in {
     };
   };
   enhancer-for-youtube = {
-    #TODO::prioX
+    #TODO::prio2
 
     meta = with lib; {
-      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -847,10 +841,9 @@ in {
     };
   };
   enjoy-json = {
-    #TODO::prioX
+    #TODO::prio2
 
     meta = with lib; {
-      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -997,7 +990,7 @@ in {
     };
   };
   guesswidth = {
-    #TODO::prioX
+    #TODO::prio4
 
     meta = with lib; {
       homepage = "";
@@ -1007,7 +1000,7 @@ in {
     };
   };
   harmonoid = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1017,7 +1010,7 @@ in {
     };
   };
   lf-sh = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "https://github.com/suewonjp/lf.sh";
@@ -1027,7 +1020,7 @@ in {
     };
   };
   lotus123 = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1037,7 +1030,7 @@ in {
     };
   };
   loungy = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1047,7 +1040,7 @@ in {
     };
   };
   lxroot = {
-    #TODO::prioX
+    #TODO::prio2
 
     meta = with lib; {
       homepage = "";
@@ -1057,7 +1050,7 @@ in {
     };
   };
   lyssa = {
-    #TODO::prioX
+    #TODO::prio4
 
     meta = with lib; {
       homepage = "";
@@ -1067,7 +1060,7 @@ in {
     };
   };
   multi-git-status = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1077,7 +1070,7 @@ in {
     };
   };
   music-player-plus = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1087,7 +1080,7 @@ in {
     };
   };
   neosurf = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1097,7 +1090,7 @@ in {
     };
   };
   olivia = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1130,7 +1123,7 @@ in {
     };
   };
   pixelfx = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1140,7 +1133,7 @@ in {
     };
   };
   rcz = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1150,7 +1143,7 @@ in {
     };
   };
   rdict = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1161,7 +1154,7 @@ in {
   };
 
   refind = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1171,7 +1164,7 @@ in {
     };
   };
   siren = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1181,7 +1174,7 @@ in {
     };
   };
   squeeze = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1191,10 +1184,9 @@ in {
     };
   };
   surf-wayland = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
-      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -1225,10 +1217,9 @@ in {
     };
   };
   vmn = {
-    #TODO::prioX
+    #TODO::prio2
 
     meta = with lib; {
-      #TODO::prioX
       homepage = "";
       description = "";
       license = licenses.gpl3;
@@ -1236,7 +1227,7 @@ in {
     };
   };
   waybar-weather = {
-    #TODO::prioX
+    #TODO::prio2
 
     meta = with lib; {
       homepage = "";
@@ -1246,7 +1237,7 @@ in {
     };
   };
   whatsie = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";
@@ -1256,7 +1247,7 @@ in {
     };
   };
   youtube-viewer = {
-    #TODO::prioX
+    #TODO::prio3
 
     meta = with lib; {
       homepage = "";

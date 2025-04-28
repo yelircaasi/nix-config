@@ -3,6 +3,6 @@
     mdp
     reveal-md
     slides
-    # haskellPackages.slidemews  # TODO::prioX: fix (broken)
+    # haskellPackages.slidemews  # TODO::prio2: fix (broken)
   ];
 }

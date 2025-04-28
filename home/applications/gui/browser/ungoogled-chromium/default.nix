@@ -7,7 +7,7 @@
   programs.chromium = {
     enable = true;
     package = pkgs.ungoogled-chromium;
-    # TODO::prioX: figure out how to declaratively install plugins in ungoogled-chromium -> https://github.com/nix-community/home-manager/issues/2216
+    # TODO::prio3: figure out how to declaratively install plugins in ungoogled-chromium -> https://github.com/nix-community/home-manager/issues/2216
 
     #extensions = [
     #  {id = "cjpalhdlnbpafiamejdnhcphjbkeiagm";} # ublock origin

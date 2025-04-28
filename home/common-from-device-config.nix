@@ -23,12 +23,12 @@
 in {
   imports = builtins.concatLists [
     [
-/*
+      /*
       ./applications/console/administration-monitoring
       ./applications/console/browser
       ./applications/console/communication
       ./applications/console/data-wrangling
-*/
+      */
       ./applications/console/development
 
       ./applications/console/version-control
@@ -39,8 +39,7 @@ in {
       ./applications/console/organization-cleanup
       ./applications/console/personal-organization
       ./applications/console/presentation
-/*
-*/
+      /**/
       ./applications/console/quality-of-life
       ./applications/console/search
       ./applications/console/timer-clock
@@ -48,12 +47,11 @@ in {
       ./applications/console/visualization
 
       ./applications/console/shell
-      
+
       ./applications/gui/dev-tools
       ./applications/gui/media/editing
 
       # ./applications/gui/personal-organization
-
 
       ./desktop-environment/theming/gtk
       # ./desktop-environment/theming/qt
@@ -66,7 +64,7 @@ in {
     (listIfIn "mako" deviceConfig.desktopShell ./desktop-environment/widgets/notifications/mako)
     (listIfIn "waybar" deviceConfig.desktopShell ./desktop-environment/widgets/bar/waybar)
 
-    # TODO::prioX: fix: (listIfIn "neovim" deviceConfig.editors ./applications/console/neovim)
+    # TODO::prio1: fix: (listIfIn "neovim" deviceConfig.editors ./applications/console/neovim)
     (listIfIn "wezterm" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/wezterm)
     (listIfIn "termonad" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/termonad)
     (listIfIn "nyxt" deviceConfig.browsers ./applications/gui/browser/nyxt)

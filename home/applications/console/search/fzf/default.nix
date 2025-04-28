@@ -7,7 +7,7 @@
   programs.fzf = {
     enable = true;
     package = pkgs.fzf;
-    # TODO::prioX:
+    # TODO::prio1:
   };
 
   /*

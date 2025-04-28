@@ -10,7 +10,7 @@
     # general code quality
 
     # linting and formatting
-    # mypkgs.precious  TODO::prioX: fix
+    # mypkgs.precious  TODO::prio2: fix
     treefmt
     /*
     eventually need to decide which of precious and treefmt I prefer,

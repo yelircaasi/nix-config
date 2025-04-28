@@ -6,7 +6,7 @@
   home.packages = with pkgs; [
     # dashboard
     wtf
-    # devdash:  TODO::prioX: replace because removed
+    # devdash:  TODO::prio2: replace because removed
     mypkgs.tinycare-tui
 
     # help

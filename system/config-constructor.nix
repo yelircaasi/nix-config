@@ -6,32 +6,38 @@
   pkgs,
   ...
 }: {
-  imports = [
-    ./hardware-configurations/hardware-configuration-${deviceConfig.name}.nix
-    ./modules/compositor/hyprland.nix
-    # ./modules/compositor/sway.nix
-    # ./modules/compositor/swayfx.nix
-    ./modules/container.nix
-    ./modules/desktop-environment/gnome
-    ./modules/desktop-environment/kde
-    ./modules/desktop-environment/xfce
-    ./modules/display-manager.nix
-    ./modules/gui-file-browser/thunar.nix
-    ./modules/hardware.nix
-    ./modules/input/kanata
-    ./modules/miscellaneous-services.nix
-    ./modules/networking.nix
-    ./modules/nvidia.nix
-    ./modules/security.nix
-    ./modules/sound.nix
-    ./modules/ssh.nix
-    ./modules/system-packages.nix
-    ./modules/ui/fonts
-    ./modules/users.nix
-    ./modules/variables.nix
-    ./modules/windowing-protocol/wayland.nix
-    ./modules/windowing-protocol/x11.nix
-  ] ++ (if deviceConfig.name == "hank" then [./modules/database.nix] else []);
+  imports =
+    [
+      ./hardware-configurations/hardware-configuration-${deviceConfig.name}.nix
+      ./modules/compositor/hyprland.nix
+      # ./modules/compositor/sway.nix
+      # ./modules/compositor/swayfx.nix
+      ./modules/container.nix
+      ./modules/desktop-environment/gnome
+      ./modules/desktop-environment/kde
+      ./modules/desktop-environment/xfce
+      ./modules/display-manager.nix
+      ./modules/gui-file-browser/thunar.nix
+      ./modules/hardware.nix
+      ./modules/input/kanata
+      ./modules/miscellaneous-services.nix
+      ./modules/networking.nix
+      ./modules/nvidia.nix
+      ./modules/security.nix
+      ./modules/sound.nix
+      ./modules/ssh.nix
+      ./modules/system-packages.nix
+      ./modules/ui/fonts
+      ./modules/users.nix
+      ./modules/variables.nix
+      ./modules/windowing-protocol/wayland.nix
+      ./modules/windowing-protocol/x11.nix
+    ]
+    ++ (
+      if deviceConfig.name == "hank"
+      then [./modules/database.nix]
+      else []
+    );
 
   environment.systemPackages = with pkgs; [git home-manager];
 

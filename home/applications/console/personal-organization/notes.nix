@@ -9,14 +9,14 @@
       pandoc
       jot
       zk
-      # emanote  TODO::prioX: fix
+      # emanote  TODO::prio2: fix
       eureka-ideas
-      kb # TODO::prioX: debug
-      # mypkgs.diary # TODO::prioX: needs work
+      kb # TODO::prio2: debug
+      # mypkgs.diary # TODO::prio2: needs work
 
-      # jrnl  TODO::prioX fix
+      # jrnl  TODO::prio2 fix
       joplin
-      # mypkgs.dnote TODO::prioX: fix errors
+      # mypkgs.dnote TODO::prio2: fix errors
     ])
     ++ (with mypkgs; []);
 }

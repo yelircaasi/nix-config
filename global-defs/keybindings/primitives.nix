@@ -1,3 +1,4 @@
+# TODO::prio1: refactor to kleidoukhos
 let
   tmp = "placeholder";
 
@@ -301,9 +302,9 @@ in rec {
     paste = "paste";
   };
 
-  keys = phys // sem; # TODO::prioX
+  keys = phys // sem;
 
-  commands = keys; #commands = {placeholder = "placeholder";};  # TODO::prioX
+  commands = keys; #commands = {placeholder = "placeholder";};
 
   generalAssociationsRaw = {
     ${phys.a} = ["execute" "alter" "changeState" "_5"];
@@ -395,7 +396,7 @@ in rec {
 
   layers = rec {
     physical = {}; #() keys; # map every key name to itself
-    default = {}; #TODO::prioX: decide which I want from normal and which from insert
+    default = {}; #TODO::prio1: decide which I want from normal and which from insert
     normalMode =
       physical
       // {

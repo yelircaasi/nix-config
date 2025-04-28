@@ -22,8 +22,6 @@ in {
   ];
 
   xdg.configFile = {
-
-
     "./${riverPhotoPath}".source = ./images/river.jpg;
     "./${blitzPhotoPath}".source = ./images/blitz.jpg;
     "./hypr/hyprpaper.conf".text = ''

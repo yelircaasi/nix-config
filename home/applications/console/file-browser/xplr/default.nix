@@ -5,7 +5,7 @@
 }: {
   programs.xplr = {
     enable = true;
-    # TODO::prioX: https://xplr.dev/en/awesome-plugins
+    # TODO::prio1: https://xplr.dev/en/awesome-plugins
     # plugins = [];
     extraConfig = "";
   };

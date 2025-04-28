@@ -23,7 +23,7 @@ local dap_python = require("dap-python")
 -- lsp ------------------------------------------------------------------------------------------------------
 local lspconf = require("lspconfig")
 -- local null_ls = require("null-ls")
--- local lspkind = require("lspkind") TODO::prioX
+-- local lspkind = require("lspkind") TODO::prio2
 -- local efmls_configs = require("efmls-configs")
 -- local nlspsettings = require("nlspsettings")
 -- local lspsaga = require("lspsaga")

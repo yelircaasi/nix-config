@@ -15,7 +15,8 @@
       desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
       desktopEnvironments = []; # cosmic | gnome | kde
       terminalEmulators = ["wezterm"];
-      consoleSet = "core"; # minimal | core | extended | maximal
+      consoleSet = "core"; # none | minimal | core | extended | maximal
+      guiSet = "none"; # none | minimal | core | extended | maximal
       prompt = "starship";
       nvidia = false;
       pipewire = true;

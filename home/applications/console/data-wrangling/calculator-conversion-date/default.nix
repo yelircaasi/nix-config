@@ -10,7 +10,7 @@
     units
 
     # miscellaneous dev tools
-    dtool # failed to build - TODO::prioX
+    dtool # failed to build - TODO::prio2
 
     # date
     dateutils

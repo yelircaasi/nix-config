@@ -47,7 +47,7 @@ in rec {
       specialArgs = {inherit inputs g deviceConfig mypkgs;}; #lib = inputs.nixpkgs.lib; };
       modules =
         [
-          ./system/configuration-${deviceConfig.name}.nix
+          ./system/configuration.nix
         ]
         ++ additionalModules;
     };

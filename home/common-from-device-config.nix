@@ -8,6 +8,22 @@
   mypkgs,
   ...
 }: let
+  setLevel = deviceConfig.consoleSet;
+  # consoleSet =
+  #   {
+  #     minimal = [];
+  #     core = [];
+  #     extended = [];
+  #     maximal = [];
+  #   }
+  #   // deviceConfig.consoleSet;
+  setOverrides =
+    {
+      add = [];
+      remove = [];
+    }
+    // deviceConfig.setOverrides;
+
   asListIf = nameBool: namePath:
     if nameBool
     then [namePath]
@@ -18,35 +34,28 @@
     else [];
 
   removeElements = toRemove: originalList:
-    builtins.filter (x: !(builtins.elem x toRemove)) originalList;
+    builtins.filter (map (item: !(builtins.elem item toRemove))) originalList;
 
-  includeBySet = setName: {
-    add ? [],
-    remove ? [],
-  } @ setOverrides: {
-    minimal ? [],
-    core ? [],
-    extended ? [],
-    maximal ? [],
-  } @ setLists:
-    removeElements setLists.remove (
+  includeBySet = setLists:
+    removeElements setOverrides.remove
+    (
       (
-        if setName != "none"
+        if setLevel != "none"
         then setLists.minimal
         else []
       )
       ++ (
-        if (builtins.elem setName ["none" "minimal"])
+        if (builtins.elem setLevel ["none" "minimal"])
         then []
         else setLists.core
       )
       ++ (
-        if (builtins.elem setName ["extended" "maximal"])
+        if (builtins.elem setLevel ["extended" "maximal"])
         then setLists.extended
         else []
       )
       ++ (
-        if setName == "maximal"
+        if setLevel == "maximal"
         then setLists.maximal
         else []
       )

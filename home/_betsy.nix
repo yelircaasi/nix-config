@@ -42,3 +42,19 @@
 
   xdg.configFile."kanata/kanata.kbd".source = ../system/modules/input/kanata/kanata.kbd;
 }
+/*
+pogghkjfd    d s ajkkl;;'
+
+
+
+
+
+
+
+
+';;llkkmmnbvvcxxxcvvhkkll;lllji888766tttgggjhjkljjjjjjjjjjjjjjjjjjjuiiijjjjjjjjjjjjjjjjjjjjjjjjuooooooooooooohhhkouuuuuuuuuuuuuuuuutiop;llkjlllll
+ougtyfgfvbbbbnmmmmmnnbbnbnnmjjhhgvbvvcc/wrhjjjjjjhjhjjjjjjhhhyoo;pp;,,mmmnnnnnbvctyyyhhhjjiipplm;tujnjjbv gghh gthytt,loi2ewerrtsrtttttyyuuikkl,iuytvmmwhjnabv xxxvcccjaijdhcv   , an              vdfjkl..;hjbbbb
+nbbbzhzhbxbn jttvvvxvxccvvvvvvvxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhyxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhf ghbbhhml[p[ojvxggh h hbvccfhfhhhggcgbhiooooooooljcxzzzxxxcdxxccccvghjkkk;]
+\\[olmmnmjjhhhgfrt5hgfffvjnjhhgcdfghk;/=piydwhnnnnnnnvcccdcsdswqeffghhhjhjnvfovcccccczZCz cZvbbbggggggggttutttbvhhghhkikojhgfgfgff ,l.hb Ahq zqht]]
+*/
+

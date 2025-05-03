@@ -13,8 +13,8 @@
     nerd-font-patcher
 
     fira-code
-    fira-code-nerdfont
-    fira-code-symbols
+    nerd-fonts.fira-code
+    # fira-code-symbols
     # dejavu_fonts
     # freefont_ttf
     # gyre-fonts # TrueType substitutes for standard PostScript fonts

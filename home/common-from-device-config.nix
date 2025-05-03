@@ -16,10 +16,80 @@
     if (builtins.elem nameString nameList)
     then [namePath]
     else [];
-  listIf = nameBool: namePath:
-    if nameBool
-    then namePath
-    else [];
+
+  removeElements = toRemove: originalList:
+    builtins.filter (x: !(builtins.elem x toRemove)) originalList;
+
+  includeBySet = setName: {
+    add ? [],
+    remove ? [],
+  } @ setOverrides: {
+    minimal ? [],
+    core ? [],
+    extended ? [],
+    maximal ? [],
+  } @ setLists:
+    removeElements setLists.remove (
+      (
+        if setName != "none"
+        then setLists.minimal
+        else []
+      )
+      ++ (
+        if (builtins.elem setName ["none" "minimal"])
+        then []
+        else setLists.core
+      )
+      ++ (
+        if (builtins.elem setName ["extended" "maximal"])
+        then setLists.extended
+        else []
+      )
+      ++ (
+        if setName == "maximal"
+        then setLists.maximal
+        else []
+      )
+      ++ setOverrides.add
+    );
+  /*
+     TODO::prio1: implement following logic and then apply it to gui as well (guiSet in deviceConfig)
+
+
+  {
+    imports = (
+      includeIfCore deviceConfig.consoleSet [
+        ./nnn
+        ./xplr
+        ./yazi
+      ]
+    ) ++ (
+      includeIfExtended deviceConfig.consoleSet [
+        ...
+      ]
+    ) ++ (
+      includeIfMaximal deviceConfig.consoleSet [
+        ...
+      ]
+    );
+  }
+
+  OR, even cleaner:
+
+  {
+    imports = includeBySet
+      deviceConfig.consoleSet
+      deviceConfig.setOverrides
+      {
+        minimal = [];
+        core = [];
+        extended = [];
+        maximal = [];
+      };
+  }
+
+
+  */
 in {
   imports = builtins.concatLists [
     [

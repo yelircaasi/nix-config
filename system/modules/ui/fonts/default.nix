@@ -9,7 +9,7 @@
     enableGhostscriptFonts = false;
     packages = with pkgs; [
       fira-code
-      fira-code-nerdfont
+      nerd-fonts.fira-code
       fira-code-symbols
       # dejavu_fonts
       # freefont_ttf

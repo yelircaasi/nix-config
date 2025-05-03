@@ -12,7 +12,7 @@
         settings = {
           "extensions.autoDisableScopes" = 0;
         };
-        extensions = with inputs.firefox-addons.packages.${pkgs.system}; [ublock-origin bitwarden];
+        extensions.packages = with inputs.firefox-addons.packages.${pkgs.system}; [ublock-origin bitwarden];
       };
     };
   };

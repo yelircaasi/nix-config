@@ -57,6 +57,5 @@ includeBySet = setName: _setLists: let
   ++ (if setName == "extended" or setName == "maximal" then setLists.extended else [])
   ++ (if setName == "maximal" then setLists.maximal else [])
   ;
-
 */
 

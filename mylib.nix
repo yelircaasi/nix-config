@@ -22,6 +22,9 @@ in rec {
     desktopEnvironments,
     desktopShell,
     consoleSet,
+    guiSet,
+    setOverrides,
+    sops,
     prompt,
     terminalEmulators,
     editors,
@@ -58,6 +61,9 @@ in rec {
     desktopEnvironments,
     desktopShell,
     consoleSet,
+    guiSet,
+    setOverrides,
+    sops,
     prompt,
     terminalEmulators,
     editors,
@@ -79,7 +85,7 @@ in rec {
     inputs.home-manager.lib.homeManagerConfiguration {
       inherit pkgs;
       extraSpecialArgs = {inherit inputs g deviceConfig mypkgs;};
-      modules = [./home/${deviceConfig.name}.nix] ++ additionalModules;
+      modules = [./home/common-from-device-config.nix] ++ additionalModules;
     };
 
   makeNixosConfigurations = deviceDeclarationAttrSet:

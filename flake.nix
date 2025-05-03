@@ -13,10 +13,26 @@
       otherShells = [];
       compositors = ["hyprland"]; # "sway" "swayfx"];
       desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
+      /*
+      TODO::prio1: separate desktopShell into
+        launcher            ()
+        logoutManager       ()
+        notificationDaemon  ()
+        widgets             ()
+
+      TODO::prio2: add fields?
+        keyRemapper         ()
+        bootLoader          ()
+      */
       desktopEnvironments = []; # cosmic | gnome | kde
       terminalEmulators = ["wezterm"];
       consoleSet = "core"; # none | minimal | core | extended | maximal
       guiSet = "none"; # none | minimal | core | extended | maximal
+      setOverrides = {
+        add = [];
+        remove = [];
+      };
+      sops = false;
       prompt = "starship";
       nvidia = false;
       pipewire = true;
@@ -45,6 +61,7 @@
         desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
         terminalEmulators = ["wezterm"];
         consoleSet = "maximal";
+        sops = true;
         prompt = "oh-my-posh";
         nvidia = false;
         pipewire = true;
@@ -83,8 +100,8 @@
         podman = true;
         printing = true;
       };
-      innokenti = {
-        name = "innokenti";
+      olivia = {
+        name = "olivia";
         description = "Work laptop. Lenovo Thinkpad running NixOS.";
         defaultShell = "bash";
         otherShells = ["bash"];

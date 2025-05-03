@@ -8,11 +8,11 @@
   mypkgs,
   ...
 }: let
-  appendIf = nameBool: namePath:
+  asListIf = nameBool: namePath:
     if nameBool
     then [namePath]
     else [];
-  listIfIn = nameString: nameList: namePath:
+  asListIfIn = nameString: nameList: namePath:
     if (builtins.elem nameString nameList)
     then [namePath]
     else [];
@@ -57,22 +57,53 @@ in {
       # ./desktop-environment/theming/qt
       ./desktop-environment/theming/fonts
       ./desktop-environment/theming/icons
-    ]
-    (listIfIn "hyprland" deviceConfig.compositors ./desktop-environment/compositor/hyprland)
-    (listIfIn "fuzzel" deviceConfig.desktopShell ./desktop-environment/launcher/fuzzel)
-    (listIfIn "wlogout" deviceConfig.desktopShell ./desktop-environment/logout-manager/wlogout)
-    (listIfIn "mako" deviceConfig.desktopShell ./desktop-environment/widgets/notifications/mako)
-    (listIfIn "waybar" deviceConfig.desktopShell ./desktop-environment/widgets/bar/waybar)
 
-    # TODO::prio1: fix: (listIfIn "neovim" deviceConfig.editors ./applications/console/neovim)
-    (listIfIn "wezterm" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/wezterm)
-    (listIfIn "termonad" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/termonad)
-    (listIfIn "nyxt" deviceConfig.browsers ./applications/gui/browser/nyxt)
-    (listIfIn "qutebrowser" deviceConfig.browsers ./applications/gui/browser/qutebrowser)
-    (listIfIn "ungoogled-chromium" deviceConfig.browsers ./applications/gui/browser/ungoogled-chromium)
-    (listIfIn "vieb" deviceConfig.browsers ./applications/gui/browser/vieb)
-    (listIfIn "firefox" deviceConfig.browsers ./applications/gui/browser/firefox)
+      ./applications/gui/editor-and-ide/vscode # TODO::prio1: add to core set
+      ./common #TODO::prio1: move here
+    ]
+    (asListIf deviceConfig.sops ./sops)
+    (asListIfIn "hyprland" deviceConfig.compositors ./desktop-environment/compositor/hyprland)
+    (asListIfIn "fuzzel" deviceConfig.desktopShell ./desktop-environment/launcher/fuzzel)
+    (asListIfIn "wlogout" deviceConfig.desktopShell ./desktop-environment/logout-manager/wlogout)
+    (asListIfIn "mako" deviceConfig.desktopShell ./desktop-environment/widgets/notifications/mako)
+    (asListIfIn "waybar" deviceConfig.desktopShell ./desktop-environment/widgets/bar/waybar)
+
+    # TODO::prio1: fix: (asListIfIn "neovim" deviceConfig.editors ./applications/console/neovim)
+    (asListIfIn "wezterm" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/wezterm)
+    (asListIfIn "termonad" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/termonad)
+    (asListIfIn "nyxt" deviceConfig.browsers ./applications/gui/browser/nyxt)
+    (asListIfIn "qutebrowser" deviceConfig.browsers ./applications/gui/browser/qutebrowser)
+    (asListIfIn "ungoogled-chromium" deviceConfig.browsers ./applications/gui/browser/ungoogled-chromium)
+    (asListIfIn "vieb" deviceConfig.browsers ./applications/gui/browser/vieb)
+    (asListIfIn "firefox" deviceConfig.browsers ./applications/gui/browser/firefox)
   ];
+
+  nixpkgs = {
+    config = {
+      allowUnfree = true;
+    };
+  };
+
+  home = {
+    username = "isaac";
+    homeDirectory = "/home/isaac";
+    stateVersion = "24.05";
+    packages = with pkgs; [
+      # xplr
+      # lazygit
+      # bat
+      # fd
+      # fzf
+      # sd
+    ];
+    sessionVariables = {
+      EDITOR = "nvim";
+    };
+  };
+
+  systemd.user.startServices = "sd-switch";
+
+  xdg.configFile."kanata/kanata.kbd".source = ../system/modules/input/kanata/kanata.kbd;
 
   # home.stateVersion = "23.11";
   programs.home-manager.enable = true;

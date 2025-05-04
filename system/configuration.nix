@@ -8,7 +8,7 @@
 }: {
   imports =
     [
-      ./hardware-configurations/hardware-configuration-${deviceConfig.name}.nix
+      ./hardware-configuration.nix
       ./modules/compositor/hyprland.nix
       # ./modules/compositor/sway.nix
       # ./modules/compositor/swayfx.nix

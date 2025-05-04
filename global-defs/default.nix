@@ -6,7 +6,7 @@
   removeElements = toRemove: originalList:
     builtins.filter (item: !(builtins.elem item toRemove)) originalList;
 
-  buildLists = setLevel: setOverrides @ {
+  buildList = setLevel: setOverrides @ {
     add,
     remove,
   }: _setLists: let
@@ -43,4 +43,21 @@
       )
       ++ setOverrides.add
     );
+
+  asListIf = nameBool: namePath:
+    if nameBool
+    then [namePath]
+    else [];
+
+  asListIfIn = nameString: nameList: namePath:
+    if (builtins.elem nameString nameList)
+    then [namePath]
+    else [];
+
+  asListFrom = nameList: interpolator: map interpolator nameList;
+
+  asNonemptyString = stringOrNull:
+    if (builtins.isNull stringOrNull)
+    then "null"
+    else stringOrNull;
 }

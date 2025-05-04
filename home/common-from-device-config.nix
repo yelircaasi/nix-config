@@ -8,102 +8,16 @@
   mypkgs,
   ...
 }: let
-  setLevel = deviceConfig.consoleSet;
-  # consoleSet =
-  #   {
-  #     minimal = [];
-  #     core = [];
-  #     extended = [];
-  #     maximal = [];
-  #   }
-  #   // deviceConfig.consoleSet;
-  setOverrides =
-    {
-      add = [];
-      remove = [];
-    }
-    // deviceConfig.setOverrides;
-
-  asListIf = nameBool: namePath:
-    if nameBool
-    then [namePath]
-    else [];
-  asListIfIn = nameString: nameList: namePath:
-    if (builtins.elem nameString nameList)
-    then [namePath]
-    else [];
-
-  removeElements = toRemove: originalList:
-    builtins.filter (map (item: !(builtins.elem item toRemove))) originalList;
-
-  includeBySet = setLists:
-    removeElements setOverrides.remove
-    (
-      (
-        if setLevel != "none"
-        then setLists.minimal
-        else []
-      )
-      ++ (
-        if (builtins.elem setLevel ["none" "minimal"])
-        then []
-        else setLists.core
-      )
-      ++ (
-        if (builtins.elem setLevel ["extended" "maximal"])
-        then setLists.extended
-        else []
-      )
-      ++ (
-        if setLevel == "maximal"
-        then setLists.maximal
-        else []
-      )
-      ++ setOverrides.add
-    );
-  /*
-     TODO::prio1: implement following logic and then apply it to gui as well (guiSet in deviceConfig)
-
-
-  {
-    imports = (
-      includeIfCore deviceConfig.consoleSet [
-        ./nnn
-        ./xplr
-        ./yazi
-      ]
-    ) ++ (
-      includeIfExtended deviceConfig.consoleSet [
-        ...
-      ]
-    ) ++ (
-      includeIfMaximal deviceConfig.consoleSet [
-        ...
-      ]
-    );
-  }
-
-  OR, even cleaner:
-
-  {
-    imports = includeBySet
-      deviceConfig.consoleSet
-      deviceConfig.setOverrides
-      {
-        minimal = [];
-        core = [];
-        extended = [];
-        maximal = [];
-      };
-  }
-
-
-  */
+  inherit (g) asListIf asListIfIn asListFrom asNonemptyString;
+  inherit (inputs.lib) mkIf;
+  inherit (builtins) elem;
 in {
+  programs.home-manager.enable = true;
+
   imports = builtins.concatLists [
     [
-      /*
       ./applications/console/administration-monitoring
+      /*
       ./applications/console/browser
       ./applications/console/communication
       ./applications/console/data-wrangling
@@ -138,23 +52,18 @@ in {
       ./desktop-environment/theming/icons
 
       ./applications/gui/editor-and-ide/vscode # TODO::prio1: add to core set
-      ./common #TODO::prio1: move here
+
+      ./desktop-environment/compositors
+      ./desktop-environment/launcher/${asNonemptyString deviceConfig.desktopShell.launcher}
+      ./desktop-environment/logout-manager/${asNonemptyString deviceConfig.desktopShell.logoutManager}
+      ./desktop-environment/widgets/notifications/${asNonemptyString deviceConfig.desktopShell.notificationDaemon}.nix
     ]
     (asListIf deviceConfig.sops ./sops)
-    (asListIfIn "hyprland" deviceConfig.compositors ./desktop-environment/compositor/hyprland)
-    (asListIfIn "fuzzel" deviceConfig.desktopShell ./desktop-environment/launcher/fuzzel)
-    (asListIfIn "wlogout" deviceConfig.desktopShell ./desktop-environment/logout-manager/wlogout)
-    (asListIfIn "mako" deviceConfig.desktopShell ./desktop-environment/widgets/notifications/mako)
-    (asListIfIn "waybar" deviceConfig.desktopShell ./desktop-environment/widgets/bar/waybar)
+    (asListFrom deviceConfig.desktopShell.widgetTools (name: ./desktop-environment/widgets/${name}))
 
     # TODO::prio1: fix: (asListIfIn "neovim" deviceConfig.editors ./applications/console/neovim)
-    (asListIfIn "wezterm" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/wezterm)
-    (asListIfIn "termonad" deviceConfig.terminalEmulators ./applications/gui/terminal-emulator/termonad)
-    (asListIfIn "nyxt" deviceConfig.browsers ./applications/gui/browser/nyxt)
-    (asListIfIn "qutebrowser" deviceConfig.browsers ./applications/gui/browser/qutebrowser)
-    (asListIfIn "ungoogled-chromium" deviceConfig.browsers ./applications/gui/browser/ungoogled-chromium)
-    (asListIfIn "vieb" deviceConfig.browsers ./applications/gui/browser/vieb)
-    (asListIfIn "firefox" deviceConfig.browsers ./applications/gui/browser/firefox)
+    (asListFrom deviceConfig.terminalEmulators (name: ./applications/gui/terminal-emulator/${name}))
+    (asListFrom deviceConfig.browsers (name: ./applications/gui/browser/${name}))
   ];
 
   nixpkgs = {
@@ -174,6 +83,13 @@ in {
       # fd
       # fzf
       # sd
+
+      #docker
+      wget
+      alejandra
+      # python312
+      poetry
+      gdrive3
     ];
     sessionVariables = {
       EDITOR = "nvim";
@@ -183,9 +99,6 @@ in {
   systemd.user.startServices = "sd-switch";
 
   xdg.configFile."kanata/kanata.kbd".source = ../system/modules/input/kanata/kanata.kbd;
-
-  # home.stateVersion = "23.11";
-  programs.home-manager.enable = true;
 
   xdg.configFile = {
     "user-dirs.locale".text = "en_US";

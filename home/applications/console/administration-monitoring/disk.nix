@@ -4,7 +4,7 @@
   ...
 }: {
   home.packages = with pkgs; [
-    # diskonaut  removeed due to lack of upstream manintenance TODO::prio2 replace
+    # diskonaut  removed due to lack of upstream manintenance TODO::prio2 replace
     gdu
   ];
 }

@@ -12,14 +12,14 @@
       defaultShell = "bash";
       otherShells = [];
       compositors = ["hyprland"]; # "sway" "swayfx"];
-      desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
+      desktopShell = {
+        #old: ["fuzzel" "wlogout" "mako" "waybar"];
+        launcher = null;
+        logoutManager = null;
+        notificationDaemon = null;
+        widgetTools = [];
+      };
       /*
-      TODO::prio1: separate desktopShell into
-        launcher            ()
-        logoutManager       ()
-        notificationDaemon  ()
-        widgets             ()
-
       TODO::prio2: add fields?
         keyRemapper         ()
         bootLoader          ()
@@ -58,7 +58,12 @@
         editors = ["neovim"];
         browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
         desktopEnvironments = [];
-        desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
+        desktopShell = {
+          launcher = "fuzzel";
+          logoutManager = "wlogout";
+          notificationDaemon = "mako";
+          widgetTools = ["waybar"];
+        };
         terminalEmulators = ["wezterm"];
         consoleSet = "maximal";
         sops = true;
@@ -85,7 +90,12 @@
         editors = ["neovim"];
         browsers = ["qutebrowser" "ungoogled-chromium" "vieb"];
         desktopEnvironments = [];
-        desktopShell = []; #"fuzzel" "wlogout" "mako" "waybar"];
+        desktopShell = {
+          launcher = "fuzzel";
+          logoutManager = "wlogout";
+          notificationDaemon = "mako";
+          widgetTools = ["waybar"];
+        };
         terminalEmulators = ["wezterm" "termonad"];
         consoleSet = "maximal";
         prompt = "starship";
@@ -109,7 +119,12 @@
         editors = ["neovim"];
         browsers = ["qutebrowser" "ungoogled-chromium" "vieb"];
         desktopEnvironments = [];
-        desktopShell = []; #"fuzzel" "wlogout" "mako" "waybar"];
+        desktopShell = {
+          launcher = "fuzzel";
+          logoutManager = "wlogout";
+          notificationDaemon = "mako";
+          widgetTools = ["waybar"];
+        };
         terminalEmulators = ["wezterm" "termonad"];
         consoleSet = "maximal";
         prompt = "starship";

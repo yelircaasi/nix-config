@@ -84,6 +84,7 @@ Coming soon...
 
 ## Roadmap
 - [x] get colors and keybindings working just enough to successfully run nrs and hm
+- [ ] move all hardware-configuration-XXX.nix files into one and select device with deviceConfig
 - [ ] get nvim to build after refactoring
 - [ ] fix colors in gtk css files
 - [ ] add colors to global matplotlib config

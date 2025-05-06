@@ -78,12 +78,42 @@
         docker = false;
         podman = false;
         printing = false;
-
         additionalModules = [];
       };
       hank = {
-        name = "hank";
+        name = "betsy";
         description = "GPU laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU) running NixOS";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = ["hyprland"];
+        editors = ["neovim"];
+        browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
+        desktopEnvironments = [];
+        desktopShell = {
+          launcher = "fuzzel";
+          logoutManager = "wlogout";
+          notificationDaemon = "mako";
+          widgetTools = ["waybar"];
+        };
+        terminalEmulators = ["wezterm"];
+        consoleSet = "maximal";
+        sops = true;
+        prompt = "oh-my-posh";
+        nvidia = true;
+        pipewire = true;
+        jack = false;
+        networkmanager = true;
+        wayland = true;
+        x11 = true;
+        ssh-server = false;
+        docker = false;
+        podman = false;
+        printing = false;
+        additionalModules = [];
+      };
+      hank-old = {
+        name = "hank";
+        description = "GPU laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU) running Ubuntu Server + Nix";
         defaultShell = "bash";
         otherShells = ["bash"];
         compositors = ["i3-picom"];

@@ -33,11 +33,11 @@
       ./modules/windowing-protocol/wayland.nix
       ./modules/windowing-protocol/x11.nix
     ]
-    ++ (
-      if deviceConfig.name == "hank"
-      then [./modules/database.nix]
-      else []
-    );
+    # ++ (
+    #   if deviceConfig.name == "hank"
+    #   then [./modules/database.nix]
+    #   else []
+    # );
 
   environment.systemPackages = with pkgs; [git home-manager];
 

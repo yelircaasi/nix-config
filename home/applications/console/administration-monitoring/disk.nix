@@ -3,8 +3,8 @@
   mypkgs,
   ...
 }: {
-  home.packages = 
-  g.buildList
+  home.packages =
+    g.buildList
     deviceConfig.consoleSet
     deviceConfig.setOverrides {
       minimal = [];

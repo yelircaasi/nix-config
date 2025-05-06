@@ -189,7 +189,8 @@
         podman = true;
         printing = true;
       };
-      delilah = { # TODO::prio1
+      delilah = {
+        # TODO::prio1
         name = "delilah";
         # username = "root";
         description = "Lightweight non-GUI environment, primarily for experimentation";
@@ -198,7 +199,8 @@
         compositors = [];
         additionalModules = [];
       };
-      henrique = { # TODO::prio1
+      henrique = {
+        # TODO::prio1
         name = "henrique";
         description = "Minimal install ISO for work laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
         defaultShell = "bash";
@@ -222,12 +224,14 @@
         podman = false;
         printing = false;
       };
-      jabari = { # TODO::prio1
+      jabari = {
+        # TODO::prio1
         name = "jabari";
         description = "same work laptop, but running Ubuntu Server with custom DE, flatpak, and Nix";
         isNixOS = false;
       };
-      elsie = { # TODO::prio1
+      elsie = {
+        # TODO::prio1
         name = "elsie";
         description = "Dell Inspiron 14. Old, underpowered, and 32-bit (i686), used primarily for reading and note-taking while traveling; also good for experimentation; dual-boots Guix System";
         defaultShell = "bash";
@@ -235,7 +239,8 @@
         windowManager = [];
         additionalModules = [];
       };
-      malina = { # TODO::prio1
+      malina = {
+        # TODO::prio1
         name = "malina";
         description = "Raspberry Pi 3b+, aarch64 - non-GUI, primarily home server";
         defaultShell = "bash";
@@ -243,7 +248,8 @@
         compositors = [];
         additionalModules = [];
       };
-      khmara = { # TODO::prio1
+      khmara = {
+        # TODO::prio1
         name = "khmara";
         description = "Linode cloud device";
         defaultShell = "bash";
@@ -251,7 +257,8 @@
         compositors = [];
         additionalModules = [];
       };
-      doxie = { # TODO::prio1
+      doxie = {
+        # TODO::prio1
         name = "doxie";
         description = "Lightweight non-GUI development environment, suitable for use in containers (see yelircaasi/nix on Dockerhub)";
         defaultShell = "bash";
@@ -259,7 +266,8 @@
         compositors = [];
         additionalModules = [];
       };
-      ferris = { # TODO::prio1
+      ferris = {
+        # TODO::prio1
         name = "ferris";
         description = "nix-on-Droid on LineageOS running on Fairphone 4";
         defaultShell = "bash";
@@ -267,7 +275,8 @@
         compositors = [];
         additionalModules = [];
       };
-      charlie = { # TODO::prio1
+      charlie = {
+        # TODO::prio1
         name = "charlie";
         description = "nix-mobile on Fairphone 4";
         defaultShell = "bash";
@@ -275,7 +284,8 @@
         compositors = [];
         additionalModules = [];
       };
-      jamie = { # TODO::prio1
+      jamie = {
+        # TODO::prio1
         name = "jamie";
         description = "nix-mobile on Pinephone64";
         defaultShell = "bash";

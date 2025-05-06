@@ -1,4 +1,9 @@
-{pkgs, ...}: {
+{
+  pkgs,
+  g,
+  deviceConfig,
+  ...
+}: {
   packages = [];
   plugins = with pkgs; [
     nvim-dap

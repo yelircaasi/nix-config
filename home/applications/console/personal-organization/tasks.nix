@@ -1,18 +1,22 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    taskwarrior3
-    tasksh
-    taskwarrior-tui
-    vit
-    taskchampion-sync-server
-    # syncall
-    taskopen
-    tasknc
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    extended = with pkgs; [
+      taskwarrior3
+      tasksh
+      taskwarrior-tui
+      vit
+      taskchampion-sync-server
+      # syncall
+      taskopen
+      tasknc
 
-    mypkgs.tuido
-  ];
+      mypkgs.tuido
+    ];
+  };
 }

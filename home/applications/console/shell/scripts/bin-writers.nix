@@ -1,4 +1,9 @@
-{pkgs, ...}: let
+{
+  pkgs,
+  g,
+  deviceConfig,
+  ...
+}: let
 in {
   inherit
     (pkgs.writers)

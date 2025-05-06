@@ -1,12 +1,16 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    gdb
-  ];
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    extended = [
+      pkgs.gdb
+    ];
+  };
 
-  # gdb-dashboard
+  # gdb-dashboard  TODO::prio1: fit into sets system
   home.file.".gdbinit".source = ./gdbinit.py;
 }

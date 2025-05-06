@@ -1,4 +1,9 @@
-{pkgs, ...}: {
+{
+  pkgs,
+  g,
+  deviceConfig,
+  ...
+}: {
   # programs = {
   #   thunar = {
   #     enable = true;

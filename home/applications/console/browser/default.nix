@@ -1,15 +1,20 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    # mypkgs.chawan  TODO::prio4
-    mypkgs.reader
-    # edbrowse #TODO::prio4
-    elinks
-    links2
-    lynx
-    w3m
-  ];
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    core = [pkgs.lynx];
+    extended = with pkgs; [
+      # mypkgs.chawan  TODO::prio4
+      mypkgs.reader
+      # edbrowse #TODO::prio4
+      elinks
+      links2
+
+      w3m
+    ];
+  };
 }

@@ -1,29 +1,33 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    each
-    mypkgs.zet
-    huniq
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    core = with pkgs; [
+      each
+      mypkgs.zet
+      huniq
 
-    # alignment
-    justify
+      # alignment
+      justify
 
-    # color
-    grc
+      # color
+      grc
 
-    # pipe wrangling
-    pipr
-    dt
-    teip
+      # pipe wrangling
+      pipr
+      dt
+      teip
 
-    #cut-like
-    tuc
-    hck
-    choose
-  ];
+      #cut-like
+      tuc
+      hck
+      choose
+    ];
+  };
   xdg.configFile = {
   };
 }

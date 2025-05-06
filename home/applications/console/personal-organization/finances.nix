@@ -1,9 +1,13 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    hledger
-  ];
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    extended = [
+      pkgs.hledger
+    ];
+  };
 }

@@ -1,20 +1,24 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    ungit
-    mypkgs.git-plus
-
-    mypkgs.git-fuzzy
-    fzf
-    gawk
-    delta
-    bat
-    eza
-    bc
-  ];
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    core = with pkgs; [
+      #TODO::prio1
+      ungit
+      mypkgs.git-plus
+      mypkgs.git-fuzzy
+      fzf
+      gawk
+      delta
+      bat
+      eza
+      bc
+    ];
+  };
   programs.git = {
     enable = true;
     userName = "yelircaasi";

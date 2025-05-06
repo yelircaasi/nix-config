@@ -1,5 +1,10 @@
-{pkgs, ...}: {
-  #home.packages = with pkgs; [bat bat-extras];
+{
+  pkgs,
+  g,
+  deviceConfig,
+  ...
+}: {
+  home.packages = with pkgs; [bat];
   programs.bat = {
     enable = true;
     extraPackages = with pkgs.bat-extras; [

@@ -1,9 +1,13 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    unzip
-  ];
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    minimal = [
+      pkgs.unzip
+    ];
+  };
 }

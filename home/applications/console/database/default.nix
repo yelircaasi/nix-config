@@ -1,13 +1,20 @@
-{pkgs, ...}: {
-  home.packages = with pkgs; [
-    postgresql
-    pgcli
+{
+  pkgs,
+  g,
+  deviceConfig,
+  ...
+}: {
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    extended = [
+      postgresql
+      pgcli
 
-    # mongodb
-    # mongosh
+      # mongodb
+      # mongosh
 
-    # sqlite
-    # sqlite-utils
-    # couchdb3
-  ];
+      # sqlite
+      # sqlite-utils
+      # couchdb3
+    ];
+  };
 }

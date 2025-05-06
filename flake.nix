@@ -269,7 +269,7 @@
       ferris = {
         # TODO::prio1
         name = "ferris";
-        description = "nix-on-Droid on LineageOS running on Fairphone 4";
+        description = "nix-on-droid on LineageOS running on Fairphone 4";
         defaultShell = "bash";
         otherShells = ["bash"];
         compositors = [];

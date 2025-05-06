@@ -55,8 +55,11 @@ in {
   '';
 
   home.packages = with pkgs; [
-    bashInteractive
-    starship
+    (lib.mkIf
+      ((deviceConfig.defaultShell == "bash") || (builtins.elem "bash" deviceConfig.otherShells))
+      bashInteractive)
+    (lib.mkIf (deviceConfig.prompt == "starship") starship)
+    (lib.mkIf (deviceConfig.prompt == "ohmyposh") ohmyposh)
     neovim # TODO::prio1: remove when neovim is fixed
   ];
 }

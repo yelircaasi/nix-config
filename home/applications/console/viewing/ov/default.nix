@@ -4,7 +4,8 @@
   deviceConfig,
   ...
 }: {
-  home.packages = [pkgs.ov];
+  home.packages = [
+    pkgs.ov
+  ];
   # TODO::prio1: configure ov
-  #
 }

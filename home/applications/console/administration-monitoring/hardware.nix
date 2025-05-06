@@ -1,9 +1,13 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    # dmidecode
-  ];
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    core = with pkgs; [
+      # dmidecode  TODO::priority::2
+    ];
+  };
 }

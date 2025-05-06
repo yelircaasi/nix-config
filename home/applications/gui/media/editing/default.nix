@@ -1,11 +1,14 @@
 {
   pkgs,
   mypkgs,
+  g,
   deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    darktable
-    drawing
-  ];
+  home.packages = g.selectViaGuiSet deviceConfig {
+    extended = with pkgs; [
+      darktable
+      drawing
+    ];
+  };
 }

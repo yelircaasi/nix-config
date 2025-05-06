@@ -1,4 +1,9 @@
-{pkgs, ...}: {
+{
+  pkgs,
+  g,
+  deviceConfig,
+  ...
+}: {
   plugins = with pkgs.vimPlugins; [
     conform-nvim # alt: format-nvim, nvim-strict, guard-nvim, format-on-save-nvim, neoformat, formatter-nvim
     lsp-format-nvim # ?

@@ -1,8 +1,11 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-  ];
+  home.packages = g.selectViaGuiSet deviceConfig {
+    core = [];
+  };
 }

@@ -1,11 +1,16 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    perl538Packages.LaTeXML
-  ];
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    core = [
+      pkgs.perl538Packages.LaTeXML
+    ];
+  };
+
   xdg.configFile = {
   };
 }

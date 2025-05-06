@@ -11,9 +11,8 @@
   #   ./yazi
   # ];
   imports =
-    g.buildList
-    deviceConfig.consoleSet
-    deviceConfig.setOverrides {
+    g.selectViaConsoleSet
+    deviceConfig {
       minimal = [./yazi];
       core = [./xplr];
       extended = [./nnn];

@@ -1,5 +1,12 @@
-{pkgs, ...}: {
-  home.packages = with pkgs; [
-    regextester
-  ];
+{
+  pkgs,
+  g,
+  deviceConfig,
+  ...
+}: {
+  home.packages = g.selectViaGuiSet deviceConfig {
+    extended = [
+      pkgs.regextester
+    ];
+  };
 }

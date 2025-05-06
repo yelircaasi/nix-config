@@ -1,4 +1,9 @@
-{pkgs, ...}: {
+{
+  pkgs,
+  g,
+  deviceConfig,
+  ...
+}: {
   home.packages = [
     pkgs.vscodium
   ];

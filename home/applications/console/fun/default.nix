@@ -1,7 +1,14 @@
-{pkgs, ...}: {
-  home.packages = with pkgs; [
-    aalib
-    lolcat
-    sl
-  ];
+{
+  pkgs,
+  g,
+  deviceConfig,
+  ...
+}: {
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    maximal = with pkgs; [
+      aalib
+      lolcat
+      sl
+    ];
+  };
 }

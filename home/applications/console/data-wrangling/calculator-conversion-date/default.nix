@@ -1,22 +1,29 @@
-{pkgs, ...}: {
-  home.packages = with pkgs; [
-    # calculation
-    libqalculate
-    programmer-calculator
-    kalker
-    eva
+{
+  pkgs,
+  g,
+  deviceConfig,
+  ...
+}: {
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    core = with pkgs; [
+      # calculation
+      libqalculate
+      programmer-calculator
+      kalker
+      eva
 
-    # conversion
-    units
+      # conversion
+      units
 
-    # miscellaneous dev tools
-    dtool # failed to build - TODO::prio2
+      # miscellaneous dev tools
+      dtool # failed to build - TODO::prio2
 
-    # date
-    dateutils
+      # date
+      dateutils
 
-    # binary calculation
-    bitwise
-    bcal
-  ];
+      # binary calculation
+      bitwise
+      bcal
+    ];
+  };
 }

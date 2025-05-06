@@ -1,12 +1,16 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    timewarrior
-    #mypkgs.arttime
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    extended = with pkgs; [
+      timewarrior
+      #mypkgs.arttime
 
-    # stopwatch
-  ];
+      # stopwatch
+    ];
+  };
 }

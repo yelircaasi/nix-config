@@ -4,10 +4,14 @@
   deviceConfig,
   ...
 }: {
-  imports = [
-    ./bat
-    ./eza
-    ./ov
-    ./tre-command
-  ];
+  imports =
+    g.selectViaConsoleSet
+    deviceConfig {
+      minimal = [
+        ./bat
+        ./eza
+        ./ov
+        ./tre-command
+      ];
+    };
 }

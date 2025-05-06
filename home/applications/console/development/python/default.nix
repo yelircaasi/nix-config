@@ -3,25 +3,30 @@
   inputs,
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
+  # TODO::prio1: make list of progLangs to import according to boolean switches in deviceConfig
   # use in specific environments only, to avoid clash?
-  home.packages = with pkgs; [
-    (python312.withPackages (ps:
-      with ps; [
-        ipython
-        matplotlib
-        numpy
-        pandas
-        pydantic
-        mypkgs.matplotlib-backend-wezterm
-      ]))
-    poetry
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    core = with pkgs; [
+      (python312.withPackages (ps:
+        with ps; [
+          ipython
+          matplotlib
+          numpy
+          pandas
+          pydantic
+          mypkgs.matplotlib-backend-wezterm
+        ]))
+      poetry
 
-    black
-    mypy
-    isort
-  ];
+      black
+      mypy
+      isort
+    ];
+  };
 
   programs.matplotlib = {
     enable = true;

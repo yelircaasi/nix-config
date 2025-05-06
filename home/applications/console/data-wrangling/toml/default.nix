@@ -1,12 +1,16 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    taplo
-    toml-cli
-  ];
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    core = with pkgs; [
+      taplo
+      toml-cli
+    ];
+  };
   xdg.configFile = {
   };
 }

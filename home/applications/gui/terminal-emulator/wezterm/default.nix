@@ -8,7 +8,7 @@
   deviceConfig,
   ...
 }: {
-  programs.wezterm.enable = lib.mkDefault true;
+  programs.wezterm.enable = true;
   # programs.wezterm.extraConfig = builtins.readFile ./wezterm.lua ;
   # programs.wezterm.enableZshIntegration= true ;
 

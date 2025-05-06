@@ -1,10 +1,13 @@
 {
   pkgs,
   mypkgs,
+  g,
   deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    graphicsmagick # move to console software
-  ];
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    extended = [
+      pkgs.graphicsmagick
+    ];
+  };
 }

@@ -60,4 +60,10 @@
     if (builtins.isNull stringOrNull)
     then "null"
     else stringOrNull;
+
+  selectViaConsoleSet = devCfg: setLists_: buildList devCfg.consoleSet devCfg.setOverrides setLists_;
+
+  selectViaGuiSet = devCfg: setLists_: buildList devCfg.guiSet devCfg.setOverrides setLists_;
+
+  # TODO::prio1: write function buildAttrSet analogous to buildLists (and selectVia... --> selectAttrsVia...)
 }

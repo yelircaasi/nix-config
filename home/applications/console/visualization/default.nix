@@ -4,7 +4,9 @@
   deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    graphviz
-  ];
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    extended = [
+      pkgs.graphviz
+    ];
+  };
 }

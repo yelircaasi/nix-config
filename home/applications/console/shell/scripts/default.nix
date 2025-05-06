@@ -1,9 +1,10 @@
 {
   pkgs,
+  g,
   deviceConfig,
   ...
 }: let
-  writers = import ./bin-writers.nix {inherit pkgs;};
+  writers = import ./bin-writers.nix {inherit pkgs g deviceConfig;};
 in {
   /**/
 

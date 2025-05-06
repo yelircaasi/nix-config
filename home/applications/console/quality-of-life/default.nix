@@ -1,19 +1,23 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    # dashboard
-    wtfutil
-    # devdash:  TODO::prio2: replace because removed
-    mypkgs.tinycare-tui
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    core = with pkgs; [
+      # dashboard
+      wtfutil
+      # devdash:  TODO::prio2: replace because removed
+      mypkgs.tinycare-tui
 
-    # help
-    thefuck
+      # help
+      thefuck
 
-    handlr-regex
-    nix-prefetch-github
-    xdg-utils
-  ];
+      handlr-regex
+      nix-prefetch-github
+      xdg-utils
+    ];
+  };
 }

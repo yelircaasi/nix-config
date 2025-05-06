@@ -1,6 +1,8 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
   home.packages =

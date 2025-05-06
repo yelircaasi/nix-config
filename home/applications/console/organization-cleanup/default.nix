@@ -1,29 +1,33 @@
 {
   pkgs,
   mypkgs,
+  g,
+  deviceConfig,
   ...
 }: {
-  home.packages = with pkgs; [
-    xdg-ninja
-    mypkgs.antidot
-    # mypkgs.filesort  TODO::prio2: fix
-    # mypkgs.organize-rt  TODO::prio2: fix
+  home.packages = g.selectViaConsoleSet deviceConfig {
+    core = with pkgs; [
+      xdg-ninja
+      mypkgs.antidot
+      # mypkgs.filesort  TODO::prio2: fix
+      # mypkgs.organize-rt  TODO::prio2: fix
 
-    # deduplication, linting
-    backdown
-    fclones
-    rmlint
+      # deduplication, linting
+      backdown
+      fclones
+      rmlint
 
-    # metadata cleanup
-    mat2
+      # metadata cleanup
+      mat2
 
-    # file sorting
-    # adhoc.organize-rt
+      # file sorting
+      # adhoc.organize-rt
 
-    # symbolic links
-    symlinks
+      # symbolic links
+      symlinks
 
-    # file tagging
-    tmsu
-  ];
+      # file tagging
+      tmsu
+    ];
+  };
 }

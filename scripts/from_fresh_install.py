@@ -35,9 +35,8 @@ print(hardware_automatic)
 print("====================================================")
 
 
-def search(regexp: str | re.PATTERN, searched: str) -> str:
-    if isinstance(regexp, str):
-        regexp = re.compile(regexp, re.DOTALL)
+def search(regexp: str, searched: str) -> str:
+    regexp = re.compile(regexp, re.DOTALL)
 
     result = re.search(regexp, searched)
 
@@ -50,7 +49,11 @@ AVAILABLE_KERNEL_MODULES = search(r"boot.initrd.availableKernelModules = \[ ?([^
 INITRD_KERNEL_MODULES = search(r"boot.initrd.kernelModules = \[ ?([^\]]*?) ?\];", hardware_automatic) or " "
 KERNEL_MODULES = search(r"boot.kernelModules = \[ ?([^\]]+?) ?\];", hardware_automatic) or " "
 EXTRA_MODULE_PACKAGES = search(r"boot.extraModulePackages = \[ ?([^\]]*?) ?\];", hardware_automatic) or " "
-
+if "luks" in hardware_automatic:
+    OPTIONAL_LUKS_EXPRESSION = f"\n        {search(r'boot\.initrd\.(luks[^;]+;)', hardware_automatic)}"
+else:
+    print("NOT ENCRYPTED")
+    exit()
 root_substring = search(r"fileSystems\.\"/\"(.+)\};", hardware_automatic)
 DEVICE_PATH_ROOT = search(r"device = (\"[^\"]+?\");", root_substring)
 FSTYPE_ROOT = search(r"fsType = (\"[^\"]+?\");", root_substring)
@@ -71,12 +74,16 @@ BOOT_OPTIONS = search(r"options = \[ ?([^\]]+?) ?\];", boot_substring) or " "
 #     DEVICE_PATH_BOOT=DEVICE_PATH_BOOT,
 #     FSTYPE_BOOT=FSTYPE_BOOT,
 # )
+# if not OPTIONAL_LUKS_EXPRESSION:
+#   exit()
+# print(OPTIONAL_LUKS_EXPRESSION)
+# exit()
 
 new_hardware_config = f""";\n\n  {DEVICE_NAME} = {OPEN}
     boot = {OPEN}
       initrd = {OPEN}
         availableKernelModules = [{AVAILABLE_KERNEL_MODULES}];
-        kernelModules = [{INITRD_KERNEL_MODULES}];
+        kernelModules = [{INITRD_KERNEL_MODULES}];{OPTIONAL_LUKS_EXPRESSION}
       {CLOSE};
       kernelModules = [{KERNEL_MODULES}];
       extraModulePackages = [{EXTRA_MODULE_PACKAGES}];
@@ -99,8 +106,8 @@ SUFFIX = ";\n}.${\n  deviceConfig.name\n}"
 
 with open("/home/isaac/nix-config/system/hardware-configuration.nix.bak", "w") as f:
     f.write(hardware_pre)
-#with open("/home/isaac/nix-config/system/hardware-configuration.nix", "w") as f:
-#    f.write(hardware_pre.replace(SUFFIX, new_hardware_config + SUFFIX))
+with open("/home/isaac/nix-config/system/hardware-configuration.nix", "w") as f:
+    f.write(hardware_pre.replace(SUFFIX, new_hardware_config + SUFFIX))
 
 print(new_hardware_config)
 

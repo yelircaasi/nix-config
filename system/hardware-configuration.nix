@@ -98,6 +98,7 @@
       initrd = {
         availableKernelModules = ["nvme" "xhci_pci" "usbhid" "usb_storage" "sd_mod"];
         kernelModules = [ ];
+        luks.devices."luks-a888eb87-1f03-44ca-a7d6-cd36ba622167".device = "/dev/disk/by-uuid/a888eb87-1f03-44ca-a7d6-cd36ba622167";
       };
       kernelModules = ["kvm-amd"];
       extraModulePackages = [ ];

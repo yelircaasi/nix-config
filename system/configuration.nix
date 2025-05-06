@@ -32,7 +32,7 @@
       ./modules/variables.nix
       ./modules/windowing-protocol/wayland.nix
       ./modules/windowing-protocol/x11.nix
-    ]
+    ];
     # ++ (
     #   if deviceConfig.name == "hank"
     #   then [./modules/database.nix]

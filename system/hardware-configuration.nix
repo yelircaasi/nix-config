@@ -46,7 +46,8 @@
       };
     };
   };
-  hank = {
+
+  hank-old = {
     boot = {
       initrd = {
         availableKernelModules = ["nvme" "xhci_pci" "usbhid" "usb_storage" "sd_mod"];
@@ -68,6 +69,7 @@
       };
     };
   };
+
   henrique = {
     boot = {
       initrd = {
@@ -90,26 +92,26 @@
       };
     };
   };
-  olivia = {
-    # copied from betsy; need to change before switch
 
+  olivia = {
     boot = {
       initrd = {
-        availableKernelModules = ["xhci_pci" "ahci" "usb_storage" "sd_mod" "rtsx_pci_sdmmc"];
-        kernelModules = [];
+        availableKernelModules = ["nvme" "xhci_pci" "thunderbolt" "usb_storage" "usbhid" "sd_mod"];
+        kernelModules = [ ];
       };
       kernelModules = ["kvm-amd"];
-      extraModulePackages = [];
+      extraModulePackages = [ ];
     };
 
     fileSystems = {
       "/" = {
-        device = "/dev/disk/by-uuid/059f21e5-965a-4dd3-beae-67b1f4a307a4";
+        device = "/dev/disk/by-uuid/fe9b12b6-0653-44d9-a400-f49c8a0ced95";
         fsType = "ext4";
       };
       "/boot" = {
-        device = "/dev/disk/by-uuid/8A91-C10B";
+        device = "/dev/disk/by-uuid/083D-9067";
         fsType = "vfat";
+        options = ["fmask=0077" "dmask=0077"];
       };
     };
   };

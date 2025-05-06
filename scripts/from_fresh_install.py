@@ -103,5 +103,73 @@ with open("/home/isaac/nix-config/system/hardware-configuration.nix", "w") as f:
     f.write(hardware_pre.replace(SUFFIX, new_hardware_config + SUFFIX))
 
 print(new_hardware_config)
+
+minimal_hyprland_config = """
+$mainMod=super
+
+animations {
+  bezier=myBezier, 0.05, 0.9, 0.1, 1.05
+  animation=windows, 1, 7, myBezier
+  animation=windowsOut, 1, 7, default, popin 80%
+  animation=border, 1, 10, default
+  animation=borderangle, 1, 8, default
+  animation=fade, 1, 7, default
+  animation=workspaces, 1, 6, default
+  enabled=true
+}
+
+decoration {
+  blur {
+    enabled=true
+    passes=1
+    size=3
+  }
+  rounding=5
+}
+
+dwindle {
+  preserve_split=true
+  pseudotile=true
+}
+
+general {
+  border_size=2
+  col.active_border=rgb(002400)
+  col.inactive_border=rgb(162016)
+  gaps_in=5
+  gaps_out=20
+  layout=dwindle
+}
+
+gestures {
+  workspace_swipe=false
+}
+
+group {
+  groupbar {
+    text_color=0xffffffff
+  }
+  col.border_locked_active=rgb(003366)
+  col.border_locked_inactive=rgb(242424)
+}
+
+misc {
+  disable_hyprland_logo=true
+  disable_splash_rendering=true
+  enable_swallow=true
+  swallow_regex=^(org.wezfurlong.wezterm)$
+}
+
+bind=$mainMod, Q, killactive,
+bind=$mainMod, V, togglefloating,
+bind=$mainMod, F, fullscreen
+bind=$mainMod, W, exec, wezterm
+"""
+hypr_dir = Path("/home/isaac/.config/hypr")
+if not hypr_dir.exists():
+    Path.mkdir(hypr_dir)
+with open("/home/isaac/hypr/hyprland.conf", "w") as f:
+    f.write(minimal_hyprland_config)
+
 sys.exit()
 

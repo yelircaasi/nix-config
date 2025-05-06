@@ -81,7 +81,7 @@
         additionalModules = [];
       };
       hank = {
-        name = "betsy";
+        name = "hank";
         description = "GPU laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU) running NixOS";
         defaultShell = "bash";
         otherShells = ["bash"];

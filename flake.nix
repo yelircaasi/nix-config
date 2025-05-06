@@ -66,6 +66,11 @@
         };
         terminalEmulators = ["wezterm"];
         consoleSet = "maximal";
+        guiSet = "core";
+        setOverrides = {
+          add = [];
+          remove = [];
+        };
         sops = true;
         prompt = "oh-my-posh";
         nvidia = false;
@@ -96,7 +101,12 @@
           widgetTools = ["waybar"];
         };
         terminalEmulators = ["wezterm"];
-        consoleSet = "maximal";
+        consoleSet = "minimal";
+        guiSet = "minimal";
+        setOverrides = {
+          add = [];
+          remove = [];
+        };
         sops = true;
         prompt = "oh-my-posh";
         nvidia = true;
@@ -128,6 +138,11 @@
         };
         terminalEmulators = ["wezterm" "termonad"];
         consoleSet = "maximal";
+        guiSet = "maximal";
+        setOverrides = {
+          add = [];
+          remove = [];
+        };
         prompt = "starship";
         nvidia = true;
         pipewire = true;
@@ -156,7 +171,12 @@
           widgetTools = ["waybar"];
         };
         terminalEmulators = ["wezterm" "termonad"];
-        consoleSet = "maximal";
+        consoleSet = "minimal";
+        guiSet = "minimal";
+        setOverrides = {
+          add = [];
+          remove = [];
+        };
         prompt = "starship";
         nvidia = true;
         pipewire = true;
@@ -169,7 +189,7 @@
         podman = true;
         printing = true;
       };
-      delilah = {
+      delilah = { # TODO::prio1
         name = "delilah";
         # username = "root";
         description = "Lightweight non-GUI environment, primarily for experimentation";
@@ -178,7 +198,7 @@
         compositors = [];
         additionalModules = [];
       };
-      henrique = {
+      henrique = { # TODO::prio1
         name = "henrique";
         description = "Minimal install ISO for work laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
         defaultShell = "bash";
@@ -202,12 +222,12 @@
         podman = false;
         printing = false;
       };
-      jabari = {
+      jabari = { # TODO::prio1
         name = "jabari";
         description = "same work laptop, but running Ubuntu Server with custom DE, flatpak, and Nix";
         isNixOS = false;
       };
-      elsie = {
+      elsie = { # TODO::prio1
         name = "elsie";
         description = "Dell Inspiron 14. Old, underpowered, and 32-bit (i686), used primarily for reading and note-taking while traveling; also good for experimentation; dual-boots Guix System";
         defaultShell = "bash";
@@ -215,7 +235,7 @@
         windowManager = [];
         additionalModules = [];
       };
-      malina = {
+      malina = { # TODO::prio1
         name = "malina";
         description = "Raspberry Pi 3b+, aarch64 - non-GUI, primarily home server";
         defaultShell = "bash";
@@ -223,7 +243,7 @@
         compositors = [];
         additionalModules = [];
       };
-      khmara = {
+      khmara = { # TODO::prio1
         name = "khmara";
         description = "Linode cloud device";
         defaultShell = "bash";
@@ -231,7 +251,7 @@
         compositors = [];
         additionalModules = [];
       };
-      doxie = {
+      doxie = { # TODO::prio1
         name = "doxie";
         description = "Lightweight non-GUI development environment, suitable for use in containers (see yelircaasi/nix on Dockerhub)";
         defaultShell = "bash";
@@ -239,7 +259,7 @@
         compositors = [];
         additionalModules = [];
       };
-      ferris = {
+      ferris = { # TODO::prio1
         name = "ferris";
         description = "nix-on-Droid on LineageOS running on Fairphone 4";
         defaultShell = "bash";
@@ -247,7 +267,7 @@
         compositors = [];
         additionalModules = [];
       };
-      charlie = {
+      charlie = { # TODO::prio1
         name = "charlie";
         description = "nix-mobile on Fairphone 4";
         defaultShell = "bash";
@@ -255,7 +275,7 @@
         compositors = [];
         additionalModules = [];
       };
-      jamie = {
+      jamie = { # TODO::prio1
         name = "jamie";
         description = "nix-mobile on Pinephone64";
         defaultShell = "bash";

@@ -99,8 +99,8 @@ SUFFIX = ";\n}.${\n  deviceConfig.name\n}"
 
 with open("/home/isaac/nix-config/system/hardware-configuration.nix.bak", "w") as f:
     f.write(hardware_pre)
-with open("/home/isaac/nix-config/system/hardware-configuration.nix", "w") as f:
-    f.write(hardware_pre.replace(SUFFIX, new_hardware_config + SUFFIX))
+#with open("/home/isaac/nix-config/system/hardware-configuration.nix", "w") as f:
+#    f.write(hardware_pre.replace(SUFFIX, new_hardware_config + SUFFIX))
 
 print(new_hardware_config)
 
@@ -168,8 +168,7 @@ bind=$mainMod, W, exec, wezterm
 hypr_dir = Path("/home/isaac/.config/hypr")
 if not hypr_dir.exists():
     Path.mkdir(hypr_dir)
-with open("/home/isaac/hypr/hyprland.conf", "w") as f:
+with open(hypr_dir / "hyprland.conf", "w") as f:
     f.write(minimal_hyprland_config)
 
 sys.exit()
-

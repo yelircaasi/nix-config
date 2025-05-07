@@ -177,17 +177,18 @@
           add = [];
           remove = [];
         };
-        prompt = "starship";
-        nvidia = true;
+        prompt = "oh-my-posh";
+        nvidia = false;
         pipewire = true;
         jack = false;
         networkmanager = true;
         wayland = true;
         x11 = true;
-        ssh-server = true;
-        docker = true;
-        podman = true;
-        printing = true;
+        ssh-server = false;
+        docker = false;
+        podman = false;
+        printing = false;
+        additionalModules = [];
       };
       delilah = {
         # TODO::prio1

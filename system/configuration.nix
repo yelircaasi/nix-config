@@ -22,6 +22,7 @@
     ./modules/miscellaneous-services.nix
     ./modules/networking.nix
     ./modules/nvidia.nix
+    # (lib.mkIf deviceConfig.isWork )
     ./modules/security.nix
     ./modules/sound.nix
     ./modules/ssh.nix
@@ -31,12 +32,12 @@
     ./modules/variables.nix
     ./modules/windowing-protocol/wayland.nix
     ./modules/windowing-protocol/x11.nix
-  ];
-  # ++ (
-  #   if deviceConfig.name == "hank"
-  #   then [./modules/database.nix]
-  #   else []
-  # );
+    # (lib.mkIf deviceConfig.isWork ./modules/work.nix)
+  ]
+  ++ (
+    if deviceConfig.isWork then [./modules/work.nix ./modules/password.nix]
+    else []
+  );
 
   environment.systemPackages = with pkgs; [git home-manager];
 

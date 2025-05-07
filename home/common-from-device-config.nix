@@ -58,6 +58,8 @@ in {
       ./desktop-environment/logout-manager/${asNonemptyString deviceConfig.desktopShell.logoutManager}
       ./desktop-environment/widgets/notifications/${asNonemptyString deviceConfig.desktopShell.notificationDaemon}.nix
     ]
+    (asListIf deviceConfig.isWork ./applications/console/work)
+    (asListIf deviceConfig.isWork ./applications/gui/work)
     (asListIf deviceConfig.sops ./sops)
     (asListFrom deviceConfig.desktopShell.widgetTools (name: ./desktop-environment/widgets/${name}))
 

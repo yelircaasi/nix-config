@@ -9,6 +9,7 @@
     ...
   } @ inputs: let
     defaultDeclaration = {
+      isWork = false;
       defaultShell = "bash";
       otherShells = [];
       compositors = ["hyprland"]; # "sway" "swayfx"];
@@ -121,48 +122,15 @@
         printing = false;
         additionalModules = [];
       };
-      hank-old = {
-        name = "hank";
-        description = "GPU laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU) running Ubuntu Server + Nix";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = ["i3-picom"];
-        editors = ["neovim"];
-        browsers = ["qutebrowser" "ungoogled-chromium" "vieb"];
-        desktopEnvironments = [];
-        desktopShell = {
-          launcher = "fuzzel";
-          logoutManager = "wlogout";
-          notificationDaemon = "mako";
-          widgetTools = ["waybar"];
-        };
-        terminalEmulators = ["wezterm" "termonad"];
-        consoleSet = "maximal";
-        guiSet = "maximal";
-        setOverrides = {
-          add = [];
-          remove = [];
-        };
-        prompt = "starship";
-        nvidia = true;
-        pipewire = true;
-        jack = false;
-        networkmanager = true;
-        wayland = true;
-        x11 = true;
-        ssh-server = true;
-        docker = true;
-        podman = true;
-        printing = true;
-      };
       olivia = {
         name = "olivia";
         description = "Work laptop. Lenovo Thinkpad running NixOS.";
+        isWork = true;
         defaultShell = "bash";
         otherShells = ["bash"];
         compositors = ["hyprland"];
         editors = ["neovim"];
-        browsers = ["qutebrowser" "ungoogled-chromium" "vieb"];
+        browsers = ["qutebrowser" "chromium" "vieb" "nyxt"];
         desktopEnvironments = [];
         desktopShell = {
           launcher = "fuzzel";
@@ -293,6 +261,40 @@
         otherShells = ["bash"];
         compositors = [];
         additionalModules = [];
+      };
+      hank-old = {
+        name = "hank";
+        description = "GPU laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU) running Ubuntu Server + Nix";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = ["i3-picom"];
+        editors = ["neovim"];
+        browsers = ["qutebrowser" "ungoogled-chromium" "vieb"];
+        desktopEnvironments = [];
+        desktopShell = {
+          launcher = "fuzzel";
+          logoutManager = "wlogout";
+          notificationDaemon = "mako";
+          widgetTools = ["waybar"];
+        };
+        terminalEmulators = ["wezterm" "termonad"];
+        consoleSet = "maximal";
+        guiSet = "maximal";
+        setOverrides = {
+          add = [];
+          remove = [];
+        };
+        prompt = "starship";
+        nvidia = true;
+        pipewire = true;
+        jack = false;
+        networkmanager = true;
+        wayland = true;
+        x11 = true;
+        ssh-server = true;
+        docker = true;
+        podman = true;
+        printing = true;
       };
     };
 

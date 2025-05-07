@@ -4,12 +4,9 @@
   deviceConfig,
   ...
 }: {
-  home.packages = [pkgs.ungoogled-chromium];
-  
-  # TODO: priority::2: figure out how to configure both chromium and ungoogled-chromium without a collision
   programs.chromium = {
     enable = true;
-    package = pkgs.ungoogled-chromium;
+    package = pkgs.chromium;
     # TODO::prio3: figure out how to declaratively install plugins in ungoogled-chromium -> https://github.com/nix-community/home-manager/issues/2216
 
     #extensions = [
@@ -21,7 +18,6 @@
     #
     #{ id = "aaaaaaaaaabbbbbbbbbbcccccccccc"; crxPath = "/home/share/extension.crx"; version = "1.0"; }
     #];
-
     commandLineArgs = [
       "--enable-logging=stderr"
       "--ignore-gpu-blocklist"

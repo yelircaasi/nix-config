@@ -16,6 +16,7 @@ in rec {
   makeNixosConfig = {
     name,
     description,
+    isWork,
     defaultShell,
     otherShells,
     compositors,
@@ -55,6 +56,7 @@ in rec {
   makeHomeManagerConfig = {
     name,
     description,
+    isWork,
     defaultShell,
     otherShells,
     compositors,

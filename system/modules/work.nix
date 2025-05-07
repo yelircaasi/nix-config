@@ -4,9 +4,11 @@
   deviceConfig,
   ...
 }: {
-  services.openvpn.servers = {
-    inovex = {config = '' config /home/isaac/.config/openvpn/inovex.conf '';};
-  };
+  environment.packages = [pkgs.openvpn];
+  # services.openvpn.servers = {
+  #   inovex = {config = '' config /home/isaac/.config/openvpn/inovex.conf '';};
+  # };  NOT WORKING
+
   # environment.sessionVariables = {
   #   MDM_PACKAGES_LIST_FILE = "";
   #   MDM_PASSWORD_PAM_FILE = "";
@@ -97,5 +99,70 @@ WantedBy=timers.target
 
 ===================================================================
 
+
+*/
+
+
+
+
+/*
+
+{ config, pkgs, ... }:
+
+let
+  vpnName = "myvpn";
+in
+{
+  environment.systemPackages = with pkgs; [ openvpn ];
+
+  systemd.services."openvpn-${vpnName}" = {
+    description = "OpenVPN client (${vpnName})";
+    wantedBy = [ "multi-user.target" ];
+    after = [ "network-online.target" ];
+    requires = [ "network-online.target" ];
+
+    serviceConfig = {
+      ExecStart = "${pkgs.openvpn}/bin/openvpn --config /etc/openvpn/${vpnName}/config.ovpn";
+      WorkingDirectory = "/etc/openvpn/${vpnName}";
+      CapabilityBoundingSet = [ "CAP_NET_ADMIN" "CAP_NET_BIND_SERVICE" ];
+      AmbientCapabilities = [ "CAP_NET_ADMIN" "CAP_NET_BIND_SERVICE" ];
+      Restart = "on-failure";
+      User = "root";
+    };
+
+    # Ensure credentials are available and secure
+    preStart = ''
+      chmod 600 /etc/openvpn/${vpnName}/auth.txt
+      chmod 600 /etc/openvpn/${vpnName}/key-pass.txt
+    '';
+  };
+
+  # Optional: make sure config files exist
+  system.activationScripts.ensureVpnFiles.text = ''
+    mkdir -p /etc/openvpn/${vpnName}
+    chown root:root /etc/openvpn/${vpnName}
+    chmod 700 /etc/openvpn/${vpnName}
+  '';
+}
+
+Make sure these files exist on disk:
+
+/etc/openvpn/myvpn/
+├── config.ovpn         # Your OpenVPN config
+├── auth.txt            # Contains: username\npassword
+└── key-pass.txt        # Contains: private key password
+
+
+Your config.ovpn should include:
+
+auth-user-pass auth.txt
+askpass key-pass.txt
+
+
+After adding the above to configuration.nix:
+
+sudo nixos-rebuild switch
+sudo systemctl enable openvpn-myvpn
+sudo systemctl start openvpn-myvpn
 
 */

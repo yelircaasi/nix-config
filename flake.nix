@@ -330,19 +330,18 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
-    neovim-nightly-overlay = {
-      # NEWER: url = "github:nix-community/neovim-nightly-overlay/3fe45a5c38a9dfe182f20079ebdab9b20670197e";
-      url = "github:nix-community/neovim-nightly-overlay/b969e3c7bfcb7a438382dd6e379788f762094df5";
-      inputs.nixpkgs.follows = "nixpkgs";
-    };
+    # neovim-nightly-overlay = {
+    #   url = "github:nix-community/neovim-nightly-overlay/b969e3c7bfcb7a438382dd6e379788f762094df5";
+    #   inputs.nixpkgs.follows = "nixpkgs";
+    # };
 
     # TODO::prio1
-    # neovim-flake = {
-    #   #url = git+file:///home/gvolpe/workspace/neovim-flake;
-    #   url = github:yelircaasi/neovim-ide-flake;
-    #   inputs.nixpkgs.follows = "nixpkgs";
-    #   # inputs.flake-schemas.follows = "flake-schemas";
-    # };
+    neovim-flake = {
+      url = github:yelircaasi/neovim-flake/df2dc1cc7b1e04a6ec40d9db03fe3ab8745c2fc5;
+      inputs.nixpkgs.follows = "nixpkgs";
+      inputs.nix-treesitter.follows = "nix-treesitter";
+      # inputs.flake-utils.follows = "flake-utils";
+    };
 
     sops-nix = {
       url = "github:Mic92/sops-nix/61154300d945f0b147b30d24ddcafa159148026a";

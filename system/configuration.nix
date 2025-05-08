@@ -6,38 +6,40 @@
   pkgs,
   ...
 }: {
-  imports = [
-    ./hardware-configuration.nix
-    ./modules/compositor/hyprland.nix
-    # ./modules/compositor/sway.nix
-    # ./modules/compositor/swayfx.nix
-    ./modules/container.nix
-    ./modules/desktop-environment/gnome
-    ./modules/desktop-environment/kde
-    ./modules/desktop-environment/xfce
-    ./modules/display-manager.nix
-    ./modules/gui-file-browser/thunar.nix
-    ./modules/hardware.nix
-    ./modules/input/kanata
-    ./modules/miscellaneous-services.nix
-    ./modules/networking.nix
-    ./modules/nvidia.nix
-    # (lib.mkIf deviceConfig.isWork )
-    ./modules/security.nix
-    ./modules/sound.nix
-    ./modules/ssh.nix
-    ./modules/system-packages.nix
-    ./modules/ui/fonts
-    ./modules/users.nix
-    ./modules/variables.nix
-    ./modules/windowing-protocol/wayland.nix
-    ./modules/windowing-protocol/x11.nix
-    # (lib.mkIf deviceConfig.isWork ./modules/work.nix)
-  ]
-  ++ (
-    if deviceConfig.isWork then [./modules/work.nix ./modules/password.nix]
-    else []
-  );
+  imports =
+    [
+      ./hardware-configuration.nix
+      ./modules/compositor/hyprland.nix
+      # ./modules/compositor/sway.nix
+      # ./modules/compositor/swayfx.nix
+      ./modules/container.nix
+      ./modules/desktop-environment/gnome
+      ./modules/desktop-environment/kde
+      ./modules/desktop-environment/xfce
+      ./modules/display-manager.nix
+      ./modules/gui-file-browser/thunar.nix
+      ./modules/hardware.nix
+      ./modules/input/kanata
+      ./modules/miscellaneous-services.nix
+      ./modules/networking.nix
+      ./modules/nvidia.nix
+      # (lib.mkIf deviceConfig.isWork )
+      ./modules/security.nix
+      ./modules/sound.nix
+      ./modules/ssh.nix
+      ./modules/system-packages.nix
+      ./modules/ui/fonts
+      ./modules/users.nix
+      ./modules/variables.nix
+      ./modules/windowing-protocol/wayland.nix
+      ./modules/windowing-protocol/x11.nix
+      # (lib.mkIf deviceConfig.isWork ./modules/work.nix)
+    ]
+    ++ (
+      if deviceConfig.isWork
+      then [./modules/work.nix ./modules/password.nix]
+      else []
+    );
 
   environment.systemPackages = with pkgs; [git home-manager];
 

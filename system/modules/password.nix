@@ -8,10 +8,10 @@
     libpwquality
   ];
   security.pam.services.passwd.rules.password.pwquality = {
-    control = "required"; 
-    modulePath = "${pkgs.libpwquality.lib}/lib/security/pam_pwquality.so"; 
+    control = "required";
+    modulePath = "${pkgs.libpwquality.lib}/lib/security/pam_pwquality.so";
     # order BEFORE pam_unix.so
-    order =  0; # security.pam.services.passwd.rules.password.unix.order - 10;
+    order = 0; # security.pam.services.passwd.rules.password.unix.order - 10;
     settings = {
       # shadowretry = 3;
       minlen = 12;
@@ -21,6 +21,6 @@
       # ocredit = -1;
       # lcredit = -1;
       enforce_for_root = true;
-    }; 
+    };
   };
 }

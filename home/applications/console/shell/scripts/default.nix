@@ -18,7 +18,7 @@ in {
       writers.writeBashBin
       "hm"
       (
-        if (deviceConfig.name == "hank")
+        if deviceConfig.nvidia
         then ''
           __current=$PWD
           cd $HOME/nix-config

@@ -9,17 +9,17 @@
   #   inovex = {config = '' config /home/isaac/.config/openvpn/inovex.conf '';};
   # };  NOT WORKING
 
-  # environment.sessionVariables = {
-  #   MDM_PACKAGES_LIST_FILE = "";
-  #   MDM_PASSWORD_PAM_FILE = "";
-  #   MDM_SCREEN_LOCK_TIMEOUT = "";
-  #   MDM_SYSTEM_DISK_DEVICE = "";
-  #   MDM_SYSTEM_PRODUCT_FAMILY_FILE = "/sys/devices/virtual/dmi/id/product_family";
-  #   MDM_SYSTEM_PRODUCT_NAME_FILE = "/sys/devices/virtual/dmi/id/product_name";
-  #   MDM_SYSTEM_PRODUCT_SERIAL_FILE = "/sys/devices/virtual/dmi/id/product_serial";
-  #   MDM_SYSTEM_BIOS_VERSION_FILE = "/sys/devices/virtual/dmi/id/bios_version";
-  #   MDM_SYSTEM_EC_FIRMWARE_RELEASE_FILE = "/sys/devices/virtual/dmi/id/ec_firmware_release";
-  # };
+  environment.sessionVariables = {
+    MDM_PACKAGES_LIST_FILE = "";
+    MDM_PASSWORD_PAM_FILE = "";
+    MDM_SCREEN_LOCK_TIMEOUT = "";
+    MDM_SYSTEM_DISK_DEVICE = "";
+    MDM_SYSTEM_PRODUCT_FAMILY_FILE = "/sys/devices/virtual/dmi/id/product_family";
+    MDM_SYSTEM_PRODUCT_NAME_FILE = "/sys/devices/virtual/dmi/id/product_name";
+    MDM_SYSTEM_PRODUCT_SERIAL_FILE = "/sys/devices/virtual/dmi/id/product_serial";
+    MDM_SYSTEM_BIOS_VERSION_FILE = "/sys/devices/virtual/dmi/id/bios_version";
+    MDM_SYSTEM_EC_FIRMWARE_RELEASE_FILE = "/sys/devices/virtual/dmi/id/ec_firmware_release";
+  };
   # environment.variables = {};
 
   # systemd.services = {
@@ -56,8 +56,6 @@
   #   };
   # };
 }
-
-
 /*
 ===================================================================
 /etc/systemd/system/readable-product-serial.service
@@ -99,12 +97,7 @@ WantedBy=timers.target
 
 ===================================================================
 
-
 */
-
-
-
-
 /*
 
 { config, pkgs, ... }:
@@ -164,5 +157,5 @@ After adding the above to configuration.nix:
 sudo nixos-rebuild switch
 sudo systemctl enable openvpn-myvpn
 sudo systemctl start openvpn-myvpn
-
 */
+

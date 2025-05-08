@@ -13,6 +13,7 @@ in {
   home.packages = with pkgs; [
     # custom.screenshot
     hyprlock
+    hypridle
     hyprland-autoname-workspaces
     hyprpicker # color picker
     hyprpaper # move
@@ -33,6 +34,25 @@ in {
       wallpaper = desc:Ancor Communications Inc ASUS PB278 E8LMTF000788,/home/isaac/.config/${riverPhotoPath}
       wallpaper = desc:Lenovo Group Limited D22-20 U7608Z7N,/home/isaac/.config/${riverPhotoPath}
       wallpaper = desc:Ancor Communications Inc ASUS PB278 E8LMTF000809,/home/isaac/.config/${riverPhotoPath}
+    '';
+    "./hypr/hypridle.conf".text = ''
+      general {
+          lock_cmd = pidof hyprlock || hyprlock       # avoid starting multiple hyprlock instances.
+          before_sleep_cmd = loginctl lock-session    # lock before suspend.
+          after_sleep_cmd = hyprctl dispatch dpms on  # to avoid having to press a key twice to turn on the display.
+      }
+
+      listener {
+          timeout = 150                                # 2.5min.
+          on-timeout = brightnessctl -s set 10         # set monitor backlight to minimum, avoid 0 on OLED monitor.
+          on-resume = brightnessctl -r                 # monitor backlight restore.
+      }
+
+      listener {
+          timeout = 300                                 # 5min
+          on-timeout = loginctl lock-session            # lock screen when timeout has passed
+      }
+
     '';
     "./hypr/hyprlock.conf".text = ''
         widget_name {
@@ -147,6 +167,7 @@ in {
       settings = {
         exec-once = [
           "hyprpaper"
+          "hypridle"
         ];
 
         general = {
@@ -310,36 +331,37 @@ in {
       extraConfig =
         #hypr
         ''
-          monitor = desc:Chimei Innolux Corporation 0x15D7,                1920x1080,    0x720,      1
-          monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000788, 2560x1440,    1920x0,     1
-          monitor = desc:Lenovo Group Limited D22-20 U7608Z7N,             1920x1080,    3490x-1080, 1
-          monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000809, 2560x1440,    4480x0,     1
+          monitor = desc:BOE 0x0C3F,                                       1920x1200,    0x720,      1
+           monitor = desc:Chimei Innolux Corporation 0x15D7,                1920x1080,    0x720,      1
+           monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000788, 2560x1440,    1920x0,     1
+           monitor = desc:Lenovo Group Limited D22-20 U7608Z7N,             1920x1080,    3490x-1080, 1
+           monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000809, 2560x1440,    4480x0,     1
 
-          # monitor = desc:Chimei Innolux Corporation 0x15D7,                1980x1080,    0x910,      1
-          # monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000788, 2560x1440,    1920x0,     0.8
-          # monitor = desc:Lenovo Group Limited D22-20 U7608Z7N,             1920x1080,    3920x-1350, 0.8
-          # monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000809, 2560x1440,    5120x0,     0.8
-          # monitor=eDP-2,1920x1080@240,0x0,1
-          # monitor=HDMI-A-1,2560x1440@60,1920x0,1
+           # monitor = desc:Chimei Innolux Corporation 0x15D7,                1980x1080,    0x910,      1
+           # monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000788, 2560x1440,    1920x0,     0.8
+           # monitor = desc:Lenovo Group Limited D22-20 U7608Z7N,             1920x1080,    3920x-1350, 0.8
+           # monitor = desc:Ancor Communications Inc ASUS PB278 E8LMTF000809, 2560x1440,    5120x0,     0.8
+           # monitor=eDP-2,1920x1080@240,0x0,1
+           # monitor=HDMI-A-1,2560x1440@60,1920x0,1
 
-          # Does not show up when defined in settings for some reason
-          # plugin {
-          #   hyprtrails {
-          #     color = {accent} #deleted $ to prevent error
-          #   }
-          # }
+           # Does not show up when defined in settings for some reason
+           # plugin {
+           #   hyprtrails {
+           #     color = {accent} #deleted $ to prevent error
+           #   }
+           # }
 
-          # Resize submap
-          bind = $mainMod ALT, R, submap, resize
-          submap = resize
+           # Resize submap
+           bind = $mainMod ALT, R, submap, resize
+           submap = resize
 
-          binde = , $right, resizeactive, 10 0
-          binde = , $left, resizeactive, -10 0
-          binde = , $up, resizeactive, 0 -10
-          binde = , $down, resizeactive, 0 10
+           binde = , $right, resizeactive, 10 0
+           binde = , $left, resizeactive, -10 0
+           binde = , $up, resizeactive, 0 -10
+           binde = , $down, resizeactive, 0 10
 
-          bind = , escape, submap, reset
-          submap = reset
+           bind = , escape, submap, reset
+           submap = reset
         '';
     };
 

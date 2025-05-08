@@ -121,11 +121,11 @@
     boot = {
       initrd = {
         availableKernelModules = ["nvme" "xhci_pci" "thunderbolt" "usb_storage" "usbhid" "sd_mod"];
-        kernelModules = [ ];
+        kernelModules = [];
         luks.devices."luks-93c69ac2-088b-42ea-a2c6-d3b83c6431b2".device = "/dev/disk/by-uuid/93c69ac2-088b-42ea-a2c6-d3b83c6431b2";
       };
       kernelModules = ["kvm-amd"];
-      extraModulePackages = [ ];
+      extraModulePackages = [];
     };
 
     fileSystems = {

@@ -5,7 +5,7 @@
   ...
 }: {
   home.packages = [pkgs.ungoogled-chromium];
-  
+
   # TODO: priority::2: figure out how to configure both chromium and ungoogled-chromium without a collision
   programs.chromium = {
     enable = true;

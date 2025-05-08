@@ -132,6 +132,11 @@ in {
   };
   xdg.userDirs = {
     enable = true;
+    extraConfig = {
+      XDG_CONFIG_HOME = "${config.home.homeDirectory}/.config";
+      XDG_DATA_HOME = "${config.home.homeDirectory}/.local/share";
+      XDG_CACHE_HOME = "${config.home.homeDirectory}/.cache";
+    };
     desktop = "${config.home.homeDirectory}/.xdg-dirs/Desktop";
     documents = "${config.home.homeDirectory}/.xdg-dirs/Documents";
     download = "${config.home.homeDirectory}/Downloads";

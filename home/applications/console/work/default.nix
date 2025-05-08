@@ -5,12 +5,11 @@
   g,
   deviceConfig,
   ...
-}: 
-{
+}: {
   imports = [
     # ./azure
     # ./jira
     # ./k8s-rancher
-    # ./mdm
+    ./mdm
   ];
 }

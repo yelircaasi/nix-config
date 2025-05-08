@@ -20,8 +20,8 @@ in {
       /*
       ./applications/console/browser
       ./applications/console/communication
-      ./applications/console/data-wrangling
       */
+      ./applications/console/data-wrangling
       ./applications/console/development
 
       ./applications/console/version-control
@@ -50,7 +50,6 @@ in {
       # ./desktop-environment/theming/qt
       ./desktop-environment/theming/fonts
       ./desktop-environment/theming/icons
-
       ./applications/gui/editor-and-ide/vscode # TODO::prio1: add to core set
 
       ./desktop-environment/compositors

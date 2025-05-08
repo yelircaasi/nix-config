@@ -24,6 +24,9 @@
       TODO::prio2: add fields?
         keyRemapper         ()
         bootLoader          ()
+
+        flatpak             ()
+        snap?               (https://flakehub.com/flake/io12/nix-snapd?view=usage)
       */
       desktopEnvironments = []; # cosmic | gnome | kde
       terminalEmulators = ["wezterm"];
@@ -319,7 +322,7 @@
 
   inputs = {
     nixpkgs = {
-      url = "github:nixos/nixpkgs/98d4992121235f3642ffc3ab29bd6777a6447bcd";
+      url = "github:nixos/nixpkgs/908514a0885f889432825e9ac71842ca444e8bd5";
     };
 
     home-manager = {
@@ -329,7 +332,7 @@
 
     neovim-nightly-overlay = {
       # NEWER: url = "github:nix-community/neovim-nightly-overlay/3fe45a5c38a9dfe182f20079ebdab9b20670197e";
-      url = "github:nix-community/neovim-nightly-overlay/31c50a1318f9ba2e7236e150dce28189c5d8fc31";
+      url = "github:nix-community/neovim-nightly-overlay/b969e3c7bfcb7a438382dd6e379788f762094df5";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 

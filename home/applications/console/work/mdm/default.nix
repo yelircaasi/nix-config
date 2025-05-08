@@ -5,12 +5,12 @@
   g,
   deviceConfig,
   ...
-}: 
+}:
 # let
 #   packages = builtins.map (p: "${p.name} ${p}") (config.home.packages);
 #   sortedUnique = builtins.sort builtins.lessThan (lib.lists.unique packages);
 #   packagesText = lib.strings.concatLines sortedUnique;
-# in 
+# in
 {
   home.packages = [
     (
@@ -18,7 +18,7 @@
       "list-all-nix-packages"
       {
         libraries = [pkgs.python312];
-        flakeIgnore = [ "E501" "W503" ];
+        flakeIgnore = ["E501" "W503"];
       }
       (builtins.readFile ./list_all_nix_packages.py)
     )
@@ -27,17 +27,17 @@
       "get-screen-lock-timeout"
       {
         libraries = [pkgs.python312];
-        flakeIgnore = [  ];
+        flakeIgnore = [];
       }
       (builtins.readFile ./get_screen_lock_timeout.py)
     )
-    
+
     (
       pkgs.writers.writePython3Bin
       "inovex-mdm-inventory-py"
       {
-        libraries = with pkgs; [python312 python3Packages.requests];
-        flakeIgnore = [ "E501" "F841" ];
+        libraries = with pkgs; [coreutils util-linux python312 python3Packages.requests];
+        flakeIgnore = ["E501" "F841"];
       }
       (builtins.readFile ./inovex_mdm_inventory.py)
     )

@@ -1,15 +1,16 @@
 import os
 from pathlib import Path
 import re
+import sys
 
 
 def get_paths():
     """
     Get all paths listed in $PATH
     """
-    paths = os.environ.get("PATH", "").split(os.pathsep)
+    paths = os.environ.get("PATH", "").split(os.pathsep) + ["/home/isaac/.nix-profile/bin", "/run/current-system/sw/bin"]
     paths = [Path(path) for path in paths if Path(path).exists()]
-    return paths
+    return list(set(paths))
 
 
 def get_all_packages(bin_dir: str) -> set[str]:
@@ -106,6 +107,5 @@ def parse_packages(packages: set[str]) -> list[Path]:
 if __name__ == "__main__":
     packages = list_all_package_paths()
     package_tuples = parse_packages(packages)
-    for name, version in sorted(package_tuples):
-        print(f"{name:<35} {str(version):<25} nix")
-    print()
+    package_text = "\n".join((f"{name} {str(version)} nix" for name, version in sorted(package_tuples))) + "\n"
+    sys.stdout.write(package_text)

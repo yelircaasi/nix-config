@@ -1,8 +1,7 @@
-import os
 import re
 from pathlib import Path
 
-hypridle_path = Path(os.environ["XDG_CONFIG_HOME"]) / "hypr" / "hypridle.conf"
+hypridle_path = Path("/home/isaac/.config/hypr/hypridle.conf")
 with open(hypridle_path, "r") as f:
     hypridle_config = f.read()
 

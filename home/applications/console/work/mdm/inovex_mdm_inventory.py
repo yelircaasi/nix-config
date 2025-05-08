@@ -73,7 +73,7 @@ def check_for_crypto_luks(children: list[dict] | None) -> str | None:
 def get_mountpoints():
     lsblk_result = run_command(
         [
-            "lsblk",
+            "/run/current-system/sw/bin/lsblk",
             "--inverse",
             "--tree",
             "-o",
@@ -227,7 +227,7 @@ def get_password_min_length(pam_file: str) -> int:
     if not min_length:
         grep_result = run_command(
             [
-                "grep",
+                "/run/current-system/sw/bin/grep",
                 "-oP",
                 "^password.*pam_(unix|pwquality)\\.so.* minlen=\\K\\d+",
                 pam_file,
@@ -244,7 +244,7 @@ def get_password_min_length(pam_file: str) -> int:
 def get_disk_serial(device: str) -> str:
     lsblk_result = run_command(
         [
-            "lsblk",
+            "/run/current-system/sw/bin/lsblk",
             "--nodeps",
             "-no",
             "serial",

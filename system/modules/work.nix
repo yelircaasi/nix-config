@@ -1,19 +1,20 @@
 {
   config,
+  pkgs,
   lib,
   deviceConfig,
   ...
 }: {
-  environment.packages = [pkgs.openvpn];
+  environment.systemPackages = with pkgs; [coreutils util-linux openvpn];
   # services.openvpn.servers = {
   #   inovex = {config = '' config /home/isaac/.config/openvpn/inovex.conf '';};
   # };  NOT WORKING
 
   environment.sessionVariables = {
-    MDM_PACKAGES_LIST_FILE = "";
-    MDM_PASSWORD_PAM_FILE = "";
-    MDM_SCREEN_LOCK_TIMEOUT = "";
-    MDM_SYSTEM_DISK_DEVICE = "";
+    # MDM_PACKAGES_LIST_FILE = "";
+    # MDM_PASSWORD_PAM_FILE = "";
+    # MDM_SCREEN_LOCK_TIMEOUT = "";
+    # MDM_SYSTEM_DISK_DEVICE = "";
     MDM_SYSTEM_PRODUCT_FAMILY_FILE = "/sys/devices/virtual/dmi/id/product_family";
     MDM_SYSTEM_PRODUCT_NAME_FILE = "/sys/devices/virtual/dmi/id/product_name";
     MDM_SYSTEM_PRODUCT_SERIAL_FILE = "/sys/devices/virtual/dmi/id/product_serial";
@@ -22,39 +23,44 @@
   };
   # environment.variables = {};
 
-  # systemd.services = {
-  #   readable-product-serial = {
-  #     description = "Make product_serial readable for MDM script";
-  #     wantedBy = ["multi-user.target"];
+  systemd.services = {
+    
+    readable-product-serial = {
+      description = "Make product_serial readable for MDM script";
+      wantedBy = ["multi-user.target"];
 
-  #     serviceConfig = {
-  #       User = "root";
-  #       Type = "simple";
-  #       ExecStart = "chmod 0444 /sys/devices/virtual/dmi/id/product_serial";
+      serviceConfig = {
+        User = "root";
+        Type = "oneshot";
+        ExecStart = "${pkgs.coreutils}/bin/chmod 0444 /sys/devices/virtual/dmi/id/product_serial";
+      };
+    };
+  };
+  
+  systemd.user.timers = {
+    inovex-mdm-inventory = {
+      description = "Daily push of inventory to MDM Linux API";
+      wantedBy = ["timers.target"];
+      timerConfig = {
+        Unit = "inovex-mdm-inventory.service";
+        OnCalendar = "*-*-* 12:30:00 Europe/Berlin";
+        RandomizedDelaySec = "30m";
+        Persistent = true;
+      };
+    };
+  };
 
-  #     };
-  #   };
-  # };
-  # systemd.user = {
-  #   services = {
-  #     inovex-mdm-inventory = {
-  #       description = "";
-  #       after = ["local-fs.target" "remote-fs.target"];
-  #       wantedBy = ["multi-user.target"];
+  systemd.user.services.inovex-mdm-inventory = {
+      description = "Push inventory to inovex MDM Linux API";
+      after = ["local-fs.target" "remote-fs.target" "graphical-session.target"];
+      wantedBy = ["multi-user.target"];
 
-  #       serviceConfig = {
-  #         Type = "simple";
-  #         Group = "landscape";
-  #         ExecCondition = "/run/current-system/sw/bin/landscape-client --is-registered";
-  #         ExecStart = "/run/current-system/sw/bin/landscape-client";
-  #         KillMode = "process";
-  #       };
-  #     };
-  #   };
-  #   timers = {
-  #     inovex-mdm-inventory = {};
-  #   };
-  # };
+      serviceConfig = {
+        Type = "oneshot";
+        ExecStart = "/home/isaac/.nix-profile/bin/inovex-mdm-inventory";
+      };
+    };
+
 }
 /*
 ===================================================================
@@ -96,7 +102,6 @@ Persistent=true
 WantedBy=timers.target
 
 ===================================================================
-
 */
 /*
 

@@ -8,48 +8,57 @@
     nixgl,
     ...
   } @ inputs: let
+    /*
+    TODO::prio2: add fields?
+      keyRemapper         ()
+      bootLoader          ()
+
+      flatpak             ()
+      snap?               (https://flakehub.com/flake/io12/nix-snapd?view=usage)
+    */
     defaultDeclaration = {
       isWork = false;
-      defaultShell = "bash";
-      otherShells = [];
-      compositors = ["hyprland"]; # "sway" "swayfx"];
-      desktopShell = {
-        #old: ["fuzzel" "wlogout" "mako" "waybar"];
-        launcher = null;
-        logoutManager = null;
-        notificationDaemon = null;
-        widgetTools = [];
-      };
-      /*
-      TODO::prio2: add fields?
-        keyRemapper         ()
-        bootLoader          ()
 
-        flatpak             ()
-        snap?               (https://flakehub.com/flake/io12/nix-snapd?view=usage)
-      */
-      desktopEnvironments = []; # cosmic | gnome | kde
-      terminalEmulators = ["wezterm"];
       consoleSet = "core"; # none | minimal | core | extended | maximal
       guiSet = "none"; # none | minimal | core | extended | maximal
       setOverrides = {
         add = [];
         remove = [];
       };
-      sops = false;
+
+      defaultShell = "bash";
+      otherShells = [];
       prompt = "starship";
+
+      compositors = ["hyprland"]; # "sway" "swayfx"];
+      desktopShell = {
+        launcher = null;
+        logoutManager = null;
+        notificationDaemon = null;
+        widgetTools = [];
+      };
+      desktopEnvironments = []; # cosmic | gnome | kde
+      wayland = false;
+      x11 = false;
       nvidia = false;
       pipewire = true;
       jack = true;
       networkmanager = true;
-      wayland = false;
-      x11 = false;
-      ssh-server = true;
+
+      terminalEmulators = ["wezterm"];
+      browsers = [];
+      readers = [];
+      editors = [];
+
       docker = false;
       podman = false;
+
+      sops = false;
+      ssh-server = true;
       printing = false;
       extraGroups = ["networkmanager" "wheel"];
       extraSystemPackageNames = [];
+
       additionalModules = [];
     };
     deviceDeclarations = mylib.updateAttrsWith defaultDeclaration {
@@ -129,11 +138,18 @@
         name = "olivia";
         description = "Work laptop. Lenovo Thinkpad running NixOS.";
         isWork = true;
+        consoleSet = "minimal";
+        guiSet = "minimal";
+        setOverrides = {
+          add = [];
+          remove = [];
+        };
         defaultShell = "bash";
         otherShells = ["bash"];
         compositors = ["hyprland"];
         editors = ["neovim"];
         browsers = ["qutebrowser" "chromium" "vieb" "nyxt"];
+        readers = [];
         desktopEnvironments = [];
         desktopShell = {
           launcher = "fuzzel";
@@ -142,12 +158,6 @@
           widgetTools = ["waybar"];
         };
         terminalEmulators = ["wezterm" "termonad"];
-        consoleSet = "minimal";
-        guiSet = "minimal";
-        setOverrides = {
-          add = [];
-          remove = [];
-        };
         prompt = "oh-my-posh";
         nvidia = false;
         pipewire = true;
@@ -308,7 +318,7 @@
     homeConfigurations = mylib.makeHomeManagerConfigurations deviceDeclarations;
     devShells = mylib.makeDevShells deviceDeclarations;
     packages.x86_64-linux = {
-      # TODO::prio1: ADD flake-utils.lib.eachDefaultSystem
+      # TODO::prio1: ADD flake-utils.lib.eachDefaultSystem; make derivations instead of thunks
       colors = {
         json = builtins.toJSON g.color;
         nix = g.color;

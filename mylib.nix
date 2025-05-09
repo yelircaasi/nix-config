@@ -8,97 +8,92 @@
     overlays = [inputs.nixgl.overlay];
   };
   mypkgs = import ./mypkgs.nix {inherit pkgs;};
+  configWrapper = adHocFunction: {
+    #
+    # basics
+    name,
+    description,
+    isWork,
+    #
+    # concentric app sets and overrides
+    consoleSet,
+    guiSet,
+    setOverrides,
+    #
+    # development tools
+    defaultShell,
+    otherShells,
+    prompt,
+    #
+    # desktop environment
+    compositors,
+    desktopShell,
+    desktopEnvironments,
+    wayland,
+    x11,
+    nvidia,
+    pipewire,
+    jack,
+    networkmanager,
+    #
+    # specific guis
+    terminalEmulators,
+    browsers,
+    readers,
+    editors,
+    #
+    # containers
+    docker,
+    podman,
+    #
+    # other
+    sops,
+    ssh-server,
+    printing,
+    extraGroups,
+    extraSystemPackageNames,
+    #
+    # device-specific modules to include
+    additionalModules,
+  } @ deviceConfig:
+    adHocFunction deviceConfig;
 in rec {
   updateAttrsWith = defaultSet: setOfSets:
     builtins.mapAttrs
     (name: configSet: defaultSet // configSet)
     setOfSets;
-  makeNixosConfig = {
-    name,
-    description,
-    isWork,
-    defaultShell,
-    otherShells,
-    compositors,
-    desktopEnvironments,
-    desktopShell,
-    consoleSet,
-    guiSet,
-    setOverrides,
-    sops,
-    prompt,
-    terminalEmulators,
-    editors,
-    browsers,
-    nvidia,
-    pipewire,
-    jack,
-    networkmanager,
-    wayland,
-    x11,
-    ssh-server,
-    docker,
-    podman,
-    printing,
-    extraGroups,
-    extraSystemPackageNames,
-    additionalModules,
-  } @ deviceConfig:
+
+  makeNixosConfig = deviceConfig: configWrapper makeNixosConfig' deviceConfig;
+
+  makeNixosConfig' = deviceConfig:
     inputs.nixpkgs.lib.nixosSystem {
       specialArgs = {inherit inputs g deviceConfig mypkgs;}; #lib = inputs.nixpkgs.lib; };
       modules =
         [
           ./system/configuration.nix
         ]
-        ++ additionalModules;
+        ++ deviceConfig.additionalModules;
     };
 
-  makeHomeManagerConfig = {
-    name,
-    description,
-    isWork,
-    defaultShell,
-    otherShells,
-    compositors,
-    desktopEnvironments,
-    desktopShell,
-    consoleSet,
-    guiSet,
-    setOverrides,
-    sops,
-    prompt,
-    terminalEmulators,
-    editors,
-    browsers,
-    nvidia,
-    pipewire,
-    jack,
-    networkmanager,
-    wayland,
-    x11,
-    ssh-server,
-    docker,
-    podman,
-    printing,
-    extraGroups,
-    extraSystemPackageNames,
-    additionalModules,
-  } @ deviceConfig:
+  makeHomeManagerConfig = deviceConfig: configWrapper makeHomeManagerConfig' deviceConfig;
+
+  makeHomeManagerConfig' = deviceConfig:
     inputs.home-manager.lib.homeManagerConfiguration {
       inherit pkgs;
       extraSpecialArgs = {inherit inputs g deviceConfig mypkgs;};
-      modules = [./home/common-from-device-config.nix] ++ additionalModules;
+      modules = [./home/common-from-device-config.nix] ++ deviceConfig.additionalModules;
     };
 
-  makeNixosConfigurations = deviceDeclarationAttrSet:
+  deviceMapper = cfgMaker: devCfgs:
     builtins.mapAttrs
-    (name: configSet: makeNixosConfig configSet)
-    deviceDeclarationAttrSet;
+    (name: configSet: cfgMaker configSet)
+    devCfgs;
+
+  makeNixosConfigurations = deviceDeclarationAttrSet:
+    deviceMapper makeNixosConfig deviceDeclarationAttrSet;
 
   makeHomeManagerConfigurations = deviceDeclarationAttrSet:
-    builtins.mapAttrs
-    (name: configSet: makeHomeManagerConfig configSet)
-    deviceDeclarationAttrSet;
+    deviceMapper makeHomeManagerConfig deviceDeclarationAttrSet;
 
   makeDevShells = deviceDeclarationAttrSet: {};
 }

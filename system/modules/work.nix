@@ -24,7 +24,6 @@
   # environment.variables = {};
 
   systemd.services = {
-    
     readable-product-serial = {
       description = "Make product_serial readable for MDM script";
       wantedBy = ["multi-user.target"];
@@ -36,7 +35,7 @@
       };
     };
   };
-  
+
   systemd.user.timers = {
     inovex-mdm-inventory = {
       description = "Daily push of inventory to MDM Linux API";
@@ -51,16 +50,15 @@
   };
 
   systemd.user.services.inovex-mdm-inventory = {
-      description = "Push inventory to inovex MDM Linux API";
-      after = ["local-fs.target" "remote-fs.target" "graphical-session.target"];
-      wantedBy = ["multi-user.target"];
+    description = "Push inventory to inovex MDM Linux API";
+    after = ["local-fs.target" "remote-fs.target" "graphical-session.target"];
+    wantedBy = ["multi-user.target"];
 
-      serviceConfig = {
-        Type = "oneshot";
-        ExecStart = "/home/isaac/.nix-profile/bin/inovex-mdm-inventory";
-      };
+    serviceConfig = {
+      Type = "oneshot";
+      ExecStart = "/home/isaac/.nix-profile/bin/inovex-mdm-inventory";
     };
-
+  };
 }
 /*
 ===================================================================

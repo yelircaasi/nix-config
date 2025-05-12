@@ -1,0 +1,77 @@
+{
+    "description": "Home setup with triple monitor configuration: Olivia--Asus Monitor 1--Asus Monitor 2",
+    "monitors": {
+        "0": {
+            "name": "BOE 0x0C3F",
+            "note": "Thinkpad laptop monitor (built-in), positioned to the left"
+        },
+        "1": {
+            "name": "Samsung Electric Company LS27D60xU HNAX501336",
+            "note": "Middle monitor"
+        },
+        "2": {
+            "name": "Dell Inc. DELL P2418D MY3ND87U07VT",
+            "note": "Right monitor"
+        }
+    },
+    "positions": {
+        "0": {
+            "rightOf": null,
+            "above": null
+        },
+        "1": {
+            "rightOf": 0,
+            "above": null
+        },
+        "2": {
+            "rightOf": 1,
+            "above": null
+        }
+    },
+    "dimensions": {
+        "0": {
+            "width": 300,
+            "height": 190
+        },
+        "1": {
+            "width": 597,
+            "height": 336
+        },
+        "2": {
+            "width": 526,
+            "height": 296
+        }
+    },
+    "edges": {
+        "0": {
+            "sides": 6,
+            "bottom": 28
+        },
+        "1": {
+            "sides": 8,
+            "bottom": 132
+        },
+        "2": {
+            "sides": 7,
+            "bottom": 132
+        }
+    },
+    "gaps": {
+        "1": 10,
+        "2": 10
+    },
+    "resolutions": {
+        "0": {
+            "width": 1920,
+            "height": 1200
+        },
+        "1": {
+            "width": 2560,
+            "height": 1440
+        },
+        "2": {
+            "width": 2560,
+            "height": 1440
+        }
+    }
+}

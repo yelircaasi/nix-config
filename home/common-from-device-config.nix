@@ -62,9 +62,10 @@ in {
     (asListIf deviceConfig.sops ./sops)
     (asListFrom deviceConfig.desktopShell.widgetTools (name: ./desktop-environment/widgets/${name}))
 
-    # TODO::prio1: fix: (asListIfIn "neovim" deviceConfig.editors ./applications/console/neovim)
     (asListFrom deviceConfig.terminalEmulators (name: ./applications/gui/terminal-emulator/${name}))
     (asListFrom deviceConfig.browsers (name: ./applications/gui/browser/${name}))
+    (asListFrom deviceConfig.readers (name: ./applications/gui/reader/${name}))
+    (asListFrom deviceConfig.editors (name: ./applications/gui/editor-and-ide/${name}))
   ];
 
   nixpkgs = {

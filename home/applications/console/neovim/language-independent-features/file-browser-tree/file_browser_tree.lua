@@ -1,6 +1,9 @@
 vim.keymap.set("n", "<leader>t", function()
-	-- {{neo-tree RTP command}}
-
+	
+	vim.opt.rtp:prepend("$NEOTREE")
+	vim.opt.rtp:prepend("$WEBDEVICONS")
+	vim.opt.rtp:prepend("$PLENARY")
+	vim.opt.rtp:prepend("$NUI")
 	local neotree = require("neo-tree")
 	-- local oil = require("oil")
 	-- local genghis = require("genghis")

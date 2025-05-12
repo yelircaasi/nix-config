@@ -1,0 +1,63 @@
+{
+    "description": "Home setup with triple monitor configuration: Betsy--Asus Monitor 1--Asus Monitor 2",
+    "monitors": {
+        "0": {
+            "name": "Chimei Innolux Corporation 0x15D7",
+            "note": "Tuxedo Infonotybook laptop monitor (built-in), positioned to the left"
+        },
+        "1": {
+            "name": "Ancor Communications Inc ASUS PB278 E8LMTF000788",
+            "note": "Middle monitor"
+        },
+        "2": {
+            "name": "Ancor Communications Inc ASUS PB278 E8LMTF000788",
+            "note": "Right monitor"
+        }
+    },
+    "dimensions": {
+        "0": {
+            "width": 346,
+            "height": 195
+        },
+        "1": {
+            "width": 597,
+            "height": 336
+        },
+        "2": {
+            "width": 597,
+            "height": 336
+        }
+    },
+    "edges": {
+        "0": {
+            "sides": 7,
+            "bottom": 40
+        },
+        "1": {
+            "sides": 24,
+            "bottom": 73
+        },
+        "2": {
+            "sides": 24,
+            "bottom": 73
+        }
+    },
+    "gaps": {
+        "1": -24,
+        "2": 0
+    },
+    "resolutions": {
+        "0": {
+            "width": 1920,
+            "height": 1080
+        },
+        "1": {
+            "width": 2560,
+            "height": 1440
+        },
+        "2": {
+            "width": 2560,
+            "height": 1440
+        }
+    }
+}

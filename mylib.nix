@@ -2,7 +2,6 @@
   inputs,
   g,
 }: let
-  # pkgs = inputs.nixpkgs.legacyPackages.x86_64-linux;
   pkgs = import inputs.nixpkgs {
     system = "x86_64-linux";
     overlays = [inputs.nixgl.overlay];
@@ -67,7 +66,7 @@ in rec {
 
   makeNixosConfig' = deviceConfig:
     inputs.nixpkgs.lib.nixosSystem {
-      specialArgs = {inherit inputs g deviceConfig mypkgs;}; #lib = inputs.nixpkgs.lib; };
+      specialArgs = {inherit inputs g deviceConfig mypkgs;};
       modules =
         [
           ./system/configuration.nix

@@ -147,9 +147,9 @@
         defaultShell = "bash";
         otherShells = ["bash"];
         compositors = ["hyprland"];
-        editors = ["neovim"];
+        editors = [];
         browsers = ["qutebrowser" "chromium" "vieb" "nyxt"];
-        readers = [];
+        readers = ["sioyek" "zathura"];
         desktopEnvironments = [];
         desktopShell = {
           launcher = "fuzzel";

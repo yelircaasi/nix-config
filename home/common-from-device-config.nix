@@ -100,7 +100,17 @@ in {
 
   systemd.user.startServices = "sd-switch";
 
-  xdg.configFile."kanata/kanata.kbd".source = ../system/modules/input/kanata/kanata.kbd;
+  # TODO::prio1: clean this up and avoid repetition; maybe parametrize defsrc if there is no reason to redeclare kanata.service from scratch
+  xdg.configFile."kanata/kanata.kbd".text = ''
+    (defcfg
+        process-unmapped-keys yes
+        danger-enable-cmd yes
+        linux-unicode-termination enter
+        danger-enable-cmd yes
+        linux-continue-if-no-devs-found yes
+    )
+
+    ${builtins.readFile ../system/modules/input/kanata/kanata.kbd}'';
 
   xdg.configFile = {
     "user-dirs.locale".text = "en_US";

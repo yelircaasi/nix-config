@@ -2,6 +2,7 @@
   inputs,
   pkgs,
   g,
+  deviceConfig,
   ...
 }: let
   riverPhotoPath = "hypr/images/river.jpg";
@@ -11,13 +12,15 @@
   photoPath1 = "";
   photoPath2 = "";
 
-  monitorHomeLeft = "Ancor Communications Inc ASUS PB278 E8LMTF000788";
-  monitorHomeRight = "Ancor Communications Inc ASUS PB278 E8LMTF000788";
-  monitorOlivia = "BOE 0x0C3F";
-  monitorBetsy = "Chimei Innolux Corporation 0x15D7";
-  monitorHank = "";
-  monitorWorkSamsung = "Samsung Electric Company LS27D60xU HNAX501336";
-  monitorWorkDell = "Dell Inc. DELL P2418D MY3ND87U07VT";
+  myMonitors = {
+    homeLeft = "Ancor Communications Inc ASUS PB278 E8LMTF000788";
+    homeRight = "Ancor Communications Inc ASUS PB278 E8LMTF000788";
+    olivia = "BOE 0x0C3F";
+    betsy = "Chimei Innolux Corporation 0x15D7";
+    hank = "";
+    workSamsung = "Samsung Electric Company LS27D60xU HNAX501336";
+    workDell = "Dell Inc. DELL P2418D MY3ND87U07VT";
+  };
 in {
   imports = [
   ];
@@ -40,12 +43,12 @@ in {
 
     "./hypr/hyprpaper.conf".text = ''
       preload = /home/isaac/.config/${riverPhotoPath}
-      wallpaper = desc:${monitorBetsy},    /home/isaac/.config/${riverPhotoPath}
-      wallpaper = desc:${monitorOlivia},    /home/isaac/.config/${riverPhotoPath}
-      wallpaper = desc:${monitorHomeLeft},  /home/isaac/.config/${riverPhotoPath}
-      wallpaper = desc:${monitorHomeRight}, /home/isaac/.config/${riverPhotoPath}
-      wallpaper = desc:${monitorWorkSamsung}, /home/isaac/.config/${riverPhotoPath}
-      wallpaper = desc:${monitorWorkDell}, /home/isaac/.config/${riverPhotoPath}
+      wallpaper = desc:${myMonitors.betsy},    /home/isaac/.config/${riverPhotoPath}
+      wallpaper = desc:${myMonitors.olivia},    /home/isaac/.config/${riverPhotoPath}
+      wallpaper = desc:${myMonitors.homeLeft},  /home/isaac/.config/${riverPhotoPath}
+      wallpaper = desc:${myMonitors.homeRight}, /home/isaac/.config/${riverPhotoPath}
+      wallpaper = desc:${myMonitors.workSamsung}, /home/isaac/.config/${riverPhotoPath}
+      wallpaper = desc:${myMonitors.workDell}, /home/isaac/.config/${riverPhotoPath}
 
       # wallpaper = desc:Lenovo Group Limited D22-20 U7608Z7N,/home/isaac/.config/${riverPhotoPath}
       # wallpaper = desc:Ancor Communications Inc ASUS PB278 E8LMTF000809,/home/isaac/.config/${riverPhotoPath}
@@ -251,15 +254,29 @@ in {
           swallow_regex = "^(org.wezfurlong.wezterm)$";
         };
 
+        workspace = [
+          "1, monitor:desc:${myMonitors.${deviceConfig.name}},      default:true"
+          (
+            if deviceConfig.isWork
+            then "2, monitor:desc:${myMonitors.workSamsung}, default:true"
+            else "2, monitor:desc:${myMonitors.homeLeft},    default:true"
+          )
+          (
+            if deviceConfig.isWork
+            then "3, monitor:desc:${myMonitors.workDell},    default:true"
+            else "3, monitor:desc:${myMonitors.homeRight},   default:true"
+          ) 
+        ];
+
         windowrulev2 = [
-          "float, class:^(wlogout|pavucontrol|nmtui)$"
-          "workspace 1, class:^(lutris)$"
-          "workspace 2, class:^(nyxt)$"
-          "workspace 3, class:^(filemanager)$"
-          "workspace 4 silent, class:^(ArmCord)$"
-          "workspace 5, title:^(Spotify.*)$"
-          # Inhibit idle on fullscreen programs where keyboard/mouse may not be used for a while
-          "idleinhibit fullscreen, class:^(FreeTube)$"
+          # "float, class:^(wlogout|pavucontrol|nmtui)$"
+          # "workspace 1, class:^(lutris)$"
+          # "workspace 2, class:^(nyxt)$"
+          # "workspace 3, class:^(filemanager)$"
+          # "workspace 4 silent, class:^(ArmCord)$"
+          # "workspace 5, title:^(Spotify.*)$"
+          # # Inhibit idle on fullscreen programs where keyboard/mouse may not be used for a while
+          # "idleinhibit fullscreen, class:^(FreeTube)$"
         ];
 
         "$mainMod" = "${g.key.hyprland.mod}"; # "$mainMod" = "SUPER";
@@ -350,12 +367,12 @@ in {
       extraConfig =
         #hypr
         ''
-          monitor = desc:${monitorOlivia},      1920x1200,    0x720,      1
-          monitor = desc:${monitorBetsy},       1920x1080,    0x720,      1
-          monitor = desc:${monitorHomeLeft},    2560x1440,    1920x0,     1
-          monitor = desc:${monitorHomeRight},   2560x1440,    4480x0,     1
-          monitor = desc:${monitorWorkSamsung}, 2560x1440,    1920x0,     1
-          monitor = desc:${monitorWorkDell},    2560x1440,    4480x0,     1
+          monitor = desc:${myMonitors.olivia},      1920x1200,    0x720,      1
+          monitor = desc:${myMonitors.betsy},       1920x1080,    0x720,      1
+          monitor = desc:${myMonitors.homeLeft},    2560x1440,    1920x0,     1
+          monitor = desc:${myMonitors.homeRight},   2560x1440,    4480x0,     1
+          monitor = desc:${myMonitors.workSamsung}, 2560x1440,    1920x0,     1
+          monitor = desc:${myMonitors.workDell},    2560x1440,    4480x0,     1
 
           # monitor = desc:Lenovo Group Limited D22-20 U7608Z7N,             1920x1080,    3490x-1080, 1
           # monitor = desc:Chimei Innolux Corporation 0x15D7,                1980x1080,    0x910,      1

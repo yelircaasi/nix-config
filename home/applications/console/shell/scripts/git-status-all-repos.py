@@ -42,7 +42,7 @@ def list_git_repos(
 def show_git_status(d: Path) -> None:
 
     os.chdir(d)
-    assert os.getcwd() == str(d)
+    assert os.getcwd() == str(d), f"{os.getcwd()} != {str(d)}"
 
     result = str(
         subprocess.run(
@@ -68,4 +68,6 @@ if __name__ == "__main__":
     )
     git_dirs = list_git_repos(repo_home) | list_git_repos(home, recursions=1)
     for gd in sorted(git_dirs):
+        if gd.is_symlink():
+            continue
         show_git_status(gd)

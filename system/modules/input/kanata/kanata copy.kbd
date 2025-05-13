@@ -1,143 +1,133 @@
+(defcfg
+  process-unmapped-keys yes
+)
+
 (defsrc
 
-esc            f1   f2   f3   f4             f5    f6    f7    f8          f9   f10  f11   f12
-grv       1      2    3      4      5       6     7      8     9      0       -      =    bspc       
+esc  1      2    3      4      5       6     7      8     9      0       -      =    bspc       
 tab       q      w    e      r      t       y     u      i     o      p       [      ]       \         
 caps      a      s    d      f      g       h     j      k     l      ;       '          enter        
-lsft      z      x    c      v      b       n     m      ,     .      /                   rsft           up 
-lctl      lmet   lalt             spc                  ralt        rmet                   rctl      lft down rght
+lsft      z      x    c      v      b       n     m      ,     .      /                   rsft
+lctl      lmet   lalt             spc                  ralt rctl
 
 )
 
 (deflayer default
 
-caps           f1   f2    f3    f4               f5      f6     f7    f8          f9   f10   f11    f12
-grv       1      2    @weznav @wezcre  @wezres       6       7       8     9      0       _      =       bspc       
-tab       q      w    e       r        t       y       u       i     o      p       @aspcl @nspcl @punct              
-@hybrctl  a      s    d       f        @german h       j       k     l      @vimnav @number        enter        
-lsft      z      x    c       v        b       n       m       ,     .      /                      rsft            _ 
-lctl      lmet   lalt             spc                     ralt        rmet                       rctl          _ _ _
+caps 1      2    @weznav @wezcre  @wezres       6       7       8     9      0       @aspcl      =       bspc       
+tab       q      w    e       r        t       y       u       i     o      p       _   @nspcl  @punct              
+@hybrctl  a      s    d       f        @german h       j       k     l      @vimnav @number             enter        
+lsft      z      x    @gshift       v        b       n       m       ,     .      /                            rsft
+lctl      lmet   lalt             spc                     ralt                                   rctl
 
 )
 
 (deflayer wezterm_navigation
-
-_             _     _   _     _                 _       _    _       _        _    _    _    _
 _       _      _    _      _      _       _        _       _       _      _      _      _    _       
 _       _      _    _      _      _       _        _       _       _      _      _      _    _          
 _       _      _    _      _      _       A-h      A-j     A-k     A-l    _      _           _        
-_       _      _    _      _      _       _        _       _       _      _                  _         _
-_       _      _             _                                            _      _           _       _ _ _
+_       _      _    _      _      _       _        _       _       _      _                  _
+_       _      _             _                                            _          _
 
 )
 
 (deflayer wezterm_creation
 
-_             _     _   _     _                 _       _    _       _        _    _    _    _
 _       _      _    _      _      _       _        _       _       _      _      _      _    _       
 _       _      _    _      _      _       _        _       _       _      _      _      _    _          
 _       _      _    _      _      _       A-S-h    A-S-j   A-S-k   A-S-l  _      _           _        
-_       _      _    _      _      _       _        _       _       _      _                  _         _
-_       _      _             _                                            _      _           _       _ _ _
+_       _      _    _      _      _       _        _       _       _      _                  _
+_       _      _             _                                            _             _
 
 )
 
 (deflayer wezterm_resizing
 
-_             _     _   _     _                 _       _    _       _        _    _    _    _
 _       _      _    _      _      _       _        _       _       _      _      _      _    _       
 _       _      _    _      _      _       _        _       _       _      _      _      _    _          
 _       _      _    _      _      _       C-A-S-h  C-A-S-j C-A-S-k C-A-S-l   _      _        _        
-_       _      _    _      _      _       _        _       _       _      _                  _         _
-_       _      _             _                                            _      _           _       _ _ _
+_       _      _    _      _      _       _        _       _       _      _                  _
+_       _      _             _                                            _                  _
 
 )
 
 (deflayer vimnav
 
-_             _     _   _     _             _     _    _     _          _    _    _    -
 _       _      _    _      _      _       _     _      _     _      _      _      _    _       
 _       _      _    _      _      _       _     _      _     _      _      _      _    _          
 _       _      _    _      _      _       lft   down   up    rght   _      _           _        
-_       _      _    _      _      _       _     _      _     _      _                  _         -
-_       _      _             _                                      _      _           _       _ _ _
+_       _      _    _      _      _       _     _      _     _      _                  _
+_       _      _             _                                      _              _
 
 )
 
 (deflayer germanmode
 
-_             _     _   _     _             _     _    _     _          _    _    _    -
 _       _      _    _      _      _       _     _      _     _      _      _      _    _       
 _       _      _    _      _      _       _     @u     _     @o     _      _      _    _          
 _       @a     @sz  _      _      _       _     _      _     _      _      _           _        
-@gshift _      _    _      _      _       _     _      _     _      _                  @gshift   -
-_       _      _             _                                      _      _           _       _ _ _
+@gshift _      _    _      _      _       _     _      _     _      _                  @gshift
+_       _      _             _                                      _            _
 
 )
 
 (deflayer germanmodecaps
 
-_             _     _   _     _             _     _    _     _          _    _    _    -
 _       _      _    _      _      _       _     _      _     _      _      _      _    _       
 _       _      _    _      _      _       _     @U     _     @O     _      _      _    _          
 _       @A     _    _      _      _       _     _      _     _      _      _           _        
-_       _      _    _      _      _       _     _      _     _      _                  _         -
-_       _      _             _                                      _      _           _       _ _ _
+_       _      _    _      _      _       _     _      _     _      _                  _
+_       _      _             _                                      _          _
 
 )
 
 (deflayer freq_unicode
 
-_             _     _   _     _             _     _    _     _          _    _    _    -
 _       _      _    _      _      _       _     _      _     _      _      _      _    _       
 _       _      _    _      _      _       _     @U     _     @O     _      _      _    _          
 _       @A     _    _      _      _       _     _      _     _      _      _           _        
-_       _      _    _      _      _       _     _      _     _      _                  _         -
-_       _      _             _                                      _      _           _       _ _ _
+_       _      _    _      _      _       _     _      _     _      _                  _
+_       _      _             _                                      _             _
 
 )
 
 (deflayer numbers
 
-_             _     _   _     _             _     _    _     _          _    _    _    -
 _       _      _    _      _      _       _     _      _     _      _      _      _    _       
 _       0      1    2      3      4       _     _      _     _      _      _      _    _          
 _       5      6    7      8      9       _     _      _     _      _      _           _        
-_       _      _    _      _      _       _     _      _     _      _                  _         -
-_       _      _             _                                      _      _           _       _ _ _
+_       _      _    _      _      _       _     _      _     _      _                  _
+_       _      _             _                                      _               _
 
 )
 
 (deflayer punctuationetc
 
-_             _     _   _     _                 _     _    _     _          _    _    _    -
 _       _       _       _      _      _       _     _      _     _      _      _      _    _       
 _       S-,     S-.     S-[    S-]    _       _     _      _     _      _      _      _    _          
 _       S-9     S-0     [      ]      _       _     _      _     _      _      _           _        
-_       @angleL @angleR 2      3      _       _     _      _     _      _                  _         -
-_       _      _             _                                          _      _           _       _ _ _
+_       @angleL @angleR 2      3      _       _     _      _     _      _                  _
+_       _      _             _                                          _             _
 
 )
 
 (deflayer ascii_special
 
-_             _     _   _     _             _     _    _     _          _    _    _    -
 _       _      _      _     _      _       _     _      _     _      _      _      _    _       
 _       S-\    S-7    S-8   S-9    S-grv   _     _      _     _      _      _      _    _          
 _       \      S-4    S-5   S-6    grv     _     _      _     _      _      _           _        
-_       _      S-1    S-2   S-3    _       _     _      _     _      _                  _         -
-_       _      _                 _                                   _      _           _       _ _ _
+_       _      S-1    S-2   S-3    _       _     _      _     _      _                  _
+_       _      _                 _                                   _            _
 
 )
 
 (deflayer nonascii_special
 
-_              _     _     _     _             _     _    _     _          _    _    _    -
 _       _       _        _     _    _     _     _      _     _      _      _      _    _       
 _       @arrowL @arrowR  _     _    _     _     _      _     _      _      _      _    _          
 _       _       _        _     _    _     _     _      _     _      _      _           _        
-_       _       _        _     _    _     _     _      _     _      _                  _         -
-_       _       _                 _                                   _      _           _       _ _ _
+_       _       _        _     _    _     _     _      _     _      _                  _
+_       _       _                 _                                   _            _
 
 )
 
@@ -145,14 +135,16 @@ _       _       _                 _                                   _      _  
     hybrctl (tap-hold-press 200 200 esc lctl)
     vimnav  (tap-hold-press 200 200 ; (layer-toggle vimnav))
     german  (tap-hold-press 200 200 g (layer-toggle germanmode))
-    gshift  (tap-hold-press 200 200 S-g (layer-toggle germanmodecaps))
+    gshift  (tap-hold-press 200 200 c (layer-toggle germanmodecaps))
+
+    comfyshift (tap-hold-press 200 200 q (layer-toggle germanmode))
     
     weznav  (tap-hold-press 200 200 3 (layer-toggle wezterm_navigation))
     wezcre  (tap-hold-press 200 200 4 (layer-toggle wezterm_creation))
     wezres  (tap-hold-press 200 200 5 (layer-toggle wezterm_resizing))
     number  (tap-hold-press 200 200 ' (layer-toggle numbers))
     punct   (tap-hold-press 200 200 \ (layer-toggle punctuationetc))
-    aspcl   (tap-hold-press 200 200 [ (layer-toggle ascii_special))
+    aspcl   (tap-hold-press 200 200 - (layer-toggle ascii_special))
     nspcl   (tap-hold-press 200 200 ] (layer-toggle nonascii_special))
     
     a (unicode ä)

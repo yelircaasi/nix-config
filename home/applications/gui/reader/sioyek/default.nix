@@ -3,11 +3,11 @@
   g,
   deviceConfig,
   ...
-}: let 
+}: let
   bg = "#031A16";
   bgLighter = "#0B342D";
   textColor = "#3E9688";
-  textColorDim = "#2B685E";
+  textColorDim = "#275D59";
   textColorBright = "#94863D";
   highlightColor = "#81B5AC";
   selectionColor = "#96883E";
@@ -37,10 +37,10 @@ in {
 
       # https://github.com/catppuccin/sioyek/blob/3879f23da360c891ed18bb0b85537f891589c47f/themes/macchiato.config
       background_color = "${bg}";
-      custom_color_mode_empty_background_color = "${bg}";
+      custom_color_mode_empty_background_color = "${bg}"; # TODO::prio1: make a PR to add to the docs
       custom_background_color = "${bg}";
-      custom_text_color = "${textColor}";
-      
+      custom_text_color = "${textColorDim}";
+
       page_separator_width = "0";
       page_separator_color = "${bg}";
       text_highlight_color = "${highlightColor}";
@@ -63,7 +63,6 @@ in {
       status_bar_text_color = "${textColorBright}";
       dark_mode_background_color = "#14472a"; #"#5b6078";
       dark_mode_contrast = "0.4";
-      
     };
     bindings = {
       "move_up" = "k";

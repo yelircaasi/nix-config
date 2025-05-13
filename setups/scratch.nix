@@ -1,13 +1,13 @@
 {pkgs, ...}: {
   prepare-wallpaper = (
-      pkgs.writers.writePython3Bin
-      "prepare-wallpaper"
-      {
-        libraries = with pkgs.python312Packages; [opencv-python-headless];  # use willow?
-        flakeIgnore = ["E501" "F841"];
-      }
-      (builtins.readFile ./make_wallpaper.py)
-    )
+    pkgs.writers.writePython3Bin
+    "prepare-wallpaper"
+    {
+      libraries = with pkgs.python312Packages; [opencv-python-headless]; # use willow?
+      flakeIgnore = ["E501" "F841"];
+    }
+    (builtins.readFile ./make_wallpaper.py)
+  );
 
   wallpaper-images = pkgs.mkDerivation {
     name = "wallpaper";
@@ -17,5 +17,14 @@
       mkdir -p $out
       cp -r ./* $out
     '';
+  };
+
+  devShells = pkgs.mkShell {
+    packages = [
+      (pkgs.python3.withPackages (python-pkgs: [
+        python-pkgs.opencv-python-headless
+        python-pkgs.numpy
+      ]))
+    ];
   };
 }

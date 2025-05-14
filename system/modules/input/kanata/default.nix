@@ -18,7 +18,6 @@
       # https://search.nixos.org/options?channel=unstable&show=services.kanata.keyboards.%3Cname%3E.config&from=0&size=50&sort=relevance&type=packages&query=kanata
       extraDefCfg = ''
         process-unmapped-keys yes
-        danger-enable-cmd yes
         linux-unicode-termination enter
         danger-enable-cmd yes
       '';

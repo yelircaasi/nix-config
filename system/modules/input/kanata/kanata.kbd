@@ -14,7 +14,7 @@ lctl      lmet   lalt             spc                  ralt        rmet         
 (deflayer default
 
 caps           f1   f2    f3    f4               f5      f6     f7    f8          f9   f10   f11    f12
-grv       1      2    @weznav @wezcre  @wezres       6       7       8     9      0       _      =       bspc       
+grv       1      2    @weznav @wezcre  @wezres       6       7       8     9      0       -      =       bspc       
 tab       q      w    e       r        t       y       u       i     o      p       @aspcl @nspcl @punct              
 @hybrctl  a      s    d       f        @german h       j       k     l      @vimnav @number        enter        
 lsft      z      x    c       v        b       n       m       ,     .      /                      rsft            _ 
@@ -57,88 +57,88 @@ _       _      _             _                                            _     
 
 (deflayer vimnav
 
-_             _     _   _     _             _     _    _     _          _    _    _    -
+_             _     _   _     _             _     _    _     _          _    _    _    _
 _       _      _    _      _      _       _     _      _     _      _      _      _    _       
 _       _      _    _      _      _       _     _      _     _      _      _      _    _          
 _       _      _    _      _      _       lft   down   up    rght   _      _           _        
-_       _      _    _      _      _       _     _      _     _      _                  _         -
+_       _      _    _      _      _       _     _      _     _      _                  _         _
 _       _      _             _                                      _      _           _       _ _ _
 
 )
 
 (deflayer germanmode
 
-_             _     _   _     _             _     _    _     _          _    _    _    -
+_             _     _   _     _             _     _    _     _          _    _    _    _
 _       _      _    _      _      _       _     _      _     _      _      _      _    _       
 _       _      _    _      _      _       _     @u     _     @o     _      _      _    _          
 _       @a     @sz  _      _      _       _     _      _     _      _      _           _        
-@gshift _      _    _      _      _       _     _      _     _      _                  @gshift   -
+@gshift _      _    _      _      _       _     _      _     _      _                  @gshift   _
 _       _      _             _                                      _      _           _       _ _ _
 
 )
 
 (deflayer germanmodecaps
 
-_             _     _   _     _             _     _    _     _          _    _    _    -
+_             _     _   _     _             _     _    _     _          _    _    _    _
 _       _      _    _      _      _       _     _      _     _      _      _      _    _       
 _       _      _    _      _      _       _     @U     _     @O     _      _      _    _          
 _       @A     _    _      _      _       _     _      _     _      _      _           _        
-_       _      _    _      _      _       _     _      _     _      _                  _         -
+_       _      _    _      _      _       _     _      _     _      _                  _         _
 _       _      _             _                                      _      _           _       _ _ _
 
 )
 
 (deflayer freq_unicode
 
-_             _     _   _     _             _     _    _     _          _    _    _    -
+_             _     _   _     _             _     _    _     _          _    _    _    _
 _       _      _    _      _      _       _     _      _     _      _      _      _    _       
 _       _      _    _      _      _       _     @U     _     @O     _      _      _    _          
 _       @A     _    _      _      _       _     _      _     _      _      _           _        
-_       _      _    _      _      _       _     _      _     _      _                  _         -
+_       _      _    _      _      _       _     _      _     _      _                  _         _
 _       _      _             _                                      _      _           _       _ _ _
 
 )
 
 (deflayer numbers
 
-_             _     _   _     _             _     _    _     _          _    _    _    -
+_             _     _   _     _             _     _    _     _          _    _    _    _
 _       _      _    _      _      _       _     _      _     _      _      _      _    _       
-_       0      1    2      3      4       _     _      _     _      _      _      _    _          
-_       5      6    7      8      9       _     _      _     _      _      _           _        
-_       _      _    _      _      _       _     _      _     _      _                  _         -
+_       5      6    7      8      9       _     _      _     _      _      _      _    _          
+_       0      1    2      3      4       _     _      _     _      _      _           _        
+_       _      _    _      _      _       _     _      _     _      _                  _         _
 _       _      _             _                                      _      _           _       _ _ _
 
 )
 
 (deflayer punctuationetc
 
-_             _     _   _     _                 _     _    _     _          _    _    _    -
+_             _     _   _     _                 _     _    _     _          _    _    _    _
 _       _       _       _      _      _       _     _      _     _      _      _      _    _       
 _       S-,     S-.     S-[    S-]    _       _     _      _     _      _      _      _    _          
 _       S-9     S-0     [      ]      _       _     _      _     _      _      _           _        
-_       @angleL @angleR 2      3      _       _     _      _     _      _                  _         -
+_       @angleL @angleR 2      3      _       _     _      _     _      _                  _         _
 _       _      _             _                                          _      _           _       _ _ _
 
 )
 
 (deflayer ascii_special
 
-_             _     _   _     _             _     _    _     _          _    _    _    -
+_             _     _   _     _             _     _    _     _          _    _    _    _
 _       _      _      _     _      _       _     _      _     _      _      _      _    _       
 _       S-\    S-7    S-8   S-9    S-grv   _     _      _     _      _      _      _    _          
 _       \      S-4    S-5   S-6    grv     _     _      _     _      _      _           _        
-_       _      S-1    S-2   S-3    _       _     _      _     _      _                  _         -
+_       _      S-1    S-2   S-3    _       _     _      _     _      _                  _         _
 _       _      _                 _                                   _      _           _       _ _ _
 
 )
 
 (deflayer nonascii_special
 
-_              _     _     _     _             _     _    _     _          _    _    _    -
+_              _     _     _     _             _     _    _     _          _    _    _    _
 _       _       _        _     _    _     _     _      _     _      _      _      _    _       
 _       @arrowL @arrowR  _     _    _     _     _      _     _      _      _      _    _          
 _       _       _        _     _    _     _     _      _     _      _      _           _        
-_       _       _        _     _    _     _     _      _     _      _                  _         -
+_       _       _        _     _    _     _     _      _     _      _                  _           _
 _       _       _                 _                                   _      _           _       _ _ _
 
 )
@@ -147,7 +147,7 @@ _       _       _                 _                                   _      _  
     hybrctl (tap-hold-press 200 200 esc lctl)
     vimnav  (tap-hold-press 200 200 ; (layer-toggle vimnav))
     german  (tap-hold-press 200 200 g (layer-toggle germanmode))
-    gshift  (tap-hold-press 200 200 S-g (layer-toggle germanmodecaps))
+    gshift  (tap-hold-press 200 200 lsft (layer-toggle germanmodecaps))
     
     weznav  (tap-hold-press 200 200 3 (layer-toggle wezterm_navigation))
     wezcre  (tap-hold-press 200 200 4 (layer-toggle wezterm_creation))

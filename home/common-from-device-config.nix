@@ -104,7 +104,6 @@ in {
   xdg.configFile."kanata/kanata.kbd".text = ''
     (defcfg
         process-unmapped-keys yes
-        danger-enable-cmd yes
         linux-unicode-termination enter
         danger-enable-cmd yes
         linux-continue-if-no-devs-found yes

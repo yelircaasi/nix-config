@@ -1,3 +1,4 @@
+import os
 import sys
 import json
 from pathlib import Path
@@ -6,7 +7,9 @@ from typing import Self
 import cv2
 
 
-def is_within(value_a: float, value_b: float, threshold: float = 0.001) -> bool:
+def is_within(
+    value_a: float, value_b: float, threshold: float = 0.001
+) -> bool:
     return abs(value_a - value_b) < threshold
 
 
@@ -86,10 +89,13 @@ class Screen:
 
     def get_image_scale_factor(self, desired_ppmm: float) -> float:
         """
-        Get the scale factor to convert the image resolution to the desired pixels per mm.
+        Get the scale factor to convert the image resolution to the desired
+          pixels per mm.
         """
         ppmm = self.pixels_per_mm
-        assert ppmm > desired_ppmm, "Current ppmm must be higher than desired ppmm."
+        assert ppmm > desired_ppmm, (
+            "Current ppmm must be higher than desired ppmm."
+        )
         return desired_ppmm / self.pixels_per_mm
 
 
@@ -138,7 +144,9 @@ class Setup:
         return screens
 
     @staticmethod
-    def scale_image(phys: ConcentricRectangle, res: Resolution) -> ImagePixels: ...
+    def scale_image(
+        phys: ConcentricRectangle, res: Resolution
+    ) -> ImagePixels: ...
 
     def infer_coordinates(self) -> None: ...
 
@@ -167,7 +175,8 @@ def process_setup(
     setup_info: Setup, anchor_bottom: float | None, anchor_left: float | None
 ) -> dict:
     """
-    Determine the relative position within the image of each monitor in the given setup.
+    Determine the relative position within the image of each monitor in the
+      given setup.
     """
     ...
 
@@ -207,7 +216,9 @@ def prepare_images(
             )
             subimage = img[top:bottom, left:right]
 
-            cv2.imwrite(out_path / f"{setup_name}" / f"{screen_name}.png", subimage)
+            cv2.imwrite(
+                out_path / f"{setup_name}" / f"{screen_name}.png", subimage
+            )
 
 
 if __name__ == "__main__":
@@ -229,10 +240,11 @@ if __name__ == "__main__":
     #     setup_names, image_name, setup_json, image_json, image_path, out_path
     # )
     img = cv2.imread(images_path / image_info["imageName"])
-    for setup_name in setup_names:
-        for setup in setups[setup_name]:
-            for monitor_info in setup["monitors"]:
-                monitor_name = monitor_info["name"]
-                cv2.imwrite(
-                    out_path / f"{setup_name}" / f"{monitor_name}.png", img
-                )  # subimage)
+    for setup_name, setup_info in setups.items():
+        # if setup_name in setup_names:
+        for monitor_info in setup_info["monitors"]:
+            monitor_name = monitor_info["name"]
+            os.makedirs(out_path / f"{setup_name}", exist_ok=True)
+            cv2.imwrite(
+                out_path / f"{setup_name}" / f"{monitor_name}.png", img
+            )  # subimage)

@@ -1,4 +1,7 @@
-{lib}: rec {
+{lib}: let
+  sortedUnique = _list: (lib.unique (builtins.sort (p: q: p < q) _list));
+  concatSortedUnique = sep: _list: builtins.concatStringsSep sep (sortedUnique _list);
+in rec {
   utils = import ./utils {inherit lib;};
   key = import ./keybindings {inherit lib;};
   color = import ./colors {inherit lib;};
@@ -93,4 +96,9 @@
     lib.filterAttrs
     (name: _: builtins.elem name _names)
     _set;
+
+  writeJSON = fileName: attrSet: builtins.toFile fileName (builtins.toJSON attrSet);
+
+  inherit sortedUnique concatSortedUnique;
+  concatListsSortedUnique = sep: _lists: concatSortedUnique sep (builtins.concatLists _lists);
 }

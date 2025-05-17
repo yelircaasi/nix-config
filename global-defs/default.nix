@@ -2,6 +2,7 @@
   utils = import ./utils {inherit lib;};
   key = import ./keybindings {inherit lib;};
   color = import ./colors {inherit lib;};
+  inherit (import ./setup {}) monitors setups;
 
   removeElements = toRemove: originalList:
     builtins.filter (item: !(builtins.elem item toRemove)) originalList;
@@ -66,4 +67,30 @@
   selectViaGuiSet = devCfg: setLists_: buildList devCfg.guiSet devCfg.setOverrides setLists_;
 
   # TODO::prio1: write function buildAttrSet analogous to buildLists (and selectVia... --> selectAttrsVia...)
+
+  constructFromList = nameFunc: valueFunc: _list:
+    lib.listToAttrs (map
+      (name: lib.nameValuePair (nameFunc name) (valueFunc name))
+      _list);
+
+  constructFromSet = nameFunc: valueFunc: _set:
+    lib.mapAttrs'
+    (name: value: lib.nameValuePair (nameFunc name value) (valueFunc name value))
+    _set;
+
+  crossMap = f: list1: list2:
+    lib.flatten
+    (
+      map
+      (a:
+        map
+        (b: f a b)
+        list2)
+      list1
+    );
+
+  filterAttrsFromList = _names: _set:
+    lib.filterAttrs
+    (name: _: builtins.elem name _names)
+    _set;
 }

@@ -12,7 +12,10 @@
     # basics
     name,
     description,
+    userName,
     isWork,
+    isGUI,
+    isNixOS,
     #
     # concentric app sets and overrides
     consoleSet,
@@ -25,11 +28,11 @@
     prompt,
     #
     # desktop environment
+    wallpaper,
+    monitorSetups,
     compositors,
     desktopShell,
-    desktopEnvironments,
     wayland,
-    x11,
     nvidia,
     pipewire,
     jack,
@@ -44,6 +47,7 @@
     # containers
     docker,
     podman,
+    distrobox,
     #
     # other
     sops,
@@ -57,10 +61,10 @@
   } @ deviceConfig:
     adHocFunction deviceConfig;
 in rec {
-  updateAttrsWith = defaultSet: setOfSets:
-    builtins.mapAttrs
-    (name: configSet: defaultSet // configSet)
-    setOfSets;
+  # updateAttrsWith = defaultSet: setOfSets:
+  #   builtins.mapAttrs
+  #   (name: configSet: defaultSet // configSet)
+  #   setOfSets;
 
   makeNixosConfig = deviceConfig: configWrapper makeNixosConfig' deviceConfig;
 

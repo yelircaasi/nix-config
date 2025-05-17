@@ -6,7 +6,7 @@
 }: let
   bg = "#031A16";
   bgLighter = "#0B342D";
-  textColor = "#3E9688";
+  textColor = "#808080"; #"#3E9688";
   textColorDim = "#275D59";
   textColorBright = "#94863D";
   highlightColor = "#81B5AC";
@@ -39,7 +39,7 @@ in {
       background_color = "${bg}";
       custom_color_mode_empty_background_color = "${bg}"; # TODO::prio1: make a PR to add to the docs
       custom_background_color = "${bg}";
-      custom_text_color = "${textColorDim}";
+      custom_text_color = "${textColor}";
 
       page_separator_width = "0";
       page_separator_color = "${bg}";

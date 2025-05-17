@@ -21,6 +21,7 @@ in {
       ./applications/console/browser
       ./applications/console/communication
       */
+      ./applications/console/clipboard
       ./applications/console/data-wrangling
       ./applications/console/development
 

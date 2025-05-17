@@ -47,17 +47,26 @@ in {
     # export XDG_PICTURES_DIR="$HOME/Media/Pictures"
   };
   # home.shellAliases = {
-  programs.bash.shellAliases = {
-    c = "clear";
-    cs = "/home/isaac/consilium/.venv/bin/consilium";
-    consilium = "/home/isaac/consilium/.venv/bin/consilium";
-    g = "git status";
-    ga = "git add .";
-    gs = "git status";
-    gcm = "git commit -m";
-    alej = "alejandra .";
-    cudaenv = "docker run --gpus all -it --rm --dns 8.8.8.8 --dns 8.8.4.4 --name nlq -v /home/isaac/repos:/root/repos -v /home/isaac/data:/root/data -v /home/isaac/.ssh:/root/.ssh -v /home/isaac/.config/pypoetry:/root/.config/pypoetry -v /home/isaac/.cache/torch:/root/.cache/torch -v /home/isaac/.cache/huggingface:/root/.cache/huggingface nvidia:poetry";
-  };
+  programs.bash.shellAliases =
+    {
+      c = "clear";
+      cs = "/home/isaac/consilium/.venv/bin/consilium";
+      consilium = "/home/isaac/consilium/.venv/bin/consilium";
+      g = "git status";
+      ga = "git add .";
+      gs = "git status";
+      gcm = "git commit -m";
+      alej = "alejandra .";
+
+      # cudaenv = "docker run --gpus all -it --rm --dns 8.8.8.8 --dns 8.8.4.4 --name nlq -v /home/isaac/repos:/root/repos -v /home/isaac/data:/root/data -v /home/isaac/.ssh:/root/.ssh -v /home/isaac/.config/pypoetry:/root/.config/pypoetry -v /home/isaac/.cache/torch:/root/.cache/torch -v /home/isaac/.cache/huggingface:/root/.cache/huggingface nvidia:poetry";
+    }
+    // (
+      g.constructFromList
+      (name: g.setups.${name}.aliases.hyprland)
+      (name: "Hyprland -c ${config.xdg.userDirs.extraConfig.XDG_CONFIG_HOME}/hypr/hyprland_${name}.conf")
+      deviceConfig.monitorSetups
+    );
+
   programs.bash.bashrcExtra = ''
     source ${mypkgs.forgit}/forgit.plugin.sh
 

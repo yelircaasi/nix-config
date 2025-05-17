@@ -25,7 +25,7 @@
     training.enable = false; #                       keybind
     treeFileBrowser.enable = false; #                 filetype? (autocommand for directory?)
     tuiFileBrowser.enable = false; #                 keybind
-    ui.enable = false; #                              start
+    ui.enable = false; #                             start
 
     # quasi language-independent
     ai.enable = false; #                             keybind

@@ -10,8 +10,6 @@
     [
       ./hardware-configuration.nix
       ./modules/compositor/hyprland.nix
-      # ./modules/compositor/sway.nix
-      # ./modules/compositor/swayfx.nix
       ./modules/container.nix
       ./modules/desktop-environment/gnome
       ./modules/desktop-environment/kde
@@ -32,7 +30,7 @@
       ./modules/users.nix
       ./modules/variables.nix
       ./modules/windowing-protocol/wayland.nix
-      ./modules/windowing-protocol/x11.nix
+      # ./modules/windowing-protocol/x11.nix
       # (lib.mkIf deviceConfig.isWork ./modules/work.nix)
     ]
     ++ (

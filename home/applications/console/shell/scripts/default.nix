@@ -50,6 +50,7 @@ in {
     (writers.writePython3NoDepsBin "viewhm" ./viewhm.py)
     (writers.writePython3NoDepsBin "trash" ./move-to-trash.py)
     (writers.writePython3NoDepsBin "repos" ./git-status-all-repos.py)
+    (writers.writeBashBin "hyprswitch" ./hyprswitch.sh)
 
     /*
     (writers.writeRustBin "lspath" (builtins.readFile ./lspath.rs))

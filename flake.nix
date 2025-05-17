@@ -16,8 +16,11 @@
       flatpak             ()
       snap?               (https://flakehub.com/flake/io12/nix-snapd?view=usage)
     */
-    defaultDeclaration = {
+    defaultDeclarationTty = {
+      userName = "isaac";
       isWork = false;
+      isGUI = false;
+      isNixOS = true;
 
       consoleSet = "core"; # none | minimal | core | extended | maximal
       guiSet = "none"; # none | minimal | core | extended | maximal
@@ -30,28 +33,28 @@
       otherShells = [];
       prompt = "starship";
 
-      compositors = ["hyprland"]; # "sway" "swayfx"];
+      compositors = []; # "sway" "swayfx"];
       desktopShell = {
         launcher = null;
         logoutManager = null;
         notificationDaemon = null;
         widgetTools = [];
+        wallpaper = null;
       };
-      desktopEnvironments = []; # cosmic | gnome | kde
       wayland = false;
-      x11 = false;
       nvidia = false;
       pipewire = true;
       jack = true;
       networkmanager = true;
 
-      terminalEmulators = ["wezterm"];
+      terminalEmulators = [];
       browsers = [];
       readers = [];
-      editors = [];
+      editors = ["neovim"];
 
       docker = false;
       podman = false;
+      distrobox = false;
 
       sops = false;
       ssh-server = true;
@@ -61,254 +64,147 @@
 
       additionalModules = [];
     };
-    deviceDeclarations = mylib.updateAttrsWith defaultDeclaration {
-      betsy = {
-        name = "betsy";
-        description = "Personal laptop. Tuxedo Aura 15";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = ["hyprland"];
-        editors = ["neovim"];
-        browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
-        desktopEnvironments = [];
-        desktopShell = {
-          launcher = "fuzzel";
-          logoutManager = "wlogout";
-          notificationDaemon = "mako";
-          widgetTools = ["waybar"];
-        };
-        terminalEmulators = ["wezterm"];
-        consoleSet = "maximal";
+    defaultDeclarationGui =
+      defaultDeclarationTty
+      // {
+        isGUI = true;
         guiSet = "core";
-        setOverrides = {
-          add = [];
-          remove = [];
-        };
-        sops = true;
+
         prompt = "oh-my-posh";
-        nvidia = false;
-        pipewire = true;
-        jack = false;
-        networkmanager = true;
-        wayland = true;
-        x11 = true;
-        ssh-server = false;
-        docker = false;
-        podman = false;
-        printing = false;
-        additionalModules = [];
-      };
-      hank = {
-        name = "hank";
-        description = "GPU laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU) running NixOS";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = ["hyprland"];
-        editors = ["neovim"];
-        browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
-        desktopEnvironments = [];
+
+        wallpaper = "white-sage";
+        monitorSetups = [];
+        compositors = ["hyprland"]; # "sway" "swayfx"];
         desktopShell = {
           launcher = "fuzzel";
           logoutManager = "wlogout";
           notificationDaemon = "mako";
           widgetTools = ["waybar"];
         };
+
+        wayland = true;
+
         terminalEmulators = ["wezterm"];
-        consoleSet = "minimal";
-        guiSet = "minimal";
-        setOverrides = {
-          add = [];
-          remove = [];
-        };
-        sops = true;
-        prompt = "oh-my-posh";
-        nvidia = true;
-        pipewire = true;
-        jack = false;
-        networkmanager = true;
-        wayland = true;
-        x11 = true;
+        readers = ["sioyek"];
+        browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
+
         ssh-server = false;
-        docker = false;
-        podman = false;
-        printing = false;
-        additionalModules = [];
       };
-      olivia = {
-        name = "olivia";
-        description = "Work laptop. Lenovo Thinkpad running NixOS.";
-        isWork = true;
-        consoleSet = "minimal";
-        guiSet = "minimal";
-        setOverrides = {
-          add = [];
-          remove = [];
+    defaultDeclarationNonnixos = defaultDeclarationGui // {};
+    deviceDeclarations = {
+      olivia =
+        defaultDeclarationGui
+        // {
+          name = "olivia";
+          description = "Work laptop. Lenovo Thinkpad running NixOS.";
+          isWork = true;
+          consoleSet = "minimal";
+          guiSet = "minimal";
+          monitorSetups = ["oliviaWork1Triple" "oliviaHomeTriple"];
+          editors = ["vscode"];
+          browsers = ["qutebrowser" "chromium" "vieb" "nyxt"];
+          terminalEmulators = ["wezterm" "termonad"];
+          sops = true;
         };
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = ["hyprland"];
-        editors = [];
-        browsers = ["qutebrowser" "chromium" "vieb" "nyxt"];
-        readers = ["sioyek" "zathura"];
-        desktopEnvironments = [];
-        desktopShell = {
-          launcher = "fuzzel";
-          logoutManager = "wlogout";
-          notificationDaemon = "mako";
-          widgetTools = ["waybar"];
+      betsy =
+        defaultDeclarationGui
+        // {
+          name = "betsy";
+          description = "Personal laptop. Tuxedo Aura 15";
+          consoleSet = "maximal";
+          monitorSetups = ["betsyHomeTriple"];
+          sops = true;
         };
-        terminalEmulators = ["wezterm" "termonad"];
-        prompt = "oh-my-posh";
-        nvidia = false;
-        pipewire = true;
-        jack = false;
-        networkmanager = true;
-        wayland = true;
-        x11 = true;
-        ssh-server = false;
-        docker = false;
-        podman = false;
-        printing = false;
-        additionalModules = [];
-      };
-      delilah = {
-        # TODO::prio1
-        name = "delilah";
-        # username = "root";
-        description = "Lightweight non-GUI environment, primarily for experimentation";
-        defaultShell = "bash";
-        otherShells = ["bash" "zsh" "fish" "xonsh"];
-        compositors = [];
-        additionalModules = [];
-      };
-      henrique = {
-        # TODO::prio1
-        name = "henrique";
-        description = "Minimal install ISO for work laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = ["hyprland"];
-        terminalEmulators = ["kitty" "wezterm" "foot"];
-        editors = ["neovim"];
-        browsers = ["nyxt" "qutebrowser" "ungoogled-chromium" "vieb" "firefox"];
-        desktopShell = ["fuzzel" "wlogout" "mako" "waybar"];
-        desktopEnvironments = [];
-        consoleSet = "maximal";
-        prompt = "starship";
-        nvidia = true;
-        pipewire = true;
-        jack = false;
-        networkmanager = true;
-        wayland = true;
-        x11 = true;
-        ssh-server = false;
-        docker = false;
-        podman = false;
-        printing = false;
-      };
-      jabari = {
-        # TODO::prio1
-        name = "jabari";
-        description = "same work laptop, but running Ubuntu Server with custom DE, flatpak, and Nix";
-        isNixOS = false;
-      };
+      hank =
+        defaultDeclarationGui
+        // {
+          name = "hank";
+          description = "GPU laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU) running NixOS";
+          consoleSet = "minimal";
+          guiSet = "minimal";
+          nvidia = true;
+          jack = false;
+          wayland = true;
+          sops = true;
+        };
+      delilah =
+        defaultDeclarationTty
+        // {
+          # TODO::prio1
+          name = "delilah";
+          # username = "root";
+          description = "Lightweight non-GUI environment, primarily for experimentation";
+          otherShells = ["zsh" "fish" "xonsh"];
+        };
+      henrique =
+        defaultDeclarationGui
+        // {
+          # TODO::prio1
+          name = "henrique";
+          description = "Minimal install ISO for Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
+          terminalEmulators = ["kitty" "wezterm" "foot"];
+          consoleSet = "minimal";
+          guiSet = "minimal";
+          nvidia = true;
+          jack = false;
+        };
+      jabari =
+        defaultDeclarationGui
+        // {
+          # TODO::prio1
+          name = "jabari";
+          description = "Tuxedo Stellaris 15 laptop, but running Ubuntu Server with custom DE, flatpak, and Nix";
+          isNixOS = false;
+        };
       elsie = {
         # TODO::prio1
         name = "elsie";
         description = "Dell Inspiron 14. Old, underpowered, and 32-bit (i686), used primarily for reading and note-taking while traveling; also good for experimentation; dual-boots Guix System";
-        defaultShell = "bash";
-        shells = ["bash"];
-        windowManager = [];
-        additionalModules = [];
       };
-      malina = {
-        # TODO::prio1
-        name = "malina";
-        description = "Raspberry Pi 3b+, aarch64 - non-GUI, primarily home server";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = [];
-        additionalModules = [];
-      };
-      khmara = {
-        # TODO::prio1
-        name = "khmara";
-        description = "Linode cloud device";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = [];
-        additionalModules = [];
-      };
-      doxie = {
-        # TODO::prio1
-        name = "doxie";
-        description = "Lightweight non-GUI development environment, suitable for use in containers (see yelircaasi/nix on Dockerhub)";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = [];
-        additionalModules = [];
-      };
-      ferris = {
-        # TODO::prio1
-        name = "ferris";
-        description = "nix-on-droid on LineageOS running on Fairphone 4";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = [];
-        additionalModules = [];
-      };
-      charlie = {
-        # TODO::prio1
-        name = "charlie";
-        description = "nix-mobile on Fairphone 4";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = [];
-        additionalModules = [];
-      };
-      jamie = {
-        # TODO::prio1
-        name = "jamie";
-        description = "nix-mobile on Pinephone64";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = [];
-        additionalModules = [];
-      };
-      hank-old = {
-        name = "hank";
-        description = "GPU laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU) running Ubuntu Server + Nix";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = ["i3-picom"];
-        editors = ["neovim"];
-        browsers = ["qutebrowser" "ungoogled-chromium" "vieb"];
-        desktopEnvironments = [];
-        desktopShell = {
-          launcher = "fuzzel";
-          logoutManager = "wlogout";
-          notificationDaemon = "mako";
-          widgetTools = ["waybar"];
+      malina =
+        defaultDeclarationTty
+        // {
+          # TODO::prio1
+          name = "malina";
+          description = "Raspberry Pi 3b+, aarch64 - non-GUI, primarily home server";
         };
-        terminalEmulators = ["wezterm" "termonad"];
-        consoleSet = "maximal";
-        guiSet = "maximal";
-        setOverrides = {
-          add = [];
-          remove = [];
+      khmara =
+        defaultDeclarationTty
+        // {
+          # TODO::prio1
+          name = "khmara";
+          description = "Linode cloud device";
         };
-        prompt = "starship";
-        nvidia = true;
-        pipewire = true;
-        jack = false;
-        networkmanager = true;
-        wayland = true;
-        x11 = true;
-        ssh-server = true;
-        docker = true;
-        podman = true;
-        printing = true;
-      };
+      doxie =
+        defaultDeclarationTty
+        // {
+          # TODO::prio1
+          name = "doxie";
+          description = "Lightweight non-GUI development environment, suitable for use in containers (see yelircaasi/nix on Dockerhub)";
+          isNixOS = false;
+        };
+      ferris =
+        defaultDeclarationTty
+        // {
+          # TODO::prio1
+          name = "ferris";
+          description = "nix-on-droid on LineageOS running on Fairphone 4";
+          isNixOS = false;
+        };
+      charlie =
+        defaultDeclarationTty
+        // {
+          # TODO::prio1
+          name = "charlie";
+          description = "nix-mobile on Fairphone 4";
+        };
+      jamie =
+        defaultDeclarationTty
+        // {
+          # TODO::prio1
+          name = "jamie";
+          description = "nix-mobile on Pinephone64";
+        };
     };
 
     g = import ./global-defs {lib = inputs.nixpkgs.lib;}; # -> move g.utils to nixos-utils flake

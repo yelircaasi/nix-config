@@ -62,8 +62,9 @@ in {
     }
     // (
       g.constructFromList
-      (name: g.setups.${name}.aliases.hyprland)
-      (name: "Hyprland -c ${config.xdg.userDirs.extraConfig.XDG_CONFIG_HOME}/hypr/hyprland_${name}.conf")
+      (setupName: g.setups.${setupName}.aliases.hyprland)
+      (setupName: "hyprswitch ${setupName} || Hyprland") # -c ${config.xdg.userDirs.extraConfig.XDG_CONFIG_HOME}/hypr-setups/${setupName}/hyprland.conf")
+      
       deviceConfig.monitorSetups
     );
 

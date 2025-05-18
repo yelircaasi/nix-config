@@ -101,4 +101,10 @@ in rec {
 
   inherit sortedUnique concatSortedUnique;
   concatListsSortedUnique = sep: _lists: concatSortedUnique sep (builtins.concatLists _lists);
+
+  cumulativeSum = _list:
+    lib.tail (lib.foldl'
+      (acc: x: acc ++ [(lib.last acc + x)])
+      [0]
+      _list);
 }

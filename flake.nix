@@ -72,7 +72,7 @@
 
         prompt = "oh-my-posh";
 
-        wallpaper = "white-sage";
+        wallpaper = "hohenlohe";
         monitorSetups = [];
         compositors = ["hyprland"]; # "sway" "swayfx"];
         desktopShell = {
@@ -100,7 +100,7 @@
           isWork = true;
           consoleSet = "minimal";
           guiSet = "minimal";
-          monitorSetups = ["oliviaWork1Triple" "oliviaHomeTriple"];
+          monitorSetups = ["olivia-work1-3" "olivia-home-3"];
           editors = ["vscode"];
           browsers = ["qutebrowser" "chromium" "vieb" "nyxt"];
           terminalEmulators = ["wezterm" "termonad"];
@@ -112,7 +112,7 @@
           name = "betsy";
           description = "Personal laptop. Tuxedo Aura 15";
           consoleSet = "maximal";
-          monitorSetups = ["betsyHomeTriple"];
+          monitorSetups = ["betsy-home-3"];
           sops = true;
         };
       hank =

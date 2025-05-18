@@ -12,12 +12,12 @@
 
   setupNames = builtins.concatStringsSep "," deviceConfig.monitorSetups;
   imageName = deviceConfig.wallpaper;
-  setupConfigFile = g.writeJSON "monitor-setup-config.json" g.setups;
-  imageConfigFile = g.writeJSON "wallpaper-image-config.json" (import ./image-config.nix);
+  setupConfigFile = g.writeJSON "monitor-setups.json" g.setups;
+  imageConfigFile = g.writeJSON "wallpaper-images.json" (import ./image-config.nix);
   imageDirectory = ./images;
 in
   pkgs.stdenv.mkDerivation {
-    name = "wallpapers";
+    name = "wallpaper-images";
     src = ./.;
     buildInputs = [_script];
     installPhase = ''

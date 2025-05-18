@@ -6,9 +6,9 @@ builtins.mapAttrs
     pixelWidth = 1920;
     pixelHeight = 1200;
     physWidth = 300;
-    physHeight = 190;
-    edgeSide = 6;
-    edgeBottom = 28;
+    physHeight = 187.5;
+    gapSide = 6;
+    gapBottom = 28;
   };
   betsy = {
     desc = "Chimei Innolux Corporation 0x15D7";
@@ -16,7 +16,7 @@ builtins.mapAttrs
     pixelHeight = 1080;
     physWidth = 346;
     physHeight = 195;
-    gapLeft = null;
+    gapLeft = 10;
     gapBottom = 40;
   };
   hank = {
@@ -34,11 +34,11 @@ builtins.mapAttrs
     pixelHeight = 1440;
     physWidth = 597;
     physHeight = 336;
-    gapLeft = 7;
+    gapLeft = 36;
     gapBottom = 73;
   };
   homeRight = {
-    desc = "Ancor Communications Inc ASUS PB278 E8LMTF000788";
+    desc = "Ancor Communications Inc ASUS PB278 E8LMTF000809";
     pixelWidth = 2560;
     pixelHeight = 1440;
     physWidth = 597;

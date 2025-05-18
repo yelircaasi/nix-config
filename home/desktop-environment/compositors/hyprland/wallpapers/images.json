@@ -8,8 +8,8 @@
         "width": 8038,
         "height": 5359,
         "scaleFactor": null,
-        "alignmentFromBottom": null,
-        "alignmentFromLeft": null,
+        "alignmentFromBottom": 0.5,
+        "alignmentFromLeft": 0.5,
         "tags": [],
         "tier": 1
     }

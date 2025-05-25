@@ -4,18 +4,15 @@
   g,
   deviceConfig,
 }: let
-  mkHyprlockBackgrounds = setupName: bgPhotos: let
-    monitorNames = map (m: m.name) g.setups.${setupName}.monitors;
-  in
-    lib.concatLines (map (monitorName: ''
+  mkHyprlockBackgrounds = setupName: bgPhotos:
+    lib.concatLines (map (monitorInfo: ''
         background {
-            monitor =
-            path = ${bgPhotos.${setupName}.${monitorName}}   # supports png, jpg, webp (no animations, though)
+            monitor = desc:${monitorInfo.desc}
+            path = ${bgPhotos.${setupName}.${monitorInfo.name}}
             color = rgba(20, 20, 20, 1.0)
 
-            # all these options are taken from hyprland, see https://wiki.hyprland.org/Configuring/Variables/#blur for explanations
             blur_passes = 0 # 0 disables blurring
-            blur_size = 7
+            blur_size = 2
             noise = 0.0117
             contrast = 0.8916
             brightness = 0.8172
@@ -23,7 +20,7 @@
             vibrancy_darkness = 0.0
         }
       '')
-      monitorNames);
+      g.setups.${setupName}.monitors);
 
   cumulativeLocations = setupName:
     map
@@ -95,16 +92,20 @@ in {
     decoration {
       blur {
         enabled=true
-        passes=3
-        size=5
+        passes=2
+        size=3
       }
       rounding=5
 
       active_opacity = 0.9
       fullscreen_opacity = 0.9
       inactive_opacity = 0.8
-      
+
     }
+
+    windowrulev2 = opacity 1.0, class:^(Hyprlock)$
+    windowrulev2 = noanim, class:^(Hyprlock)$
+    windowrulev2 = nofocus, class:^(Hyprlock)$
 
     dwindle {
       preserve_split=true
@@ -168,51 +169,58 @@ in {
 
     ${mkWorkspaces setupName}
 
-    bind = , escape, submap, reset
-    submap = reset
-
   '';
 
   mkHyprlockConfig = setupName: bgPhotos: ''
-      widget_name {
-          monitor =
-      }
 
-      ${mkHyprlockBackgrounds setupName bgPhotos}
+    ${mkHyprlockBackgrounds setupName bgPhotos}
 
-      input-field {
-          monitor =
-          size = 100, 30
-          outline_thickness = 2
-          dots_size = 0.33 # Scale of input-field height, 0.2 - 0.8
-          dots_spacing = 0.15 # Scale of dots' absolute size, 0.0 - 1.0
-          dots_center = true
-          dots_rounding = -1 # -1 default circle, -2 follow input-field rounding
-          outer_color = rgba(8, 16, 8, 0.9)
-          inner_color = rgba(128, 128, 128, 0.7)
-          # background_color = rgba(5, 17, 5, 1.0)
-          font_color = rgba(8, 16, 8, 0.9)
-          fade_on_empty = true
-          fade_timeout = 1000 # Milliseconds before fade_on_empty is triggered.
-          placeholder_text = <i>Input Password...</i> # Text rendered in the input box when it's empty.
-          hide_input = false
-          rounding = 6 # -1 means complete rounding (circle/oval)
-          check_color = rgb(204, 136, 34)
-          fail_color = rgb(204, 34, 34) # if authentication failed, changes outer_color and fail message color
-          fail_text = <i>$FAIL <b>($ATTEMPTS)</b></i> # can be set to empty
-          fail_timeout = 2000 # milliseconds before fail_text and fail_color disappears
-          fail_transition = 300 # transition time in ms between normal outer_color and fail_color
-          # capslock_color = -1
-          # numlock_color = -1
-          # bothlock_color = -1 # when both locks are active. -1 means don't change outer color (same for above)
-          # invert_numlock = false # change color if numlock is off
-          swap_font_color = false # see below
+    input-field {
+        monitor =
+        size = 100, 30
+        outline_thickness = 2
+        dots_size = 0.33 # Scale of input-field height, 0.2 - 0.8
+        dots_spacing = 0.15 # Scale of dots' absolute size, 0.0 - 1.0
+        dots_center = true
+        dots_rounding = -1 # -1 default circle, -2 follow input-field rounding
+        outer_color = rgba(8, 16, 8, 0.9)
+        inner_color = rgba(128, 128, 128, 0.7)
+        background_color = rgba(5, 17, 5, 0.7)
+        font_color = rgba(8, 16, 8, 0.9)
+        fade_on_empty = false
+        # fade_timeout = 1000 # Milliseconds before fade_on_empty is triggered.
+        placeholder_text = <i>Input Password...</i> # Text rendered in the input box when it's empty.
+        hide_input = false
+        rounding = 6 # -1 means complete rounding (circle/oval)
+        check_color = rgb(204, 136, 34)
+        fail_color = rgb(204, 34, 34) # if authentication failed, changes outer_color and fail message color
+        fail_text = <i>$FAIL <b>($ATTEMPTS)</b></i> # can be set to empty
+        fail_timeout = 2000 # milliseconds before fail_text and fail_color disappears
+        fail_transition = 300 # transition time in ms between normal outer_color and fail_color
+        # capslock_color = -1
+        # numlock_color = -1
+        # bothlock_color = -1 # when both locks are active. -1 means don't change outer color (same for above)
+        # invert_numlock = false # change color if numlock is off
+        swap_font_color = false # see below
 
-          position = 0, 50
-          halign = center
-          valign = center
-      }
+        position = 0, 50
+        halign = center
+        valign = center
     }
+
+    label {
+        monitor =
+        text = Isaac Riley
+        text_align = center # center/right or any value for default left. multi-line text alignment inside label container
+        color = rgba(40, 72, 40, 0.8)
+        font_size = 16
+        font_family = Noto Sans
+        rotate = 0 # degrees, counter-clockwise
+        position = 0, 120
+        halign = center
+        valign = center
+    }
+
   '';
 }
 /*
@@ -249,18 +257,18 @@ in {
       #     valign = center
       # }
 
-      # label {
-      #     monitor =
-      #     text = Hallo, bester Papa!
-      #     text_align = center # center/right or any value for default left. multi-line text alignment inside label container
-      #     color = rgba(40, 72, 40, 0.8)
-      #     font_size = 16
-      #     font_family = Noto Sans
-      #     rotate = 0 # degrees, counter-clockwise
-      #     position = 0, 50
-      #     halign = center
-      #     valign = center
-      # }
+      label {
+          monitor =
+          text = Isaac Riley
+          text_align = center # center/right or any value for default left. multi-line text alignment inside label container
+          color = rgba(40, 72, 40, 0.8)
+          font_size = 16
+          font_family = Noto Sans
+          rotate = 0 # degrees, counter-clockwise
+          position = 0, 50
+          halign = center
+          valign = center
+      }
 
 
 OLD HYPRLAND.conf

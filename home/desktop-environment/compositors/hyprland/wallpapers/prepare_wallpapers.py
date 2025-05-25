@@ -38,12 +38,6 @@ class SimpleRectangle:
         return self.width / self.height
 
 
-# class ConcentricRectangle:
-#     def __init__(self, outer: SimpleRectangle, inner: SimpleRectangle):
-#         self.outer = outer
-#         self.inner = inner
-
-
 class Resolution:
     def __init__(self, width: int, height: int):
         self.width = width
@@ -315,7 +309,6 @@ def cut_and_resize(img, coords, w, h):
 
 
 def prepare_images(
-    # *,
     setup_names: list[str],
     image_name: str,
     setups: dict,
@@ -336,14 +329,10 @@ def prepare_images(
 
     for setup_name in setup_names:
         setup = Setup.from_setup_info(setups[setup_name]["monitors"])
-        print("-----------")
-        print(repr(setup))
 
         for name, coords, res in setup.cv2_coordinates(
             width, height, anchor_left, anchor_bottom, keep_resolution
         ):
-            print(coords)
-            print(res)
             subimage = cut_and_resize(img, coords, *res)
             os.makedirs(out_path / setup_name, exist_ok=True)
             cv2.imwrite(out_path / setup_name / f"{name}.png", subimage)
@@ -360,11 +349,9 @@ if __name__ == "__main__":
 
     with open(setup_json, "r") as f:
         setups = json.load(f)
-    print(setups)
 
     with open(image_json, "r") as f:
         image_info = json.load(f)[image_name]
-    print(image_info)
 
     prepare_images(
         setup_names, image_name, setups, image_info, images_path, out_path

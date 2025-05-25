@@ -7,7 +7,7 @@ builtins.mapAttrs
     pixelHeight = 1200;
     physWidth = 300;
     physHeight = 187.5;
-    gapSide = 6;
+    gapLeft = 24;
     gapBottom = 28;
   };
   betsy = {
@@ -57,6 +57,42 @@ builtins.mapAttrs
   };
   work1Dell = {
     desc = "Dell Inc. DELL P2418D MY3ND87U07VT";
+    pixelWidth = 2560;
+    pixelHeight = 1440;
+    physWidth = 526;
+    physHeight = 296;
+    gapLeft = 24;
+    gapBottom = 132;
+  };
+  work2Samsung = {
+    desc = "Samsung Electric Company LS27D60xU HK2X700794";
+    pixelWidth = 2560;
+    pixelHeight = 1440;
+    physWidth = 597;
+    physHeight = 336;
+    gapLeft = 24;
+    gapBottom = 132;
+  };
+  work2Dell = {
+    desc = "Dell Inc. DELL P2418D MY3ND8610K6T";
+    pixelWidth = 2560;
+    pixelHeight = 1440;
+    physWidth = 526;
+    physHeight = 296;
+    gapLeft = 24;
+    gapBottom = 132;
+  };
+  work3Samsung = {
+    desc = "Lenovo Group Limited P27h-20 V90D2YF4";
+    pixelWidth = 2560;
+    pixelHeight = 1440;
+    physWidth = 597;
+    physHeight = 336;
+    gapLeft = 24;
+    gapBottom = 132;
+  };
+  work3Dell = {
+    desc = "Dell Inc. DELL P2418D MY3ND87U08ET";
     pixelWidth = 2560;
     pixelHeight = 1440;
     physWidth = 526;

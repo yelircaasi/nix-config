@@ -1,9 +1,6 @@
 """
 Look at:  
-- https://github.com/Achno/gowall
-- https://github.com/dylanaraps/pywal
-- https://github.com/warpwm/lule
-- https://codeberg.org/explosion-mental/wallust
+
 
 This script is used to create a wallpaper for a multi-monitor setup.
 

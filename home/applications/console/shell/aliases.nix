@@ -1,9 +1,10 @@
 {
+  pkgs,
   lib,
   g,
   deviceConfig,
 }: let
-  git = "{pkgs.git}";
+  git = "${pkgs.git}";
 in
   g.selectSetsViaConsoleSet deviceConfig {
     minimal = rec {

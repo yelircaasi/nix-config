@@ -1,7 +1,7 @@
 {
   inputs,
-  lib,
   config,
+  lib,
   pkgs,
   mypkgs,
   g,
@@ -22,9 +22,9 @@ in {
     # TODO
     import
     ./environment-variables.nix
-    {inherit lib g deviceConfig;};
+    {inherit config lib g deviceConfig;};
 
-  # home.shellAliases = {
+  # home.shellAliases = {};
 
   home.packages = with pkgs; [
     python313

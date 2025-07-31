@@ -100,9 +100,11 @@ in rec {
 
   selectViaConsoleSet = devCfg: setLists_: buildList devCfg.consoleSet devCfg.setOverrides setLists_;
 
-  selectSetsViaConsoleSet = devCfg: setSets_: buildSet devCfg.consoleSet devCfg.setOverrides setSet_;
+  selectSetsViaConsoleSet = devCfg: setSet_: buildSet devCfg.consoleSet setSet_;
 
   selectViaGuiSet = devCfg: setLists_: buildList devCfg.guiSet devCfg.setOverrides setLists_;
+
+  selectSetsViaGuiSet = devCfg: setSet_: buildSet devCfg.consoleSet setSet_;
 
   # TODO::prio1: write function buildAttrSet analogous to buildLists (and selectVia... --> selectAttrsVia...)
 

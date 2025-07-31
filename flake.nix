@@ -71,7 +71,7 @@
         isGUI = true;
         guiSet = "core";
 
-        prompt = "oh-my-posh";
+        prompt = "ohmyposh";
 
         wallpaper = "hohenlohe";
         monitorSetups = [];

@@ -1,5 +1,7 @@
 {
-  inputs,
+  lib,
+  pkgs,
+  mypkgs,
   g,
   deviceConfig,
   ...
@@ -7,7 +9,7 @@
   programs.bash.enable = true;
 
   programs.bash.shellAliases =
-    (import ./aliases {inherit lib g deviceConifig;})
+    (import ../aliases.nix {inherit pkgs lib g deviceConfig;})
     // (
       g.constructFromList
       (setupName: g.setups.${setupName}.aliases.hyprland)

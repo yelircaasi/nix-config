@@ -51,6 +51,7 @@
       browsers = [];
       readers = [];
       editors = ["neovim"];
+      messagers = [];
 
       docker = false;
       podman = false;
@@ -87,6 +88,7 @@
         terminalEmulators = ["wezterm"];
         readers = ["sioyek"];
         browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
+        messagers = [];
 
         ssh-server = false;
       };
@@ -104,7 +106,9 @@
           editors = ["vscode"];
           browsers = ["qutebrowser" "chromium" "vieb" "nyxt"];
           terminalEmulators = ["wezterm" "termonad"];
+          messagers = ["telegram"];
           sops = true;
+          docker = true;
         };
       betsy =
         defaultDeclarationGui

@@ -35,7 +35,7 @@ in {
     '';
 
     installPhase = ''
-       mkdir -p $out/bin
+      mkdir -p $out/bin
       cp ${src} $out/bin/makesure
       chmod +x $out/bin/makesure
     '';

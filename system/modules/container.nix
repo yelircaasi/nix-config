@@ -7,6 +7,7 @@
 }: {
   environment.systemPackages = with pkgs; [
     (lib.mkIf deviceConfig.docker docker)
+    (lib.mkIf deviceConfig.docker docker-compose)
     (lib.mkIf deviceConfig.podman podman)
     (lib.mkIf (deviceConfig.docker && deviceConfig.nvidia) nvidia-docker)
     (lib.mkIf (deviceConfig.podman && deviceConfig.nvidia) nvidia-podman)

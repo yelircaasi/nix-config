@@ -43,6 +43,7 @@
     browsers,
     readers,
     editors,
+    messagers,
     #
     # containers
     docker,

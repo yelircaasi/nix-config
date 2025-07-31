@@ -10,6 +10,39 @@ in rec {
   removeElements = toRemove: originalList:
     builtins.filter (item: !(builtins.elem item toRemove)) originalList;
 
+  buildSet = setLevel: _setSets: let
+    setSets =
+      {
+        minimal = {};
+        core = {};
+        extended = {};
+        maximal = {};
+      }
+      // _setSets;
+  in (
+    (
+      if setLevel != "none"
+      then setSets.minimal
+      else {}
+    )
+    // (
+      if (builtins.elem setLevel ["none" "minimal"])
+      then {}
+      else setSets.core
+    )
+    // (
+      if (builtins.elem setLevel ["extended" "maximal"])
+      then setSets.extended
+      else {}
+    )
+    // (
+      if setLevel == "maximal"
+      then setSets.maximal
+      else {}
+    )
+    #++ setOverrides.add
+  );
+
   buildList = setLevel: setOverrides @ {
     add,
     remove,
@@ -66,6 +99,8 @@ in rec {
     else stringOrNull;
 
   selectViaConsoleSet = devCfg: setLists_: buildList devCfg.consoleSet devCfg.setOverrides setLists_;
+
+  selectSetsViaConsoleSet = devCfg: setSets_: buildSet devCfg.consoleSet devCfg.setOverrides setSet_;
 
   selectViaGuiSet = devCfg: setLists_: buildList devCfg.guiSet devCfg.setOverrides setLists_;
 

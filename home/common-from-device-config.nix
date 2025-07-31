@@ -19,8 +19,9 @@ in {
       ./applications/console/administration-monitoring
       /*
       ./applications/console/browser
-      ./applications/console/communication
+
       */
+      ./applications/console/communication
       ./applications/console/clipboard
       ./applications/console/data-wrangling
       ./applications/console/development
@@ -42,6 +43,7 @@ in {
 
       ./applications/console/shell
 
+      ./applications/gui/communication
       ./applications/gui/dev-tools
       ./applications/gui/media/editing
 

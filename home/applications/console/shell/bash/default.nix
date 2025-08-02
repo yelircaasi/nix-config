@@ -14,7 +14,7 @@
       g.constructFromList
       (setupName: g.setups.${setupName}.aliases.hyprland)
       (setupName: "hyprswitch ${setupName} || Hyprland") # -c ${config.xdg.userDirs.extraConfig.XDG_CONFIG_HOME}/hypr-setups/${setupName}/hyprland.conf")
-      
+
       deviceConfig.monitorSetups
     );
 

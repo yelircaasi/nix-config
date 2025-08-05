@@ -5,6 +5,8 @@
 }: let
   chase = "${pkgs.chase}/bin/chase";
   which = "${pkgs.which}/bin/which";
+  tre = "${pkgs.tre-command}/bin/tre";
+  bat = "${pkgs.bat}/bin/bat";
 in (
   shellName:
     lib.attrsets.mapAttrs (name: value: value.${shellName})
@@ -34,7 +36,7 @@ in (
         gash = ''{ echo 'not implemented'; }'';
       };
       nixtree = {
-        bash = ''{ ${pkgs.tre} $(${chase} `${which} $1`); }''; # assumes tree; in my case, tree is aliased to tre
+        bash = ''{ ${tre} $(nixbase $1); }''; # assumes tree; in my case, tree is aliased to tre
         xonsh = ''{ echo 'not implemented'; }'';
         nu = ''{ echo 'not implemented'; }'';
         fish = ''{ echo 'not implemented'; }'';
@@ -42,7 +44,7 @@ in (
         gash = ''{ echo 'not implemented'; }'';
       };
       inspect = {
-        bash = ''{ ${pkgs.bat}/bin/bat "''${@:2}" `${which} $1` ; }'';
+        bash = ''{ ${bat} "''${@:2}" `${which} $1` ; }'';
         xonsh = ''...'';
         nu = ''...'';
         fish = ''{ echo 'not implemented'; }'';

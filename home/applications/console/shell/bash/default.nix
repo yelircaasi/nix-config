@@ -5,7 +5,19 @@
   g,
   deviceConfig,
   ...
-}: {
+}: let
+  functionSet = (import ../functions.nix {inherit pkgs lib deviceConfig;}) "bash";
+
+  functionLines =
+    lib.strings.concatStringsSep
+    "\n\n"
+    # ["func1() { echo 'piss off'; }" "func2() { echo 'hi'; }"];
+    (
+      lib.attrsets.mapAttrsToList
+      (name: value: "${name}() { ${value} }")
+      functionSet
+    );
+in {
   programs.bash.enable = true;
 
   programs.bash.shellAliases =
@@ -14,12 +26,15 @@
       g.constructFromList
       (setupName: g.setups.${setupName}.aliases.hyprland)
       (setupName: "hyprswitch ${setupName} || Hyprland") # -c ${config.xdg.userDirs.extraConfig.XDG_CONFIG_HOME}/hypr-setups/${setupName}/hyprland.conf")
-
+      
       deviceConfig.monitorSetups
     );
 
   programs.bash.bashrcExtra = ''
     source ${mypkgs.forgit}/forgit.plugin.sh
+
+    # functions
+    ${functionLines}
 
     export FZF_DEFAULT_OPTS="--height 40% --border --color bg:#000800,bg+:#001600,fg:#003200,fg+:#006400"
   '';

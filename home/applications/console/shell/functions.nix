@@ -36,7 +36,7 @@ in (
         gash = ''{ echo 'not implemented'; }'';
       };
       nixtree = {
-        bash = ''{ ${tre} $(nixbase $1); }''; # assumes tree; in my case, tree is aliased to tre
+        bash = ''{ ${tre} $(nixbase $1); }'';
         xonsh = ''{ echo 'not implemented'; }'';
         nu = ''{ echo 'not implemented'; }'';
         fish = ''{ echo 'not implemented'; }'';

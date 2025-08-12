@@ -45,8 +45,8 @@
   #   # execCmd = "${pkgs.lightdm}/bin/lightdm";
   # };
 
-  services.xserver.displayManager.startx.enable = true;
-  services.xserver.displayManager.gdm = {
+  # services.xserver.displayManager.startx.enable = true;
+  services.displayManager.gdm = {
     enable = false;
     # wayland = true;
   };

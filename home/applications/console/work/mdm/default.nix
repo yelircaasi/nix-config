@@ -17,7 +17,7 @@
       pkgs.writers.writePython3Bin
       "list-all-nix-packages"
       {
-        libraries = [pkgs.python312];
+        libraries = [pkgs.python313];
         flakeIgnore = ["E501" "W503"];
       }
       (builtins.readFile ./list_all_nix_packages.py)
@@ -26,7 +26,7 @@
       pkgs.writers.writePython3Bin
       "get-screen-lock-timeout"
       {
-        libraries = [pkgs.python312];
+        libraries = [pkgs.python313];
         flakeIgnore = [];
       }
       (builtins.readFile ./get_screen_lock_timeout.py)
@@ -36,7 +36,7 @@
       pkgs.writers.writePython3Bin
       "inovex-mdm-inventory-py"
       {
-        libraries = with pkgs; [coreutils util-linux python312 python3Packages.requests];
+        libraries = with pkgs; [coreutils util-linux python313 python313Packages.requests];
         flakeIgnore = ["E501" "F841"];
       }
       (builtins.readFile ./inovex_mdm_inventory.py)

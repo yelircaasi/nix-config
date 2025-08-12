@@ -7,7 +7,7 @@
   _script =
     pkgs.writers.writePython3Bin
     "prepare-wallpapers"
-    {libraries = [pkgs.python312Packages.opencv-python-headless];}
+    {libraries = [pkgs.python313Packages.opencv-python-headless];}
     (builtins.readFile ./prepare_wallpapers.py);
 
   setupNames = builtins.concatStringsSep "," deviceConfig.monitorSetups;

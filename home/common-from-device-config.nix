@@ -92,7 +92,7 @@ in {
       #docker
       wget
       alejandra
-      # python312
+      # python313
       poetry
       gdrive3
     ];

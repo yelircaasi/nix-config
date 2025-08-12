@@ -9,13 +9,13 @@
 }: let
   langCfg = neovimConfig.languages.python;
   luaName = langCfg.luaName;
-  py = pkgs.python312Packages;
+  py = pkgs.python313Packages;
 in
   if !langCfg.enable
   then blankSet
   else rec {
     packages = with pkgs; [
-      # python312
+      # python313
       ruff
       py.python-lsp-server # alt: node.pyright
       py.pylsp-mypy

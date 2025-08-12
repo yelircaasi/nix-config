@@ -11,7 +11,7 @@
     libnotify
   ];
 
-  services.mako = {
+  services.mako.settings = {
     enable = true;
     backgroundColor = "#000800";
     borderColor = "#021602";

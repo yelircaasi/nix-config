@@ -13,7 +13,7 @@
 
   mkDerivation = pkgs.stdenv.mkDerivation;
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
-  buildPythonPackage = pkgs.python3Packages.buildPythonPackage;
+  buildPythonPackage = pkgs.python313Packages.buildPythonPackage;
 in {
   makesure = mkDerivation rec {
     pname = "makesure";
@@ -60,12 +60,12 @@ in {
       hash = "sha256-DkI1Vj8X77aRXrQrdQzmFvh6fYTVn0K0HYLdQeiXqeY=";
     };
 
-    buildInputs = with pkgs.python312Packages; [
+    buildInputs = with pkgs.python313Packages; [
       setuptools
       setuptools-scm
     ];
 
-    propagatedBuildInputs = with pkgs.python312Packages; [
+    propagatedBuildInputs = with pkgs.python313Packages; [
       build
       diskcache
       gitpython
@@ -89,9 +89,9 @@ in {
           sha256 = "sha256-blvIJ0s+47Mp4DvxPHjTUCBiDiF+lqj+k3OuAYgxlk4=";
         };
 
-        nativeBuildInputs = [pkgs.python312Packages.poetry-core];
+        nativeBuildInputs = [pkgs.python313Packages.poetry-core];
 
-        propagatedBuildInputs = with pkgs.python312Packages; [
+        propagatedBuildInputs = with pkgs.python313Packages; [
           typer
           toml
           pyyaml
@@ -120,7 +120,7 @@ in {
           sha256 = "sha256-f0DxyZZk6RoYtOEXLACcsOn2B+Hot4U4g5Ogr/hKmOE=";
         };
 
-        build-system = [pkgs.python312Packages.setuptools-scm];
+        build-system = [pkgs.python313Packages.setuptools-scm];
 
         doCheck = false;
 
@@ -221,12 +221,12 @@ in {
       hash = "sha256-vY22JqDR4+CTnDNFn7qp79pDzjykllkq2EfgBJyxcHY=";
     };
 
-    nativeBuildInputs = with pkgs.python312Packages; [
+    nativeBuildInputs = with pkgs.python313Packages; [
       poetry-core
       pytest
     ];
 
-    propagatedBuildInputs = with pkgs.python312Packages; [
+    propagatedBuildInputs = with pkgs.python313Packages; [
       regex
     ];
 
@@ -249,12 +249,12 @@ in {
       hash = "sha256-QjfQ41mJTwl7xJTra4ahyA0RZxRN1YNwzyTuVBAqyZY=";
     };
 
-    buildInputs = with pkgs.python312Packages; [
+    buildInputs = with pkgs.python313Packages; [
       setuptools
       pytest
     ];
 
-    propagatedBuildInputs = with pkgs.python312Packages; [
+    propagatedBuildInputs = with pkgs.python313Packages; [
       requests
       urllib3
       urwid
@@ -281,12 +281,12 @@ in {
       hash = "sha256-qeP2dOTBT+WYNa2Lp5kjC+DuFKIqiZ9B2bgkcezM9Cs=";
     };
 
-    buildInputs = with pkgs.python312Packages; [
+    buildInputs = with pkgs.python313Packages; [
       poetry-core
       pytest
     ];
 
-    propagatedBuildInputs = with pkgs.python312Packages; [
+    propagatedBuildInputs = with pkgs.python313Packages; [
       plotly
     ];
 
@@ -356,7 +356,7 @@ in {
         --replace "json5==0.9.5" "json5>=0.9.5"
     '';
 
-    propagatedBuildInputs = with pkgs.python312Packages; [
+    propagatedBuildInputs = with pkgs.python313Packages; [
       colorama
       intervaltree
       json5
@@ -378,10 +378,10 @@ in {
           rev = "b967e4dc4a01bd4cc40d936a9399110467ac94f0";
           hash = "sha256-CCaK40ano/CzYKMAJ/2vjaRhx2GGmB170oLeVyMTNBw=";
         };
-        buildInputs = with pkgs.python312Packages; [
+        buildInputs = with pkgs.python313Packages; [
           flit-core
         ];
-        propagatedBuildInputs = with pkgs.python312Packages; [
+        propagatedBuildInputs = with pkgs.python313Packages; [
           astunparse
           stdlib-list
         ];
@@ -441,7 +441,7 @@ in {
       hash = "sha256-O5tQeccyZ+bcS4NAaR+GYL1I6wEAy3v4bYyEqcrWFnM=";
     };
 
-    buildInputs = with pkgs.python312Packages; [
+    buildInputs = with pkgs.python313Packages; [
       setuptools
       pip
       pytest
@@ -449,7 +449,7 @@ in {
       pytest-console-scripts
     ];
 
-    propagatedBuildInputs = with pkgs.python312Packages; [
+    propagatedBuildInputs = with pkgs.python313Packages; [
       python-dateutil
       ruamel-yaml
     ];
@@ -604,11 +604,11 @@ in {
     };
 
     buildInputs = [
-      pkgs.python312Packages.setuptools
+      pkgs.python313Packages.setuptools
     ];
 
-    propagatedBuildInputs = with pkgs.python312Packages; [
-      pkgs.python312Packages.matplotlib
+    propagatedBuildInputs = with pkgs.python313Packages; [
+      pkgs.python313Packages.matplotlib
     ];
 
     meta = with lib; {
@@ -947,7 +947,7 @@ in {
     buildInputs = [
     ];
 
-    propagatedBuildInputs = with pkgs.python312Packages; [
+    propagatedBuildInputs = with pkgs.python313Packages; [
       openpyxl
       odfpy
       pyperclip
@@ -975,7 +975,7 @@ in {
     };
 
     nativeBuildInputs = [
-      pkgs.python312Packages.poetry-core
+      pkgs.python313Packages.poetry-core
     ];
 
     propagatedBuildInputs = [

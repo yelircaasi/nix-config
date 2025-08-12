@@ -17,7 +17,7 @@
 
       pkgs = nixpkgs.legacyPackages.${system};
 
-      pythonEnv = pkgs.python3.withPackages (ps:
+      pythonEnv = pkgs.python313.withPackages (ps:
         with ps; [
           markdown
           pelican
@@ -59,7 +59,7 @@
           {
             name = "thewagner.net";
             tag = revision;
-            contents = [pkgs.python3Minimal htmlPages];
+            contents = [pkgs.python313Minimal htmlPages];
             config = {
               Cmd = [
                 "${pkgs.python3Minimal}/bin/python"

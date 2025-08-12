@@ -22,6 +22,9 @@
   programs.git = {
     enable = true;
     userName = "yelircaasi";
-    userEmail = "isaac.r.riley@gmail.com";
+    userEmail = "yelircaasi@proton.me";
+    extraConfig = {
+      init.defaultBranch = "main";
+    };
   };
 }

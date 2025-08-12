@@ -1,7 +1,7 @@
 {pkgs, ...}: {
   home.packages = with pkgs; [
     fontforge-gtk
-    # python312Packages.fontforge
+    # python313Packages.fontforge
     font-config-info
     fontconfig
     # fontforge-fonttools

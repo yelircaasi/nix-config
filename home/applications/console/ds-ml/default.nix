@@ -4,7 +4,7 @@
   deviceConfig,
   ...
 }: {
-  home.packages = with pkgs.python312Packages; [
+  home.packages = with pkgs.python313Packages; [
     torchWithCuda
     # transformers
     # tensorflowWithCuda # still need to build overnight

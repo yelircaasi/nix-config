@@ -3,7 +3,7 @@
     pkgs.writers.writePython3Bin
     "prepare-wallpaper"
     {
-      libraries = with pkgs.python312Packages; [opencv-python-headless]; # use willow?
+      libraries = with pkgs.python313Packages; [opencv-python-headless]; # use willow?
       flakeIgnore = ["E501" "F841"];
     }
     (builtins.readFile ./make_wallpaper.py)
@@ -21,7 +21,7 @@
 
   devShells = pkgs.mkShell {
     packages = [
-      (pkgs.python3.withPackages (python-pkgs: [
+      (pkgs.python313.withPackages (python-pkgs: [
         python-pkgs.opencv-python-headless
         python-pkgs.numpy
       ]))

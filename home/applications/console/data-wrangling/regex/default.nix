@@ -8,7 +8,7 @@
     core = with pkgs; [
       grex
       crex
-      python312Packages.exrex
+      python313Packages.exrex
       pcre2
       qgrep
       rgxg

@@ -232,11 +232,11 @@
 
   inputs = {
     nixpkgs = {
-      url = "github:nixos/nixpkgs/908514a0885f889432825e9ac71842ca444e8bd5";
+      url = "github:nixos/nixpkgs/ebe9986fa40cbb64bf36212103e02aad615ba044";
     };
 
     home-manager = {
-      url = "github:nix-community/home-manager/7ede02c32a729db0d6340bdb41d10e73ec511ca0";
+      url = "github:nix-community/home-manager/27a26be51ff0162a8f67660239f9407dba68d7c5";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
@@ -254,17 +254,17 @@
     };
 
     sops-nix = {
-      url = "github:Mic92/sops-nix/61154300d945f0b147b30d24ddcafa159148026a";
+      url = "github:Mic92/sops-nix/3223c7a92724b5d804e9988c6b447a0d09017d48";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     firefox-addons = {
-      url = "gitlab:rycee/nur-expressions/f6dff741f9f485b3596a368704ec171d9eb8c7cd?dir=pkgs/firefox-addons";
+      url = "gitlab:rycee/nur-expressions/2008f9aa7a5ccde48bfc1de5a919be5898da09c2?dir=pkgs/firefox-addons";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     nixgl = {
-      url = "github:nix-community/nixGL/310f8e49a149e4c9ea52f1adf70cdc768ec53f8a";
+      url = "github:nix-community/nixGL/a8e1ce7d49a149ed70df676785b07f63288f53c5";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 

@@ -9,9 +9,9 @@
     core = with pkgs; [
       frogmouth
       glow
-      python312Packages.grip
+      python313Packages.grip
       lowdown
-      python312Packages.md-toc
+      python313Packages.md-toc
       mypkgs.mdtt
     ];
   };

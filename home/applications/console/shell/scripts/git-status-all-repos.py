@@ -7,11 +7,11 @@ FILTER_OUT = {".cache", ".nix-profile", "Code", ".vscode", "hoarded"}
 BAR = 50 * "═"
 
 
-def is_git_repo(candidate_path: Path) -> True:
+def is_git_repo(candidate_path: Path) -> bool:
     return (candidate_path / ".git").exists()
 
 
-def is_nongit_dir(candidate: Path) -> True:
+def is_nongit_dir(candidate: Path) -> bool:
     return candidate.is_dir() and not (candidate / ".git").exists()
 
 
@@ -23,7 +23,9 @@ def list_git_repos(
     directory: Path, to_prepend: set[Path] = set(), recursions: int = 3
 ) -> set[Path]:
     if recursions == 0:
-        return []
+        return set()
+    if not directory.exists():
+        return set()
 
     subdirs = list_full(directory)
     to_prepend.update(set(filter(is_git_repo, subdirs)))

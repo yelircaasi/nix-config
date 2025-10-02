@@ -106,6 +106,7 @@
           editors = ["vscode"];
           browsers = ["qutebrowser" "chromium" "vieb" "nyxt"];
           terminalEmulators = ["wezterm" "termonad"];
+          readers = ["sioyek" "pympress"];
           messagers = ["telegram"];
           sops = true;
           docker = true;
@@ -270,6 +271,17 @@
 
     nix-treesitter = {
       url = "github:ratson/nix-treesitter/d9d35e37a5b2aee2f3f4d14c66e2bf0604dae4ce";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
+
+    quickshell = {
+      # add ?ref=<tag> to track a tag
+      url = "git+https://git.outfoxxed.me/outfoxxed/quickshell";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
+
+    nix-vscode-extensions = {
+      url = "github:nix-community/nix-vscode-extensions/5007786714b3573b37cf3b8c4a33e2ddce86960d";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 

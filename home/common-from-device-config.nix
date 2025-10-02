@@ -46,6 +46,7 @@ in {
       ./applications/gui/communication
       ./applications/gui/dev-tools
       ./applications/gui/media/editing
+      ./applications/gui/miscellaneous
 
       # ./applications/gui/personal-organization
 

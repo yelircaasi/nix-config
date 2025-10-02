@@ -6,6 +6,9 @@
   ...
 }: {
   programs.topgrade = {
+    # TODO::prio1: read through https://github.com/topgrade-rs/topgrade and add config options
+    #     and read https://github.com/nix-community/home-manager/blob/master/modules/programs/topgrade.nix
+    #     https://git.thilo-billerbeck.com/thilobillerbeck/dotfiles/src/commit/47c36181f6f541d5113a32922db68befc6c9dfa4/home-manager/programs/topgrade.nix
     enable = true;
     settings = {
       misc = {

@@ -24,13 +24,14 @@ rgx5 = re.compile(r"/nixpkgs/([^\"]+?)[\";]")
 rgx6 = re.compile(r"/nixpkgs/?\?ref=([^\"]+?)[\";]")
 
 
-def read_hash(path_: Path) -> str:
+def read_hash(path_: Path | str) -> str:
     with open(path_) as f:
         raw = f.read()
     for rgx in [rgx1, rgx2, rgx3, rgx4, rgx5, rgx6]:
         s = re.search(rgx, raw)
         if s:
             return s.group(1)
+    raise ValueError
 
 
 len_ = max(map(len, paths))

@@ -18,11 +18,11 @@ exempt = {
 }
 
 
-def red(s: str) -> None:
+def red(s: str) -> str:
     return f"{RED}{s}{CLEAR}"
 
 
-def blue(s: str) -> None:
+def blue(s: str) -> str:
     return f"{BLUE}{s}{CLEAR}"
 
 
@@ -37,7 +37,7 @@ def list_directory(
             if is_link(os.lstat(abspath).st_mode):
                 print(f"{indent}{abspath} -> {blue(os.readlink(abspath))}")
             else:
-                print(indent + red(abspath))
+                print(indent + red(str(abspath)))
         else:
             junk = str(abspath).endswith(".config") or "nvim-" in str(abspath)
             if not junk:
@@ -45,7 +45,6 @@ def list_directory(
                     list_directory(abspath, top_level=False, indent="")
                 else:
                     print(abspath)
-    # print()
 
 
 list_directory(HOME)

@@ -1,6 +1,22 @@
 {
-    "workbench.colorTheme": "Gruvbox Material Dark",
+    "workbench.colorTheme": "Base16 Dark Apathy",
     "explorer.confirmDragAndDrop": false,
     "security.workspace.trust.untrustedFiles": "open",
-    "window.titleBarStyle": "custom"
+    "window.titleBarStyle": "custom", 
+    "workbench.tree.indent": 16,
+        "github.copilot.enable": {
+            "*": false,
+            "plaintext": false,
+            "markdown": false,
+            "scminput": false
+        },
+        "editor.renderWhitespace": "none",
+        "diffEditor.ignoreTrimWhitespace": false,
+        "files.exclude": {
+            "**/__pycache__": true
+        },
+        "python.analysis.diagnosticMode": "workspace",
+        "python.analysis.languageServerMode": "full",
+        "python.analysis.typeCheckingMode": "basic",
+        "python.analysis.importFormat": "relative"
 }

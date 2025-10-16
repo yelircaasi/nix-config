@@ -18,15 +18,20 @@ end
 if os.getenv("XDG_SESSION_TYPE") == "wayland" then
     config.front_end = "WebGpu"
 end
-config.enable_wayland = false
+config.enable_wayland = true
 
-config.default_prog = { "bash" }
+if os.getenv("OSTYPE") == "linux-gnu" then
+	config.default_prog = { "bash" }
+else
+    config.default_prog = { "zsh" }
+end
 
 -- This is where you actually apply your config choices
 config.hide_tab_bar_if_only_one_tab = true
 config.enable_tab_bar = false
 
 config.font = wezterm.font_with_fallback({
+	"JuliaMono",
 	"FiraCode Nerd Font Mono",
 	"Unifont",
 })

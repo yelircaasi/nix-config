@@ -9,6 +9,7 @@
     enableGhostscriptFonts = false;
     packages = with pkgs; [
       fira-code
+      julia-mono
       nerd-fonts.fira-code
       fira-code-symbols
       # dejavu_fonts
@@ -75,7 +76,7 @@
       enable = true;
       defaultFonts = {
         emoji = ["Noto Color Emoji"];
-        monospace = ["FiraCode Nerd Font Mono"];
+        monospace = ["JuliaMono"]; #["FiraCode Nerd Font Mono"];
         sansSerif = ["DejaVu Sans"];
         serif = ["DejaVu Serif"];
       };

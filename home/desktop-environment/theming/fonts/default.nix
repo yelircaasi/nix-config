@@ -14,6 +14,7 @@
 
     fira-code
     nerd-fonts.fira-code
+    julia-mono
     # fira-code-symbols
     # dejavu_fonts
     # freefont_ttf

@@ -7,7 +7,7 @@
   ...
 }: {
   home.packages = [
-    pkgs.termonad
+    # pkgs.termonad
   ];
   xdg.configFile."termonad/termonad.hs".text = ''
 

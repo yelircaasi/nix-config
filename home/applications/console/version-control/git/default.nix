@@ -19,12 +19,10 @@
       bc
     ];
   };
-  programs.git = {
+  programs.git.settings = {
     enable = true;
     userName = "yelircaasi";
     userEmail = "yelircaasi@proton.me";
-    extraConfig = {
-      init.defaultBranch = "main";
-    };
+    init.defaultBranch = "main";
   };
 }

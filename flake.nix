@@ -233,11 +233,11 @@
 
   inputs = {
     nixpkgs = {
-      url = "github:nixos/nixpkgs/ebe9986fa40cbb64bf36212103e02aad615ba044";
+      url = "github:nixos/nixpkgs/3346f629aab6730bcf42f6e85f56042e5728de13";
     };
 
     home-manager = {
-      url = "github:nix-community/home-manager/27a26be51ff0162a8f67660239f9407dba68d7c5";
+      url = "github:nix-community/home-manager/86ff0ef506c209bb397849706e85cc3a913cb577";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
@@ -248,24 +248,24 @@
 
     # TODO::prio1
     neovim-flake = {
-      url = github:yelircaasi/neovim-flake/df2dc1cc7b1e04a6ec40d9db03fe3ab8745c2fc5;
+      url = github:yelircaasi/neovim-flake/f15c64c721838dd230125f65e4362429f871830a;
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.nix-treesitter.follows = "nix-treesitter";
       # inputs.flake-utils.follows = "flake-utils";
     };
 
     sops-nix = {
-      url = "github:Mic92/sops-nix/3223c7a92724b5d804e9988c6b447a0d09017d48";
+      url = "github:Mic92/sops-nix/c482a1c1bbe030be6688ed7dc84f7213f304f1ec";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     firefox-addons = {
-      url = "gitlab:rycee/nur-expressions/2008f9aa7a5ccde48bfc1de5a919be5898da09c2?dir=pkgs/firefox-addons";
+      url = "gitlab:rycee/nur-expressions/de69b47670b359630d2be0ad4dbcab05554d8fb7?dir=pkgs/firefox-addons";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     nixgl = {
-      url = "github:nix-community/nixGL/a8e1ce7d49a149ed70df676785b07f63288f53c5";
+      url = "github:nix-community/nixGL/b6105297e6f0cd041670c3e8628394d4ee247ed5";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
@@ -281,7 +281,7 @@
     };
 
     nix-vscode-extensions = {
-      url = "github:nix-community/nix-vscode-extensions/5007786714b3573b37cf3b8c4a33e2ddce86960d";
+      url = "github:nix-community/nix-vscode-extensions/134c052c3213dc69ed881e41383b8ed29c5ffe72";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 

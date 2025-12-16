@@ -5,7 +5,7 @@
   ...
 }: {
   home.packages = [
-    pkgs.pde
+    # pkgs.pde
   ];
   # TODO::prio1: add gui pde to application with MIME and icon
   # xdg.configFile = {

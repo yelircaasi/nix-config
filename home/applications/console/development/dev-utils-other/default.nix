@@ -28,7 +28,7 @@
 
       # visualization
       gource
-      mypkgs.tokei-pie
+      # TODO mypkgs.tokei-pie
 
       # release
 

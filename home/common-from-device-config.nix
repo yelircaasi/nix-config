@@ -70,6 +70,8 @@ in {
     (asListFrom deviceConfig.browsers (name: ./applications/gui/browser/${name}))
     (asListFrom deviceConfig.readers (name: ./applications/gui/reader/${name}))
     (asListFrom deviceConfig.editors (name: ./applications/gui/editor-and-ide/${name}))
+
+    (asListIf (builtins.elem "neovim" deviceConfig.editors) ./applications/console/neovim)
   ];
 
   nixpkgs = {

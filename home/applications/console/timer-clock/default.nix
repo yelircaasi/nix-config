@@ -8,7 +8,7 @@
     #TODO::prio2: evaluate set assignments
     core = with pkgs; [
       peaclock
-      haskellPackages.Monadoro
+      # haskellPackages.Monadoro
     ];
     extended = with pkgs; [
       # uair TODO::prio3: BROKEN

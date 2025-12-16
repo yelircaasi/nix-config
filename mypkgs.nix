@@ -433,6 +433,8 @@ in {
   yamlpath = buildPythonPackage rec {
     pname = "yamlpath";
     version = "3.8.2";
+    pyproject = true;
+    build-system = with pkgs.python313Packages; [ setuptools ];
 
     src = fetchFromGitHub {
       owner = "yelircaasi";
@@ -936,6 +938,8 @@ in {
   texel = buildPythonPackage rec {
     pname = "texel";
     version = "0.2.1";
+    pyproject = true;
+    build-system = with pkgs.python313Packages; [ setuptools ];
 
     src = fetchFromGitHub {
       owner = "Lauriat";

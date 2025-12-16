@@ -35,4 +35,28 @@
     tags = [];
     tier = 1;
   };
+  lavender = {
+    imageName = "lavender.jpg";
+    originalName = "...";
+    source = "...";
+    license = "...";
+    description = "...";
+    scaleFactor = null;
+    alignmentFromBottom = 0.5;
+    alignmentFromLeft = 0.5;
+    tags = [];
+    tier = 1;
+  };
+  bridge = {
+    imageName = "bridge.jpg";
+    originalName = "...";
+    source = "...";
+    license = "...";
+    description = "...";
+    scaleFactor = null;
+    alignmentFromBottom = 0.6;
+    alignmentFromLeft = 0.5;
+    tags = [];
+    tier = 1;
+  };
 }

@@ -1,19 +1,48 @@
+{ pkgs, ... }:
+
+let pde = pkgs.symlinkJoin {
+  name = "pde";
+  paths = [ pkgs.neovim ];
+  buildInputs = [ pkgs.makeWrapper ];
+  
+  postBuild = ''
+    wrapProgram $out/bin/nvim \
+      --prefix PATH : ${pkgs.lib.makeBinPath [
+        # Rust tooling
+        pkgs.rust-analyzer
+        pkgs.rustfmt
+        pkgs.clippy
+        
+        # Haskell tooling
+        pkgs.haskell-language-server
+        pkgs.fourmolu
+        pkgs.hlint
+        
+        # Python tooling
+        pkgs.pyright
+        pkgs.ruff
+        pkgs.black
+        pkgs.isort
+        
+        # General utilities
+        pkgs.tree-sitter
+        pkgs.fd
+        pkgs.ripgrep
+      ]}
+
+    ${pkgs.gnused}/bin/sed -i '$s|"\$@"|-u \$HOME/.config/nvim/init.lua "\$@"|' $out/bin/nvim
+
+    # Create pde symlink
+    ln -sf $out/bin/nvim $out/bin/pde
+  '';
+  
+  meta = with pkgs.lib; {
+    description = "Neovim-based PDE with Rust, Haskell, and Python tooling";
+    homepage = "https://neovim.io";
+    license = licenses.asl20;
+    platforms = platforms.unix;
+  };
+}; in
 {
-  inputs,
-  lib,
-  pkgs,
-  g,
-  ...
-}:
-# let
-#   createNeovimHMSet = inherit (import ./neovim-helpers {inherit inputs lib pkgs g;}) createNeovimHMSet;
-#   # mergeAttrs = attrs: lib.foldl' (acc: x: acc // x) {} attrs;
-# in (createNeovimHMSet nvimConfig)
-let
-  neovimConfig = lib.attrsets.recursiveUpdate (import ./default-declaration.nix) (import ./declaration.nix);
-  neovimHMPre = import ./neovim-helpers.nix {inherit inputs pkgs lib neovimConfig g;};
-in {
-  home.packages = neovimHMPre.otherPackages;
-  programs.neovim = neovimHMPre.neovimSet;
-  xdg.configFile = neovimHMPre.xdgConfig;
+  home.packages = [pde];
 }

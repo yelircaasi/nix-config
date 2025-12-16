@@ -30,6 +30,6 @@ in
       julia = "${pkgs.julia}/bin/julia";
     };
     extended = {
-      raku = "${pkgs.raku}/bin/raku";
+      raku = "${pkgs.rakudo}/bin/rakudo";
     };
   }

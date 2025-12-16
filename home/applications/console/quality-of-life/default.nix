@@ -13,7 +13,7 @@
       mypkgs.tinycare-tui
 
       # help
-      thefuck
+      pay-respects
 
       handlr-regex
       nix-prefetch-github

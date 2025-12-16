@@ -97,9 +97,9 @@ in {
       }
       rounding=5
 
-      active_opacity = 0.9
-      fullscreen_opacity = 0.9
-      inactive_opacity = 0.8
+      active_opacity = 0.96
+      fullscreen_opacity = 0.98
+      inactive_opacity = 0.93
 
     }
 

@@ -9,7 +9,7 @@
     core = with pkgs; [
       yamllint
       yq
-      mypkgs.yamlpath # supplies: eyaml-rotate-keys, yaml-diff, yaml-get, yaml-merge, yaml-paths, yaml-set, yaml-validate
+      # TODO mypkgs.yamlpath # supplies: eyaml-rotate-keys, yaml-diff, yaml-get, yaml-merge, yaml-paths, yaml-set, yaml-validate
     ];
   };
 

@@ -73,7 +73,7 @@
 
         prompt = "ohmyposh";
 
-        wallpaper = "hohenlohe";
+        wallpaper = "white-sage";
         monitorSetups = [];
         compositors = ["hyprland"]; # "sway" "swayfx"];
         desktopShell = {
@@ -116,9 +116,16 @@
         // {
           name = "betsy";
           description = "Personal laptop. Tuxedo Aura 15";
-          consoleSet = "maximal";
-          monitorSetups = ["betsy-home-3"];
+          consoleSet = "minimal";
           sops = true;
+          wallpaper = "lavender";
+          monitorSetups = ["betsy-home-3" "betsy-1"];
+          editors = ["vscode" "neovim"];
+          browsers = ["qutebrowser" "chromium" "vieb" "nyxt"];
+          terminalEmulators = ["wezterm" "termonad"];
+          readers = ["sioyek" "pympress"];
+          messagers = ["telegram"];
+          docker = true;
         };
       hank =
         defaultDeclarationGui

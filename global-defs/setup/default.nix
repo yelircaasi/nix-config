@@ -7,6 +7,10 @@ in {
       aliases = {hyprland = "hhome";};
       monitors = with monitors; [betsy homeLeft homeRight];
     };
+    betsy-1 = {
+      aliases = {hyprland = "h";};
+      monitors = with monitors; [betsy];
+    };
     olivia-work1-3 = {
       aliases = {hyprland = "hwork";};
       monitors = with monitors; [olivia work1Samsung work1Dell];

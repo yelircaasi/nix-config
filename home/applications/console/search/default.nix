@@ -12,7 +12,7 @@
         ./ack
         ./ast-grep
         ./fd
-        ./frawk
+        # TODO ./frawk
         ./fselect
         ./fzf
         ./ripgrep-etc

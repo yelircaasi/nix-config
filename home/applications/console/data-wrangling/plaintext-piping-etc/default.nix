@@ -8,7 +8,7 @@
   home.packages = g.selectViaConsoleSet deviceConfig {
     core = with pkgs; [
       each
-      mypkgs.zet
+      # mypkgs.zet
       huniq
 
       # alignment

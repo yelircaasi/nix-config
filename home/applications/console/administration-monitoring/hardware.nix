@@ -10,4 +10,5 @@
       # dmidecode  TODO::priority::2
     ];
   };
+  # TODO: CONFIG FOR dmidecode
 }

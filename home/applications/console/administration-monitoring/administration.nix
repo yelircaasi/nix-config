@@ -10,4 +10,5 @@
     core = with pkgs; [conky glances];
     extended = [pkgs.gotop];
   };
+  # TODO: CONFIG FOR btop, conky, glances, gotop
 }

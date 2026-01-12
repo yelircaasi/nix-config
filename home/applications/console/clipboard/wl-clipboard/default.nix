@@ -8,4 +8,5 @@
     # wl-clipboard
     wl-clipboard-rs
   ];
+  # TODO: CONFIG FOR wl-clipboard
 }

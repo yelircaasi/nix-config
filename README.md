@@ -84,6 +84,21 @@ Coming soon...
 
 ## Roadmap
 - [x] get colors and keybindings working just enough to successfully run nrs and hm
+
+
+- [ ] `{0.9999}` `[other]`  create dev flake for julia
+
+- [ ] `{0.9999}` `[other]`  figure out how to configure vscode using nixos
+
+- [x] `{0.9999}` `[other]` define wezterm keybindings enough to have a comfortable workflow
+
+- [ ] `{0.9999}` `[other]` make special extra keyboard layer, accessible via space bar, to include most frequent non-letter characters (numbers to his layer, special keys to numbers)
+
+- [ ] `{0.9999}` `[other]` distinguish between physical and semantic keys in global-defs/keybindings and in kanata config
+
+- [ ] `{0.9999}` `[other]` set up g.key
+
+- [ ] `{0.9999}` `[other]` set up g.color
 - [ ] move all hardware-configuration-XXX.nix files into one and select device with deviceConfig
 - [ ] get nvim to build after refactoring
 - [ ] fix colors in gtk css files

@@ -83,8 +83,143 @@ Having things organized this way means that it is easier to get a sense, at a gl
 Coming soon...
 
 ## Roadmap
+
+- [ ] `{0.999}` `[nvim]` `vim.keymap.set("x", "p", [["_dP]])`
+
+- [ ] `{0.9999}` `[nvim]` extract neovim config as a flake: see README in neovim directory of nix-config
+
+- [ ] `{0.9999}` `[nvim]`  manage non-nix nvim config with GNU Stow & back up on Github -> first set up git SSH on Ahab
+
+- [ ] `{0.9999}` `[other]`  :work,dm ___ collect and read all references to MCP on inovex confluence
+
+- [ ] `{0.9999}` `[other]`  :work,inovex ___ collect key articles on MCP
+
+- [ ] `{0.9999}` `[other]`  :work,inovex ___ write rough brain-dump draft of blog post
+
+- [ ] `{0.9999}` `[other]`  set up mirroring on Gitlab
+
+- [ ] `{0.9999}` `[other]` make colorcritic and keycritic idempotent wrt colors.json and keybinds.json; specify file schemata (perhaps using pydantic)
+
+- [ ] `{0.9999}` `[other]` add ipython wezterm function to home manager config
+
+- [ ] `{0.9999}` `[other]`   add "transpiled" to proglang plot (typescript, teal, purescript) -> is there evidence that TypeScript generally performs better, on average, than average human-written JavaScript?
+
+- [ ] `{0.9999}` `[config]` add scripts to nix-config to back up nvim and other relevant dotfiles to separate nix directories (for already-instantiated dotfiles and config info)
+
+- [ ] `{0.9999}` `[other]` Handle
+
+        Discussion:
+
+        > If we grant that oryzotropheo means in Ancient Greek "I make rice", what would be the related term for "rice maker" or "one who makes rice"? Give the Ancient Greek spelling as well.
+
+        If we assume that "oryzotropheo" (ὀρυζοτροφέω) means "I make rice" in Ancient Greek, the related term for "rice maker" or "one who makes rice" would likely be formed as:
+        
+        ὀρυζοτροφεύς (oryzotropheús)This follows a common pattern in Ancient Greek where verbs ending in -έω can have a corresponding agent noun in -εύς to indicate someone who performs the action.
+
+        > How would I render "key commander" or "keeper of the keys in Ancient Greek? A single word is preferable.
+
+        For "key commander" or "keeper of the keys," a suitable Ancient Greek term could be:κλειδοῦχος (kleidoukhos)This term combines κλεῖς (kleis, "key") and the suffix -οῦχος (-oukhos, "holder" or "keeper"), commonly used to indicate someone in possession or in charge of something. "Kleidoukhos" would convey the meaning of "keeper of the keys" or "key bearer" in a single word.4o
+
+        > How about in Latin?
+
+        In Latin, a suitable term for "keeper of the keys" or "key commander" would be:
+        
+        claviger
+        This combines clavis (meaning "key") and the suffix -ger (from gero, meaning "to bear" or "carry"), commonly used for individuals who bear or carry something specific. "Claviger" thus conveys "bearer of the keys" or "key keeper" succinctly in a single word.
+
+        > Suggest cool Ancient Greek or Latin words related to creating, managing tuning, or harmonizing the keys of a keyboard or computer.
+
+        ChatGPT said:Here are some intriguing Ancient Greek and Latin terms that can evoke the concept of creating, managing, tuning, or harmonizing keys, with a modern twist for applications like keyboards or computers:
+        
+        Ancient Greek
+        
+        ἁρμονία (harmonia) – Harmony
+        Refers to harmony or fitting together, which could apply to aligning or tuning keys, or creating a balanced system.
+        
+        συμφωνία (symphonia) – Consonance, Agreement
+        Originally meaning harmony of sounds, it could extend to imply coherence or unity in the arrangement or functioning of keys.
+        
+        κλειδοποιός (kleidopoios) – Key Maker
+        This term uses κλεῖς (kleis, "key") + ποιός (poios, "maker") to suggest someone who creates or configures keys.
+        
+        κλειδοτέχνης (kleidotechnes) – Master of Keys
+        This combines κλεῖς (kleis, "key") with τέχνη (techne, "craft" or "art") to mean someone skilled in the art or craft of keys, perhaps an expert at configuring or tuning keys.
+        
+        συγκατάθεσις (synkatathesis) – Synchronization, Agreement
+        From συν- (syn, "together") and κατάθεσις (katathesis, "placing, arranging"), this suggests coordinating elements, which could apply to key mapping or harmonizing inputs.
+        
+        Latin
+        
+        Modulator – Tuner, Regulator
+        Derived from modulor (to measure or regulate), this could be used for one who "tunes" or configures, ideal for someone managing key bindings or harmonizing functionality.
+        
+        Claviator – Key Creator
+        A modern blend of clavis (key) + -ator (suffix for an agent), conveying the sense of a "key-maker" or one who creates keyboard shortcuts or key mappings.
+        
+        Harmonicus – Of Harmony
+        While it directly means "harmonic," it implies alignment and can apply to the harmonious arrangement or tuning of a keyboard layout.
+        
+        Concordator – Unifier, Harmonizer
+        From concordia (agreement, harmony), this could represent a unifier of keys, or someone responsible for arranging them harmoniously.
+        
+        Tonator – Tuner
+        Derived from tonus (tone), this term can mean one who tunes or sets tones, adapted to suggest a "key tuner" or someone who adjusts settings for optimal keyboard functionality.
+        
+        Each of these terms can evoke a sense of artistry, precision, or mastery over keys, making them fitting for anyone engaged in fine-tuning or crafting digital input systems.4o
+
+        > Is it a stretch to use kleis to refer to the keys of a computer?
+
+        Not at all! Using κλεῖς (kleis) to refer to the "keys" of a computer would actually be quite fitting and has a solid linguistic precedent. In Ancient Greek, κλεῖς primarily meant "key" in the sense of a tool used to unlock or secure, but it also carried a more general sense of a mechanism or critical element that controls access or function. This concept translates well to the modern understanding of "keys" on a computer keyboard, as each key acts as an access point or activator for specific functions.Languages throughout history have often adapted existing terms for newer technologies based on similar functions or analogies. In fact, Greek has evolved in the modern era to use πλήκτρον (plēktron) for computer keys, but κλεῖς would still feel natural and classic, maintaining a sense of continuity with Ancient Greek.So, using κλεῖς for computer keys wouldn't be a stretch at all—it would actually give your usage a classical and philosophically resonant depth!4o
+
+        Thanks for the great suggestions. Now do the same for "one who creates, tunes, or harmonizes colors and color palettes"
+
+        Certainly! Here are some creative Ancient Greek and Latin terms that could capture the essence of a "creator, tuner, or harmonizer of colors and palettes." These terms combine ideas of artistry, harmony, and precision in managing or creating colors.
+
+        Ancient Greek 
+        
+        χρωματουργός (chromatourgos) – Color Maker or Color Worker
+        Derived from χρῶμα (chroma, "color") and -ουργός (-ourgos, "worker" or "creator"), this term could suggest someone skilled in creating or manipulating colors.
+
+        χρωματοτέχνης (chromatotechnes) – Master of Colors
+        Combining χρῶμα (chroma, "color") and τέχνη (techne, "art" or "craft"), this term implies someone with a high level of expertise in the craft of color, making it perfect for a color harmonizer or palette designer.
+        
+        ἁρμονιοχρωματικός (harmoniochromatikos) – One Who Harmonizes Colors
+        From ἁρμονία (harmonia, "harmony") and χρῶμα (chroma, "color"), this could suggest a specialist in balancing or harmonizing color palettes.χρωματοσυνθέτης (chromatosynthetēs) – Color Composer
+        Combining χρῶμα (chroma, "color") with σύνθεσις (synthesis, "composition" or "putting together"), this term would be fitting for someone who composes or arranges color schemes.
+        
+        ποικιλοπλόκος (poikiloplochos) – Weaver of Colors or Patterns
+        From ποικίλος (poikilos, "varied" or "colorful") and πλόκος (plokos, "weaving" or "braiding"), this poetic term implies one who skillfully combines colors in intricate or pleasing arrangements.
+        
+        Latin
+        Colorator – Colorist or Color Creator
+        Derived from color (color) and the suffix -ator (one who does or creates), this term directly implies someone who makes or manages colors, suitable for a palette creator.
+        
+        Colorator Harmonicus – Harmonizer of Colors
+        Adding harmonicus (harmonic) to colorator gives the sense of someone who not only creates but also harmonizes colors in balanced and appealing ways.
+        
+        Pigmentarius – Color Mixer or Pigment Specialist
+        Based on pigmentum (pigment or color), pigmentarius could imply a skilled mixer or arranger of colors, evoking the role of a palette creator.
+        
+        Tincturator – One Who Blends or Tints
+        Derived from tingo (to dye or color), this term suggests someone skilled in blending or adjusting colors, as in creating subtle shifts in palettes.
+        
+        Concolorator – Unifier of Colors
+        From con- (together) + color, this term implies someone who brings colors together in harmony, ideal for a role focused on blending or balancing hues in a palette.
+        
+        Each of these terms would add an air of artistry and depth to the role of a color creator, with a touch of ancient sophistication—perfect for a modern designer working with color in a thoughtful and skillful way.
+
+- [ ] `{0.93}` `[nvim]` Become intimately familiar with the structure of lua plugins in neovim
+    - [ ] [`neovim.io/doc/user`](`https://neovim.io/doc/user`)
+    - [ ] read [neovim.io/doc/user/develop.html](https://neovim.io/doc/user/develop.html)
+    - [ ] skim [neovim wiki for developers](https://github.com/neovim/neovim/wiki#developers)
+    - [ ] browse [sourcegraph.com/github.com/neovim/neovim](https://sourcegraph.com/github.com/neovim/neovim)
+    - [ ] pick 6 interesting plugins and review their code
+
 - [x] get colors and keybindings working just enough to successfully run nrs and hm
 
+- [ ] `{0.9999}` `[other]` add Lua and Golang copies of colorcritic and keycritic (and move to rosetta-projects)
+
+- [ ] `{0.9999}` `[other]` Need to make fun little color module to calculate shades with given (typically slight) contrast to another color
 
 - [ ] `{0.9999}` `[other]`  create dev flake for julia
 

@@ -103,7 +103,7 @@
           consoleSet = "minimal";
           guiSet = "minimal";
           monitorSetups = ["olivia-work1-3" "olivia-work2-3" "olivia-work3-3" "olivia-home-3"];
-          editors = ["vscode"];
+          editors = ["vscode" "neovim"];
           browsers = ["qutebrowser" "chromium" "vieb" "nyxt"];
           terminalEmulators = ["wezterm" "termonad"];
           readers = ["sioyek" "pympress"];

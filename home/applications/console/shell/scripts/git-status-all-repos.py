@@ -5,6 +5,7 @@ from pathlib import Path
 
 FILTER_OUT = {".cache", ".nix-profile", "Code", ".vscode", "hoarded"}
 BAR = 50 * "═"
+CLEAN: list[Path] = []
 
 
 def is_git_repo(candidate_path: Path) -> bool:
@@ -41,7 +42,7 @@ def list_git_repos(
     return to_prepend
 
 
-def show_git_status(d: Path) -> None:
+def show_git_status_or_pull(d: Path) -> None:
 
     os.chdir(d)
     assert os.getcwd() == str(d), f"{os.getcwd()} != {str(d)}"
@@ -59,6 +60,8 @@ def show_git_status(d: Path) -> None:
         print(str(d))
         print(BAR)
         print(result)
+    else:
+        CLEAN.append(d)
 
 
 if __name__ == "__main__":
@@ -72,4 +75,6 @@ if __name__ == "__main__":
     for gd in sorted(git_dirs):
         if gd.is_symlink():
             continue
-        show_git_status(gd)
+        show_git_status_or_pull(gd)
+
+    print(f"{BAR}\nCLEAN\n{BAR}\n  {'\n  '.join(sorted(map(str, CLEAN)))}")

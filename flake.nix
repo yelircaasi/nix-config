@@ -248,10 +248,10 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
-    # neovim-nightly-overlay = {
-    #   url = "github:nix-community/neovim-nightly-overlay/b969e3c7bfcb7a438382dd6e379788f762094df5";
-    #   inputs.nixpkgs.follows = "nixpkgs";
-    # };
+    neovim-nightly-overlay = {
+      url = "github:nix-community/neovim-nightly-overlay/1cd999cdf20536ac6a6d1aa17ba0242eefd2312b";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
 
     # TODO::prio1
     neovim-flake = {

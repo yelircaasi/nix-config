@@ -52,17 +52,18 @@
   myTreesitter = pkgs.vimPlugins.nvim-treesitter.withAllGrammars;
 
   myPlugins = with pkgs.vimPlugins; let
-    markit-nvim = pkgs.vimUtils.buildVimPlugin {
-      pname = "markit.nvim";
-      version = "2025-10-09";
-      src = pkgs.fetchFromGitHub {
-        owner = "2KAbhishek";
-        repo = "markit.nvim";
-        rev = "c716195d5b0b21ef03a20a1facc46d33ca9f7c49";
-        sha256 = "sha256-FxdbKmxrhwXWBzjPve07oqBCv3lp++YwZJPuLfaFOIU=";
-      };
-      meta.homepage = "https://github.com/2KAbhishek/markit.nvim";
-    };
+    # TODO: checks fail
+    # markit-nvim = pkgs.vimUtils.buildVimPlugin {
+    #   pname = "markit.nvim";
+    #   version = "2025-10-09";
+    #   src = pkgs.fetchFromGitHub {
+    #     owner = "2KAbhishek";
+    #     repo = "markit.nvim";
+    #     rev = "c716195d5b0b21ef03a20a1facc46d33ca9f7c49";
+    #     sha256 = "sha256-RY4pFO3HDIaiTADE5T9jb+3X7KVHAFw3cT8wmAYz7KU=";
+    #   };
+    #   meta.homepage = "https://github.com/2KAbhishek/markit.nvim";
+    # };
     pickme-nvim = pkgs.vimUtils.buildVimPlugin {
       pname = "pickme.nvim";
       version = "2025-12-24";
@@ -73,6 +74,17 @@
         sha256 = "sha256-FxdbKmxrhwXWBzjPve07oqBCv3lp++YwZJPuLfaFOIU=";
       };
       meta.homepage = "https://github.com/2KAbhishek/pickme.nvim";
+    };
+    nvim-treesitter-textobjects-nightly = pkgs.vimUtils.buildVimPlugin {
+      pname = "nvim-treesitter-textobjects";
+      version = "2026-01-28";
+      src = pkgs.fetchFromGitHub {
+        owner = "nvim-treesitter";
+        repo = "nvim-treesitter-textobjects";
+        rev = "a0e182ae21fda68c59d1f36c9ed45600aef50311";
+        sha256 = "sha256-J3D+nbalJqZ4aeFBD7veW6TuI0BEU2jbx5pMEew4dkA=";
+      };
+      meta.homepage = "https://github.com/nvim-treesitter/nvim-treesitter-textobjects";
     };
   in [
     oil-nvim
@@ -101,11 +113,19 @@
     telescope-nvim
     plenary-nvim
     diffview-nvim
-    markit-nvim
+    # markit-nvim
+    marks-nvim
     pickme-nvim
-    nvim-treesitter-textobjects
+    nvim-treesitter-textobjects-nightly
     neotest
     vim-visual-multi
+    nvim-nio
+
+    friendly-snippets
+    telescope-fzf-native-nvim
+    snacks-nvim
+    neotest-python
+    neotest-haskell
 
     # nvim-lualine/lualine.nvim,
     # monaqa/dial.nvim,

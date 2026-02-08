@@ -110,6 +110,12 @@
           messagers = ["telegram"];
           sops = true;
           docker = true;
+          desktopShell = {
+          launcher = "fuzzel";
+          logoutManager = "wlogout";
+          notificationDaemon = "mako";
+          widgetTools = ["quickshell"];
+        };
         };
       betsy =
         defaultDeclarationGui

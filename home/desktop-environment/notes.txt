@@ -1,0 +1,182 @@
+default.nix
+elements/
+    wlogout/
+    rofi-wayland/
+
+    
+desktop-shells/
+    hyprland-ambxst
+    hyprland-caelestia
+    hyprland-noctalia
+    hyprland-exo
+    htprland-dank-material
+    hyprland-nucleus
+    hyprland-illogical-impulse
+    hyprland-waybar
+    hyprland-modus
+    hyprland-minimal
+    hyprland-okpanel
+
+    hyprland-quickshell-custom
+    hyprland-astal-custom
+    hyprland-ignis-custom
+    hyprland-fabric-custom
+
+    niri-ambxst
+    niri-noctalia
+    niri-exo
+    niri-inir
+    niri-dank-material
+    hyprland-nucleus
+    niri-waybar
+    niri-minimal
+
+    niri-quickshell-custom
+    niri-astal-custom
+    niri-ignis-custom
+    niri-fabric-custom
+
+    somewm
+
+    mahogany
+
+    mangowc-dank-material
+    mangowc-ambxst
+
+    labwc-dank-material
+
+    dwl-custom
+    dwl-dank-material
+
+    sway-dank-material
+    sway-noctalia
+
+    sway-quickshell-custom
+    sway-astal-custom
+    sway-ignis-custom
+    sway-fabric-custom
+
+    hyprland-ax
+    hyprland-caelestia
+    hyprland-noctalia
+    hyprland-exo
+    htprland-dank-material
+    hyprland-nucleus
+    hyprland-waybar
+    hyprland-modus
+    hyprland-minimal
+
+
+------------------------
+https://codeberg.org/domsch1988/awesome_shells
+------------------------
+
+.
+├── _OLD
+│   ├── cosmic-de.nix
+│   ├── dwl.nix
+│   ├── hyprland.nix
+│   ├── old-x11
+│   │   ├── compositor
+│   │   │   └── picom
+│   │   │       ├── config
+│   │   │       └── default.nix
+│   │   └── wallpaper
+│   │       └── nitrogen
+│   │           ├── bg-saved.cfg
+│   │           └── default.nix
+│   ├── qtile.nix
+│   ├── riverwm.nix
+│   ├── sway.nix
+│   ├── swayfx.nix
+│   └── wayfire.nix
+├── compositors
+│   ├── default.nix
+│   ├── hyprland
+│   │   ├── _basic-binds.nix
+│   │   ├── _default.nix
+│   │   ├── _hyprbars.nix
+│   │   ├── _old.nix
+│   │   ├── default.nix
+│   │   ├── helpers.nix
+│   │   ├── images
+│   │   │   ├── blitz.jpg
+│   │   │   └── river.jpg
+│   │   ├── notes.md
+│   │   └── wallpapers
+│   │       ├── default.nix
+│   │       ├── image-config.nix
+│   │       ├── images.json
+│   │       ├── images
+│   │       │   ├── bridge.jpg
+│   │       │   ├── hohenlohe.jpg
+│   │       │   ├── lavender.jpg
+│   │       │   ├── mountains-tritone.jpg
+│   │       │   └── white-sage.jpg
+│   │       ├── prepare_wallpapers copy.py
+│   │       ├── prepare_wallpapers.py
+│   │       └── setups.json
+│   └── null
+│       └── default.nix
+├── default.nix
+├── desktop-constructor.nix
+├── flatpak
+│   ├── default.nix
+│   ├── manual-install.sh
+│   └── overrides
+│       ├── com.brave.Browser
+│       ├── com.github.Eloston.UngoogledChromium
+│       ├── com.vscodium.codium
+│       ├── global
+│       ├── org.chromium.Chromium
+│       └── org.wezfurlong.wezterm
+├── launcher
+│   ├── fuzzel
+│   │   └── default.nix
+│   ├── null
+│   │   └── default.nix
+│   └── wofi
+│       └── default.nix
+├── logout-manager
+│   ├── null
+│   │   └── default.nix
+│   └── wlogout
+│       ├── default.nix
+│       ├── icons
+│       │   ├── hibernate.png
+│       │   ├── lock.png
+│       │   ├── logout.png
+│       │   ├── reboot.png
+│       │   ├── shutdown.png
+│       │   └── suspend.png
+│       └── style.css
+├── theming
+│   ├── fonts
+│   │   └── default.nix
+│   ├── gtk
+│   │   ├── default copy.nix
+│   │   ├── default.nix
+│   │   ├── gtk3-OLD.css
+│   │   ├── gtk3-minimal.css
+│   │   ├── gtk3-other.css
+│   │   ├── gtk3.css
+│   │   ├── gtk4-OLD.css
+│   │   ├── gtk4-minimal.css
+│   │   ├── gtk4-other.css
+│   │   ├── gtk4.css
+│   │   └── scratch.css
+│   ├── icons
+│   │   └── default.nix
+│   └── qt
+│       └── default.nix
+└── widgets
+    ├── ags
+    │   └── default.nix
+    ├── eww
+    │   └── default.nix
+    ├── notifications
+    │   ├── mako.nix
+    │   └── null.nix
+    └── waybar
+        ├── default.nix
+        └── waybar.css

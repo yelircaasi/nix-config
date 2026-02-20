@@ -38,7 +38,8 @@ desktop-shells/
 
     somewm
 
-    mahogany
+    mahogany (TODO)
+    river (TODO: has a number of window managers -> write one like vxwm)
 
     mangowc-dank-material
     mangowc-ambxst
@@ -55,6 +56,15 @@ desktop-shells/
     sway-astal-custom
     sway-ignis-custom
     sway-fabric-custom
+
+    swayfx-dank-material
+    swayfx-noctalia
+
+    swayfx-quickshell-custom
+    swayfx-astal-custom
+    swayfx-ignis-custom
+    swayfx-fabric-custom
+
 
     hyprland-ax
     hyprland-caelestia

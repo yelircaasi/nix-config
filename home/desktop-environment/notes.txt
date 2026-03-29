@@ -17,6 +17,8 @@ desktop-shells/
     hyprland-minimal
     hyprland-okpanel
 
+    somewm
+
     hyprland-quickshell-custom
     hyprland-astal-custom
     hyprland-ignis-custom

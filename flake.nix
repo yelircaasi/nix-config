@@ -246,7 +246,7 @@
 
   inputs = {
     nixpkgs = {
-      url = "github:nixos/nixpkgs/3346f629aab6730bcf42f6e85f56042e5728de13";
+      url = "github:nixos/nixpkgs/91849ded6ed12d309e6697bea17e0bda5fdc7ad3";
     };
 
     home-manager = {
@@ -265,6 +265,16 @@
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.nix-treesitter.follows = "nix-treesitter";
       # inputs.flake-utils.follows = "flake-utils";
+    };
+
+    # neovim-plugins = {
+    #   url = "github:trip-zip/somewm/cb0b8e47125f3f167610f335ec8ce12b6d52d8fd";
+    #   inputs.nixpkgs.follows = "nixpkgs";
+    # };
+
+    somewm = {
+      url = "github:trip-zip/somewm/cb0b8e47125f3f167610f335ec8ce12b6d52d8fd";
+      inputs.nixpkgs.follows = "nixpkgs";
     };
 
     sops-nix = {

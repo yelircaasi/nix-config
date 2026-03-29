@@ -6,8 +6,8 @@
     fetchFromGitHub
     fetchFromGitLab
     fetchFromSourcehut
-    buildGoModule
     buildNimPackage
+    buildGoModule
     buildNpmPackage
     ;
 

@@ -111,11 +111,11 @@
           sops = true;
           docker = true;
           desktopShell = {
-          launcher = "fuzzel";
-          logoutManager = "wlogout";
-          notificationDaemon = "mako";
-          widgetTools = ["quickshell"];
-        };
+            launcher = "fuzzel";
+            logoutManager = "wlogout";
+            notificationDaemon = "mako";
+            widgetTools = ["quickshell"];
+          };
         };
       betsy =
         defaultDeclarationGui
@@ -250,12 +250,12 @@
     };
 
     home-manager = {
-      url = "github:nix-community/home-manager/86ff0ef506c209bb397849706e85cc3a913cb577";
+      url = "github:nix-community/home-manager/769e07ef8f4cf7b1ec3b96ef015abec9bc6b1e2a";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     neovim-nightly-overlay = {
-      url = "github:nix-community/neovim-nightly-overlay/1cd999cdf20536ac6a6d1aa17ba0242eefd2312b";
+      url = "github:nix-community/neovim-nightly-overlay/7966a9c203276bea3b7e8dd2e125fd2b4c8b6753";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
@@ -278,7 +278,7 @@
     };
 
     sops-nix = {
-      url = "github:Mic92/sops-nix/c482a1c1bbe030be6688ed7dc84f7213f304f1ec";
+      url = "github:Mic92/sops-nix/8adb84861fe70e131d44e1e33c426a51e2e0bfa5";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 

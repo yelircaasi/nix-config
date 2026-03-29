@@ -12,7 +12,7 @@
       jot
       zk
       # emanote  TODO::prio2: fix
-      eureka-ideas
+      # eureka-ideas  TODO::prio2
       kb # TODO::prio2: debug
       # mypkgs.diary # TODO::prio2: needs work
 

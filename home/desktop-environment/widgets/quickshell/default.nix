@@ -3,9 +3,8 @@
   pkgs,
   g,
   ...
-}: 
-{
-programs.quickshell = {
+}: {
+  programs.quickshell = {
     package = pkgs.symlinkJoin {
       name = "quickshell-wrapped";
       paths = [
@@ -25,15 +24,12 @@ programs.quickshell = {
 # https://quickshell.org/docs/v0.2.1/guide/introduction/
 # https://quickshell.org/docs/v0.2.1/guide/qml-language
 # https://quickshell.org/docs/v0.2.1/types/
-
 # {
 #   imports = [];
-
 #   home.packages = with pkgs; [
 #     waybar
 #     font-awesome
 #   ];
-
 #   programs.quickshell = {
 #     enable = true;
 #     configs = {
@@ -43,9 +39,8 @@ programs.quickshell = {
 #     systemd.enable = false;
 #   };
 # }
-
 # reference: https://github.com/tripathiji1312/quickshell
-
 # environment.systemPackages = with pkgs; [
 #     quickshell
 #   ];
+

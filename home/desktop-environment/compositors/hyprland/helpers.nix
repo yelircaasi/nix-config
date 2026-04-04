@@ -103,9 +103,13 @@ in {
 
     }
 
-    windowrulev2 = opacity 1.0, class:^(Hyprlock)$
-    windowrulev2 = noanim, class:^(Hyprlock)$
-    windowrulev2 = nofocus, class:^(Hyprlock)$
+    windowrule {
+      name = windowrule-1
+      opacity = 1.0
+      no_anim = on
+      no_focus = on
+      match:class = ^(Hyprlock)$
+    }
 
     dwindle {
       preserve_split=true

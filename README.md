@@ -307,3 +307,28 @@ Coming soon...
 
 
 https://ytmdesktop.app/
+
+
+
+## TODO
+
+evaluation warning: `programs.sioyek.config.startup_commands` should now be a list of strings instead of a string.
+evaluation warning: The default value of `gtk.gtk4.theme` has changed from `config.gtk.theme` to `null`.
+                    You are currently using the legacy default (`config.gtk.theme`) because `home.stateVersion` is less than "26.05".
+                    To silence this warning and keep legacy behavior, set:
+                      gtk.gtk4.theme = config.gtk.theme;
+                    To adopt the new default behavior, set:
+                      gtk.gtk4.theme = null;
+evaluation warning: 'system' has been renamed to/replaced by 'stdenv.hostPlatform.system'
+evaluation warning: The default value of `xdg.userDirs.setSessionVariables` has changed from `true` to `false`.
+                    You are currently using the legacy default (`true`) because `home.stateVersion` is less than "26.05".
+                    To silence this warning and keep legacy behavior, set:
+                      xdg.userDirs.setSessionVariables = true;
+                    To adopt the new default behavior, set:
+                      xdg.userDirs.setSessionVariables = false;
+evaluation warning: The default value of `programs.yazi.shellWrapperName` has changed from `"yy"` to `"y"`.
+                    You are currently using the legacy default (`"yy"`) because `home.stateVersion` is less than "26.05".
+                    To silence this warning and keep legacy behavior, set:
+                      programs.yazi.shellWrapperName = "yy";
+                    To adopt the new default behavior, set:
+                      programs.yazi.shellWrapperName = "y";

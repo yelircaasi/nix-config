@@ -1,0 +1,7 @@
+{
+  inputs,
+  pkgs,
+  g,
+  deviceConfig,
+  ...
+}: {}

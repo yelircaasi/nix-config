@@ -5,78 +5,12 @@ elements/
 
     
 desktop-shells/
-    hyprland-ambxst
-    hyprland-caelestia
-    hyprland-noctalia
-    hyprland-exo
-    htprland-dank-material
-    hyprland-nucleus
-    hyprland-illogical-impulse
-    hyprland-waybar
-    hyprland-modus
-    hyprland-minimal
-    hyprland-okpanel
 
-    somewm
-
-    hyprland-quickshell-custom
-    hyprland-astal-custom
-    hyprland-ignis-custom
-    hyprland-fabric-custom
-
-    niri-ambxst
-    niri-noctalia
-    niri-exo
-    niri-inir
-    niri-dank-material
-    hyprland-nucleus
-    niri-waybar
-    niri-minimal
-
-    niri-quickshell-custom
-    niri-astal-custom
-    niri-ignis-custom
-    niri-fabric-custom
-
-    somewm
-
-    mahogany (TODO)
-    river (TODO: has a number of window managers -> write one like vxwm)
-
-    mangowc-dank-material
-    mangowc-ambxst
-
-    labwc-dank-material
-
-    dwl-custom
-    dwl-dank-material
-
-    sway-dank-material
-    sway-noctalia
-
-    sway-quickshell-custom
-    sway-astal-custom
-    sway-ignis-custom
-    sway-fabric-custom
-
-    swayfx-dank-material
-    swayfx-noctalia
-
-    swayfx-quickshell-custom
-    swayfx-astal-custom
-    swayfx-ignis-custom
-    swayfx-fabric-custom
-
-
-    hyprland-ax
-    hyprland-caelestia
-    hyprland-noctalia
-    hyprland-exo
-    htprland-dank-material
-    hyprland-nucleus
-    hyprland-waybar
-    hyprland-modus
-    hyprland-minimal
+ mahogany (TODO)
+ mangowc-ambxst.nix mangowc-dank-material.nix niri-ambxst.nix niri-astal-custom.nix niri-dank-material.nix niri-exo.nix niri-fabric-custom.nix niri-ignis-custom.nix niri-inir.nix niri-minimal.nix niri-noctalia.nix niri-quickshell-custom.nix niri-waybar.nix
+ 
+river (TODO: has a number of window managers -> write one like vxwm)
+ somewm.nix somewm.nix sway-astal-custom.nix sway-dank-material.nix sway-fabric-custom.nix sway-ignis-custom.nix sway-noctalia.nix sway-quickshell-custom.nix swayfx-astal-custom.nix swayfx-dank-material.nix swayfx-fabric-custom.nix swayfx-ignis-custom.nix swayfx-noctalia.nix swayfx-quickshell-custom.nix
 
 
 ------------------------

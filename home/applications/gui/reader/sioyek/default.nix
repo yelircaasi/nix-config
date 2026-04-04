@@ -33,7 +33,7 @@ in {
       ui_font = "Iosevka Custom";
       font_size = "16";
       should_launch_new_window = "1";
-      startup_commands = "toggle_custom_color;fit_to_page_smart;toggle_statusbar";
+      startup_commands = ["toggle_custom_color;fit_to_page_smart;toggle_statusbar"];
 
       # https://github.com/catppuccin/sioyek/blob/3879f23da360c891ed18bb0b85537f891589c47f/themes/macchiato.config
       background_color = "${bg}";

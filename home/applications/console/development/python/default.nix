@@ -6,25 +6,45 @@
   g,
   deviceConfig,
   ...
-}: {
+}: let
+  myPython = pkgs.python314.withPackages (ps:
+    with ps; [
+      pydantic
+      numpy
+      ipython
+      matplotlib
+      numpy
+      pandas
+      pydantic
+      mypkgs.matplotlib-backend-wezterm
+      mypkgs.adiumentum
+    ]);
+
+  autoImports = pkgs.writeTextDir "usercustomize.py" ''
+    import adiumentum
+    import adiumentum as adi
+    import json
+    from pathlib import Path
+    import builtins
+
+    builtins.json = json
+    builtins.Path = Path
+    builtins.adiumentum = adiumentum
+    builtins.adi = adi
+  '';
+
+  py = pkgs.writeShellScriptBin "py" ''
+    export PYTHONPATH="${autoImports}:${myPython}/${pkgs.python314.sitePackages}''${PYTHONPATH:+:$PYTHONPATH}"
+    exec ${pkgs.python314}/bin/python3 "$@"
+  '';
+in {
   # TODO::prio1: make list of progLangs to import according to boolean switches in deviceConfig
   # use in specific environments only, to avoid clash?
   home.packages = g.selectViaConsoleSet deviceConfig {
-    core = with pkgs; [
-      (python313.withPackages (ps:
-        with ps; [
-          ipython
-          matplotlib
-          numpy
-          pandas
-          pydantic
-          mypkgs.matplotlib-backend-wezterm
-        ]))
-      poetry
-
-      black
-      mypy
-      isort
+    minimal = with pkgs; [
+      uv
+      ruff
+      py
     ];
   };
 

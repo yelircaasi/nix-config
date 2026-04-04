@@ -16,6 +16,7 @@ in {
 
   imports = builtins.concatLists [
     [
+      ./applications/console/configuration
       ./applications/console/administration-monitoring
       /*
       ./applications/console/browser
@@ -136,10 +137,11 @@ in {
         # You can update Home Manager without changing this value. See
         # the Home Manager release notes for a list of state version
         # changes in each release.
-        home.stateVersion = "24.11";
+        home.stateVersion = "26.05";
 
         # Let Home Manager install and manage itself.
         programs.home-manager.enable = true;
+        programs.home-manager.backupFileExtension = "hm-backup";
       }
     '';
     "colors.json".text = builtins.toJSON g.color;
@@ -152,6 +154,7 @@ in {
       XDG_DATA_HOME = "${config.home.homeDirectory}/.local/share";
       XDG_CACHE_HOME = "${config.home.homeDirectory}/.cache";
     };
+    setSessionVariables = true;
     desktop = "${config.home.homeDirectory}/.xdg-dirs/Desktop";
     documents = "${config.home.homeDirectory}/.xdg-dirs/Documents";
     download = "${config.home.homeDirectory}/Downloads";

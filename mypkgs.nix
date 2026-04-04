@@ -15,6 +15,32 @@
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
   buildPythonPackage = pkgs.python313Packages.buildPythonPackage;
 in {
+  adiumentum = pkgs.python314Packages.buildPythonPackage rec {
+    pname = "adiumentum";
+    version = "0.7.2";
+    format = "pyproject";
+
+    src = pkgs.fetchPypi {
+      inherit pname version;
+      hash = "sha256-NikSb4Mu8FrS6/XfSnRkazgP28y6+Qt+s/e4QaXlGz4=";
+    };
+
+    build-system = [pkgs.python314Packages.uv-build];
+
+    dependencies = with pkgs.python314Packages; [
+      pydantic
+      multipledispatch
+      loguru
+      gitpython
+    ];
+
+    meta = {
+      description = "Simple Python utils package, intended for use in other packages by the author. Raise no issues and you will be told no lies.";
+      homepage = "https://pypi.org/project/adiumentum/";
+      license = pkgs.lib.licenses.gpl3;
+    };
+  };
+
   makesure = mkDerivation rec {
     pname = "makesure";
     version = "v0.9.23"; # 2024-07-21

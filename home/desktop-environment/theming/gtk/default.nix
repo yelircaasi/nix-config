@@ -92,5 +92,6 @@ in {
     gtk4.extraConfig = extraCfg;
     gtk3.extraCss = extraCss;
     gtk4.extraCss = extraCss;
+    gtk4.theme = config.gtk.theme;
   };
 }

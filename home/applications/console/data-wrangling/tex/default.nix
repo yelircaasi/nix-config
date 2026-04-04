@@ -7,7 +7,7 @@
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
     core = [
-      pkgs.perl538Packages.LaTeXML
+      pkgs.perl5Packages.LaTeXML
     ];
   };
 

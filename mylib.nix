@@ -2,12 +2,18 @@
   inputs,
   g,
 }: let
-  pkgs = import inputs.nixpkgs {
-    system = "x86_64-linux";
-    overlays = with inputs; [nixgl.overlay (import rust-overlay)];
-  };
+  makePkgs = system:
+    import inputs.nixpkgs {
+      inherit system;
+      overlays = with inputs;
+        [(import rust-overlay)]
+        ++ (
+          if system == "x86_64-linux"
+          then [nixgl.overlay]
+          else []
+        );
+    };
 
-  mypkgs = import ./mypkgs.nix {inherit pkgs;};
   configWrapper = adHocFunction: {
     system,
     #
@@ -71,19 +77,22 @@ in rec {
 
   makeNixosConfig = deviceConfig: configWrapper makeNixosConfig' deviceConfig;
 
-  makeNixosConfig' = deviceConfig:
+  makeNixosConfig' = deviceConfig: let
+    pkgs = makePkgs deviceConfig.system;
+    mypkgs = import ./mypkgs.nix {inherit pkgs;};
+  in
     inputs.nixpkgs.lib.nixosSystem {
+      system = deviceConfig.system;
       specialArgs = {inherit inputs g deviceConfig mypkgs;};
-      modules =
-        [
-          ./system/configuration.nix
-        ]
-        ++ deviceConfig.additionalModules;
+      modules = [./system/configuration.nix] ++ deviceConfig.additionalModules;
     };
 
   makeHomeManagerConfig = deviceConfig: configWrapper makeHomeManagerConfig' deviceConfig;
 
-  makeHomeManagerConfig' = deviceConfig:
+  makeHomeManagerConfig' = deviceConfig: let
+    pkgs = makePkgs deviceConfig.system;
+    mypkgs = import ./mypkgs.nix {inherit pkgs;};
+  in
     inputs.home-manager.lib.homeManagerConfiguration {
       inherit pkgs;
       extraSpecialArgs = {inherit inputs g deviceConfig mypkgs;};

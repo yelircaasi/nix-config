@@ -4,10 +4,12 @@
 }: let
   pkgs = import inputs.nixpkgs {
     system = "x86_64-linux";
-    overlays = [inputs.nixgl.overlay];
+    overlays = with inputs; [nixgl.overlay (import rust-overlay)];
   };
+
   mypkgs = import ./mypkgs.nix {inherit pkgs;};
   configWrapper = adHocFunction: {
+    system,
     #
     # basics
     name,
@@ -90,7 +92,7 @@ in rec {
 
   deviceMapper = cfgMaker: devCfgs:
     builtins.mapAttrs
-    (name: configSet: cfgMaker configSet)
+    (name: configSet: cfgMaker (configSet // {inherit name;}))
     devCfgs;
 
   makeNixosConfigurations = deviceDeclarationAttrSet:

@@ -11,5 +11,6 @@
     ./dev-utils-other
     ./gdb
     ./python
+    ./rust
   ];
 }

@@ -9,16 +9,7 @@
     nixgl,
     ...
   } @ inputs: let
-    /*
-    TODO::prio2: add fields?
-      keyRemapper         ()
-      bootLoader          ()
-
-      flatpak             ()
-      snap?               (https://flakehub.com/flake/io12/nix-snapd?view=usage)
-    */
     defaultDeclarationTty = {
-      system = "x86_64-linux";
       userName = "isaac";
       isWork = false;
       isGUI = false;
@@ -35,7 +26,7 @@
       otherShells = [];
       prompt = "starship";
 
-      compositors = []; # "sway" "swayfx"];
+      compositors = [];
       desktopShell = {
         launcher = null;
         logoutManager = null;
@@ -99,6 +90,7 @@
       olivia =
         defaultDeclarationGui
         // {
+          name = "olivia";
           description = "Work laptop. Lenovo Thinkpad running NixOS.";
           isWork = true;
           consoleSet = "minimal";
@@ -121,6 +113,7 @@
       betsy =
         defaultDeclarationGui
         // {
+          name = "betsy";
           description = "Personal laptop. Tuxedo Aura 15";
           consoleSet = "minimal";
           sops = true;
@@ -136,6 +129,7 @@
       hank =
         defaultDeclarationGui
         // {
+          name = "hank";
           description = "GPU laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU) running NixOS";
           consoleSet = "minimal";
           guiSet = "minimal";
@@ -147,15 +141,14 @@
       delilah =
         defaultDeclarationTty
         // {
-          # TODO::prio1
-          # userName = "root";
+          name = "delilah";
           description = "Lightweight non-GUI environment, primarily for experimentation";
           otherShells = ["zsh" "fish" "xonsh"];
         };
       henrique =
         defaultDeclarationGui
         // {
-          # TODO::prio1
+          name = "henrique";
           description = "Minimal install ISO for Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
           terminalEmulators = ["kitty" "wezterm" "foot"];
           consoleSet = "minimal";
@@ -166,58 +159,55 @@
       jabari =
         defaultDeclarationGui
         // {
-          # TODO::prio1
+          name = "jabari";
           description = "Tuxedo Stellaris 15 laptop, but running Ubuntu Server with custom DE, flatpak, and Nix";
           isNixOS = false;
         };
-      ahab = {
-        # TODO::prio1
-        system = "aarch64-darwin";
-      };
       elsie = {
         # TODO::prio1
-        system = "i686-linux";
+        name = "elsie";
         description = "Dell Inspiron 14. Old, underpowered, and 32-bit (i686), used primarily for reading and note-taking while traveling; also good for experimentation; dual-boots Guix System";
       };
       malina =
         defaultDeclarationTty
         // {
-          # TODO::prio1
+          name = "malina";
           description = "Raspberry Pi 3b+, aarch64 - non-GUI, primarily home server";
         };
       khmara =
         defaultDeclarationTty
         // {
-          # TODO::prio1
+          name = "khmara";
           description = "Linode cloud device";
         };
       doxie =
         defaultDeclarationTty
         // {
-          # TODO::prio1
+          name = "doxie";
           description = "Lightweight non-GUI development environment, suitable for use in containers (see yelircaasi/nix on Dockerhub)";
           isNixOS = false;
         };
       ferris =
         defaultDeclarationTty
         // {
-          # TODO::prio1
+          name = "ferris";
           description = "nix-on-droid on LineageOS running on Fairphone 4";
           isNixOS = false;
         };
       charlie =
         defaultDeclarationTty
         // {
-          # TODO::prio1
+          name = "charlie";
           description = "nix-mobile on Fairphone 4";
         };
       jamie =
         defaultDeclarationTty
         // {
-          # TODO::prio1
+          name = "jamie";
           description = "nix-mobile on Pinephone64";
         };
     };
+
     g = import ./global-defs {lib = inputs.nixpkgs.lib;}; # -> move g.utils to nixos-utils flake
     mylib = import ./mylib.nix {inherit inputs g;}; # move to nixos-utils flake (called mylib)  TODO::prio2
   in {
@@ -256,65 +246,38 @@
       url = "github:oxalica/rust-overlay/08b4f3633471874c8894632ade1b78d75dbda002";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-
-    # TODO::prio1
     neovim-flake = {
       url = github:yelircaasi/neovim-flake/f15c64c721838dd230125f65e4362429f871830a;
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.nix-treesitter.follows = "nix-treesitter";
-      # inputs.flake-utils.follows = "flake-utils";
     };
-
-    # neovim-plugins = {
-    #   url = "github:trip-zip/somewm/cb0b8e47125f3f167610f335ec8ce12b6d52d8fd";
-    #   inputs.nixpkgs.follows = "nixpkgs";
-    # };
-
     somewm = {
       url = "github:trip-zip/somewm/cb0b8e47125f3f167610f335ec8ce12b6d52d8fd";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-
     sops-nix = {
       url = "github:Mic92/sops-nix/8adb84861fe70e131d44e1e33c426a51e2e0bfa5";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-
     firefox-addons = {
       url = "gitlab:rycee/nur-expressions/de69b47670b359630d2be0ad4dbcab05554d8fb7?dir=pkgs/firefox-addons";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-
     nixgl = {
       url = "github:nix-community/nixGL/b6105297e6f0cd041670c3e8628394d4ee247ed5";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-
     nix-treesitter = {
       url = "github:ratson/nix-treesitter/d9d35e37a5b2aee2f3f4d14c66e2bf0604dae4ce";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-
     quickshell = {
-      # add ?ref=<tag> to track a tag
       url = "git+https://git.outfoxxed.me/outfoxxed/quickshell";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-
     nix-vscode-extensions = {
       url = "github:nix-community/nix-vscode-extensions/134c052c3213dc69ed881e41383b8ed29c5ffe72";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-
-    # nix-utils = {  TODO::prio2
-    #   url = "github:yelircaasi/nix-utils/...";
-    #   inputs.nixpkgs.follows = "nixpkgs";
-    # };
-
-    # TODO::prio5
-    # swayfx = {
-    #   url = "github:WillPower3309/swayfx/f0ecffe593574593ec99c104fa12e4bfd593b0f2";
-    #   inputs.nixpkgs.follows = "nixpkgs";
-    # };
   };
 }

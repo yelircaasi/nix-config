@@ -20,6 +20,7 @@
     defaultDeclarationTty = {
       system = "x86_64-linux";
       userName = "isaac";
+      homeDir = "/home/isaac";
       isWork = false;
       isGUI = false;
       isNixOS = true;
@@ -91,6 +92,7 @@
         readers = ["sioyek"];
         browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
         messagers = [];
+        editors = ["neovim"];
 
         ssh-server = false;
       };
@@ -133,6 +135,46 @@
           messagers = ["telegram"];
           docker = true;
         };
+      ahab = defaultDeclarationTty // {
+        # TODO::prio1
+        description = "MacOS";
+        system = "aarch64-darwin";
+        userName = "ext_riley";
+        homeDir = "/Users/ext_riley";
+
+
+        isWork = true;
+        isGUI = false;
+        isNixOS = false;
+        consoleSet = "minimal";
+        guiSet = "none";
+
+        prompt = "ohmyposh";
+
+        wallpaper = null;
+        monitorSetups = [];
+        compositors = []; # "sway" "swayfx"];
+        desktopShell = {
+          launcher = null;
+          logoutManager = null;
+          notificationDaemon = null;
+          widgetTools = [];
+        };
+        editors = [];
+        browsers = [];
+        pipewire = false;
+        jack = false;
+
+        wayland = false;
+
+        terminalEmulators = []; #["wezterm"];
+        readers = []; #["sioyek"];
+        # browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
+        messagers = [];
+        extraGroups = [];
+
+        ssh-server = false;
+      };
       hank =
         defaultDeclarationGui
         // {
@@ -170,10 +212,6 @@
           description = "Tuxedo Stellaris 15 laptop, but running Ubuntu Server with custom DE, flatpak, and Nix";
           isNixOS = false;
         };
-      ahab = {
-        # TODO::prio1
-        system = "aarch64-darwin";
-      };
       elsie = {
         # TODO::prio1
         system = "i686-linux";

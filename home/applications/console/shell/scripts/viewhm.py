@@ -3,7 +3,7 @@ from pathlib import Path
 from stat import S_ISDIR as is_dir
 from stat import S_ISLNK as is_link
 
-HOME = Path("/home/isaac")
+HOME = Path.home()
 CLEAR = "\033[0m"
 RED = "\033[0;31m"
 BLUE = "\033[0;34m"

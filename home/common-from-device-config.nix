@@ -50,18 +50,19 @@ in {
       ./applications/gui/miscellaneous
 
       # ./applications/gui/personal-organization
-
+    ]
+    (if deviceConfig.system != "aarch64-darwin" then [
       ./desktop-environment/theming/gtk
       # ./desktop-environment/theming/qt
       ./desktop-environment/theming/fonts
       ./desktop-environment/theming/icons
-      ./applications/gui/editor-and-ide/vscode # TODO::prio1: add to core set
+      # ./applications/gui/editor-and-ide/vscode # TODO::prio1: add to core set
 
       ./desktop-environment/compositors
       ./desktop-environment/launcher/${asNonemptyString deviceConfig.desktopShell.launcher}
       ./desktop-environment/logout-manager/${asNonemptyString deviceConfig.desktopShell.logoutManager}
       ./desktop-environment/widgets/notifications/${asNonemptyString deviceConfig.desktopShell.notificationDaemon}.nix
-    ]
+    ] else []) 
     (asListIf deviceConfig.isWork ./applications/console/work)
     (asListIf deviceConfig.isWork ./applications/gui/work)
     (asListIf deviceConfig.sops ./sops)
@@ -82,8 +83,8 @@ in {
   };
 
   home = {
-    username = "isaac";
-    homeDirectory = "/home/isaac";
+    username = deviceConfig.userName;
+    homeDirectory = deviceConfig.homeDir; #"/home/isaac";
     stateVersion = "24.11";
     packages = with pkgs; [
       # xplr
@@ -97,7 +98,7 @@ in {
       wget
       alejandra
       # python313
-      poetry
+      uv
       gdrive3
     ];
     sessionVariables = {

@@ -21,6 +21,7 @@
     name,
     description,
     userName,
+    homeDir,
     isWork,
     isGUI,
     isNixOS,

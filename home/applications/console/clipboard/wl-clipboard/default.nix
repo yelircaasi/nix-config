@@ -6,7 +6,7 @@
 }: {
   home.packages = with pkgs; [
     # wl-clipboard
-    wl-clipboard-rs
+    (pkgs.lib.mkIf deviceConfig.isNixOS wl-clipboard-rs)
   ];
   # TODO: CONFIG FOR wl-clipboard
 }

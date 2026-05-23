@@ -1,0 +1,83 @@
+[colors]
+ansi = [
+    "#031A16",  # base00 (black)
+    "#963E4C",  # base0C (red)
+    "#4C963E",  # base0E (green)
+    "#96883E",  # base0D (yellow-ish)
+    "#3E7996",  # base09 (blue)
+    "#883E96",  # base0B (magenta)
+    "#3E9688",  # base08 (cyan)
+    "#81B5AC",  # base05 (white/fg)
+]
+background = "#031A16"
+brights = [
+    "#2B685E",  # base03 (bright black)
+    "#963E4C",  # keep consistent red
+    "#4C963E",  # keep consistent green
+    "#96883E",  # yellow
+    "#3E7996",  # blue
+    "#883E96",  # magenta
+    "#3E9688",  # cyan
+    "#D2E7E4",  # base07 (bright white)
+]
+cursor_bg = "#D2E7E4"
+cursor_border = "#D2E7E4"
+cursor_fg = "#031A16"
+foreground = "#81B5AC"
+scrollbar_thumb = "#2B685E"
+selection_bg = "#184E45"
+selection_fg = "#81B5AC"
+split = "#5F9C92"
+compose_cursor = "#96883E"
+visual_bell = "#184E45"
+
+[colors.indexed]
+
+[colors.tab_bar]
+background = "#031A16"
+inactive_tab_edge = "#2B685E"
+
+[colors.tab_bar.active_tab]
+bg_color = "#81B5AC"
+fg_color = "#031A16"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#2B685E"
+fg_color = "#5F9C92"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#0B342D"
+fg_color = "#5F9C92"
+intensity = "Normal"
+italic = true
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab]
+bg_color = "#2B685E"
+fg_color = "#81B5AC"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab_hover]
+bg_color = "#5F9C92"
+fg_color = "#031A16"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[metadata]
+name = 'odenwald'
+author = 'yelircaasi'
+origin_url = "https://github.com/yelircaasi/odenwald.nvim"

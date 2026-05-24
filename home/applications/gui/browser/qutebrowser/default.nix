@@ -13,4 +13,6 @@
     # - watch: https://www.youtube.com/watch?v=kFw64hlJkoI
     # - https://gitlab.com/dwt1/dotfiles/-/tree/master/.config/qutebrowser/solarized-everything-css?ref_type=heads
   };
+  xdg.configFile."qutebrowser/config.py".text = builtins.readFile ./config.py;
+  xdg.configFile."qutebrowser/colors.json".text = g.utils.readAndInterpolate g ./colors.json;
 }

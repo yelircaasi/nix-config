@@ -10,6 +10,24 @@
 ##   qute://help/configuring.html
 ##   qute://help/settings.html
 
+from types import SimpleNamespace
+from typing import TYPE_CHECKING
+
+import json
+from pathlib import Path
+
+if TYPE_CHECKING:
+    c = SimpleNamespace()
+    config = SimpleNamespace()
+
+
+def get_colordict() -> dict[str, str]:
+    color_path = Path(__file__).parent / "colors.json"
+    colors: dict[str, str] = json.loads(color_path.read_text())
+    return colors
+
+colors = get_colordict()
+
 ## This is here so configs done via the GUI are still loaded.
 ## Remove it to not load settings done via the GUI.
 config.load_autoconfig(True)
@@ -97,82 +115,68 @@ c.changelog_after_upgrade = "minor"
 
 ## Background color of the completion widget category headers.
 ## Type: QssColor
-c.colors.completion.category.bg = "qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 <| color.qutebrowser.completionCategoryBg0 |>, stop:1 <| color.qutebrowser.completionCategoryBg1 |>)"
+c.colors.completion.category.bg = f"qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 {colors['completionCategoryBg0']}, stop:1 {colors['completionCategoryBg1']})"
 
 ## Bottom border color of the completion widget category headers.
 ## Type: QssColor
-c.colors.completion.category.border.bottom = (
-    "<| color.qutebrowser.completionCatBorderBottom |>"
-)
+c.colors.completion.category.border.bottom = colors["completionCatBorderBottom"]
 
 ## Top border color of the completion widget category headers.
 ## Type: QssColor
-c.colors.completion.category.border.top = (
-    "<| color.qutebrowser.completionCatBorderTop |>"
-)
+c.colors.completion.category.border.top = colors["completionCatBorderTop"]
 
 ## Foreground color of completion widget category headers.
 ## Type: QtColor
-c.colors.completion.category.fg = "<| color.qutebrowser.completionCatFg |>"
+c.colors.completion.category.fg = colors["completionCatFg"]
 
 ## Background color of the completion widget for even rows.
 ## Type: QssColor
-c.colors.completion.even.bg = "<| color.qutebrowser.completionEvenBg |>"
+c.colors.completion.even.bg = colors["completionEvenBg"]
 
 ## Text color of the completion widget. May be a single color to use for
 ## all columns or a list of three colors, one for each column.
 ## Type: List of QtColor, or QtColor
 c.colors.completion.fg = [
-    "<| color.qutebrowser.completionFgA |>",
-    "<| color.qutebrowser.completionFgB |>",
-    "<| color.qutebrowser.completionFgC |>",
+    colors["completionFgA"],
+    colors["completionFgB"],
+    colors["completionFgC"],
 ]
 
 ## Background color of the selected completion item.
 ## Type: QssColor
-c.colors.completion.item.selected.bg = (
-    "<| color.qutebrowser.completionItemSelectedBg |>"
-)
+c.colors.completion.item.selected.bg = colors["completionItemSelectedBg"]
 
 ## Bottom border color of the selected completion item.
 ## Type: QssColor
-c.colors.completion.item.selected.border.bottom = (
-    "<| color.qutebrowser.completionItemSelectedBorderBottom |>"
-)
+c.colors.completion.item.selected.border.bottom = colors["completionItemSelectedBorderBottom"]
 
 ## Top border color of the selected completion item.
 ## Type: QssColor
-c.colors.completion.item.selected.border.top = (
-    "<| color.qutebrowser.completionItemSelectedBorderTop |>"
-)
+c.colors.completion.item.selected.border.top = colors["completionItemSelectedBorderTop"]
 
 ## Foreground color of the selected completion item.
 ## Type: QtColor
-c.colors.completion.item.selected.fg = (
-    "<| color.qutebrowser.completionItemSelectedFg |>"
-)
+c.colors.completion.item.selected.fg = colors["completionItemSelectedFg"]
 
 ## Foreground color of the matched text in the selected completion item.
 ## Type: QtColor
-c.colors.completion.item.selected.match.fg = (
-    "<| color.qutebrowser.completionItemSelectedMatchFg |>"
-)
+c.colors.completion.item.selected.match.fg = colors["completionItemSelectedMatchFg"]
 
 ## Foreground color of the matched text in the completion.
 ## Type: QtColor
-c.colors.completion.match.fg = "<| color.qutebrowser.completionMatchFg |>"
+c.colors.completion.match.fg = colors["completionMatchFg"]
 
 ## Background color of the completion widget for odd rows.
 ## Type: QssColor
-c.colors.completion.odd.bg = "<| color.qutebrowser.completionOddBg |>"
+c.colors.completion.odd.bg = colors["completionOddBg"]
 
 ## Color of the scrollbar in the completion view.
 ## Type: QssColor
-c.colors.completion.scrollbar.bg = "<| color.qutebrowser.completionScrolbarBg |>"
+c.colors.completion.scrollbar.bg = colors["completionScrollbarBg"]
 
 ## Color of the scrollbar handle in the completion view.
 ## Type: QssColor
-c.colors.completion.scrollbar.fg = "<| color.qutebrowser.completionScrollbarFg |>"
+c.colors.completion.scrollbar.fg = colors["completionScrollbarFg"]
 
 ## Background color of disabled items in the context menu. If set to
 ## null, the Qt default is used.
@@ -206,31 +210,31 @@ c.colors.contextmenu.selected.fg = None
 
 ## Background color for the download bar.
 ## Type: QssColor
-c.colors.downloads.bar.bg = "<| color.qutebrowser.downloadsBarBg |>"
+c.colors.downloads.bar.bg = colors["downloadsBarBg"]
 
 ## Background color for downloads with errors.
 ## Type: QtColor
-c.colors.downloads.error.bg = "<| color.qutebrowser.downloadsErrorBg |>"
+c.colors.downloads.error.bg = colors["downloadsErrorBg"]
 
 ## Foreground color for downloads with errors.
 ## Type: QtColor
-c.colors.downloads.error.fg = "<| color.qutebrowser.downloadsErrorFg |>"
+c.colors.downloads.error.fg = colors["downloadsErrorFg"]
 
 ## Color gradient start for download backgrounds.
 ## Type: QtColor
-c.colors.downloads.start.bg = "<| color.qutebrowser.downloadsStartBg |>"
+c.colors.downloads.start.bg = colors["downloadsStartBg"]
 
 ## Color gradient start for download text.
 ## Type: QtColor
-c.colors.downloads.start.fg = "<| color.qutebrowser.downloadsStartFg |>"
+c.colors.downloads.start.fg = colors["downloadsStartFg"]
 
 ## Color gradient stop for download backgrounds.
 ## Type: QtColor
-c.colors.downloads.stop.bg = "<| color.qutebrowser.downloadsStopBg |>"
+c.colors.downloads.stop.bg = colors["downloadsStopBg"]
 
 ## Color gradient end for download text.
 ## Type: QtColor
-c.colors.downloads.stop.fg = "<| color.qutebrowser.downloadsStopFg |>"
+c.colors.downloads.stop.fg = colors["downloadsStopFg"]
 
 ## Color gradient interpolation system for download backgrounds.
 ## Type: ColorSystem
@@ -239,7 +243,7 @@ c.colors.downloads.stop.fg = "<| color.qutebrowser.downloadsStopFg |>"
 ##   - hsv: Interpolate in the HSV color system.
 ##   - hsl: Interpolate in the HSL color system.
 ##   - none: Don't show a gradient.
-c.colors.downloads.system.bg = "<| color.qutebrowser.downloadsSystemBg |>"
+c.colors.downloads.system.bg = colors["downloadsSystemBg"]
 
 ## Color gradient interpolation system for download text.
 ## Type: ColorSystem
@@ -248,218 +252,208 @@ c.colors.downloads.system.bg = "<| color.qutebrowser.downloadsSystemBg |>"
 ##   - hsv: Interpolate in the HSV color system.
 ##   - hsl: Interpolate in the HSL color system.
 ##   - none: Don't show a gradient.
-c.colors.downloads.system.fg = "<| color.qutebrowser.downloadsSystemFg |>"
+c.colors.downloads.system.fg = colors["downloadsSystemFg"]
 
 ## Background color for hints. Note that you can use a `rgba(...)` value
 ## for transparency.
 ## Type: QssColor
-c.colors.hints.bg = "qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 <| hintsBg0 |>, stop:1 <| hintsBg1 |>)"
+c.colors.hints.bg = f"qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 {colors['hintsBg0']}, stop:1 {colors['hintsBg1']})"
 
 ## Font color for hints.
 ## Type: QssColor
-c.colors.hints.fg = "<| color.qutebrowser.hintsFg |>"
+c.colors.hints.fg = colors["hintsFg"]
 
 ## Font color for the matched part of hints.
 ## Type: QtColor
-c.colors.hints.match.fg = "<| color.qutebrowser.hintsMatchFg |>"
+c.colors.hints.match.fg = colors["hintsMatchFg"]
 
 ## Background color of the keyhint widget.
 ## Type: QssColor
-c.colors.keyhint.bg = "<| keyhintBg |>"
+c.colors.keyhint.bg = colors["keyhintBg"]
 
 ## Text color for the keyhint widget.
 ## Type: QssColor
-c.colors.keyhint.fg = "<| color.qutebrowser.keyHintFg |>"
+c.colors.keyhint.fg = colors["keyHintFg"]
 
 ## Highlight color for keys to complete the current keychain.
 ## Type: QssColor
-c.colors.keyhint.suffix.fg = "<| color.qutebrowser.keyhintSuffixFg |>"
+c.colors.keyhint.suffix.fg = colors["keyhintSuffixFg"]
 
 ## Background color of an error message.
 ## Type: QssColor
-c.colors.messages.error.bg = "<| color.qutebrowser.messagesErrorBg |>"
+c.colors.messages.error.bg = colors["messagesErrorBg"]
 
 ## Border color of an error message.
 ## Type: QssColor
-c.colors.messages.error.border = "<| color.qutebrowser.messagesErrorBorder |>"
+c.colors.messages.error.border = colors["messagesErrorBorder"]
 
 ## Foreground color of an error message.
 ## Type: QssColor
-c.colors.messages.error.fg = "<| color.qutebrowser.messagesErrorFg |>"
+c.colors.messages.error.fg = colors["messagesErrorFg"]
 
 ## Background color of an info message.
 ## Type: QssColor
-c.colors.messages.info.bg = "<| color.qutebrowser.messagesInfoBg |>"
+c.colors.messages.info.bg = colors["messagesInfoBg"]
 
 ## Border color of an info message.
 ## Type: QssColor
-c.colors.messages.info.border = "<| color.qutebrowser.messagesInfoBorder |>"
+c.colors.messages.info.border = colors["messagesInfoBorder"]
 
 ## Foreground color of an info message.
 ## Type: QssColor
-c.colors.messages.info.fg = "<| color.qutebrowser.messagesInfoFg |>"
+c.colors.messages.info.fg = colors["messagesInfoFg"]
 
 ## Background color of a warning message.
 ## Type: QssColor
-c.colors.messages.warning.bg = "<| color.qutebrowser.messagesWarningBg |>"
+c.colors.messages.warning.bg = colors["messagesWarningBg"]
 
 ## Border color of a warning message.
 ## Type: QssColor
-c.colors.messages.warning.border = "<| color.qutebrowser.messagesWarningBorder |>"
+c.colors.messages.warning.border = colors["messagesWarningBorder"]
 
 ## Foreground color of a warning message.
 ## Type: QssColor
-c.colors.messages.warning.fg = "<| color.qutebrowser.messagesWarningFg |>"
+c.colors.messages.warning.fg = colors["messagesWarningFg"]
 
 ## Background color for prompts.
 ## Type: QssColor
-c.colors.prompts.bg = "<| color.qutebrowser.promptsBg |>"
+c.colors.prompts.bg = colors["promptsBg"]
 
 ## Border used around UI elements in prompts.
 ## Type: String
-c.colors.prompts.border = "1px solid <| color.qutebrowser.promptsBorder |>"
+c.colors.prompts.border = f"1px solid {colors['promptsBg']}"
 
 ## Foreground color for prompts.
 ## Type: QssColor
-c.colors.prompts.fg = "<| color.qutebrowser.promptsFg |>"
+c.colors.prompts.fg = colors["promptsFg"]
 
 ## Background color for the selected item in filename prompts.
 ## Type: QssColor
-c.colors.prompts.selected.bg = "<| color.qutebrowser.promptsSelectedBg |>"
+c.colors.prompts.selected.bg = colors["promptsSelectedBg"]
 
 ## Foreground color for the selected item in filename prompts.
 ## Type: QssColor
-c.colors.prompts.selected.fg = "<| color.qutebrowser.promptsSelectedFg |>"
+c.colors.prompts.selected.fg = colors["promptsSelectedFg"]
 
 ## Background color of the statusbar in caret mode.
 ## Type: QssColor
-c.colors.statusbar.caret.bg = "<| color.qutebrowser.statusbarCaretBg |>"
+c.colors.statusbar.caret.bg = colors["statusbarCaretBg"]
 
 ## Foreground color of the statusbar in caret mode.
 ## Type: QssColor
-c.colors.statusbar.caret.fg = "<| color.qutebrowser.statusbarCaretFg |>"
+c.colors.statusbar.caret.fg = colors["statusbarCaretFg"]
 
 ## Background color of the statusbar in caret mode with a selection.
 ## Type: QssColor
-c.colors.statusbar.caret.selection.bg = (
-    "<| color.qutebrowser.statusbarCaretSelectionBg |>"
-)
+c.colors.statusbar.caret.selection.bg = colors["statusbarCaretSelectionBg"]
 
 ## Foreground color of the statusbar in caret mode with a selection.
 ## Type: QssColor
-c.colors.statusbar.caret.selection.fg = (
-    "<| color.qutebrowser.statusbarCaretSelectionFg |>"
-)
+c.colors.statusbar.caret.selection.fg = colors["statusbarCaretSelectionFg"]
 
 ## Background color of the statusbar in command mode.
 ## Type: QssColor
-c.colors.statusbar.command.bg = "<| color.qutebrowser.statusbarCommandBg |>"
+c.colors.statusbar.command.bg = colors["statusbarCommandBg"]
+
 
 ## Foreground color of the statusbar in command mode.
 ## Type: QssColor
-c.colors.statusbar.command.fg = "<| color.qutebrowser.statusbarCommandFg |>"
+c.colors.statusbar.command.fg = colors["statusbarCommandFg"]
 
 ## Background color of the statusbar in private browsing + command mode.
 ## Type: QssColor
-c.colors.statusbar.command.private.bg = (
-    "<| color.qutebrowser.statusbarCommandPrivateBg |>"
-)
+c.colors.statusbar.command.private.bg = colors["statusbarCommandPrivateBg"]
 
 ## Foreground color of the statusbar in private browsing + command mode.
 ## Type: QssColor
-c.colors.statusbar.command.private.fg = (
-    "<| color.qutebrowser.statusbarCommandPrivateFg |>"
-)
+c.colors.statusbar.command.private.fg = colors["statusbarCommandPrivateFg"]
 
 ## Background color of the statusbar in insert mode.
 ## Type: QssColor
-c.colors.statusbar.insert.bg = "<| color.qutebrowser.statusbarInsertBg |>"
+c.colors.statusbar.insert.bg = colors["statusbarInsertBg"]
+
 
 ## Foreground color of the statusbar in insert mode.
 ## Type: QssColor
-c.colors.statusbar.insert.fg = "<| color.qutebrowser.statusbarInsertFg |>"
+c.colors.statusbar.insert.fg = colors["statusbarInsertFg"]
 
 ## Background color of the statusbar.
 ## Type: QssColor
-c.colors.statusbar.normal.bg = "<| color.qutebrowser.statusbarNormalBg |>"
+c.colors.statusbar.normal.bg = colors["statusbarNormalBg"]
 
 ## Foreground color of the statusbar.
 ## Type: QssColor
-c.colors.statusbar.normal.fg = "<| color.qutebrowser.statusbarNormalFg |>"
+c.colors.statusbar.normal.fg = colors["statusbarNormalFg"]
 
 ## Background color of the statusbar in passthrough mode.
 ## Type: QssColor
-c.colors.statusbar.passthrough.bg = "<| color.qutebrowser.statusbarPassthroughBg |>"
+c.colors.statusbar.passthrough.bg = colors["statusbarPassthroughBg"]
 
 ## Foreground color of the statusbar in passthrough mode.
 ## Type: QssColor
-c.colors.statusbar.passthrough.fg = "<| color.qutebrowser.statusbarPassthroughFg |>"
+c.colors.statusbar.passthrough.fg = colors["statusbarPassthroughFg"]
 
 ## Background color of the statusbar in private browsing mode.
 ## Type: QssColor
-c.colors.statusbar.private.bg = "<| color.qutebrowser.statusbarPrivateBg |>"
+c.colors.statusbar.private.bg = colors["statusbarPrivateBg"]
 
 ## Foreground color of the statusbar in private browsing mode.
 ## Type: QssColor
-c.colors.statusbar.private.fg = "<| color.qutebrowser.statusbarPrivateFg |>"
+c.colors.statusbar.private.fg = colors["statusbarPrivateFg"]
 
 ## Background color of the progress bar.
 ## Type: QssColor
-c.colors.statusbar.progress.bg = "<| color.qutebrowser.statusbarProgressBg |>"
+c.colors.statusbar.progress.bg = colors["statusbarProgressBg"]
 
 ## Foreground color of the URL in the statusbar on error.
 ## Type: QssColor
-c.colors.statusbar.url.error.fg = "<| color.qutebrowser.statusbarUrlErrorFg |>"
+c.colors.statusbar.url.error.fg = colors["statusbarUrlErrorFg"]
 
 ## Default foreground color of the URL in the statusbar.
 ## Type: QssColor
-c.colors.statusbar.url.fg = "<| color.qutebrowser.statusbarUrlFg |>"
+c.colors.statusbar.url.fg = colors["statusbarUrlFg"]
 
 ## Foreground color of the URL in the statusbar for hovered links.
 ## Type: QssColor
-c.colors.statusbar.url.hover.fg = "<| color.qutebrowser.statusbarUrlHoverFg |>"
+c.colors.statusbar.url.hover.fg = colors["statusbarUrlHoverFg"]
 
 ## Foreground color of the URL in the statusbar on successful load
 ## (http).
 ## Type: QssColor
-c.colors.statusbar.url.success.http.fg = (
-    "<| color.qutebrowser.statusbarUrlSuccessHttpFg |>"
-)
+c.colors.statusbar.url.success.http.fg = colors["statusbarUrlSuccessHttpFg"]
 
 ## Foreground color of the URL in the statusbar on successful load
 ## (https).
 ## Type: QssColor
-c.colors.statusbar.url.success.https.fg = (
-    "<| color.qutebrowser.statusbarUrlSuccessHttpsFg |>"
-)
+c.colors.statusbar.url.success.https.fg = colors["statusbarUrlSuccessHttpsFg"]
 
 ## Foreground color of the URL in the statusbar when there's a warning.
 ## Type: QssColor
-c.colors.statusbar.url.warn.fg = "<| color.qutebrowser.statusbarUrlWarnFg |>"
+c.colors.statusbar.url.warn.fg = colors["statusbarUrlWarnFg"]
 
 ## Background color of the tab bar.
 ## Type: QssColor
-c.colors.tabs.bar.bg = "<| color.qutebrowser.tabsBarBg |>"
+c.colors.tabs.bar.bg = colors["tabsBarBg"]
 
 ## Background color of unselected even tabs.
 ## Type: QtColor
-c.colors.tabs.even.bg = "<| color.qutebrowser.tabsEvenBg |>"
+c.colors.tabs.even.bg = colors["tabsEvenBg"]
 
 ## Foreground color of unselected even tabs.
 ## Type: QtColor
-c.colors.tabs.even.fg = "<| color.qutebrowser.tabsEvenFg |>"
+c.colors.tabs.even.fg = colors["tabsEvenFg"]
 
 ## Color for the tab indicator on errors.
 ## Type: QtColor
-c.colors.tabs.indicator.error = "<| color.qutebrowser.tabsIndicatorError |>"
+c.colors.tabs.indicator.error = colors["tabsIndicatorError"]
 
 ## Color gradient start for the tab indicator.
 ## Type: QtColor
-c.colors.tabs.indicator.start = "<| color.qutebrowser.tabsIndicatorStart |>"
+c.colors.tabs.indicator.start = colors["tabsIndicatorStart"]
 
 ## Color gradient end for the tab indicator.
 ## Type: QtColor
-c.colors.tabs.indicator.stop = "<| color.qutebrowser.tabsIndicatorStop |>"
+c.colors.tabs.indicator.stop = colors["tabsIndicatorStop"]
 
 ## Color gradient interpolation system for the tab indicator.
 ## Type: ColorSystem
@@ -468,67 +462,63 @@ c.colors.tabs.indicator.stop = "<| color.qutebrowser.tabsIndicatorStop |>"
 ##   - hsv: Interpolate in the HSV color system.
 ##   - hsl: Interpolate in the HSL color system.
 ##   - none: Don't show a gradient.
-c.colors.tabs.indicator.system = "<| color.qutebrowser.tabsIndicatorSystem |>"
+c.colors.tabs.indicator.system = colors["tabsIndicatorSystem"]
 
 ## Background color of unselected odd tabs.
 ## Type: QtColor
-c.colors.tabs.odd.bg = "<| color.qutebrowser.tabsOddBg |>"
+c.colors.tabs.odd.bg = colors["tabsOddBg"]
 
 ## Foreground color of unselected odd tabs.
 ## Type: QtColor
-c.colors.tabs.odd.fg = "<| color.qutebrowser.tabsOddFg |>"
+c.colors.tabs.odd.fg = colors["tabsOddFg"]
 
 ## Background color of pinned unselected even tabs.
 ## Type: QtColor
-c.colors.tabs.pinned.even.bg = "<| color.qutebrowser.tabsPinnedEvenBg |>"
+c.colors.tabs.pinned.even.bg = colors["tabsPinnedEvenBg"]
 
 ## Foreground color of pinned unselected even tabs.
 ## Type: QtColor
-c.colors.tabs.pinned.even.fg = "<| color.qutebrowser.tabsPinnedEvenFg |>"
+c.colors.tabs.pinned.even.fg = colors["tabsPinnedEvenFg"]
 
 ## Background color of pinned unselected odd tabs.
 ## Type: QtColor
-c.colors.tabs.pinned.odd.bg = "<| color.qutebrowser.tabsPinnedOddBg |>"
+c.colors.tabs.pinned.odd.bg = colors["tabsPinnedOddBg"]
 
 ## Foreground color of pinned unselected odd tabs.
 ## Type: QtColor
-c.colors.tabs.pinned.odd.fg = "<| color.qutebrowser.tabsPinnedOddFg |>"
+c.colors.tabs.pinned.odd.fg = colors["tabsPinnedOddFg"]
 
 ## Background color of pinned selected even tabs.
 ## Type: QtColor
-c.colors.tabs.pinned.selected.even.bg = (
-    "<| color.qutebrowser.tabsPinnedSelectedEvenBg |>"
-)
+c.colors.tabs.pinned.selected.even.bg = colors["tabsPinnedSelectedEvenBg"]
 
 ## Foreground color of pinned selected even tabs.
 ## Type: QtColor
-c.colors.tabs.pinned.selected.even.fg = (
-    "<| color.qutebrowser.tabsPinnedSelectedEvenFg |>"
-)
+c.colors.tabs.pinned.selected.even.fg = colors["tabsPinnedSelectedEvenFg"]
 
 ## Background color of pinned selected odd tabs.
 ## Type: QtColor
-c.colors.tabs.pinned.selected.odd.bg = "<| color.qutebrowser.tabsPinnedSelectedOddBg |>"
+c.colors.tabs.pinned.selected.odd.bg = colors["tabsPinnedSelectedOddBg"]
 
 ## Foreground color of pinned selected odd tabs.
 ## Type: QtColor
-c.colors.tabs.pinned.selected.odd.fg = "<| color.qutebrowser.tabsPinnedSelectedOddFg |>"
+c.colors.tabs.pinned.selected.odd.fg = colors["tabsPinnedSelectedOddFg"]
 
 ## Background color of selected even tabs.
 ## Type: QtColor
-c.colors.tabs.selected.even.bg = "<| color.qutebrowser.tabsSelectedEvenBg |>"
+c.colors.tabs.selected.even.bg = colors["tabsSelectedEvenBg"]
 
 ## Foreground color of selected even tabs.
 ## Type: QtColor
-c.colors.tabs.selected.even.fg = "<| color.qutebrowser.tabsSelectedEvenFg |>"
+c.colors.tabs.selected.even.fg = colors["tabsSelectedEvenFg"]
 
 ## Background color of selected odd tabs.
 ## Type: QtColor
-c.colors.tabs.selected.odd.bg = "<| color.qutebrowser.tabsSelectedOddBg |>"
+c.colors.tabs.selected.odd.bg = colors["tabsSelectedOddBg"]
 
 ## Foreground color of selected odd tabs.
 ## Type: QtColor
-c.colors.tabs.selected.odd.fg = "<| color.qutebrowser.tabsSelectedOddFg |>"
+c.colors.tabs.selected.odd.fg = colors["tabsSelectedOddFg"]
 
 ## Background color of tooltips. If set to null, the Qt default is used.
 ## Type: QssColor
@@ -541,7 +531,7 @@ c.colors.tooltip.fg = None
 ## Background color for webpages if unset (or empty to use the theme's
 ## color).
 ## Type: QtColor
-c.colors.webpage.bg = "<| color.qutebrowser.webpageBg |>"
+c.colors.webpage.bg = colors["webpageBg"]
 
 ## Which algorithm to use for modifying how colors are rendered with
 ## darkmode. The `lightness-cielab` value was added with QtWebEngine 5.14
@@ -551,15 +541,13 @@ c.colors.webpage.bg = "<| color.qutebrowser.webpageBg |>"
 ##   - lightness-cielab: Modify colors by converting them to CIELAB color space and inverting the L value. Not available with Qt < 5.14.
 ##   - lightness-hsl: Modify colors by converting them to the HSL color space and inverting the lightness (i.e. the "L" in HSL).
 ##   - brightness-rgb: Modify colors by subtracting each of r, g, and b from their maximum value.
-c.colors.webpage.darkmode.algorithm = "<| color.qutebrowser.webpageDarkmodeAlgorithm |>"
+c.colors.webpage.darkmode.algorithm = colors["webpageDarkmodeAlgorithm"]
 
 ## Contrast for dark mode. This only has an effect when
 ## `colors.webpage.darkmode.algorithm` is set to `lightness-hsl` or
 ## `brightness-rgb`.
 ## Type: Float
-c.colors.webpage.darkmode.contrast = float(
-    "<| color.qutebrowser.webpageDarkmodeContrast |>"
-)
+c.colors.webpage.darkmode.contrast = float(colors["webpageDarkmodeContrast"])
 
 ## Render all web contents using a dark theme. Example configurations
 ## from Chromium's `chrome://flags`: - "With simple HSL/CIELAB/RGB-based
@@ -576,9 +564,7 @@ c.colors.webpage.darkmode.enabled = True
 ##   - never: Never apply dark mode filter to any images.
 ##   - smart: Apply dark mode based on image content. Not available with Qt 5.15.0.
 ##   - smart-simple: On QtWebEngine 6.6, use a simpler algorithm for smart mode (based on numbers of colors and transparency), rather than an ML-based model. Same as 'smart' on older QtWebEnigne versions.
-c.colors.webpage.darkmode.policy.images = (
-    "<| color.qutebrowser.webpageDarkmodePolicyImages |>"
-)
+c.colors.webpage.darkmode.policy.images = colors["webpageDarkmodePolicyImages"]
 
 ## Which pages to apply dark mode to. The underlying Chromium setting has
 ## been removed in QtWebEngine 5.15.3, thus this setting is ignored
@@ -587,9 +573,7 @@ c.colors.webpage.darkmode.policy.images = (
 ## Valid values:
 ##   - always: Apply dark mode filter to all frames, regardless of content.
 ##   - smart: Apply dark mode filter to frames based on background color.
-c.colors.webpage.darkmode.policy.page = (
-    "<| color.qutebrowser.webpageDarkmodePolicyPage |>"
-)
+c.colors.webpage.darkmode.policy.page = colors["webpageDarkmodePolicyPage"]
 
 ## Threshold for inverting background elements with dark mode. Background
 ## elements with brightness above this threshold will be inverted, and
@@ -598,18 +582,14 @@ c.colors.webpage.darkmode.policy.page = (
 ## behavior is the opposite of
 ## `colors.webpage.darkmode.threshold.foreground`!
 ## Type: Int
-c.colors.webpage.darkmode.threshold.background = int(
-    "<| color.qutebrowser.webpageDarkmodeThresholdBg |>"
-)
+c.colors.webpage.darkmode.threshold.background = int(colors["webpageDarkmodeThresholdBg"])
 
 ## Threshold for inverting text with dark mode. Text colors with
 ## brightness below this threshold will be inverted, and above it will be
 ## left as in the original, non-dark-mode page. Set to 256 to always
 ## invert text color or to 0 to never invert text color.
 ## Type: Int
-c.colors.webpage.darkmode.threshold.foreground = int(
-    "<| color.qutebrowser.webpageDarkmodeThresholdFg |>"
-)
+c.colors.webpage.darkmode.threshold.foreground = int(colors["webpageDarkmodeThresholdFg"])
 
 ## Value to use for `prefers-color-scheme:` for websites. The "light"
 ## value is only available with QtWebEngine 5.15.2+. On older versions,
@@ -621,9 +601,7 @@ c.colors.webpage.darkmode.threshold.foreground = int(
 ##   - auto: Use the system-wide color scheme setting.
 ##   - light: Force a light theme.
 ##   - dark: Force a dark theme.
-c.colors.webpage.preferred_color_scheme = (
-    "<| color.qutebrowser.webpagePreferredColorTheme |>"
-)
+c.colors.webpage.preferred_color_scheme = colors["webpagePreferredColorTheme"]
 
 ## Number of commands to save in the command history. 0: no history / -1:
 ## unlimited
@@ -797,7 +775,7 @@ c.content.blocking.whitelist = []
 ## first ask the application cache for the contents, before hitting the
 ## network.
 ## Type: Bool
-c.content.cache.appcache = True
+# c.content.cache.appcache = True
 
 ## Maximum number of pages to hold in the global memory page cache. The
 ## page cache allows for a nicer user experience when navigating forth or
@@ -805,7 +783,7 @@ c.content.cache.appcache = True
 ## to _n_ pages. For more information about the feature, please refer to:
 ## https://webkit.org/blog/427/webkit-page-cache-i-the-basics/
 ## Type: Int
-c.content.cache.maximum_pages = 0
+# c.content.cache.maximum_pages = 0
 
 ## Size (in bytes) of the HTTP network cache. Null to use the default
 ## value. With QtWebEngine, the maximum supported value is 2147483647 (~2
@@ -868,7 +846,7 @@ c.content.dns_prefetch = True
 ## Expand each subframe to its contents. This will flatten all the frames
 ## to become one scrollable page.
 ## Type: Bool
-c.content.frame_flattening = False
+# c.content.frame_flattening = False
 
 ## Set fullscreen notification overlay timeout in milliseconds. If set to
 ## 0, no overlay will be displayed.
@@ -945,7 +923,7 @@ c.content.javascript.alert = True
 
 ## Allow JavaScript to close tabs.
 ## Type: Bool
-c.content.javascript.can_close_tabs = False
+# c.content.javascript.can_close_tabs = False
 
 ## Allow JavaScript to open new tabs without user interaction.
 ## Type: Bool
@@ -1166,7 +1144,7 @@ c.content.proxy = "system"
 
 ## Send DNS requests over the configured proxy.
 ## Type: Bool
-c.content.proxy_dns_requests = True
+# c.content.proxy_dns_requests = True
 
 ## Allow websites to register protocol handlers via
 ## `navigator.registerProtocolHandler`.
@@ -1470,7 +1448,7 @@ c.hints.auto_follow_timeout = 0
 
 ## CSS border value for hints.
 ## Type: String
-c.hints.border = "1px solid <| color.qutebrowser.hintsBorder |>"
+c.hints.border = f"1px solid {colors['hintsBorder']}"
 
 ## Characters used for hint strings.
 ## Type: UniqueCharString
@@ -1485,7 +1463,7 @@ c.hints.dictionary = "/usr/share/dict/words"
 ## Valid values:
 ##   - javascript: Better but slower
 ##   - python: Slightly worse but faster
-c.hints.find_implementation = "python"
+# c.hints.find_implementation = "python"
 
 ## Hide unmatched hints in rapid mode.
 ## Type: Bool
@@ -2368,7 +2346,7 @@ c.zoom.mouse_divider = 512
 
 ## Apply the zoom factor on a frame only to the text or to all content.
 ## Type: Bool
-c.zoom.text_only = False
+# c.zoom.text_only = False
 
 ## Bindings for normal mode
 config.bind("'", "mode-enter jump_mark")

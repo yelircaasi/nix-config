@@ -1,6 +1,7 @@
 {
   inputs,
   config,
+  pkgs,
   lib,
   g,
   deviceConfig,
@@ -12,7 +13,7 @@ g.selectSetsViaConsoleSet deviceConfig {
     BROWSER = "qutebrowser";
     FZF_DEFAULT_OPTS = "--height 40% --border --color bg:#000800,bg+:#001600,fg:#003200,fg+:#006400";
     CFG = "${config.xdg.userDirs.extraConfig.XDG_CONFIG_HOME}";
-    NVIM_FLAKE = "${inputs.neovim-flake.packages.${stdenv.hostPlatform.system}.default}";
+    NVIM_FLAKE = "${inputs.neovim-flake.packages.${pkgs.stdenv.hostPlatform.system}.default}";
 
     # export XDG_CONFIG_DIR="$HOME/.config"
     # export XDG_DESKTOP_DIR="$HOME/Temporary/Empty"

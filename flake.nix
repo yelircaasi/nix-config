@@ -160,7 +160,7 @@
           notificationDaemon = null;
           widgetTools = [];
         };
-        editors = [];
+        editors = ["neovim"];
         browsers = [];
         pipewire = false;
         jack = false;
@@ -297,7 +297,7 @@
 
     # TODO::prio1
     neovim-flake = {
-      url = github:yelircaasi/neovim-flake/8f9ae4fba4262681e899227d07420a1148166b3b;
+      url = github:yelircaasi/neovim-flake/2959e71de7895abf110d141f25b3b6b1ef31875b;
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.nix-treesitter.follows = "nix-treesitter";
       inputs.neovim-nightly-overlay.follows = "neovim-nightly-overlay";

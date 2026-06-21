@@ -22,7 +22,7 @@ in {
     # TODO
     import
     ./environment-variables.nix
-    {inherit config lib g deviceConfig;};
+    {inherit inputs config lib g deviceConfig;};
 
   # home.shellAliases = {};
 

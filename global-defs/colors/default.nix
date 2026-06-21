@@ -418,6 +418,7 @@ in rec {
 
   # browsers
   qutebrowser = {
+    downloadsBarBg = "#444444";
     completionCategoryBg0 = "#888888";
     completionCategoryBg1 = "#505050";
     completionCatBorderBottom = "black";

@@ -37,8 +37,9 @@ config.font = wezterm.font_with_fallback({
 })
 config.font_size = 10.0
 
--- config.color_scheme = "schwarzwald"
+config.color_scheme = "odenwald"
 
+--[[
 config.colors = {
 	-- The default text color
 	foreground = "<| color.wezterm.fg |>", --"silver",
@@ -67,34 +68,34 @@ config.colors = {
 	split = "<| color.wezterm.splitLine |>",
 
 	ansi = {
-		"<| color.terminalColor00 |>", -- 'black',
-		"<| color.terminalColor01 |>", --  'maroon',
-		"<| color.terminalColor02 |>", -- 'green',
-		"<| color.terminalColor03 |>", -- 'olive',
-		"<| color.terminalColor04 |>", -- 'navy',
-		"<| color.terminalColor05 |>", -- 'purple',
-		"<| color.terminalColor06 |>", -- 'teal',
-		"<| color.terminalColor07 |>", -- 'silver',
+		"<| color.terminalColor00 |>", -- 'black', 000800
+		"<| color.terminalColor01 |>", --  'maroon', 3f0d08
+		"<| color.terminalColor02 |>", -- 'green', 246b44
+		"<| color.terminalColor03 |>", -- 'olive', b7b076
+		"<| color.terminalColor04 |>", -- 'navy', 13446c
+		"<| color.terminalColor05 |>", -- 'purple', 6f006f
+		"<| color.terminalColor06 |>", -- 'teal', 1e87db
+		"<| color.terminalColor07 |>", -- 'silver', 9a9a9a
 	},
 	brights = {
-		"<| color.terminalColor08 |>", -- 'grey',
-		"<| color.terminalColor09 |>", -- 'red',
-		"<| color.terminalColor0A |>", -- 'lime',
-		"<| color.terminalColor0B |>", -- 'yellow',
-		"<| color.terminalColor0C |>", -- 'blue',
-		"<| color.terminalColor0D |>", -- 'fuchsia',
-		"<| color.terminalColor0E |>", -- 'aqua',
-		"<| color.terminalColor0F |>", -- 'white',
+		"<| color.terminalColor08 |>", -- 'grey', 002000
+		"<| color.terminalColor09 |>", -- 'red', 51110b
+		"<| color.terminalColor0A |>", -- 'lime', 3cb371
+		"<| color.terminalColor0B |>", -- 'yellow', d0c98f
+		"<| color.terminalColor0C |>", -- 'blue', 426989
+		"<| color.terminalColor0D |>", -- 'fuchsia', a233a2
+		"<| color.terminalColor0E |>", -- 'aqua', 37a1f4
+		"<| color.terminalColor0F |>", -- 'white', white
 	},
 
 	-- Arbitrary colors of the palette in the range from 16 to 255
-	indexed = { [136] = "<| color.wezterm.indexed136 |>" },
+	indexed = { [136] = "<| color.wezterm.indexed136 |>" }, -- af8700
 
 	-- Since: 20220319-142410-0fcdea07
 	-- When the IME, a dead key or a leader key are being processed and are effectively
 	-- holding input pending the result of input composition, change the cursor
 	-- to this color to give a visual cue about the compose state.
-	compose_cursor = "<| color.wezterm.composeCursor |>",
+	compose_cursor = "<| color.wezterm.composeCursor |>", -- orange
 
 	-- Colors for copy_mode and quick_select
 	-- available since: 20220807-113146-c2fee766
@@ -115,6 +116,7 @@ config.colors = {
 	quick_select_match_bg = { AnsiColor = "<| color.wezterm.quickSelectMatchBg |>" },
 	quick_select_match_fg = { Color = "<| color.wezterm.quickSelectMatchFg |>" },
 }
+]]
 
 wezterm.on("gui-startup", function(cmd)
 	local tab, pane, window = mux.spawn_window(cmd or {})

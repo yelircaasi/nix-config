@@ -18,6 +18,8 @@
       pydantic
       mypkgs.matplotlib-backend-wezterm
       mypkgs.adiumentum
+      statsmodels
+      scikit-learn
     ]);
 
   autoImports = pkgs.writeTextDir "usercustomize.py" ''

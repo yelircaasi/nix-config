@@ -86,13 +86,14 @@ in {
     username = deviceConfig.userName;
     homeDirectory = deviceConfig.homeDir; #"/home/isaac";
     stateVersion = "24.11";
-    packages = with pkgs; [
-      # xplr
-      # lazygit
-      # bat
-      # fd
-      # fzf
-      # sd
+    packages = with pkgs; [ # TODO: move to where appropriate / remove if duplicates
+      xplr
+      lazygit
+      bat
+      fd
+      fzf
+      sd
+      yazi
 
       #docker
       # devenv

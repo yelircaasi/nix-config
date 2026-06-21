@@ -39,6 +39,18 @@ in {
     export FZF_DEFAULT_OPTS="--height 40% --border --color bg:#000800,bg+:#001600,fg:#003200,fg+:#006400"
   '';
 
+  programs.direnv = {
+    enable = true;
+    package = pkgs.direnv;
+    silent = false;
+    # loadInNixShell = true;
+    # direnvrcExtra = "";
+    nix-direnv = {
+      enable = true;
+      package = pkgs.nix-direnv;
+    };
+  };
+
   home.packages = with pkgs; [
     # TODO
     (lib.mkIf

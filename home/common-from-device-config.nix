@@ -95,6 +95,7 @@ in {
       # sd
 
       #docker
+      # devenv
       wget
       alejandra
       # python313

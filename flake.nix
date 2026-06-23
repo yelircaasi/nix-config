@@ -297,7 +297,7 @@
 
     # TODO::prio1
     neovim-flake = {
-      url = github:yelircaasi/neovim-flake/2959e71de7895abf110d141f25b3b6b1ef31875b;
+      url = github:yelircaasi/neovim-flake/c0d569b69a1d84f88595bf42ff24f0c59b82d132;
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.nix-treesitter.follows = "nix-treesitter";
       inputs.neovim-nightly-overlay.follows = "neovim-nightly-overlay";

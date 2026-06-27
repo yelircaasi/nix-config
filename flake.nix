@@ -135,46 +135,47 @@
           messagers = ["telegram"];
           docker = true;
         };
-      ahab = defaultDeclarationTty // {
-        # TODO::prio1
-        description = "MacOS";
-        system = "aarch64-darwin";
-        userName = "ext_riley";
-        homeDir = "/Users/ext_riley";
+      ahab =
+        defaultDeclarationTty
+        // {
+          # TODO::prio1
+          description = "MacOS";
+          system = "aarch64-darwin";
+          userName = "ext_riley";
+          homeDir = "/Users/ext_riley";
 
+          isWork = true;
+          isGUI = false;
+          isNixOS = false;
+          consoleSet = "minimal";
+          guiSet = "none";
 
-        isWork = true;
-        isGUI = false;
-        isNixOS = false;
-        consoleSet = "minimal";
-        guiSet = "none";
+          prompt = "ohmyposh";
 
-        prompt = "ohmyposh";
+          wallpaper = null;
+          monitorSetups = [];
+          compositors = []; # "sway" "swayfx"];
+          desktopShell = {
+            launcher = null;
+            logoutManager = null;
+            notificationDaemon = null;
+            widgetTools = [];
+          };
+          editors = ["neovim"];
+          browsers = [];
+          pipewire = false;
+          jack = false;
 
-        wallpaper = null;
-        monitorSetups = [];
-        compositors = []; # "sway" "swayfx"];
-        desktopShell = {
-          launcher = null;
-          logoutManager = null;
-          notificationDaemon = null;
-          widgetTools = [];
+          wayland = false;
+
+          terminalEmulators = []; #["wezterm"];
+          readers = []; #["sioyek"];
+          # browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
+          messagers = [];
+          extraGroups = [];
+
+          ssh-server = false;
         };
-        editors = ["neovim"];
-        browsers = [];
-        pipewire = false;
-        jack = false;
-
-        wayland = false;
-
-        terminalEmulators = []; #["wezterm"];
-        readers = []; #["sioyek"];
-        # browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
-        messagers = [];
-        extraGroups = [];
-
-        ssh-server = false;
-      };
       hank =
         defaultDeclarationGui
         // {

@@ -21,11 +21,16 @@
         "*.props:Java Properties"
       ];
       pager = "ov"; #"less-FR";
-      #theme = "TwoDark";
+      theme = "odenwald";
     };
 
     # TODO::prio2
-    themes = {};
+    themes = {
+      odenwald = {
+        src = ./themes;
+        file = "odenwald.tmTheme";
+      };
+    };
     syntaxes = {};
   };
 }

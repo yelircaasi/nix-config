@@ -1,1 +1,2 @@
 # https://codeberg.org/river/tinyrwm
+{}

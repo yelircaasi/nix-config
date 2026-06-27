@@ -4,5 +4,5 @@
   deviceConfig,
   ...
 }: {
-  home.packages = [pkgs.silver-searcher];
+  home.packages = [pkgs.silver-searcher-ng];
 }

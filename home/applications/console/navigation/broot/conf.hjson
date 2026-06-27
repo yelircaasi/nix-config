@@ -1,0 +1,40 @@
+{
+  "content_search_max_file_size": "10MB",
+  "enable_kitty_keyboard": false,
+  "imports": [
+    "verbs.hjson",
+    {
+      "file": "skins/odenwald.hjson",
+      "luma": [
+        "dark",
+        "unknown"
+      ]
+    },
+    {
+      "file": "skins/odenwald-light.hjson",
+      "luma": "light"
+    }
+  ],
+  "lines_after_match_in_preview": 1,
+  "lines_before_match_in_preview": 1,
+  "preview_transformers": [],
+  "show_selection_mark": true,
+  "special_paths": {
+    "/media": {
+      "list": "never",
+      "sum": "never"
+    },
+    "trav": {
+      "list": "always",
+      "show": "always",
+      "sum": "never"
+    },
+    "~/.config": {
+      "show": "always"
+    }
+  },
+  "modal": true,
+  "initial_mode": "command",
+  "skin": {},
+  "verbs": []
+}

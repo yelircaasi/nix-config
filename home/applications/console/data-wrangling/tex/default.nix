@@ -10,7 +10,4 @@
       pkgs.perl5Packages.LaTeXML
     ];
   };
-
-  xdg.configFile = {
-  };
 }

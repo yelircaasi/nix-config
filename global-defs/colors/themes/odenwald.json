@@ -1,0 +1,56 @@
+{
+    "primitive": {
+        "core": {
+            "black": "#1a1c1a",
+            "blue": "#57a5e5",
+            "brightPurple": "#883E96",
+            "brown": "#623607",
+            "coral": "#f08080",
+            "cyan": "#3E7996",
+            "darkGrey": "#363a35",
+            "gold": "#a5972b",
+            "green": "#4C963E",
+            "grey": "#5b5e5a",
+            "indigo": "#4b3d8a",
+            "lime": "#7a9628",
+            "magenta": "#963e7e",
+            "maroon": "#6b2332",
+            "mint": "#3e9670",
+            "navy": "#243570",
+            "orange": "#96883E",
+            "pink": "#964b6e",
+            "purple": "#3E4C96",
+            "red": "#963E4C",
+            "sand": "#a08960",
+            "teal": "#197a76",
+            "violet": "#6b3e96",
+            "white": "#e8ebe8",
+            "yellow": "#dbb651"
+        },
+        "light": {
+            "lightBlue": "#3E9688",
+            "lightTeal": "#81B5AC",
+            "lightGrey": "#838781"
+            },
+        "dark": {}
+    },
+    "general": {
+        "fg": "$lightTeal"
+    },
+    "semantic": {
+        "contrast": "#111210",
+        "inverse": "#ffffff",
+        "diffAdd": "#40531b",
+        "diffDelete": "#893f45",
+        "diffChange": "#2a3a57",
+        "diffText": "#3a4a67",
+        "bg0": "#031A16'",
+        "bg1": "#0B342D'",
+        "bg2": "#184E45'",
+        "bg3": "#2B685E'",
+        "bg_d": "#1c1e1b'",
+        "bgBlue": "#68aee8",
+        "bgYellow": "#e2c792"
+    },
+    "apps": {}
+}

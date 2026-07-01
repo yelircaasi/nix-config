@@ -21,27 +21,6 @@
         "type": "github"
       }
     },
-    "conflake": {
-      "inputs": {
-        "nixpkgs": [
-          "nix-treesitter",
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1739025932,
-        "narHash": "sha256-8BbSpXfJfy3R7XYX43dQeYZJ7K+IDCfGZb1KgRHN0Pg=",
-        "owner": "ratson",
-        "repo": "conflake",
-        "rev": "69b5b014b79ecd457aa698e383602b07d52683c4",
-        "type": "github"
-      },
-      "original": {
-        "owner": "ratson",
-        "repo": "conflake",
-        "type": "github"
-      }
-    },
     "firefox-addons": {
       "inputs": {
         "nixpkgs": [
@@ -153,25 +132,22 @@
         "neovim-nightly-overlay": [
           "neovim-nightly-overlay"
         ],
-        "nix-treesitter": [
-          "nix-treesitter"
-        ],
         "nixpkgs": [
           "nixpkgs"
         ]
       },
       "locked": {
-        "lastModified": 1782050453,
-        "narHash": "sha256-XljRl7h+ZVYFBrZBGY4TCEKcTv6Pq72/1Sul/NuFmpQ=",
+        "lastModified": 1782892668,
+        "narHash": "sha256-ily55dqA9oa/Vdqs24IbGbsw3AN55N1utmEquHdRoVE=",
         "owner": "yelircaasi",
         "repo": "neovim-flake",
-        "rev": "c0d569b69a1d84f88595bf42ff24f0c59b82d132",
+        "rev": "ad778436b73b64b8ee55c9e37edbc7062a25b03e",
         "type": "github"
       },
       "original": {
         "owner": "yelircaasi",
         "repo": "neovim-flake",
-        "rev": "c0d569b69a1d84f88595bf42ff24f0c59b82d132",
+        "rev": "ad778436b73b64b8ee55c9e37edbc7062a25b03e",
         "type": "github"
       }
     },
@@ -211,28 +187,6 @@
       "original": {
         "owner": "neovim",
         "repo": "neovim",
-        "type": "github"
-      }
-    },
-    "nix-treesitter": {
-      "inputs": {
-        "conflake": "conflake",
-        "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1739028560,
-        "narHash": "sha256-7joUNhdZfSkuGL65Lbsmuf/NviUjuGtAhbfdPYuFGjk=",
-        "owner": "ratson",
-        "repo": "nix-treesitter",
-        "rev": "d9d35e37a5b2aee2f3f4d14c66e2bf0604dae4ce",
-        "type": "github"
-      },
-      "original": {
-        "owner": "ratson",
-        "repo": "nix-treesitter",
-        "rev": "d9d35e37a5b2aee2f3f4d14c66e2bf0604dae4ce",
         "type": "github"
       }
     },
@@ -322,7 +276,6 @@
         "home-manager": "home-manager",
         "neovim-flake": "neovim-flake",
         "neovim-nightly-overlay": "neovim-nightly-overlay",
-        "nix-treesitter": "nix-treesitter",
         "nix-vscode-extensions": "nix-vscode-extensions",
         "nixgl": "nixgl",
         "nixpkgs": "nixpkgs",

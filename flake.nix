@@ -298,9 +298,8 @@
 
     # TODO::prio1
     neovim-flake = {
-      url = github:yelircaasi/neovim-flake/c0d569b69a1d84f88595bf42ff24f0c59b82d132;
+      url = github:yelircaasi/neovim-flake/ad778436b73b64b8ee55c9e37edbc7062a25b03e;
       inputs.nixpkgs.follows = "nixpkgs";
-      inputs.nix-treesitter.follows = "nix-treesitter";
       inputs.neovim-nightly-overlay.follows = "neovim-nightly-overlay";
       inputs.blink-lib.follows = "blink-lib";
       # inputs.flake-utils.follows = "flake-utils";
@@ -336,10 +335,10 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
-    nix-treesitter = {
-      url = "github:ratson/nix-treesitter/d9d35e37a5b2aee2f3f4d14c66e2bf0604dae4ce";
-      inputs.nixpkgs.follows = "nixpkgs";
-    };
+    # nix-treesitter = {
+    #   url = "github:ratson/nix-treesitter/d9d35e37a5b2aee2f3f4d14c66e2bf0604dae4ce";
+    #   inputs.nixpkgs.follows = "nixpkgs";
+    # };
 
     quickshell = {
       # add ?ref=<tag> to track a tag

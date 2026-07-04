@@ -71,6 +71,14 @@
   #   work1Dell = "Dell Inc. DELL P2418D MY3ND87U07VT";
   # };
   setupSet = g.filterAttrsFromList deviceConfig.monitorSetups g.setups;
+
+  execPaths = {
+    dbus = "${pkgs.dbus}";
+  };
+
+  pathsLuaText = ''
+    return ${pkgs.lib.generators.toLua {} execPaths}
+  '';
 in {
   imports = [
   ];
@@ -89,8 +97,16 @@ in {
 
   xdg.configFile =
     (helpers.mkPerSetup
-      (setupName: "./hypr-setups/${setupName}/hyprland.conf")
-      (setupName: {text = helpers.mkHyprlandConfig setupName;})
+      (setupName: "./hypr-setups/${setupName}/hyprland.lua")
+      (setupName: {source = ./hyprland.lua;})
+      setupSet)
+    // (helpers.mkPerSetup
+      (setupName: "./hypr-setups/${setupName}/lua/paths.lua")
+      (setupName: {text = pathsLuaText;})
+      setupSet)
+    // (helpers.mkPerSetup
+      (setupName: "./hypr-setups/${setupName}/lua/setup-specific.lua")
+      (setupName: {text = helpers.mkSetupSpecificLua setupName;})
       setupSet)
     // (helpers.mkPerSetup
       (setupName: "./hypr-setups/${setupName}/hyprlock.conf")

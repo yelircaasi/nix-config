@@ -8,23 +8,26 @@
   deviceConfig,
   ...
 }: let
-  # shared = import ./shared-assets {inputs};
-  resolveShellImport = deviceConfig: map (name: ./${name}) ([deviceConfig.defaultShell] ++ deviceConfig.otherShells);
+  includedShells = map (name: ./shells/${name}) ([deviceConfig.defaultShell] ++ deviceConfig.otherShells);
 in {
-  imports = inputs.nixpkgs.lib.unique ([
-      ./common
+  imports = inputs.nixpkgs.lib.unique (includedShells
+    ++ [
+      ./shared
       ./scripts
-      ./${deviceConfig.prompt}
-    ]
-    ++ (resolveShellImport deviceConfig));
+      ./prompts/${deviceConfig.prompt}
+    ]);
 
-  home.sessionVariables =
-    # TODO
-    import
-    ./environment-variables.nix
-    {inherit inputs config pkgs lib g deviceConfig;};
-
-  # home.shellAliases = {};
+  programs.direnv = {
+    enable = true;
+    package = pkgs.direnv;
+    silent = false;
+    # loadInNixShell = true;
+    # direnvrcExtra = "";
+    nix-direnv = {
+      enable = true;
+      package = pkgs.nix-direnv;
+    };
+  };
 
   home.packages = with pkgs; [
     python313

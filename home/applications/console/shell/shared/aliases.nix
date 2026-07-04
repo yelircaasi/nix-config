@@ -5,8 +5,7 @@
   deviceConfig,
 }: let
   git = "${pkgs.git}";
-in
-  g.selectSetsViaConsoleSet deviceConfig {
+  aliasGroups = {
     minimal = rec {
       ls = "${pkgs.eza}/bin/eza";
       ll = "${ls} -l";
@@ -32,4 +31,7 @@ in
     extended = {
       raku = "${pkgs.rakudo}/bin/rakudo";
     };
-  }
+  };
+in {
+  home.shellAliases = g.selectSetsViaConsoleSet deviceConfig aliasGroups;
+}

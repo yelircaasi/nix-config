@@ -27,19 +27,51 @@
     (w: "${builtins.toString w}x0")
     ([0] ++ (g.cumulativeSum (map (m: m.pixelWidth) g.setups.${setupName}.monitors)));
 
-  mkMonitors = setupName:
+  OLD_mkMonitors = setupName:
     lib.concatLines (lib.zipListsWith (
         monitorInfo: location: ''
-          monitor = desc:${monitorInfo.desc}, ${builtins.toString monitorInfo.pixelWidth}x${builtins.toString monitorInfo.pixelHeight}, ${location}, 1
+          hl.monitor({
+          	output = "desc:${monitorInfo.desc}",
+            mode = "${builtins.toString monitorInfo.pixelWidth}x${builtins.toString monitorInfo.pixelHeight}",
+            position = "${location}",
+            scale = 1,
+          })
         ''
       )
       g.setups.${setupName}.monitors
       (cumulativeLocations setupName));
 
-  mkWorkspaces = setupName:
+  mkMonitorsLua = setupName:
+    lib.concatLines (lib.zipListsWith (
+        monitorInfo: location: ''
+          hl.monitor({
+          	output = "desc:${monitorInfo.desc}",
+            mode = "${builtins.toString monitorInfo.pixelWidth}x${builtins.toString monitorInfo.pixelHeight}",
+            position = "${location}",
+            scale = 1,
+          })
+        ''
+      )
+      g.setups.${setupName}.monitors
+      (cumulativeLocations setupName));
+
+  OLD_mkWorkspaces = setupName:
     lib.concatLines (
       lib.zipListsWith (monInfo: num: ''
         workspace=${builtins.toString num}, monitor:desc:${monInfo.desc}, default:true
+      '')
+      g.setups.${setupName}.monitors
+      (lib.range 1 (builtins.length g.setups.${setupName}.monitors))
+    );
+
+  mkWorkspacesLua = setupName:
+    lib.concatLines (
+      lib.zipListsWith (monInfo: num: ''
+        hl.workspace_rule({
+          workspace = "${builtins.toString num}",
+          monitor = "desc:${monInfo.desc}",
+          default = true
+        })
       '')
       g.setups.${setupName}.monitors
       (lib.range 1 (builtins.length g.setups.${setupName}.monitors))
@@ -65,7 +97,26 @@ in {
     (setupName: _: attrMaker setupName)
     _setupSet;
 
-  mkHyprlandConfig = setupName: ''
+  # readAndInterpolate = globalSet: filePath: let
+  #     fileString = b.readFile filePath;
+  #     placeholders = findAllPlaceholders fileString;
+  #   in
+  #     b.replaceStrings
+  #     placeholders
+  #     (getNewValues globalSet placeholders)
+  #     fileString;
+
+  # mkHyprlandLua = setupName: (
+  #   g.utils.readAndInterpolate {dbus = "${pkgs.dbus}";} ./hyprland.lua
+  # );
+
+  mkSetupSpecificLua = setupName: ''
+    ${mkMonitorsLua setupName}
+
+    ${mkWorkspacesLua setupName}
+  '';
+
+  OLD_mkHyprlandConfig = setupName: ''
     exec-once = ${pkgs.dbus}/bin/dbus-update-activation-environment --systemd DISPLAY HYPRLAND_INSTANCE_SIGNATURE WAYLAND_DISPLAY XDG_CURRENT_DESKTOP && systemctl --user stop hyprland-session.target && systemctl --user start hyprland-session.target
     $LMB=mouse:272
     $RMB=mouse:275
@@ -169,9 +220,9 @@ in {
     exec-once=hypridle
     exec-once=waybar
 
-    ${mkMonitors setupName}
+    ${OLD_mkMonitors setupName}
 
-    ${mkWorkspaces setupName}
+    ${OLD_mkWorkspaces setupName}
 
   '';
 

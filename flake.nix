@@ -33,7 +33,7 @@
       };
 
       defaultShell = "bash";
-      otherShells = [];
+      otherShells = []; # bash | dash | elvish | fish | hilbish | ngs | nushell | xonsh | zsh
       prompt = "starship";
 
       compositors = []; # "sway" "swayfx"];
@@ -105,6 +105,7 @@
           isWork = true;
           consoleSet = "minimal";
           guiSet = "minimal";
+          otherShells = ["dash" "elvish" "fish" "hilbish" "nushell" "xonsh"]; # "ngs" "zsh"];
           monitorSetups = ["olivia-work1-3" "olivia-work2-3" "olivia-work3-3" "olivia-home-3"];
           editors = ["vscode" "neovim"];
           browsers = ["qutebrowser" "chromium" "vieb" "nyxt"];

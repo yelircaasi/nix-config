@@ -3,6 +3,7 @@
   lib,
   g,
   deviceConfig,
+  ...
 }: let
   git = "${pkgs.git}";
   aliasGroups = {
@@ -32,6 +33,8 @@
       raku = "${pkgs.rakudo}/bin/rakudo";
     };
   };
-in {
-  home.shellAliases = g.selectSetsViaConsoleSet deviceConfig aliasGroups;
-}
+in
+  # (g.selectSetsViaConsoleSet deviceConfig aliasGroups)
+  {
+    home.shellAliases = g.selectSetsViaConsoleSet deviceConfig aliasGroups;
+  }

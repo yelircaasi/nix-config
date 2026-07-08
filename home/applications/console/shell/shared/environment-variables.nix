@@ -5,6 +5,7 @@
   lib,
   g,
   deviceConfig,
+  ...
 }: let
   environmentVariableGroups = {
     minimal = rec {

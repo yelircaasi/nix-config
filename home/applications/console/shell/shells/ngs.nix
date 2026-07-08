@@ -9,10 +9,7 @@
   ngsPackage,
   ...
 }: let
-  ngs = null;
+  shellName = "ngs";
 in {
-  users.users.${config.userName}.shell = ngs;
-  environment.shells = [ngs];
-
-  home.packages = [ngs];
+  home.packages = [mypkgs.${shellName}];
 }

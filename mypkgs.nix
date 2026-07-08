@@ -1286,4 +1286,84 @@ in {
       platforms = platforms.all;
     };
   };
+
+  ngs = let
+    inherit
+      (pkgs)
+      lib
+      stdenv
+      fetchFromGitHub
+      fetchurl
+      cmake
+      pkg-config
+      boehmgc
+      libffi
+      json_c
+      pcre
+      pandoc
+      ;
+    # NGS's CMakeLists.txt does `find_program(LEG leg)` and, if it's not on
+    # PATH, downloads and builds Ian Piumarta's peg/leg parser generator
+    # itself via ExternalProject_Add. That reaches out to piumarta.com mid
+    # build, which the Nix sandbox won't allow. So: build the exact same
+    # tarball ourselves (same URL + hash NGS's own CMakeLists.txt pins) and
+    # put `leg` on PATH as a native build input instead.
+    peg-leg = stdenv.mkDerivation {
+      pname = "peg-leg";
+      version = "0.1.18";
+
+      src = fetchurl {
+        url = "https://www.piumarta.com/software/peg/peg-0.1.18.tar.gz";
+        # SHA1 as pinned in ngs/CMakeLists.txt: URL_HASH SHA1=...
+        sha1 = "2390bcf91299aa61c5fa93895151ffeb988357a5";
+      };
+
+      installPhase = ''
+        runHook preInstall
+        mkdir -p $out/bin
+        install -m755 peg leg $out/bin/
+        runHook postInstall
+      '';
+    };
+  in
+    stdenv.mkDerivation rec {
+      pname = "ngs";
+      version = "0.2.17"; # latest tag as of writing
+
+      src = fetchFromGitHub {
+        owner = "ngs-lang";
+        repo = "ngs";
+        rev = "v${version}";
+        # Placeholder - `nix build` will fail on purpose the first time and
+        # print the real hash to paste in here. Standard workflow, not a bug.
+        hash = "sha256-j7OAXHADc2LlabKxVgYiKeDDtLttDVIavhQZSGyPGlE=";
+      };
+
+      # build-scripts/*.sh use `#!/usr/bin/env bash` shebangs. The Nix build
+      # sandbox only bind-mounts /bin/sh, not /usr/bin/env, so those fail with
+      # "bad interpreter" unless we repoint the shebangs at the store bash.
+      postPatch = ''
+        patchShebangs build-scripts
+      '';
+
+      nativeBuildInputs = [cmake pkg-config peg-leg pandoc];
+      buildInputs = [boehmgc libffi json_c pcre];
+
+      cmakeFlags = [
+        # If uncommented, skip man-page generation so pandoc isn't required just to get a binary.
+        # "-DBUILD_MAN=OFF"
+      ];
+
+      # `ctest` (runs test.ngs) works fine if you want it; off by default to
+      # keep the build lean.
+      doCheck = false;
+
+      meta = {
+        description = "Next Generation Shell (NGS) - a programming language for DevOps/Ops scripting";
+        homepage = "https://ngs-lang.org/";
+        license = lib.licenses.gpl3Only;
+        mainProgram = "ngs";
+        platforms = lib.platforms.unix;
+      };
+    };
 }

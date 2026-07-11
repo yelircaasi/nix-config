@@ -38,7 +38,7 @@
     lib.attrsets.getAttrFromPath attrPath globalSet;
 in
   (import ./color_utils.nix {inherit lib;})
-  // (import ./interpolation_utils.nix {inherit lib;})
+  // (import ./interpolation_utils.nix {inherit pkgs;})
   // rec {
     readAndInterpolate = globalSet: filePath: let
       fileString = b.readFile filePath;

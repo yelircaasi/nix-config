@@ -109,7 +109,7 @@ in {
       gdrive3
     ];
     sessionVariables = {
-      EDITOR = "nvim";
+      EDITOR = "pde";
     };
   };
 

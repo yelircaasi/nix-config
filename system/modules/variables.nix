@@ -8,12 +8,12 @@
     NIXOS_OZONE_WL = "1";
     QT_STYLE_OVERRIDE = "gtk2";
 
-    EDITOR = "nvim";
+    EDITOR = "pde";
     BROWSER = "qutebrowser";
     NICKNAME = deviceConfig.name;
   };
   environment.variables = {
-    EDITOR = "nvim";
+    EDITOR = "pde";
     BROWSER = "qutebrowser";
     QT_STYLE_OVERRIDE = "gtk2";
     NICKNAME = deviceConfig.name;

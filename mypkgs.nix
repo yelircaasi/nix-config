@@ -1287,6 +1287,7 @@ in {
     };
   };
 
+  # TODO: package as own flake, to make pinning to rev easier
   ngs = let
     inherit
       (pkgs)

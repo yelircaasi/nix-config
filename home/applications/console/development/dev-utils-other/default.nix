@@ -7,6 +7,9 @@
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
     core = with pkgs; [
+      git-cliff  # https://git-cliff.org/docs
+    ];
+    extended = with pkgs; [
       fastmod
       # mypkgs.codemod2
 
@@ -33,7 +36,7 @@
       # release
 
       # codebase navigation
-      universal-ctags
+      # universal-ctags
       idutils
 
       # debugging

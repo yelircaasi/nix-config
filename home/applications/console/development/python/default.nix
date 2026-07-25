@@ -47,6 +47,10 @@ in {
       uv
       ruff
       py
+      pyrefly
+      ty
+      mypy
+      python314Packages.python-lsp-server
     ];
   };
 

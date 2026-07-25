@@ -5,7 +5,7 @@
   ...
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
-    core = with pkgs; [
+    extended = with pkgs; [
       poppler-utils
       # xpdf  # INSECURE
     ];

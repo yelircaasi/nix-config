@@ -6,7 +6,7 @@
   ...
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
-    core = with pkgs; [
+    extended = with pkgs; [
       xdg-ninja
       mypkgs.antidot
       # mypkgs.filesort  TODO::prio2: fix

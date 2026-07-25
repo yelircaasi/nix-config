@@ -91,8 +91,11 @@ in {
     hyprpicker # color picker
     hyprpaper # move
     swww # move
+    hyprshell
     # mpvpaper # Live wallpaper
     # scratchpad
+    quickshell # move
+    noctalia-shell # move
   ];
 
   xdg.configFile =

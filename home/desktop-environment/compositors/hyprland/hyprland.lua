@@ -27,7 +27,7 @@ local commands = {
 	handlr = {
 		terminal = "handlr launch x-scheme-handler/terminal --",
 	},
-	desktop_environment = "waybar",
+	desktop_environment = "noctalia-shell",
 	startup = paths.dbus
 		.. "/bin/dbus-update-activation-environment"
 		.. " --systemd DISPLAY HYPRLAND_INSTANCE_SIGNATURE WAYLAND_DISPLAY XDG_CURRENT_DESKTOP"

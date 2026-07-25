@@ -8,7 +8,12 @@
   ...
 }: let
   rustToolchain = pkgs.rust-bin.stable.latest.default.override {
-    extensions = ["rust-src" "rustfmt" "rust-analyzer" "clippy"];
+    extensions = [
+      "rust-src"
+      "rustfmt"
+      "rust-analyzer"
+      "clippy"
+    ];
   };
 in {
   # TODO::prio1: make list of progLangs to import according to boolean switches in deviceConfig

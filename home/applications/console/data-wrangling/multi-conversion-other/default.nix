@@ -6,6 +6,9 @@
   ...
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
+    minimnal = with pkgs; [
+      xan
+    ];
     core = with pkgs; [
       pandoc # TODO::prio2: add extras and lua filters: https://pandoc.org/extras.html, https://github.com/pandoc/lua-filters, https://github.com/pandoc-ext/info
       remarshal

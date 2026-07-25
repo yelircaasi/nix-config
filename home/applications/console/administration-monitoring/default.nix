@@ -13,10 +13,8 @@
       ./network.nix
     ]
     ++ (
-      g.buildList
-      deviceConfig.consoleSet
-      deviceConfig.setOverrides {
-        core = [./topgrade.nix];
+      g.selectViaConsoleSet deviceConfig {
+        extended = [./topgrade.nix];
       }
     );
 }

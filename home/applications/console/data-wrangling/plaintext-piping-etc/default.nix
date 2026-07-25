@@ -6,7 +6,7 @@
   ...
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
-    core = with pkgs; [
+    extended = with pkgs; [
       each
       # mypkgs.zet
       huniq

@@ -5,7 +5,7 @@
   ...
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
-    core = with pkgs; [
+    extended = with pkgs; [
       grex
       crex
       python313Packages.exrex

@@ -14,7 +14,7 @@
     g.selectViaConsoleSet
     deviceConfig {
       minimal = [./yazi];
-      core = [./xplr];
-      extended = [./nnn];
+      core = [];
+      extended = [./xplr ./nnn];
     };
 }

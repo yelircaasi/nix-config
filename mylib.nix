@@ -5,6 +5,7 @@
   makePkgs = system:
     import inputs.nixpkgs {
       inherit system;
+      config.allowUnfree = true;
       overlays = with inputs;
         [(import rust-overlay)]
         ++ (
@@ -112,4 +113,8 @@ in rec {
     deviceMapper makeHomeManagerConfig deviceDeclarationAttrSet;
 
   makeDevShells = deviceDeclarationAttrSet: {};
+
+  globalDefs = import ./global-defs {
+    inherit (import inputs.nixpkgs {system = "x86_64-linux";}) lib;
+  }; # -> move g.utils to nixos-utils flake
 }

@@ -6,7 +6,7 @@
   ...
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
-    minimal = [pkgs.btop];
+    minimal = with pkgs; [btop lsof procfd];
     core = with pkgs; [conky glances];
     extended = [pkgs.gotop];
   };

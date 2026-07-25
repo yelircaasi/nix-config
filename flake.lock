@@ -137,17 +137,17 @@
         ]
       },
       "locked": {
-        "lastModified": 1782892668,
-        "narHash": "sha256-ily55dqA9oa/Vdqs24IbGbsw3AN55N1utmEquHdRoVE=",
+        "lastModified": 1783858272,
+        "narHash": "sha256-BJqR4GOWRFRiAZ3Uk5Azdm54mOPdlabBawa96FFcYkY=",
         "owner": "yelircaasi",
         "repo": "neovim-flake",
-        "rev": "ad778436b73b64b8ee55c9e37edbc7062a25b03e",
+        "rev": "e6f9748df166139cd1874a90da95cae5d9b0b584",
         "type": "github"
       },
       "original": {
         "owner": "yelircaasi",
         "repo": "neovim-flake",
-        "rev": "ad778436b73b64b8ee55c9e37edbc7062a25b03e",
+        "rev": "e6f9748df166139cd1874a90da95cae5d9b0b584",
         "type": "github"
       }
     },

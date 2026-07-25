@@ -7,6 +7,7 @@
   imports = [
     ./calculator-conversion-date
     ./compression-decompression
+    ./dataviz
     ./diff
     ./html-xml
     ./json

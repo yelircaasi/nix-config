@@ -1,4 +1,6 @@
 {
+  config,
+  inputs,
   pkgs,
   mypkgs,
   g,
@@ -6,6 +8,9 @@
   ...
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
-    core = with pkgs; [];
+    minimal = with pkgs; [
+      lua-language-server
+      stylua
+    ];
   };
 }

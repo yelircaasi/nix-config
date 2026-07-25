@@ -14,7 +14,7 @@
       jaq
       jc
       jd-diff-patch
-      jj
+      # jj TODO: rename because of name conflict
       jless
       jnv
       jo

@@ -7,7 +7,7 @@
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
     core = with pkgs; [
-      git-cliff  # https://git-cliff.org/docs
+      git-cliff # https://git-cliff.org/docs
     ];
     extended = with pkgs; [
       fastmod

@@ -4,5 +4,5 @@
   deviceConfig,
   ...
 }: {
-  home.packages = [pkgs.opencode];
+  # home.packages = [pkgs.opencode];
 }

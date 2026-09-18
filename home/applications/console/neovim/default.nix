@@ -5,5 +5,5 @@
 }: let
   pde = inputs.neovim-flake.packages.${pkgs.system}.pde;
 in {
-  home.packages = [pde];
+  home.packages = [pde pkgs.neovim-remote];
 }

@@ -16,14 +16,14 @@ if wezterm.config_builder then
 end
 
 if os.getenv("XDG_SESSION_TYPE") == "wayland" then
-    config.front_end = "WebGpu"
+	config.front_end = "WebGpu"
 end
 config.enable_wayland = true
 
 if os.getenv("OSTYPE") == "linux-gnu" then
 	config.default_prog = { "bash" }
 else
-    config.default_prog = { "zsh" }
+	config.default_prog = { "zsh" }
 end
 
 -- This is where you actually apply your config choices
@@ -164,21 +164,20 @@ config.disable_default_key_bindings = true
 
 config.keys = {
 	-- recently changed
-    { key = "L", mods = "ALT|SHIFT", action = act.SplitHorizontal({ domain = "CurrentPaneDomain" }) },
-	{ key = 'J',  mods = "ALT|SHIFT", action = act.SplitVertical(  { domain = "CurrentPaneDomain" }) },
+	{ key = "L", mods = "ALT|SHIFT", action = act.SplitHorizontal({ domain = "CurrentPaneDomain" }) },
+	{ key = "J", mods = "ALT|SHIFT", action = act.SplitVertical({ domain = "CurrentPaneDomain" }) },
 	-- { key = "%", mods = "SHIFT|ALT|CTRL", action = act.SplitHorizontal({ domain = "CurrentPaneDomain" }) },
 	-- { key = '"', mods = "SHIFT|ALT|CTRL", action = act.SplitVertical({ domain = "CurrentPaneDomain" }) },
-	
-	{ key = "H",  mods = "ALT|SHIFT|CTRL", action = act.AdjustPaneSize({ "Left", 1 }) },
+
+	{ key = "H", mods = "ALT|SHIFT|CTRL", action = act.AdjustPaneSize({ "Left", 1 }) },
 	{ key = "L", mods = "ALT|SHIFT|CTRL", action = act.AdjustPaneSize({ "Right", 1 }) },
-	{ key = "K",    mods = "ALT|SHIFT|CTRL", action = act.AdjustPaneSize({ "Up", 1 }) },
-	{ key = "J",  mods = "ALT|SHIFT|CTRL", action = act.AdjustPaneSize({ "Down", 1 }) },
+	{ key = "K", mods = "ALT|SHIFT|CTRL", action = act.AdjustPaneSize({ "Up", 1 }) },
+	{ key = "J", mods = "ALT|SHIFT|CTRL", action = act.AdjustPaneSize({ "Down", 1 }) },
 
 	{ key = "l", mods = "ALT", action = act.ActivatePaneDirection("Right") },
 	{ key = "h", mods = "ALT", action = act.ActivatePaneDirection("Left") },
 	{ key = "k", mods = "ALT", action = act.ActivatePaneDirection("Up") },
 	{ key = "j", mods = "ALT", action = act.ActivatePaneDirection("Down") },
-	
 
 	-- old
 	{ key = "Tab", mods = "CTRL", action = act.ActivateTabRelative(1) },
@@ -487,5 +486,7 @@ config.key_tables = {
 }
 --]]
 -- print(config.keys)
+
+dofile(wezterm.config_dir .. "/wezterm-run.lua").apply(config)
 
 return config

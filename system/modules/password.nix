@@ -7,6 +7,10 @@
   environment.systemPackages = with pkgs; [
     libpwquality
   ];
+  environment.etc."security/pwquality.conf".text = ''
+    minlen = 12
+    enforce_for_root
+  '';
   security.pam.services.passwd.rules.password.pwquality = {
     control = "required";
     modulePath = "${pkgs.libpwquality.lib}/lib/security/pam_pwquality.so";

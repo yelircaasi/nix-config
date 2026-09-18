@@ -61,7 +61,7 @@
 
     # TODO::prio1
     neovim-flake = {
-      url = github:yelircaasi/neovim-flake/e6f9748df166139cd1874a90da95cae5d9b0b584;
+      url = github:yelircaasi/neovim-flake/8ddae7888a7599cdfaec5e655a7e85f5b2e06207;
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.neovim-nightly-overlay.follows = "neovim-nightly-overlay";
       inputs.blink-lib.follows = "blink-lib";

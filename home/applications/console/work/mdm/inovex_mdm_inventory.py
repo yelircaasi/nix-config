@@ -1,5 +1,3 @@
-
-
 import argparse
 import json
 import logging
@@ -86,7 +84,7 @@ def get_mountpoints():
     lsblk_json: dict[str, list[dict]] = json.loads(lsblk_result.stdout)
     result: list[dict[str, str | None]] = []
     for block in lsblk_json.get("blockdevices", []):
-        for mountpoint in block.get('mountpoints'):
+        for mountpoint in block.get("mountpoints"):
             if mountpoint:
                 result.append(
                     {
@@ -149,25 +147,31 @@ def get_rpm_package_list() -> list[dict[str, str]]:
 def run_package_manager(command: list[str], pkg_mgr: str) -> str:
     try:
         return subprocess.check_output(command)
-    except FileNotFoundError as e:
-        LOGGER.debug("skip %s package list, '%s' command not found", pkg_mgr, command[0])
+    except FileNotFoundError:
+        LOGGER.debug(
+            "skip %s package list, '%s' command not found", pkg_mgr, command[0]
+        )
         return b""
     except Exception as e:
         LOGGER.error("%s", e)
         sys.exit(1)
 
 
-def get_package_list_from_command(command: list[str], pkg_mgr: str, start_line: int = 0) -> list[dict[str, str]]:
+def get_package_list_from_command(
+    command: list[str], pkg_mgr: str, start_line: int = 0
+) -> list[dict[str, str]]:
     output = run_package_manager(command, pkg_mgr)
 
     result = []
     for line in output.decode().splitlines()[start_line:]:
-        package_version = re.split(r'\s+', line)
-        result.append({
-            "name": package_version[0],
-            "version": package_version[1],
-            "package_manager": pkg_mgr
-        })
+        package_version = re.split(r"\s+", line)
+        result.append(
+            {
+                "name": package_version[0],
+                "version": package_version[1],
+                "package_manager": pkg_mgr,
+            }
+        )
     return result
 
 
@@ -181,23 +185,29 @@ def parse_package_list(package_list_file: str | None) -> list[dict[str, str]]:
             sys.exit(1)
         for package in package_list:
             package_version = package.split(" ")
-            result.append({
-                "name": package_version[0],
-                "version": package_version[1],
-                "package_manager": package_version[2]
-            })
+            result.append(
+                {
+                    "name": package_version[0],
+                    "version": package_version[1],
+                    "package_manager": package_version[2],
+                }
+            )
         return result
 
     result += get_apt_package_list()
     result += get_package_list_from_command(["snap", "list"], "snap", 1)
     result += get_rpm_package_list()
-    result += get_package_list_from_command(["flatpak", "list", "--columns=application,version,branch"], "flatpak")
+    result += get_package_list_from_command(
+        ["flatpak", "list", "--columns=application,version,branch"], "flatpak"
+    )
     result += get_package_list_from_command(["pacman", "-Q"], "pacman")
 
     if result:
         return sorted(result, key=lambda package: package["name"])
 
-    LOGGER.error("No package list found. Use %s environment variable", PACKAGES_LIST_FILE)
+    LOGGER.error(
+        "No package list found. Use %s environment variable", PACKAGES_LIST_FILE
+    )
     sys.exit(1)
 
 
@@ -218,11 +228,37 @@ def get_screen_lock_timeout() -> int:
             LOGGER.error("Failed to parse screen timeout: %s", str(ex))
             sys.exit(1)
 
-    LOGGER.error("No screen lock timeout in %s environment variable", SCREEN_LOCK_TIMEOUT)
+    LOGGER.error(
+        "No screen lock timeout in %s environment variable", SCREEN_LOCK_TIMEOUT
+    )
     sys.exit(1)
 
 
 def get_password_min_length(pam_file: str) -> int:
+    # 1. Try pwquality.conf first (where NixOS puts security.pam.pwquality.settings)
+    try:
+        with open("/etc/security/pwquality.conf", "r") as f:
+            for line in f:
+                match = re.match(r"^\s*minlen\s*=\s*(\d+)", line)
+                if match:
+                    return int(match.group(1))
+    except FileNotFoundError:
+        pass
+
+    # 2. Fallback: inspect /etc/pam.d/system-auth (where inline PAM params land)
+    try:
+        with open("/etc/pam.d/system-auth", "r") as f:
+            for line in f:
+                match = re.search(r"pam_pwquality\.so.*\bminlen=(\d+)", line)
+                if match:
+                    return int(match.group(1))
+    except FileNotFoundError:
+        pass
+
+    return 0  # minlen not found
+
+
+def OLD_get_password_min_length(pam_file: str) -> int:
     min_length = os.getenv(PASSWORD_MIN_LENGTH)
     if not min_length:
         grep_result = run_command(

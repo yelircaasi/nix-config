@@ -81,6 +81,16 @@ in rec {
       ++ setOverrides.add
     );
 
+  isLinux = deviceCfg: lib.strings.hasInfix "linux" deviceCfg.system;
+
+  # TODO: use stdenv.hostPlatform.isDarwin instead
+  isDarwin = deviceCfg: lib.strings.hasInfix "darwin" deviceCfg.system; 
+
+  # TODO: stdenv.hostPlatform.isLinux instead
+  linuxOnly = deviceCfg: packages: if isLinux deviceCfg then packages else [];
+
+  darwinOnly = deviceCfg: packages: if isDarwin deviceCfg then packages else [];
+
   asListIf = nameBool: namePath:
     if nameBool
     then [namePath]

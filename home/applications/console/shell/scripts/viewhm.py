@@ -13,8 +13,17 @@ exempt = {
     "Knecon",
     "Learning",
     "Documents",
+    "Desktop",
     "Downloads",
+    "repos",
     "OLD",
+    "nix-config",
+    ".Trash",
+    ".DS_Store",
+    "Library",
+    ".CFUserTextEncoding",
+    ".IdentityService",
+    "uapc",
 }
 
 

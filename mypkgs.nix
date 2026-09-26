@@ -15,9 +15,9 @@
   buildRustPackage = pkgs.rustPlatform.buildRustPackage;
   buildPythonPackage = pkgs.python313Packages.buildPythonPackage;
 in {
-  adiumentum = pkgs.python314Packages.buildPythonPackage rec {
+  adiumentum = pkgs.python313Packages.buildPythonPackage rec {
     pname = "adiumentum";
-    version = "0.7.2";
+    version = "0.8.11";
     format = "pyproject";
 
     src = pkgs.fetchPypi {
@@ -25,9 +25,9 @@ in {
       hash = "sha256-NikSb4Mu8FrS6/XfSnRkazgP28y6+Qt+s/e4QaXlGz4=";
     };
 
-    build-system = [pkgs.python314Packages.uv-build];
+    build-system = [pkgs.python313Packages.uv-build];
 
-    dependencies = with pkgs.python314Packages; [
+    dependencies = with pkgs.python313Packages; [
       pydantic
       multipledispatch
       loguru

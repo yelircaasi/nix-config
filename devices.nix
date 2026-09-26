@@ -18,7 +18,7 @@ let
     otherShells = []; # bash | dash | elvish | fish | hilbish | ngs | nushell | xonsh | zsh
     prompt = "starship";
 
-    compositors = []; # "sway" "swayfx"];
+    compositors = []; # ["sway" "swayfx"];
     desktopShell = {
       launcher = null;
       logoutManager = null;
@@ -125,8 +125,8 @@ in {
       # TODO::prio1
       description = "MacOS";
       system = "aarch64-darwin";
-      userName = "ext_riley";
-      homeDir = "/Users/ext_riley";
+      userName = "isaac";
+      homeDir = "/Users/isaac";
 
       isWork = true;
       isGUI = false;
@@ -138,7 +138,7 @@ in {
 
       wallpaper = null;
       monitorSetups = [];
-      compositors = []; # "sway" "swayfx"];
+      compositors = []; # ["sway" "swayfx"];
       desktopShell = {
         launcher = null;
         logoutManager = null;
@@ -152,13 +152,14 @@ in {
 
       wayland = false;
 
-      terminalEmulators = []; #["wezterm"];
+      terminalEmulators = ["wezterm"]; #["wezterm"];
       readers = []; #["sioyek"];
       # browsers = ["nyxt" "qutebrowser" "vieb" "firefox"];
       messagers = [];
       extraGroups = [];
 
       ssh-server = false;
+      networkmanager = false;
     };
   hank =
     defaultDeclarationGui

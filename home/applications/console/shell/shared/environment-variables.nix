@@ -7,6 +7,7 @@
   deviceConfig,
   ...
 }: let
+  
   environmentVariableGroups = {
     minimal = rec {
       EDITOR = "pde";

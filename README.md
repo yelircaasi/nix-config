@@ -84,6 +84,8 @@ Coming soon...
 
 ## Roadmap
 
+- [ ] add copilot and opencode (see [article](https://blog.f12.no/wp/2025/09/22/using-claude-code-with-github-copilot-a-guide/))
+
 - [ ] `{0.999}` `[nvim]` `vim.keymap.set("x", "p", [["_dP]])`
 
 - [ ] `{0.9999}` `[nvim]` extract neovim config as a flake: see README in neovim directory of nix-config

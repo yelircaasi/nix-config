@@ -22,8 +22,11 @@
       gojq
       jql
       jqp
-      zed #  also provides zq
+      super
       jid
+    ];
+    extended = with pkgs; [
+      super # was: zed (provides zq)
     ];
   };
 }

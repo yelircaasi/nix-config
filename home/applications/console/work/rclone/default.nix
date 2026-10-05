@@ -5,7 +5,7 @@
   ...
 }: {
   home.packages = [
-    pkgs.rclone
+    (pkgs.lib.mkIf pkgs.stdenv.hostPlatform.isDarwin pkgs.rclone)
   ];
   #xdg.configFile.jira = {
   #  source = ./jira;

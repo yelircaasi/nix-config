@@ -11,6 +11,6 @@
     # ./jira
     # ./k8s-rancher
     ./mdm
-    (lib.mkIf pkgs.stdenv.hostPlatform.isDarwin ./rclone)
+    ./rclone
   ];
 }

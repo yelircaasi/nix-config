@@ -7,25 +7,26 @@
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
     minimnal = with pkgs; [
-      xan
+      xan # PLACEHOLDERLINK
     ];
+    # TODONEXT
     core = with pkgs; [
-      pandoc # TODO::prio2: add extras and lua filters: https://pandoc.org/extras.html, https://github.com/pandoc/lua-filters, https://github.com/pandoc-ext/info
-      remarshal
-      dasel
-      sq
+      pandoc # PLACEHOLDERLINK # TODO::prio2: add extras and lua filters: https://pandoc.org/extras.html, https://github.com/pandoc/lua-filters, https://github.com/pandoc-ext/info
+      remarshal # PLACEHOLDERLINK
+      dasel # PLACEHOLDERLINK
+      sq # PLACEHOLDERLINK
 
-      toml2nix
-      regex2json
+      toml2nix # PLACEHOLDERLINK
+      regex2json # PLACEHOLDERLINK
 
-      mypkgs.bafi
-      xidel
+      mypkgs.bafi # PLACEHOLDERLINK
+      xidel # PLACEHOLDERLINK
 
       # miscellaneous
-      # xurls  TODO::prio2: fix
+      # xurls # PLACEHOLDERLINK  TODO::prio2: fix
     ];
     extended = with pkgs; [
-      gdrive3
+      gdrive3 # PLACEHOLDERLINK
     ];
   };
 }

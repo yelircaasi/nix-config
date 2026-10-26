@@ -1,8 +1,8 @@
 {
-  config,
-  inputs,
+  # config,
+  # inputs,
   pkgs,
-  mypkgs,
+  # mypkgs,
   g,
   deviceConfig,
   ...
@@ -23,22 +23,22 @@ in {
       [rustToolchain]
       ++ (with pkgs; [
         # Rust development tools
-        cargo-watch # Auto-rebuild on file changes
-        cargo-edit # cargo add, cargo rm commands
-        cargo-outdated # Check for outdated dependencies
-        cargo-audit # Security vulnerability scanner
-        cargo-flamegraph
-        cargo-modules
-        bacon # Background rust code checker
+        cargo-watch # Auto-rebuild on file changes # PLACEHOLDERLINK
+        cargo-edit # cargo add, cargo rm commands # PLACEHOLDERLINK
+        cargo-outdated # Check for outdated dependencies # PLACEHOLDERLINK
+        cargo-audit # Security vulnerability scanner # PLACEHOLDERLINK
+        cargo-flamegraph # PLACEHOLDERLINK
+        cargo-modules # PLACEHOLDERLINK
+        bacon # Background rust code checker # PLACEHOLDERLINK
 
-        just
+        just # PLACEHOLDERLINK
 
         # Documentation
-        mdbook # For writing documentation
+        mdbook # For writing documentation # PLACEHOLDERLINK
 
-        # rustfmt
-        # rust-analyzer
-        gcc
+        # rustfmt # PLACEHOLDERLINK
+        # rust-analyzer # PLACEHOLDERLINK
+        gcc # PLACEHOLDERLINK
       ]);
   };
 }

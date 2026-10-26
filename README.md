@@ -84,6 +84,12 @@ Coming soon...
 
 ## Roadmap
 
+- [ ] set up upower
+  - [options](https://mynixos.com/nixpkgs/options/services.upower)
+  - [wikipedia](https://en.wikipedia.org/wiki/UPower)
+  - [docs](https://upower.freedesktop.org/docs/)
+  - [package](https://search.nixos.org/packages?channel=26.05&query=upower#show=upower)
+
 - [ ] add copilot and opencode (see [article](https://blog.f12.no/wp/2025/09/22/using-claude-code-with-github-copilot-a-guide/))
 
 - [ ] `{0.999}` `[nvim]` `vim.keymap.set("x", "p", [["_dP]])`

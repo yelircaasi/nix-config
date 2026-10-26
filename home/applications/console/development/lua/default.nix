@@ -1,16 +1,16 @@
 {
-  config,
-  inputs,
+  # config,
+  # inputs,
   pkgs,
-  mypkgs,
+  # mypkgs,
   g,
   deviceConfig,
   ...
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
     minimal = with pkgs; [
-      lua-language-server
-      stylua
+      lua-language-server # PLACEHOLDERLINK
+      stylua # PLACEHOLDERLINK
     ];
   };
 }

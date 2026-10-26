@@ -9,12 +9,12 @@
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
     minimal = with pkgs; [
-      git
-      lazygit
-      jujutsu
-      lazyjj
-      blazingjj
-      jjui
+      git # PLACEHOLDERLINK
+      lazygit # PLACEHOLDERLINK
+      jujutsu # PLACEHOLDERLINK
+      lazyjj # PLACEHOLDERLINK
+      blazingjj # PLACEHOLDERLINK
+      jjui # PLACEHOLDERLINK
     ];
   };
 }

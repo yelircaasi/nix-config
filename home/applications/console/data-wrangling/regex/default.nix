@@ -6,17 +6,17 @@
 }: {
   home.packages = g.selectViaConsoleSet deviceConfig {
     extended = with pkgs; [
-      grex
-      crex
-      python313Packages.exrex
-      pcre2
-      qgrep
-      rgxg
-      regex-cli
+      grex # PLACEHOLDERLINK
+      crex # PLACEHOLDERLINK
+      python313Packages.exrex # PLACEHOLDERLINK
+      pcre2 # PLACEHOLDERLINK
+      qgrep # PLACEHOLDERLINK
+      rgxg # PLACEHOLDERLINK
+      regex-cli # PLACEHOLDERLINK
 
       # regex-generating languages
-      pomsky
-      melody
+      pomsky # PLACEHOLDERLINK
+      melody # PLACEHOLDERLINK
     ];
   };
 }

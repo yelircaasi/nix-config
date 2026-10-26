@@ -7,23 +7,23 @@
   home.packages = g.selectViaConsoleSet deviceConfig {
     extended = with pkgs; [
       # calculation
-      libqalculate
-      programmer-calculator
-      kalker
-      eva
+      libqalculate # PLACEHOLDERLINK
+      programmer-calculator # PLACEHOLDERLINK
+      kalker # PLACEHOLDERLINK
+      eva # PLACEHOLDERLINK
 
       # conversion
-      units
+      units # PLACEHOLDERLINK
 
       # miscellaneous dev tools
-      dtool # failed to build - TODO::prio2
+      dtool # failed to build - TODO::prio2 # PLACEHOLDERLINK
 
       # date
-      dateutils
+      dateutils # PLACEHOLDERLINK
 
       # binary calculation
-      bitwise
-      bcal
+      bitwise # PLACEHOLDERLINK
+      bcal # PLACEHOLDERLINK
     ];
   };
 }

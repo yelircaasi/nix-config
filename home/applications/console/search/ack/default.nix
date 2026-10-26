@@ -4,5 +4,7 @@
   deviceConfig,
   ...
 }: {
-  home.packages = [pkgs.ack];
+  home.packages = [
+    pkgs.ack # https://beyondgrep.com/documentation/
+  ];
 }

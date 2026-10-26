@@ -26,35 +26,38 @@
 
 ### Search and replace
 
-- [ ] [ack]()
-- [ ] [ast-grep]()
-- [ ] [fd]()
-- [ ] [frawk]()
-- [ ] [fselect]()
-- [ ] [fzf]()
-- [ ] [ripgrep-all]()
-- [ ] [repgrep]()
-- [ ] [vgrep]()
+- [ ] [ack](https://beyondgrep.com/documentation) [source](https://github.com/beyondgrep/ack3)
+- [ ] [ast-grep](https://ast-grep.github.io/) [source](https://github.com/ast-grep/ast-grep)
+- [ ] [fd](https://github.com/sharkdp/fd)
+- [ ] [frawk](https://github.com/ezrosent/frawk)
+- [ ] [fselect](https://github.com/jhspetersson/fselect)
+- [ ] [fzf](https://github.com/junegunn/fzf)
+- [ ] [ripgrep-all](https://github.com/phiresky/ripgrep-all) and pure [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [ ] [repgrep](https://github.com/acheronfail/repgrep)
+- [ ] [vgrep](https://github.com/vrothberg/vgrep)
 - [ ] [amber](https://github.com/dalance/amber)
 - [ ] [sd](https://github.com/chmln/sd)
 - [ ] [sad](https://github.com/ms-jpq/sad)
 - [ ] [ruplacer](https://codeberg.org/your-tools/ruplacer)
-- [ ] [silver-searcher-ng (ag)]()
-- [ ] [skim]()
-- [ ] [ugrep]()
-- [ ] [zf]()
+- [ ] [silver-searcher (ag)](https://github.com/ggreer/the_silver_searcher/) [see also](https://geoff.greer.fm/2014/10/13/help-me-get-to-ag-10/)
+- [ ] [skim](https://github.com/skim-rs/skim)
+- [ ] [ugrep](https://github.com/Genivia/ugrep)
+- [ ] [zf](https://github.com/natecraddock/zf)
+
+- [ ] [sift](https://sift-tool.org)
+- [ ] [awk (gawk)](https://www.gnu.org/software/gawk/) [see also extensions](https://search.nixos.org/packages?buckets={%22package_attr_set%22:[%22gawkextlib%22],%22package_license_set%22:[],%22package_maintainers_set%22:[],%22package_teams_set%22:[],%22package_platforms%22:[]}&channel=26.05&query=gawk)
 
 ### Navigation
 
-- [broot]()
-- [pazi]()
-- [zoxide]()
+- [broot](https://dystroy.org/broot/)
+- [pazi](https://github.com/euank/pazi)
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
 
-### History
+### History (not yet in config)
 
-- []()
-- []()
-- []()
+- [atuin](https://github.com/atuinsh/atuin) [webpage](https://atuin.sh/)
+- [hstr](https://github.com/dvorka/hstr)
+- [hishtory](https://github.com/ddworken/hishtory)
 
 ### Browser
 
@@ -102,6 +105,7 @@
 
 ### Diff
 
+- [ ] [delta]()
 - [ ] [dyff]()
 - [ ] [difftastic]()
 - [ ] [graphtage]()
@@ -198,6 +202,10 @@
 - [ ] []()
 - [ ] []()
 
+### Shell
+
+- [ ] [shellcheck](https://hackage.haskell.org/package/ShellCheck)
+- [ ] [shellz](https://github.com/evilsocket/shellz)
 
 ## Notes on Integration with Neovim and WezTerm
 

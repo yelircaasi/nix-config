@@ -98,8 +98,8 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
-    # nix-treesitter = {
-    #   url = "github:ratson/nix-treesitter/d9d35e37a5b2aee2f3f4d14c66e2bf0604dae4ce";
+    # nix-tree sitter = {
+    #   url = "github:ratson/nix-tree sitter/d9d35e37a5b2aee2f3f4d14c66e2bf0604dae4ce";
     #   inputs.nixpkgs.follows = "nixpkgs";
     # };
 

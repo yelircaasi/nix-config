@@ -6,7 +6,7 @@ in rec {
   # refer to: https://neovim.io/doc/user/lsp_html
   #           https://neovim.io/doc/user/syntax.html
   #           https://gist.github.com/swarn/fb37d9eefe1bc616c2a7e476c0bc0316
-  #           https://github.com/nvim-treesitter/nvim-treesitter/blob/master/README.md
+  #           https://github.com/nvim-treesitter/nvim-tree sitter/blob/master/README.md
   #------------------------------------------------- Terminal colors
   terminalColor00 = p.myBlack; # black
   terminalColor01 = p.myRed; # red

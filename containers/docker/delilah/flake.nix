@@ -1,8 +1,8 @@
 {
   description = "The contents of https://thewagner.net";
 
-  inputs.nixpkgs.url = "github:nixos/nixpkgs/908514a0885f889432825e9ac71842ca444e8bd5";
-  inputs.flake-utils.url = "github:numtide/flake-utils";
+  inputs.nixpkgs.url = "github:nixos/nixpkgs/c57a028c30068aa2a7e00fa87300804dab748ff5"; # updated 2026-10-27
+  inputs.flake-utils.url = "github:numtide/flake-utils/b7a79d3fea1e214f6d668d521cecec0c01e26544"; # updated 2026-10-27
 
   outputs = {
     self,
@@ -10,12 +10,12 @@
     flake-utils,
   }:
     flake-utils.lib.eachDefaultSystem
-    (system: let
+    (system_: let
       revision = "${self.lastModifiedDate}-${self.shortRev or "dirty"}";
 
-      system = "x86_64-linux";
+      system_ = "x86_64-linux";
 
-      pkgs = nixpkgs.legacyPackages.${system};
+      pkgs = nixpkgs.legacyPackages.${system_};
 
       pythonEnv = pkgs.python313.withPackages (ps:
         with ps; [

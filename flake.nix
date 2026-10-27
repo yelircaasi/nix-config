@@ -40,7 +40,7 @@
 
   inputs = {
     nixpkgs = {
-      url = "github:nixos/nixpkgs/5bacb6c43c4f82f7265acab8e1437660cc752a97"; # updated 09-2026
+      url = "github:nixos/nixpkgs/c57a028c30068aa2a7e00fa87300804dab748ff5"; # updated 2026-10-27
       # config = {allowUnfree = true;};
     };
 
@@ -50,18 +50,18 @@
     };
 
     neovim-nightly-overlay = {
-      url = "github:nix-community/neovim-nightly-overlay/47394c8e8ad56c63181864924d781045f602e472";  # updated 09-2026
+      url = "github:nix-community/neovim-nightly-overlay/47394c8e8ad56c63181864924d781045f602e472"; # updated 09-2026
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     rust-overlay = {
-      url = "github:oxalica/rust-overlay/fb058ecf6d14837ea152a3d5225ce7f88ee5cde1"; # updated 2026-09
+      url = "github:oxalica/rust-overlay/c7e9d512653a35ef4d5879c3df4d44d7b78d0e6d"; # updated 2026-10-27
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     # TODO::prio1
     neovim-flake = {
-      url = github:yelircaasi/neovim-flake/b64271c80b9334cd9ea1174993cb14e12a4b80da; # updated 2026-09
+      url = github:yelircaasi/neovim-flake/306dd0fea69f6ab7c633fadfd15307bf94793e4d; # updated 2026-10-27
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.neovim-nightly-overlay.follows = "neovim-nightly-overlay";
       inputs.blink-lib.follows = "blink-lib";

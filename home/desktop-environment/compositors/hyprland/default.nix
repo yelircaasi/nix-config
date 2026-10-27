@@ -90,12 +90,12 @@ in {
     hyprland-autoname-workspaces
     hyprpicker # color picker
     hyprpaper # move
-    swww # move
+    awww # move
     hyprshell
     # mpvpaper # Live wallpaper
     # scratchpad
     quickshell # move
-    noctalia-shell # move
+    noctalia # move
   ];
 
   xdg.configFile =

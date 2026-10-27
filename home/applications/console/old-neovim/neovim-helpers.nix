@@ -6,7 +6,7 @@
   g,
   ...
 }: let
-  neovim-nightly = inputs.neovim-nightly-overlay.packages.${pkgs.system}.neovim;
+  neovim-nightly = inputs.neovim-nightly-overlay.packages.${neovimConfig.system}.neovim;
 
   # TO FLATTEN ATTRSET OIF LISTS
   # let
@@ -293,7 +293,7 @@ mergeAttrs = with lib; attrSetList:
   output = boilerplate // (mergeAttrs [basicSet featureSet languageSet]);
 
   fullConfig = import ./full-config.nix;
-  neovim-nightly = inputs.neovim-nightly-overlay.packages.${pkgs.system}.neovim;
+  neovim-nightly = inputs.neovim-nightly-overlay.packages.${neovimConfig.system}.neovim;
   custom=import ./plugins/custom-plugins.nix {inherit pkgs;};
   languageSet = import ./languages {inherit pkgs g;};
   py = pkgs.python310Packages;

@@ -102,7 +102,7 @@ in {
         notificationDaemon = "mako";
         widgetTools = ["quickshell"];
       };
-      additionalModules = [./home/applications/console/ai];
+      additionalModules = []; #[./home/applications/console/ai];
     };
   betsy =
     defaultDeclarationGui

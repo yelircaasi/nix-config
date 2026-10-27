@@ -3,7 +3,7 @@
     enable = true;
     # catppuccin.enable = true;
     plugins = [
-      # inputs.hyprland-plugins.packages.${pkgs.system}.hyprtrails
+      # inputs.hyprland-plugins.packages.${pkgs.stdenv.hostPlatform.system}.hyprtrails
     ];
     settings = {
       exec-once = [

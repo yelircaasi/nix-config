@@ -27,10 +27,10 @@
   #     relogin = true;
   #   };
   #   stopScript = ''
-  #     # pkill -15 swww-daemon
-  #     # if [ -f /run/user/1000/swww.socket ]
+  #     # pkill -15 awww-daemon
+  #     # if [ -f /run/user/1000/awww.socket ]
   #     # then
-  #     #   rm /run/user/1000/swww.socket
+  #     #   rm /run/user/1000/awww.socket
   #     # fi
   #     pkill -9 Hyprland
   #   '';

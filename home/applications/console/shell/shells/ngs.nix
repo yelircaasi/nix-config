@@ -11,5 +11,5 @@
 }: let
   shellName = "ngs";
 in {
-  home.packages = [mypkgs.${shellName}];
+  home.packages = []; # TODO: FIX BROKEN PACKAGE [mypkgs.${shellName}];
 }

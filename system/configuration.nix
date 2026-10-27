@@ -53,7 +53,7 @@
   # This will add each flake input as a registry to make nix3 commands consistent with your flake
   nix = {
     settings = {
-      experimental-features = "nix-command flakes";
+      experimental-features = ["nix-command" "flakes"];
       auto-optimise-store = true;
       trusted-public-keys = [
         "hydra.iohk.io:f/Ea+s+dFdN+3Y/G+FDgSq+a5NEWhJGzdjvKNGv0/EQ="

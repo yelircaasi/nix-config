@@ -1,10 +1,12 @@
 {
   pkgs,
   g,
-  # deviceConfig,
+  deviceConfig,
   ...
 }: {
-  home.packages = g.selectViaConsoleSet {
-    core = with pkgs; [openode];
-  };
+  # home.packages = g.selectViaConsoleSet deviceConfig {
+  #   minimal = [];
+  #   core = with pkgs; [opencode];
+  # };
+  home.packages = [pkgs.opencode];
 }

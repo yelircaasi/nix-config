@@ -4,11 +4,19 @@
   deviceConfig,
   ...
 }: let
-  _script =
-    pkgs.writers.writePython3Bin
-    "prepare-wallpapers"
-    {libraries = [pkgs.python313Packages.opencv-python-headless];}
-    (builtins.readFile ./prepare_wallpapers.py);
+  python = pkgs.python313.withPackages (ps: [
+    ps.opencv-python-headless
+  ]);
+
+  _script = pkgs.writeShellScriptBin "prepare-wallpapers" ''
+    exec ${python}/bin/python ${./prepare_wallpapers.py} "$@"
+  '';
+
+  # _script =
+  #   pkgs.writers.writePython3Bin
+  #   "prepare-wallpapers"
+  #   {libraries = [pkgs.python313Packages.opencv-python-headless];}
+  #   (builtins.readFile ./prepare_wallpapers.py);
 
   setupNames = builtins.concatStringsSep "," deviceConfig.monitorSetups;
   imageName = deviceConfig.wallpaper;

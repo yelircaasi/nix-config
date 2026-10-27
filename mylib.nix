@@ -2,14 +2,14 @@
   inputs,
   g,
 }: let
-  makePkgs = system:
+  makePkgs = system_:
     import inputs.nixpkgs {
-      inherit system;
+      system = system_;
       config.allowUnfree = true;
       overlays = with inputs;
         [(import rust-overlay)]
         ++ (
-          if system == "x86_64-linux"
+          if system_ == "x86_64-linux"
           then [nixgl.overlay]
           else []
         );

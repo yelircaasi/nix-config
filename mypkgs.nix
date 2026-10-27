@@ -1288,7 +1288,7 @@ in {
   };
 
   # TODO: package as own flake, to make pinning to rev easier
-  ngs = let
+  FIXME_ngs = let
     inherit
       (pkgs)
       lib
@@ -1300,7 +1300,7 @@ in {
       boehmgc
       libffi
       json_c
-      pcre
+      pcre2
       pandoc
       ;
     # NGS's CMakeLists.txt does `find_program(LEG leg)` and, if it's not on
@@ -1348,7 +1348,7 @@ in {
       '';
 
       nativeBuildInputs = [cmake pkg-config peg-leg pandoc];
-      buildInputs = [boehmgc libffi json_c pcre];
+      buildInputs = [boehmgc libffi json_c pcre2];
 
       cmakeFlags = [
         # If uncommented, skip man-page generation so pandoc isn't required just to get a binary.

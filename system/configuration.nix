@@ -9,6 +9,7 @@
   imports =
     [
       ./hardware-configuration.nix
+      ./modules/battery.nix
       ./modules/compositor/hyprland.nix
       ./modules/container.nix
       ./modules/desktop-environment/gnome
